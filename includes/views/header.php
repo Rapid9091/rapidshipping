@@ -486,7 +486,7 @@
 </script>
 
 <!-- ------------------------------- -->
-<!-- ---dialog box on leaving site--- -->
+<!-- ---- dialog box on leaving site ---- -->
 <!-- ------------------------------- -->
 
 <dialog id="offer_container">
