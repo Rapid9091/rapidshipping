@@ -1,0 +1,7 @@
+# file names so that they cannot get live
+
+.git
+pages/footer-new-design.php
+dummy.php
+text.html
+new.svg

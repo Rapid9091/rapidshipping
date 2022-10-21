@@ -1,0 +1,164 @@
+.services-main-heading-big {
+    font-size: 35px;
+    font-weight: 700;
+    padding: 1% 0;
+    text-transform: uppercase;
+    color: var(--color-bg-2);
+    text-align: center;
+    margin-top: 3%;
+}
+
+
+/* internal paras for the headings */
+
+.services-subtheory-lines-small {
+    font-size: 16px;
+    letter-spacing: 0.2px;
+    word-spacing: 0.5px;
+    padding: 0% 0;
+}
+
+.button-square-for-every-page {
+    padding: 8px 15px;
+    font-size: 16px;
+    background-color: var(--color-bg-2);
+    color: var(--color-bg-3);
+    cursor: pointer;
+    border: 1px solid var(--color-bg-2);
+}
+
+.button-square-for-every-page:hover {
+    background-color: var(--color-bg-3);
+    color: var(--color-bg-2);
+    border: 1px solid var(--color-bg-2);
+}
+
+.button-circle-for-every-page {
+    padding: 8px 15px;
+    border-radius: 50%;
+    font-size: 16px;
+    background-color: var(--color-bg-2);
+    color: var(--color-bg-3);
+    cursor: pointer;
+    border: 1px solid var(--color-bg-2);
+}
+
+.button-circle-for-every-page:hover {
+    background-color: var(--color-bg-3);
+    color: var(--color-bg-2);
+    border: 1px solid var(--color-bg-2);
+}
+
+
+/* us map for services section */
+
+.us-map-services-section {
+    width: 800px;
+    height: 100%;
+}
+
+.city-list-in-state-page {
+    display: flex;
+    list-style: disc;
+    flex-wrap: wrap;
+    margin-top: 2%;
+}
+
+.city-list-in-state-page>li {
+    list-style: disc !important;
+    margin: 5px 20px;
+    color: var(--color-bg-2);
+    font-size: 18px;
+}
+
+
+/* related guides section */
+
+
+/* map section satrts here of big us map */
+
+.military-shipping-ninth-section>img {
+    height: 100%;
+    width: 800px;
+}
+
+.related-guides-section-servicves {
+    background-color: var(--section-background);
+    padding: 4% 2%;
+}
+
+.services-types-related-guides-texts {
+    font-size: 18px !important;
+    color: #1268f5;
+    line-height: 28px;
+    cursor: pointer;
+}
+
+.services-types-related-guides-texts:hover {
+    color: var(--color-black);
+    transition-delay: 0.3s;
+    transition-property: smooth;
+}
+
+
+/* media queries  */
+
+@media only screen and (max-width:800px) {
+    .us-map-services-section {
+        width: 600px;
+        height: 100%;
+    }
+    .services-main-heading-big {
+        font-size: 35px;
+        line-height: 40px;
+        padding: 2% 0;
+        font-weight: 600;
+    }
+    .services-types-related-guides-texts {
+        font-size: 18px !important;
+        color: #1268f5;
+        line-height: 25px;
+    }
+    .military-shipping-ninth-section>img {
+        height: 100%;
+        width: 600px;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    .us-map-services-section {
+        width: 350px;
+        height: 100%;
+    }
+    .services-main-heading-big {
+        font-size: 30px;
+        line-height: 40px;
+        padding: 2% 0;
+        font-weight: 600;
+        text-align: center;
+    }
+    .services-types-related-guides-texts {
+        font-size: 18px !important;
+        color: #1268f5;
+        line-height: 22px;
+    }
+    .military-shipping-ninth-section>img {
+        height: 100%;
+        width: 350px;
+    }
+    .military-shipping-tenth-section-content {
+        grid-template-columns: unset;
+    }
+    .services-main-heading-big {
+        font-size: 25px;
+        line-height: 28px;
+    }
+    /* internal paras for the headings */
+    .services-subtheory-lines-small {
+        font-size: 14px;
+        line-height: 22px;
+        letter-spacing: unset;
+        word-spacing: unset;
+        text-align: justify;
+    }
+}

@@ -1,0 +1,47 @@
+.all-state-name-page-main {
+    background-color: var(--section-background);
+    padding: var(--all-section-padding);
+}
+
+.all-state-name-page-main>h2 {
+    text-align: center;
+    color: var(--color-bg-2);
+    font-size: 35px;
+    margin-bottom: 2%;
+    line-height: 1.3;
+}
+
+.all-state-name-page {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.all-state-name-grid {
+    margin: 2% 0;
+}
+
+.all-state-name-grid>a {
+    color: var(--color-black);
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 2;
+}
+
+.all-state-name-grid>a:hover {
+    color: var(--color-bg-2);
+}
+
+@media screen and (max-width: 800px) {
+    .all-state-name-page {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .all-state-name-page {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

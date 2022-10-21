@@ -1,0 +1,324 @@
+/* new css starts here */
+
+.first-section-contact-us {
+    background-image: url(../images/contact-us-bg.jpg);
+    height: 50vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 5%;
+}
+
+.first-section-contact-us-mask {
+    padding: 4%;
+    background-color: rgba(0, 0, 0, 0.466);
+    text-align: center;
+}
+
+.first-section-contact-us-mask>h1 {
+    font-size: 70px;
+    font-weight: 900;
+    color: var(--color-txt-1);
+}
+
+
+/* second section starts here */
+
+.second-section-contact-us {
+    padding: 5%;
+    display: grid;
+    grid-template-columns: 40% 1fr;
+    grid-gap: 5%;
+    background-color: var(--section-background);
+}
+
+.second-section-contact-us-left>h2 {
+    text-transform: uppercase;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.second-section-contact-us-left-grid {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 6% 1fr;
+    grid-gap: 5%;
+    font-size: 16px;
+    margin-top: 2%;
+    justify-content: center;
+    align-items: center;
+}
+
+.second-section-contact-us-left-grid-text>p>b>a {
+    color: var(--color-bg-2);
+    font-size: 20px;
+}
+
+.second-section-contact-us-left-grid-text>p>b>a:hover {
+    color: black;
+}
+
+.second-section-contact-us-left-grid-icon>i {
+    color: var(--color-bg-2);
+    line-height: 2;
+    font-size: 25px;
+}
+
+.second-section-contact-us-right-grid {
+    grid-template-columns: 6% 40% 1fr;
+    margin-top: 2%;
+    border-bottom: 1px solid var(--color-bg-2);
+    width: 80%;
+}
+
+
+/* this is the third section */
+
+.contact-us-third-section {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    padding: 3% 5%;
+    grid-gap: 10%;
+}
+
+.contact-us-third-section-image>iframe {
+    width: 100%;
+    height: 400px;
+}
+
+.contact-us-third-section-form>p:first-child {
+    font-size: 20px;
+    margin: 1% 0;
+}
+
+.contact-us-third-section-form>p:nth-child(2) {
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+}
+
+.contact-us-third-section-form>p:nth-child(2)>input {
+    font-size: 16px;
+    margin: 3% 0;
+    margin-left: 15px;
+}
+
+.contact-us-third-section-form>input {
+    width: 100%;
+    border: 1px solid var(--color-bg-2);
+    font-size: 18px;
+    padding: 5px 8px;
+    border-radius: 4px;
+    margin: 2% 0;
+    background: var(--section-background);
+}
+
+.contact-us-third-section-form>textarea {
+    width: 100%;
+    width: 463px;
+    height: 122px;
+    border: 1px solid var(--color-bg-2);
+    font-size: 18px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin: 3% 0;
+    background: var(--section-background);
+}
+
+.contact-us-third-section-form>button {
+    padding: 10px 38px;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 34px;
+    background-color: var(--color-bg-2);
+    color: var(--color-txt-1);
+    font-weight: 500;
+    outline: none;
+    border: 1px solid var(--nav-color);
+}
+
+.contact-us-third-section-form>button:hover {
+    background-color: var(--color-txt-1);
+    color: var(--nav-color);
+    border: 1px solid var(--nav-color);
+}
+
+
+/* this is the fourth section */
+
+.contact-us-fourth-section {
+    background-image: url('../images/contct-us-fourth-sect.png');
+    height: 310px;
+    width: 100%;
+    padding: 5%;
+    padding-left: 5%;
+    color: var(--color-txt-1);
+}
+
+.contact-us-fourth-section>p:first-child {
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.ready-to-ship-monterway-content {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    margin: 2% 0;
+}
+
+.ready-to-ship-monterway-content>p>b>a {
+    color: var(--color-bg-2);
+}
+
+.ready-to-ship-monterway-content>button {
+    padding: 10px 38px;
+    height: 70px;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: var(--color-bg-2);
+    color: var(--color-txt-1);
+    font-weight: 500;
+    outline: none;
+    border: 1px solid var(--nav-color);
+}
+
+.ready-to-ship-monterway-content>button:hover {
+    background-color: var(--color-txt-1);
+    color: var(--nav-color);
+    border: 1px solid var(--nav-color);
+}
+
+
+/* media query */
+
+@media only screen and (max-width: 800px) {
+    .contact-us-header-page {
+        background-repeat: no-repeat;
+    }
+    .auto-ship-transport-main-heading {
+        font-size: 35px;
+    }
+    .contact-us-fourth-section {
+        height: max-content;
+    }
+    .contact-us-third-section {
+        grid-template-columns: 43% 47%;
+    }
+    .contact-us-second-section {
+        grid-template-columns: unset;
+    }
+    .ready-to-ship-monterway-content>button {
+        padding: 0px;
+    }
+    .contact-us-third-section-form>textarea {
+        /* max-width: 325px; */
+        height: 122px;
+    }
+    .ready-to-ship-monterway-content {
+        font-size: 18px;
+    }
+    .contact-us-header-page-content {
+        top: 25%;
+    }
+    .contact-us-third-section-form>textarea {
+        width: unset;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .contact-us-third-section {
+        display: unset;
+        padding: 0 3%;
+    }
+    .contact-us-header-page-content {
+        top: 20%;
+    }
+    .contact-us-third-section-image>iframe {
+        height: 295px;
+    }
+    .contact-us-header-page-content>p:last-child {
+        font-size: 16px;
+    }
+    .contact-us-header-page-content>p:first-child {
+        font-size: 50px;
+    }
+    .contact-us-second-section-grid {
+        padding: 3% 0;
+    }
+    .auto-ship-transport-main-heading {
+        font-size: 25px;
+    }
+    .contact-us-second-section {
+        display: unset;
+    }
+    .auto-ship-transport {
+        padding: 0 4%;
+    }
+    .Buisness-hour-central {
+        padding: 0 4%;
+        margin: 8% 0;
+    }
+    .contact-us-third-section-image {
+        padding: 0 4%;
+    }
+    .contact-us-third-section-form {
+        padding: 0 4%;
+    }
+    .ready-to-ship-monterway-content {
+        display: unset;
+    }
+    .ready-to-ship-monterway-content>button {
+        margin: 4% 0;
+        padding: 10px 38px;
+        height: 40px;
+    }
+    .ready-to-ship-monterway-content>p {
+        margin: 2% 0;
+        line-height: unset;
+        font-size: 15px;
+        text-align: center;
+    }
+    .contact-us-fourth-section>p:first-child {
+        line-height: 42px;
+        text-align: center;
+    }
+    /* new css satrts here */
+    .first-section-contact-us {
+        width: unset;
+        height: unset;
+    }
+    .second-section-contact-us-right-grid {
+        width: unset;
+    }
+    .first-section-contact-us-mask>h1 {
+        font-size: 39px;
+    }
+    .second-section-contact-us {
+        grid-template-columns: unset;
+    }
+    .second-section-contact-us-left>h2 {
+        font-size: 25px;
+    }
+    .contact-us-third-section-form>textarea {
+        width: 345px;
+    }
+    .contact-us-fourth-section>p:first-child {
+        line-height: unset;
+    }
+    .contact-us-fourth-section>p:first-child {
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .ready-to-ship-monterway-content>p {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .contact-us-second-section-grid>button {
+        font-size: 13px;
+    }
+}

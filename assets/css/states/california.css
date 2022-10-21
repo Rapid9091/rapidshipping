@@ -1,0 +1,557 @@
+.california-state-span {
+  color: var(--nav-color);
+}
+
+/* ------------------------ */
+/* ------ first section ---- */
+/* ------------------------ */
+
+.first-california-state {
+  padding: var(--all-section-padding);
+}
+.first-california-state > h2 {
+  margin-bottom: 4%;
+  text-align: center;
+}
+.first-california-state-grid {
+  grid-template-columns: 60% 1fr;
+  grid-gap: 5%;
+}
+.first-california-state-grid-box {
+  background-color: var(--section-background);
+  padding: 2% 5%;
+  border-radius: 8px;
+  border: 1px solid var(--nav-color);
+}
+.first-california-state-grid-box > h3 {
+  text-align: center;
+  font-weight: 700;
+}
+.first-california-state-grid-box > ul > li {
+  font-size: 16px;
+  list-style: disc !important;
+  margin: 3% 0;
+  margin-left: 5%;
+}
+
+.first-california-state-grid-box > ul > li > a {
+  color: #222;
+}
+
+/* ------------------------ */
+/* ------ second section ---- */
+/* ------------------------ */
+
+.two-california-state {
+  padding: 5% 10%;
+}
+.two-california-state > img {
+  width: 100%;
+  height: 400px;
+  border-radius: 14px;
+}
+.two-california-state > p {
+  margin: 2% 0;
+  text-align: center;
+}
+.two-california-state > h2 {
+  text-align: center;
+  margin-bottom: 4%;
+}
+.two-california-state > ul {
+  margin-top: 2%;
+  gap: 2%;
+  grid-template-columns: repeat(6, 1fr);
+}
+.two-california-state > ul > li > ion-icon {
+  font-size: 22px;
+  margin-bottom: 2%;
+  color: var(--nav-color);
+}
+.two-california-state > ul > li {
+  padding: 10px 10px;
+  border-radius: 14px;
+  text-align: center;
+  margin-top: 5%;
+  border: 0.6px solid var(--nav-color);
+}
+
+.more-califrnian-cities {
+  border: 5px solid var(--nav-color);
+  margin-top: 5%;
+  border-radius: 8px;
+  background-color: var(--section-background);
+}
+.more-califrnian-cities > h2 {
+  margin-bottom: 4%;
+  color: var(--color-bg-3);
+  width: 100.5%;
+  margin-top: -0.2%;
+  margin-left: -0.2%;
+  text-align: center;
+  background-color: var(--nav-color);
+}
+.more-califrnian-cities > p {
+  padding: var(--tab-body-padding);
+  padding-top: 0;
+  word-spacing: 2px;
+}
+/* ------------------------ */
+/* ------ third section ---- */
+/* ------------------------ */
+
+.third-california-state {
+  padding: 0% 10%;
+}
+
+.third-california-state > h2 {
+  text-align: center;
+  margin-bottom: 4%;
+}
+
+.third-california-state-grid {
+  margin: 5% 0;
+}
+
+.third-california-state-grid-1 {
+  background-color: var(--color-bg-3);
+  padding: var(--tab-body-padding);
+  border: 1px solid #ecedee80;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
+    rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+  transition: all 0.3s;
+}
+.third-california-state-grid-1:hover {
+  box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px,
+    rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}
+.third-california-state-grid-1 > ion-icon {
+  font-size: 45px;
+  text-align: center;
+  font-weight: 700;
+  color: vaR(--nav-color);
+  margin: 5% 0;
+}
+
+.third-california-state-grid-1 > p {
+  margin: 5% 0;
+}
+.third-california-state-grid-1 > h3 {
+  font-size: 20px;
+  color: var(--nav-color);
+}
+.third-california-state-grid-1-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.third-california-state-grid-1-btn > button {
+  background-color: #fff;
+  height: max-content;
+  border: 1px solid var(--nav-color);
+  border-radius: 4px;
+}
+.third-california-state-grid-1-btn > button > a {
+  padding: 8px 14px;
+  line-height: 2.5;
+  font-size: 15px;
+  color: var(--nav-color);
+}
+.third-california-state-grid-1-btn > button:hover,
+.third-california-state-grid-1-btn > button:hover > a {
+  background-color: var(--nav-color);
+  color: var(--color-bg-3);
+  border-radius: 4px;
+}
+/* ------------------------ */
+/* ------ need fixes ---- */
+/* ------------------------ */
+
+.third-california-state-grid-1-btn
+  > button.third-california-state-grid-1-btn
+  > button
+  > a:hover {
+  color: var(--color-bg-3);
+  background-color: var(--nav-color);
+}
+
+/* ------------------------ */
+/* ------ fourth section ---- */
+/* ------------------------ */
+
+.fourth-california-state {
+  padding: 5% 10%;
+}
+
+.fourth-california-state > h2 {
+  text-align: center;
+  margin-bottom: 4%;
+}
+.fourth-california-state > p {
+  margin-top: 4%;
+}
+.offer-animator {
+  margin: 1% auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  height: 60px;
+  width: 210px;
+  background-color: var(--nav-color);
+}
+.offer-animator > span {
+  animation: offer_beat 0.8s infinite linear;
+  font-size: 25px;
+  font-weight: 700;
+  color: var(--color-bg-3);
+}
+
+@keyframes offer_beat {
+  to {
+    transform-origin: center center;
+    transform: scale(1.4);
+  }
+}
+
+/* ------------------------ */
+/* ------ five section ---- */
+/* ------------------------ */
+
+.five-california-state {
+  padding: 5% 10%;
+  background-color: var(--section-background);
+}
+.five-california-state-box {
+  box-shadow: 0 5px 30px 0 rgb(35 43 54 / 30%);
+  padding: var(--tab-body-padding);
+  border-radius: 8px;
+  background-color: #fff;
+}
+.five-california-state-box > h2 {
+  text-align: center;
+  margin-bottom: 4%;
+}
+.five-california-state-box > p {
+  text-align: center;
+}
+
+.five-california-state-box-btn > button {
+  background-color: var(--nav-color);
+  height: max-content;
+  border: 1px solid var(--nav-color);
+  border-radius: 4px;
+  margin-top: 4%;
+  transition: 0.5s;
+}
+.five-california-state-box-btn > button > a {
+  padding: 8px 14px;
+  line-height: 2.5;
+  color: var(--color-bg-3);
+  font-size: 15px;
+}
+.five-california-state-box-btn > button:hover,
+.five-california-state-box-btn > button:hover > a {
+  background-color: var(--color-bg-3);
+  border: 1px solid var(--nav-color);
+  color: var(--nav-color);
+  border-radius: 4px;
+}
+/* ------------------------ */
+/* ------ sixth section ---- */
+/* ------------------------ */
+
+.sixth-california-state {
+  padding: 5% 10%;
+  padding-top: 0;
+}
+
+.sixth-california-state > h2 {
+  text-align: center;
+  margin-bottom: 4%;
+}
+.sixth-california-state-gird-1 {
+  grid-template-columns: 55% 1fr;
+  gap: 5%;
+  margin-top: 5%;
+}
+
+.sixth-california-state-gird-1-img > img {
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+.sixth-california-state-gird-1-img-special > img {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.sixth-california-state-gird-1-content {
+  width: 100%;
+}
+.sixth-california-state-gird-1-content > p {
+  margin-top: 4%;
+}
+.sixth-california-state-gird-1-content > h3 {
+  font-weight: 700;
+}
+.sixth-california-state-gird-1-content > button {
+  background-color: var(--nav-color);
+  height: max-content;
+  margin-top: 2%;
+  border: 1px solid var(--nav-color);
+  border-radius: 4px;
+}
+.sixth-california-state-gird-1-content > button > a {
+  padding: 8px 14px;
+  line-height: 2.5;
+  font-size: 15px;
+  color: var(--color-bg-3);
+}
+.sixth-california-state-gird-1-content > button:hover,
+.sixth-california-state-gird-1-content > button:hover > a {
+  background-color: var(--color-bg-3);
+  border: 1px solid var(--nav-color);
+  color: var(--nav-color);
+  border-radius: 4px;
+}
+/* ------------------------ */
+/* ------ 10% offer -box ---- */
+/* ------------------------ */
+
+.ten-percent-offer-box {
+  padding: 5% 0;
+  background-color: black;
+  color: vaR(--color-bg-3);
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.ten-percent-offer-box > h2 {
+  font-size: 45px;
+  text-transform: uppercase;
+  color: vaR(--nav-color);
+  font-weight: 900;
+  text-align: center;
+}
+.ten-percent-offer-box > p {
+  color: fff9;
+  margin-top: 2%;
+  padding: 0 8%;
+  text-align: center;
+  font-size: 18px;
+}
+.ten-percent-offer-box > button {
+  height: max-content;
+  margin-top: 2%;
+  background-color: var(--nav-color);
+  border: 1px solid var(--nav-color);
+  border-radius: 6px;
+}
+
+.ten-percent-offer-box > button > a {
+  line-height: 2;
+  padding: 0 26px;
+  font-size: 18px;
+  color: var(--color-bg-3);
+}
+.ten-percent-offer-box > button:hover,
+.ten-percent-offer-box > button:hover > a {
+  background-color: var(--color-bg-3);
+  color: var(--nav-color);
+  border-radius: 4px;
+}
+/* ------------------------ */
+/* ------ sixth section ---- */
+/* ------------------------ */
+
+.seventh-california-state {
+  padding: 5% 10%;
+}
+
+.seventh-california-state-box {
+  grid-template-columns: 50% 1fr;
+  grid-gap: 5%;
+  padding: vaR(--tab-body-padding);
+  background-color: vaR(--section-background);
+  border-radius: 8px;
+  box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px,
+    rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}
+
+.seventh-california-state-box-img > img {
+  height: 100%;
+  width: 100%;
+}
+.seventh-california-state-box-content > h2 {
+  color: var(--nav-color);
+  font-weight: 700;
+}
+.seventh-california-state-box-content > button {
+  background-color: var(--nav-color);
+  height: max-content;
+  margin-top: 2%;
+  border: 1px solid var(--nav-color);
+  border-radius: 4px;
+}
+.seventh-california-state-box-content > button > a {
+  padding: 8px 14px;
+  line-height: 2.5;
+  font-size: 15px;
+  color: var(--color-bg-3);
+}
+.seventh-california-state-box-content > button:hover,
+.seventh-california-state-box-content > button:hover > a {
+  background-color: var(--color-bg-3);
+  border: 1px solid var(--nav-color);
+  color: var(--nav-color);
+  border-radius: 4px;
+}
+/* ------------------------ */
+/* ------ eight section ---- */
+/* ------------------------ */
+
+.eight-califorina-state {
+  padding: 5% 10%;
+  padding-bottom: 10%;
+  background-color: #000;
+  margin-bottom: 5%;
+}
+.eight-califorina-state > h2 {
+  color: vaR(--nav-color);
+  text-align: center;
+  margin-bottom: 4%;
+}
+.eight-califorina-state-grid-1 > ion-icon {
+  font-size: 45px;
+  color: vaR(--nav-color);
+}
+.eight-califorina-state-grid-1 > h2 {
+  font-weight: 700;
+  color: vaR(--nav-color);
+  margin-bottom: 2%;
+}
+.eight-califorina-state-grid-1 > p {
+  text-align: justify;
+}
+.eight-califorina-state-grid {
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 5%;
+}
+.eight-califorina-state-grid-1 {
+  color: #fff9;
+}
+
+@media screen and (max-width: 800px) {
+  .first-california-state-grid {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 0;
+  }
+  .first-california-state-grid-box {
+    margin-top: 5%;
+  }
+  .two-california-state > ul {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .third-california-state-grid.utility_grid-3 {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 0;
+  }
+  .third-california-state-grid-1 {
+    margin-top: 5%;
+  }
+  .sixth-california-state-gird-1 {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 0;
+  }
+  .sixth-california-state-gird-1-content {
+    margin-top: 5%;
+  }
+  .ten-percent-offer-box > h2 {
+    font-size: 30px;
+  }
+  .seventh-california-state-box {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 0;
+  }
+  .seventh-california-state-box-content {
+    margin-top: 5%;
+  }
+  .eight-califorina-state {
+    padding-bottom: 10%;
+  }
+}
+@media screen and (max-width: 500px) {
+  .first-california-state {
+    padding: 10% 5%;
+  }
+  .first-california-state-grid {
+    text-align: justify;
+  }
+  .two-california-state {
+    padding: 10% 5%;
+  }
+  .two-california-state > img {
+    height: 280px;
+  }
+  .two-california-state > ul {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 0;
+  }
+  .two-california-state > ul > li {
+    margin: 5%;
+  }
+  .more-califrnian-cities > p {
+    text-align: justify;
+  }
+  .third-california-state {
+    padding: 0% 5%;
+  }
+  .third-california-state-desc > p {
+    text-align: justify;
+  }
+  .fourth-california-state {
+    padding: 10% 5%;
+  }
+  .five-california-state {
+    padding: 10% 5%;
+  }
+  .five-california-state-box > p {
+    text-align: justify;
+    margin: 8% 0;
+  }
+  .sixth-california-state {
+    padding: 10% 5%;
+  }
+  .sixth-california-state-gird-1-content-special {
+    margin-bottom: 6%;
+  }
+  .sixth-california-state-gird-1-content > p {
+    text-align: justify;
+    margin-bottom: 5%;
+  }
+  .seventh-california-state {
+    padding: 10% 5%;
+  }
+  .seventh-california-state-box-content > p {
+    text-align: justify;
+    margin: 5% 0;
+  }
+  .eight-califorina-state {
+    padding: 10% 5%;
+  }
+  .eight-califorina-state {
+    padding-bottom: 25%;
+  }
+  .ten-percent-offer-box > h2 {
+    font-size: 25px;
+  }
+  .ten-percent-offer-box > p {
+    font-size: 18px;
+    margin-bottom: 4%;
+  }
+}

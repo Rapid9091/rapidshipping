@@ -1,0 +1,55 @@
+:root {
+    --main-body-padding: 5% 11% 0 11%;
+    --tab-body-padding: 5%;
+}
+
+.first-sub-service-page {
+    padding: var(--main-body-padding);
+}
+
+.sub-service-heading-main {
+    color: var(--color-bg-2);
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.military-shipping-sixth-section {
+    padding: var(--main-body-padding);
+    display: grid;
+    grid-template-columns: 50% 1fr;
+    grid-gap: 5%;
+}
+
+.military-shipping-sixth-section-img>img {
+    width: 100%;
+    height: 100%;
+}
+
+@media screen and (max-width: 800px) {
+    .military-shipping-sixth-section {
+        grid-template-columns: unset;
+        grid-gap: unset;
+    }
+    .first-sub-service-page {
+        padding: var( --tab-body-padding);
+    }
+    .military-shipping-sixth-section {
+        padding: var( --tab-body-padding);
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .sub-service-heading-main {
+        text-align: center;
+        line-height: 1.2;
+        font-size: 22px;
+    }
+    .first-sub-service-page {
+        padding: var( --tab-body-padding);
+    }
+    .military-shipping-sixth-section {
+        padding: var( --tab-body-padding);
+    }
+}

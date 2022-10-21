@@ -1,0 +1,162 @@
+.fourth-section {
+  padding: 2% 1% 2% 4%;
+}
+
+.fourth-section > h1 {
+  font-size: 44px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.fourth-section > h2 {
+  font-size: 22px;
+  text-align: center;
+  padding: 0 10%;
+  margin: 0px 0;
+  font-weight: 400;
+}
+
+.map-location {
+  width: 100%;
+  margin: 50px 0;
+  display: grid;
+  grid-template-columns: 54% 1fr;
+  grid-gap: 10px;
+}
+
+.map-div > img {
+  width: 100%;
+  height: 84%;
+}
+
+.location-div-left {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+}
+
+.location-div {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 3px;
+}
+
+.location-name {
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 13px;
+}
+
+.location-name > a {
+  font-size: 14px;
+  color: var(--color-black);
+  font-weight: 500;
+}
+
+.location-name > p {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--color-black);
+}
+
+.location-name > a:hover {
+  color: var(--nav-color);
+}
+
+.location-name-last {
+  display: none;
+}
+
+.location-name > img {
+  margin-right: 4px;
+}
+
+@media screen and (max-width: 1100px) {
+  .location-name > a {
+    font-size: 13px;
+  }
+  .location-name > p {
+    font-size: 13px;
+  }
+  .map-location {
+    grid-template-columns: 53% 1fr;
+  }
+  .location-div-left {
+    grid-gap: 5px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .location-div-left {
+    display: none;
+  }
+  .fourth-section > h1 {
+    font-size: 41px;
+    padding: 0 5%;
+  }
+  .location-name-last {
+    display: inline-flex;
+    align-items: center;
+  }
+  .map-location {
+    width: 100%;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-gap: 10px;
+  }
+  .map-div > img {
+    width: 100%;
+    height: 100%;
+  }
+  .fourth-section > p:first-child {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .map-div > img {
+    width: 95%;
+    height: 84%;
+  }
+  .fourth-section > h1 {
+    font-size: 32px;
+  }
+  .fourth-section > h2 {
+    font-size: 16px;
+    padding: 5%;
+    margin: 0;
+  }
+  .fourth-section > h1 {
+    margin-top: 2px;
+    font-size: 30px;
+    margin-top: 2px;
+  }
+  .fourth-section {
+    padding: 4% 1% 2% 1%;
+  }
+  .location-name > p {
+    font-size: 12px;
+  }
+  .location-name > a {
+    font-size: 12px;
+  }
+  .location-name > img {
+    width: 23px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .location-div {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+  }
+  .fourth-section > h1 {
+    font-size: 26px;
+  }
+  .fourth-section > h2 {
+    margin: 15px 0;
+    font-size: 14px;
+  }
+}

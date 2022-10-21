@@ -1,0 +1,295 @@
+/* header page starts here */
+
+.sts-transport-header-page {
+    width: 100%;
+    height: 80vh;
+    background-repeat: no-repeat, repeat;
+    background-image: url("../images/state-to-state-bg-1.jpg");
+    background-blend-mode: lighten;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10% 5%;
+}
+
+.sts-transport-header-page-internal {
+    padding: var(--all-section-padding);
+    background-color: #fff4f430;
+    backdrop-filter: blur(6px);
+    text-align: center;
+}
+
+.sts-transport-header-page-internal>h1 {
+    font-size: 35px;
+    line-height: 2;
+    color: #fff;
+}
+
+.sts-transport-header-page-internal>h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 2;
+    color: #fff;
+}
+
+
+/* grid section of body starts */
+
+.s-t-s-tranport-main-grid {
+    display: grid;
+    grid-template-columns: 65% 1fr;
+    padding: var(--all-section-padding);
+    grid-gap: 2%;
+}
+
+.review-for-s-t-s-transport>ul {
+    margin: 2% 0;
+}
+
+.list-0f-state-to-state-page {
+    list-style-type: disc !important;
+}
+
+
+/* state to state */
+
+.review-for-s-t-s-transport-first-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 8%;
+    padding: 5% 0;
+    text-align: center;
+}
+
+.callout-right-container-links>h2 {
+    margin: 2% 0;
+    color: var(--color-bg-2);
+}
+
+.callout-right-container-links>h4 {
+    margin: 2% 0;
+    text-align: center;
+}
+
+.callout-right-container-links>p {
+    margin: 2% 0;
+    line-height: 2;
+}
+
+
+/* .review-for-s-t-s-transport-grid-1 {} */
+
+.review-for-s-t-s-transport-grid-1-content-1 {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.review-for-s-t-s-transport-grid-1>h5 {
+    line-height: 2;
+    font-size: 16px;
+    margin-bottom: 5%;
+}
+
+.review-for-s-t-s-transport-grid-1>a {
+    width: 100%;
+}
+
+
+/* useful links section */
+
+.useful-links-for-sts-transport {
+    padding: var(--all-section-padding);
+    background-color: var(--section-background);
+}
+
+.useful-links-for-sts-transport>p>a {
+    padding: 5px;
+    color: var(--color-txt-4);
+    line-height: 1.7;
+}
+
+.useful-links-for-sts-transport>p>a:hover {
+    color: var(--color-txt-3);
+}
+
+
+/* review-section */
+
+.review-for-sts-transport-page {
+    padding: var(--all-section-padding);
+    display: grid;
+    grid-template-columns: 35% 20% 20% 20%;
+    grid-gap: 2%;
+    text-align: center;
+    place-items: center;
+}
+
+.review-for-sts-transport-page-1>p {
+    text-align: left;
+    margin: 4% 0;
+}
+
+.special-character {
+    font-size: 35px;
+    font-weight: bold;
+    color: var(--nav-color);
+    /* line-height: 2; */
+}
+
+.review-for-sts-transport-page-2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+}
+
+.review-for-sts-transport-page-2>p:first-child {
+    font-size: 35px;
+    color: var(--color-bg-1);
+    font-weight: bold;
+}
+
+.review-for-sts-transport-page-2>img {
+    width: 70%;
+    margin: 2%;
+}
+
+.review-section-img-container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
+
+.review-section-img-container>img {
+    height: 50px;
+}
+
+
+/* button container */
+
+.s-t-s-transport-quote-container {
+    padding: var(--all-section-padding);
+    background-color: var(--section-background);
+    display: grid;
+    place-items: center;
+}
+
+.s-t-s-transport-quote-container>h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.s-t-s-transport-quote-container>h3 {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.s-t-s-transport-quote-container>h3>a {
+    color: var(--color-bg-2);
+    font-weight: 700;
+}
+
+.s-t-s-transport-quote-container>a {
+    margin: 2% 0;
+}
+
+@media screen and (max-width: 1200px) {
+    .sts-transport-header-page {
+        height: 50vh;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .sts-transport-header-page {
+        height: 30vh;
+    }
+    .review-section-img-container {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .sts-transport-header-page {
+        height: unset;
+    }
+    .review-for-sts-transport-page {
+        display: grid;
+        grid-template-columns: unset;
+        grid-gap: unset;
+    }
+    .s-t-s-tranport-main-grid {
+        grid-template-columns: unset;
+    }
+    .useful-links-for-sts-transport {
+        text-align: justify;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .useful-links-for-sts-transport {
+        padding: var(--tab-body-padding);
+    }
+    .sts-transport-header-page {
+        height: unset;
+    }
+    .useful-links-for-sts-transport>p>a {
+        padding: unset;
+        font-size: 15px;
+        line-height: unset;
+    }
+    .review-for-sts-transport-page {
+        padding: var(--tab-body-padding);
+    }
+    .button-square-for-every-page {
+        padding: 6px;
+        font-size: 12px;
+        background-color: var(--color-bg-2);
+        color: var(--color-bg-3);
+        cursor: pointer;
+        border: 1px solid var(--color-bg-2);
+    }
+    .review-for-s-t-s-transport-grid-1>p {
+        line-height: unset;
+    }
+    .s-t-s-transport-quote-container>h2 {
+        font-size: unset;
+        font-weight: 700;
+    }
+    .s-t-s-transport-quote-container>h3 {
+        font-size: 12px;
+        font-weight: 400;
+        margin: 4% 0;
+    }
+    .sts-transport-header-page-internal>h1 {
+        font-size: 30px;
+        font-weight: 600;
+        line-height: unset;
+    }
+    .sts-transport-header-page-internal>h3 {
+        line-height: unset;
+    }
+    .services-subtheory-lines-small {
+        font-size: 14px !important;
+        text-align: justify;
+    }
+    .review-for-s-t-s-transport-grid-1>button {
+        width: 50%;
+    }
+    .review-for-s-t-s-transport-first-grid {
+        grid-template-columns: unset;
+    }
+    .review-for-sts-transport-page-1>p:first-child {
+        text-align: center;
+    }
+    .review-for-sts-transport-page-2 {
+        margin-bottom: 2%;
+    }
+    .s-t-s-transport-quote-container {
+        padding: var(--tab-body-padding);
+    }
+}

@@ -1,0 +1,13 @@
+.state-name-list-seo-copy {
+    padding: 5%;
+}
+
+.state-name-list-seo-copy>h3 {
+    text-align: center;
+    color: var(--color-bg-2);
+}
+
+.state-name-list-seo {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}

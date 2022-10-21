@@ -1,0 +1,155 @@
+.company-review-first-section {
+    width: 100%;
+    border-bottom: 1px solid var(--nav-color);
+}
+
+.company-review-grid-section {
+    display: grid;
+    padding: 5%;
+}
+
+.company-review-first-section>h1 {
+    text-align: center;
+    line-height: 2.5;
+    font-weight: 700;
+}
+
+.company-reviews-section {
+    width: 100%;
+    display: grid;
+    place-items: center;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.company-reviews-box {
+    width: 90%;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    margin-bottom: 50px;
+    border-radius: 4px;
+    margin-bottom: 50px;
+    border: 1px solid #f1d6d6;
+}
+
+.company-reviews-box>h6 {
+    line-height: 2;
+    margin: 15px 0;
+    font-size: 22px;
+    font-weight: 400;
+    text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.company-reviews-box>h6>a {
+    color: #000;
+}
+
+.company-reviews-box>h6:hover {
+    text-decoration: underline;
+}
+
+.company-reviews-star-box {
+    width: 60%;
+    margin: 20px auto;
+    padding: 10px;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    text-align: center;
+}
+
+.company-reviews-star-box>p {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.company-reviews-star-box>p>span {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.company-reviews-box-star {
+    display: inline-flex;
+    margin: 0 auto;
+}
+
+.company-reviews-box-star>i {
+    color: var(--nav-color);
+}
+
+.company-reviews-box-review {
+    border-top: 1px solid var(--nav-color);
+    background-color: #fff4f4;
+    height: 50px;
+    display: grid;
+    place-items: center;
+}
+
+.company-reviews-box-review>a {
+    padding: 7px 12px;
+    font-size: 16px;
+    text-decoration: none;
+    color: var(--nav-color);
+    text-align: center;
+}
+
+.company-reviews-box-review>a:hover {
+    text-decoration: underline;
+}
+
+.button-div-more>button {
+    padding: 6px 10px;
+    border-radius: 5px;
+    background-color: var(--nav-color);
+    border: 1px solid var(--nav-color);
+}
+
+.button-div-more>button:hover {
+    background-color: #ff3300;
+}
+
+.button-div-more>button>a {
+    font-size: 16px;
+    color: #fff;
+}
+
+.button-div-more {
+    width: 40%;
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 0 5%;
+    align-items: center;
+}
+
+.button-div-more>p>a:hover {
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 1000px) {
+    .company-reviews-section {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .company-reviews-section {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .company-review-first-section>h1 {
+        font-size: 28px;
+    }
+    .company-review-grid-section {
+        grid-template-columns: 100%;
+    }
+    .company-reviews-box {
+        width: 100%;
+    }
+    .company-reviews-star-box {
+        width: 60%;
+    }
+    .button-div-more {
+        width: 100%;
+    }
+}

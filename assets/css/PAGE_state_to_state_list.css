@@ -1,0 +1,132 @@
+:root {
+  --slider-width: 240px;
+  --admin-header-height: 52px;
+}
+main {
+  background-color: #fff4f4;
+  padding: 0 8% 5% 8%;
+}
+h1 {
+  text-align: center;
+  line-height: 3;
+}
+
+.breadcumb-search-parent {
+  padding: 1% 8% 2% 8%;
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.breadcumb > a {
+  margin: 0 10px;
+  text-decoration: underline;
+}
+.search {
+  background-color: #fff;
+  width: 30%;
+  padding: 7px 12px;
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 35px;
+}
+.search > input {
+  border: none;
+  outline: none;
+  font-size: 16px;
+  width: 70%;
+}
+.search-img {
+  padding: 7px 8px 2px 8px;
+  background-color: #ff5227;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.search-img > img {
+  width: 20px;
+}
+.table-box {
+  height: calc(100vh - calc(var(--admin-header-height) + 120px));
+  box-shadow: 0 1px 3px #00000026;
+  background-color: #fff;
+  overflow-y: scroll;
+}
+.box-table {
+  width: 100%;
+}
+.table-parent {
+  display: grid;
+  grid-template-columns: 20% 13% 20% 25% 22%;
+  width: 100%;
+  padding: 14px 2%;
+  background-color: #ff5227;
+  color: #fff;
+}
+.state-to-state-list {
+  border-bottom: 1px solid #000;
+}
+.table-child {
+  display: grid;
+  grid-template-columns: 20% 13% 20% 25% 22%;
+  width: 100%;
+  padding: 14px 2%;
+  background-color: #fff;
+}
+
+.table-child:nth-child(even) {
+  background-color: rgba(116, 116, 116, 0.205);
+}
+@media screen and (max-width: 1200px) {
+  main {
+    padding: 0 5% 5% 5%;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .table-parent {
+    grid-template-columns: 20% 10% 20% 32% 18%;
+  }
+  .table-child {
+    grid-template-columns: 20% 10% 20% 32% 18%;
+  }
+  .breadcumb-search-parent {
+    padding: 1% 2% 2% 2%;
+  }
+}
+@media screen and (max-width: 800px) {
+  main {
+    padding: 0 0% 5% 0%;
+  }
+  .breadcumb > a {
+    margin: 0 5px;
+    font-size: 13px;
+  }
+  .search {
+    width: 45%;
+  }
+  .search-img > img {
+    width: 15px;
+  }
+  .search-img {
+    padding: 4px 8px 2px 8px;
+  }
+  .search > input {
+    font-size: 14px;
+  }
+  .table-parent > div > p {
+    font-size: 13px;
+  }
+  .table-child > div > p {
+    font-size: 11px;
+  }
+  .table-child > div > a {
+    font-size: 10px;
+  }
+  .table-child > div:last-child {
+    text-align: center;
+  }
+  .table-parent > div:last-child {
+    text-align: center;
+  }
+}

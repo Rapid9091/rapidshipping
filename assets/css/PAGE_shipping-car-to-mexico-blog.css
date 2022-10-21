@@ -1,0 +1,450 @@
+span {
+  color: var(--nav-color);
+}
+
+/* code picked */
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.grid {
+  display: grid;
+}
+
+.grid-center {
+  display: grid;
+  place-items: center;
+}
+
+.grid-2 {
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3%;
+}
+
+.grid-3 {
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3%;
+}
+
+.grid-4 {
+  grid-template-columns: repeat(4, 1fr);
+  gap: 3%;
+}
+
+.main-heading {
+  font-size: 35px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.sub-heading {
+  font-size: 22px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.text {
+  font-size: 15px;
+}
+
+.basic-button {
+  background-color: var(--tertiary-color);
+  color: var(--white);
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+  height: 40px;
+  border-radius: 10px;
+  width: max-content;
+  border: 1px solid var(--white);
+}
+
+.anchor {
+  padding: 10px 20px;
+  color: var(--white);
+}
+
+.padding {
+  padding: var(--section-padding);
+}
+
+.bottom-padding {
+  padding-bottom: 0%;
+}
+
+.background-property {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* --------------------- */
+/* section one blog */
+/* --------------------- */
+
+.section-one-mexico-blog {
+  padding: var(--all-section-padding);
+}
+
+.section-one-mexico-blog > h2 {
+  text-align: center;
+  margin-bottom: 2%;
+}
+.one-mexico-blog-img > img {
+  width: 100%;
+  height: 350px;
+  margin-top: 2%;
+  border-radius: var(--global-border-radius);
+}
+
+.one-mexico-blog-grid {
+  margin-top: 5%;
+  position: relative;
+  grid-template-columns: 60% 1fr;
+  grid-gap: 2%;
+}
+.one-mexico-blog-grid-2 {
+  background-color: var(--section-background);
+  padding: 2% 5%;
+  border: 1px solid var(--nav-color);
+  border-radius: var(--global-border-radius);
+}
+.one-mexico-blog-grid-2 > h2 {
+  text-align: center;
+  color: var(--nav-color);
+  font-weight: 700;
+  margin-bottom: 5%;
+}
+.one-mexico-blog-grid-2-links > ul > li {
+  margin-top: 3%;
+  margin-left: 4%;
+  font-size: 18px;
+  list-style: disc !important;
+}
+.one-mexico-blog-grid-2-links > ul > li::marker {
+  color: var(--nav-color);
+}
+.one-mexico-blog-grid-2-links > ul > li:first-child {
+  margin-top: 6%;
+}
+.one-mexico-blog-grid-2-links > ul > li > a {
+  color: var(--color-txt-3);
+}
+
+/* --------------------- */
+/* section two blog */
+/* --------------------- */
+
+.second-mexico-blog {
+  padding: var(--all-section-padding);
+}
+
+.second-mexico-blog > h2 {
+  text-align: center;
+  margin-bottom: 2%;
+}
+.second-mexico-blog-grid-1 {
+  padding: 4%;
+  border-radius: var(--global-border-radius);
+  border: 0.3px solid var(--nav-color);
+  border-right: 5px solid var(--nav-color);
+  border-bottom: 5px solid var(--nav-color);
+}
+.second-mexico-blog-grid-1 > h3 {
+  text-align: center;
+}
+.second-mexico-blog-grid-1 > ul > li {
+  list-style-type: disc;
+  margin-top: 2%;
+  margin-left: 5%;
+}
+
+/* --------------------- */
+/* why choose us section */
+/* --------------------- */
+
+.why-choose-us-section {
+  padding: var(--all-section-padding);
+}
+
+.why-choose-us {
+  display: grid;
+
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 3%;
+}
+.why-choose-us-section > h2 {
+  text-align: center;
+  margin-bottom: 4%;
+}
+.why-choose-us-grid-box {
+  border-radius: var(--global-border-radius);
+
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  transition: 0.3s;
+}
+
+.why-choose-us-grid-box:hover {
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
+    rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+}
+
+.why-choose-us-grid-box > h4 {
+  text-align: center;
+  margin-bottom: 4%;
+}
+
+.why-choose-us-grid-box > p {
+  text-align: center;
+  color: var(--color-txt-3);
+  font-size: 15px;
+  margin: 1%;
+}
+
+.why-choose-us-grid-box {
+  padding: 5%;
+}
+
+/* --------------------- */
+/* third section blog */
+/* --------------------- */
+
+.thrid-mexico-blog {
+  padding: var(--all-section-padding);
+  padding-bottom: 0;
+}
+
+.thrid-mexico-blog > h2 {
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+.third-mexico-blog-grid {
+  margin-top: 5%;
+}
+
+.third-mexico-blog-grid-1 {
+  border-radius: var(--global-border-radius);
+  border: 0.3px solid var(--nav-color);
+}
+
+.third-mexico-blog-grid-1 > img {
+  width: 100%;
+  height: 250px;
+  border-top-left-radius: var(--global-border-radius);
+  border-top-right-radius: var(--global-border-radius);
+}
+
+.third-mexico-blog-grid-1-content {
+  padding: 5%;
+}
+
+.third-mexico-blog-grid-1-content > p {
+  font-size: 14px;
+  color: #000;
+  margin: 2% 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  line-clamp: 5;
+  -webkit-box-orient: vertical;
+  line-height: 22px;
+}
+
+.third-mexico-blog-grid-1-content-row {
+  padding: 5px 10px;
+  background-color: #e6e6e6;
+  margin: 5% 0;
+  margin-bottom: 0;
+}
+
+/* --------------------- */
+/* review section blog */
+/* --------------------- */
+
+.mexico-blog-review-section {
+  padding: 5% 0;
+  padding-bottom: 0;
+}
+
+.mexico-blog-review-section > h2 {
+  text-align: center;
+}
+
+/* --------------------- */
+/* fourth section*/
+/* --------------------- */
+.fourth-mexico-blog {
+  padding: var(--all-section-padding);
+  padding-top: 0;
+}
+
+.fourth-mexico-blog-container {
+  background-color: var(--section-background);
+  border-radius: var(--global-border-radius);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  transition: 0.3s;
+  padding: 2% 5%;
+}
+
+.fourth-mexico-blog-container > h2 {
+  text-align: center;
+  margin: 2% 0;
+  margin-bottom: 4%;
+}
+.fourth-mexico-blog-container > details:nth-child(odd) {
+  background-color: #e6e6e6;
+  padding: 2% 5%;
+}
+
+.fourth-mexico-blog-container > details:nth-child(even) {
+  background-color: #fff;
+  padding: 2% 5%;
+}
+
+.fourth-mexico-blog-container > details > p {
+  margin-top: 2%;
+}
+
+.fourth-mexico-blog-container > details > summary::before {
+  content: "🚃";
+  margin-right: 10px;
+}
+
+.fourth-mexico-blog-container > details > summary {
+  cursor: pointer;
+}
+
+/* --------------------- */
+/* fifth section*/
+/* --------------------- */
+.fifth-mexico-blog {
+  padding: var(--all-section-padding);
+  padding-top: 0;
+}
+.fifth-mexico-blog > h2 {
+  text-align: center;
+}
+.fifth-mexico-blog > p {
+  text-align: center;
+  padding: 0 20;
+  margin: 2% 0;
+}
+.fifth-mexico-blog-img-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fifth-mexico-blog-img-box > a {
+  margin-right: 5%;
+  height: 120px;
+  border-radius: 50%;
+  width: 120px;
+}
+
+.fifth-mexico-blog-img-box > a > img {
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+  transition: all 0.3s;
+  border: 5px solid #fff;
+}
+
+.fifth-mexico-blog-img-box > a > img:hover {
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px,
+    rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
+
+/* why choose us section */
+/* media query */
+
+@media screen and (max-width: 800px) {
+  .why-choose-us {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 3%;
+  }
+  .why-choose-us-grid-box {
+    margin-bottom: 2%;
+  }
+
+  .one-mexico-blog-grid {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 0%;
+  }
+  .second-mexico-blog-container.grid-3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .third-mexico-blog-grid.grid-3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .main-heading {
+    font-size: 25px;
+  }
+
+  .sub-heading {
+    font-size: 18px;
+  }
+
+  .text {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .why-choose-us {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 0;
+  }
+  .why-choose-us-grid-box {
+    padding: 5%;
+    margin-bottom: 5%;
+  }
+  .why-choose-us-section {
+    padding: var(--tab-body-padding);
+  }
+  .second-mexico-blog-container.grid-3 {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .third-mexico-blog-grid.grid-3 {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 0;
+  }
+  .third-mexico-blog-grid-1 {
+    margin-top: 5%;
+  }
+  .one-mexico-blog-grid-2 {
+    margin-top: 5%;
+  }
+  .fifth-mexico-blog-img-box {
+    display: unset;
+  }
+  .fifth-mexico-blog-img-box > a > img {
+    margin-left: 20px;
+  }
+  .main-heading {
+    font-size: 22px;
+  }
+
+  .sub-heading {
+    font-size: 16px;
+  }
+
+  .text {
+    font-size: 15px;
+  }
+  .number {
+    display: unset !important;
+  }
+}

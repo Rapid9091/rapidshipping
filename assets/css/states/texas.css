@@ -1,0 +1,21 @@
+.header-review {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5px;
+  place-items: center;
+}
+.header-img-box {
+  width: max-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-img-box > a > img {
+  height: 60px;
+}
+
+@media screen and (max-width: 900px) {
+  .header-review {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

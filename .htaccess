@@ -1,0 +1,106 @@
+RewriteEngine on
+
+Options -Indexes
+
+RewriteCond %{HTTP_HOST} ^www\.rapidautoshipping\.com [NC]
+RewriteRule ^(.*)$ https://rapidautoshipping.com/$1 [L,R=301]
+
+
+# This rule alow user to access file
+RewriteCond %{REQUEST_FILENAME} !-f
+#=============================================================================================================
+#
+ErrorDocument 404 https://rapidautoshipping.com/404
+#
+
+#
+#=============================================================================================================
+#=============================================================================================================
+#
+# Home page route
+ReWriteRule ^$ pages/home.php [NC,L]
+
+#
+#=============================================================================================================
+#
+# This route work for sub service page (car-transport-in-us)
+ReWriteRule ^services/([0-9A-Za-z\-]+)([/]?)$ pages/services-pages/$1.php [NC,L]
+ReWriteRule ^services([/]?)$ pages/service.php [NC,L]
+#
+# This route work for sub state-to state page (car-transport-in-us)
+ReWriteRule ^state-to-state-transport/([0-9A-Za-z\-]+)([/]{0,1}+)$ pages/state-to-state-transport/$1.php [NC,L]
+ReWriteRule ^state-to-state-transport([/]{0,1}+)$ pages/state-to-state-transport.php [NC,L]
+#=============================================================================================================
+#
+# This route work for states-pages(states)
+# auto transport state redirect
+ReWriteRule ^auto-transport-states/([0-9A-Za-z\-]+)([/]?)$ https://rapidautoshipping.com/states/$1 [R=302,NC,L]
+
+#==============================================================================================================
+ReWriteRule ^states/([0-9A-Za-z\-]+)([/]?)$ pages/states/$1.php [NC,L]
+ReWriteRule ^states([/]?)$ pages/states/_index.php [NC,L]
+
+#
+# This route work for cities-pages(cities)
+ReWriteRule ^cities/([0-9A-Za-z\-]+)([/]?)$ pages/cities/$1.php [NC,L]
+#
+#=============================================================================================================
+
+
+# This route work for cars-companies-page 
+ReWriteRule ^cars/([0-9A-Za-z\-]+)([/]?)$ pages/car-company-pages/$1.php [NC,L]
+ReWriteRule ^cars([/]?)$ pages/car-company-pages/_index.php [NC,L]
+
+
+# This route work for cars-companies-page 
+ReWriteRule ^auto-transport-carriers/([0-9A-Za-z\-]+)([/]?)$ pages/company-reviews/page.php?review_id=$1 [NC,L]
+ReWriteRule ^auto-transport-carriers([/]?)$ pages/company-reviews/_index.php [NC,L]
+
+
+#
+# This route work for cars-pages(cars)
+# ReWriteRule ^cars/([0-9A-Za-z\-]+)([/]?)$ pages/cars/$1.php [NC,L]
+#
+#=============================================================================================================
+# This route work for blog-pages(blog)
+ReWriteRule ^blogs/([0-9A-Za-z\-]+)([/]?)$ pages/blogs/$1.php [NC,L]
+ReWriteRule ^blogs([/]?)$ pages/blogs/_index.php [NC,L]
+#
+
+
+
+# This route work for all aboutus page
+ReWriteRule ^about-us([/]?)$ pages/about-us.php [NC,L]
+    
+# This route work for all contactus 
+ReWriteRule ^contact-us([/]?)$ pages/contactus.php [NC,L]
+
+# this route work for privacy police page
+ReWriteRule ^privacy-policy([/]?)$ pages/docs/pp.html [NC,L]
+
+#this route work for Cancilation police
+ReWriteRule ^cancelation-policy([/]?)$ pages/docs/cp.html [NC,L]
+
+#This route work for trams and conditions
+ReWriteRule ^terms-and-conditions([/]?)$ pages/docs/tnc.html [NC,L]
+
+#404 error pages
+ReWriteRule ^404([/]?)$ pages/error/404.php [NC,L] 
+
+#sitemap
+RewriteRule ^sitemap\.xml/?$ sitemap.php
+# RewriteRule ^sitemap\.html/?$ sitemap.html.php
+
+
+
+
+# This route work for state to state pages  
+
+#==============================================================================================================
+
+ReWriteRule ^state-to-state([/]?)$ pages/state-to-state/state-to-state-list.php [NC,L]
+ReWriteRule ^state-to-state/alabama-to-alaska([/]?)$ pages/state-to-state/alabama-to-alaska.php [NC,L]
+ReWriteRule ^state-to-state/alabama-to-arizona([/]?)$ pages/state-to-state/alabama-to-arizona.php [NC,L]
+ReWriteRule ^state-to-state/texas-to-california([/]?)$ pages/state-to-state/texas-to-california.php [NC,L]
+ReWriteRule ^state-to-state/([0-9A-Za-z\-]+)([/]?)$ pages/state-to-state/_index.php?page_id=$1 [NC,L]
+
