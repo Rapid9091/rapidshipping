@@ -104,11 +104,7 @@
                             <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666355507/Recent%20Uploads/bbb-rating-img_sq2gfi_aamvwi.png" alt="Texas auto transport">
                         </a>
                     </div>
-                    <div class="header-img-box">
-                        <a href="https://www.google.com/maps/place/RAPID+AUTO+SHIPPING/@34.4683842,-101.3042842,15z/data=!4m5!3m4!1s0x0:0x9f3bfd5545d14ae8!8m2!3d34.4683842!4d-101.3042842" title="Best auto shipping company in USA">
-                            <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831374/RapidAutoShipping/TransportReviewsLogo_m0wby0.png" alt="Texas auto transport">
-                        </a>
-                    </div>
+
                 </div>
             </div>
 
@@ -204,25 +200,14 @@
         <div class="first-california-state-grid utility_grid">
             <div class="first-california-state-grid " id="more_about_texas">
                 <p class="text">
-                    The state of <a href="https://www.texas.gov/" title="More About Texas">Texas</a> is in the South Central region of United States of America with a total size of 268,596 square miles (695,662 km2) and a population of more than 29.1 million people in 2020, it is the second-largest state in the United States in the Houston is by far the largest city in Texas, with over 2.16 million persons, and Texas contains three cities with over a million residents (Houston, San Antonio, and Dallas), as well as five cities in the Top 20 largest cities in the United States (Austin and Fort Worth, in addition to the ones already listed).
+                    The state of <a href="https://www.texas.gov/" title="More About Texas">Texas</a> is in the South Central region of United States of America with a total size of 268,596 square miles (695,662 km2) and a population of more than 29.1 million people in 2020, it is the <span style="color:var(--nav-color);">second-largest state</span> in the United States in the Houston is by far the largest city in Texas, with over 2.16 million persons, and Texas contains three cities with over a million residents (Houston, San Antonio, and Dallas), as well as five cities in the Top 20 largest cities in the United States (Austin and Fort Worth, in addition to the ones already listed).
                     <br>
                     <br>
-                    When you first arrive in Texas, you will be astounded by its vastness – so large, in fact, that Texas boasts one of the most diversified landscapes in the country, owing to its size and position. While it appears large on a map, you can't truly appreciate its vastness until you've visited it, and it's well worth the trip.
+                    When you first arrive in Texas, you will be astounded by its vastness – so large, in fact, that Texas boasts one of the <span style="color:var(--nav-color);"> most diversified landscapes</span> in the country, owing to its size and position. While it appears large on a map, you can't truly appreciate its vastness until you've visited it, and it's well worth the trip.
                     <br>
                     <br>
-                    Texas has been populated by Europeans for at least 400 years, according to history. The area is littered with old Spanish missionaries, and San Antonio was constructed on the site of a missionary from the 18th century. The Alamo, one of the most important and well-known historic landmarks in the state and country, is also located in San Antonio. Texas is home to Six Flags Amusement Park (whose name is taken from the fact that Texas has been claimed by six separate nations).
-                    <br>
-                    <br>
-                    Texas, the country's second-largest state, offers a wealth of entertainment and adventure choices. Geographically and culturally diverse, the state offers a diverse range of attractions and activities. From cities to coastal beaches, mountains, and deserts, Texas provides a broad selection of vacation possibilities. The contrast between metropolitan centres such as Houston, Austin, and Dallas and West Texas cities such as Amarillo and Lubbock is fascinating, but each has its own flavour and reason for visiting.
-                    <br>
-                    <br>
-                    The Alamo and the RiverWalk in San Antonio, as well as the neighbouring Hill Country, should be on every traveler's itinerary.
-                    <br>
-                    <br>
-                    Big Bend National Park, located along a bend in the Rio Grande in West Texas, and Padre Island National Seashore, located along the Gulf of Mexico, are two of the best places to visit for nature lovers.
-                    <br>
-                    <br>
-                    For additional information on where to go and what to do in Texas, visit our list of top tourist attractions.
+                    Texas has been populated by Europeans for at least 400 years, according to history. The area is littered with old Spanish missionaries, and <span style="color:var(--nav-color);">San Antonio</span> was constructed on the site of a missionary from the 18th century. The Alamo, one of the most important and well-known historic landmarks in the state and country, is also located in San Antonio. Texas is home to <span style="color:var(--nav-color);">Six Flags Amusement Park </span>(whose name is taken from the fact that Texas has been claimed by six separate nations).
+
                 </p>
 
             </div>
@@ -236,11 +221,6 @@
                     <li><a title="Luxury and classic Texas Car shipping services" href="#luxury_and_classic_car_shipping_texas">How to ship luxury and classic cars Texas Car shipping services ?</a></li>
                     <li><a title="Snowbird shipping in Texas" href="#snowbird_shipping_to_texas">How to prepeare your vehicle for Texas Auto transportation Services in snowbird shipping?</a></li>
                     <li><a title="More Snowbird shipping routes" href="#more_snowbird_shipping_routes">More snowbird routes in Texas ?</a></li>
-                    <li><a title="Operable and inoperable shipping" href="#operable_and_inoperable_shipping">How to ship operable and inoperable vehicles ?</a></li>
-                    <li><a title="How to get best quote for your vehcile " href="#get_instant_quote_through_call">How to get a call just through the call ?</a></li>
-                    <li><a title="More about Texas state " href="#more_about_texas">More about Texas state in united States|| (weather,locations,wind,terrains and all)?</a></li>
-                    <li><a title="Famous attractions in Texas state" href="#famous_attracions_in_Texas">Some of the more famous cities in Texas</a></li>
-                    <li><a title="More cities in Texas state" href="#more_cities_in_texas">More cities you want to ship for in Texas ?</a></li>
                 </ul>
             </div>
         </div>
@@ -594,7 +574,7 @@
                 </h2>
                 <p class="text">
                     <a title="More about auto shipping states" href="<?= home_path() ?>states/arizona"> <span class="california-state-span"> Arizona,</span> </a>
-                    <a title="More about auto shipping states" href="<?= home_path() ?>states/texas"> <span class="california-state-span"> Texas,</span> </a>
+                    <a title="More about auto shipping states" href="<?= home_path() ?>states/texas-tx"> <span class="california-state-span"> Texas,</span> </a>
                     <a title="More about auto shipping states" href="<?= home_path() ?>states/california"> <span class="california-state-span"> California,</span> </a>
                     <a title="More about auto shipping states" href="<?= home_path() ?>states/florida"> <span class="california-state-span"> Florida,</span> </a>
                     and other

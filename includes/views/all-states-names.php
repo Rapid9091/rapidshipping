@@ -57,7 +57,7 @@
              <a href="<?= get_state() ?>/south-dakota">South Dakota</a><br>
              <a href="<?= get_state() ?>/tennessee-tn" rel="dofollow">Tennessee</a><br>
              <a href="<?= get_state() ?>/texas-tx" rel="dofollow">Texas</a><br>
-             <a href="#" rel="dofollow">Utah</a><br>
+             <a href="<?= get_state() ?>/utah-ut" rel="dofollow">Utah</a><br>
              <a href="<?= get_state() ?>/vermont-vt" rel="dofollow">Vermont</a><br>
              <a href="<?= get_state() ?>/virginia-va" rel="dofollow">Virginia</a><br>
              <a href="<?= get_state() ?>/washington-wa" rel="dofollow">Washington</a><br>
