@@ -40,9 +40,9 @@ if (mode == 1) {
 
     // Mysqli Db 
     $DB_HOST = "localhost";
-    $DB_USER = "u495702832_raship";
-    $DB_PASS = "Dn+4?Tmcr";
-    $DB_NAME = "u495702832_rashipping";
+    $DB_USER = "u841070527_rapid";
+    $DB_PASS = "Smile@1427";
+    $DB_NAME = "u841070527_autoshipping";
     // 
     #
     //
