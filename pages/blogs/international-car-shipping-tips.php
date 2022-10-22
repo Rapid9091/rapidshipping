@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="International car shipping tips" />
     <meta property="og:description" content="Rapid Auto Shipping - International car shipping tips provided by RAS. Call +1-833-233-4447, We are expert in car shipping tips or transportation in all states of the USA." />
-    <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-can-i-move-a-motorcycle" />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/international-car-shipping-tips" />
     <meta property="og:site_name" content="International car shipping tips  - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="Best Auto Shipping Company USA, car transportation services, top vehicle shipping companies, American auto shipping company, best auto shipping company in the USA,  best auto shipping company ,affordable car shipping prices " />

@@ -7,16 +7,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Benefits of car shipping</title>
-    <meta name="title" content="Benefits of car shipping" />
-    <meta name="description" content="Rapid Auto Shipping - car shipping provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a car overseas in all states of the USA." />
+    <title>Exotic car shipping -- Rapid Auto Shipping</title>
+    <meta name="title" content="Exotic car shipping -- Rapid Auto Shipping" />
+    <meta name="description" content="Rapid Auto Shipping -Exotic car shipping provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a car overseas in all states of the USA." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Benefits of car shipping" />
+    <meta property="og:title" content="Exotic car shipping -- Rapid Auto Shipping" />
     <meta property="og:description" content="Rapid Auto Shipping - car shipping provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a car overseas in all states of the USA." />
-    <meta property="og:url" content="https://rapidautoshipping.com/blogs/benefits-of-car-shipping" />
-    <meta property="og:site_name" content="Benefits of car shipping  - Rapid Auto Shipping" />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/exotic-cars" />
+    <meta property="og:site_name" content="Exotic car shipping -- Rapid Auto Shipping " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car shipping service provider ,auto transporter ,port-to-port shipping ,international car shipping, Overseas auto shipping ,overseas car shipping, overseas car shipping serivees near me, TOP GLOBAL CAR SHIPPING COMPANY,  GLOBAL CAR SHIPPING COMPANY " />
+    <meta name="keywords" content="exotic car shipping service provider , exotic auto transporter ,exotic port-to-port shipping ,exotic international car shipping, exotic Overseas auto shipping ,exotic overseas car shipping, exotic overseas car shipping serivees near me, TOP GLOBAL exotic CAR SHIPPING COMPANY,  GLOBAL exotic CAR SHIPPING COMPANY " />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->
@@ -34,7 +34,7 @@
     <style>
         .contact-us-header-page {
             width: 100%;
-            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/e_brightness:-46/v1666181429/Exotic_Car_Shipping.-min_ooxowf.jpg');
+            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/e_brightness:-46/v1666178209/HONDA_1-min_o90bqg.jpg');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
@@ -76,8 +76,8 @@
     <!-- -------------------------------------- -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "BENEFITS OF CAR SHIPPING  ";
-        $PARAGRAPH = "Your car is one of your most valuable assets, thus most individuals move with their cars and many people bring their cars on holidays. There are various choices available for relocating your automobile, regardless of whether you're moving across the country or simply taking a long vacation. Driving your own car is certainly the first option that comes to mind, but this involves spending a lot of time travelling to unfamiliar locations and putting additional wear on your vehicle. ";
+        $NAME = "EXOTIC CAR SHIPPING  ";
+        $PARAGRAPH = "Rapid Auto Shipping is the best exotic auto shipping company in America! We are the market leader in supplying pricey, high-end vehicles to all regions of the globe with more than 10 years of experience. We go to great lengths to make sure that your exotic car arrives at its destination on schedule, safely, and affordably. Whether you're buying, selling, or simply vacationing, we'll deliver your vehicle on time and in flawless condition.  ";
         include small_form;
         ?>
     </div>
@@ -88,73 +88,45 @@
         <div class="affordable-ways-page-grid">
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2>SAVES MONEY 
+                    <h2>SAVES MONEY (<ion-icon style="color:var(--nav-color);" name="wallet-sharp"></ion-icon>)
                     </h2>
                     <p>
-                        You might anticipate that shipping a car will be expensive, but once you factor in the price of a long-distance road trip, including gas and lodging, you might discover that the cost is comparable. You may be able to save more money by using a car shipping service because you won't have to pay much for travel costs while the vehicle is in transit. Additionally, you won't have to pay the hefty expenditures associated with breakdowns or flat tires, as well as any maintenance or repairs required before or after a protracted road trip.
+                        It is likely that you will want to bring your automobile with you if you are moving across the country or on a long vacation. You should be aware that the ground clearance of an unusual car is frequently lower than that of regular cars and trucks.
                         <br><br>
-                        Furthermore, you won't have to stress about skipping workdays. It takes a lot of time to drive a car or transport one across the nation, which means you might have to miss work, lose money, or use up important vacation time. You can carry on working while having your automobile transported by professionals when you ship a car.
+                        This element affects how you ship the car and which car carrier you'll hire to transport it locally or internationally. You require a certified enclosed vehicle transport company that is experienced with moving these exquisite cars both domestically and internationally.
+                        <br><br>
+                        Although shipping an automobile is not very difficult, there are safety measures you must follow when moving a pricey vehicle. For the majority of automobiles, normal auto transport shipment on an open-air carrier is a perfectly fine option, but when it comes to exotic car transport, these cars need a little more know-how and consideration. Here are a few of the well-known luxury automobile manufacturers that we send to various parts of the globe along with an estimate of how much exotic car shipping will cost.
                     </p>
                 </div>
                 <div class="new-blog-section-one">
-                    <h2>PROFESSIONALISM AND DEPENDABILITY 
+                    <h2>Benefits of using us to transfer your premium vehicle:
                     </h2>
                     <p>
-                        Although it can be difficult, shipping a truck doesn't necessarily have to be challenging. There are few options for transporting heavy equipment in an enclosed carrier, regardless of whether you want to pay for a truck transfer across the country or work with an international commercial truck shipping carrier.
-                        <br><br>
-                        Shipping your truck makes more sense if you have purchased a new truck online, are moving, are in a haste, or don't want to be on the road for several days. Transporting a truck can be demanding, as opposed to shipping a compact vehicle that is less tiresome to manoeuvre.
-                        <br><br>
-                        Here's how to determine whether you need to ship a vehicle based on your chosen truck transport strategy.
-                    </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping-min_tdvjxf.jpg" alt="Overseas car shipping">
-                </div>
+                    <ul>
+                        <li style="list-style:disc;" class="exotic-car-icons">
+                            <ion-icon name="timer-sharp"></ion-icon> Punctuality.
+                        </li>
 
-                <div class="new-blog-section-one">
-                    <h2>
-                        SHIP MULTIPLE VEHICLES AT ONCE 
-                    </h2>
-                    <p>
-                        Yes, it might be possible to drive a car across the country by yourself. But what if you need to transport two, three, or ten items? Finding enough reliable persons to move those cars for you will be challenging in those circumstances.
-                        <br><br>
-                        You can transport however many cars you want using auto shipping. Knowing that the vehicle mover would take excellent care of every one of them while travelling will give you peace of mind. Additionally, they may load them all at once, saving you the trouble of scheduling several pickup times.
-                        <br><br>
-                        While you can handle auto shipping in one go, it can free up a lot of your time and reduce the stress that you'd otherwise have when trying to figure out the logistics for several cars.
-
+                        <li style="list-style:disc;" class="exotic-car-icons">
+                            <ion-icon name="wallet-sharp"></ion-icon>Decent pricing.
+                        </li>
+                        <li style="list-style:disc;" class="exotic-car-icons">
+                            <ion-icon name="documents-sharp"></ion-icon> Assurance of dependability
+                        </li>
+                        <li style="list-style:disc;" class="exotic-car-icons"><i class="fa-solid fa-ship"></i> Corresponding approach (suitable transport). </li>
+                        <li style="list-style:disc;" class="exotic-car-icons"><i class="fa-solid fa-headset"></i> Communication with company staff is always cordial. </li>
+                    </ul>
                     </p>
                 </div>
-
                 <div class="new-blog-section-one">
-                    <h2>YOU SAVE TIME 
+                    <h2>PREMIUM SERVICE AVAILABLE FOR EXOTIC VEHICLES 
                     </h2>
                     <p>
-                        It doesn't matter if you're travelling across the state or the country in your car; you still have to use up your valuable time doing it. Balancing everything when transferring your car can be difficult if you have a lot going on in your life.
-
+                        You will receive "first in line" customer enclosed auto service when using our exotic car shipping service. accurate tracking of your car's location. Having direct contact information for the driver delivering your automobile from the car transport company. Finally, you will be given updates on the shipping at each stage.
                         <br><br>
-                        The time you would have spent driving can be freed up if you entrust a door-to-door auto shipper with the task. In this manner, you can attend to more pressing issues like packing for a significant relocation.
-                        <br><br>
-                        This can not only save you a tonne of time, but it can also relieve a tonne of your tension.
+                        We go above and beyond, monitor the entire shipping process, and prioritise your needs to ensure that you receive what you desire and anticipate. Rapid Auto Shipping always does things right the first time. Our expertise in delivering exotic cars and our depth of experience are unmatched by any other shipping firm.
                     </p>
-                </div>
-
-                <div class="new-blog-section-one">
-                    <h2>REDUCED INSURANCE COSTS 
-                    </h2>
-                    <p>
-                        Professional drivers must maintain valid insurance cargo plans in addition to receiving training in safe driving practices. In that case, you won't be responsible for any repairs if something goes wrong.
-                        <br><br>
-                        Additionally, your insurance premium won't increase either. You won't be incurring any financial risks, therefore it's a win-win situation for you. If something were to happen, the driver's insurance would take care of it, leaving your insurance unaffected.
-                    </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666090070/insurance-img_kthtmn.jpg" alt="Overseas car shipping">
-
-                </div>
-                <div class="new-blog-section-one">
-                    <h2>LESS CONCERN AND PREPARATION 
-                    </h2>
-                    <p>
-                        If you intend to travel by car, you'll need to set up your vehicle for a long-distance journey as well as schedule hotel stays, meals, and other road trip inconveniences. You should also have a plan in place for how you will handle unexpected travel issues like car trouble, protracted road construction, and more. Who could forget the pleasures of interacting with other drivers?
-
-                        Hire a reputable car shipping company instead, and focus on more significant issues. Your automobile will be shipped to your destination with the help of an auto transport business, so you won't have to worry about organising a road trip or feeling stressed out. You can request enclosed shipping, which will protect your car from the elements and traffic debris, for an even greater piece of mind.
-                    </p>
+                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666432435/Recent%20Uploads/exotic-car-min_jbuf4y.jpg" alt="Exotic and car shipping">
                 </div>
             </div>
         </div>

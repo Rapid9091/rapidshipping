@@ -611,6 +611,26 @@
                     </a>
                 </div>
             </div>
+
+            <!-- Blog for Exotic car shipping -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666430882/Recent%20Uploads/exotic-cars-ferrari-291060_960_720_lwqvom.jpg" alt="Exotic car shipping">
+                    <a href="<?= home_path() ?>blogs/exotic-cars">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Exotic car shipping
+                            </h2>
+                            <p>
+                                Rapid Auto Shipping is the best exotic auto shipping company in America! We are the market leader in supplying pricey, high-end vehicles to all regions of the globe with more than 10 years of experience. We go to great lengths to make sure that your exotic car arrives at its destination on schedule, safely, and affordably. Whether you're buying, selling, or simply vacationing, we'll deliver your vehicle on time and in flawless condition.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">29k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+
         </div>
     </section>
     <!-- footer here -->

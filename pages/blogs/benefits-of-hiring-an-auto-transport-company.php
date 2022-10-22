@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Benefits of hiring car shipping company</title>
     <meta name="title" content="Benefits of hiring car shipping company" />
-    <meta name="description" content="Rapid Auto Shipping - Shipping a car overseas service provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a car overseas in all states of the USA." />
+    <meta name="description" content="Rapid Auto Shipping - Benefits of hiring car shipping company like RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a car overseas in all states of the USA." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Benefits of hiring car shipping company" />
     <meta property="og:description" content="Rapid Auto Shipping - Shipping a car overseas service provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a car overseas in all states of the USA." />

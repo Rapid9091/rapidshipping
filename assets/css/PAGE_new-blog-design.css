@@ -40,3 +40,20 @@
   letter-spacing: 1px;
   line-height: 1.8;
 }
+
+.exotic-car-icons {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.exotic-car-icons > ion-icon {
+  font-size: 25px;
+  color: vaR(--nav-color);
+  margin-right: 10px;
+}
+
+.exotic-car-icons > i {
+  font-size: 25px;
+  color: vaR(--nav-color);
+  margin-right: 10px;
+}
