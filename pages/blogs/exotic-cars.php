@@ -124,9 +124,35 @@
                     <p>
                         You will receive "first in line" customer enclosed auto service when using our exotic car shipping service. accurate tracking of your car's location. Having direct contact information for the driver delivering your automobile from the car transport company. Finally, you will be given updates on the shipping at each stage.
                         <br><br>
-                        We go above and beyond, monitor the entire shipping process, and prioritise your needs to ensure that you receive what you desire and anticipate. Rapid Auto Shipping always does things right the first time. Our expertise in delivering exotic cars and our depth of experience are unmatched by any other shipping firm.
+                        We go above and beyond, monitor the entire shipping process, and prioritise your needs to ensure that you receive what you desire and anticipate. <b style="color:var(--nav-color);">Rapid Auto Shipping</b> always does things right the first time. Our expertise in delivering exotic cars and our depth of experience are unmatched by any other shipping firm.
                     </p>
                     <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666432435/Recent%20Uploads/exotic-car-min_jbuf4y.jpg" alt="Exotic and car shipping">
+                </div>
+                <div class="new-blog-section-one">
+                    <h2>HOW MUCH DOES IT COST TO TRANSPORT AN EXOTIC CAR?  (<ion-icon style="color:var(--nav-color);" name="wallet-sharp"></ion-icon>)
+                    </h2>
+                    <p>
+                        Given the information provided previously regarding the shipping technique, it is evident that exotic cars require excessive care and specific equipment to be transported. Therefore, depending on the other ancillary services provided by the transport companies, it will cost more than the ordinary shipping services.
+
+                    </p>
+                </div>
+                <div class="new-blog-section-one">
+                    <h2>EXOTIC CAR TRANSPORT WITH ENCLOSED TRANSPORT 
+                    </h2>
+                    <p>
+                        In order to provide historic and expensive vehicles with the essential protection from the elements that other movers might not totally provide, enclosed car transport is a specialised service. Our top-notch enclosed transport keeps cars in excellent condition throughout the trip and assures that there is absolutely no chance of harm to the vehicle in any way. The extra safety precautions of an enclosed service give you complete peace of mind for the entire time of the delivery of the vehicle when you are investing in your dream car.
+                    </p>
+                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666434490/Recent%20Uploads/transport-3369756_1280_rgvufw.jpg" alt="Enclosed Exotic and car shipping">
+                </div>
+                <div class="new-blog-section-one">
+                    <h2>IS THE SHIPPING PROCEDURE FOR EXOTIC CARS THE SAME AS FOR OTHER CARS</h2>
+                    <p>
+                        Although the procedure for transporting cars is typically the same, we take extra care and security measures with exotic cars.
+                        <br><br>
+                        Exotic cars are shielded from the elements by enclosed auto transport vehicles. This method of shipping your car offers the extra benefit of increased security. The likelihood of theft is substantially reduced because no one will be aware of the historic car's value.
+                        <br><br>
+                        Additionally, we advise additional cargo insurance requirements for your exotic car. Such historic cars cost a lot more to maintain and repair than regular cars do. We provide supplemental insurance in the unfortunate event of an accident to protect against any potential losses.
+                    </p>
                 </div>
             </div>
         </div>
@@ -149,12 +175,16 @@
     <section class="fourth-mexico-blog" style="margin-top:5%;">
         <div class="fourth-mexico-blog-container">
             <h2 class="main-heading">
-                EXCLUSIVE <span> DISCOUNTS </span>AND RATES 
+                HOW SHOULD I GET READY TO TRANSPORT AN EXOTIC CAR?
             </h2>
             <p class="text">
-
-                The majority of car shipping firms offer competitive rates and exclusive discounts, which are the final benefits to take into account. You can save a tonne of money and time by choosing to ship your car, especially during slower travel times. In order to compare prices and discover the best deal for your budget, it's also quite simple to check auto shipment rates online by just inputting your vehicle's information and the dates you want it shipped.
-
+                The first step to ensuring the car will be safe during the travel is to prepare it for shipping, which can be equally crucial to all other activities.
+                <br><br>
+                <b style="color:var(--nav-color);">Examine the automobile:</b> It's important to look over the interior and exterior of the car and make a note of any scratches or damage that is already there. To ascertain whether any new damage was sustained during shipping, the car owner must be informed of the precise condition.
+                <br><br>
+                <b style="color:var(--nav-color);"> Remove all personal things </b> the exotic car to avoid any potential harm from the car's movements during transportation. Furthermore, the weight of these things will grow, increasing the cost of transportation.
+                <br><br>
+                <b style="color:var(--nav-color);">Get a maintenance check:</b> It's advised to have a quarter tank of petrol in an exotic car when moving it. Additionally, it is crucial to check the battery charge and tyre pressure.
             </p>
             <div class=" grid-center">
                 <a href="tel:+1-833-233-4447"><button class="number">
