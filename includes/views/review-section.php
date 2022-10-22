@@ -114,7 +114,7 @@
             <div class="reviews mover-1">
 
                 <div class="name">
-                    <p>Mark Hill</p>
+                    <p>Mark Jennings</p>
                     <div class="reviews-star-div">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -126,8 +126,7 @@
                 </div>
 
                 <div class="para">
-                    <p>Their services are accurate whether it is home pickup or taking care of my vehicles. I was happy with all their services and their shipping and transport services were better than anyone else
-                    </p>
+                    <p>Shipping car from one state to the other state is very easy and convenient with Rapid auto shipping. they were quick and superb in responding all my queries during the transit of my vehicle.</p>
                 </div>
 
                 <div class="date">
@@ -141,7 +140,7 @@
             <div class="reviews mover-1">
 
                 <div class="name">
-                    <p>Steven Faith</p>
+                    <p>Estep Meade</p>
                     <div class="reviews-star-div">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -153,8 +152,7 @@
                 </div>
 
                 <div class="para">
-                    <p>They did a great job delivering my two-wheeler in their trailer. They did a great job of delivering it. This is my third time with them using and I am always happy with their services.
-                    </p>
+                    <p>I would highly recommend Rapid Auto Shipping company for snowbird shipping services. They did remarkable job and really at affordable price. Best Auto shipping company in USA for Snowbird Shipping. Thank you, Team.</p>
                 </div>
 
                 <div class="date">
@@ -168,7 +166,7 @@
 
                 <div class="name name-1">
                     <!-- name or rating -->
-                    <p>John Logan </p>
+                    <p>Sherry Street </p>
                     <div class="reviews-star-div">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -181,7 +179,8 @@
 
                 <!-- review text -->
                 <div class="para">
-                    <p>I asked them to deliver a vehicle in a trailer to Vegas. I have been using their services for many years and I am never disappointed. The vehicles arrived quickly and safely.
+                    <p>
+                        Thank You Rapid Auto Shipping for delivering my vehicle. this is the second time i have used your service and found to be amazing both the times.
                     </p>
                 </div>
 
