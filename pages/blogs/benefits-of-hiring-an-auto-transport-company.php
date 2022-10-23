@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Benefits of hiring car shipping company</title>
     <meta name="title" content="Benefits of hiring car shipping company" />
-    <meta name="description" content="Rapid Auto Shipping - Benefits of hiring car shipping company like RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a car overseas in all states of the USA." />
+    <meta name="description" content="Rapid Auto Shipping - Benefits of hiring car shipping company like RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a car shipping in all states of the USA." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Benefits of hiring car shipping company" />
-    <meta property="og:description" content="Rapid Auto Shipping - Shipping a car overseas service provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a car overseas in all states of the USA." />
+    <meta property="og:description" content="Rapid Auto Shipping -  Car shipping service provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a car in all states of the USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/benefits-of-hiring-an-auto-transport-company" />
     <meta property="og:site_name" content="Benefits of hiring car shipping company  - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
@@ -100,7 +100,7 @@
                     <p>
                         It simply means that you have to pay for gas, pay for meals, make multiple stops, and pay for hotels or motels to stay in while travelling, especially if the distance is great. If you decide to drive home after a few weeks or months, you will have to pay for all of these expenses once more. Driving your car cross-country may result in you spending more money on repairs and maintenance. You may avoid paying for all of this by just shipping your autos, and in most circumstances, employing an auto transportation company will be less expensive than driving the vehicle yourself. Keep in mind that since you won't need to take as much time off from work, you'll also save money.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666090070/insurance-img_kthtmn.jpg" alt="Overseas car shipping">
+                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666090070/insurance-img_kthtmn.jpg" alt="car shipping in USA">
                 </div>
                 <div class="new-blog-section-one">
                     <h2>TRANSPORTING MULTIPLE VEHICLES AT ONCE 

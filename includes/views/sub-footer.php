@@ -217,6 +217,7 @@
                 <li><a href="<?= home_path(); ?>blogs/how-to-ship-a-truck">How to ship a truck ?</a></li>
                 <li><a href="<?= home_path(); ?>blogs/benefits-of-car-shipping">Benefits of car shipping </a></li>
                 <li><a href="<?= home_path(); ?>blogs/exotic-cars">Exotic car shipping </a></li>
+                <li><a href="<?= home_path(); ?>blogs/differences-between-shipping-a-vehicle-during-summer-vs-winter">WINTER VS. SUMMER CAR SHIPPING</a></li>
             </ul>
         </div>
     </div>
