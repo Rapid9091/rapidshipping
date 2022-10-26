@@ -9,14 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>How to ship a truck</title>
     <meta name="title" content="How to ship a truck" />
-    <meta name="description" content="Rapid Auto Shipping - Shipping a car overseas service provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a car overseas in all states of the USA." />
+    <meta name="description" content="Rapid Auto Shipping - Truck shipping services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in truck shipping in all states of the USA." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="How to ship a truck" />
-    <meta property="og:description" content="Rapid Auto Shipping - Shipping a car overseas service provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a car overseas in all states of the USA." />
+    <meta property="og:description" content="Rapid Auto Shipping - Truck shipping services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in truck shipping in all states of the USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-to-ship-a-truck" />
     <meta property="og:site_name" content="Truck Shipping services  - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car shipping service provider ,auto transporter ,port-to-port shipping ,international car shipping, Overseas auto shipping ,overseas car shipping, overseas car shipping serivees near me, TOP GLOBAL CAR SHIPPING COMPANY,  GLOBAL CAR SHIPPING COMPANY " />
+    <meta name="keywords" content="car shipping service provider ,auto transporter ,port-to-port shipping ,international car shipping, Truck shipping ,Truck shipping, Truck shipping serivees near me, TOP GLOBAL CAR SHIPPING COMPANY,  GLOBAL CAR SHIPPING COMPANY " />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->
@@ -108,7 +108,7 @@
                         <br><br>
                         Here's how to determine whether you need to ship a vehicle based on your chosen truck transport strategy.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/q_10/v1666086713/311140962_679977067028077_634290982198957801_n_omyhrn.jpg" alt="Overseas car shipping">
+                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/q_10/v1666086713/311140962_679977067028077_634290982198957801_n_omyhrn.jpg" alt="Truck shipping">
                 </div>
                 <div class="new-blog-section-one">
                     <h2>HOW THE BEST WAY TO SHIP A PICKUP TRUCK IS AFFECTED BY SIZE  ?

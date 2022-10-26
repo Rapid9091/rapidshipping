@@ -630,6 +630,23 @@
                 </div>
             </div>
 
+            <!-- Blog for Exotic car shipping -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831359/RapidAutoShipping/background-bg-2_baxsgo.jpg" alt="Winter vs Summer car shipping">
+                    <a href="<?= home_path() ?>blogs/differences-between-shipping-a-vehicle-during-summer-vs-winter">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>WINTER VS. SUMMER CAR SHIPPING
+                            </h2>
+                            <p>
+                                It can be difficult to anticipate when you will require an auto shipping service. Unfortunately, the weather and the changing of the seasons have a significant impact on the shipping business. The challenges vary depending on the season and type of weather.However, knowing these difficulties and how the seasons affect the majority of vehicle transport businesses will help you organize your timetable and stay out of trouble.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">32k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
 
         </div>
     </section>
