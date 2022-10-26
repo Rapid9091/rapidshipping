@@ -76,7 +76,7 @@
     <!-- -------------------------------------- -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Benefits of auto trnansport companies";
+        $NAME = "Benefits of auto transport companies";
         $PARAGRAPH = "There are a variety of reasons why you might need to move your car nearby or hundreds of miles away across many states. You might relocate for employment, ship a car to someone, buy a car online, spend the summer or winter temporarily in a different area of the nation, or even sell your car to a person who resides in a different state. There are several circumstances in which you can want auto transport services. The best course of action in this circumstance is to make sure that you pick a reputable auto transport company. Let's look at some of the primary benefits of hiring auto transport company services: ";
         include small_form;
         ?>
