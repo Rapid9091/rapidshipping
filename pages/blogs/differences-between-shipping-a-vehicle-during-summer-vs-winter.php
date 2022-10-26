@@ -13,10 +13,10 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="WINTER, SUMMER CAR SHIPPING -- Rapid Auto Shipping" />
     <meta property="og:description" content="Rapid Auto Shipping - car shipping provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in winter as well as summer car shipping in USA." />
-    <meta property="og:url" content="https://rapidautoshipping.com/blogs/exotic-cars" />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/differences-between-shipping-a-vehicle-during-summer-vs-winter" />
     <meta property="og:site_name" content="WINTER, SUMMER CAR SHIPPING -- Rapid Auto Shipping " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="WINTER, SUMMER CAR SHIPPING service provider , winter auto transporter ,winter port-to-port shipping ,winter international car shipping, winter  auto shipping ,winter  car shipping, winter  car shipping serivees near me, TOP GLOBAL winter CAR SHIPPING COMPANY,  GLOBAL winter CAR SHIPPING COMPANY ,exotic auto transporter ,exotic port-to-port shipping ,exotic international car shipping, exotic  auto shipping ,exotic  car shipping, exotic  car shipping serivees near me, TOP GLOBAL exotic CAR SHIPPING COMPANY,  GLOBAL exotic CAR SHIPPING COMPANY " />
+    <meta name="keywords" content="WINTER, SUMMER CAR SHIPPING service provider , winter auto transporter ,winter port-to-port shipping ,winter international car shipping, winter  auto shipping ,winter  car shipping, winter  car shipping serives near me, TOP GLOBAL winter CAR SHIPPING COMPANY,  GLOBAL winter CAR SHIPPING COMPANY ,exotic auto transporter ,exotic port-to-port shipping ,exotic international car shipping, exotic  auto shipping ,exotic  car shipping, exotic  car shipping serivees near me, TOP GLOBAL exotic CAR SHIPPING COMPANY,  GLOBAL exotic CAR SHIPPING COMPANY " />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

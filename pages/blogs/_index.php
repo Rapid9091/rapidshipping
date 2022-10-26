@@ -630,19 +630,55 @@
                 </div>
             </div>
 
-            <!-- Blog for Exotic car shipping -->
+            <!-- Blog for Winter & summer car shipping -->
 
             <div class="blog-page-blog-section-grid-left">
                 <div class="blog-page-blog-section-grid-img-container">
                     <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831359/RapidAutoShipping/background-bg-2_baxsgo.jpg" alt="Winter vs Summer car shipping">
                     <a href="<?= home_path() ?>blogs/differences-between-shipping-a-vehicle-during-summer-vs-winter">
                         <div class="blog-page-blog-section-grid-heading-container">
-                            <h2>WINTER VS. SUMMER CAR SHIPPING
+                            <h2>Winter vs. Summer car shipping
                             </h2>
                             <p>
                                 It can be difficult to anticipate when you will require an auto shipping service. Unfortunately, the weather and the changing of the seasons have a significant impact on the shipping business. The challenges vary depending on the season and type of weather.However, knowing these difficulties and how the seasons affect the majority of vehicle transport businesses will help you organize your timetable and stay out of trouble.
                             </p>
                             <p class="comments-on-blogs-page-dynamic">32k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for Discounts / Offer -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666773997/Recent%20Uploads/discount-2789863_960_720_qdliok.png" alt="Discounts for car shipping">
+                    <a href="<?= home_path() ?>blogs/special-discounts">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Providing you best discounts while shipping
+                            </h2>
+                            <p>
+                                Auto transport companies offer all sorts of different discounts and specials. Depending on the firm you're speaking to, they will offer different discounts. Asking a vehicle shipping business whether they offer any special discounts is a good idea before making a reservation, especially if you're shipping on a tight budget.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">86k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for tips for car shipping in summer-->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666773997/Recent%20Uploads/discount-2789863_960_720_qdliok.png" alt="Discounts for car shipping">
+                    <a href="<?= home_path() ?>blogs/summer-car-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>TIPS FOR SUMMER CAR SHIPPING 
+                            </h2>
+                            <p>
+                                The busiest season for shipping cars is summer. People typically like to make a significant move when the sun is out. The housing sector is now busy helping buyers and sellers in preparation for additional summer movers. It makes sense to utilize a car shipping service when moving a long distance in order to prevent damage to your automobile. In addition to reducing the risk of an accident, it also saves you money on fuel, meals, and tolls. </p>
+
+                            <p class="comments-on-blogs-page-dynamic">3.9k Views</p>
                         </div>
                     </a>
                 </div>

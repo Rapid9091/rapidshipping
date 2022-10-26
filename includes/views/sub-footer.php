@@ -218,6 +218,9 @@
                 <li><a href="<?= home_path(); ?>blogs/benefits-of-car-shipping">Benefits of car shipping </a></li>
                 <li><a href="<?= home_path(); ?>blogs/exotic-cars">Exotic car shipping </a></li>
                 <li><a href="<?= home_path(); ?>blogs/differences-between-shipping-a-vehicle-during-summer-vs-winter">WINTER VS. SUMMER CAR SHIPPING</a></li>
+                <li><a href="<?= home_path(); ?>blogs/special-discounts">Special offers and discounts </a></li>
+                <li><a href="<?= home_path(); ?>blogs/summer-car-shipping">Shipping car in Summers </a></li>
+
             </ul>
         </div>
     </div>
