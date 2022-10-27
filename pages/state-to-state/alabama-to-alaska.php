@@ -446,7 +446,7 @@
                     <a href="<?= get_state() ?>/mississippi" rel="dofollow">Mississippi</a><br>
                     <a href="<?= get_state() ?>/missouri" rel="dofollow">Missouri</a><br>
                     <a href="<?= get_state() ?>/montana" rel="dofollow">Montana</a><br>
-                    <a href="<?= get_state() ?>nebraska" rel="dofollow">Nebraska</a><br>
+                    <a href="<?= get_state() ?>/nebraska" rel="dofollow">Nebraska</a><br>
                     <a href="<?= get_state() ?>/nevada" rel="dofollow">Nevada</a><br>
                     <a href="<?= get_state() ?>/new-hampshire" rel="dofollow">New Hampshire</a><br>
                     <a href="<?= get_state() ?>/new-jersey" rel="dofollow">New Jersey</a><br>
