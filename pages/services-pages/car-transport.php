@@ -7,11 +7,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>We are expert in International Car Transport services.</title>
-    <meta name="We are expert in International Car Transport services." />
+    <title># 1 International Car Shipping Services In USA | Rapid Auto Shipping.</title>
+    <meta name="# 1 International Car Shipping Services In USA | Rapid Auto Shipping." />
     <meta name="description" content="When it comes to international car shipping services, Rapid Auto Shipping is most reliable and expert in auto shipping globally. Click for a free Quote!" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="We are expert in International Car Transport services." />
+    <meta property="og:title" content="# 1 International Car Shipping Services In USA | Rapid Auto Shipping." />
     <meta property="og:description" content="When it comes to international car shipping services, Rapid Auto Shipping is most reliable and expert in auto shipping globally. Click for a free Quote!" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/car-transport" />
     <meta property="og:site_name" content="Car transport services - Rapid Auto Shipping" />
