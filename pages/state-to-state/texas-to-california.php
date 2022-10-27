@@ -476,8 +476,8 @@
 
                 </div>
                 <div class="all-state-name-grids">
-                    <a href="<?= get_state() ?>" rel="dofollow">New Mexico</a><br>
-                    <a rel="dofollow" href="<?= get_state() ?>/new-york">New York</a><br>
+                    <a href="<?= get_state() ?>/new-mexico" rel="dofollow">New Mexico</a><br>
+                    <a href="<?= get_state() ?>/new-york" rel="dofollow">New York</a><br>
                     <a href="<?= get_state() ?>/north-carolina" rel="dofollow">North Carolina</a><br>
                     <a href="<?= get_state() ?>/north-dakota" rel="dofollow">North Dakota</a><br>
                     <a href="<?= get_state() ?>/ohio" rel="dofollow">Ohio</a><br>

@@ -539,8 +539,8 @@
 
                 </div>
                 <div class="all-state-name-grids">
-                    <a href="<?= get_state() ?>" rel="dofollow">New Mexico</a><br>
-                    <a rel="dofollow" href="<?= get_state() ?>/new-york">New York</a><br>
+                    <a href="<?= get_state() ?>/new-mexico" rel="dofollow">New Mexico</a><br>
+                    <a href="<?= get_state() ?>/new-york" rel="dofollow">New York</a><br>
                     <a href="<?= get_state() ?>/north-carolina" rel="dofollow">North Carolina</a><br>
                     <a href="<?= get_state() ?>/north-dakota" rel="dofollow">North Dakota</a><br>
                     <a href="<?= get_state() ?>/ohio" rel="dofollow">Ohio</a><br>
@@ -549,7 +549,6 @@
                     <a href="<?= get_state() ?>/pennsylvania" rel="dofollow">Pennsylvania</a><br>
                     <a href="<?= get_state() ?>/rhode-island" rel="dofollow">Rhode Island</a><br>
                     <a href="<?= get_state() ?>/south-carolina" rel="dofollow">South Carolina</a><br>
-
                 </div>
                 <div class="all-state-name-grids">
                     <a href="<?= get_state() ?>/south-dakota" rel="dofollow">South Dakota</a><br>
@@ -558,8 +557,8 @@
                     <a href="<?= get_state() ?>/utah-ut" rel="dofollow">Utah</a><br>
                     <a href="<?= get_state() ?>/vermont-vt" rel="dofollow">Vermont</a><br>
                     <a href="<?= get_state() ?>/virginia-va" rel="dofollow">Virginia</a><br>
-                    <a href="<?= get_state() ?>washington-wa" rel="dofollow">Washington</a><br>
-                    <a href="<?= get_state() ?>west-virginia-wv" rel="dofollow">West Virginia</a><br>
+                    <a href="<?= get_state() ?>/washington-wa" rel="dofollow">Washington</a><br>
+                    <a href="<?= get_state() ?>/west-virginia-wv" rel="dofollow">West Virginia</a><br>
                     <a href="<?= get_state() ?>/wisconsin-wi" rel="dofollow">Wisconsin</a><br>
                     <a href="<?= get_state() ?>/wyoming-wy" rel="dofollow">Wyoming</a><br>
                 </div>
