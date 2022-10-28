@@ -76,7 +76,7 @@ if (isset($_GET['page_id'])) {
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-                <h2 class="heading-1"><?= $data['page_h2'] ?></h2>
+                <p class="heading-1"><?= $data['page_h2'] ?></p>
                 <p class="para-2"><?= $data['page_about_2'] ?> </p>
             </div>
 

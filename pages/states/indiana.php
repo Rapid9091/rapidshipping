@@ -166,7 +166,7 @@
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="hhttps://whiteriverstatepark.org/" style="color:black;" title="Indiana Auto transport ">Holiday World & Splashin Safari</a>
+                </ion-icon><br> <a target="_blank" href="https://whiteriverstatepark.org/" style="color:black;" title="Indiana Auto transport ">Holiday World & Splashin Safari</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
