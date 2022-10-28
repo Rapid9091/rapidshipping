@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Top rated line haul transport services - Rapid auto shipping" />
     <meta property="og:description" content="If you tell Rapid Auto Shipping ahead of time, maybe we will be able to offer you a good discount on your Line Haul Transport request with our best service." />
-    <meta property="og:url" content=https://rapidautoshipping.com/services/line-haul-transport" />
+    <meta property="og:url" content="https://rapidautoshipping.com/services/line-haul-transport" />
     <meta property="og:site_name" content="line haul transport - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="linehaul transportation, linehaul transportation, linehaul logistics, line haul, line haul trucking, linehaul trucking, line haul carrier, line haul transportation, line-haul, line haul trucking companies, line haul tracking, what is linehaul, what is linehaul transportation, line haul carrier, what is linehaul trucking, what is line haul transportation, what is line haul, what is linehaul trucking, what is line haul transportation, what is line haul trucking, line haul rate, line haul rates, what is a line haul, loads on line, line haul rates" />

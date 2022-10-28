@@ -125,9 +125,6 @@
                 More Cities you maybe looking for
             </h2>
             <p class="utility_text" id="more_cities_in_texas">
-
-
-
                 Buffalo <span class="california-state-span" style="font-weight:bold;">||</span> Casper <span class="california-state-span" style="font-weight:bold;">||</span> Cheyenne <span class="california-state-span" style="font-weight:bold;">||</span> Cody <span class="california-state-span" style="font-weight:bold;">||</span> Douglas <span class="california-state-span" style="font-weight:bold;">||</span> Evanston <span class="california-state-span" style="font-weight:bold;">||</span> Gillette <span class="california-state-span" style="font-weight:bold;">||</span> Green River <span class="california-state-span" style="font-weight:bold;">||</span> Jackson <span class="california-state-span" style="font-weight:bold;">||</span> Lander <span class="california-state-span" style="font-weight:bold;">||</span> Laramie <span class="california-state-span" style="font-weight:bold;">||</span> Newcastle <span class="california-state-span" style="font-weight:bold;">||</span> Powell <span class="california-state-span" style="font-weight:bold;">||</span> Rawlins <span class="california-state-span" style="font-weight:bold;">||</span> Riverton <span class="california-state-span" style="font-weight:bold;">||</span> Rock Springs <span class="california-state-span" style="font-weight:bold;">||</span> Sheridan <span class="california-state-span" style="font-weight:bold;">||</span> Ten Sleep <span class="california-state-span" style="font-weight:bold;">||</span> Thermopolis <span class="california-state-span" style="font-weight:bold;">||</span> Torrington <span class="california-state-span" style="font-weight:bold;">||</span> Worland
             </p>
         </div>

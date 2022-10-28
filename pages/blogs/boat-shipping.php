@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Boat shipping or transport Services in USA" />
     <meta property="og:description" content="Rapid Auto Shipping - We are just a call away to provide you best Boat shipping or transportation services, at a very affordable price." />
-    <meta property="og:url" content="https://rapidautoshipping.com/blogs/boat-shipping-blog" />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/boat-shipping" />
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/blue-boat-clouds.png" />
     <meta property="og:site_name" content="International Boat Shipping - Rapid Auto Shipping " />
     <meta name='robots' content='index' />

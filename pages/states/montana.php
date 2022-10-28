@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Car Shipping Services | +1-833-233-4447 | Montana Auto Transport Company" />
     <meta property="og:description" content="Need Car Shipping service in Montana, you need an experienced Montana auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
-    <meta property="og:url" content=https://rapidautoshipping.com/states/montana" />
+    <meta property="og:url" content="https://rapidautoshipping.com/states/montana" />
     <meta property="og:site_name" content="Montana Transport - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
 
@@ -291,7 +291,7 @@
             <div class="seventh-california-state-box-content">
                 <h2 class="utility_sub-heading">Snowbird Shipping</h2>
                 <p class="text">
-                    The major leading snowbird <a href="<?= get_state() ?>"><strong>States</strong> </a> in the USA are <a title="More about auto shipping states" href="<?= home_path() ?>states/texas"> <span class="california-state-span"> Texas,</span> </a>
+                    The major leading snowbird <a href="<?= get_state() ?>"><strong>States</strong> </a> in the USA are <a title="More about auto shipping states" href="<?= home_path() ?>states/texas-tx"> <span class="california-state-span"> Texas,</span> </a>
                     <a title="More about auto shipping states" href="<?= home_path() ?>states/california"> <span class="california-state-span"> California,</span> </a>
                     <a title="More about auto shipping states" href="<?= home_path() ?>states/florida"> <span class="california-state-span"> Florida,</span> </a>
                     and other

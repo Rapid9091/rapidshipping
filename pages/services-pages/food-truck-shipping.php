@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Food truck transport service - Rapid Auto Shipping" />
     <meta property="og:description" content="Want to shift your food truck to a profitable place? Rapid Auto Shipping provides best service in food truck transport at a minimal cost across the USA." />
-    <meta property="og:url" content=https://rapidautoshipping.com/services/food-truck-shipping" />
+    <meta property="og:url" content="https://rapidautoshipping.com/services/food-truck-shipping" />
     <meta property="og:site_name" content="Food Truck Shipping - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="food transportation trucks, food transport truck, tow food truck, food delivery truck companies, transports food, Food Truck Services, food truck company near me, trucks that deliver food, food transport companies, food transportation companies, tow food truck, moving food truck, heavy food truck, food truck delivery, heavys food truck, transport food, food service truck, shipping container food trailer, heavy's food truck, shipping container food truck, moving food truck, food truck delivery service near me, best truck for towing food trailer, food transport, large food trucks" />

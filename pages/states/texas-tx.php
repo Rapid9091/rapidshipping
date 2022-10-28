@@ -596,3 +596,5 @@
     <?php include_once page_bottom ?>
 
 </body>
+
+</html>

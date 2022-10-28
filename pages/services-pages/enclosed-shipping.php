@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Rapid Auto Shipping - Enclosed Auto Transport" />
     <meta property="og:description" content="Rapid Auto Shipping is One Of The Best Enclosed Auto Transport Service Providers. We Give Reliable Enclosed Car Shipping  Services. Get Quote Now" />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/services/enclosed-shipping" />
+    <meta property="og:url" content="https://rapidautoshipping.com/services/enclosed-shipping" />
     <meta property="og:img" content="https://rapidautoshipping.com/assets/images/vaibhav-img-2.png" />
     <meta property="og:site_name" content="open transport car shipping - Rapid Auto Shipping " />
     <meta name='robots' content='index' />

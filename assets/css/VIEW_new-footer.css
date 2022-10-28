@@ -4,10 +4,6 @@
   color: #000;
 }
 
-/* .footer-map-grid {
-     grid-template-rows: repeat(2, 1fr);
- } */
-
 .footer-map-grid-1 > iframe {
   height: 250px;
   width: 100%;
@@ -151,6 +147,12 @@
 }
 
 .footer-urls-grid-1 > h3 {
+  color: var(--nav-color);
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.footer-grid-headings {
   color: var(--nav-color);
   font-weight: bold;
   font-size: 20px;

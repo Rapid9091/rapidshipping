@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Port to Port Transport Services - Rapid Auto Shipping" />
     <meta property="og:description" content="Rapid Auto Shipping - Port to Port Transport Services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in Port to Port Transport in all states of the USA." />
-    <meta property="og:url" content="https://rapidautoshipping.com/blogs/port-to-port-transport" />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/port-to-port-transportation" />
     <meta property="og:site_name" content="Port to port transport services - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="Port to port transport services,Port to port transportation,Cheap Port to port services, Port to port transport services company,Port to port transportation services near me, Port to port transport companies ,Port to port transport cost,Port to port transport services for hire near me" />

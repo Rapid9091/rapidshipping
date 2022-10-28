@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Top car transporter services provider - Rapid Auto Shipping" />
     <meta property="og:description" content="Are you shifting and looking to ship your car with safety? We are expert in car service transport at an affordable price in all states of the USA." />
-    <meta property="og:url" content=https://rapidautoshipping.com/services/car-shipping-services" />
+    <meta property="og:url" content="https://rapidautoshipping.com/services/car-shipping-services" />
     <meta property="og:site_name" content="Car shipping services - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car transportation, auto transport, car shipping cost, car transporter, car transport services , car shipping services, vehicle transportation services, car delivery service, car shipping companies, car transport company, car transport, shipping services, car shipping quotes, vehicle transport services, car transporters, vehicle transportation, car transportation services, car movers, vehicle transport, enclosed car transport, auto transport companies, car transport services, car transport companies, transport car, cross country auto transport, auto transport near me, car moving companies, cross country car transport, enclosed auto transport" />

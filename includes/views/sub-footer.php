@@ -80,7 +80,7 @@
 <section class="main-footer">
     <div class="footer-urls-grid">
         <div class="footer-urls-grid-1">
-            <h3>Quick Links</h3>
+            <h3 class="footer-grid-headings">Quick Links</h3>
             <ul>
                 <li><a href="<?= home_path(); ?>">Home</a></li>
                 <li><a href="<?= home_path(); ?>about-us">About Us</a></li>
@@ -139,7 +139,7 @@
             </ul>
         </div>
         <div class="footer-urls-grid-1">
-            <h3>States we serve </h3>
+            <p class="footer-grid-headings">States we serve </p>
             <ul>
                 <li><a href="<?= home_path(); ?>states/georgia">Georgia</a></li>
                 <li><a href="<?= home_path(); ?>states/hawaii">Hawaii</a></li>
@@ -158,7 +158,7 @@
             </ul>
         </div>
         <div class="footer-urls-grid-1">
-            <h3>Services we offer</h3>
+            <p class="footer-grid-headings">Services we offer</p>
             <ul>
                 <li><a href="<?= home_path(); ?>services/heavy-hauling-truck">Heavy Haul Trucking</a></li>
                 <li><a href="<?= home_path(); ?>services/fifth-wheel-transport">fifth wheel transport</a></li>
@@ -180,7 +180,7 @@
 
         <!-- New section to add more blog links which can't be added in header -->
         <div class="footer-urls-grid-1">
-            <h3>Blogs Of Our Company</h3>
+            <p class="footer-grid-headings">Blogs Of Our Company</p>
             <ul>
                 <li><a href="<?= home_path(); ?>blogs/port-to-port-transportation">Port to port auto transport</a></li>
                 <li><a href="<?= home_path(); ?>blogs/shipping-a-dump-truck">Dump truck transport in USA</a></li>
@@ -199,7 +199,7 @@
 
 
         <div class="footer-urls-grid-1">
-            <h3>State to state</h3>
+            <p class="footer-grid-headings">State to state</p>
             <ul>
                 <li><a href="<?= home_path(); ?>state-to-state">State to state</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/alabama-to-alaska">Alabama to Alaska</a></li>
@@ -211,7 +211,7 @@
 
         <!-- New section to add more blog links which can't be added in header -->
         <div class="footer-urls-grid-1">
-            <h3>More Blogs </h3>
+            <p class="footer-grid-headings">More Blogs </p>
             <ul>
                 <li><a href="<?= home_path(); ?>blogs/benefits-of-hiring-an-auto-transport-company">Benefits of hiring an auto transport company ?</a></li>
                 <li><a href="<?= home_path(); ?>blogs/how-to-ship-a-truck">How to ship a truck ?</a></li>

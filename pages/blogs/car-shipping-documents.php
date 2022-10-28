@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Car shipping documents" />
     <meta property="og:description" content="Rapid Auto Shipping - Car shipping documents provided by RAS. Call +1-833-233-4447, We are expert in car shipping tips or transportation in all states of the USA." />
-    <meta property="og:url" content="https://rapidautoshipping.com/blogs/car-shipping-document" />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/car-shipping-documents" />
     <meta property="og:site_name" content="Car shipping documents  - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="Best Auto Shipping Company USA, car transportation services, top vehicle shipping companies, American auto shipping company, best auto shipping company in the USA,  best auto shipping company ,affordable car shipping prices " />

@@ -300,7 +300,7 @@
             <div class="seventh-california-state-box-content">
                 <h2 class="utility_sub-heading">Snowbird Shipping</h2>
                 <p class="text">
-                    The major leading snowbird <a href="<?= get_state() ?>"><strong>States</strong> </a> in the USA are <a title="More about auto shipping states" href="<?= home_path() ?>states/texas"> <span class="california-state-span"> Texas,</span> </a>
+                    The major leading snowbird <a href="<?= get_state() ?>"><strong>States</strong> </a> in the USA are <a title="More about auto shipping states" href="<?= home_path() ?>states/texas-tx"> <span class="california-state-span"> Texas,</span> </a>
                     <a title="More about auto shipping states" href="<?= home_path() ?>states/california"> <span class="california-state-span"> California,</span> </a>
                     <a title="More about auto shipping states" href="<?= home_path() ?>states/florida"> <span class="california-state-span"> Florida,</span> </a>
                     and others. All routes that move from north to south are referred to as snowbird routes. Furthermore, during the snowbird season, rates tend to soar because drivers have so many options that they always choose the most expensive option. Customers are urged not to be attracted by the lowest prices because they will be wasting their time at the end of the day.

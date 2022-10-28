@@ -297,3 +297,5 @@
     include ready_to_move; ?>
     <?php include_once page_bottom ?><script src="<?= get_assets(); ?>/js/qna.js"></script>
 </body>
+
+</html>

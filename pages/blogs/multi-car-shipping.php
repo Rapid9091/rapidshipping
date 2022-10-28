@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best multi car shipping company in USA " />
     <meta property="og:description" content="Rapid Auto Shipping - Best multi car shipping services provided by RAS, at a very affordable price. Call +1-833-233-4447" />
-    <meta property="og:url" content="https://rapidautoshipping.com/blogs/multi-car-shipping-blog" />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/multi-car-shipping" />
     <meta property="og:site_name" content="Multi Car shipping - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="multi car transport, multiple car shipping quotes, multiple vehicle transport, shipping multiple cars, multi car shipping, multiple auto transport quotes, multiple car transport quotes, multi car transport companies, multiple auto shipping quotes, multiple car carrier" />

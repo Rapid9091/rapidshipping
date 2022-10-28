@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Car Shipping Services | +1-833-233-4447 | Louisiana Auto Transport Company" />
     <meta property="og:description" content="Need Car Shipping service in Louisiana, you need an experienced Louisiana auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/louisiana" />
+    <meta property="og:url" content="https://rapidautoshipping.com/states/louisiana" />
     <meta property="og:site_name" content="auto transport louisiana - Rapid Auto Shipping " />
     <meta name='robots' content='index' />
     <meta name="keywords" content="louisana transport, auto transport louisiana, ship car to la, nola automotive monroe la, nola automotive monroe la, louisiana car, la car carrier, monroe auto transport, la transport, transport service baton rouge la, transport la, transportation in louisiana, louisiana shipping company, louisana transport, auto transport louisiana, ship car to la, nola automotive monroe la, nola automotive monroe la, louisiana car, la car carrier, monroe auto transport, la transport, transport service baton rouge la, transport la, transportation in louisiana">
