@@ -413,7 +413,7 @@
             <div class="third-california-state-grid-1">
                 <ion-icon name="timer-sharp"></ion-icon>
                 <h3 class="sub-heading">24 * 7 customer support</h3>
-                <p class="text">Our team of professionals at best Texas Auto Transport company work around the clock, 365 days a year, to ensure our car shipping service runs like clockwork. and provide you Assisstance 24*7.</p>
+                <p class="text">Our team of professionals at best Texas Auto Transport company work around the clock, 365 days a year, to ensure our <a href="https://rapidautoshipping.com/services/car-shipping-services" title="Car shipping services">car shipping services</a> runs like clockwork. and provide you Assisstance 24*7.</p>
                 <div class="third-california-state-grid-1-btn">
                     <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
