@@ -26,7 +26,7 @@
     <meta property=" article:tag" content="heavy hauling services" />
     <meta property=" article:tag" content="heavy haul trucking company" />
     <meta property=" article:tag" content="heavy haulers" />
-    <meta property=" article:tag" content="heavy haul carriers" />"/>
+    <meta property=" article:tag" content="heavy haul carriers" />
     <meta property=" article:tag" content="heavy hauling companies" />
     <meta property=" article:tag" content="heavy hauling trucking" />
     <meta property=" article:tag" content="heavy haul transport companies" />
@@ -78,6 +78,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Heavy Hauling truck shipping";
+        $PARAGRAPH = " The normal vehicle and contents should be able to fit into a large enclosed container. Clients with goods that requires a container that is even larger than an enclosed container are not uncommon. Rapid Auto Shipping can assist you with heavy hauling trucks moving large cargo in this situation. Rapid Auto Shipping will assist you with heavy transportation if your truck demands it. When it comes to heavy hauling trucks conveying large cargo, however, there are numerous things that can go wrong. Rapid Auto Shipping does a good job of managing all of those risks, and will do everything possible to ensure that it is the best truck hauling company for you and your needs.";
         include small_form;
         ?>
     </div>
