@@ -355,7 +355,7 @@
             <div class="seventh-california-state-box-content">
                 <h2 class="utility_sub-heading">Snowbird Shipping</h2>
                 <p class="text">
-                    <a title="More about auto shipping states" href="<?= home_path() ?>states/texas"> <span class="california-state-span"> Texas,</span> </a>
+                    <a title="More about auto shipping states" href="<?= home_path() ?>states/texas-tx"> <span class="california-state-span"> Texas,</span> </a>
                     <a title="More about auto shipping states" href="<?= home_path() ?>states/california"> <span class="california-state-span"> California,</span> </a>
                     <a title="More about auto shipping states" href="<?= home_path() ?>states/florida"> <span class="california-state-span"> Florida,</span> </a>
                     and other
