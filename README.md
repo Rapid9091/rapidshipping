@@ -15,7 +15,7 @@ FACEBOOK   👉-- https://www.facebook.com/Rapid-Auto-Shipping-105964451981199 <
 INSTAGRAM  👉 -- https://www.instagram.com/rapidautoshipping/ <br /><br />
 TWITTER    👉-- https://twitter.com/ShippingRapid  <br /><br />
 LINKEDIN   👉-- https://www.linkedin.com/in/rapid-auto-shipping-ba4593232/  <br /><br />
-TELEPHONE  📞 -- +1833-233-4447 <br /><br />
+TELEPHONE  📞 -- <a href="tel:+1833-233-4447">+1833-233-4447</a> <br /><br />
 LOCATION    📌-- https://www.google.com/maps?ll=34.468384,-101.304284&z=5&t=m&hl=en&gl=US&mapclient=embed&cid=11474043018341862120  <br /><br />
 
 WE SHIP YOUR VEHICLE AT LEAST TIME TO YOUR DESIRED LOCATION ON YOUR CONVIENEANCE
