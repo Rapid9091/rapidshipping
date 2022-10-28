@@ -40,7 +40,7 @@ $state_list = fetch_all_data($query_to_fetch_state);
 
         <div class="breadcumb-search-parent">
             <div class="breadcumb">
-                <a href="">Home</a>><a href="">State-to-state</a>
+                <a href="<?= home_path() ?>">Home</a>><a href="#">State-to-state</a>
             </div>
             <div class="search">
                 <input type="text" id="search" placeholder="Search" onkeyup="serach_data(this.value)">
