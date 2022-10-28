@@ -1,13 +1,9 @@
 <?php
 include_once "../../init.php";
-
-
 if (isset($_GET['PAGE'])) {
     $pageId = _get('PAGE');
 }
-
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 

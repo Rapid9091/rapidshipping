@@ -1,6 +1,5 @@
-<?php include_once "../../init.php";
-
-
+<?php
+ include_once "../../init.php";
 if (isset($_GET['page_id'])) {
     $slug = $_GET['page_id'];
 
@@ -12,9 +11,7 @@ if (isset($_GET['page_id'])) {
 } else {
     header("Location: " . home_path() . "state-to-state");
 }
-
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 
