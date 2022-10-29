@@ -146,7 +146,7 @@ if (isset($_GET['page_id'])) {
                 </ul>
 
                 <div class="shipping-form-state-image">
-                    <img src="https://dashboard.growupnext.in/rapidautoshipping/assets/images/blog/<?= $data['state_to_img'] ?>" alt="<?= $data['state_to_img_alt'] ?>" />
+                    <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_form_img'] ?>" alt="<?= $data['state_to_img_alt'] ?>" />
                 </div>
             </section>
 
