@@ -1,5 +1,5 @@
 <?php
- include_once "../../init.php";
+include_once "../../init.php";
 if (isset($_GET['page_id'])) {
     $slug = $_GET['page_id'];
 
@@ -429,5 +429,11 @@ if (isset($_GET['page_id'])) {
         }
     </script>
 </body>
+
+
+<!-- <title>Auto transport Alabama to New Jersey (Alabama to New Jersey car shipping)</title>
+
+<meta name="description" content="Moving your Vehicle to New Jersey Rapid Auto Shipping provides Alabama to New Jersey car shipping service, Call 8332334447, cost to ship car from Alabama to New Jersey" /> -->
+
 
 </html>
