@@ -670,7 +670,7 @@
 
             <div class="blog-page-blog-section-grid-left">
                 <div class="blog-page-blog-section-grid-img-container">
-                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666773997/Recent%20Uploads/discount-2789863_960_720_qdliok.png" alt="Discounts for car shipping">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping-min_tdvjxf.jpg" alt="Summer car shipping">
                     <a href="<?= home_path() ?>blogs/summer-car-shipping">
                         <div class="blog-page-blog-section-grid-heading-container">
                             <h2>TIPS FOR SUMMER CAR SHIPPING 
@@ -684,6 +684,22 @@
                 </div>
             </div>
 
+            <!-- Blog for Race car transport -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667295810/Recent%20Uploads/fast-1281628__180_iugfm7.jpg" alt="Race cars shipping">
+                    <a href="<?= home_path() ?>blogs/race-car-transport-services">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Race Car Transport
+                            </h2>
+                            <p>
+                                If you own a race car, it's likely that you never want it to travel on public roads, even if it is street legal. So what do you do when you have to drive your race car somewhere? The solution is actually quite straightforward; you will need to hire a race car transport agency or an auto transport company.
+                            <p class="comments-on-blogs-page-dynamic">5.2k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
         </div>
     </section>
     <!-- footer here -->
