@@ -280,41 +280,7 @@
         </div>
 
     </section>
-
-    <!-- additional section -->
-    <!-- <section class="third-section">
-
-        <h2 class="main-heading-for-big-screen">About safety vehicle during <b>Shipping</b></h2>
-
-        <div class="line--div"></div>
-
-        <p>While in route, all of our car shipments are fully insured. This includes damage caused by our drivers or employees, as well as damage caused by equipment failure or by the assigned auto shipment or car transport truck's equipment failure. By law, all of our drivers and transport vehicles must have a minimum of $700,000 in public liability insurance.
-            <a href="" style="color:black;"> Search Safety Ratings</a>,
-            <a href="" style="color:black;">Road Safety Tips,</a>
-            <a href="" style="color:black;"> Drunk and Drug Impaired driving,</a>
-            <a href="" style="color:black;"> Driver Assisstance Technology</a>
-        </p>
-    </section> -->
     <?php include car_key_section; ?>
-
-    <!-- <section class="seventh-section-home">
-        <h2 class="main-heading-for-big-screen">We provide solutions for all your <span><b>Auto Shipping</b></span> Needs</h2>
-
-        <p>We will answer all your queries and provide apt solutions as per your requirements. Trust our team for providing honest solutions to all your requirements.
-
-        </p>
-
-        <p>Contact us for all your Auto Shipping needs. We provide 24X7 customer support.
-
-        </p>
-
-        <button>
-            <a href="<?= home_path(); ?>contact-us" style="color:#fff;">Contact Us</a>
-        </button>
-
-
-    </section> -->
-
     <?php include_once page_bottom ?>
 
 
