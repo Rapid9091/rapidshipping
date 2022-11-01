@@ -68,11 +68,6 @@
             ]
         }
     </script>
-
-
-
-
-
     <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
@@ -223,10 +218,6 @@
                         <h3>By Rail</h3>
                         <p>Rail transportation in the United States consists.... </p>
                     </div>
-                    <!-- <div class="hover-full-line">
-
-                    </div> -->
-
                 </div>
             </a>
             <a href="<?= home_path(); ?>services/enclosed-shipping">
@@ -238,10 +229,6 @@
                         <h3>Enclosed Auto Transport</h3>
                         <p>Your vehicle will be transported in a completely ....</p>
                     </div>
-                    <!-- <div class="hover-full-line">
-
-                    </div> -->
-
                 </div>
 
             </a>
@@ -254,10 +241,6 @@
                         <h3>Door To Door Shipping</h3>
                         <p>We do not use terminals where vehicles are ....</p>
                     </div>
-                    <!-- <div class="hover-full-line">
-
-                    </div> -->
-
                 </div>
             </a>
             <a href="<?= home_path(); ?>services/motor-cycle-shipping">
@@ -269,10 +252,6 @@
                         <h3>Motorcycle Transport</h3>
                         <p>Shipping motorcycle shipping has never been easier....</p>
                     </div>
-                    <!-- <div class="hover-full-line">
-
-                    </div> -->
-
                 </div>
             </a>
 
@@ -285,10 +264,6 @@
                         <h3>Snow Bird Shipping</h3>
                         <p>If you're a snowbird who heads south when the winter....</p>
                     </div>
-                    <!-- <div class="hover-full-line">
-
-                    </div> -->
-
                 </div>
             </a>
             <a href="<?= home_path(); ?>services/boat-shipping">
@@ -440,10 +415,6 @@
             duration: 1000,
         });
     </script>
-
-    <body>
-
-    </body>
 
 </html>
 

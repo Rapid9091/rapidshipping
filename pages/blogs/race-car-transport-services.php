@@ -142,7 +142,7 @@
                     <p>
                         Transport in an enclosed vehicle is protected from the elements of the road and the weather. For luxury and vintage vehicles, covered trailers are advised. This form of transport is more expensive and scarce because just 10% of the whole U.S. auto freight fleet is enclosed. Our group is an enclosed auto transport specialist. We have access to a large network of carriers that daily pick up and deliver autos around the country.
                     </p>
-                    <img style="width:100%" src="<?= get_img() ?>transports_enclosed-1.png" alt="Enclosed auto transport">
+                    <img style="width:100%" src="<?= get_img() ?>transports_enclosed-1.png" alt="Race car Enclosed auto transport">
                 </div>
                 <div class="new-blog-section-one">
                     <h2><span> PROMPT DELIVERY </span></h2>
