@@ -695,11 +695,50 @@
                             </h2>
                             <p>
                                 If you own a race car, it's likely that you never want it to travel on public roads, even if it is street legal. So what do you do when you have to drive your race car somewhere? The solution is actually quite straightforward; you will need to hire a race car transport agency or an auto transport company.
+                            </p>
                             <p class="comments-on-blogs-page-dynamic">5.2k Views</p>
                         </div>
                     </a>
                 </div>
             </div>
+
+
+            <!-- Blog for Weather affects on shipping -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667464921/Recent%20Uploads/1_wiJ-qE51cQdz638EptCt7w_obn85d.jpg" alt="Weather Affects on shipping" />
+                    <a href="<?= home_path() ?>blogs/how-the-weather-affects-auto-transport">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Affects of weather while shipping
+                            </h2>
+                            <p>
+                                The convenience of having a car shipped from one place to another is being discovered by more and more individuals, which is why the auto shipping industry is gaining popularity. After all, they offer a highly practical and trustworthy service at a reasonable cost. 
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">1.9k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for Weather affects on shipping -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping.-min_ooxowf.jpg" alt="Best car shipping company in the USA" />
+                    <a href="<?= home_path() ?>blogs/10-questions-to-ask-an-auto-transport-company">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>10 questions to ask an auto-transport company
+                            </h2>
+                            <p>
+                                The majority of consumers make the error of selecting a vehicle transport business solely based on online reviews. Currently, reading online reviews is a crucial and required stage in the process, but it is only one step. To make sure your auto shipping company is the best fit for the job, you should also call them and ask them a number of questions.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">4.2k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->

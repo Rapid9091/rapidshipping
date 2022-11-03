@@ -98,7 +98,9 @@
         ?>
     </div>
     <?php include strip_under_header; ?>
+
     <?php include reviews; ?>
+
     <!-- data section of home page -->
     <section class="third-section">
 
