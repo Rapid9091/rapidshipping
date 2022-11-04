@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Top questions to ask a auto transport company" />
     <meta property="og:description" content="Top questions to ask a auto transport company,we provide services at a very affordable price. Call +1-833-233-4447, We provide car shipping services in USA." />
-    <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-the-weather-affects-auto-transport.php" />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/10-questions-to-ask-an-auto-transport-company" />
     <meta property="og:site_name" content="Top questions to ask a auto transport company " />
     <meta name='robots' content='index' />
     <meta name="keywords" content="Car Transport in USA,Car shipping in USA, auto transport in USA, international car shipping in USA, car shipping in USA , car shipping  serives near me, TOP GLOBAL CAR SHIPPING COMPANY IN USA,  GLOBAL CAR SHIPPING COMPANY IN USA " />

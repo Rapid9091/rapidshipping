@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Car shipping in different weathers-- Rapid Auto Shipping" />
     <meta property="og:description" content="Rapid Auto Shipping - Car shipping in different weathers provided by RAS, at a very affordable price. Call +1-833-233-4447, We provide car shipping in USA in different weathers." />
-    <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-the-weather-affects-auto-transport.php" />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-the-weather-affects-auto-transport" />
     <meta property="og:site_name" content="Car shipping in different weathers-- Rapid Auto Shipping " />
     <meta name='robots' content='index' />
     <meta name="keywords" content="Car Transport in summers,Car Transport in winters, auto transport in summer, auto transport in winter, international car shipping in summer,international car shipping in winter, race car shipping in summer , car shipping in summers serives near me, car shipping in winter serives near me, TOP GLOBAL CAR SHIPPING COMPANY IN USA,  GLOBAL CAR SHIPPING COMPANY FOR SUMMER TRANSPORT IN USA,GLOBAL CAR SHIPPING COMPANY FOR WINTER TRANSPORT IN USA " />
