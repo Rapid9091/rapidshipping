@@ -383,7 +383,6 @@
             <i class="fas fa-times"></i>
         </div>
     </div>
-
 </header>
 <!-- ------------------------------- -->
 <!-- ---dialog box on opening site--- -->
