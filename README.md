@@ -19,5 +19,3 @@ TELEPHONE  📞 -- <a href="tel:+1833-233-4447">+1833-233-4447</a> <br /><br />
 LOCATION    📌-- https://www.google.com/maps?ll=34.468384,-101.304284&z=5&t=m&hl=en&gl=US&mapclient=embed&cid=11474043018341862120  <br /><br />
 
 WE SHIP YOUR VEHICLE AT LEAST TIME TO YOUR DESIRED LOCATION ON YOUR CONVIENEANCE
-
-New files added

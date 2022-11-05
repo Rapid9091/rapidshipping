@@ -4,6 +4,7 @@
 
 .new-blog-section-one > h2 {
   margin-bottom: 2%;
+  text-transform: uppercase;
 }
 
 .new-blog-section-one > img {

@@ -119,7 +119,7 @@
 
     <section class="two-california-state " id="famous_attracions_in_connecticut">
         <h2 class="utility_main-heading">Some famous Auto Transport in <span class="california-state-span">Connecticut</span> Cities</h2>
-        <img loading="lazy" src="<?= get_img() ?>connecticut-bg-1.jpeg" alt="Connecticut Auto Transport company">
+        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667645990/states%20images/connecticut.jpg" alt="Connecticut Auto Transport company">
         <p class=" text">
             Connecticut is a state in the south part of the United States of America. It is New England's southernmost state, bordering Massachusetts, New York, and Rhode Island. Given its location and size, Auto Transport in Connecticut should not be difficult to come by
         </p>

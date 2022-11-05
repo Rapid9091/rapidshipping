@@ -670,7 +670,7 @@
 
             <div class="blog-page-blog-section-grid-left">
                 <div class="blog-page-blog-section-grid-img-container">
-                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666773997/Recent%20Uploads/discount-2789863_960_720_qdliok.png" alt="Discounts for car shipping">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping-min_tdvjxf.jpg" alt="Summer car shipping">
                     <a href="<?= home_path() ?>blogs/summer-car-shipping">
                         <div class="blog-page-blog-section-grid-heading-container">
                             <h2>TIPS FOR SUMMER CAR SHIPPING 
@@ -679,6 +679,79 @@
                                 The busiest season for shipping cars is summer. People typically like to make a significant move when the sun is out. The housing sector is now busy helping buyers and sellers in preparation for additional summer movers. It makes sense to utilize a car shipping service when moving a long distance in order to prevent damage to your automobile. In addition to reducing the risk of an accident, it also saves you money on fuel, meals, and tolls. </p>
 
                             <p class="comments-on-blogs-page-dynamic">3.9k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for Race car transport -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667295810/Recent%20Uploads/fast-1281628__180_iugfm7.jpg" alt="Race cars shipping">
+                    <a href="<?= home_path() ?>blogs/race-car-transport-services">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Race Car Transport
+                            </h2>
+                            <p>
+                                If you own a race car, it's likely that you never want it to travel on public roads, even if it is street legal. So what do you do when you have to drive your race car somewhere? The solution is actually quite straightforward; you will need to hire a race car transport agency or an auto transport company.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">5.2k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+
+            <!-- Blog for Weather affects on shipping -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667464921/Recent%20Uploads/1_wiJ-qE51cQdz638EptCt7w_obn85d.jpg" alt="Weather Affects on shipping" />
+                    <a href="<?= home_path() ?>blogs/how-the-weather-affects-auto-transport">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Affects of weather while shipping
+                            </h2>
+                            <p>
+                                The convenience of having a car shipped from one place to another is being discovered by more and more individuals, which is why the auto shipping industry is gaining popularity. After all, they offer a highly practical and trustworthy service at a reasonable cost. 
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">1.9k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for Weather affects on shipping -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping.-min_ooxowf.jpg" alt="Best car shipping company in the USA" />
+                    <a href="<?= home_path() ?>blogs/10-questions-to-ask-an-auto-transport-company">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>10 questions to ask an auto-transport company
+                            </h2>
+                            <p>
+                                The majority of consumers make the error of selecting a vehicle transport business solely based on online reviews. Currently, reading online reviews is a crucial and required stage in the process, but it is only one step. To make sure your auto shipping company is the best fit for the job, you should also call them and ask them a number of questions.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">4.2k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for Pros and cons of Door to Door auto shipping -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831346/RapidAutoShipping/door-to-door-bg_s7iy56.jpg" alt="Door to door auto transport in USA" />
+                    <a href="<?= home_path() ?>blogs/pros-and-cons-of-door-to-door-auto-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Pros and Cons of door to door auto transport
+                            </h2>
+                            <p>
+                                You, the customer, will select the pick-up and drop-off sites for your car when it is transported door to door. Terminal to terminal, door to terminal, and terminal to door services are the substitutes. There isn't a choice that is plainly better than the others because it all depends on the circumstances. The pros and cons of door-to-door auto shipping will be discussed in the paragraphs that follow.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">3.1k Views</p>
                         </div>
                     </a>
                 </div>

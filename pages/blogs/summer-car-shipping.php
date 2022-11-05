@@ -96,7 +96,7 @@
                         <br><br>
                         There is no denying, though, that moving an automobile in the summer may be difficult. Therefore, knowing these practical suggestions for shipping a car in the summer might be helpful.
                     </p>
-                    <img style="width:100%" src="<?= get_img() ?>motorcycle-shipping-car-bg.jpg" alt="Multi car shipping">
+                    <img style="width:100%" src="<?= get_img() ?>motorcycle-shipping-car-bg.jpg" alt="Summer car shipping">
                 </div>
                 <div class="new-blog-section-one">
                     <h2><span>BOOK IMMEDIATELY  </span></h2>
@@ -113,7 +113,7 @@
                         <br><br>
                         As required by law, the majority of licenced auto transportation businesses have current insurance coverage. Don't be afraid to request a review of the policy to determine what is covered. A trustworthy service provider won't be reluctant to demonstrate this to you. After all, if something goes wrong on the road, this document will safeguard both you and the shipper.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666090070/insurance-img_kthtmn.jpg" alt="Summer car shipping">
+                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666090070/insurance-img_kthtmn.jpg" alt="car shipping in summers">
                 </div>
 
 
@@ -134,7 +134,7 @@
                         <br><br>
                         Avoiding open trailers is the best course of action because they will shield your car from the sun's glaring rays and keep it from overheating. The driver of the carrier could also adjust the carrier's temperature in accordance with the weather to give cars the safest trip possible.
                     </p>
-                    <img style="width:100%" src="<?= get_img() ?>transports_enclosed-1.png" alt="Enclosed auto transport">
+                    <img style="width:100%" src="<?= get_img() ?>transports_enclosed-1.png" alt="Enclosed auto transport in summers">
                 </div>
                 <div class="new-blog-section-one">
                     <h2><span> SELECT A REPUTABLE AUTO TRANSPORT COMPANY  </span></h2>

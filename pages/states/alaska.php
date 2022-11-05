@@ -129,7 +129,7 @@
 
     <section class="two-california-state " id="famous_attracions_in_alaska">
         <h2 class="utility_main-heading">Some famous Auto Transport in <span class="california-state-span">Alaska</span> Cities</h2>
-        <img loading="lazy" src="<?= get_img() ?>alaska-bg-1.jpg" alt="Alaska Auto Transport company">
+        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667644809/states%20images/alaska.jpg" alt="Alaska Auto Transport company">
         <p class=" text">
             <a href="https://en.wikipedia.org/wiki/Alaska" title="Alaska"><span class="california-state-span">Alaska</span></a>
             is a state in the United States of America with a population of 732,673. Overlanding an automobile to or from Alaska is usually not an option. While this appears to be the most logical approach, geopolitics essentially screams no.
