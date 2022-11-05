@@ -128,7 +128,7 @@ if (isset($_GET['page_id'])) {
 
                     <li id="step">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">How to ship Vehicle <span><?= $data['state_form'] . " to " . $data['state_to'] ?></span>?</h2>
+                            <p class="heading-1">How to ship Vehicle <span><?= $data['state_form'] . " to " . $data['state_to'] ?></span>?</p>
                             <p class="para-2">It's as simple as 1-2-3 to ship a car from <?= $data['state_form'] . " to " . $data['state_to'] ?> with Rapid Auto Shipping.
                                 <br><br>
                                 <b>Step 1:</b> Get a quick auto shipment quote for <?= $data['state_form'] . " to " . $data['state_to'] ?> Auto Shipping and schedule a pickup time that works for you.

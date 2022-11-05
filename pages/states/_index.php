@@ -50,8 +50,7 @@
         <h1><span style="color:#ff5722;">Auto Shipping States</span> We Serve In <br></h1>
         <h2>
             Select your pickup state below for more information and carrier availability in that area.
-
-        </h2>
+       </h2>
 
         <div class="map-location">
 

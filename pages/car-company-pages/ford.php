@@ -92,24 +92,7 @@
 
 
                 </div>
-                <div class="first-section-sub">
-                    <details class="first-section-cars-sub-name" id="first-section-cars-sub-name">
-
-                        <summary>
-                            <h3>Ford Super Duty Auto Transportation</h3>
-                        </summary>
-                        <div class="first-section-cars-sub-details-0" id="first-section-cars-sub-details-2">
-                            <p>Ford Super Duty Auto Transportation Model and Brand Specific Auto Shipping Information Get a quote now or call +1 833-233-4447 ..</p>
-
-                            <a href="#">READ MORE</a>
-                        </div>
-
-
-                    </details>
-
-
-
-                </div>
+               
                 <div class="first-section-sub">
 
 
