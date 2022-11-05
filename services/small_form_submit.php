@@ -5,7 +5,7 @@ include_once '../config.php';
 $con =  mysqli_connect($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
 
 $response = [];
-$time_stamp = date("Y-m-d");
+// $time_stamp = date("Y-m-d");
 
 if (isset($_POST['name']) && $_POST['name'] != ""  && isset($_POST['email']) && $_POST['email'] != "" && isset($_POST['mobile']) && $_POST['mobile'] != "") {
 
@@ -26,7 +26,7 @@ if (isset($_POST['name']) && $_POST['name'] != ""  && isset($_POST['email']) && 
         throwResponse($response);
     }
 
-    $query_data = "INSERT INTO `form_query` ( `name`, `email`, `number`, `added_on`) VALUES ('$name', '$email', $number, $time_stamp);";
+    $query_data = "INSERT INTO `form_query` ( `name`, `email`, `number`, `added_on`) VALUES ('$name', '$email', $number, current_timestamp());";
     $res = mysqli_query($con, $query_data);
 
     $to = "info@rapidautoshipping.com , amankeshari5937@gmail.com";

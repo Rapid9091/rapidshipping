@@ -86,7 +86,7 @@
             </div>
             <div class="blog-page-blog-section-grid-left">
                 <div class="blog-page-blog-section-grid-img-container">
-                    <img loading="lazy" src="<?= get_img() ?>connecticut-bg-1.jpeg" alt="car shipping blogs">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping.-min_ooxowf.jpg" alt="car shipping blogs">
                     <a href="<?= home_path() ?>blogs/state-to-state-transport">
                         <div class="blog-page-blog-section-grid-heading-container">
                             <h2> State to State Car Transport</h2>
@@ -579,7 +579,7 @@
 
             <div class="blog-page-blog-section-grid-left">
                 <div class="blog-page-blog-section-grid-img-container">
-                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666086713/309651459_641246254345587_8009733258234704806_n_qo3mn5.jpg" alt="How to ship a truck">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831367/RapidAutoShipping/bus-shipping-1_lcwbf0.png" alt="How to ship a truck">
                     <a href="<?= home_path() ?>blogs/how-to-ship-a-truck">
                         <div class="blog-page-blog-section-grid-heading-container">
                             <h2>How to ship a truck ?

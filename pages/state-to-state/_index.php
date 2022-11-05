@@ -431,9 +431,11 @@ if (isset($_GET['page_id'])) {
 </body>
 
 
-<!-- <title>Auto transport Alabama to New Jersey (Alabama to New Jersey car shipping)</title>
+<!-- <title>Auto transport New Mexico to Alabama (New Mexico to Alabama car shipping)</title>
 
-<meta name="description" content="Moving your Vehicle to New Jersey Rapid Auto Shipping provides Alabama to New Jersey car shipping service, Call 8332334447, cost to ship car from Alabama to New Jersey" /> -->
+<meta name="description" content="Moving your Vehicle to Alabama Rapid Auto Shipping provides New Mexico to Alabama car shipping service, Call 8332334447, cost to ship car from New Mexico to Alabama" />
+
+-->
 
 
 </html>
