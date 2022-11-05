@@ -8,7 +8,8 @@
 }
 
 h1 > span,
-h2 > span {
+h2 > span,
+heading-1 > span {
   color: var(--nav-color);
 }
 

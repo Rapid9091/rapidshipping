@@ -119,9 +119,9 @@
         </div>
     </section>
     <section class="first-sub-service-page">
-        <h2 class="sub-service-heading-main">
+        <h4 class="sub-service-heading-main">
             Request a Free Food Truck Hauling Quote Now!
-        </h2>
+        </h4>
         <p>
             Your food truck's security is critical, and you need a hauling firm that can ensure that it remains safe until it is delivered. The safety of every equipment we move is a top priority for Rapid Auto Shipping. For the transportation of all loads, we have all of the necessary requirements, licenses, and permits. For moving all heavy equipment across the United States, Mexico, and Canada, we are licensed, unlicensed and bonded. We ensure that all machinery is insured, regardless of their value, to ensure that they are safe in the event of an emergency. Additionally, we secure all state and county permissions required for truck transportation, obtain all necessary paperwork, and use specialized drivers to move your trucks.<br><br> We also recognize the importance of having vehicles that can accommodate all of your vehicle's dimensions while transporting it safely, which is why we offer trailers such as adjustable flatbeds, drop decks, removable goosenecks, and step decks to ensure that your truck is properly matched for shipping.
 

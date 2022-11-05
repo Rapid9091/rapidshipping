@@ -114,8 +114,8 @@
 
     <section class="military-shipping-sixth-section">
         <div class="military-shipping-sixth-section-info">
-            <h2 class="sub-service-heading-main">Tractor Transport
-            </h2>
+            <h4 class="sub-service-heading-main">Tractor Transport
+            </h4>
             <p class="services-subtheory-lines-small">
                 The majority of big tractors are transported on flatbed trailers. Heavy-duty fasteners, chains, straps, and other shipping gear and technologies are then used to secure the equipment. In certain circumstances, security cars track the hauler carrying the trailer to ensure a safe gap between the driver and other vehicles on the road at the time. To provide additional notice, a sign reading "oversize load" may be placed on the back of the trailer.
             </p>

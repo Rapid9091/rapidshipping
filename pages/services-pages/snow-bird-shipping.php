@@ -133,9 +133,9 @@
         </p>
     </section>
     <section class="first-sub-service-page">
-        <h2 class="sub-service-heading-main">
+        <h4 class="sub-service-heading-main">
             SNOWBIRDS AUTO TRANSPORT
-        </h2>
+        </h4>
         <p>
             We Will Transport provides snowbird transportation. Any car, truck, minivan, or SUV cannot be shipped without an upfront deposit, and we strongly advise you to avoid dealing with any organization that does. Here are some snowbird transportation guidelines to help you have better outcomes if you're exporting from the north to Florida and from us canada auto transport. Make your reservation at least 30 to 45 days in advance to save money and guarantee a space on our rig. Give the vehicle's year, manufacturer, and model. If you prefer enclosed or open transportation, please let us know. (Ask the agent about enclosed shipping pricing and availability; enclosed shipping is more expensive owing to insurance requirements.) Allow for some flexibility in terms of pickup and delivery dates.
 

@@ -88,7 +88,7 @@
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-                <h2 class="heading-1">Auto transport <span> Texas to California</span> </h2>
+                <p class="heading-1">Auto transport <span> Texas to California</span> </p>
 
                 <p class="para-2">
                     When shipping a vehicle from your location, you must also consider where the vehicle will be dropped off. We genuinely provide door-to-door service from anyplace in Texas to anywhere in California! Yes, it is right! We will ship to any delivery location from any address provided! Inquire about our Express service.

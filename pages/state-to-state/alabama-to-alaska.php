@@ -71,7 +71,7 @@
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-                <h2 class="heading-1"><span>Alabama to Alaska</span> Auto Shipping</h2>
+                <p class="heading-1"><span>Alabama to Alaska</span> Auto Shipping</p>
                 <p class="para-2"> We have decades of long-distance car shipping experience to offer our clients. We use covered auto carriers, <a href="<?= home_path() ?>services/open-car-shipping">Open Carriers Transport</a> , and <a href="<?= home_path() ?>services/lowboy-shipping">Lowboy Trucks</a> to transport your automobile safely and securely, all at a reasonable <a href="<?= home_path() ?>blogs/cost-to-ship-a-car">Cost</a>. Our experienced crew provides accurate quotes, prompt pickups, and ongoing communication throughout the transportation process. Book your spot today by <a href="<?= home_path() ?>contact-us">Contacting Us</a>, using our safe, easy online system, which is available 24/7, or by phoning one of our skilled shipping representatives.
                 </p>
             </div>

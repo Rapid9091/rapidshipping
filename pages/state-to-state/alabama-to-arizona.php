@@ -110,8 +110,8 @@
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-                <h2 class="heading-1"><span>Alabama To Arizona</span> Auto Shipping
-                </h2>
+                <p class="heading-1"><span>Alabama To Arizona</span> Auto Shipping
+                </p>
 
                 <p class="para-2">
                     We use covered auto carriers, open carriers, and flatbed trucks to transport your automobile safely and securely, all at a reasonable cost. Our experienced crew provides accurate quotes, prompt pickups, and ongoing communication throughout the transportation process. Book your spot today using our safe, easy online system, which is available 24/7, or by phoning one of our skilled shipping representatives or you can fill our form and our executive will reach you as soon as possible.
