@@ -88,7 +88,7 @@
   <section class="third-section-service">
     <div class="service-vehicle">
 
-      <img loading="lazy" src="<?= get_img() ?>train-auto-1-0.png" alt=" transporter services">
+      <img loading="lazy" src="<?= get_img() ?>rail-service-img.jpg" alt=" transporter services">
 
       <div class="service-vehicle-content service-vehicle-content-01">
         <h5 class="page-left-sub-heading">CAR SHIPPING VIA RAILS</h5>
@@ -126,7 +126,7 @@
     </div>
     <div class="service-vehicle">
 
-      <img loading="lazy" src="<?= get_img() ?>auction-car-img-bg.png" alt="auction car">
+      <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667643399/Recent%20Uploads/photo-1543465077-db45d34b88a5_nhwyau.jpg" alt="auction car shipping">
 
       <div class="service-vehicle-content service-vehicle-content-01">
         <h2 class="page-left-sub-heading">TRANSPORT SERVICES FOR AUTO AUCTION</h2>
