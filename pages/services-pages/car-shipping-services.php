@@ -115,9 +115,9 @@
     </section>
     <section class="military-shipping-sixth-section">
         <div class="military-shipping-sixth-section-info">
-            <h2 class="sub-service-heading-main">
+            <p class="sub-service-heading-main">
                 Car Shipping Services
-            </h2>
+            </p>
             <p>
                 Rapid Auto Shipping is one of the greatest vehicle shipping firms in the country. For example, we have over ten years of experience, have moved over 50,000 cars, and have driven millions of miles coast-to-coast. As a result, our high-quality car delivery services have become well-known throughout the United States. We transport a wide range of vehicles, including automobiles, motorbikes, and boats, as well as ATVs, RVs, and heavy equipment. As a result, our comprehensive suite of first-class shipping services will ensure that you receive prompt door-to-door service for the whole transportation of your automobile. Finally, we are a leader in the vehicle transport sector, with an A+ rating from the Better Business Bureau.
             </p>
