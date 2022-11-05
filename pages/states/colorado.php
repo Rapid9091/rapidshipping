@@ -109,7 +109,7 @@
 
      <section class="two-california-state " id="famous_attracions_in_colorado">
          <h2 class="utility_main-heading">Some famous <span class="california-state-span">Colorado</span> Auto Transport Cities</h2>
-         <img loading="lazy" src="<?= get_img() ?>Colorado-transport-dark.jpg" alt="Colorado Auto Transport company">
+         <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667645589/states%20images/colorado.jpg" alt="Colorado Auto Transport company">
          <p class=" text">
              Colorado is a state in the western part of the United States of America. Because it has the 22nd largest population, finding car transportation to Colorado should not be difficult
          </p>

@@ -113,7 +113,7 @@
 
     <section class="two-california-state " id="famous_attracions_in_arkansas">
         <h2 class="utility_main-heading">Some famous Auto Transport in <span class="california-state-span">Arkansas</span> Cities</h2>
-        <img loading="lazy" src="<?= get_img() ?>alaska-bg.jpg" alt="Arkansas Auto Transport company">
+        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667646121/states%20images/arkansas.jpg" alt="Arkansas Auto Transport company">
         <p class=" text">
             The southern region of the United States is where the state of <a href="<?= home_path(); ?>states/arkansas"><b>Arkansas</b></a> is situated. More than 2.9 million individuals live there as of right now. Arkansas is the 32nd most populous of the 50 States in terms of population. </p>
 

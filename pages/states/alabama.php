@@ -121,7 +121,7 @@
 
     <section class="two-california-state " id="famous_attracions_in_alabama">
         <h2 class="utility_main-heading">Some famous Auto Transport in <span class="california-state-span">Alabama</span> Cities</h2>
-        <img loading="lazy" src="<?= get_img() ?>albama-two.png" alt="Alabama Auto Transport company">
+        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667644255/states%20images/alabama.jpg" alt="Alabama Auto Transport company">
         <p class=" text">
             <a href="https://www.alabama.gov/" title="More about Alabama"><span class="california-state-span">Alabama</span></a> is a state in the United States of America with a population of over 4.8 million people. In terms of an overall area, the state is now ranked 30th out of fifty states.
         </p>

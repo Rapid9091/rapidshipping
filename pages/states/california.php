@@ -136,7 +136,7 @@
 
   <section class="two-california-state " id="famous_visiting-point">
     <h2 class="utility_main-heading">Some famous attractions in California</h2>
-    <img src="<?= get_img() ?>california-bg.jpeg" alt="auto transport california">
+    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667645818/states%20images/california.jpg" alt="auto transport california">
     <p class="text">California is mainly divided into more than 12 parts and in this 12 parts we have various destinations we can visit too . Some of the most famous destinations where you can enjoy with the family are mentioned below. </p>
     <ul class="utility_grid">
       <li>
@@ -535,4 +535,5 @@
 
   <script src="<?= get_assets(); ?>/js/qna.js"></script>
 </body>
+
 </html>

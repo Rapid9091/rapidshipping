@@ -115,7 +115,7 @@
 
     <section class="two-california-state " id="famous_attracions_in_arizona">
         <h2 class="utility_main-heading">Some famous attractions in <span class="california-state-span">Arizona</span></h2>
-        <img loading="lazy" src="<?= get_img() ?>arizona-bg.png" alt="Arizona Auto Transport company">
+        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667645478/states%20images/arizona.jpg" alt="Arizona Auto Transport company">
         <p class=" text">Arizona is a state in the United States of America and the state has a population of approximately 6.6 million people and was the last of the contiguous states to gain statehood. The Grand Canyon, which is located in Arizona, is a major tourist attraction that attracts millions of visitors each year.</p>
 
         <div class="more-califrnian-cities">
