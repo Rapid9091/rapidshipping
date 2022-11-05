@@ -75,13 +75,13 @@
         <p class="page-normal-text">
           <strong> Hard-Sided Enclosed Car Transport -</strong> A fully enclosed car trailer is known as a hard-sided enclosed transport.
         </p>
-        <a href=" <?= home_path(); ?>services/enclosed-shipping" class="more-info-service">
+        <a href="<?= home_path(); ?>services/enclosed-shipping" class="more-info-service">
           <p>More Info</p>
           <i class="fas fa-chevron-right"></i>
         </a>
       </div>
       <div class="car-transport-imgg">
-        <img loading="lazy" src="<?= get_img() ?>transports_enclosed-1.png" alt="rapid auto shipping services" id="b">
+        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/cash-macanaya-9cSMMMSmZzY-unsplash-1024x1024_hbosfx.jpg" alt="rapid auto shipping services" id="b">
       </div>
     </div>
   </section>
@@ -135,10 +135,7 @@
           vehicle from the auction lot must be addressed.
 
         </p>
-        <!-- <p>
-          Rapid Auto Shipping can arrange auto auction transport services to bring your vehicle or cars to or from the auction lot, whether you're buying or selling a car at an auction. We'll manage the auction auto shipping services you'll need to make sure the excitement of the auction isn't marred by logistical issues.
 
-        </p> -->
         <a href=" <?= home_path(); ?>services/auto-auction-shipping" class="more-info-service">
           <p>More Info</p>
           <i class="fas fa-chevron-right"></i>
@@ -204,11 +201,11 @@
           <i class="fas fa-chevron-right"></i>
         </a>
       </div>
-      <img loading="lazy" src="<?= get_img() ?>military-bg.jpeg" alt="services on rapid auto shipping">
+      <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667635340/unsplash-image-FbVFidLP_f0_pfedob.jpg" alt="services on rapid auto shipping">
     </div>
     <div class="service-vehicle">
 
-      <img loading="lazy" src="<?= get_img() ?>snowbird-shipping-2.jpeg" alt="rapid auto shipping services">
+      <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665832014/received_594529625738657_y8wkkh.jpg" alt="rapid auto shipping services">
 
       <div class="service-vehicle-content service-vehicle-content-01">
         <h5 class="page-left-sub-heading">SHIPPING SERVICES FOR SNOWBIRDS</h5>
@@ -240,11 +237,11 @@
           <i class="fas fa-chevron-right"></i>
         </a>
       </div>
-      <img loading="lazy" src="<?= get_img() ?>door-to-door-bg.jfif" alt="Door to door">
+      <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667289367/pikwizard-4c4d7abfd6bf59ce17368b8570f5f9d9_anot0r.jpg" alt="Door to door">
     </div>
     <div class="service-vehicle">
 
-      <img loading="lazy" src="<?= get_img() ?>boat-port-1.jpeg" alt="auto transports">
+      <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667637211/Recent%20Uploads/pexels-photo-4558369_clqufj.jpg" alt="auto transports">
 
       <div class="service-vehicle-content service-vehicle-content-01">
         <h5 class="page-left-sub-heading">SHIPPING SERVICES FOR BOATS</h5>

@@ -93,7 +93,7 @@
                         Every day, Rapid Auto Shipping ships sports and racing automobiles both domestically and abroad. Our team of logistics coordinators will make the best recommendation possible based on their expertise.
                         <br><br> The five steps for race car transport are as follows:
                     <ul>
-                        <li style="list-style:disc;"> A truck with an auto shipping company arrives to pick up your car.</li>
+                        <li style="list-style:disc;"> A truck with an <a href="https://rapidautoshipping.com/" title="best auto shipping company in USA"> auto shipping company </a>arrives to pick up your car.</li>
                         <li style="list-style:disc;"> The carrier completes the report for the vehicle pre-load check (BOL).</li>
                         <li style="list-style:disc;"> The carrier loads the car and secures it inside the trailer with straps.</li>
                         You sign your BOL when the automobile is attached to the trailer and secured.

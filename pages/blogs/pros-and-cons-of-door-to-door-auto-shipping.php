@@ -90,7 +90,7 @@
                 <div class="new-blog-section-one">
                     <h2><span>These are the benefits of this kind of service: (👍) </span></h2>
                     <p>
-                        Of course, there are many advantages of door to door auto transport. They are as follows for shipment from door to door:
+                        Of course, there are many advantages of <a href="https://rapidautoshipping.com/services/door-to-door" title="more about door to door auto transport"><span> door to door auto transport </span></a>. They are as follows for shipment from door to door:
 
                     </p>
                     <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667549582/Recent%20Uploads/services-4070150_960_720_mwryqa.jpg" alt="Door to door auto shipping advantages">
