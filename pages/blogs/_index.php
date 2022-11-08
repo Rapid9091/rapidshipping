@@ -757,6 +757,24 @@
                 </div>
             </div>
 
+
+            <!-- Blog for Pros and cons of  auto shipping -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping-min_tdvjxf.jpg" alt="Auto transport in USA" />
+                    <a href="<?= home_path() ?>blogs/pros-and-cons-of-auto-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Pros and Cons of auto shipping
+                            </h2>
+                            <p>
+                                Making an informed decision about relocating a vehicle requires careful consideration of both the benefits and drawbacks of car transportation. Before selecting your options for shipping your car, you must take into account a number of factors.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">5.4k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
         </div>
     </section>
     <!-- footer here -->
