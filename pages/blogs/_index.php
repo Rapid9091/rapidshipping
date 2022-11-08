@@ -811,6 +811,23 @@
                 </div>
             </div>
 
+            <!-- Blog for Flatbed auto shipping carriers -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831375/RapidAutoShipping/vaibhv-img_rjhueu.png" alt="Flatbed auto shipping" />
+                    <a href="<?= home_path() ?>blogs/flatbed-auto-shipping-carriers">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Flatbed auto shipping carriers
+                            </h2>
+                            <p>
+                                Because there are so few flatbed auto shipping carriers on the road today, they are in a completely different situation than open or enclosed transport trucks. This is due to the relatively low demand for flatbed shipping; if 95% of all vehicles shipped annually are transported using open transport trucks, another 3% are transported using enclosed auto shipping carriers, and 1% are motorcycles, then only a small portion of vehicles are transported using flatbeds. In contrast to the majority of auto transport companies, flatbed carriers generally do not follow predetermined routes; instead, they travel a wide area while using little gasoline.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">3.4k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
         </div>
     </section>
     <!-- footer here -->
