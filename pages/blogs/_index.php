@@ -114,7 +114,7 @@
             </div>
             <div class="blog-page-blog-section-grid-left">
                 <div class="blog-page-blog-section-grid-img-container">
-                    <img loading="lazy" src="<?= get_img() ?>bg-2.jpeg" alt="rapid auto shipping blogs">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667635294/photo-1636070762406-4262052fa6ef_xrkfy5.jpg" alt="rapid auto shipping blogs">
                     <a href="<?= home_path() ?>blogs/terminal-to-terminal-auto-transport">
                         <div class="blog-page-blog-section-grid-heading-container">
                             <h2>Terminal to terminal auto transport</h2>
@@ -128,7 +128,7 @@
             </div>
             <div class="blog-page-blog-section-grid-left">
                 <div class="blog-page-blog-section-grid-img-container">
-                    <img loading="lazy" src="<?= get_img() ?>florida-bg-1.png" alt="rapid auto shipping blogs">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667824843/Recent%20Uploads/money-1673582_tjnbqc.png" alt="rapid auto shipping blogs">
                     <a href="<?= home_path() ?>blogs/ship-from-new-york-to-florida">
                         <div class="blog-page-blog-section-grid-heading-container">
                             <h2>Cost to ship a car from New York to florida</h2>
@@ -142,7 +142,7 @@
             </div>
             <div class="blog-page-blog-section-grid-left">
                 <div class="blog-page-blog-section-grid-img-container">
-                    <img loading="lazy" src="<?= get_img() ?>california-bg.jpeg" alt="rapid auto shipping blogs">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667825404/Recent%20Uploads/dollar-RAS_yhiv84.jpg" alt="rapid auto shipping blogs">
                     <a href="<?= home_path() ?>blogs/cost-from-texas-to-california">
                         <div class="blog-page-blog-section-grid-heading-container">
                             <h2>Cost to ship a car from taxes to California</h2>
@@ -157,7 +157,7 @@
             </div>
             <div class="blog-page-blog-section-grid-left">
                 <div class="blog-page-blog-section-grid-img-container">
-                    <img loading="lazy" src="<?= get_img() ?>dodge-cars.jpg" alt="rapid auto shipping blogs">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667824835/Recent%20Uploads/financial-ga82751651_1920_g9gv1w.jpg" alt="rapid auto shipping blogs">
                     <a href="<?= home_path() ?>blogs/cost-to-ship-a-car">
                         <div class="blog-page-blog-section-grid-heading-container">
                             <h2>Cost to ship a car </h2>
@@ -189,7 +189,7 @@
             <!-- Blog for cost of car shipping in USA -->
             <div class="blog-page-blog-section-grid-left">
                 <div class="blog-page-blog-section-grid-img-container">
-                    <img loading="lazy" src="<?= get_img() ?>dodge-cars-bg.jpg" alt="Cost of auto transport USA">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667823935/Recent%20Uploads/cost-of-RAS.png" alt="Cost of auto transport USA">
                     <a href="<?= home_path() ?>blogs/cost-to-ship-a-car">
                         <div class=" blog-page-blog-section-grid-heading-container">
                             <h2>Cost To Ship A Car In USA ? </h2>

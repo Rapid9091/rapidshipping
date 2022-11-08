@@ -120,6 +120,9 @@
                                 <li>
                                     <ion-icon name="car"></ion-icon><a href="<?= home_path() ?>cars/mazda">Mazda</a>
                                 </li>
+                                <li>
+                                    <ion-icon name="car"></ion-icon><a href="<?= home_path() ?>cars/honda">Honda</a>
+                                </li>
 
                             </ul>
                         </div>

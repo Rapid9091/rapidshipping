@@ -10,8 +10,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Honda Car Shipping</title>
-  
+    <title>Best Honda Auto Transport Services In USA | Rapid Auto Shipping</title>
+
+    <meta name="title" content="Best Honda Auto Transport Services In USA | Rapid Auto Shipping">
+    <meta name="description" content="Rapid Auto Shipping is the best Honda auto transport company in the USA. Our services make it easier for you to buy, sell and trade-in your car! Call us today." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Best Honda Auto Transport Services In USA | Rapid Auto Shipping" />
+    <meta property="og:description" content="Rapid Auto Shipping is the best Honda auto transport company in the USA. Our services make it easier for you to buy, sell and trade-in your car! Call us today." />
+    <meta property="og:url" content="https://rapidautoshipping.com/cars/honda" />
+    <meta property="og:site_name" content="Auto Transport Services  -  Rapid Auto Shipping " />
+    <meta name='robots' content='index' />
+    <meta name="keywords" content="Honda services by Rapid Auto Shipping, Honda car shipping service, Honda car shipping, Honda auto transports, Honda transporter services, Honda transporter">
+    <meta property="article:tag" content="Honda transporter services" />
+    <meta property="article:tag" content="Honda auto transports" />
+    <meta property="article:tag" content="Honda car shipping" />
+    <meta property="article:tag" content="Honda car shipping service" />
+    <meta property="article:tag" content="Honda services by Rapid Auto Shipping" />
+
     <link property="image" href="<?= get_img(); ?>chvrolet-cars.jpeg" />
 
     <!-- <link href="css/style.css" rel="stylesheet"> -->
