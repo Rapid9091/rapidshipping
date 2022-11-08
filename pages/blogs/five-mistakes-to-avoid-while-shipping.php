@@ -34,7 +34,7 @@
     <style>
         .contact-us-header-page {
             width: 100%;
-            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/e_brightness:-50/v1667634733/car-shipping-calculator_zlkem2.jpg');
+            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/e_brightness:-70/v1667634733/car-shipping-calculator_zlkem2.jpg');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
