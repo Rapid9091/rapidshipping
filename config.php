@@ -48,9 +48,8 @@ if (mode == 1) {
     //
 } else {
 
-    #
+
     // edit this details based on your database info and domain info
-    #
     // database info
     $DB_HOST = "localhost";
     $DB_USER = "root";
