@@ -757,7 +757,6 @@
                 </div>
             </div>
 
-
             <!-- Blog for Pros and cons of  auto shipping -->
 
             <div class="blog-page-blog-section-grid-left">
@@ -775,6 +774,24 @@
                     </a>
                 </div>
             </div>
+
+            <!-- Blog for How to avoid auto shipping scams ? -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667901158/Recent%20Uploads/scams_d8gtxr.jpg" alt="Auto Shipping Scams" />
+                    <a href="<?= home_path() ?>blogs/how-to-avoid-auto-shipping-scam">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>How to avoid Auto Shipping Scam ?
+                            </h2>
+                            <p>
+                                Scams consistently cause significant financial loss to both people and businesses. Sadly, scammers frequently target the vehicle transport industry. There are many instances of consumers putting their trust in phony websites and businesses that entice customers to select their "imaginary" shipping services. Therefore, if you intend to send your car, it is crucial to understand how to avoid an auto shipping scam. We will discuss common scams in more detail below, along with advice on how to avoid an auto shipping scam. </p>
+                            <p class="comments-on-blogs-page-dynamic">13k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
