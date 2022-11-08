@@ -792,6 +792,25 @@
                 </div>
             </div>
 
+            <!-- Blog for 5 mistakes to avoid when shipping a vehicle? -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666432435/Recent%20Uploads/exotic-car-min_jbuf4y.jpg" alt="Auto Shipping Mistakes" />
+                    <a href="<?= home_path() ?>blogs/five-mistakes-to-avoid-while-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>5 mistakes to avoid when shipping a vehicle
+                            </h2>
+                            <p>
+                                Even for people who have moved their cars more than once, the process of moving a car can be stressful.
+                                Without knowing what to watch out for, it's simple to pay more than is essential. Or even worse, you can be taken advantage of by shady auto transportation businesses. You should also think about the possible harm that could result from having an amateur handle your car.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">25.2k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
