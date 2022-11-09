@@ -76,7 +76,7 @@
     <!-- -------------------------------------- -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "TIPS FOR WINTER CAR SHIPPING ";
+        $NAME = "TIPS FOR CAR SHIPPING IN WINTERS ";
         $PARAGRAPH = "Being a seasonal business, car shipping is busiest during the warmer months and noticeably slower during the colder ones. Unavoidably, the landscape of car transportation will change as a result of these variations in supply and demand. The customer must understand the best strategies for navigating the winter auto shipping season because these changes have an impact on Carrier availability and market pricing structures.";
         include small_form;
         ?>

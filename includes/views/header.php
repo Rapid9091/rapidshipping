@@ -61,6 +61,7 @@
         border: none;
         color: var(--color-bg-3);
         font-size: 18px;
+        cursor: pointer;
     }
 
     .sub-menu-child>ul>li {
@@ -419,6 +420,7 @@
         padding: 2px 11px;
         outline: none;
         font-size: 20px;
+        cursor: pointer;
     }
 
     .open_offer_container_last_btns {
