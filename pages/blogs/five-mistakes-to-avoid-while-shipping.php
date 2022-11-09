@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>5 mistakes to avoid when shipping a vehicle</title>
+    <title>Mistakes to avoid while shipping your vehicle</title>
     <meta name="title" content="5 mistakes to avoid when shipping a vehicle" />
     <meta name="description" content="5 mistakes to avoid when shipping a vehicle, we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping services in USA. " />
     <meta property="og:type" content="website" />
@@ -34,7 +34,7 @@
     <style>
         .contact-us-header-page {
             width: 100%;
-            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/e_brightness:-50/v1667634733/car-shipping-calculator_zlkem2.jpg');
+            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/e_brightness:-85/v1667634733/car-shipping-calculator_zlkem2.jpg');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
