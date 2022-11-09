@@ -126,68 +126,62 @@
         </p>
 
         <ul class="utility_grid">
-
-
-
-
-
-
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://faneuilhallmarketplace.com/" style="color:black;" title="Iowa Auto transport ">Faneuil Hall</a>
+                </ion-icon><br> <a target="_blank" href="https://faneuilhallmarketplace.com/" style="color:black;" title="Minnesota Auto transport ">Faneuil Hall</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://www.capecodchamber.org/things-to-do/beaches/" style="color:black;" title="Iowa Auto transport ">Cape Cod Beaches</a>
+                </ion-icon><br> <a target="_blank" href="https://www.capecodchamber.org/things-to-do/beaches/" style="color:black;" title="Minnesota Auto transport ">Cape Cod Beaches</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://swanboats.com/" style="color:black;" title="Iowa Auto transport ">Boston Common and Public Garden Swan Boats</a>
+                </ion-icon><br> <a target="_blank" href="https://swanboats.com/" style="color:black;" title="Minnesota Auto transport ">Boston Common and Public Garden Swan Boats</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://www.dmbotanicalgarden.com/https://en.wikipedia.org/wiki/Fenway_Park" style="color:black;" title="Iowa Auto transport ">Fenway Park</a>
+                </ion-icon><br> <a target="_blank" style="color:black;" title="Minnesota Auto transport ">Fenway Park</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br><a href="https://www.harvardsquare.com/" style="color:black;" title="Iowa Auto transport ">Harvard Square and Museums
+                </ion-icon><br><a href="https://www.harvardsquare.com/" style="color:black;" title="Minnesota Auto transport ">Harvard Square and Museums
                 </a>
             </li>
 
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://www.thefreedomtrail.org/" style="color:black;" title="Iowa Auto transport ">Freedom Trail</a>
+                </ion-icon><br> <a target="_blank" href="https://www.thefreedomtrail.org/" style="color:black;" title="Minnesota Auto transport ">Freedom Trail</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://plimoth.org/plan-your-visit/explore-our-sites/mayflower-ii" style="color:black;" title="Iowa Auto transport ">Mayflower II and Plimoth Plantation</a>
+                </ion-icon><br> <a target="_blank" href="https://plimoth.org/plan-your-visit/explore-our-sites/mayflower-ii" style="color:black;" title="Minnesota Auto transport ">Mayflower II and Plimoth Plantation</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
                 </ion-icon><br>
-                <a target="_blank" href="https://www.historicsalem.org/" style="color:black;" title="Iowa Auto transport ">Salem's Historic Houses</a>
+                <a target="_blank" href="https://www.historicsalem.org/" style="color:black;" title="Minnesota Auto transport ">Salem's Historic Houses</a>
             </li>
 
             <li>
                 <ion-icon name="locate-sharp">
                 </ion-icon><br>
-                <a target="_blank" href="https://stellwagen.noaa.gov/" style="color:black;" title="Iowa Auto transport "> Marine Sanctuary</a>
+                <a target="_blank" href="https://stellwagen.noaa.gov/" style="color:black;" title="Minnesota Auto transport "> Marine Sanctuary</a>
 
             </li>
             <li>
                 <ion-icon name="locate-sharp">
                 </ion-icon><br>
-                <a target="_blank" href="https://www.osv.org/" style="color:black;" title="Iowa Auto transport ">Old Sturbridge Village</a>
+                <a target="_blank" href="https://www.osv.org/" style="color:black;" title="Minnesota Auto transport ">Old Sturbridge Village</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://www.bso.org/tanglewood" style="color:black;" title="Iowa Auto transport ">Tanglewood Concerts</a>
+                </ion-icon><br> <a target="_blank" href="https://www.bso.org/tanglewood" style="color:black;" title="Minnesota Auto transport ">Tanglewood Concerts</a>
 
             </li>
             <li>
                 <ion-icon name="locate-sharp">
                 </ion-icon><br>
-                <a target="_blank" href="https://www.nrm.org/" style="color:black;" title="Iowa Auto transport ">Norman Rockwell Museum</a>
+                <a target="_blank" href="https://www.nrm.org/" style="color:black;" title="Minnesota Auto transport ">Norman Rockwell Museum</a>
 
             </li>
 
