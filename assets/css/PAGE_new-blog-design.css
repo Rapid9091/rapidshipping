@@ -10,6 +10,7 @@
 .new-blog-section-one > img {
   border-radius: 5px;
   margin-top: 2%;
+  max-height: 450px;
 }
 .new-blog-section-one > ul > li > ion-icon {
   margin-top: 8px;
