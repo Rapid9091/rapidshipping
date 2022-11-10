@@ -847,6 +847,24 @@
                 </div>
             </div>
 
+            <!-- Blog for Top Tips For Preparing Your Car For An Auction  -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667643399/Recent%20Uploads/photo-1543465077-db45d34b88a5_nhwyau.jpg" alt="Auction car shipping" />
+                    <a href="<?= home_path() ?>blogs/tips-for-preparing-your-car-for-auction">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Top Tips For Preparing Your Car For An Auction 
+                            </h2>
+                            <p>
+                                Finding a buyer for your used car at an auto auction is a clever approach to get the price you desire or maybe more. It's an online or website-based sale where owners of used cars list their cars.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">2.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
