@@ -509,7 +509,7 @@ include_once "init.php";
                 </li>
                 <li><a href="https://rapidautoshipping.com/contact-us">Rapid Auto Sipping - Contact Us</a></li>
                 <li><a href="https://rapidautoshipping.com/about-us">Rapid Auto Sipping - About Us</a></li>
-                <li><a href="#" onclick="return false">Auto-transport-carriers</a>
+                <li><a href="https://rapidautoshipping.com/auto-transport-carriers">Auto-transport-carriers</a>
                     <ul>
                         <?php
 
@@ -520,7 +520,7 @@ include_once "init.php";
                             for ($i = 0; $i < count($page_list); $i++) {
                                 $slug = $page_list[$i]['slug'];
                                 $title = getTitle($auto_carrier_path . $slug);
-                                if ($i > 3) {
+                                if ($i > count($page_list)) {
                                     echo '<li class="collapsed_item"><a href="' . $auto_carrier_path . $slug . '">' . $title . '</a></li>';
                                 } else {
                                     echo '<li><a href="' . $auto_carrier_path . $slug . '">' . $title . '</a></li>';
@@ -533,7 +533,7 @@ include_once "init.php";
                     </ul>
                 </li>
 
-                <li><a href="#" onclick="return false">state-to-state</a>
+                <li><a href="https://rapidautoshipping.com/state-to-state">state-to-state</a>
                     <ul>
                         <?php
 
@@ -541,14 +541,13 @@ include_once "init.php";
 
                         $page_list = fetch_all_data("SELECT `slug` FROM `state_to_state`");
 
-                        print_r($page_list);
-                        exit;
+
 
                         if ($page_list) {
                             for ($i = 0; $i < count($page_list); $i++) {
                                 $slug = $page_list[$i]['slug'];
                                 $title = getTitle($auto_carrier_path . $slug);
-                                if ($i > 3) {
+                                if ($i > count($page_list)) {
                                     echo '<li class="collapsed_item"><a href="' . $auto_carrier_path . $slug . '">' . $title . '</a></li>';
                                 } else {
                                     echo '<li><a href="' . $auto_carrier_path . $slug . '">' . $title . '</a></li>';

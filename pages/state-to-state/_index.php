@@ -431,11 +431,7 @@ if (isset($_GET['page_id'])) {
 </body>
 
 
-<!-- <title>Auto transport Mississippi to Alabama (Mississippi to Alabama car shipping)</title>
 
-<meta name="description" content="Moving your Vehicle to Alabama Rapid Auto Shipping provides Mississippi to Alabama car shipping service, Call 8332334447, cost to ship car from Mississippi to Alabama" />
-
--->
 
 
 </html>
