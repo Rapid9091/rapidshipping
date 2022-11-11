@@ -1,5 +1,6 @@
 <?php
 include_once "../../init.php";
+
 if (isset($_GET['page_id'])) {
     $slug = $_GET['page_id'];
 

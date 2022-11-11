@@ -96,7 +96,7 @@ $state_list = fetch_all_data($query_to_fetch_state);
                                 </div>
 
                                 <div>
-                                    <a style="text-decoration:underline;" href="https://rapidautoshipping.com/state-to-state/<?= $state['slug'] ?> " class="btn-yellow-1">View More</a>
+                                    <a style="text-decoration:underline;" href="<?= home_path() . "state-to-state/" . $state['slug'] ?> " class="btn-yellow-1">View More</a>
                                 </div>
 
                             </div>
