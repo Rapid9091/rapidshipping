@@ -24,7 +24,7 @@ if (isset($_GET['page_id'])) {
     <title><?= $data['title'] ?></title>
 
     <?= $data['meta'] ?>
-    <link rel="canonical" href="rapidautoshipping.com/state-to-state/<?= $data['slug'] ?>" />
+    <link rel="canonical" href="<?= home_path() . "state-to-state/" . $data['slug'] ?>" />
 
     <!--     Google Analytics Code Start -->
 
