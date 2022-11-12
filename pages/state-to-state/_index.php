@@ -1,5 +1,6 @@
 <?php
 include_once "../../init.php";
+
 if (isset($_GET['page_id'])) {
     $slug = $_GET['page_id'];
 
@@ -23,7 +24,7 @@ if (isset($_GET['page_id'])) {
     <title><?= $data['title'] ?></title>
 
     <?= $data['meta'] ?>
-    <link rel="canonical" href="rapidautoshipping.com/state-to-state/<?= $data['slug'] ?>" />
+    <link rel="canonical" href="<?= home_path() . "state-to-state/" . $data['slug'] ?>" />
 
     <!--     Google Analytics Code Start -->
 
@@ -431,11 +432,7 @@ if (isset($_GET['page_id'])) {
 </body>
 
 
-<!-- <title>Auto transport Mississippi to Alabama (Mississippi to Alabama car shipping)</title>
 
-<meta name="description" content="Moving your Vehicle to Alabama Rapid Auto Shipping provides Mississippi to Alabama car shipping service, Call 8332334447, cost to ship car from Mississippi to Alabama" />
-
--->
 
 
 </html>

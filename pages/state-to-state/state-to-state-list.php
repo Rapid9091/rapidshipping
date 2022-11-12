@@ -17,6 +17,8 @@ $state_list = fetch_all_data($query_to_fetch_state);
 
 
     <title>State to state list</title>
+    <meta name="description" content="Rapid Auto Shipping provides a fast, easy way to ship cars state to state. Our services include door-to-door pickup and delivery of your car along with a free rental vehicle." />
+
     <!--     Google Analytics Code Start -->
 
 
@@ -96,7 +98,7 @@ $state_list = fetch_all_data($query_to_fetch_state);
                                 </div>
 
                                 <div>
-                                    <a style="text-decoration:underline;" href="https://rapidautoshipping.com/state-to-state/<?= $state['slug'] ?> " class="btn-yellow-1">View More</a>
+                                    <a style="text-decoration:underline;" href="<?= home_path() . "state-to-state/" . $state['slug'] ?> " class="btn-yellow-1">View More</a>
                                 </div>
 
                             </div>

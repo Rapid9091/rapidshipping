@@ -54,5 +54,5 @@ if (mode == 1) {
     $DB_HOST = "localhost";
     $DB_USER = "root";
     $DB_PASS = "";
-    $DB_NAME = "rapidautoshipping";
+    $DB_NAME = "rapid_backup";
 }
