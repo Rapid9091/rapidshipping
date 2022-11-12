@@ -8,11 +8,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Reliable RV Transport services in USA - Rapid Auto Shipping</title>
-    <meta name="Reliable RV Transport services in USA - Rapid Auto Shipping" />
-    <meta name="description" content="Looking for affordable RV Transport services? Rapid Auto Shipping is top in USA to provide RV Transport services, click here for a quote, will contact you ASAP!" />
+    <meta name="title" content="Reliable RV Transport services in USA - Rapid Auto Shipping" />
+    <meta name="description" content="Looking for affordable RV Transport companies? Rapid Auto Shipping is top in USA to provide RV Transport services, click here for a quote, will contact you ASAP!" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Reliable RV Transport services in USA - Rapid Auto Shipping" />
-    <meta property="og:description" content="Looking for affordable RV Transport services? Rapid Auto Shipping is top in USA to provide RV Transport services, click here for a quote, will contact you ASAP!" />
+    <meta property="og:description" content="Looking for affordable RV Transport companies? Rapid Auto Shipping is top in USA to provide RV Transport services, click here for a quote, will contact you ASAP!" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/rv-transport" />
     <meta property="og:site_name" content="Rv transport - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
@@ -78,9 +78,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "RV transport";
-        $PARAGRAPH = "Basic RV maintenance may go a long way toward assuring a pleasant experience with an RV transportation company. Check items like tyre pressure and fluid levels before you pick up your RV, motorhome, or travel trailer.
-This technique will safeguard your RV from mechanical issues during door-to-door car shipping and ensure that it is ready to drive when it arrives.This technique will safeguard your RV from mechanical issues during door-to-door car shipping and ensure that it is ready to drive when it arrives.
-Turn off both the gas and the power. ";
+        $PARAGRAPH = "Basic RV maintenance may go a long way toward assuring a pleasant experience with an RV transportation company. Check items like tyre pressure and fluid levels before you pick up your RV, motorhome, or travel trailer.This technique will safeguard your RV from mechanical issues during door-to-door car shipping and ensure that it is ready to drive when it arrives.This technique will safeguard your RV from mechanical issues during door-to-door car shipping and ensure that it is ready to drive when it arrives.Turn off both the gas and the power. ";
         include small_form;
         ?>
     </div>
@@ -90,7 +88,7 @@ Turn off both the gas and the power. ";
             TRANSPORT SERVICES FOR RVS
         </h2>
         <p>
-            Because recreational vehicles vary in size and shape, transporting them presents some unique obstacles. We just purchased numerous state-of-the-art auto transport trailers to provide the safest and most secure shipping possible for our RV car transport customers. We offer professional RV shipping services for the following recreational vehicles if you need to ship your RV:
+            Because recreational vehicles vary in size and shape, transporting them presents some unique obstacles. We just purchased numerous state-of-the-art <a href="https://rapidautoshipping.com/services/enclosed-shipping" title="More about enclosed auto transport">auto transport trailers</a> to provide the safest and most secure shipping possible for our RV car transport customers. We offer professional RV shipping services for the following recreational vehicles if you need to ship your RV:
             <br>
             RVs, campers, and fifth wheel trailers are examples of travel trailers.
             <br> Pop-up tents
@@ -123,7 +121,7 @@ Turn off both the gas and the power. ";
             <p>
                 Basic RV maintenance can go a long way toward ensuring a positive experience with an RV transporters business. Before you pick up your RV, motorhome, or travel trailer, make sure to check items like tyre pressure and fluid levels.
                 <br>
-                This procedure will protect your RV from mechanical problems during door-to-door auto transport and ensure that it is road-ready when it arrives.
+                This procedure will protect your RV from mechanical problems during <a href="https://rapidautoshipping.com/services/door-to-door" title="Door to door auto transport">door-to-door auto transport</a> and ensure that it is road-ready when it arrives.
                 <br>
                 Turn off the gas and turn off the electricity.
                 Before transporting, make sure all gas lines and electrical supplies are turned off. Inside the RV, this includes lighting, fans, refrigerators, and any other appliance.
