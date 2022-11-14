@@ -90,7 +90,7 @@
                 <div class="new-blog-section-one">
                     <h2><span>Select the Proper Auction </span></h2>
                     <p>No matter how hard you work to make your car the cleanest and most beautiful car in the world, if you don't put it in the appropriate crowd, no one will purchase it. 
-                        Make sure you take part in auctions that are specific to the type of your automobile, as it makes no sense to enter your used, everyday car in an auction for antique and collector cars.
+                        Make sure you take part in auctions that are specific to the type of your automobile, as it makes no sense to enter your used, everyday car in an auction for <a href="<?= home_path() ?>services/classic-car-shipping" title="Luxury car shipping">antique and collector cars</a>.
                         <br><br>
                         Additionally, you need to confirm that the auction house you are working with is reliable and popular. Keep in mind that the vehicle you are about to present is equally important to the auction house and the auctioneer you deal with, so exercise caution.
                     </p>

@@ -89,7 +89,7 @@
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span>Advantages of enclosed auto shipping Carriers</span></h2>
-                    <p> Here are the top advantages of enclosed auto transport, although shipping autos need to know about the process's ins and outs.
+                    <p> Here are the top advantages of <a href="<?= home_path() ?>services/enclosed-shipping" title="benefits of enclosed auto shipping">enclosed auto transport</a>, although shipping autos need to know about the process's ins and outs.
                     </p>
                 </div>
                 <div class="new-blog-section-one">

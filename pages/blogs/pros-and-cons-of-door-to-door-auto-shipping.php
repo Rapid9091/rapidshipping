@@ -97,7 +97,7 @@
 
                     <p>
                         <b><span> Convenience:</span></b><br>
-                        The main justification for choosing door to door is this. It is much easier to decide on a location and leave transportation to the auto transport company. 
+                        The main justification for choosing door to door is this. It is much easier to decide on a location and leave transportation to the <a href="<?= home_path() ?>" title="Best Auto Transport Company">auto transport company</a>. 
 
                         <br><br> <b><span> Easier delivery/pickup: </span></b><br>
                         You will need to take your automobile to a terminal and then return home without it if you choose for the terminal to terminal option. The same process will be required when you return your car. Requesting door-to-door auto shipping can be more simple depending on how close you are to a terminal.
