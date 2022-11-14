@@ -157,14 +157,14 @@
                 Mexico <span class="california-state-span" style="font-weight:bold;">||</span>
                 Monett <span class="california-state-span" style="font-weight:bold;">||</span>
                 Neosho <span class="california-state-span" style="font-weight:bold;">||</span>
-                <a href="http://www.new-madrid.mo.us/" style="color:black;" title="auto transport Missouri"></a> <span class=" california-state-span" style="font-weight:bold;">||</span>
+                <a href="http://www.new-madrid.mo.us/" style="color:black;" title="auto transport Missouri">New Madrid</a> <span class=" california-state-span" style="font-weight:bold;">||</span>
                 Rolla <span class="california-state-span" style="font-weight:bold;">||</span>
                 Saint Charles <span class="california-state-span" style="font-weight:bold;">||</span>
                 Saint Joseph <span class="california-state-span" style="font-weight:bold;">||</span>
                 Saint Louis <span class="california-state-span" style="font-weight:bold;">||</span>
                 Sainte Genevieve <span class="california-state-span" style="font-weight:bold;">||</span>
                 Salem <span class="california-state-span" style="font-weight:bold;">||</span>
-                <a href="https://www.sedalia.com/" style="color:black;" title="Missouri Auto Transport company"></a> <span class=" california-state-span" style="font-weight:bold;">||</span>
+                <a href="https://www.sedalia.com/" style="color:black;" title="Missouri Auto Transport company">Sedalia</a> <span class=" california-state-span" style="font-weight:bold;">||</span>
                 Springfield <span class="california-state-span" style="font-weight:bold;">||</span>
                 Warrensburg <span class="california-state-span" style="font-weight:bold;">||</span>
                 West Plains
