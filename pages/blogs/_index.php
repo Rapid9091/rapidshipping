@@ -865,6 +865,24 @@
                 </div>
             </div>
 
+            <!-- Blog for Tips to ship an exotic car -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666432435/Recent%20Uploads/exotic-car-min_jbuf4y.jpg" alt="Exotic car shipping" />
+                    <a href="<?= home_path() ?>blogs/tips-to-ship-an-exotic-car">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Tips to ship an exotic car
+                            </h2>
+                            <p>
+                                We've been shipping cars for almost 40 years and have learnt a lot about shipping exotic cars. There are specific precautions and inquiries owners should make when exporting an exotic car, such as a Ferrari, Lamborghini, McLaren, Porsche, or other high-end automotive. Will the vehicle receive the necessary protection while in transit? Will both the inside and outside be kept in immaculate condition? Will the car be shielded from bad weather and the environment? We'll cover all of these subjects and more in this blog post so that you can ship your exotic car with greater confidence.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">5.8k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
