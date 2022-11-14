@@ -97,7 +97,7 @@
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span>Good Advice </span></h2>
-                    <p> Nobody will sell you a service or something that would be detrimental to their business. It is always worthwhile to verify the accuracy of a car shipping company's information and, consequently, the validity of its offer.
+                    <p> Nobody will sell you a service or something that would be detrimental to their business. It is always worthwhile to verify the accuracy of a car <a href="<?= home_path() ?>" title="most trusted auto shipping company">shipping company's</a> information and, consequently, the validity of its offer.
                     </p>
                 </div>
             </div>

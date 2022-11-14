@@ -113,7 +113,7 @@
                 <div class="new-blog-section-one">
                     <h2><span>Not Keeping Damage Records   </span></h2>
                     <p> 
-                        Before delivering your vehicle to the auto transport firm, be careful to accurately describe the state of your vehicle. Take pictures and make note of any known damages, and when your car is delivered, reevaluate the situation. If the car shipping firm is accountable for any dents or dings, they should accept full responsibility, but if you don't keep a record before transfer, it may be difficult to demonstrate that the damage was caused by transport. </p>
+                        Before delivering your vehicle to the <a href="<?= home_path() ?>" title="how to avoid from mistake while shipping">auto transport firm</a>, be careful to accurately describe the state of your vehicle. Take pictures and make note of any known damages, and when your car is delivered, reevaluate the situation. If the car shipping firm is accountable for any dents or dings, they should accept full responsibility, but if you don't keep a record before transfer, it may be difficult to demonstrate that the damage was caused by transport. </p>
 
                     <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/businessman-working-with-documentation-desk_qyfwwo.jpg" alt="auto shipping Mistakes">
 
