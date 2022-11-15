@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap:https://rapidautoshipping.com/sitemap.xml
+Sitemap: https://rapidautoshipping.com/sitemap.xml
