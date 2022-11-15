@@ -89,7 +89,7 @@
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span>Pros of Auto shipping : (👍) </span></h2>
-                    <p> Using a qualified <a href="<?= home_path() ?>services/car-shipping-compnaines" title="Top Car Shipping Companies">auto transport firm</a> to ship a vehicle has a number of benefits. It would not only make the transition much simpler for you and your family, but it would also relieve some of your stress.
+                    <p> Using a qualified <a href="<?= home_path() ?>services/car-shipping-companies" title="Top Car Shipping Companies">auto transport firm</a> to ship a vehicle has a number of benefits. It would not only make the transition much simpler for you and your family, but it would also relieve some of your stress.
                         <br><br>
                         Here are some excellent illustrations of the advantages of exporting a car via expert auto movers.
                     </p>
