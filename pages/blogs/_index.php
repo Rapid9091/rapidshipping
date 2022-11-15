@@ -883,6 +883,24 @@
                 </div>
             </div>
 
+            <!-- Blog for Beginner’s Guide to First Time Auto Shipping  -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668429775/Recent%20Uploads/attachment-frederik-hojfeldt-nielsen-eEpF3zcICfE-unsplash_lja7n6.jpg" alt="Auto transport in USA" />
+                    <a href="<?= home_path() ?>blogs/beginners-guide-for-first-time-auto-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Beginner’s Guide to First Time Auto Shipping 
+                            </h2>
+                            <p>
+                                Are you about to undergo major changes? Are you preparing to ship your car for the first time and unsure of the steps to take to decide what is best for you? Consider our precise and succinct advice to save your valuable time. When you first start the shipping procedure, it could seem incredibly difficult, but after you get the hang of it, you'll be surprised at how easy it is. After reading this step-by-step manual, you will learn a few things you need to concentrate on in order to reach your goal. Let's get going.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">20.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
