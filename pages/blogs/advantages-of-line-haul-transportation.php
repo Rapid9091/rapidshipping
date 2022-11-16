@@ -90,7 +90,7 @@
                 <div class="new-blog-section-one">
                     <h2><span>More effective 3PL/carrier management   </span></h2>
                     <p>
-                        Whether you operate with a 3PL (third-party logistics) provider or directly with carriers, communication is important. Modern techniques and technology are used in line haul optimization to speed up procedures and maintain open lines of communication. Strong data analytics can be used to manage all of your deliveries more effectively.
+                        Whether you operate with a <b> 3PL (third-party logistics)</b> provider or directly with carriers, communication is important. Modern techniques and technology are used in line haul optimization to speed up procedures and maintain open lines of communication. Strong data analytics can be used to manage all of your deliveries more effectively.
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668072952/Recent%20Uploads/9ca5c3b1500e24fc85961c3924de96289d518134_recqyb.jpg" alt="Best line haul transport in USA">
                 </div>
