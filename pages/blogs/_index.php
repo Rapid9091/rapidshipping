@@ -901,6 +901,24 @@
                 </div>
             </div>
 
+            <!-- Blog for advantages of line haul transportation Auto Shipping  -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="<?= get_img() ?>isuzu-trucks-background.jpg" alt="Line haul transport in USA" />
+                    <a href="<?= home_path() ?>blogs/advantages-of-line-haul-transportation">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Advantages of line haul transportation
+                            </h2>
+                            <p>
+                                For shippers, line haul trucking has a number of advantages. The following are some of them.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">1.2k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
