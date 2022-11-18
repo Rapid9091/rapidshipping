@@ -7,16 +7,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Cross-Country Car Shipping -- Best car shipping company across country </title>
-    <meta name="title" content="Cross-Country Car Shipping -- Best car shipping company across country " />
-    <meta name="description" content="Cross-Country Car Shipping, we provide auto shipping services at a very affordable price. Call +1-833-233-4447, We provide car shipping across Countries. " />
+    <title>Cross-Country Car Shipping - Best car shipping company in USA - Rapid Auto Shipping</title>
+    <meta name="title" content="Cross-Country Car Shipping - Best car shipping company in USA - Rapid Auto Shipping" />
+    <meta name="description" content="Rapid Auto Shipping provides the cross-country car shipping service at very affordable price. Call  +1-833-233-4447 to know more about cross-country car shipping. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Cross-Country Car Shipping" />
-    <meta property="og:description" content="Cross-Country Car Shipping, we provide auto shipping services at a very affordable price. Call +1-833-233-4447, We provide car shipping across Countries." />
+    <meta property="og:description" content="Rapid Auto Shipping provides the cross-country car shipping service at very affordable price. Call  +1-833-233-4447 to know more about cross-country car shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/cross-country-car-shipping" />
     <meta property="og:site_name" content="Cross-Country Car Shipping " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->
