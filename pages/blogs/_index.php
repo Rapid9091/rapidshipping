@@ -919,6 +919,24 @@
                 </div>
             </div>
 
+            <!-- Blog for Cross-Country Auto Shipping  -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667635294/photo-1636070762406-4262052fa6ef_xrkfy5.jpg" alt="Cross country car shipping" />
+                    <a href="<?= home_path() ?>blogs/cross-country-car-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Cross-Country Car Shipping 
+                            </h2>
+                            <p>
+                                No matter why you want to transport your car, whether you're relocating across the nation or just want to transfer a vintage car to a friend, the procedure can be time-consuming and expensive. However, shipping an automobile across the country may be surprisingly simple with a little preparation.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">3.4k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
