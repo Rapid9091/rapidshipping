@@ -35,8 +35,11 @@ if (isset($_GET['fname']) && $_GET['fname'] != ""  && isset($_GET['email']) && $
     $headers = "From: noreply.rapidautoshipping.com";
 
     if (mail($to, $subject, $txt, $headers)) {
+
+        // Sending the mail after all checks
         header("Location: " . $domain);
     } else {
+        // Sending the fail message
         header("Location: " . $domain . "?error=Failed to submit the request. Try again");
     }
 } else {
