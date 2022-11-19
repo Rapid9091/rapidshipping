@@ -937,6 +937,24 @@
                 </div>
             </div>
 
+            <!-- Blog for What Is A USDOT Number and How Do I Check It?  -->
+
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/caleb-ruiter-EmEQ6kK_5P0-unsplash-1024x1024_tviti7.jpg" alt="What is USDOT Number" />
+                    <a href="<?= home_path() ?>blogs/what-is-usdot-how-to-check-usdot">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>What Is A USDOT Number and How to Check It?
+                            </h2>
+                            <p>
+                                Every individual or organization that wants to conduct business with the United States Department of Transportation must have a USDOT number. Everything you need to know about USDOT numbers, including how to obtain one, what it means for your company, and the kinds of things you can do with one, will be covered in this article.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">13.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
