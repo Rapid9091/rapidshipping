@@ -103,7 +103,7 @@
                         <br><br> The expected time to ship an automobile from one location to another can vary based on various factors. For comparable shipping services, you might also be charged differently based on these variables. Therefore, the anticipated shipping time and cost to send an automobile can grow or decrease depending on the distance, route, or other pertinent considerations.
                         <br><br> Use our automobile shipping cost calculator to obtain free, reliable estimations of the cost of transporting a car. To find out how much it will cost to ship an automobile across the country, simply fill out the required information on our website.
                     </p>
-                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668845979/Recent%20Uploads/email-4284157-735x551_asbg06.png" alt="Car shipping in USA">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg" alt="Car shipping in USA">
 
                 </div>
             </div>
@@ -132,34 +132,6 @@
                 </div>
             </div>
 
-            <div class="affordable-ways-page-grid-content-1">
-                <div class="new-blog-section-one">
-                    <h2><span>The US DOT Number: Who Needs One? </span></h2>
-                    <p>
-                        A unique identification number known as a US DOT number is given to any transportation company that transports hazardous chemicals, people, or cargo. Ask drivers or businesses you know who own them if you want to see an example of a USDOT number or a dot number on a truck.
-                        <br><br>
-                        In reality, having access to federal roadways is necessary for any corporation conducting business in the United States. Check out our free vehicle shipping cost calculator if you're interested in auto shipping or USDOT applications and need to ship soon.
-                        <br><br>
-                        It's simple to use and can help you avoid overpaying for car shipping, even if the price of a USDOT number or a dot number for a trailer is high
-                    </p>
-                </div>
-            </div>
-
-            <div class="affordable-ways-page-grid-content-1">
-                <div class="new-blog-section-one">
-                    <h2><span>An easy USDOT Number </span></h2>
-                    <p>
-                        The DOT website makes it simple to verify your USDOT number if necessary. It only requires a few pieces of basic information about your company and is quick and easy.
-                        <br><br>
-                        Let's say you don't yet have a USDOT Number. It is advised that you do so as soon as possible so that you can carry items across state boundaries legally and operate legally in the United States without
-                        being concerned about being stopped by the police.
-                        <br><br>
-                        Contact us right away for additional information about automobiles and to find out how we can assist you on your upcoming trip.
-                    </p>
-                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668072952/Recent%20Uploads/9ca5c3b1500e24fc85961c3924de96289d518134_recqyb.jpg" alt="Auto transport in USA ">
-
-                </div>
-            </div>
         </div>
         <div class="form-container-list-of-top-companies-arkansas">
             <?php
