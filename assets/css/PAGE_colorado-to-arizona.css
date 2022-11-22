@@ -1,4 +1,9 @@
 /* big main title */
+.text-small {
+  font-size: 18px !important;
+  word-spacing: 1.5px !important;
+  letter-spacing: 0.5px !important;
+}
 
 .heading-1 {
   font-size: 32px;
@@ -423,7 +428,7 @@ div[class*="special-red-btn"] {
   }
   /*  small text */
   .para-2 {
-    font-size: 16px;
+    font-size: 15px;
   }
   .points-div-ul > li {
     margin: 10px 0 10px 20px;
@@ -491,6 +496,7 @@ div[class*="special-red-btn"] {
 
 .all-state-name-pages > h2 {
   text-align: center;
+  padding: 1%;
 }
 
 .all-state-name-pages {
@@ -529,6 +535,27 @@ div[class*="special-red-btn"] {
   .all-state-name-grids-section {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+  }
+  .all-state-name-page-mains {
+    padding: 0 5%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .text-small {
+    font-size: 15px !important;
+  }
+  .fifth-state-to-state-grid-image > img {
+    width: 250px;
+    height: auto;
+  }
+  .state-to-state-review {
+    padding: 5%;
+  }
+  .fifth-state-to-state {
+    padding: 5%;
+  }
+  .all-state-name-page-mains {
+    padding: 0 5%;
   }
 }
 
