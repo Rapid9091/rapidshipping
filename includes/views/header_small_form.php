@@ -35,8 +35,8 @@ $form_url = home_path() . "services/short_form.php?redirectto=" . current_path()
             <div class="form-button">
                 <button type="button" onclick="submit_from()">Submit</button>
             </div>
-            <div class="customer-face-section" style="display:flex;justify-content:center;align-items:center;">
-                <img src="<?= get_img() ?>customer-faces.png" style="height:40px;" alt="Rapid Auto Shipping" />
+            <div class="customer-face-section" style="display:flex;justify-content:center;align-items:center; ">
+                <img src="<?= get_img() ?>customer-faces.png" style="height:40px; " alt="Rapid Auto Shipping" />
                 <p style="color:#808080; font-size:12px; text-align:center;">
                     <span style="color:#ff5722;font-weight:bold;"> 29284</span>
                     people shipped using<br>

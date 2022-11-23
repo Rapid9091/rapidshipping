@@ -49,12 +49,6 @@ if (isset($_GET['page_id'])) {
             background-repeat: no-repeat;
             background-size: cover;
         }
-
-        .text-small {
-            font-size: 18px !important;
-            word-spacing: 1.5px !important;
-            letter-spacing: 0.5px !important;
-        }
     </style>
 </head>
 
@@ -279,7 +273,7 @@ if (isset($_GET['page_id'])) {
     </section>
 
 
-    <section class="all-state-name-page-mains" style="margin:4%;">
+    <section class="all-state-name-page-mains" style="margin:4% 0;">
         <section class="all-state-name-pages">
             <h2 class="heading-1">
                 Autoshipping <span>States</span> in USA </h2>
