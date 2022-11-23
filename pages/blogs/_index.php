@@ -973,10 +973,10 @@
             </div>
 
             <!-- Advantages of open auto transport -->
-            <!-- <div class="blog-page-blog-section-grid-left">
+            <div class="blog-page-blog-section-grid-left">
                 <div class="blog-page-blog-section-grid-img-container">
-                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667635293/truck-on-the-road-picture-id91095290_b5wcdm.jpg" alt="total time to ship a car " />
-                    <a href="<?= home_path() ?>blogs/how-long-it-takes-to-ship-a-car">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831375/RapidAutoShipping/vaibhv-img_rjhueu.png" alt="Enclosed car shipping USA" />
+                    <a href="<?= home_path() ?>blogs/benefits-of-open-auto-transport">
                         <div class="blog-page-blog-section-grid-heading-container">
                             <h2>Advantages of Open Auto transport
                             </h2>
@@ -987,7 +987,7 @@
                         </div>
                     </a>
                 </div>
-            </div> -->
+            </div>
 
         </div>
     </section>
