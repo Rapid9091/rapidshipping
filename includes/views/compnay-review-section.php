@@ -16,5 +16,5 @@
             <h2>99% +</h2>
             <p>Happy Customers</p>
         </div>
-    </div>\
+    </div>
 </section>

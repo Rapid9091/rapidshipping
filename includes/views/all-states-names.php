@@ -54,7 +54,7 @@
 
          </div>
          <div class="all-state-name-grid">
-             <a href="<?= get_state() ?>/south-dakota">South Dakota</a><br>
+             <a href="<?= get_state() ?>/south-dakota" rel="dofollow">South Dakota</a><br>
              <a href="<?= get_state() ?>/tennessee-tn" rel="dofollow">Tennessee</a><br>
              <a href="<?= get_state() ?>/texas-tx" rel="dofollow">Texas</a><br>
              <a href="<?= get_state() ?>/utah-ut" rel="dofollow">Utah</a><br>

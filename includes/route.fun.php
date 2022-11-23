@@ -5,9 +5,8 @@ function home_path()
     return DOMAIN;
 }
 
-
-
 // assets path function
+
 function get_assets()
 {
     return DOMAIN . 'assets';
@@ -38,8 +37,6 @@ function get_global_js()
 {
     return DOMAIN . 'global/js/';
 }
-
-
 
 // server end point 
 
