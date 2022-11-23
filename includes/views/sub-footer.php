@@ -150,7 +150,7 @@
                 <li><a href="<?= home_path(); ?>states/maine">Maine</a></li>
                 <li><a href="<?= home_path(); ?>states/maryland">Maryland</a></li>
                 <li><a href="<?= home_path(); ?>states/indiana">Indiana</a></li>
-                <li><a href="<?= home_path(); ?>states/kentucky">kentucky</a></li>
+                <li><a href="<?= home_path(); ?>states/kentucky">Kentucky</a></li>
                 <li><a href="<?= home_path(); ?>states/louisiana">Louisiana</a></li>
                 <li><a href="<?= get_state() ?>/new-jersey">New Jersey</a></li>
                 <li><a href="<?= get_state() ?>/new-hampshire">New Hampshire</a></li>
@@ -184,7 +184,7 @@
             <ul>
                 <li><a href="<?= home_path(); ?>blogs/port-to-port-transportation">Port to port auto transport</a></li>
                 <li><a href="<?= home_path(); ?>blogs/shipping-a-dump-truck">Dump truck transport in USA</a></li>
-                <li><a href="<?= home_path(); ?>blogs/auction-auto-transport-services">Auction car auto transort In USA</a></li>
+                <li><a href="<?= home_path(); ?>blogs/auction-auto-transport-services">Auction car auto transport In USA</a></li>
                 <li><a href="<?= home_path(); ?>blogs/atvs-shipping">ATV shipping services In USA</a></li>
                 <li><a href="<?= home_path(); ?>blogs/how-to-prepare-your-vehicle">How to prepare your vehicle for shipping</a></li>
                 <li><a href="<?= home_path(); ?>blogs/transporting-car-to-dealership">Transporting car to dealership</a></li>
