@@ -94,7 +94,7 @@
                         <br><br>
                         The fact that greater demand promotes higher average car shipping charges, as is the case with other industries, is a drawback. Many consumers will pay a greater amount simply to have their car shipped as quickly as possible from point A to point B. Of course, some people are not constrained by cost. Due to the limited supply caused by the strong demand, many truckers would raise their automobile shipping bids and quotes. In this manner, they might make up for the winter's slack periods.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667289367/pikwizard-4c4d7abfd6bf59ce17368b8570f5f9d9_anot0r.jpg" alt="car shipping in summers">
+                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666434490/Recent%20Uploads/transport-3369756_1280_rgvufw.jpg" alt="car shipping in summers">
                 </div>
                 <div class="new-blog-section-one">
                     <h2><span>Car Shipping in the Winter (❄️)</span></h2>

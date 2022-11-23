@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
- 
+
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -238,7 +238,7 @@
           <i class="fas fa-chevron-right"></i>
         </a>
       </div>
-      <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667289367/pikwizard-4c4d7abfd6bf59ce17368b8570f5f9d9_anot0r.jpg" alt="Door to door">
+      <img loading="lazy" src="<?= get_img() ?>door-to-door-bg.jfif" alt="Door to door auto transport">
     </div>
     <div class="service-vehicle">
 

@@ -92,7 +92,7 @@
                     <p>
                         Here is a brief explanation of what each of those phrases refers to and why it matters. Brokers give their clients top priority when selecting carriers and setting up shipments. The carriers that transport and deliver the vehicles also own the trucks, making shipment a priority. When it comes to serving customers, a car transport management business like Rapid Auto Shipping acts as a single point of contact from quote to delivery. An auto transport management business will be able to address issues more quickly because they care about more than just automobiles. Customers are also treated with attention by them.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667289367/pikwizard-4c4d7abfd6bf59ce17368b8570f5f9d9_anot0r.jpg" alt="Auto transport carries">
+                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/verification_qtasyq.jpg" alt="Auto transport carries">
                 </div>
                 <div class="new-blog-section-one">
                     <h2><span> Do you provide free quotes with no obligations?</span></h2>
