@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>What is USDOT and How to check USDOT number ? </title>
     <meta name="title" content="What is USDOT and How to check USDOT number ? " />
-    <meta name="description" content="Rapid Auto Shipping provides the car shipping services at very affordable price. Call  +1-833-233-4447 to know more about auto transport in USA. " />
+    <meta name="description" content="Check the USDOT number and find the cheapest car shipping rates with Rapid Auto Shipping. Call us today +1-833-233-4447 for the fast transport services in The USA. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="What is USDOT number and How to check it ?" />
-    <meta property="og:description" content="Rapid Auto Shipping provides the car shipping services at very affordable price. Call  +1-833-233-4447 to know more about auto transport in USA." />
+    <meta property="og:description" content="Check the USDOT number and find the cheapest car shipping rates with Rapid Auto Shipping. Call us today +1-833-233-4447 for the fast transport services in The USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/what-is-usdot-how-to-check-usdot" />
     <meta property="og:site_name" content="What is USDOT number and How to check it ? " />
     <meta name='robots' content='index' />
