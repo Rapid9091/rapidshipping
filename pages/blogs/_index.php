@@ -49,7 +49,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Rapid Auto Shipping Blogs";
-        $PARAGRAPH = "Rapid Auto Shipping blogs provide advice on how to plan your car transport.Our car shipping blogs will show you how to ship a car in the United States and will assist our customers in shipping their vehicles from one location to another. At Rapid Auto Shipping blogs, we have offered car shipping blogs to help you transfer your vehicle quickly and affordably.";
+        $PARAGRAPH = "Rapid Auto Shipping blogs provide advice on how to plan your car transport. Our car shipping blogs will show you how to ship a car in the United States and will assist our customers in shipping their vehicles from one location to another. At Rapid Auto Shipping blogs, we have offered car shipping blogs to help you transfer your vehicle quickly and affordably.";
         include small_form;
         ?>
     </div>
@@ -131,7 +131,7 @@
                     <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667824843/Recent%20Uploads/money-1673582_tjnbqc.png" alt="rapid auto shipping blogs">
                     <a href="<?= home_path() ?>blogs/ship-from-new-york-to-florida">
                         <div class="blog-page-blog-section-grid-heading-container">
-                            <h2>Cost to ship a car from New York to florida</h2>
+                            <h2>Cost to ship a car from New York to Florida</h2>
                             <p>
                                 New York and Florida share a number of similarities. Both are in the same time zone and border the Atlantic Ocean.....
                             </p>
@@ -369,7 +369,7 @@
                     <img loading="lazy" src="<?= get_img() ?>GettyImages-0-1.png" alt="Auction car auto transort In USA">
                     <a href="<?= home_path() ?>blogs/auction-auto-transport-services">
                         <div class=" blog-page-blog-section-grid-heading-container">
-                            <h2>Auction car auto transort In USA</h2>
+                            <h2>Auction car auto transport In USA</h2>
                             <p>
                                 These days, auto auctions are very popular. The number of autos purchased online has sharply increased, similar to how so many other things have done. Particularly in the case of auto auctions. Even if the auction is hundreds or even thousands of miles away, a lot of individuals browse auctions for the vehicles they want!
                             </p>
