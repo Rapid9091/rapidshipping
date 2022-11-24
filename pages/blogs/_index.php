@@ -989,7 +989,7 @@
                 </div>
             </div>
 
-            <!-- SAN DIEGO AUTO SHIPPING -->
+            <!-- Blog for san Diego auto transport  -->
             <div class="blog-page-blog-section-grid-left">
                 <div class="blog-page-blog-section-grid-img-container">
                     <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1669279398/Recent%20Uploads/sandiego_xpqam6.jpg" alt="San Diego auto transport" />
