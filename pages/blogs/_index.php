@@ -989,6 +989,23 @@
                 </div>
             </div>
 
+            <!-- SAN DIEGO AUTO SHIPPING -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1669279398/Recent%20Uploads/sandiego_xpqam6.jpg" alt="San Diego auto transport" />
+                    <a href="<?= home_path() ?>blogs/san-diego-auto-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>SAN DIEGO AUTO SHIPPING
+                            </h2>
+                            <p>
+                                Although San Diego's population decreased little between July 2020 and July 2021 by 11,183 individuals, far too many people are still aware of the benefits that the city provides in terms of beautiful weather, excellent career prospects, and a large city feel with a suburban touch. Due to this, San Diego is anticipated to continue to see a high number of movers well into the future, necessitating the need for effective San Diego vehicle shipping.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">3.4k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
