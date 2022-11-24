@@ -92,7 +92,7 @@
                     <p>
                         Here is a brief explanation of what each of those phrases refers to and why it matters. Brokers give their clients top priority when selecting carriers and setting up shipments. The carriers that transport and deliver the vehicles also own the trucks, making shipment a priority. When it comes to serving customers, a car transport management business like Rapid Auto Shipping acts as a single point of contact from quote to delivery. An auto transport management business will be able to address issues more quickly because they care about more than just automobiles. Customers are also treated with attention by them.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667289367/pikwizard-4c4d7abfd6bf59ce17368b8570f5f9d9_anot0r.jpg" alt="Auto transport carries">
+                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/verification_qtasyq.jpg" alt="Auto transport carries">
                 </div>
                 <div class="new-blog-section-one">
                     <h2><span> Do you provide free quotes with no obligations?</span></h2>
@@ -202,13 +202,13 @@
             <div class="why-choose-us-grid-box">
                 <h4 class="sub-heading">We are Country wide</h4>
                 <p class="text">
-                    We build partnerships that are open and honest.With our employees, customers, drivers, and other business partners, we strive for relationships built on honesty, perseverance, mutual trust, and integrity.Our words, behaviours, decisions, and actions all come together to form a unified whole. We don't make promises we won't be able to keep.It's crucial to keep track of commitments at <a href="<?= home_path() ?>" style="color:var(--nav-color);">Rapid Auto Shipping</a>. It all comes down to the fundamentals of business. If you say you'll do something, follow through.
+                    We build partnerships that are open and honest. With our employees, customers, drivers, and other business partners, we strive for relationships built on honesty, perseverance, mutual trust, and integrity. Our words, behaviours, decisions, and actions all come together to form a unified whole. We don't make promises we won't be able to keep. It's crucial to keep track of commitments at <a href="<?= home_path() ?>" style="color:var(--nav-color);">Rapid Auto Shipping</a>. It all comes down to the fundamentals of business. If you say you'll do something, follow through.
                 </p>
             </div>
             <div class="why-choose-us-grid-box">
                 <h4 class="sub-heading">We are reliable</h4>
                 <p class="text">
-                    When you adore your vehicle, getting behind the wheel and hitting the open road is the finest way to get it from point A to point B. When you can't see your vehicle until it arrives at its destination, you'll need a dependable transportation firm to deliver it safely and swiftly. We at <a href="<?= home_path() ?>" style="color:var(--nav-color);">Rapid Auto Shipping</a> has given great auto transport solutions to hundreds of thousands of consumers, and our 99+ percent customer satisfaction rate reflects our dedication to providing top-notch service.affecting or extending throughout all parts of a <a href="<?= get_state() ?>" style="color:var(--nav-color);"> States </a>
+                    When you adore your vehicle, getting behind the wheel and hitting the open road is the finest way to get it from point A to point B. When you can't see your vehicle until it arrives at its destination, you'll need a dependable transportation firm to deliver it safely and swiftly. We at <a href="<?= home_path() ?>" style="color:var(--nav-color);">Rapid Auto Shipping</a> has given great auto transport solutions to hundreds of thousands of consumers, and our 99+ percent customer satisfaction rate reflects our dedication to providing top-notch service. Affecting or extending throughout all parts of a <a href="<?= get_state() ?>" style="color:var(--nav-color);"> States </a>
                 </p>
             </div>
         </div>

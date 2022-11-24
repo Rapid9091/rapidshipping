@@ -557,11 +557,6 @@ include_once "init.php";
                         <!-- <li class="expand_items"><a href="#"> &#x25BC; </a></li> -->
                     </ul>
                 </li>
-
-
-
-
-
             </ul>
         </nav>
     </div>

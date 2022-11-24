@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Complete guide for how much time it takes to ship a car ?</title>
     <meta name="title" content="Complete guide for how much time it takes to ship a car ? " />
-    <meta name="description" content="Rapid Auto Shipping provides the car shipping services at very affordable price. Call  +1-833-233-4447 to know more about auto transport in USA. " />
+    <meta name="description" content="Find out how long it takes to ship a car from your location with Rapid Auto Shipping. Call us today +1-833-233-4447 for the fastest and most reliable car shipping service. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="How much time it takes to ship a Car ?" />
-    <meta property="og:description" content="Rapid Auto Shipping provides the car shipping services at very affordable price. Call  +1-833-233-4447 to know more about auto transport in USA." />
+    <meta property="og:description" content="Find out how long it takes to ship a car from your location with Rapid Auto Shipping. Call us today +1-833-233-4447 for the fastest and most reliable car shipping service." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-long-it-takes-to-ship-a-car" />
     <meta property="og:site_name" content="How much time it takes to ship a Car ? " />
     <meta name='robots' content='index' />

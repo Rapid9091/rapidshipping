@@ -7,13 +7,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Car Shipping Services | +1-833-233-4447 | Mississippi Auto Transport Company </title>
-    <meta name="Car Shipping Services | +1-833-233-4447 | Mississippi Auto Transport Company " />
+    <title> Auto transport Company Mississippi | Car Shipping Services </title>
+    <meta name="title" content="Auto transport Company Mississippi | Car Shipping Services " />
     <meta name="description" content="Need Car Shipping service in Mississippi, you need an experienced Mississippi auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Car Shipping Services | +1-833-233-4447 | Mississippi Auto Transport Company " />
+    <meta property="og:title" content="	Auto transport Company Mississippi | Car Shipping Services " />
     <meta property="og:description" content="Need Car Shipping service in Mississippi, you need an experienced Mississippi auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
-    <meta property="og:url" content=https://rapidautoshipping.com/states/mississippi" />
+    <meta property="og:url" content="https://rapidautoshipping.com/states/mississippi" />
     <meta property="og:site_name" content="Auto Shipping Mississippi - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="Car shipping services in Mississippi,Car shipping services,Auto Transport company,Mississippi Auto Transport company,Mississippi Auto Transport,Mississippi Car shipping services,Mississippi Auto Transportation Services,Auto Transport in Mississippi,auto transport in mississippi, car transport to mississippi, mississippi auto transport, car shipping mississippi, best auto shipping in mississippi, auto shipping mississippi, auto shipping services in mississippi" />

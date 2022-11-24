@@ -31,27 +31,6 @@ function is_json($string, $return_data = false)
     return (json_last_error() == JSON_ERROR_NONE) ? ($return_data ? $data : TRUE) : FALSE;
 }
 
-// get $_POST and secure incoming data 
-// function send_booking_conformation($to, $bookingid, $subject)
-// {
-//     $to .= ",info@helloindiatour.com";
-
-//     $message = file_get_contents('https://helloindiatour.com/pages/booking-mail.php?_bi=' . $bookingid);
-
-//     // Always set content-type when sending HTML email
-//     $headers = "MIME-Version: 1.0" . "\r\n";
-//     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-
-//     // More headers
-//     $headers .= 'From: <info@helloindiatour.com>' . "\r\n";
-
-//     if (mail($to, $subject, $message, $headers)) {
-//         true;
-//     } else {
-//         false;
-//     }
-// }
-
 
 $DB_ERROR = false;
 global $DB_ERROR;

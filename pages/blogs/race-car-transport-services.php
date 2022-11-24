@@ -102,7 +102,7 @@
                         <li style="list-style:disc;"> You can contact our team right away or book your service online. You must first choose the mode of transportation and the shipping window. The time for picking up and delivering the vehicle comes next. The vehicle condition report, commonly referred to as the Bill of Lading, is a crucial component that requires your attention.</li>
                     </ul>
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667289367/pikwizard-4c4d7abfd6bf59ce17368b8570f5f9d9_anot0r.jpg" alt="Race cars shipping">
+                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667295981/Recent%20Uploads/Inkedrace_car_shipping-min_mwzw9y_s7i04a.jpg" alt="Race cars shipping">
                     <p>
                         <br> Our couriers fill out this form at pickup and delivery. This report will be utilized during delivery to assess if the car is received in the same state as when it was picked up.
                         <br><br> Call our staff for a quick consultation or reserve your race car transportation service right away online. Booking over the phone with a member of our team is simple. Inquire with us about our referral and partner programmes. Every day, we assist racing teams with delivering their cars.

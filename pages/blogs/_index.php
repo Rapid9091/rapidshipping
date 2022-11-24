@@ -49,7 +49,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Rapid Auto Shipping Blogs";
-        $PARAGRAPH = "Rapid Auto Shipping blogs provide advice on how to plan your car transport.Our car shipping blogs will show you how to ship a car in the United States and will assist our customers in shipping their vehicles from one location to another. At Rapid Auto Shipping blogs, we have offered car shipping blogs to help you transfer your vehicle quickly and affordably.";
+        $PARAGRAPH = "Rapid Auto Shipping blogs provide advice on how to plan your car transport. Our car shipping blogs will show you how to ship a car in the United States and will assist our customers in shipping their vehicles from one location to another. At Rapid Auto Shipping blogs, we have offered car shipping blogs to help you transfer your vehicle quickly and affordably.";
         include small_form;
         ?>
     </div>
@@ -131,7 +131,7 @@
                     <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667824843/Recent%20Uploads/money-1673582_tjnbqc.png" alt="rapid auto shipping blogs">
                     <a href="<?= home_path() ?>blogs/ship-from-new-york-to-florida">
                         <div class="blog-page-blog-section-grid-heading-container">
-                            <h2>Cost to ship a car from New York to florida</h2>
+                            <h2>Cost to ship a car from New York to Florida</h2>
                             <p>
                                 New York and Florida share a number of similarities. Both are in the same time zone and border the Atlantic Ocean.....
                             </p>
@@ -369,7 +369,7 @@
                     <img loading="lazy" src="<?= get_img() ?>GettyImages-0-1.png" alt="Auction car auto transort In USA">
                     <a href="<?= home_path() ?>blogs/auction-auto-transport-services">
                         <div class=" blog-page-blog-section-grid-heading-container">
-                            <h2>Auction car auto transort In USA</h2>
+                            <h2>Auction car auto transport In USA</h2>
                             <p>
                                 These days, auto auctions are very popular. The number of autos purchased online has sharply increased, similar to how so many other things have done. Particularly in the case of auto auctions. Even if the auction is hundreds or even thousands of miles away, a lot of individuals browse auctions for the vehicles they want!
                             </p>
@@ -971,6 +971,41 @@
                     </a>
                 </div>
             </div>
+
+            <!-- Advantages of open auto transport -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831375/RapidAutoShipping/vaibhv-img_rjhueu.png" alt="Enclosed car shipping USA" />
+                    <a href="<?= home_path() ?>blogs/benefits-of-open-auto-transport">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Advantages of Open Auto transport
+                            </h2>
+                            <p>
+                                A type of car shipping called "open auto transport" involves leaving your car out in the open while it is being transported. Currently, this is the most typical kind of vehicle transportation. According to statistics, these methods are used to move nearly 90% of autos. We will highlight the advantages of open automobile shipping for you so you can see why this mode of transportation is so well-liked.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">4.9k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for san Diego auto transport  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1669279398/Recent%20Uploads/sandiego_xpqam6.jpg" alt="San Diego auto transport" />
+                    <a href="<?= home_path() ?>blogs/san-diego-auto-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>SAN DIEGO AUTO SHIPPING
+                            </h2>
+                            <p>
+                                Although San Diego's population decreased little between July 2020 and July 2021 by 11,183 individuals, far too many people are still aware of the benefits that the city provides in terms of beautiful weather, excellent career prospects, and a large city feel with a suburban touch. Due to this, San Diego is anticipated to continue to see a high number of movers well into the future, necessitating the need for effective San Diego vehicle shipping.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">3.4k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
