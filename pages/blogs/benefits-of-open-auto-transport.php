@@ -116,7 +116,7 @@
                         This is a very safe approach to transport your car even though they are not physically covered during travel. Your car is protected from any movement during shipment thanks to the carriers' systems that lock it onto the carrier. Companies that provide open automobile transportation services furthermore provide insurance for your vehicle. This manner, even if these occurrences are incredibly unlikely, you are entirely covered in the event that the car is damaged.
 
                     </p>
-                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831357/RapidAutoShipping/auto-transport-open_igwdt5.jpg" alt="Enclosed car shipping">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831357/RapidAutoShipping/auto-transport-open_igwdt5.jpg" alt="open car shipping">
 
                     <p>
                         <br>
@@ -135,7 +135,7 @@
 
                         Because it is an open carrier, your car's size doesn't matter at all, so it will fit on the carrier no matter how tall or long it is.
                     </p>
-                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668072952/Recent%20Uploads/9ca5c3b1500e24fc85961c3924de96289d518134_recqyb.jpg" alt="Enclosed auto transport company">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668072952/Recent%20Uploads/9ca5c3b1500e24fc85961c3924de96289d518134_recqyb.jpg" alt="Open auto transport company">
 
                 </div>
             </div>
