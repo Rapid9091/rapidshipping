@@ -35,6 +35,10 @@
   color: vaR(--nav-color);
 }
 
+.new-blog-section-one > p > em {
+  font-style: oblique;
+}
+
 .list-style {
   list-style: disc !important;
   margin-left: 15px;
