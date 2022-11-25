@@ -25,3 +25,23 @@
 <link rel="shortcut icon" href="<?= get_img('favicon-orange.png') ?>" />
 <!-- meta link -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+
+<!-- Review Tag Manager Add -->
+<script type='application/ld+json'>
+    {
+        "@context": "http://www.schema.org",
+        "@type": "product",
+        "brand": "Rapid Auto Shipping",
+        "name": "Rapid Auto Shipping",
+        "image": "https://rapidautoshipping.com/assets/images/review-stars.png",
+        "description": "Rapid Auto Shipping is the leading auto shipping company in USA. We offer the fastest and safest way to ship your vehicle with our nationwide network of carriers.",
+        "aggregateRating": {
+            "@type": "aggregateRating",
+            "ratingValue": "5.0",
+            "reviewCount": "32"
+        }
+    }
+</script>
+
+<!-- ///////////-->
