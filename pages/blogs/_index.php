@@ -1006,6 +1006,23 @@
                 </div>
             </div>
 
+            <!-- Blog for san Diego auto transport  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666352976/Recent%20Uploads/port-arthur-1584098_1280_odezus.jpg" alt="Best Dallas Car shipping company" />
+                    <a href="<?= home_path() ?>blogs/find-the-right-dallas-car-shipping-company">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>HOW TO FIND THE RIGHT DALLAS CAR SHIPPING COMPANY 
+                            </h2>
+                            <p>
+                                You are relocating across the nation. Most of your belongings will be moved by the moving company you hired. But you still need to figure out how to move your car.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">1.3k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->

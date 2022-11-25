@@ -66,27 +66,16 @@
 
     <div class="contact-us-header-page">
         <div class="header-overlay"></div>
-        <?php
-
-        $form_url = home_path() . "services/short_form.php?redirectto=" . current_path();
-
-        ?>
-
+        <?php $form_url = home_path() . "services/short_form.php?redirectto=" . current_path(); ?>
         <section class="third-section-state">
-
-
             <div class="third-section-content">
                 <?php
                 $NAME = "Best Auto Transport Company In Texas";
                 $PARAGRAPH = "Texas is the second-largest state in the United States, with a total area of 268,596 square miles (695,662 km2) and a population of more than 29.1 million people in 2020. It is located in the South Central region of the United States. With approximately 2.16 million citizens, Houston is by far the largest city in Texas.";
                 ?>
                 <h1 class="third-section-content-heading">
-
                     <?= (isset($NAME)) ? $NAME : "USA" ?></h1>
-
-
                 <p class="third-section-content-text"> <?= (isset($PARAGRAPH)) ? $PARAGRAPH : "" ?></p>
-
                 <div class="header-review ">
                     <div class="header-img-box">
                         <a href="https://www.google.com/maps/place/RAPID+AUTO+SHIPPING/@34.4683842,-101.3042842,15z/data=!4m5!3m4!1s0x0:0x9f3bfd5545d14ae8!8m2!3d34.4683842!4d-101.3042842" title="Best auto shipping company in USA">
@@ -186,10 +175,6 @@
 
 
     <?php include reviews; ?>
-    <!-- ----------------------------- -->
-    <!-- --------City Descriptions ------- -->
-    <!-- ----------------------------- -->
-
 
     <!-- ----------------------------- -->
     <!-- --------first section ------- -->
@@ -207,9 +192,7 @@
                     <br>
                     <br>
                     Texas has been populated by Europeans for at least 400 years, according to history. The area is littered with old Spanish missionaries, and <span style="color:var(--nav-color);">San Antonio</span> was constructed on the site of a missionary from the 18th century. The Alamo, one of the most important and well-known historic landmarks in the state and country, is also located in San Antonio. Texas is home to <span style="color:var(--nav-color);">Six Flags Amusement Park </span>(whose name is taken from the fact that Texas has been claimed by six separate nations).
-
                 </p>
-
             </div>
             <div class="first-california-state-grid-box">
                 <h3 class="utility_sub-heading">FAQ's while Auto Transport in<span class="california-state-span"> Texas TX</span></h3>
@@ -466,8 +449,6 @@
         </div>
     </section>
 
-
-
     <!-- ----------------------------- -->
     <!-- --------sixth section ------- -->
     <!-- ----------------------------- -->
@@ -543,6 +524,7 @@
     <!-- ----------------------------- -->
     <!-- --------seventh section---------- -->
     <!-- ----------------------------- -->
+
     <section class="seventh-california-state" id="snowbird_shipping_to_texas">
         <div class="seventh-california-state-box utility_grid">
             <div class="seventh-california-state-box-img">
