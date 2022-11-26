@@ -1023,6 +1023,23 @@
                 </div>
             </div>
 
+            <!-- Blog for PITTSBURGH CAR SHIPPING  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1669450173/Recent%20Uploads/pittsburgh-state.jpg" alt="Pittsburgh Car shipping company" />
+                    <a href="<?= home_path() ?>blogs/pittsburgh-car-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>PITTSBURGH CAR SHIPPING
+                            </h2>
+                            <p>
+                                For most Americans, moving is a very stressful experience. It doesn't help to figure out how to send your car to a different state, for sure. If you require auto transport in Pittsburgh, you may be unsure of where to turn.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">13.8k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
