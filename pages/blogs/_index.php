@@ -1040,6 +1040,22 @@
                 </div>
             </div>
 
+            <!-- Blog for SUV Auto transport  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1669628663/Recent%20Uploads/1edd182ba6e36802ca9a8d5a4bcdf65180813ec2_hvmuwd.jpg" alt="SUV Car shipping company" />
+                    <a href="<?= home_path() ?>blogs/suv-auto-transport">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>SUV AUTO TRANSPORT
+                            </h2>
+                            <p>
+                                Many individuals find sport utility vehicles (SUVs) to be excellent choices. An SUV can be the right choice if you need more cargo room, towing power without a pickup truck, or to transport your most important
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">8.9k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
         </div>
     </section>
     <!-- footer here -->
