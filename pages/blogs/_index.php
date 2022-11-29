@@ -1056,12 +1056,12 @@
                     </a>
                 </div>
             </div>
-            
+
         </div>
     </section>
     <!-- footer here -->
     <?php include_once page_bottom ?>
 
-</body> 
+</body>
 
 </html>
