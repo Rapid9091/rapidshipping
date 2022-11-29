@@ -1057,6 +1057,23 @@
                 </div>
             </div>
 
+            <!-- Blog for SUV Auto transport  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667645818/states%20images/california.jpg" alt="San Fransisco Car shipping company" />
+                    <a href="<?= home_path() ?>blogs/san-fransisco-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>5 THINGS YOU NEED TO KNOW  BEFORE SAN FRANSISCO SHIPPING
+                            </h2>
+                            <p>
+                                San Francisco has a population of just over 70% automobile owners. Therefore, if you're moving to San Francisco and want to bring your car, you can be sure that the city welcomes them.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">3.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
