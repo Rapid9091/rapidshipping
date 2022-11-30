@@ -1057,7 +1057,7 @@
                 </div>
             </div>
 
-            <!-- Blog for SUV Auto transport  -->
+            <!-- Blog for 5 THINGS YOU NEED TO KNOW  BEFORE SAN FRANSISCO SHIPPING -->
             <div class="blog-page-blog-section-grid-left">
                 <div class="blog-page-blog-section-grid-img-container">
                     <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667645818/states%20images/california.jpg" alt="San Fransisco Car shipping company" />
@@ -1074,6 +1074,21 @@
                 </div>
             </div>
 
+            <!-- Blog for HOW TO SHIP A NON-RUNNING VEHICLE?  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1669794392/Recent%20Uploads/man-815795_960_720_uvkamz.jpg" alt="Non running Car shipping" />
+                    <a href="<?= home_path() ?>blogs/how-to-ship-non-running-vehicle">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>HOW TO SHIP A NON-RUNNING VEHICLE? </h2>
+                            <p>
+                                Cars can typically be driven directly onto and off of the carriage. Non-running vehicle shipping must instead be "winched" or loaded using a lift gate because they cannot be driven onto the carrier.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">8.7k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
         </div>
     </section>
     <!-- footer here -->
