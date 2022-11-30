@@ -76,7 +76,7 @@
     <!-- -------------------------------------- -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "San Fransisco Auto shipping";
+        $NAME = "How to ship non-operable vehicle";
         $PARAGRAPH = "Cars can typically be driven directly onto and off of the carriage. <em>Non-running vehicle shipping</em> must instead be 'winched' or loaded using a lift gate because they cannot be driven onto the carrier. Typically, a winch is required to hoist your automobile onto the carrier if it won't start. On the other hand, a winch by itself would be unable to lift your car onto the carrier if it has sustained catastrophic damage and is unable to roll, brake, or steer. If so, a liftgate or forklift will need to be used to lift your car.";
         include small_form;
         ?>
