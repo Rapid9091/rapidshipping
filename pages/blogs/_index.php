@@ -1089,6 +1089,22 @@
                     </a>
                 </div>
             </div>
+
+            <!-- Blog for Indianapolis Auto Transport  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667822580/Recent%20Uploads/20a7f327-922f-4ee8-925a-2850892e2e31_r2c83l.jpg" alt="Indiana Auto Transport" />
+                    <a href="<?= home_path() ?>blogs/indianapolis-auto-transport-guide">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Indianapolis Auto Transport: A Complete Guide  </h2>
+                            <p>
+                                Indianapolis is a city that is improving. It's gradually developing into a well-liked city to reside in as more people move there each year. For the car owner who also wants to move their vehicle, this can be stressful.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">3k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
         </div>
     </section>
     <!-- footer here -->
