@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>How To Avoid Issues with the auto transport broker</title>
     <meta name="title" content="How To Avoid Issues with the auto transport broker " />
-    <meta name="description" content="Rapid Auto Shipping provides auto transport brokers for your vehicle shipping at very affordable price. Call  +1-833-233-4447 to know more about vehicle shipping in USA. " />
+    <meta name="description" content="Rapid Auto Shipping provides auto transport services for your vehicle shipping at very affordable price. Call  +1-833-233-4447 to know more about vehicle shipping in USA. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="How To Avoid Issues with the auto transport broker " />
-    <meta property=" og:description" content="Rapid Auto Shipping provides auto transport brokers for your vehicle shipping at very affordable price.  Call  +1-833-233-4447 to know more about vehicle shipping in USA. " />
+    <meta property=" og:description" content="Rapid Auto Shipping provides auto transport services for your vehicle shipping at very affordable price.  Call  +1-833-233-4447 to know more about vehicle shipping in USA. " />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-to-avoid-issues-with-auto-transport-broker" />
     <meta property="og:site_name" content="How To Avoid Issues with the auto transport broker" />
 
