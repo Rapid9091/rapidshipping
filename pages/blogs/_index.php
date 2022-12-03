@@ -1122,6 +1122,22 @@
                 </div>
             </div>
 
+            <!-- Blog for Auto Transport Seattle  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670050732/states%20images/new-york.jpg" alt="Auto Transport Seattle" />
+                    <a href="<?= home_path() ?>blogs/auto-transport-seattle">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Auto Transport Seattle </h2>
+                            <p>
+                                You might be shocked to learn that there are just over 600 cars for every 1000 people living in Seattle. It is understandable that residents of Seattle rely on their vehicles so significantly given the size of the city and its high population.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">1.5k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
