@@ -81,7 +81,7 @@ ReWriteRule ^privacy-policy([/]?)$ pages/docs/pp.html [NC,L]
 #this route work for Cancilation police
 ReWriteRule ^cancelation-policy([/]?)$ pages/docs/cp.html [NC,L]
 
-#This route work for trams and conditions
+#This route work for terms and conditions
 ReWriteRule ^terms-and-conditions([/]?)$ pages/docs/tnc.html [NC,L]
 
 #404 error pages
