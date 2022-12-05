@@ -1153,6 +1153,24 @@
                     </a>
                 </div>
             </div>
+
+            <!-- Blog for Los Angeles Auto Transport  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667645818/states%20images/california.jpg" alt="Los Angeles Auto Transport" />
+                    <a href="<?= home_path() ?>blogs/los-angeles-auto-transport">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Los Angeles Auto Transport </h2>
+                            <p>
+                                <b> How many Americans will move in a year—about 31 million?</b><br>
+                                Regardless of where you are heading, moving may be daunting and stressful. You've found the ideal place if you're seeking a car shipment to Los Angeles.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">7.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
