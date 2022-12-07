@@ -87,6 +87,7 @@
     <!-- -------------------------------------- -->
     <div class="arkansas-top-companies-2022-container">
         <div class="affordable-ways-page-grid">
+
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span>Best Way for Alaska Car Shipping </span></h2>
@@ -102,6 +103,7 @@
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667644809/states%20images/alaska.jpg" alt="Alaska car shipping">
                 </div>
             </div>
+
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span>A VERY LONG DRIVE REQUIRES. </span></h2>
@@ -125,6 +127,7 @@
 
                 </div>
             </div>
+
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span>You Might Need To Get Special Hardware  </span></h2>
@@ -135,6 +138,7 @@
 
                 </div>
             </div>
+
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span>THE PROCESS OF ALASKA AUTO SHIPPING  </span></h2>
@@ -169,6 +173,7 @@
 
                 </div>
             </div>
+
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span>With Rapid Auto Shipping, Alaska Auto Shipping Is Simple    </span></h2>
@@ -182,6 +187,7 @@
 
                 </div>
             </div>
+
         </div>
         <div class="form-container-list-of-top-companies-arkansas">
             <?php
