@@ -1171,6 +1171,22 @@
                 </div>
             </div>
 
+            <!-- Blog for ALASKA AUTO SHIPPING  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667644809/states%20images/alaska.jpg" alt="ALASKA AUTO SHIPPING" />
+                    <a href="<?= home_path() ?>blogs/alaska-auto-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Alaska Auto Shipping </h2>
+                            <p>
+                                A total of 40,000 people relocate to Alaska each year, while 50,000 leave the state. Whichever route you choose to go, you probably want to transport your car or are at least considering it. It's a feasible option that can be simpler than you think to ship an automobile to Alaska!
+
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">1.9k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
         </div>
     </section>
     <!-- footer here -->
