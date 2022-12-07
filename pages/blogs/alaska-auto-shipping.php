@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>ALASKA AUTO SHIPPING using Rapid Auto Shipping</title>
-    <meta name="title" content="ALASKA AUTO SHIPPING using Rapid Auto Shipping " />
-    <meta name="description" content="How to choose the best Alaska auto transport compnay for shipping your vehicle in entire USA. Call  +1-833-233-4447 to know more about best vehicle shipping for Alaska. " />
+    <title>Alaska Auto transport using Rapid Auto Shipping</title>
+    <meta name="title" content="Alaska Auto transport using Rapid Auto Shipping" />
+    <meta name="description" content="How to choose the best Alaska auto transport compnay for shipping your vehicle in entire USA. Call +1-833-233-4447 to know more about best vehicle shipping for Alaska. " />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="ALASKA AUTO SHIPPING using Rapid Auto Shipping " />
-    <meta property=" og:description" content="How to choose the best Alaska auto transport compnay for shipping your vehicle in entire USA.  Call  +1-833-233-4447 to know more about best vehicle shipping for Alaska. " />
+    <meta property="og:title" content="Alaska Auto transport using Rapid Auto Shipping " />
+    <meta property=" og:description" content="How to choose the best Alaska auto transport compnay for shipping your vehicle in entire USA. Call +1-833-233-4447 to know more about best vehicle shipping for Alaska. " />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/alaska-auto-shipping" />
-    <meta property="og:site_name" content="ALASKA AUTO SHIPPING using Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Alaska Auto transport using Rapid Auto Shipping" />
 
     <meta name='robots' content='index' />
 
