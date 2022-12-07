@@ -95,7 +95,7 @@
                         As you can see, there are two types of vehicle haulers available for shipping cars to Alaska: open and enclosed.
                         <br><br> The open car carrier alternative is not only more expedient, but also less expensive. In actuality, it's the most economical way for you to ship your car.
                         <br><br> The one drawback is that your automobile will go through a variety of temperature and weather variations in travel because it is in an uncovered trailer. This implies that if the weather turns poor, it might be hit by debris. It can be worthwhile to pay a little bit more to ship to Alaska because of this.
-                        <br><br> But keep in mind that your car will be completely insured no matter which way you use to ship a car from Alaska. Therefore, going with the open vehicle transporter option is likely worthwhile if you have a well-used car that you don't mind taking a chance on minor damages on and can quickly get them fixed.
+                        <br><br> But keep in mind that your car will be completely insured no matter<em><b><span> which way you use to ship a car from Alaska.</span></b></em> Therefore, going with the open vehicle transporter option is likely worthwhile if you have a well-used car that you don't mind taking a chance on minor damages on and can quickly get them fixed.
                         <br><br> <em><b><span>Reasons to Take into Account Alaska Car Shipping </span></b></em>
                         <br> You might be contemplating making the drive by yourself to save some cash. However, it can turn out to be more difficult (and expensive) than it's worth. Discover why below.
                     </p>
@@ -163,8 +163,8 @@
                 <div class="new-blog-section-one">
                     <h2><span>What is the price of shipping a car from Arizona to Alaska? </span></h2>
                     <p>
-                        The cost of shipping a car from Arizona to Alaska might vary depending on a number of shipping considerations. Due to a greater availability of drivers and better weather up the coast, car transport to Alaska from the desert is typically more affordable in the spring and warmer months. On the other hand, you might pay more for Alaska auto transport during months when it's more difficult for drivers to navigate.
-                        <br><br> Other elements that could affect how much it costs to ship an automobile to Alaska from Arizona include whether you select open or closed shipment, the state of your car's operating system, and the flexibility of your schedule requirements. Go to our fast cost calculator right immediately for a precise estimate of your Alaska auto transport costs. To lock up your price and place your order from Arizona to The Last Frontier, all it takes is a $75 reservation fee.
+                        The <em><b><span>cost of shipping a car from Arizona to Alaska</span></b></em> might vary depending on a number of shipping considerations. Due to a greater availability of drivers and better weather up the coast, car transport to Alaska from the desert is typically more affordable in the spring and warmer months. On the other hand, you might pay more for <em><b><span> Alaska auto transport</span></b></em> during months when it's more difficult for drivers to navigate.
+                        <br><br> Other elements that could affect how much it costs to ship an automobile to Alaska from Arizona include whether you select open or closed shipment, the state of your car's operating system, and the flexibility of your schedule requirements. Go to our fast cost calculator right immediately for a precise estimate of your <em><b><span> Alaska auto transport</span></b></em> costs. To lock up your price and place your order from Arizona to The Last Frontier, all it takes is a $75 reservation fee.
                     </p>
 
                 </div>
