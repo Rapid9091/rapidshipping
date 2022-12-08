@@ -1204,6 +1204,23 @@
                 </div>
             </div>
 
+            <!-- Blog for Are Florida car shipping fees taxable  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="<?= get_img() ?>florida-bg-1.png" alt="florida car shipping fees" />
+                    <a href="<?= home_path() ?>blogs/florida-car-shipping-fees">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Are Florida car shipping fees taxable</h2>
+                            <p>
+                                If you need to ship a vehicle to Florida, you might be curious if the shipping fee is taxable.
+                                To begin this post, let's respond to that query. Delivery fees are only taxable in Florida if they are part of the purchase price of taxable tangible personal property and aren't otherwise noted on an invoice or bill of sale.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">3.4k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
