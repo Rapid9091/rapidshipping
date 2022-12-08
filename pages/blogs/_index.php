@@ -1187,6 +1187,23 @@
                     </a>
                 </div>
             </div>
+
+            <!-- Blog for How to Avoid Auto Shipping Delays When Moving a Car  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667295981/Recent%20Uploads/Inkedrace_car_shipping-min_mwzw9y_s7i04a.jpg" alt="How to Avoid Auto Shipping Delays When Moving a Car" />
+                    <a href="<?= home_path() ?>blogs/how-to-avoid-auto-shipping-delay">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>How to Avoid Auto Shipping Delays When Moving a Car</h2>
+                            <p>
+                                You may have recently relocated to a new state or ordered a new car that needs to be transferred. You're prepared for your car to show up so you can start adjusting and driving. When the initial thrill subsides, you discover that there has been an auto shipping delay and that your car won't be there when you need it.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">8.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
