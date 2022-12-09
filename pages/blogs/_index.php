@@ -1237,6 +1237,22 @@
                 </div>
             </div>
 
+            <!-- Blog for Comparing Auto Transport Prices: A Complete Guide   -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566890/Recent%20Uploads/car-and-walllet.webp" alt="Car shipping Price" />
+                    <a href="<?= home_path() ?>blogs/comparing-auto-transport-prices">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Comparing Auto Transport Prices: A Complete Guide </h2>
+                            <p>
+                                It is much more practical to ship your car than to drive it to a new location, such as a new state of residence or a vacation spot. Moving your car between towns or states, if necessary, is incredibly simple thanks to auto transport firms.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">13.5k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
