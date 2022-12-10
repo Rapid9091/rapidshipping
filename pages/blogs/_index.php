@@ -1253,6 +1253,22 @@
                 </div>
             </div>
 
+            <!-- Blog for LOCAL VS. ONLINE AUTO SHIPPING  -->
+            <!-- <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566890/Recent%20Uploads/car-and-walllet.webp" alt="Car shipping Prices" />
+                    <a href="<?= home_path() ?>blogs/comparing-auto-transport-prices">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>LOCAL VS. ONLINE AUTO SHIPPING</h2>
+                            <p>
+                                Everything has become available on the internet as it has become a fundamental element of our lives and daily routines, including education, employment, shopping, services, etc. Every action we do in real life now has an online equivalent that is accessible to everyone.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">11.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div> -->
+
         </div>
     </section>
     <!-- footer here -->
