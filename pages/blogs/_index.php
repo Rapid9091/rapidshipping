@@ -1254,10 +1254,10 @@
             </div>
 
             <!-- Blog for LOCAL VS. ONLINE AUTO SHIPPING  -->
-            <!-- <div class="blog-page-blog-section-grid-left">
+            <div class="blog-page-blog-section-grid-left">
                 <div class="blog-page-blog-section-grid-img-container">
-                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566890/Recent%20Uploads/car-and-walllet.webp" alt="Car shipping Prices" />
-                    <a href="<?= home_path() ?>blogs/comparing-auto-transport-prices">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670828974/Recent%20Uploads/car-in-mobile_rnusck.png" alt="Local and online car shipping" />
+                    <a href="<?= home_path() ?>blogs/local-online-car-shipping">
                         <div class="blog-page-blog-section-grid-heading-container">
                             <h2>LOCAL VS. ONLINE AUTO SHIPPING</h2>
                             <p>
@@ -1267,7 +1267,7 @@
                         </div>
                     </a>
                 </div>
-            </div> -->
+            </div>
 
         </div>
     </section>
