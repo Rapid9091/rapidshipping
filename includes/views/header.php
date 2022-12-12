@@ -125,6 +125,10 @@
                                     <ion-icon name="car"></ion-icon><a href="<?= home_path() ?>cars/honda">Honda</a>
                                 </li>
 
+                                <li>
+                                    <ion-icon name="car"></ion-icon><a href="<?= home_path() ?>cars">Explore More ..</a>
+                                </li>
+
                             </ul>
                         </div>
                     </div>
@@ -330,44 +334,9 @@
                                     <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs/shipping-car-to-mexico">Shipping car to Mexico</a>
                                 </li>
                                 <li>
-                                    <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs/terminal-to-terminal-auto-transport">Terminal to terminal auto transport</a>
+                                    <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs">Let's read more .. </a>
                                 </li>
-                                <li>
-                                    <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs/cost-from-texas-to-california">Cost of shipping from Texas to California</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs/ship-from-new-york-to-florida">Cost of shipping from New York to Florida</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs/enclosed-auto-transport-chicago">Enclosed Auto Transport Chicago</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs/cost-to-ship-a-car">Cost of shipping a car</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs/best-autoshipping-company-usa">Best Auto Shipping Company USA</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs/line-haul-transportation">Line haul transportation</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs/boat-shipping">Boat Shipping USA</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs/multi-car-shipping">Multi Car Shipping USA</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs/terminal-to-terminal-car-shipping-service">Terminal to Terminal Car Shipping Service</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs/classic-car-shipping-services-provider">Classic Car Shipping Services Provider</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs/lowboy-shipping">Lowboy Shipping Services </a>
-                                </li>
-                                <li>
-                                    <ion-icon name="create-sharp"></ion-icon><a href="<?= home_path() ?>blogs/jet-ski-transportation">Jet ski transportation </a>
-                                </li>
+
                             </ul>
                         </div>
                     </div>

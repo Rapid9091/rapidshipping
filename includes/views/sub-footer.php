@@ -95,7 +95,7 @@
             </ul>
         </div>
         <div class="footer-urls-grid-1">
-            <h3>Blogs Of Our Company</h3>
+            <h3>Blogs </h3>
             <ul>
                 <li><a href="<?= home_path(); ?>blogs">Blogs</a></li>
                 <li><a href="<?= home_path(); ?>blogs/autoshipping-companies-in-arkansas-2022">Top companies Arkansas</a></li>
@@ -122,41 +122,39 @@
 
             </ul>
         </div>
-        <div class="footer-urls-grid-1">
-            <h3>States we serve </h3>
-            <ul>
-                <li><a href="<?= home_path(); ?>states/alabama">Alabama</a></li>
-                <li><a href="<?= home_path(); ?>states/alaska">Alaska</a></li>
-                <li><a href="<?= home_path(); ?>states/arizona">Arizona</a></li>
-                <li><a href="<?= home_path(); ?>states/arkansas">Arkansas</a></li>
-                <li><a href="<?= home_path(); ?>states/california">California</a></li>
-                <li><a href="<?= home_path(); ?>states/colorado">Colorado</a></li>
-                <li><a href="<?= home_path(); ?>states/new-york">New York</a></li>
-                <li><a href="<?= home_path(); ?>states/connecticut">Connecticut</a></li>
-                <li><a href="<?= home_path(); ?>states/delaware">Delaware</a></li>
-                <li><a href="<?= home_path(); ?>states/florida">Florida</a></li>
 
+        <div class="footer-urls-grid-1">
+            <p class="footer-grid-headings">State to state</p>
+            <ul>
+                <li><a href="<?= home_path(); ?>state-to-state">State to state</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/alabama-to-alaska">Alabama to Alaska</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/alabama-to-arizona">Alabama to Arizona</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/texas-to-california">Texas to California</a></li>
             </ul>
         </div>
-        <div class="footer-urls-grid-1">
-            <p class="footer-grid-headings">States we serve </p>
-            <ul>
-                <li><a href="<?= home_path(); ?>states/georgia">Georgia</a></li>
-                <li><a href="<?= home_path(); ?>states/hawaii">Hawaii</a></li>
-                <li><a href="<?= home_path(); ?>states/idaho">Idaho</a></li>
-                <li><a href="<?= home_path(); ?>states/illinois">Illinois</a></li>
-                <li><a href="<?= home_path(); ?>states/iowa">Iowa</a></li>
-                <li><a href="<?= home_path(); ?>states/kansas">Kansas</a></li>
-                <li><a href="<?= home_path(); ?>states/maine">Maine</a></li>
-                <li><a href="<?= home_path(); ?>states/maryland">Maryland</a></li>
-                <li><a href="<?= home_path(); ?>states/indiana">Indiana</a></li>
-                <li><a href="<?= home_path(); ?>states/kentucky">Kentucky</a></li>
-                <li><a href="<?= home_path(); ?>states/louisiana">Louisiana</a></li>
-                <li><a href="<?= get_state() ?>/new-jersey">New Jersey</a></li>
-                <li><a href="<?= get_state() ?>/new-hampshire">New Hampshire</a></li>
 
+
+        <!-- New section to add more blog links which can't be added in header -->
+        <div class="footer-urls-grid-1">
+            <p class="footer-grid-headings">Our Latest Blogs</p>
+            <ul>
+                <li><a href="<?= home_path(); ?>blogs/port-to-port-transportation">Port to port auto transport</a></li>
+                <li><a href="<?= home_path(); ?>blogs/shipping-a-dump-truck">Dump truck transport in USA</a></li>
+                <li><a href="<?= home_path(); ?>blogs/auction-auto-transport-services">Auction car auto transport In USA</a></li>
+                <li><a href="<?= home_path(); ?>blogs/atvs-shipping">ATV shipping services In USA</a></li>
+                <li><a href="<?= home_path(); ?>blogs/how-to-prepare-your-vehicle">How to prepare your vehicle for shipping</a></li>
+                <li><a href="<?= home_path(); ?>blogs/transporting-car-to-dealership">Transporting car to dealership</a></li>
+                <li><a href="<?= home_path(); ?>blogs/camper-transport">Camper Transport with RSA</a></li>
+                <li><a href="<?= home_path(); ?>blogs/travel-trailer-moving-service">Trailer Moving Services</a></li>
+                <li><a href="<?= home_path(); ?>blogs/how-can-i-move-a-motorcycle">How to ship a motorcycle</a></li>
+                <li><a href="<?= home_path(); ?>blogs/international-car-shipping-tips">Tips for international car shipping</a></li>
+                <li><a href="<?= home_path(); ?>blogs/car-shipping-documents">Car Shipping Documents for shipping </a></li>
+                <li><a href="<?= home_path(); ?>blogs/how-to-ship-a-car-overseas">How to ship a car overseas ?</a></li>
             </ul>
         </div>
+
+
+
         <div class="footer-urls-grid-1">
             <p class="footer-grid-headings">Services we offer</p>
             <ul>
@@ -177,54 +175,6 @@
             </ul>
         </div>
 
-
-        <!-- New section to add more blog links which can't be added in header -->
-        <div class="footer-urls-grid-1">
-            <p class="footer-grid-headings">Blogs Of Our Company</p>
-            <ul>
-                <li><a href="<?= home_path(); ?>blogs/port-to-port-transportation">Port to port auto transport</a></li>
-                <li><a href="<?= home_path(); ?>blogs/shipping-a-dump-truck">Dump truck transport in USA</a></li>
-                <li><a href="<?= home_path(); ?>blogs/auction-auto-transport-services">Auction car auto transport In USA</a></li>
-                <li><a href="<?= home_path(); ?>blogs/atvs-shipping">ATV shipping services In USA</a></li>
-                <li><a href="<?= home_path(); ?>blogs/how-to-prepare-your-vehicle">How to prepare your vehicle for shipping</a></li>
-                <li><a href="<?= home_path(); ?>blogs/transporting-car-to-dealership">Transporting car to dealership</a></li>
-                <li><a href="<?= home_path(); ?>blogs/camper-transport">Camper Transport with RSA</a></li>
-                <li><a href="<?= home_path(); ?>blogs/travel-trailer-moving-service">Trailer Moving Services</a></li>
-                <li><a href="<?= home_path(); ?>blogs/how-can-i-move-a-motorcycle">How to ship a motorcycle</a></li>
-                <li><a href="<?= home_path(); ?>blogs/international-car-shipping-tips">Tips for international car shipping</a></li>
-                <li><a href="<?= home_path(); ?>blogs/car-shipping-documents">Car Shipping Documents for shipping </a></li>
-                <li><a href="<?= home_path(); ?>blogs/how-to-ship-a-car-overseas">How to ship a car overseas ?</a></li>
-            </ul>
-        </div>
-
-
-        <div class="footer-urls-grid-1">
-            <p class="footer-grid-headings">State to state</p>
-            <ul>
-                <li><a href="<?= home_path(); ?>state-to-state">State to state</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state/alabama-to-alaska">Alabama to Alaska</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state/alabama-to-arizona">Alabama to Arizona</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state/texas-to-california">Texas to California</a></li>
-            </ul>
-        </div>
-
-
-        <!-- New section to add more blog links which can't be added in header -->
-        <div class="footer-urls-grid-1">
-            <p class="footer-grid-headings">More Blogs </p>
-            <ul>
-                <li><a href="<?= home_path(); ?>blogs/benefits-of-hiring-an-auto-transport-company">Benefits of hiring an auto transport company ?</a></li>
-                <li><a href="<?= home_path(); ?>blogs/how-to-ship-a-truck">How to ship a truck ?</a></li>
-                <li><a href="<?= home_path(); ?>blogs/benefits-of-car-shipping">Benefits of car shipping </a></li>
-                <li><a href="<?= home_path(); ?>blogs/exotic-cars">Exotic car shipping </a></li>
-                <li><a href="<?= home_path(); ?>blogs/differences-between-shipping-a-vehicle-during-summer-vs-winter">WINTER VS. SUMMER CAR SHIPPING</a></li>
-                <li><a href="<?= home_path(); ?>blogs/special-discounts">Special offers and discounts </a></li>
-                <li><a href="<?= home_path(); ?>blogs/summer-car-shipping">Shipping car in Summers </a></li>
-                <li><a href="<?= home_path(); ?>blogs/race-car-transport-services">Race Car Transport</a></li>
-                <li><a href="<?= home_path(); ?>blogs/10-questions-to-ask-an-auto-transport-company">10 questions to ask an auto-transport company ?</a></li>
-
-            </ul>
-        </div>
     </div>
 
 </section>
