@@ -1269,6 +1269,22 @@
                 </div>
             </div>
 
+            <!-- Blog for Tips for Getting Auto Transport Discounts  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="<?= get_img(); ?>opening_popup.jpeg" alt="car shipping discount" />
+                    <a href="<?= home_path() ?>blogs/tips-for-auto-shipping-discount">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Tips for Getting Auto Transport Discounts</h2>
+                            <p>
+                                Getting an auto transport discount on anything you're purchasing, whether it's a service or a product, is never a terrible thing. When dealing with something that has a high cost, as is frequently the case when transporting a vehicle,
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">8.4k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
