@@ -1285,6 +1285,23 @@
                 </div>
             </div>
 
+            <!-- Blog for AUTO SHIPPING PAYMENT OPTION  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566703/Recent%20Uploads/man-with-money.jpg" alt="AUTO SHIPPING PAYMENT OPTION" />
+                    <a href="<?= home_path() ?>blogs/auto-shipping-payment-options">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>AUTO SHIPPING PAYMENT OPTION</h2>
+                            <p>
+                                You've made the decision to select an auto shipping company to move your car. Good decision! But you might be curious about how their auto transport payment methods operate.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">13k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+
         </div>
     </section>
     <!-- footer here -->
