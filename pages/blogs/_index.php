@@ -1301,6 +1301,22 @@
                 </div>
             </div>
 
+            <!-- Blog for TYPES OF AUTO TRANSPORT   -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="<?= get_img() ?>enclosed-open-mix.png" alt="TYPES OF AUTO TRANSPORT " />
+                    <a href="<?= home_path() ?>blogs/types-of-auto-transport">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>TYPES OF AUTO TRANSPORT </h2>
+                            <p>
+                                Regarding trailers and trucks, you have a selection of vehicle transport choices at your disposal. You may choose the best method for moving your own car by being aware of the benefits and drawbacks of each option. Remember that there may not always be a "best solution" that applies to everyone. Instead, it will rely on your individual demands and situation. Visit the Better Business Bureau website irrespective of the business you select.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
 
         </div>
     </section>
