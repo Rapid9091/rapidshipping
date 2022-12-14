@@ -1317,6 +1317,22 @@
                 </div>
             </div>
 
+            <!-- Blog for Why not to run for low prices ?   -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667823935/Recent%20Uploads/cost-of-RAS.png" alt="Why not to run for low prices ? " />
+                    <a href="<?= home_path() ?>blogs/why-not-to-run-for-low-prices">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Why not to run for low prices ? </h2>
+                            <p>
+                                Human nature would appear to dictate that you always want to go with the business that charges the least. Though it may be misused, there is a valid justification for it.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">8.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
 
         </div>
     </section>
