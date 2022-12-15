@@ -91,6 +91,7 @@
 
     <!-- this is header -->
     <?php include header; ?>
+
     <!-- this is the fiorst section with background image -->
     <div class="contact-us-header-page">
         <?php
