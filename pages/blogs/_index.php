@@ -1333,6 +1333,22 @@
                 </div>
             </div>
 
+            <!-- Blog for A Complete Guide To Auto Transport Deposit   -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670915864/Recent%20Uploads/money-in-wallet.jpg" alt="A Complete Guide To Auto Transport Deposit " />
+                    <a href="<?= home_path() ?>blogs/guide-to-auto-transport-deposit">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>A Complete Guide To Auto Transport Deposit</h2>
+                            <p>
+                                If you've never transported a vehicle before, you might want to pay attention. Make sure you understand exactly what you will be paying for, how much you will be paying, who you will be paying, and how much when looking for a vehicle transport firm.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">2k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
