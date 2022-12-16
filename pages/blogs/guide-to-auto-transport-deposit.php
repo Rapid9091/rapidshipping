@@ -95,7 +95,7 @@
                         <br><br>
                         The majority of brokers will charge you once they determine when and who will be picking up your vehicle, or when your vehicle is dispatched to a carrier. Others wait until your car is fully loaded before charging your deposit; once they receive proof that the driver has picked up your car, that is.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667295981/Recent%20Uploads/Inkedrace_car_shipping-min_mwzw9y_s7i04a.jpg" alt="Auto transport pricing">
+                    <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667295981/Recent%20Uploads/Inkedrace_car_shipping-min_mwzw9y_s7i04a.jpg" alt="Auto transport pricing">
                     <p>
                         <br>
                         The car shipping industry accepts all of those times. Your transport company is required by law to inform you of the exact day on which they will charge you the <em style="font-style:italic;"><b><span>Car shipping deposit </span></b></em>fee, therefore you should always confirm this with them. Determine how much of the total amount is the deposit, as the remainder will probably need to be paid to the driver in cash, a cashier's check, or a money order when the package is delivered. In the car shipping industry, this is regarded as the typical payment method.
@@ -104,7 +104,7 @@
 
                 <div class="new-blog-section-one">
                     <h2><span> Why Do Car Transport Brokers Ask for Deposits? </span></h2>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666432435/Recent%20Uploads/exotic-car-min_jbuf4y.jpg" alt="Auto Shipping pricing">
+                    <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666432435/Recent%20Uploads/exotic-car-min_jbuf4y.jpg" alt="Auto Shipping pricing">
 
                     <p>
                         The majority of <em style="font-style:italic;"><b><span>Auto brokers request a deposit</span></b></em> in exchange for their services. In most circumstances, this deposit is used to cover the broker's charge for connecting you to a vehicle shipping firm rather than the cost of the actual transportation service. When you can't buy directly from the producer, or in this case, the carrier, it works similarly to the strategies utilized by brokers in the majority of other businesses.
@@ -121,7 +121,7 @@
                         Scammers will frequently request an early deposit in order to steal your money as quickly as feasible. If you choose to work with a broker and want to prevent being duped, wait to pay anything until all final agreements have been made in writing. Due to the requirements of the shipping platforms they use, some brokers demand deposits to be made early. This won't be necessary if you find a broker with a personal database or get in touch with an <em style="font-style:italic;"><b><span> Auto transport business</span></b></em> directly.
                         <br>
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/verification_qtasyq.jpg" alt="Auto transport deposits">
+                    <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/verification_qtasyq.jpg" alt="Auto transport deposits">
                     <p>
                         It is not your duty as the client to make accommodations for the broker's circumstances. You may want to look for another provider if the options provided by the current one do not safeguard your interests and/or leave you susceptible to fraud.
                     </p>

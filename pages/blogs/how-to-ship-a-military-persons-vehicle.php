@@ -103,7 +103,7 @@
                 </div>
                 <div class="new-blog-section-one">
                     <h2><span> Step. 2: Make sure your car complies with all necessary requirements. </span></h2>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/verification_qtasyq.jpg" alt="Military car shipping">
+                    <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/verification_qtasyq.jpg" alt="Military car shipping">
 
                     <p>
                         The U.S. Government will only cover one POV, which must be your own car or one you have rented for a dependent for only personal use. This vehicle needs to have wheels and be self-propelled. If it was altered to be a "lowrider" vehicle, it must also have at least six inches of clearance space from the ground. This reduces the possibility of damage occurring during loading, unloading, and removal from the carrier. Additionally, the lift kit shouldn't be taller than 3 inches.
@@ -112,7 +112,7 @@
                 </div>
                 <div class="new-blog-section-one">
                     <h2><span>Step. 3: Determine The Estimated Time For Shipping  </span></h2>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1671186275/Recent%20Uploads/pexels-photo-3706685_zl8een.jpg" alt="Military car shipping  discounts">
+                    <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1671186275/Recent%20Uploads/pexels-photo-3706685_zl8een.jpg" alt="Military car shipping  discounts">
 
                     <p>
                         The schedule for delivering military personnel's vehicles is often divided into two categories:
@@ -133,7 +133,7 @@
                         <br><br> <em style="font-style:normal;"><b><span>Export Declaration by Shipper: </span></b></em>The U.S. The Census Bureau requires it whenever the total value of the delivered goods exceeds $2,500.
                         <br><br> <em style="font-style:normal;"><b><span>Specifying Dangerous Goods: </span></b></em>This declaration, which is required by several European nations, lists potentially hazardous items (e.g., the battery of your car)
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/businessman-working-with-documentation-desk_qyfwwo.jpg" alt="military auto transport">
+                    <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/businessman-working-with-documentation-desk_qyfwwo.jpg" alt="military auto transport">
 
                 </div>
                 <div class="new-blog-section-one">
@@ -150,7 +150,7 @@
                 </div>
                 <div class="new-blog-section-one">
                     <h2><span>Step. 7: Pick Up Your Vehicle When It's Prepared  </span></h2>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667295981/Recent%20Uploads/Inkedrace_car_shipping-min_mwzw9y_s7i04a.jpg" alt="Military shipping">
+                    <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667295981/Recent%20Uploads/Inkedrace_car_shipping-min_mwzw9y_s7i04a.jpg" alt="Military shipping">
 
                     <p>
                         The time has finally come. Make sure you have the following paperwork on hand before going to the VPC.
