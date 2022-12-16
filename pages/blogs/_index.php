@@ -1349,6 +1349,23 @@
                 </div>
             </div>
 
+            <!-- Blog TO SHIP A VEHICLE WHEN YOU'RE IN THE MILITARY -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="<?= get_img() ?>military-shipping-background.png" alt="Military Auto Transport " />
+                    <a href="<?= home_path() ?>blogs/how-to-ship-a-military-persons-vehicle">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>HOW TO SHIP A VEHICLE WHEN YOU'RE IN THE MILITARY</h2>
+                            <p>
+                                Car shipping is frequently a challenging process. It's not something you should take lightly considering how precious your car is.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">6.0k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+
         </div>
     </section>
     <!-- footer here -->
