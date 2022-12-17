@@ -76,8 +76,8 @@
     <!-- -------------------------------------- -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Why Do Auto Shipping Quotes Differ?";
-        $PARAGRAPH = "One of the things you'll notice when choosing which car transport broker to hire to move your vehicle is how much different firms' auto shipping quotes vary from one another. Seeing these changes may be confusing for you because many <em style='font-style: normal;'><span>auto shipping firms provide free, immediate quotes</span></em>. Understanding <em style='font-style: normal;'><span>why auto transport quotes differ</span></em> can enable you to make a more informed selection, even though opting to immediately go with the business providing the lowest quote is not the best course of action.   ";
+        $NAME = "Why Do Shipping Quotes Differ ?";
+        $PARAGRAPH = "One of the things you'll notice when choosing which car transport broker to hire to move your vehicle is how much different firms auto shipping quotes vary from one another. Seeing these changes may be confusing for you because many <em style='font-style: normal;'><span>auto shipping firms provide free, immediate quotes</span></em>. Understanding <em style='font-style: normal;'><span>why auto transport quotes differ</span></em> can enable you to make a more informed selection, even though opting to immediately go with the business providing the lowest quote is not the best course of action.   ";
         include small_form;
         ?>
     </div>
