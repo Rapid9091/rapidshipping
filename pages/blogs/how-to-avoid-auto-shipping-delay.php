@@ -163,8 +163,6 @@
                         <li style="list-style-type:disc;"> Once you have this information, you may use an online calculator to determine the cost of shipping an automobile.</li>
                     </ul>
                     </p>
-                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668072952/Recent%20Uploads/semi-truck-on-a-two-lane-mountain-highway-with-beautiful-clouds-in-picture-id1416057555_f4hiz0.jpgs" alt="auto transport delays">
-
                 </div>
             </div>
 

@@ -128,7 +128,7 @@
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="Car shipping services in South Dakota" href="https://www.mammothsite.org/" style="color:black;"> Mammoth Site</a>
+                </ion-icon><br> <a target="_blank" title="Car shipping services in South Dakota" style="color:black;"> Mammoth Site</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
