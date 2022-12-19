@@ -121,7 +121,6 @@
                         <br><br> If you're in the Army, you should be aware that, providing the assignment is for a year or more, your car will be available for shipping within a 90-day timeframe starting from the moment you embark for the tour overseas. It must be shipped within 30 days if the tour of service is shorter than a year.<br><br> If you are a member of the Navy, your vehicle is transportable if you have at least 12 months of service at the foreign duty station remaining, counting from the moment it was moved to the loading port. However, there are exceptions to this if you can demonstrate that the vehicle enables you to carry out your obligations in the Navy, which a superior officer would evaluate.
                     </p>
                 </div>
-
                 <div class="new-blog-section-one">
                     <h2><span>Step. 4: Prepare all required documentation  </span></h2>
                     <p>
@@ -163,7 +162,6 @@
 
                     </p>
                 </div>
-
             </div>
         </div>
 
