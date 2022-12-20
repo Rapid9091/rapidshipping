@@ -99,7 +99,7 @@
                     <p>
                         There are numerous websites devoted to assisting you in locating the top businesses. The majority of businesses will typically be pleased to provide you with an online quote, and these websites will present the finest rates from a variety of websites. You must, however, shop around to find the greatest deals and services. The rates will typically be based on the least expensive mode of transportation and for a standard-sized car. Therefore, if you require special moving vehicles, that could increase the cost for you. Additionally, if your car is large and expensive, the cost will increase even further.
                     </p>
-                    <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666777655/Recent%20Uploads/pexels-andrea-piacquadio-3823542-845x321_o8nkqo.jpg" alt="auto transport company">
+                    <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670828974/Recent%20Uploads/car-in-mobile_rnusck.png" alt="auto transport company">
                 </div>
 
                 <div class="new-blog-section-one">
