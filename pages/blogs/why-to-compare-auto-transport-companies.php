@@ -76,7 +76,7 @@
     <!-- -------------------------------------- -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Reasons Why to compare auto shipping companies ";
+        $NAME = "Why to compare shipping companies";
         $PARAGRAPH = "You can find two different types of results when you just search for 'car shipping companies' because the term can be used to refer to both actual car shipping companies that move your automobile from one location to another and brokers that receive orders for such companies. Additionally, you won't be able to determine which business is the greatest and which services are the most appropriate for you. Therefore, you must evaluate auto shipping businesses before selecting the finest one; here is a little explanation of how to do so. ";
         include small_form;
         ?>
