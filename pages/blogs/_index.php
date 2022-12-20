@@ -1381,6 +1381,21 @@
                 </div>
             </div>
 
+            <!-- Blog Auto Shipping Calculator -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667824835/Recent%20Uploads/financial-ga82751651_1920_g9gv1w.jpg" alt="Auto Shipping Calculator" />
+                    <a href="<?= home_path() ?>blogs/auto-shipping-calculator">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Auto Shipping Calculator</h2>
+                            <p>
+                                When transferring a car, there are several elements to take into account, with cost ranking as one of the most crucial ones. It is usually wise to never take the quote provided by a company for granted since they may differ gre
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">8.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
 
         </div>
     </section>
