@@ -134,6 +134,7 @@ $state_list = fetch_all_data($query_to_fetch_state);
             }
         }
     </script>
+  
 </body>
 
 </html>
