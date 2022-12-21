@@ -141,7 +141,7 @@
 
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="Mississippi auto transport company" href="https://jacksonzoo.org/" style="color:black;">Jackson Zoological Park </a>
+                </ion-icon><br> <a target="_blank" title="Mississippi auto transport company" style="color:black;">Jackson Zoological Park </a>
             </li>
 
         </ul>

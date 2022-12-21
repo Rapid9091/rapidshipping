@@ -1006,6 +1006,412 @@
                 </div>
             </div>
 
+            <!-- Blog for san Diego auto transport  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666352976/Recent%20Uploads/port-arthur-1584098_1280_odezus.jpg" alt="Best Dallas Car shipping company" />
+                    <a href="<?= home_path() ?>blogs/find-the-right-dallas-car-shipping-company">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>HOW TO FIND THE RIGHT DALLAS CAR SHIPPING COMPANY 
+                            </h2>
+                            <p>
+                                You are relocating across the nation. Most of your belongings will be moved by the moving company you hired. But you still need to figure out how to move your car.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">1.3k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for PITTSBURGH CAR SHIPPING  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1669450173/Recent%20Uploads/pittsburgh-state.jpg" alt="Pittsburgh Car shipping company" />
+                    <a href="<?= home_path() ?>blogs/pittsburgh-car-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>PITTSBURGH CAR SHIPPING
+                            </h2>
+                            <p>
+                                For most Americans, moving is a very stressful experience. It doesn't help to figure out how to send your car to a different state, for sure. If you require auto transport in Pittsburgh, you may be unsure of where to turn.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">13.8k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for SUV Auto transport  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1669628663/Recent%20Uploads/1edd182ba6e36802ca9a8d5a4bcdf65180813ec2_hvmuwd.jpg" alt="SUV Car shipping company" />
+                    <a href="<?= home_path() ?>blogs/suv-auto-transport">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>SUV AUTO TRANSPORT
+                            </h2>
+                            <p>
+                                Many individuals find sport utility vehicles (SUVs) to be excellent choices. An SUV can be the right choice if you need more cargo room, towing power without a pickup truck, or to transport your most important
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">8.9k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for 5 THINGS YOU NEED TO KNOW  BEFORE SAN FRANSISCO SHIPPING -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667645818/states%20images/california.jpg" alt="San Fransisco Car shipping company" />
+                    <a href="<?= home_path() ?>blogs/san-fransisco-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>5 THINGS YOU NEED TO KNOW  BEFORE SAN FRANSISCO SHIPPING
+                            </h2>
+                            <p>
+                                San Francisco has a population of just over 70% automobile owners. Therefore, if you're moving to San Francisco and want to bring your car, you can be sure that the city welcomes them.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">3.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for HOW TO SHIP A NON-RUNNING VEHICLE?  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1669794392/Recent%20Uploads/man-815795_960_720_uvkamz.jpg" alt="Non running Car shipping" />
+                    <a href="<?= home_path() ?>blogs/how-to-ship-non-running-vehicle">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>HOW TO SHIP A NON-RUNNING VEHICLE? </h2>
+                            <p>
+                                Cars can typically be driven directly onto and off of the carriage. Non-running vehicle shipping must instead be "winched" or loaded using a lift gate because they cannot be driven onto the carrier.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">8.7k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for Indianapolis Auto Transport  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667822580/Recent%20Uploads/20a7f327-922f-4ee8-925a-2850892e2e31_r2c83l.jpg" alt="Indiana Auto Transport" />
+                    <a href="<?= home_path() ?>blogs/indianapolis-auto-transport-guide">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Indianapolis Auto Transport: A Complete Guide  </h2>
+                            <p>
+                                Indianapolis is a city that is improving. It's gradually developing into a well-liked city to reside in as more people move there each year. For the car owner who also wants to move their vehicle, this can be stressful.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">3k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for How To Avoid Issues with the auto transport broker   -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/businessman-working-with-documentation-desk_qyfwwo.jpg" alt="How To Avoid Issues with the auto transport broker" />
+                    <a href="<?= home_path() ?>blogs/how-to-avoid-issues-with-auto-transport-broker">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>How To Avoid Issues with the auto transport broker  </h2>
+                            <p>
+                                It's not always simple to ship an automobile. But if you work with a vehicle shipping broker, it will be much simpler.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">4.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for Auto Transport Seattle  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670050732/states%20images/new-york.jpg" alt="Auto Transport Seattle" />
+                    <a href="<?= home_path() ?>blogs/auto-transport-seattle">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Auto Transport Seattle </h2>
+                            <p>
+                                You might be shocked to learn that there are just over 600 cars for every 1000 people living in Seattle. It is understandable that residents of Seattle rely on their vehicles so significantly given the size of the city and its high population.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">1.5k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for WHICH TYPE OF AUTO TRANSPORT CARRIER IS RIGHT FOR YOUR VEHICLE  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831357/RapidAutoShipping/auto-transport-open_igwdt5.jpg" alt="RIGHT AUTO TRANSPORT CARRIER FOR YOUR VEHICLE" />
+                    <a href="<?= home_path() ?>blogs/right-auto-transport-carrier-for-your-vehicle">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Which Type Of Auto Transport Carrier Is Right For Your Vehicle </h2>
+                            <p>
+                                The finest transport option for you should be considered once you've made the decision to ship your car. In making your choice, you must consider your schedule, your financial situation, and the condition and toughness of your car. Asking service providers who have given quotations for your car is a wonderful place to start if you're unsure which approach is best for you. They have a tonne of experience and can advise you on the best options for your automobile, finances, and schedule. It's crucial that you let the carrier know if your car's weight or dimensions alter from what it came with from the factory, since this could influence the best way.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">4k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for Los Angeles Auto Transport  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667645818/states%20images/california.jpg" alt="Los Angeles Auto Transport" />
+                    <a href="<?= home_path() ?>blogs/los-angeles-auto-transport">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Los Angeles Auto Transport </h2>
+                            <p>
+                                <b> How many Americans will move in a year—about 31 million?</b><br>
+                                Regardless of where you are heading, moving may be daunting and stressful. You've found the ideal place if you're seeking a car shipment to Los Angeles.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">7.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for ALASKA AUTO SHIPPING  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667644809/states%20images/alaska.jpg" alt="ALASKA AUTO SHIPPING" />
+                    <a href="<?= home_path() ?>blogs/alaska-auto-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Alaska Auto Shipping </h2>
+                            <p>
+                                A total of 40,000 people relocate to Alaska each year, while 50,000 leave the state. Whichever route you choose to go, you probably want to transport your car or are at least considering it. It's a feasible option that can be simpler than you think to ship an automobile to Alaska!
+
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">1.9k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for How to Avoid Auto Shipping Delays When Moving a Car  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667295981/Recent%20Uploads/Inkedrace_car_shipping-min_mwzw9y_s7i04a.jpg" alt="How to Avoid Auto Shipping Delays When Moving a Car" />
+                    <a href="<?= home_path() ?>blogs/how-to-avoid-auto-shipping-delay">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>How to Avoid Auto Shipping Delays When Moving a Car</h2>
+                            <p>
+                                You may have recently relocated to a new state or ordered a new car that needs to be transferred. You're prepared for your car to show up so you can start adjusting and driving. When the initial thrill subsides, you discover that there has been an auto shipping delay and that your car won't be there when you need it.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">8.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for Are Florida car shipping fees taxable  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="<?= get_img() ?>florida-bg-1.png" alt="florida car shipping fees" />
+                    <a href="<?= home_path() ?>blogs/florida-car-shipping-fees">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Are Florida car shipping fees taxable</h2>
+                            <p>
+                                If you need to ship a vehicle to Florida, you might be curious if the shipping fee is taxable.
+                                To begin this post, let's respond to that query. Delivery fees are only taxable in Florida if they are part of the purchase price of taxable tangible personal property and aren't otherwise noted on an invoice or bill of sale.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">3.4k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for Which is better: Car Hauler or flatbed ?  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="<?= get_img() ?>66178.png" alt="cal hauler or flatbed shipping" />
+                    <a href="<?= home_path() ?>blogs/car-hauler-or-flatbed-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Which is better: Car Hauler or flatbed ?</h2>
+                            <p>
+                                Despite the fact that they both perform the same type of work, each type has a particular goal in mind. Car haulers, however, are the more typical truck utilized by the majority of people who work for an auto transport business.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">1.9k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for Comparing Auto Transport Prices: A Complete Guide   -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566890/Recent%20Uploads/car-and-walllet.webp" alt="Car shipping Price" />
+                    <a href="<?= home_path() ?>blogs/comparing-auto-transport-prices">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Comparing Auto Transport Prices: A Complete Guide </h2>
+                            <p>
+                                It is much more practical to ship your car than to drive it to a new location, such as a new state of residence or a vacation spot. Moving your car between towns or states, if necessary, is incredibly simple thanks to auto transport firms.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">13.5k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for LOCAL VS. ONLINE AUTO SHIPPING  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670828974/Recent%20Uploads/car-in-mobile_rnusck.png" alt="Local and online car shipping" />
+                    <a href="<?= home_path() ?>blogs/local-online-car-shipping">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>LOCAL VS. ONLINE AUTO SHIPPING</h2>
+                            <p>
+                                Everything has become available on the internet as it has become a fundamental element of our lives and daily routines, including education, employment, shopping, services, etc. Every action we do in real life now has an online equivalent that is accessible to everyone.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">11.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for Tips for Getting Auto Transport Discounts  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="<?= get_img(); ?>opening_popup.jpeg" alt="car shipping discount" />
+                    <a href="<?= home_path() ?>blogs/tips-for-auto-shipping-discount">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Tips for Getting Auto Transport Discounts</h2>
+                            <p>
+                                Getting an auto transport discount on anything you're purchasing, whether it's a service or a product, is never a terrible thing. When dealing with something that has a high cost, as is frequently the case when transporting a vehicle,
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">8.4k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for AUTO SHIPPING PAYMENT OPTION  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566703/Recent%20Uploads/man-with-money.jpg" alt="AUTO SHIPPING PAYMENT OPTION" />
+                    <a href="<?= home_path() ?>blogs/auto-shipping-payment-options">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>AUTO SHIPPING PAYMENT OPTION</h2>
+                            <p>
+                                You've made the decision to select an auto shipping company to move your car. Good decision! But you might be curious about how their auto transport payment methods operate.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">13k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for TYPES OF AUTO TRANSPORT   -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="<?= get_img() ?>enclosed-open-mix.png" alt="TYPES OF AUTO TRANSPORT " />
+                    <a href="<?= home_path() ?>blogs/types-of-auto-transport">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>TYPES OF AUTO TRANSPORT </h2>
+                            <p>
+                                Regarding trailers and trucks, you have a selection of vehicle transport choices at your disposal. You may choose the best method for moving your own car by being aware of the benefits and drawbacks of each option. Remember that there may not always be a "best solution" that applies to everyone. Instead, it will rely on your individual demands and situation. Visit the Better Business Bureau website irrespective of the business you select.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for Why not to run for low prices ?   -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667823935/Recent%20Uploads/cost-of-RAS.png" alt="Why not to run for low prices ? " />
+                    <a href="<?= home_path() ?>blogs/why-not-to-run-for-low-prices">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Why not to run for low prices ? </h2>
+                            <p>
+                                Human nature would appear to dictate that you always want to go with the business that charges the least. Though it may be misused, there is a valid justification for it.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">8.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog for A Complete Guide To Auto Transport Deposit   -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670915864/Recent%20Uploads/money-in-wallet.jpg" alt="A Complete Guide To Auto Transport Deposit " />
+                    <a href="<?= home_path() ?>blogs/guide-to-auto-transport-deposit">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>A Complete Guide To Auto Transport Deposit</h2>
+                            <p>
+                                If you've never transported a vehicle before, you might want to pay attention. Make sure you understand exactly what you will be paying for, how much you will be paying, who you will be paying, and how much when looking for a vehicle transport firm.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">2k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog TO SHIP A VEHICLE WHEN YOU'RE IN THE MILITARY -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="<?= get_img() ?>military-shipping-background.png" alt="Military Auto Transport " />
+                    <a href="<?= home_path() ?>blogs/how-to-ship-a-military-persons-vehicle">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>HOW TO SHIP A VEHICLE WHEN YOU'RE IN THE MILITARY</h2>
+                            <p>
+                                Car shipping is frequently a challenging process. It's not something you should take lightly considering how precious your car is.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">6.0k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog TO SHIP A VEHICLE WHEN YOU'RE IN THE MILITARY -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1671271225/Recent%20Uploads/man-with-coin.jpg" alt="Auto Transport PRICING " />
+                    <a href="<?= home_path() ?>blogs/why-do-auto-shipping-quote-differ">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Why Do Auto Shipping Quotes Differ</h2>
+                            <p>
+                                One of the things you'll notice when choosing which car transport broker to hire to move your vehicle is how much different firms' auto shipping quotes vary from one another. Seeing these changes may be confusing for you because many auto shipping firms provide free, immediate quotes.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">3k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog Auto Shipping Calculator -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667824835/Recent%20Uploads/financial-ga82751651_1920_g9gv1w.jpg" alt="Auto Shipping Calculator" />
+                    <a href="<?= home_path() ?>blogs/auto-shipping-calculator">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Auto Shipping Calculator</h2>
+                            <p>
+                                When transferring a car, there are several elements to take into account, with cost ranking as one of the most crucial ones. It is usually wise to never take the quote provided by a company for granted since they may differ greatly. </p>
+                            <p class="comments-on-blogs-page-dynamic">8.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Blog Why You Should Compare Auto Transport Companies  -->
+            <div class="blog-page-blog-section-grid-left">
+                <div class="blog-page-blog-section-grid-img-container">
+                    <img loading="lazy" src="<?= get_img() ?>companies-building.jpg" alt="Auto Transport Companies" />
+                    <a href="<?= home_path() ?>blogs/why-to-compare-auto-transport-companies">
+                        <div class="blog-page-blog-section-grid-heading-container">
+                            <h2>Why You Should Compare Auto Transport Companies </h2>
+                            <p>
+                                You can find two different types of results when you just search for "car shipping companies" because the term can be used to refer to both actual car shipping companies that move your automobile from one location to another and brokers that receive orders for such companies.
+                            </p>
+                            <p class="comments-on-blogs-page-dynamic">1.1k Views</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- footer here -->
