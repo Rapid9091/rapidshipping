@@ -7,11 +7,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>No.1 Trusted door to door Auto Transport Services.</title>
-    <meta name="No.1 Trusted door to door Auto Transport Services." />
+    <title>#1 US Trusted Door To Door Auto Transport Services | Rapid Auto Shipping</title>
+    <meta name="#1 US Trusted Door To Door Auto Transport Services | Rapid Auto Shipping" />
     <meta name="description" content="Rapid Auto Shipping is The Best Door to Door Auto Transport Company For top-notch service and convenience, Get a quote today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="No.1 Trusted door to door Auto Transport Services." />
+    <meta property="og:title" content="#1 US Trusted Door To Door Auto Transport Services | Rapid Auto Shipping" />
     <meta property="og:description" content="Rapid Auto Shipping is The Best Door to Door Auto Transport Company For top-notch service and convenience, Get a quote today!" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/door-to-door" />
     <meta property="og:site_name" content="Door to Door Vehicle Transport Services - Rapid Auto Shipping" />
@@ -44,7 +44,8 @@
     <!--     Google Analytics Code Start -->
 
 
-    <!--     Google Analytics Code Ends --><?php include head; ?>
+    <!--     Google Analytics Code Ends -->
+    <?php include head; ?>
 
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_blog.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">

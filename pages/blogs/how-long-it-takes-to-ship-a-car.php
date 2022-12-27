@@ -11,10 +11,10 @@
     <meta name="title" content="Complete guide for how much time it takes to ship a car ? " />
     <meta name="description" content="Find out how long it takes to ship a car from your location with Rapid Auto Shipping. Call us today +1-833-233-4447 for the fastest and most reliable car shipping service. " />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="How much time it takes to ship a Car ?" />
+    <meta property="og:title" content="Complete guide for how much time it takes to ship a car ?" />
     <meta property="og:description" content="Find out how long it takes to ship a car from your location with Rapid Auto Shipping. Call us today +1-833-233-4447 for the fastest and most reliable car shipping service." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-long-it-takes-to-ship-a-car" />
-    <meta property="og:site_name" content="How much time it takes to ship a Car ? " />
+    <meta property="og:site_name" content="Complete guide for how much time it takes to ship a car ? " />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->
@@ -104,7 +104,6 @@
                         <br><br> Use our automobile shipping cost calculator to obtain free, reliable estimations of the cost of transporting a car. To find out how much it will cost to ship an automobile across the country, simply fill out the required information on our website.
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg" alt="Car shipping in USA">
-
                 </div>
             </div>
 
