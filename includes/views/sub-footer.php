@@ -182,7 +182,7 @@
 
 <section class="last-strip" style="background-color:var(--nav-color); color:#fff; font-size:13px;text-align:center;padding:5px;">
     <p>
-        Copyright © 2018-2022, Rapid Auto Shipping - All Rights Reserved.
+        Copyright © 2018- <?php echo date("Y"); ?>, Rapid Auto Shipping - All Rights Reserved.
 
     </p>
 </section>
