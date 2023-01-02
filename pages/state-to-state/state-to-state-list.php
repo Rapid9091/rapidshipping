@@ -134,7 +134,21 @@ $state_list = fetch_all_data($query_to_fetch_state);
             }
         }
     </script>
-  
+
 </body>
 
 </html>
+<!-- <?php
+
+        // if ($state_list) {
+
+        //     for ($i = 0; $i < count($state_list); $i++) {
+        //         $state = $state_list[$i];
+
+        //         echo home_path() . "state-to-state/" . $state['slug'];
+        //         echo  "<br>";
+        //     }
+        // }
+
+        ?>
+ -->

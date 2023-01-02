@@ -7,11 +7,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Free Car shipping Quotes! - Rapid Auto Shipping</title>
-    <meta name="title" content="Free Car shipping Quotes! - Rapid Auto Shipping" />
+    <title>Free Car Shipping Quotes | Auto Shipping Quotes | Rapid Auto Shipping</title>
+    <meta name="title" content="Free Car Shipping Quotes | Auto Shipping Quotes | Rapid Auto Shipping" />
     <meta name="description" content="Instant quote calculators from Rapid Auto Shipping, Learn about best car shipping companies to ship for the best auto shipping rates to do it! Get Quote!" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Free Car shipping Quotes! - Rapid Auto Shipping" />
+    <meta property="og:title" content="Free Car Shipping Quotes | Auto Shipping Quotes | Rapid Auto Shipping" />
     <meta property="og:description" content="Instant quote calculators from Rapid Auto Shipping, Learn about best car shipping companies to ship for the best auto shipping rates to do it! Get Quote!" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/car-transport-quotes" />
     <meta property="og:site_name" content="Car shipping Quotes - Rapid Auto Shipping" />
