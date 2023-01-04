@@ -7,11 +7,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Best Military Vehicle Transport Services, Military Car Shipping</title>
-    <meta name="title" content="Best Military Vehicle Transport  Services, Military Car Shipping">
+    <title>Best Military Vehicle Car Shipping Services | +1-833-233-4447</title>
+    <meta name="title" content="Best Military Vehicle Car Shipping Services | +1-833-233-4447">
     <meta name="description" content="Rapid Auto Shipping is The Best Military Vehicle Transport Service Provider for Military Members or Military Car Shipping. Get Quote Now" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Military Vehicle Transport  Services, Military Car Shipping" />
+    <meta property="og:title" content="Best Military Vehicle Car Shipping Services | +1-833-233-4447" />
     <meta property="og:description" content="Rapid Auto Shipping is The Best Military Vehicle Transport Service Provider for Military Members or Military Car Shipping. Get Quote Now" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/military-shipping" />
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/military-shipping-background.png" />
@@ -33,7 +33,8 @@
     <!--     Google Analytics Code Start -->
 
 
-    <!--     Google Analytics Code Ends --> <?php include head; ?>
+    <!--     Google Analytics Code Ends -->
+    <?php include head; ?>
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_blog.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_all-service-page.css">
@@ -60,8 +61,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Military Vehicle Transport";
-        $PARAGRAPH = "Any auto transport company that performs military car shipping will offer a discount to our men and women in uniform. This might range from a simple $25 off your total cost to over a hundred dollars, depending on the shipper. Did you know that we, at Rapid Auto Shipping, offer military people discounts?
-Because the military only pays for one car per service member to be transported, anybody in the military who needs auto shipping for a second vehicle must contact an independent auto shipper. The majority of vehicle transport companies, on the other hand, provide military vehicle Shipping.";
+        $PARAGRAPH = "Any auto transport company that performs military car shipping will offer a discount to our men and women in uniform. This might range from a simple $25 off your total cost to over a hundred dollars, depending on the shipper. Did you know that we, at Rapid Auto Shipping, offer military people discounts? Because the military only pays for one car per service member to be transported, anybody in the military who needs auto shipping for a second vehicle must contact an independent auto shipper. The majority of vehicle transport companies, on the other hand, provide military vehicle Shipping.";
         include small_form;
         ?>
     </div>
