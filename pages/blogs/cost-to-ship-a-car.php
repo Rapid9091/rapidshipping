@@ -46,12 +46,6 @@
     <meta property="article:tag" content="car delivery cost" />
     <meta property="article:tag" content="how much is it to transport a car" />
 
-    <!--     Google Analytics Code Start -->
-
-
-    <!--     Google Analytics Code Ends -->
-
-
     <?php include head; ?>
 
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css" />
@@ -106,7 +100,6 @@
             ?>
         </div>
         <h2>Cost of shipping a car in US </h2>
-        </h2>
 
         <div class="arkansas-top-companies-2022-container">
             <div class="affordable-ways-page-grid">
@@ -116,7 +109,7 @@
                     <p>
                         When we are more connected to the world than ever before, the need to move objects such as automobiles over long distances is becoming more and more common. Whether you've made an online purchase of a new truck or are considering a move, you'll quickly learn that getting your car to its destination can be costly. You must also include maintenance in addition to fuel. The cost of shipping an automobile can be high, but if you do your research ahead of time, you can discover an auto transport price that fits your budget.
                         <br>
-                        The cost of carrying automobiles door to door or terminal to terminal is determined by a number of factors. Depending on the type of vehicle, origin or destination location, distance, seasonal changes, and mode of transportation, costs might vary dramatically. Furthermore, professional car shipping trucks, namely Open vs. <a href="https://rapidautoshipping.com/services/enclosed-shipping" title="More about enclosed auto transport">Enclosed car shipping trucks</a> , are used in a variety of car transportation methods.
+                        The cost of carrying automobiles door to door or terminal to terminal is determined by a number of factors. Depending on the type of vehicle, origin or destination location, distance, seasonal changes, and mode of transportation, costs might vary dramatically. Furthermore, professional car shipping trucks, namely Open vs. <a href="https://rapidautoshipping.com/services/enclosed-shipping" title="More about enclosed auto transport">Enclosed car shipping </a>trucks, are used in a variety of car transportation methods.
                     </p>
                 </div>
                 <div class="affordable-ways-page-grid-content-1">
@@ -154,7 +147,6 @@
                 <div class="affordable-ways-page-grid-content-1">
                     <h2>
                         Maneuverability: Does your vehicle run?
-
                     </h2>
                     <p>
                         The state of your vehicle will also have an impact on the cost of shipping your vehicle.
@@ -266,9 +258,7 @@
             </div>
 
             <div class="form-container-list-of-top-companies-arkansas">
-                <?php
-                include side_form;
-                ?>
+                <?php include side_form; ?>
             </div>
         </div>
     </ul>
