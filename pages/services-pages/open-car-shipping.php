@@ -2,21 +2,17 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<!-- auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport -->
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>#1 Auto Transport Carriers | Open Transport Car Shipping </title>
-    <meta name="title" content="#1 Auto Transport Carriers | Open Transport Car Shipping  ">
+    <title>Open Transport Car Shipping Services | +1-833-233-4447</title>
+    <meta name="title" content="Open Transport Car Shipping Services | +1-833-233-4447">
     <meta name="description" content="Secure And Reliable Auto Transport Carriers. We can ship vehicles of any size. Open Transport Car Shipping, We Can Help. you to  open transport car shipping" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="#1 Auto Transport Carriers | Open Transport Car Shipping  " />
+    <meta property="og:title" content="Open Transport Car Shipping Services | +1-833-233-4447" />
     <meta property="og:description" content="Secure And Reliable Auto Transport Carriers. We can ship vehicles of any size. Open Transport Car Shipping, We Can Help. you to  open transport car shipping" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/open-car-shipping" />
     <meta property="og:img" content="https://rapidautoshipping.com/assets/images/vaibhv-img.png" />
-    <meta property="og:site_name" content="open transport car shipping - Rapid Auto Shipping " />
+    <meta property="og:site_name" content="Open Transport Car Shipping Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car carrier, open transport, automobile carrier, car shipping carriers, open auto, carrier for car, truck for car transport, get carrier auto transport, auto truck transport, auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport">
     <meta property="article:tag" content="open transport" />
@@ -32,7 +28,6 @@
     <meta property="article:tag" content="auto transporters carriers" />
     <meta property="article:tag" content="open carrier car shipping" />
     <meta property="article:tag" content="open auto transport" />
-
     <!--     Google Analytics Code Start -->
 
 

@@ -4,17 +4,14 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Enclosed auto transport Chicago - Rapid auto shipping</title>
-    <meta name="title" content="Enclosed auto transport Chicago - Rapid auto shipping" />
-    <meta name="description" content="Do you need delivery of your vehicle in an enclosed container in Chicago? Rapid auto shipping’s enclosed auto transport Chicago services are just a click away!" />
+    <title>Enclosed auto transport Company in Chicago | +1-833-233-4447</title>
+    <meta name="title" content=" Enclosed auto transport Company in Chicago | +1-833-233-4447">
+    <meta name="description" content="Need Car Shipping service in Chicago, you need an experienced Chicago auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Enclosed auto transport Chicago - Rapid auto shipping" />
-    <meta property="og:description" content="Do you need delivery of your vehicle in an enclosed container in Chicago? Rapid auto shipping’s enclosed auto transport Chicago services are just a click away!" />
+    <meta property="og:title" content=" Enclosed auto transport Company in Chicago | +1-833-233-4447" />
+    <meta property="og:description" content="Need Car Shipping service in Chicago, you need an experienced Chicago auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/enclosed-auto-transport-chicago" />
-    <meta property="og:site_name" content="enclosed auto transport chicago - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Enclosed auto transport Company in Chicago | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="enclosed auto transport chicago, car shipping chicago, vehicle transport chicago, car covered transport, closed transport car shipping, covered vehicle transport, enclosed car transport companies, auto shipping chicago, chicago auto shipping, chicago car transport companies, car transport companies chicago, car transport companies chicago, car transport companies in chicago, chicago car shipping, chicago car transport companies, chicago auto transport, car hauling service near me, vehicles transport, auto transport chicago il, car transport chicago, auto tranporters, ship car to chicago, car shipping companies chicago, door-to-door auto transport chicago, car shipping companies in chicago" />
     <meta property="article:tag" content="auto transport chicago" />
@@ -43,7 +40,6 @@
     <meta property="article:tag" content="car shipping companies chicago" />
     <meta property="article:tag" content="door-to-door auto transport chicago" />
     <meta property="article:tag" content="car shipping companies in chicago" />
-
     <?php include head; ?>
 
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css" />
