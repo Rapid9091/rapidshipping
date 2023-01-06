@@ -34,11 +34,8 @@
     <meta property="article:tag" content="international auto shipping" />
     <meta property="article:tag" content="international car shipping companies" />
 
-    <!--     Google Analytics Code Start -->
-
-
-    <!--     Google Analytics Code Ends -->
     <?php include head; ?>
+
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_why-choose-us.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_blog.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
@@ -98,7 +95,8 @@
                 Rapid Auto Shipping's cost of delivering a car between borders
                 <br><br>
                 Rapid Auto Shipping also provides car shipping services all over the world! You name it, and we'll make it a reality. Rapid Auto Shipping will always ensure that your transportation is handled professionally, particularly when it comes to auto-shipping. When it comes to vehicle shipping for your international Car Transport request, don't be concerned about the technical specifics.
-                <br><br>Rapid Auto Shipping can handle all of the details of your international car shipping project for you!
+                <br><br>
+                Rapid Auto Shipping can handle all of the details of your international car shipping project for you!
             </p>
         </div>
         <div class="military-shipping-sixth-section-img">
@@ -120,12 +118,13 @@
         <p>
             Because we are the top name on the market, you should use Rapid Auto Shipping for your transport needs. Throughout the United States, we provide Car Transport services. Here are a few reasons why Rapid Auto Shipping is the way to go:
             <br><br>
-            Client-focused service: Rapid Auto Shipping takes pride in its ability to give high-quality customer service. Rapid Auto Shipping will see to it that your Car Transport request is completed on time. We serve our customers with the utmost care and attention, and we are accessible to make changes to your Transport request at any time. Our rapid and efficient services will never let you down.
+            <b>Client-focused service:</b> Rapid Auto Shipping takes pride in its ability to give high-quality customer service. Rapid Auto Shipping will see to it that your Car Transport request is completed on time. We serve our customers with the utmost care and attention, and we are accessible to make changes to your Transport request at any time. Our rapid and efficient services will never let you down.
 
             <br><br>
-            Shipping at a low cost: Rapid Auto Shipping recognises that Car Transport is a service that people from all walks of life will require. We understand how important your budget is to you. We will perform a thorough investigation before providing you pricing. We want your car shipping experience with Rapid Auto Shipping to be a positive one!
+            <b>Shipping at a low cost:</b> Rapid Auto Shipping recognises that Car Transport is a service that people from all walks of life will require. We understand how important your budget is to you. We will perform a thorough investigation before providing you pricing. We want your car shipping experience with Rapid Auto Shipping to be a positive one!
 
-            <br><br> Rapid Auto Shipping ensures that all legal considerations are addressed. We want to put your mind at ease by assuring you that your vehicle is safe and secure with Rapid Auto Shipping. We believe in complete transparency and responsibility. Rapid Auto Shipping will keep in touch with you at all times.
+            <br><br>
+            Rapid Auto Shipping ensures that all legal considerations are addressed. We want to put your mind at ease by assuring you that your vehicle is safe and secure with Rapid Auto Shipping. We believe in complete transparency and responsibility. Rapid Auto Shipping will keep in touch with you at all times.
         </p>
     </section>
     <section class="first-sub-service-page">
