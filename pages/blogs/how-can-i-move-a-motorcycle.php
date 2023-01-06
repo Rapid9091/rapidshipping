@@ -18,9 +18,6 @@
     <meta name='robots' content='index' />
     <meta name="keywords" content=" how to ship a motorcycle, how to move a motorcycle, motorcycle shipping, motorcycle transport, motorcycle shippers, shipping motorcycle, motorcycle shipping companies, ship motorcycle, motorcycle transportation, motorcycle shipping cost, how to transport a motorcycle, motorcycle transport services, motorcycle shipping company, motorcycle transport company, motorcycle shipping quote" />
 
-    <!--     Google Analytics Code Start -->
-    <!--     Google Analytics Code Ends -->
-
     <?php include head; ?>
 
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css" />

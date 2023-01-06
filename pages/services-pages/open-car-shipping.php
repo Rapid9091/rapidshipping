@@ -28,12 +28,9 @@
     <meta property="article:tag" content="auto transporters carriers" />
     <meta property="article:tag" content="open carrier car shipping" />
     <meta property="article:tag" content="open auto transport" />
-    <!--     Google Analytics Code Start -->
-
-
-    <!--     Google Analytics Code Ends -->
 
     <?php include head; ?>
+
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_blog.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_all-service-page.css">
