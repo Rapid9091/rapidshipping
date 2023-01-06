@@ -85,7 +85,6 @@
             Merits of Enclosed Auto Transport
         </h2>
         <img style="width:100%; height:400px; border-radius:14px;" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667295981/Recent%20Uploads/Inkedrace_car_shipping-min_mwzw9y_s7i04a.jpg" alt="Enclosed auto shipping" />
-
         <p>
             The fact that your vehicle is shielded from dirt, debris, bad weather, and other potential threats is perhaps the most significant benefit of shipping it with an enclosed transport truck. However, contrary to popular assumption, the majority of automobiles damaged during open trailer transport are actually damaged while loading and unloading other vehicles.
             <br><br>
@@ -164,6 +163,7 @@
         <h2 class="sub-service-heading-main">
             Auto Transport Trailers: Enclosed Stacking vs. Enclosed Non-Stacking
         </h2>
+        <img style="width:100%; height:400px; border-radius:14px;" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666434490/Recent%20Uploads/transport-3369756_1280_rgvufw.jpg" alt="Enclosed car shipping" />
         <p>
             Whether you're shipping a car open or enclosed, there are two major types of trailers to select from: stacking and non-stacking.
             <br>
