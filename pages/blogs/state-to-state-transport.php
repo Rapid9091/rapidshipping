@@ -154,13 +154,13 @@
             </h2><br>
             Do you want to state to state movers? No problem. Do you want to transport your car to a different country? No problem. All you must do is to call our number and avail our services. We assure you that you will have a service of premium quality.
             <ul>
-                <li class="list-0f-state-to-state-page"> Cost to Ship a Car State to State</li>
+                <li class="list-0f-state-to-state-page"> <a href="<?= home_path() ?>blogs/cost-to-ship-a-car">Cost to Ship a Car</a> State to State</li>
                 <li class="list-0f-state-to-state-page"> state to state moving and auto transport</li>
                 <li class="list-0f-state-to-state-page"> State to State <strong>Auto Transport</strong></li>
                 <li class="list-0f-state-to-state-page"> Car Transport at a Low Cost</li>
                 <li class="list-0f-state-to-state-page"> state to state moving and auto transport</li>
                 <li class="list-0f-state-to-state-page"> Car Transportation at a Low Cost</li>
-                <li class="list-0f-state-to-state-page"> Cheap Car Transport</li>
+                <li class="list-0f-state-to-state-page"> <a href="<?= home_path() ?>blogs/cheapest-way-to-ship-a-car">Cheap Car Transport</a></li>
                 <li class="list-0f-state-to-state-page"> State to State Movers</li>
                 <li class="list-0f-state-to-state-page"> Companies that provide state to state moving and auto transport</li>
                 <li class="list-0f-state-to-state-page"> The Best Auto Transportation Firms</li>

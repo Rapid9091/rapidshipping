@@ -160,7 +160,7 @@
                         Auto Transport Costs and Transit Times for Common Florida to New York Routes
                     </h2>
                     <p>
-                        What is the cost of shipping an automobile from Florida to New York? We do the arithmetic for you at Rapid Auto Shipping. The anticipated shipping charges and car shipment time may vary depending on the company and size of the carrier. The following are the approximate fees for auto transport:
+                        What is the <a href="<?= home_path() ?>blogs/cost-to-ship-a-car"> cost of shipping an automobile</a> from Florida to New York? We do the arithmetic for you at<a href="<?= home_path() ?>"> Rapid Auto Shipping.</a> The anticipated shipping charges and car shipment time may vary depending on the company and size of the carrier. The following are the approximate fees for auto transport:
                         <br>
                         The distance between Manhattan, New York and Miami, Florida is approximately 1,293 miles, and it takes approximately 3-6 days to move your vehicle. The cost of transporting a car varies, but it is usually between $1,050 and $1,550 depending on whether you choose an open carrier or an enclosed auto carrier.
 
