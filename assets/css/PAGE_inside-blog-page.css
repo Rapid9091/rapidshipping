@@ -2,6 +2,7 @@
   text-align: center;
   color: var(--nav-color);
   margin: 4%;
+  margin-bottom: 0;
   font-size: 35px;
 }
 

@@ -63,3 +63,7 @@
   color: vaR(--nav-color);
   margin-right: 10px;
 }
+
+.new-blog-section-one-changes > h2 {
+  color: vaR(--nav-color);
+}

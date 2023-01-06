@@ -87,7 +87,6 @@
     <div class="arkansas-top-companies-2022-container">
         <div class="affordable-ways-page-grid">
             <div class="affordable-ways-page-grid-content-1">
-
                 <div class="new-blog-section-one">
                     <h2><span>The Benefits of Using A Calculator</span></h2>
                     <p>
