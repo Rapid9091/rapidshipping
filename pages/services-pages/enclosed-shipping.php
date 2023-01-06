@@ -37,12 +37,8 @@
     <meta property="article:tag" content="enclosed auto transport chicago" />
     <meta property="article:tag" content="enclosed auto transport pa" />
 
-    <!--     Google Analytics Code Start -->
-
-
-    <!--     Google Analytics Code Ends -->
-
     <?php include head; ?>
+
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_blog.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_why-choose-us.css">
@@ -82,13 +78,14 @@
             The majority of open trailers can transport ten automobiles at once. Enclosed car shipment trucks, on the other hand, transport between two and six autos at a time, sometimes in just one deck. Open trailers, on the other hand, transport ten automobiles on two racks piled one on top of the other.
             <br><br>
             Your vehicle will be shielded and isolated from the environment, pests, other vehicles, random occurrences, and damage during loading and unloading with enclosed transportation services. While enclosed trailers are best suited for antique, exotic, or luxury vehicles, any vehicle can be transported in one. While it is more expensive than the regular open option, it provides better protection for your vehicle. If you're interested, we recommend speaking with one of our staff about open vs enclosed auto transportation options.
-
         </p>
     </section>
     <section class="first-sub-service-page">
         <h2 class="sub-service-heading-main">
             Merits of Enclosed Auto Transport
         </h2>
+        <img style="width:100%; height:400px; border-radius:14px;" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667295981/Recent%20Uploads/Inkedrace_car_shipping-min_mwzw9y_s7i04a.jpg" alt="Enclosed auto shipping" />
+
         <p>
             The fact that your vehicle is shielded from dirt, debris, bad weather, and other potential threats is perhaps the most significant benefit of shipping it with an enclosed transport truck. However, contrary to popular assumption, the majority of automobiles damaged during open trailer transport are actually damaged while loading and unloading other vehicles.
             <br><br>
@@ -120,7 +117,7 @@
 
     <section class="military-shipping-sixth-section">
         <div class="military-shipping-sixth-section-info">
-            <h2 class="sub-service-heading-main">What are the advantages of hard-sided versus soft-sided?
+            <h2 class="sub-service-heading-main" style="text-align: left;">What are the advantages of hard-sided versus soft-sided?
             </h2>
             <p class="services-subtheory-lines-small">
                 Transports with hard sides provide extra protection. The security and safety provided by soft-sided enclosed transport are excellent, but the practically impenetrable shell of a hard-sided hauler is the best you'll find on the road today. Hard-sided trailers also provide climate control, ensuring that your costly vehicle is protected from the elements.
@@ -129,7 +126,7 @@
             </p>
         </div>
         <div class="military-shipping-sixth-section-img">
-            <img src="<?= get_img() ?>vaibhav-img-2.png" alt="enclosed car shipping" />
+            <img src="<?= get_img() ?>Enclosed-Transport-img.png" alt="Enclosed auto shipping" />
         </div>
     </section>
     <section class="first-sub-service-page">

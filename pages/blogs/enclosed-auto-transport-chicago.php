@@ -94,7 +94,7 @@
         <div class="contact-us-header-page">
             <?php
             $NAME = "Enclosed Auto Transport Chicago";
-            $PARAGRAPH = " Chicago is a city which is located in the Midwest of the United States of America. With a population approaching 3 million, it is the third largest city in the United States. Chicago is a massive, active city with a metropolitan area of more than 10,874 square kilometres. ";
+            $PARAGRAPH = "Chicago is a city which is located in the Midwest of the United States of America. With a population approaching 3 million, it is the third largest city in the United States. Chicago is a massive, active city with a metropolitan area of more than 10,874 square kilometres.";
             include small_form;
             ?>
         </div>
