@@ -101,7 +101,7 @@
 
                     The drivers do not have to wait for the trucks to fill up at each location when using line haul transportation. Additionally, improved hubs and shipping routes ensure quicker delivery services and lower fuel usage.
 
-                    Any piece of machinery or equipment can be transported by truck thanks to Heavy Equipment Transport. In every state, city, and town in the United States, we handle the dispatch, loading, transporting, and delivery of oversized goods.
+                    Any piece of machinery or equipment can be transported by truck thanks to <a href="<?= home_path() ?>services/heavy-equipment-shipping"> Heavy Equipment Transport</a>. In every state, city, and town in the United States, we handle the dispatch, loading, transporting, and delivery of oversized goods.
 
                     With a 50-foot length, climate control, and drop deck high cube trailers with air ride capability, Displays' line haul fleet is especially well suited for oversized items or large exhibits. These semi trucks also have all the uncommon advanced features needed to ensure your items are preserved and protected during transport.
                     <br><br>
