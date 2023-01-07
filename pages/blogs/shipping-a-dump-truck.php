@@ -7,16 +7,25 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Dump truck transport service provider </title>
-    <meta name="title" content="Dump truck transport service provider " />
+    <title>Dump truck transport company service provider | +1-833-233-4447</title>
+    <meta name="title" content="Dump truck transport company service provider | +1-833-233-4447" />
     <meta name="description" content="Rapid Auto Shipping - Dump truck transport services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in Dump truck transport in all states of the USA." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Dump truck transport service provider" />
+    <meta property="og:title" content="Dump truck transport company service provider | +1-833-233-4447" />
     <meta property="og:description" content="Rapid Auto Shipping - Dump truck transport services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in Dump truck transport in all states of the USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/shipping-a-dump-truck" />
-    <meta property="og:site_name" content="Dump truck transport service provider" />
+    <meta property="og:site_name" content="Dump truck transport company service provider | +1-833-233-4447" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="Dump truck transport service provider,Dump truck transport services,Dump truck transportation,Cheap Dump truck transport services, Dump truck transport services company,Dump truck transportation services near me,Dump truck transport companies ,Dump truck transport services cost,Dump truck transport service provider for hire near me" />
+    <meta name="keywords" content="Dump truck transport service provider, Dump truck transport services, Dump truck transportation, Cheap Dump truck transport services, Dump truck transport services company, Dump truck transportation services near me, Dump truck transport companies, Dump truck transport services cost, Dump truck transport service provider for hire near me" />
+    <meta property="article:tag" content="Dump truck transport service provider" />
+    <meta property="article:tag" content="Dump truck transport services" />
+    <meta property="article:tag" content="Dump truck transportation" />
+    <meta property="article:tag" content="Cheap Dump truck transport services" />
+    <meta property="article:tag" content="Dump truck transport services company" />
+    <meta property="article:tag" content="Dump truck transportation services near me" />
+    <meta property="article:tag" content="Dump truck transport companies" />
+    <meta property="article:tag" content="Dump truck transport services cost" />
+    <meta property="article:tag" content="Dump truck transport service provider for hire near me" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->
