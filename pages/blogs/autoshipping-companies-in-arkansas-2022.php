@@ -59,15 +59,7 @@
         <div class="contact-us-header-page">
             <?php
             $NAME = "Shipping Companies Arkansas";
-            $PARAGRAPH = "When you need to move a vehicle from or to Arkansas, you need to
-               work with a reputable Arkansas auto shipping company. Rapid Auto
-               Shipping has been offering safe and dependable Arkansas auto
-               transport for both individuals and businesses over several years. We
-               have a lot of experience, and one of our specialisations is car delivery to
-               and from Arkansas. We have a specialised sales team whose sole
-               purpose is to assist you in obtaining the shipping service you require. In
-               addition, our dispatch, support, and claims, departments work tirelessly
-               to guarantee that your shipment moves successfully.";
+            $PARAGRAPH = "When you need to move a vehicle from or to Arkansas, you need to work with a reputable Arkansas auto shipping company. Rapid Auto Shipping has been offering safe and dependable Arkansas auto transport for both individuals and businesses over several years. We have a lot of experience, and one of our specialisations is car delivery to and from Arkansas. We have a specialised sales team whose sole purpose is to assist you in obtaining the shipping service you require. In addition, our dispatch, support, and claims, departments work tirelessly to guarantee that your shipment moves successfully.";
             include small_form;
             ?>
         </div>
