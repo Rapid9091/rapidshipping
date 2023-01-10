@@ -4,6 +4,9 @@
 <html lang="en">
 
 <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Open Transport Car Shipping Services | +1-833-233-4447</title>
     <meta name="title" content="Open Transport Car Shipping Services | +1-833-233-4447">
     <meta name="description" content="Secure And Reliable Auto Transport Carriers. We can ship vehicles of any size. Open Transport Car Shipping, We Can Help. you to  open transport car shipping" />
