@@ -502,7 +502,7 @@
                         CAMARO RESTOMOD<span class="california-state-span" style="font-weight:bold;"> ||</span>
                         MUSTANG PETTY TRACK<span class="california-state-span" style="font-weight:bold;">||</span>
                         <a target="_blank" href="https://www.chevrolet.com/upcoming-vehicles/2023-corvette-z06" style="color:black;"> CORVETTE Z06 </a> <span class="california-state-span" style="font-weight:bold;">||</span>
-                        <a target="_blank" href="https://www.ford.com/cars/mustang/models/shelby-gt500/" style="color:black;">MUSTANG SHELBY GT500</a> <span class="california-state-span" style="font-weight:bold;"> ||</span>
+                        <a target="_blank" href="https://www.ford.com/cars/mustang/" style="color:black;">MUSTANG SHELBY GT500</a> <span class="california-state-span" style="font-weight:bold;"> ||</span>
                         COMET GASSER<span class="california-state-span" style="font-weight:bold;"> ||</span>
                         <a target="_blank" href="https://www.ford.com/cars/mustang/models/gt-fastback/" style="color:black;">MUSTANG GT FAST</a> <span class="california-state-span" style="font-weight:bold;"> ||</span>
                     </p>
