@@ -555,7 +555,6 @@
         function scrollTop() {
             if (document.body.scrollTop > 1500 || document.documentElement.scrollTop > 1500) {
                 mybutton.style.display = "block";
-                console.log("hey");
             } else {
                 mybutton.style.display = "none";
             }
