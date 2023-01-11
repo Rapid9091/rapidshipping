@@ -89,7 +89,7 @@
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <ul>
-                    <li id="1">
+                    <li>
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1"> LINE HAUL TRANSPORTATION?</h2>
                             <p class="para-2">
@@ -104,7 +104,7 @@
                             </div>
                         </div>
                     </li>
-                    <li id="2">
+                    <li>
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1"><span> LINE HAUL CARRIER?</h2>
 
@@ -114,7 +114,7 @@
                             </p>
                         </div>
                     </li>
-                    <li id="3">
+                    <li>
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1"> LINEHAUL TRANSPORTATION</span>
                             </h2>
@@ -125,7 +125,7 @@
                             </div>
                         </div>
                     </li>
-                    <li id="4">
+                    <li>
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1"> WHAT IS THE SIGNIFICANCE OF LINE HAUL CARRIER TRACKING?</span>
                             </h2>
@@ -136,7 +136,7 @@
                             </p>
                         </div>
                     </li>
-                    <li id="5">
+                    <li>
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1"> WHAT AREAS ARE AFFECTED BY A LINE HAUL CARRIER?</span></h2>
                             <p class="para-2">
@@ -159,7 +159,7 @@
                         </div>
                     </li>
 
-                    <li id="6">
+                    <li>
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">BENEFITS OF LINEHAUL TRANSPORTATION</span> ?
                             </h2>
@@ -188,21 +188,21 @@
                             </p>
                         </div>
                     </li>
-                    <li id="7">
+                    <li>
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1"> TIPS ON HOW TO MAKE LINEHAUL TRANSPORTATION MORE EFFICIENT</span>
                             </h2>
-                            <p class="para-2"> F If you're a freight carrier, optimising linehaul transportation for your business could be the key to saving money, improving client relationships, and lowering overhead costs. Here are some pointers on how to make linehaul transportation more efficient:
+                            <p class="para-2"> If you're a freight carrier, optimising linehaul transportation for your business could be the key to saving money, improving client relationships, and lowering overhead costs. Here are some pointers on how to make linehaul transportation more efficient:
                                 <br>
                                 Maintain meticulous records: Keep meticulous records of each delivery, including the weight, delivery time, driver assigned, location, and customer. To have a better picture of your company's shipping capacities, keep track of the capacity of each depot, sorting facility, and vehicle in your fleet.
 
-                                <br> Reward drivers with a competitive pay and benefits package: Rewarding drivers with a competitive compensation and benefits package will assist enhance their productivity and business loyalty, as well as encourage qualified individuals to join your team. To demonstrate drivers you care about them, offer incentives for great performance and extra effort.
+                                <br><br>Reward drivers with a competitive pay and benefits package: Rewarding drivers with a competitive compensation and benefits package will assist enhance their productivity and business loyalty, as well as encourage qualified individuals to join your team. To demonstrate drivers you care about them, offer incentives for great performance and extra effort.
 
-                                <br> Keep customers up to date: Customers should be informed about delivery times, delays, and other pertinent information regarding their freight. This aids in the development of your relationship with your consumers and provides for a more effective supply chain through communication.
+                                <br><br>Keep customers up to date: Customers should be informed about delivery times, delays, and other pertinent information regarding their freight. This aids in the development of your relationship with your consumers and provides for a more effective supply chain through communication.
 
-                                <br> Determine the best routes: Identifying the best delivery routes by land, air, or sea ensures that freight is delivered on time while also optimizing the journey to reduce transportation costs and save money for both the organization and the consumer.
+                                <br><br>Determine the best routes: Identifying the best delivery routes by land, air, or sea ensures that freight is delivered on time while also optimizing the journey to reduce transportation costs and save money for both the organization and the consumer.
 
-                                <br> Make use of the appropriate software: You can use digital tracking software to keep track of crucial metrics for each delivery and improve the efficiency of your freight transportation business. There are hundreds of digital tools for freight companies available on the internet.
+                                <br><br> Make use of the appropriate software: You can use digital tracking software to keep track of crucial metrics for each delivery and improve the efficiency of your freight transportation business. There are hundreds of digital tools for freight companies available on the internet.
                             </p>
                             <div class="shipping-form-state-image">
                                 <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668072952/Recent%20Uploads/9ca5c3b1500e24fc85961c3924de96289d518134_recqyb.jpg" alt="fifth wheel car shipping" />
@@ -210,7 +210,7 @@
 
                         </div>
                     </li>
-                    <li id="8">
+                    <li>
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1"> LONG HAUL VS. LINE HAUL TRUCKING: WHAT'S THE DIFFERENCE?</h2>
                             <p class="para-2"> Linehaul transportation comprises line haul trucking, a more efficient way of transporting big numbers of commodities across long distances. Linehaul trucking is distinct from long haul trucking, which is another frequent trucking mode.
@@ -219,7 +219,7 @@
                             </p>
                         </div>
                     </li>
-                    <li id="8">
+                    <li>
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1"> CHARGE FOR LINE HAUL</h2>
                             <p class="para-2">
@@ -234,7 +234,7 @@
             </section>
         </div>
 
-        <div class="right-state-to-state-child" id="right-state-to-state-child">
+        <div class="right-state-to-state-child" tate-to-state-child">
             <?php
             include side_form;
             ?>
@@ -244,7 +244,7 @@
 
 
     <!-- top scroll button start -->
-    <div class="top-scroll-btn-relative " id="top-btn">
+    <div class="top-scroll-btn-relative " tn">
         <a href="#top-section">
             <div class="top-scroll-btn-fixed">
                 <i class="fa-solid fa-arrow-down"></i>
@@ -264,7 +264,7 @@
                         <span>Rapid Auto Shipping</span> Makes Shipping a Car From your desired location as Easy as 1-2-3!
                     </h2>
                     <div class="steps-buttons">
-                        <button onclick="active_tab(0,this)" class="special-red-btn-1" id="btn">1</button>
+                        <button onclick="active_tab(0,this)" class="special-red-btn-1">1</button>
                         <button onclick="active_tab(1,this)" class="special-red-btn-2">2</button>
                         <button onclick="active_tab(2,this)" class="special-red-btn-3">3</button>
                     </div>
