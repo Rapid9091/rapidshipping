@@ -100,7 +100,7 @@
                     <p>
                         It simply means that you have to pay for gas, pay for meals, make multiple stops, and pay for hotels or motels to stay in while travelling, especially if the distance is great. If you decide to drive home after a few weeks or months, you will have to pay for all of these expenses once more. Driving your car cross-country may result in you spending more money on repairs and maintenance. You may avoid paying for all of this by just shipping your autos, and in most circumstances, employing an auto transportation company will be less expensive than driving the vehicle yourself. Keep in mind that since you won't need to take as much time off from work, you'll also save money.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666090070/insurance-img_kthtmn.jpg" alt="car shipping in USA">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666090070/insurance-img_kthtmn.jpg" alt="car shipping in USA">
                 </div>
                 <div class="new-blog-section-one">
                     <h2>TRANSPORTING MULTIPLE VEHICLES AT ONCE 
@@ -154,7 +154,7 @@
         <div class="fourth-mexico-blog-container">
             <h2 class="main-heading">THE IMPORTANCE OF INSURANCE
             </h2>
-            <img style="border-radius:4px;width:100%;height:300px" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666090070/insurance-img_kthtmn.jpg" alt="Overseas car shipping">
+            <img loading="lazy" style="border-radius:4px;width:100%;height:300px" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666090070/insurance-img_kthtmn.jpg" alt="Overseas car shipping">
             <p class="text">Any car shipping deal automatically includes insurance coverage, so even in the extremely unlikely event that something does go wrong en route, you'll be protected. Every professional auto transporter is required by law to hold cargo insurance, which guards you against any incidents that may arise as a result of the company moving the car. Even though it is extremely uncommon, you can rest easy knowing that any hiccups won't increase the price above what you have already agreed to pay.
                 <br><br>
                 Since vehicles are precious assets, you should work with a reputable service to ensure their safe and timely delivery to the new location. Rapid Auto Shipping can provide sensible and cost-effective solutions whether you're moving automobiles for a dealership, rental business, auction, or just a private owner that wants auto transportation service

@@ -93,7 +93,7 @@
                         <br><br> Other car transporting arrangements, such as the wedge car hauler or the tilt bed car trailer, can be seen in addition to the highly well-known two story 8–10 vehicle hauling setups with ramps. These are especially helpful for tall vehicles, like bucket trucks, ambulances, high roof vans, and more.
                         <br><br> There are at least nine different configurations of haulers, ranging from those who specialize in moving vehicles to those that move enormous items like box trucks, large pieces of machinery, or even cranes.
                     </p>
-                    <img style="width:100%" src="<?= get_img() ?>66178.png" alt="car haulers auto transport">
+                    <img loading="lazy" style="width:100%" src="<?= get_img() ?>66178.png" alt="car haulers auto transport">
                 </div>
                 <div class="new-blog-section-one">
                     <h2><span>Flatbed Trucks  </span></h2>
@@ -102,7 +102,7 @@
                         <br><br> Because the bed of a flatbed extends partially to the ground, it is also easier to transport cars that need to be winched. Additionally, because they are smaller than car haulers, they may more easily pick up vehicles in residential areas.
                         <br><br> A low boy or step deck should not be confused with a flat bed vehicle. Both of those are not flat beds, but they can be utilized as car trailers driven by semis or dually pickups. Commercial trucks with flatbeds often have hydraulic flatbed systems mounted on channel frames.
                     </p>
-                    <img style="width:100%" src="<?= get_img() ?>auto-transport-open.jpg" alt="Flatbed auto transport carriers">
+                    <img loading="lazy" style="width:100%" src="<?= get_img() ?>auto-transport-open.jpg" alt="Flatbed auto transport carriers">
                 </div>
 
                 <div class="new-blog-section-one">

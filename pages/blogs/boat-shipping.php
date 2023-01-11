@@ -224,10 +224,10 @@
             Leading dealerships, auctions, museums and events ship their vehicles, motorcycles, and special projects around the world with West Coast Shipping. We have the expertise to handle them all.
         </p>
         <div class="fifth-mexico-blog-img-box">
-            <a href="<?= home_path(); ?>services/motor-cycle-shipping"> <img src="<?= get_img() ?>motorcycle-shipping-bg-car.jpg" alt="auto shipping to mexico"></a>
-            <a href="<?= home_path(); ?>services/classic-car-shipping"> <img src="<?= get_img() ?>super-cars-bg.jpg" alt="auto shipping to mexico"></a>
-            <a href="<?= home_path() ?>cars"> <img src=" <?= get_img() ?>mazda-cars.jpg" alt="auto shipping to mexico"></a>
-            <a href="<?= home_path(); ?>services/boat-shipping"> <img src="<?= get_img() ?>boat-port-1.jpeg" alt="auto shipping to mexico"></a>
+            <a href="<?= home_path(); ?>services/motor-cycle-shipping"> <img loading="lazy" src="<?= get_img() ?>motorcycle-shipping-bg-car.jpg" alt="auto shipping to mexico"></a>
+            <a href="<?= home_path(); ?>services/classic-car-shipping"> <img loading="lazy" src="<?= get_img() ?>super-cars-bg.jpg" alt="auto shipping to mexico"></a>
+            <a href="<?= home_path() ?>cars"> <img loading="lazy" src=" <?= get_img() ?>mazda-cars.jpg" alt="auto shipping to mexico"></a>
+            <a href="<?= home_path(); ?>services/boat-shipping"> <img loading="lazy" src="<?= get_img() ?>boat-port-1.jpeg" alt="auto shipping to mexico"></a>
         </div>
     </section>
     <!-- -------------------------------------- -->

@@ -106,7 +106,7 @@
                         <br><br>
                         Here's how to determine whether you need to ship a vehicle based on your chosen truck transport strategy.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping-min_tdvjxf.jpg" alt="car shipping">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping-min_tdvjxf.jpg" alt="car shipping">
                 </div>
 
                 <div class="new-blog-section-one">
@@ -144,7 +144,7 @@
                         <br><br>
                         Additionally, your insurance premium won't increase either. You won't be incurring any financial risks, therefore it's a win-win situation for you. If something were to happen, the driver's insurance would take care of it, leaving your insurance unaffected.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666090070/insurance-img_kthtmn.jpg" alt="car shipping services in USA">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666090070/insurance-img_kthtmn.jpg" alt="car shipping services in USA">
 
                 </div>
                 <div class="new-blog-section-one">

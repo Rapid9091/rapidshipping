@@ -108,7 +108,7 @@
                         <br><br>
                         So covered trucks have less interior room; this is a big plus since the smaller the size and the space within the carrier, the safer it is for the car because it clamps it in place and stops it from moving around during transportation.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg" alt="best Enclosed auto transport near me">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg" alt="best Enclosed auto transport near me">
                 </div>
 
                 <div class="new-blog-section-one">

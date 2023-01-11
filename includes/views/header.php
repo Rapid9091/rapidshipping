@@ -370,7 +370,6 @@
                                 </li>
                             </ul>
                         </div>
-
                     </div>
                 </li>
                 <li class="blog-tab-view">
@@ -474,8 +473,6 @@
         .offer-container-btn>button:first-child {
             right: -24% !important;
         }
-
-
     }
 </style>
 
@@ -512,7 +509,6 @@
         );
     }
 
-
     function close_open_offer_box() {
         try {
             open_offer_container.close();
@@ -537,7 +533,7 @@
 </dialog>
 
 <!-- ------------------------------- -->
-<!-- ---js dialog box on leaving site--- -->
+<!-- js dialog box on leaving site -->
 <!-- ------------------------------- -->
 <script type="text/javascript">
     var offer_box_cut_btn = document.getElementById('offer-box-cut-btn');

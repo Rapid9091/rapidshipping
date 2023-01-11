@@ -126,7 +126,7 @@
                         <br><br>
                         Our services are inexpensive and cost-effective since we offer a variety of solutions that may be tailored to meet your needs. We provide some of the most affordable rates on the market, and we also provide a price matching service.
                         <br><br>
-                        <img class="supercars-img" src="<?= get_img() ?>super-cars-bg.jpg" alt="Luxury and classic car shipping" title="Best vehicle shipping USA">
+                        <img loading="lazy" class="supercars-img" src="<?= get_img() ?>super-cars-bg.jpg" alt="Luxury and classic car shipping" title="Best vehicle shipping USA">
                         Houston, Dallas, Atlanta, San Diego, Baltimore, Los Angeles, New York City, Chicago, Miami, Boston, and Phoenix are just a few of the US cities where we offer our services.
                         We are a well-managed <b>American auto shipping company</b> with keen attention to precision. We take every precaution to ensure that your car is delivered to its destination in perfect shape and without incident.
                         Our previous customers have referred to us as the best vehicle shipping company in the USA, and many of them were so pleased with our offerings that they now only use us for car delivery services.

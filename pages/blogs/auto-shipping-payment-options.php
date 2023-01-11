@@ -95,7 +95,7 @@
                         <br><br> At first, you WILL be able to pay using a credit or debit card. Most auto transport firms require a deposit when you make a reservation, while a few will let you pay the entire amount up front. Cashier's check or even cash can be used to pay for this deposit if they have physical locations you can visit. Credit or debit cards are also acceptable forms of payment. Depending on the rules of the specific auto transport business, bank transfers and personal checks are also an option.
                         <br><br> If you have only paid a deposit up to this stage, you will need to pay the remaining payment once your vehicle has been delivered. However, unlike at the beginning, many auto transport firms do not let you pay the remaining payment with a debit or credit card. In most cases, you will have to pay with cash or a cashier's check instead.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670915864/Recent%20Uploads/money-in-wallet.jpg" alt="Car shipping prices">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670915864/Recent%20Uploads/money-in-wallet.jpg" alt="Car shipping prices">
                 </div>
                 <div class="new-blog-section-one">
                     <h2><span> There are two primary causes for this, which are as follows: </span></h2>
@@ -116,7 +116,7 @@
 
                         Companies that try to charge you the aforementioned two prices are probably trying to con you in some way, shape, or fashion. Do not consent to it. Avoid engaging in any sort of discussion with them if they offer you either of them. Find a different vehicle shipping business.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566890/Recent%20Uploads/car-and-walllet.webp" alt="auto transport pricing">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566890/Recent%20Uploads/car-and-walllet.webp" alt="auto transport pricing">
 
                 </div>
 

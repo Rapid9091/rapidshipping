@@ -97,7 +97,7 @@
                         <br><br> On the other hand, it would be a wise decision to work with the best vehicle shipping business you can discover if you need to transfer your car in the middle of winter. There is little chance of being stuck in the middle of nowhere with nothing but snow surrounding you when compared to driving oneself. 
                         <br><br> The price of shipping in the winter is frequently significantly lower, depending on the route you select. This is because the low season for the vehicle transport business is typically winter.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665832014/received_594529625738657_y8wkkh.jpg" alt="Winter car shipping">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665832014/received_594529625738657_y8wkkh.jpg" alt="Winter car shipping">
                 </div>
                 <div class="new-blog-section-one">
                     <h2>WINTER AND SUMMER PRICE VARIATIONS (<ion-icon style="color:var(--nav-color);" name="wallet-sharp"></ion-icon>)
@@ -118,7 +118,7 @@
                         <br><br> If you're unsure of how to ship your car or whether there is a better time to do it, keep reading. Summer unquestionably has the advantage. There is no snow to bother with, and transportation is much more convenient.
                         <br><br> It seems as though there is no contest between winter and summer car transportation. Costs associated with shipping cars must be taken into consideration, though.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831855/stockvault-daf-xf-lorry180605_sciywf.jpg" alt="Summer car shipping">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831855/stockvault-daf-xf-lorry180605_sciywf.jpg" alt="Summer car shipping">
                 </div>
 
                 <div class="new-blog-section-one">

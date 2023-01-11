@@ -128,7 +128,7 @@
                     In addition to the other elements that affect how much it will cost to ship your car, delivery time may also incur extra costs. You can decide how quickly you want your car to arrive at its new location when you work with reliable auto transport companies like Rapid Auto Shipping.<br><br>
                     <em style="font-style:normal;"><b><span> Enclosed Delivery </span></b></em> <br>
                     As was previously said, enclosed trailers are covered crates that shield your car from weather, road debris, and other elements that could harm it. You can choose this option and the shipment speed of your choice. The greatest candidates for this choice are those who need to transport expensive cars or who want to give their car the best protection available.<br><br>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566890/Recent%20Uploads/car-and-walllet.webp" alt="best car shipping company in usa">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566890/Recent%20Uploads/car-and-walllet.webp" alt="best car shipping company in usa">
                     <em style="font-style:normal;"><b><span> Standard Delivery </span></b></em> <br>
                     The most popular delivery method chosen by most consumers is standard delivery. The best choice here is if you're not in a rush to get your car delivered.
                     Although this choice is regarded as "normal," this does not make it any less desirable. You will still get your car in a timely manner with standard delivery.<br><br>
@@ -137,9 +137,6 @@
                     <em style="font-style:normal;"><b><span> Book Your Delivery Right Now </span></b></em> <br>
                     Nothing is worse than working with an auto shipping business that refuses to address any queries or issues or who breaks their commitment. It is always advisable to get quotes for the price of a service from a few different businesses.
                     Contact us right now if you're ready to send your car without having to deal with multiple firms. To meet your need for auto shipment, we have a sizable fleet of trailers on hand. Requesting a shipping estimate from Rapid Auto Shipping Is free and comes with no commitment.
-
-
-
                 </div>
             </div>
         </div>

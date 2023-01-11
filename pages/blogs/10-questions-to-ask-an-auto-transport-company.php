@@ -92,7 +92,7 @@
                     <p>
                         Here is a brief explanation of what each of those phrases refers to and why it matters. Brokers give their clients top priority when selecting carriers and setting up shipments. The carriers that transport and deliver the vehicles also own the trucks, making shipment a priority. When it comes to serving customers, a car transport management business like Rapid Auto Shipping acts as a single point of contact from quote to delivery. An auto transport management business will be able to address issues more quickly because they care about more than just automobiles. Customers are also treated with attention by them.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/verification_qtasyq.jpg" alt="Auto transport carries">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/verification_qtasyq.jpg" alt="Auto transport carries">
                 </div>
                 <div class="new-blog-section-one">
                     <h2><span> Do you provide free quotes with no obligations?</span></h2>
@@ -111,7 +111,7 @@
                     <p>
                         It's not difficult to determine whether auto transport companies are authorized and registered, but it's wonderful to hear it from someone who works there. The Federal Motor Carrier Safety Administration mandates that auto transport businesses that transport vehicles across state borders possess a USDOT Number. Additionally, international car carriers need to hold a Federal Maritime Commission license. You can check a company's operating status, safety history, and other registration information here after you know its USDOT number.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666090070/insurance-img_kthtmn.jpg" alt="Authorized car shipping company">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666090070/insurance-img_kthtmn.jpg" alt="Authorized car shipping company">
                 </div>
 
 
@@ -139,7 +139,7 @@
                     <p>
                         Typically, all that is required of you is a photo ID, your registration, and proof of insurance. You might also need to provide your title, according to several car shippers. If you are shipping a car overseas, you must adhere to the conditions established by the destination nation. Your car will not be released from the port at its destination if you don't follow local laws. Knowing the local laws is crucial because the customs clearance process can be time-consuming. Stay away from port delays.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667470700/Recent%20Uploads/Document-Sign-Contract-Signing-Man-Write-Paper-5710164_shjsfq.jpg" alt="Paperwork for car shipping">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667470700/Recent%20Uploads/Document-Sign-Contract-Signing-Man-Write-Paper-5710164_shjsfq.jpg" alt="Paperwork for car shipping">
 
                 </div>
 
