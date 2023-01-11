@@ -480,7 +480,7 @@
 </style>
 
 
-<!-- <dialog id="open_offer_container" class="opening_popup_mobile">
+<dialog id="open_offer_container" class="opening_popup_mobile">
     <div class="open_offer_container">
         <div class="open_offer_container_img">
             <img loading="lazy" src="<?= get_img(); ?>opening_popup.jpeg" alt="offer-section">
@@ -495,7 +495,7 @@
             </button>
         </div>
     </div>
-</dialog> -->
+</dialog>
 
 
 <script>
@@ -524,7 +524,7 @@
 <!-- --- dialog box on leaving site --- -->
 <!-- ------------------------------- -->
 
-<!-- <dialog id="offer_container">
+<dialog id="offer_container">
     <div class="offer-container" id="offer-container">
         <div class="offer-box-img">
             <img loading="lazy" src="<?= get_img(); ?>popup_copy.jpg" alt="offer-section">
@@ -534,7 +534,7 @@
             <button class="offer-box-cut-btn" id="offer-box-cut-btn" onclick="offer_box_cut()">X</button>
         </div>
     </div>
-</dialog> -->
+</dialog>
 
 <!-- ------------------------------- -->
 <!-- ---js dialog box on leaving site--- -->
