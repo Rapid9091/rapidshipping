@@ -52,6 +52,7 @@
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css" />
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_home.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_inside-blog-page.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>PAGE_shipping-car-to-mexico-blog.css">
     <link rel="stylesheet" href="<?= get_css(); ?>small-form.css">
     <style>
         .contact-us-header-page {
@@ -89,27 +90,32 @@
     <ul class="arkansas-top-companies-2022">
         <div class="contact-us-header-page">
             <?php
-            $NAME = "cheapest way to ship a car to another state in USA";
+            $NAME = "cheapest way to ship a car ";
             $PARAGRAPH = "The cheapest way to ship your car is to choose the company that is best suited to your needs. Costs vary widely based on how far you're travelling, where you're going, and what mode of transportation you require. At Rapid Auto Shipping, we provide you with the most affordable rate based on a set of metrics, rather than simply delivering a low price without considering the other factors.";
             include small_form;
             ?>
         </div>
-        <h2>cheapest way to ship a car in Usa (2022) </h2>
+        <h2 style="text-transform:uppercase;">cheapest way to ship a car in Usa (2022) </h2>
 
         <div class="arkansas-top-companies-2022-container">
             <div class="affordable-ways-page-grid">
                 <div class="affordable-ways-page-grid-content-1">
 
-                    <h2>HOW TO SHIP YOUR VEHICLE AFFORDABLY</h2>
+                    <h2><span>HOW TO SHIP YOUR VEHICLE AFFORDABLY</span></h2>
                     <p>
                         With a variety of choices accessible in the market, getting your car moved from one part of the <a href="https://www.usa.gov/" rel="dofollow">United States</a> to another is quite simple in 2022. With so many vehicle transportation companies to select from, it's easy to find the lowest choice, but the most important thing is to get your vehicle safely transported from one area to another between states. When comparing pricing and trying to find the best deal, we often overlook other factors such as safety, on-time service, insurance, Covid 19 standards, tracking and more.
                         <br><br>
-
+                    </p>
+                    <div class="new-blog-section-one">
+                        <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667295981/Recent%20Uploads/Inkedrace_car_shipping-min_mwzw9y_s7i04a.jpg" alt="Enclosed auto shipping">
+                    </div>
+                    <p>
                         Are you planning to get your Car move ? By comparing companies and looking for economical services, we'll show you how to get cheap auto shipping while keeping in mind other parameters as well. Because auto transportation is a supply-and-demand industry, rates can vary significantly. The simplest way to choose a carrier at a fair price is to use a shipping broker.
 
                         In this post, we'll go through the aspects that influence the price of car shipping services, make recommendations for transportation businesses, and offer cost-cutting measures. You may also learn more about the best auto shipping companies and compare free quotations from our top recommendations right away.
                     </p>
-                    <h2>GLIMPSE OF THE ARTICLE </h2>
+
+                    <h2><span>GLIMPSE OF THE ARTICLE</span> </h2>
                     <ul>
                         <li>
                             1. Get a couple of quotes
@@ -145,6 +151,9 @@
                         The cheapest shipping company price can be determined by how you choose to transport your vehicle. An open–air trailer or an enclosed trailer are the two most common ways to transport a vehicle. Open-air car transportation is the less expensive of the two options.The sort of car shipping service you select will have a significant impact on the price of your relocation. Open-air carriers are less expensive, whereas enclosed carriers are more expensive.Enclosed transports consume more gasoline than open vehicles. It is better for the environment and cheap car transport for the customer to use less fuel.
                         </br></br>
                     </p>
+                    <div class="new-blog-section-one">
+                        <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping-min_tdvjxf.jpg" alt="open auto shipping">
+                    </div>
                     <p>
                         <strong> 3.Ship during the non-peak season</strong></br>
                         When deciding on the best season to transport your vehicle, stay away from winter.No matter what time of year you ship your car, rush delivery costs a pretty penny.Avoid the Snowbird Season if at all possible.The first week of the new year should be avoided
@@ -170,13 +179,16 @@
                         You can always request your friends to do it for you , You may be able to save money if you have a trustworthy friend or family member who can drive the automobile.
                         </br></br>
                     </p>
+                    <div class="new-blog-section-one">
+                        <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668073131/Recent%20Uploads/man-portrait-in-car_srgt7p.jpg" alt="open auto shipping">
+                    </div>
                 </div>
                 <div class="affordable-ways-page-grid-content-1">
 
-                    <h2>WHY WE ARE BEST?</h2>
+                    <h2><span> WHY WE ARE BEST?</span></h2>
                     <p>
 
-                        <strong><a href="<?= home_path() ?>">Rapid Auto Shipping</a></strong> is a well-known auto Transportation firm in the United States. It aids in the timely delivery of vehicles, which is a top concern for us, as well as providing inexpensive rates. From loading your vehicle at your location to delivering it to the destination of your choice, we handle it all. North, south, east, or west are all possibilities. Rapid Auto Shipping not only transports your vehicle, but also offers you with a bank-issued insurance policy to assure its safe arrival. To ensure that your dream cars and vehicles are completely safe, we use all government-recommended norms, rules, and correct package covers, as well as trustworthy suppliers.
+                        <strong><a href="<?= home_path() ?>"><span> Rapid Auto Shipping</span></a></strong> is a well-known auto Transportation firm in the United States. It aids in the timely delivery of vehicles, which is a top concern for us, as well as providing inexpensive rates. From loading your vehicle at your location to delivering it to the destination of your choice, we handle it all. North, south, east, or west are all possibilities. Rapid Auto Shipping not only transports your vehicle, but also offers you with a bank-issued insurance policy to assure its safe arrival. To ensure that your dream cars and vehicles are completely safe, we use all government-recommended norms, rules, and correct package covers, as well as trustworthy suppliers.
                     </p>
                 </div>
             </div>
