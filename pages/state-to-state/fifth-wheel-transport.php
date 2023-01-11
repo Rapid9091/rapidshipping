@@ -81,16 +81,8 @@
     <!-- parent grid section start-->
     <div class="main-state-to-state">
         <div class="left-state-to-state">
-            <div class="points-div " id="top-section">
-                <h2 class="heading-2">
-                    More about Firth Wheel transport
-                </h2>
-            </div>
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
-                <div class="shipping-form-state-image">
-                    <img src="<?= get_img() ?>alaska-bg-1.jpg" alt="state to state auto transport" />
-                </div>
                 <ul>
                     <li id="1">
                         <div class="shipping-form-state-content">
@@ -99,8 +91,14 @@
                                 An RV that is built to be attached to a "fifth wheel" is known as a "fifth wheel." This is a horseshoe-shaped coupling device that may be placed in pickup vehicles and is used on semi-trucks. Fifth-wheel RVs are most typically hauled by pickup trucks with a "fifth wheel" placed in the truck bed.
                                 Fifth wheels are not to be confused with "camper" or "trailer" RVs, which hook to a normal trailer hitch and are often much smaller than a fifth wheel RV. They are also distinct from motorised RVs or "motorhomes," which are entirely self-contained motorised units that are not pulled by a truck.
                                 <br><br>
+                            </p>
+                            <div class="shipping-form-state-image">
+                                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping.-min_ooxowf.jpg" alt="fifth wheel auto transport" />
+                            </div>
+                            <p class="para-2">
                                 When compared to other types of RVs and camper trailers, a fifth wheel RV offers a number of advantages. They're quite stable when towing, have a lot of capacity, and are very affordable. Not only that, but you can leave your truck at a campsite and leave your RV there. This means you can drive to places that a motorised RV might not be able to reach, and you'll save money on gas.
                             </p>
+
                         </div>
                     </li>
                     <li id="2">
@@ -118,23 +116,25 @@
                     </li>
                     <li id="3">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1"> SERVICES FOR FIFTH-WHEEL TRANSPORTATION</span>?
+                            <h2 class="heading-1"> SERVICES FOR <span>FIFTH-WHEEL TRANSPORTATION</span>
                             </h2>
-                            <p class="para-2">It's as simple as 1-2-3 to ship a car from Alabama to Alaska with Rapid Auto Shipping.
-                                We offer a variety of services to our clients both domestically and globally, including but not limited to the following:
+                            <p class="para-2"> We offer a variety of services to our clients both domestically and globally, including but not limited to the following:
                                 <br>
-                                5th wheel shipping from coast to coast
-                                <br> Hawaii and Alaska transportation
-                                <br> International and overseas 5th wheel shipping
-                                <br> Shipping is offered from door to door.
-                                <br> Every shipping is covered by insurance.
-                                <br> In most places and countries, storage is available.
+                                (->) 5th wheel shipping from coast to coast
+                                <br> (->) Hawaii and Alaska transportation
+                                <br> (->) International and overseas 5th wheel shipping
+                                <br> (->) Shipping is offered from door to door.
+                                <br> (->) Every shipping is covered by insurance.
+                                <br> (->) In most places and countries, storage is available.
                             </p>
+                            <div class="shipping-form-state-image">
+                                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666088693/HOW_TO_SHIP_A_TRUCK._p4hghi.jpg" alt="fifth wheel car shipping" />
+                            </div>
                         </div>
                     </li>
                     <li id="4">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1"> RESOURCES FOR THE FIFTH-WHEEL
+                            <h2 class="heading-1"> RESOURCES FOR THE <span>FIFTH-WHEEL</span>
                             </h2>
                             <p class="para-2">
                                 Fifth Wheel Magazine is a publication dedicated to the automotive industry. Fifth Wheel Magazine is a terrific site to go for news and information about fifth-wheels, accessories, current subjects, useful instructions and advice, and just about everything else relevant. They also feature reviews of popular models, complete with specifications and photos.
@@ -161,7 +161,7 @@
 
                     <li id="6">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1"> WHY WOULD I REQUIRE FIFTH-WHEEL TRANSPORT?
+                            <h2 class="heading-1"> WHY WOULD I REQUIRE <span>FIFTH-WHEEL TRANSPORT</span> ?
                             </h2>
                             <p class="para-2">
                                 If you're moving to a new state or city, you may need to relocate your fifth-wheel RV. You can also have a fifth-wheel RV sent to your home instead of picking it up. Similarly, to prevent a long trip to the buyer, you can transport a fifth-wheel RV that you've sold.
@@ -179,11 +179,16 @@
                                 There are a few more elements that can affect the cost of fifth wheel RV shipping besides the per-mile fee and total distance, such as:
 
                                 Most fifth-wheel RV transport firms use heavy-duty pickup vehicles to transport your RV, however certain larger RVs may require a semi-truck. When compared to a pickup truck, hiring a semi-truck is usually more expensive.
-                                <br> <br> The overall size and weight of your RV will affect fuel use during the trip, regardless of whether it's transported by pickup truck or semi-truck, thus a heavier, less aerodynamic, or larger fifth wheel RV will cost more to ship than a smaller one. When getting an estimate for fifth-wheel RV shipping, keep this in mind.
-
-                                Additional insurance - Your fifth wheel RV transport business should inform you of their insurance coverage and the amount of coverage. Inquire about supplementary insurance coverage if the value of your RV exceeds the coverage limit. This will cost you a little extra money, but it will be well worth it in the long run.
-
+                                <br> <br>
                             </p>
+                            <div class="shipping-form-state-image">
+                                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1671271225/Recent%20Uploads/man-with-coin.jpg" alt="fifth wheel car shipping" />
+                            </div>
+                            <p class="para-2">
+                                The overall size and weight of your RV will affect fuel use during the trip, regardless of whether it's transported by pickup truck or semi-truck, thus a heavier, less aerodynamic, or larger fifth wheel RV will cost more to ship than a smaller one. When getting an estimate for fifth-wheel RV shipping, keep this in mind.
+                                Additional insurance - Your fifth wheel RV transport business should inform you of their insurance coverage and the amount of coverage. Inquire about supplementary insurance coverage if the value of your RV exceeds the coverage limit. This will cost you a little extra money, but it will be well worth it in the long run.
+                            </p>
+
                         </div>
                     </li>
                     <li id="8">
@@ -195,7 +200,7 @@
                     </li>
                 </ul>
                 <div class="shipping-form-state-image">
-                    <img src="<?= get_img() ?>albama-two.png" alt="alabama to alaska auto shipping" />
+                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831368/RapidAutoShipping/bus-shipping-bg_grezqw.jpg" alt="FIFTH-WHEEL RV" />
                 </div>
             </section>
         </div>
