@@ -7,11 +7,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Top affordable Fifth wheel transport services.</title>
-    <meta name="title" content="Top affordable Fifth wheel transport services." />
+    <title>Best Fifth Wheel Transport & Hauling Services in the US</title>
+    <meta name="title" content="Best Fifth Wheel Transport & Hauling Services in the US" />
     <meta name="description" content="Rapid Auto Shipping provides the best Fifth wheel transport services, used for towing heavy equipment such as tractors, construction vehicles etc." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Top affordable Fifth wheel transport services." />
+    <meta property="og:title" content="Best Fifth Wheel Transport & Hauling Services in the US" />
     <meta property="og:description" content="Rapid Auto Shipping provides the best Fifth wheel transport services, used for towing heavy equipment such as tractors, construction vehicles etc." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/fifth-wheel-transport" />
     <meta property="og:site_name" content="fifth wheel transport services - Rapid Auto Shipping" />
