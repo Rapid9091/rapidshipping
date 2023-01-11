@@ -85,7 +85,7 @@
                                 <br><br>
                             </p>
                             <div class="shipping-form-state-image">
-                                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping.-min_ooxowf.jpg" alt="fifth wheel auto transport" />
+                                <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping.-min_ooxowf.jpg" alt="fifth wheel auto transport" />
                             </div>
                             <p class="para-2">
                                 Many customers come from Washington, California, and even New York to buy from us. They come to us because we offer the vehicles they require at far lower prices than their local Shipping a car from a dealership, and they can't always locate what they want locally. When they try to pick up the vehicle, the operation becomes more problematic. This is why a Transporting cars for Dealerships company like Rapid Auto Shipping should deliver your vehicle to you.
@@ -102,7 +102,7 @@
                                 <br><br>
                             </p>
                             <div class="shipping-form-state-image">
-                                <img src="<?= get_img() ?>vaibhav-img-2.png" alt="car transport dealership">
+                                <img loading="lazy" src="<?= get_img() ?>vaibhav-img-2.png" alt="car transport dealership">
                             </div>
                             <p class="para-2">
                                 The good news is that hiring a vehicle dealership shipping service is a far more cost-effective option for these individuals. Rather than dealing with the difficulties of buying a car from afar on their own, we can arrange to ship the automobile. Of course, there will be a cost per mile, but when you consider the time off work, the flight expense, or the fees associated with a road trip (gas, snacks, hotels, etc. ), In most cases, the extra expenditure is well worth it. The simplicity of filling out paperwork at one's leisure rather than having to wait at a dealership is worth the cost of shipping alone. This service is an excellent choice for people looking for a specific car or who prefer Oklahoma's lower-cost possibilities to their own.
@@ -116,7 +116,7 @@
                             <p class="para-2"> When it comes to ship car from dealership, there are two options. You have the option of shipping with an open or enclosed car carrier. An open automobile trailer is the cheapest choice. These are the same carriers that transport automobiles to and ship car from dealership. The enclosed trailer will keep the car safe from the elements such as wind, rain, and snow. The automobile will be examined both before and after it is picked up to ensure that it has been transported safely. The goal is to deliver the product to the consumer in the same condition as it was on the showroom floor.
                             </p>
                             <div class="shipping-form-state-image">
-                                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666432435/Recent%20Uploads/exotic-car-min_jbuf4y.jpg" alt="car transport dealership">
+                                <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666432435/Recent%20Uploads/exotic-car-min_jbuf4y.jpg" alt="car transport dealership">
                             </div>
                         </div>
                     </li>
@@ -141,7 +141,7 @@
                                 <br><br>
                             </p>
                             <div class="shipping-form-state-image">
-                                <img src="<?= get_img() ?>auto-transport-open.jpg" alt="car transport dealership">
+                                <img loading="lazy" src="<?= get_img() ?>auto-transport-open.jpg" alt="car transport dealership">
                             </div>
                             <p class="para-2">
                                 Shoppers can get a hold of their vehicles with door-to-door service at a reasonable fee. Safe vacation car delivery ensures that each driver receives a car that is spotless when it arrives, and that each driver is satisfied.
@@ -218,13 +218,13 @@
 
                     <div class="fifth-state-to-state-grid-image-parent">
                         <div class="fifth-state-to-state-grid-image">
-                            <img src="<?= get_img() ?>/home-delivering-vehicle-1.png" alt="state to state auto transport" />
+                            <img loading="lazy" src="<?= get_img() ?>/home-delivering-vehicle-1.png" alt="state to state auto transport" />
                         </div>
                         <div class="fifth-state-to-state-grid-image">
-                            <img src="<?= get_img() ?>/home-picking-vehicle.png" alt="state to state auto transport" />
+                            <img loading="lazy" src="<?= get_img() ?>/home-picking-vehicle.png" alt="state to state auto transport" />
                         </div>
                         <div class="fifth-state-to-state-grid-image">
-                            <img src="<?= get_img() ?>/home-shipping-vehicle.png" alt="state to state auto transport" />
+                            <img loading="lazy" src="<?= get_img() ?>/home-shipping-vehicle.png" alt="state to state auto transport" />
                         </div>
                     </div>
                 </div>
