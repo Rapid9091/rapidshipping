@@ -65,7 +65,7 @@
     <!-- this is the fiorst section with background image -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Motor cycle Shipping";
+        $NAME = "Motorcycle Shipping";
         $PARAGRAPH = "You'll need to ship your motorcycle if you don't have time to ride it but need to get it to a specified location. Whether you're migrating, buying, or selling a motorcycle, or simply need to relocate it, motorcycle shipping and transport options are available.
 However, transporting a motorcycle is not the same as transporting a car. Alternative shipping methods must be used because motorcycles are smaller and made differently.";
         include_once small_form;
