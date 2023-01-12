@@ -16,6 +16,7 @@
   display: grid;
   grid-template-columns: 65% 1fr;
   padding: 5% 10%;
+  grid-gap: 3%;
 }
 
 .arkansas-top-companies-2022-grid > table > tbody > tr > td {
