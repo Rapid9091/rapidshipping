@@ -57,6 +57,8 @@
     <link rel="stylesheet" href="<?= get_css(); ?>strip-under-header.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_inside-blog-page.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>PAGE_new-blog-design.css">
+
 
     <style>
         .contact-us-header-page {
@@ -114,27 +116,37 @@
     <div class="arkansas-top-companies-2022-container">
         <div class="affordable-ways-page-grid">
             <div class="affordable-ways-page-grid-content-1">
-                <h2>TERMINAL TO TERMINAL AUTO SHIPPING (RAS)
-                </h2>
-                <p>
+                <div class="new-blog-section-one">
+                    <h2><span>TERMINAL TO TERMINAL AUTO SHIPPING (RAS)</span></h2>
+                    <p>
 
-                    High-volume car shipping businesses often carry cars from terminal to terminal, which can be less expensive for you to do.
-                    A terminal is a localized storage space. Vehicles are frequently kept in a safe lot owned by a towing business, which is typically found in a major city. Terminal shipping is frequently less expensive than door-to-door auto Transport service since carriers carry cars to and from these terminals to mix cargo heading in the same general direction. If you're working with a limited amount of time, terminal-to-terminal car shipping might not be the best option.
-                    <br><br>
-                    A terminal is a regional storage facility or a hub for transportation that is frequently utilised by a number of towing and auto shipping businesses. Until your transport carrier picks it up, your custom sports car or other vehicle is kept there. These facilities are often found near railroad tracks, seaports, airports, or industrial locations outside of major metropolitan centres. While some cargo terminals have covered parking garages, the majority do not. As security at these sites varies, be sure to check the security of your car. In this case, transporters frequently mix goods going to the same area.
-                    <br><br>
-                    The large facility makes loading and unloading of cars simple and effective. It should be emphasised that this does not necessarily result in cost savings for the final consumer because storage expenses are typically equivalent to or higher than those associated with door-to-door auto transport.
-                    <br><br>
-                    While some customers prefer the convenience of door-to-door auto transport, others believe that terminal-to-terminal car shipping is the best option. By using this technique, the carrier will pick up the vehicle from your house and deliver it to your door once it has reached its destination. You can avoid driving your automobile to and from the terminals by choosing this option.
-                    <br><br>
-                    The main benefit of using this shipping option is that it is typically less expensive than door-to-door auto transport, though the savings will vary based on where you want the package picked up and delivered. If your vehicle is being picked up or delivered in a remote place, door-to-door auto shipping may be significantly more expensive than terminal-to-terminal shipping. The price difference might not be all that significant if the pick-up and delivery locations are near highways or in major cities.
-                    <br><br>
-                    Terminal to terminal Auto-shipping is advantageous for clients who want to drop off or pick up their vehicles at particular times and dates. Even though terminals may be hundreds of miles away, if you have the time and means to travel there, you can save money.
-                    <br><br>
-                    Numerous carriers may transport cars on their way to the terminal where you will pick them up. As a result, while it waits for the next leg of the journey, it might sit outside in the elements. Terminal-to-terminal Car shipping is the best option for you if this is not a concern, you are more flexible, and you are willing to put in some effort.
-                    <br><br>
-                    If you opt for the terminal-to-terminal auto shipping method, you can leave your car, truck, or motorcycle at the terminal, where it will be kept until the auto shipping company can pick it up. As soon as the carrier delivers your vehicle to its new location, a terminal representative will get in touch with you.
-                </p>
+                        High-volume car shipping businesses often carry cars from terminal to terminal, which can be less expensive for you to do.
+                        A terminal is a localized storage space. Vehicles are frequently kept in a safe lot owned by a towing business, which is typically found in a major city. Terminal shipping is frequently less expensive than door-to-door auto Transport service since carriers carry cars to and from these terminals to mix cargo heading in the same general direction. If you're working with a limited amount of time, terminal-to-terminal car shipping might not be the best option.
+                        <br><br>
+                        A terminal is a regional storage facility or a hub for transportation that is frequently utilised by a number of towing and auto shipping businesses. Until your transport carrier picks it up, your custom sports car or other vehicle is kept there. These facilities are often found near railroad tracks, seaports, airports, or industrial locations outside of major metropolitan centres. While some cargo terminals have covered parking garages, the majority do not. As security at these sites varies, be sure to check the security of your car. In this case, transporters frequently mix goods going to the same area.
+                        <br><br>
+                    </p>
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668429775/Recent%20Uploads/attachment-frederik-hojfeldt-nielsen-eEpF3zcICfE-unsplash_lja7n6.jpg" alt="Terminal to terminal auto shipping">
+
+                    <p>
+                        The large facility makes loading and unloading of cars simple and effective. It should be emphasised that this does not necessarily result in cost savings for the final consumer because storage expenses are typically equivalent to or higher than those associated with door-to-door auto transport.
+                        <br><br>
+
+                        While some customers prefer the convenience of door-to-door auto transport, others believe that terminal-to-terminal car shipping is the best option. By using this technique, the carrier will pick up the vehicle from your house and deliver it to your door once it has reached its destination. You can avoid driving your automobile to and from the terminals by choosing this option.
+                        <br><br>
+                        The main benefit of using this shipping option is that it is typically less expensive than door-to-door auto transport, though the savings will vary based on where you want the package picked up and delivered. If your vehicle is being picked up or delivered in a remote place, door-to-door auto shipping may be significantly more expensive than terminal-to-terminal shipping. The price difference might not be all that significant if the pick-up and delivery locations are near highways or in major cities.
+                        <br><br>
+                    </p>
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667643399/Recent%20Uploads/photo-1543465077-db45d34b88a5_nhwyau.jpg" alt="Terminal to terminal car shipping">
+
+                    <p>
+                        Terminal to terminal Auto-shipping is advantageous for clients who want to drop off or pick up their vehicles at particular times and dates. Even though terminals may be hundreds of miles away, if you have the time and means to travel there, you can save money.
+                        <br><br>
+                        Numerous carriers may transport cars on their way to the terminal where you will pick them up. As a result, while it waits for the next leg of the journey, it might sit outside in the elements. Terminal-to-terminal Car shipping is the best option for you if this is not a concern, you are more flexible, and you are willing to put in some effort.
+                        <br><br>
+                        If you opt for the terminal-to-terminal auto shipping method, you can leave your car, truck, or motorcycle at the terminal, where it will be kept until the auto shipping company can pick it up. As soon as the carrier delivers your vehicle to its new location, a terminal representative will get in touch with you.
+                    </p>
+                </div>
             </div>
         </div>
 
