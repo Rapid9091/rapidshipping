@@ -55,11 +55,11 @@
 
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css" />
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_home.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>PAGE_shipping-car-to-mexico-blog.css">
     <link rel="stylesheet" href="<?= get_css(); ?>small-form.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>strip-under-header.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_inside-blog-page.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>PAGE_shipping-car-to-mexico-blog.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>strip-under-header.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_new-blog-design.css">
     <style>
         .contact-us-header-page {
