@@ -19,21 +19,19 @@ heading-1 > span {
 }
 
 /* sub main title */
-
 .heading-2 {
   font-size: 23px;
   font-weight: 600;
   margin: 3% 0;
 }
-
+.heading-h4 {
+  font-size: 20px;
+}
 /* big  text */
-
 .para-1 {
   font-size: 17px;
 }
-
 /*  small text */
-
 .para-2 {
   font-size: 18px;
   word-spacing: 1.5px;
@@ -43,18 +41,17 @@ heading-1 > span {
 .points-div-ul {
   margin: 4% 0;
 }
-
 .points-div-ul > li {
   list-style: marker;
   margin-left: 20px;
   margin: 15px 0 20px 20px;
   font-size: 20px;
 }
-
 .points-div-ul > li > a {
   font-size: 19px;
   word-spacing: 1.5px;
   letter-spacing: 0.5px;
+  text-transform: capitalize !important;
 }
 
 .points-div-ul > li > a:hover {
@@ -67,7 +64,7 @@ heading-1 > span {
     rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
     rgba(0, 0, 0, 0.09) 0px 32px 16px;
   margin-top: 2%;
-  margin-bottom: 4%;
+  margin-bottom: 6%;
 }
 
 /* main grid section  */
@@ -75,9 +72,9 @@ heading-1 > span {
 .main-state-to-state {
   width: 100%;
   display: grid;
-  grid-template-columns: 65% 1fr;
+  grid-template-columns: 64% 1fr;
   grid-gap: 4%;
-  padding: var(--main-body-padding);
+  padding: 5% 9% 0 9%;
 }
 
 .right-state-to-state-child {
@@ -405,7 +402,11 @@ div[class*="special-red-btn"] {
   color: var(--nav-color);
   text-align: center;
 }
-
+@media screen and (max-width: 1300px) {
+  .main-state-to-state {
+    padding: 5%;
+  }
+}
 @media screen and (max-width: 900px) {
   .main-state-to-state {
     grid-template-columns: 100%;
