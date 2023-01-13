@@ -230,9 +230,6 @@ We'll go over the mechanics of motorbike shipping and what to expect when shippi
         </h2>
         <p>
             Allow Rapid Auto Shipping to assist you in transporting your motorcycle! We'the ve been in the company for ten years and have the knowledge and expertise that consumers demand. You may get a free quote to ship your bike at any time by filling out our online quote form, or by calling one of our experts. You can also ask questions, get advice, learn more about motorbike transportation, and more when you call. So, whatever you require, use Rapid Auto Shipping to assist you.
-
-
-
         </p>
     </section>
 
