@@ -51,12 +51,12 @@
 <!--Outbond link for find2local   -->
 <!-- ------------------------ -->
 
-<a id="href2" target="_blank" href="http://www.2findlocal.com/b/14662457">
-    <img style="display:none;" class="anchorImage" alt="rapid auto shipping" src="http://www.2findlocal.com/Set/Icons/2.png">
+<a id="href2" target="_blank" href="https://www.2findlocal.com/b/14662457">
+    <img style="display:none;" class="anchorImage" alt="rapid auto shipping" src="https://www.2findlocal.com/Set/Icons/2.png">
 </a>
 <a target="_blank" href="http://taxihowmuch.com">
-    <img style="display:none;" alt="taxi how much" src="http://www.2findlocal.com/Set/Icons/u.png">
+    <img style="display:none;" alt="taxi how much" src="https://www.2findlocal.com/Set/Icons/u.png">
 </a>
 <a id="href3" target="_blank" href="https://updownradar.com">
-    <img style="display:none;" alt="updown" src="http://www.2findlocal.com/Set/Icons/f.png">
+    <img style="display:none;" alt="updown" src="https://www.2findlocal.com/Set/Icons/f.png">
 </a>
