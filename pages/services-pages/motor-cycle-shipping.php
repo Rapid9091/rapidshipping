@@ -189,7 +189,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
 
                         </div>
                     </li>
-                                    
+
                     <li id="6">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Getting The <span>Motorcycle</span> Ready For Transportation</h2>
@@ -262,7 +262,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                 </ul>
 
                 <div class="shipping-form-state-image">
-                    <img src="<?= get_img() ?>home_bg-1.jpg" alt="Motor Cycle Shipping" />
+                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673604520/Recent%20Uploads/motorcycle-shipping.jpg" alt="Motor Cycle Shipping" />
                 </div>
             </section>
 
