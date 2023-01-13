@@ -202,9 +202,6 @@
         </div>
     </div>
 
-
-
-
     <?php include_once why_choose_us_section ?>
 
     <?php include_once call_to_action ?>
