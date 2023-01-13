@@ -214,7 +214,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1671280732/Recent%20Uploads/trailer.jpg" alt="#1 Boat Transport Company" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673591750/Recent%20Uploads/trailer-without-mark.jpg" alt="#1 Boat Transport Company" />
 
                     </div>
                     <li id="6">
