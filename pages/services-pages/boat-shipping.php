@@ -239,9 +239,6 @@
                         </div>
                     </li>
 
-
-
-
                 </ul>
 
                 <div class="shipping-form-state-image">
