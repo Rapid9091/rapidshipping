@@ -77,8 +77,6 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
                 <h2 class="heading-1"><span>Motorcycle Shipping!</span></h2>
-
-
                 <p class="para-2">
                     When you don't have time to ride your motorcycle but need to get it to a specific spot, you'll need to ship it. Motorcycle shipping and transport services are accessible whether you're relocating, buying, or selling a bike, or simply need to transfer it.
                     <br>
@@ -104,16 +102,13 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                     <li><a href="#9">How long will it take for my motorcycle to be shipped?</a></li>
                     <li><a href="#10">Ship your motorcycle now!</a></li>
 
-
-
-
                 </ul>
 
             </div>
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <div class="shipping-form-state-image">
-                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673511549/door-to-door-car-img.jpg" alt="Motor Cycle Shipping" />
+                    <img src="<?= get_img() ?>motorcycle-shipping-bg-car.jpg" alt="Motor Cycle Shipping" />
 
                 </div>
                 <ul>
@@ -144,7 +139,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831351/RapidAutoShipping/home-delivering-vehicle-1_zdchxd.png" alt="Motor Cycle Shipping" />
+                        <img src="<?= get_img() ?>motorcycle-shipping-car-bg.jpg" alt="Motor Cycle Shipping" />
 
                     </div>
                     <li id="3">
@@ -180,6 +175,10 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
 
                         </div>
                     </li>
+                    <div class="shipping-form-state-image">
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521154/door-to-door-img-2.jpg" alt="Motor Cycle Shipping" />
+
+                    </div>
                     <li id="5">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Motorcycle Shipping Using Open Transport</h2>
@@ -190,10 +189,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
 
                         </div>
                     </li>
-                    <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667289367/pikwizard-93ebb5ffea68de56d908cf4447f61f4e_aq36ag.jpg" alt="Motor Cycle Shipping" />
 
-                    </div>
                     <li id="6">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Getting The <span>Motorcycle</span> Ready For Transportation</h2>
@@ -235,10 +231,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                             </p>
                         </div>
                     </li>
-                    <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521154/door-to-door-img-2.jpg" alt="Motor Cycle Shipping" />
 
-                    </div>
                     <li id="9">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">How Long Will It Take For My Motorcycle To Be Shipped?</h2>
@@ -269,7 +262,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                 </ul>
 
                 <div class="shipping-form-state-image">
-                    <img src="<?= get_img() ?>home_bg-1.jpg" alt="Motor Cycle Shipping" />
+                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673604520/Recent%20Uploads/motorcycle-shipping.jpg" alt="Motor Cycle Shipping" />
                 </div>
             </section>
 

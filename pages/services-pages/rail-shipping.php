@@ -132,9 +132,10 @@
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <div class="shipping-form-state-image">
-                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673511549/door-to-door-car-img.jpg" alt="Car Transport By Train" />
+                    <img src="<?= get_img() ?>rail-service-img.jpg" alt="Car Transport By Train" />
 
                 </div>
+
                 <ul>
                     <li id="1">
                         <div class="shipping-form-state-content">
@@ -205,7 +206,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668072952/Recent%20Uploads/truck-856345_960_720_cl2sil.jpg" alt="Transport Car By Train" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673600865/Recent%20Uploads/Untitled_design_5_-min_yvsbxw.png" alt="Transport Car By Train" />
 
                     </div>
                     <li id="6">
@@ -244,9 +245,12 @@
 
                 </ul>
 
+
                 <div class="shipping-form-state-image">
-                    <img src="<?= get_img() ?>home_bg-1.jpg" alt="Auto Transport By Train" />
+                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673601506/Recent%20Uploads/rail_shipping_bg_hpksqn.jpg" alt="Car Transport By Train" />
+
                 </div>
+
             </section>
 
 

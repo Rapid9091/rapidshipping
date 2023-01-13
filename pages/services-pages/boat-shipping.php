@@ -127,7 +127,7 @@
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <div class="shipping-form-state-image">
-                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673511549/door-to-door-car-img.jpg" alt="Boat Shipping in USA" />
+                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673601625/Recent%20Uploads/Untitled_design_2_ulkydq.png" alt="Boat Shipping in USA" />
 
                 </div>
                 <ul>
@@ -176,7 +176,10 @@
                             </p>
                         </div>
                     </li>
+                    <div class="shipping-form-state-image">
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673602009/Recent%20Uploads/boat-port-1_sxbzuh.jpg" alt="#1 Boat Transport Company" />
 
+                    </div>
                     <li id="4">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Knowledge On Boat Shipping In General</h2>
@@ -191,10 +194,7 @@
 
                         </div>
                     </li>
-                    <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521154/door-to-door-img-2.jpg" alt="#1 Boat Transport Company" />
 
-                    </div>
                     <li id="5">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Ship your Boat now!</h2>
@@ -214,7 +214,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673591750/Recent%20Uploads/trailer-without-mark.jpg" alt="#1 Boat Transport Company" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673601813/Recent%20Uploads/yacht-shipping_igq6xk.jpg" alt="#1 Boat Transport Company" />
 
                     </div>
                     <li id="6">
