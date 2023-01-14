@@ -152,12 +152,35 @@
                             <p class="para-2">
                                 Rapid Auto Shipping knows that cost is a major consideration for you. Rapid Auto Shipping, on the other hand, is all about promoting openness and accountability, and we want to make sure that all charges are clearly explained. Rapid Auto Shipping will ask you the following information about your request before providing you with a final quote:
                                 <br>
-                                <br> How much does your boat weigh?
-                                <br> What is the size of your boat?
-                                <br> Is it a case of being 'overweight'?
-                                <br> What are the dimensions of your boat in terms of height, length, and width?
-                                <br> Do you prefer that we carry you by land or by sea? This is dependent on the route you want to travel and the location where you want your request to be delivered.
-                                <br> Are there any unique factors we should be aware of while completing your request?
+                            <ul>
+                                <li style="list-style:disc !important;margin-left:15px;">
+                                    <p class="para-2">How much does your boat weight?</p>
+                                </li>
+                                <li style="list-style:disc !important;margin-left:15px;">
+                                    <p class="para-2">What is the size of your boat?</p>
+
+                                </li>
+                                <li style="list-style:disc !important;margin-left:15px;">
+                                    <p class="para-2">
+                                        Is it a case of being 'overweight'?
+                                    </p>
+
+                                </li>
+                                <li style="list-style:disc !important;margin-left:15px;">
+                                    <p class="para-2">What are the dimensions of your boat in terms of height, length, and width?</p>
+                                </li>
+                                <li style="list-style:disc !important;margin-left:15px;">
+                                    <p class="para-2">Do you prefer that we carry you by land or by sea? This is dependent on the route you want to travel and the location where you want your request to be delivered.</p>
+                                </li>
+
+                                <li style="list-style:disc !important;margin-left:15px;">
+                                    <p class="para-2">Are there any unique factors we should be aware of while completing your request?</p>
+
+                                </li>
+                            </ul>
+
+
+
                             </p>
 
 
