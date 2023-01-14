@@ -207,7 +207,7 @@
                     </li>
 
                     <div class="shipping-form-state-image">
-                        <img src="<?= get_img() ?>bus-shipping-1.jpg" />
+                        <img src="<?= get_img() ?>bus-shipping-1.jpg" alt="Best open auto transport" />
 
                     </div>
                     <li id="7">
