@@ -128,7 +128,7 @@
                 </div>
                 <div class="review-for-s-t-s-transport-grid-1">
 
-                    <h5>Get an instant car shippping quote </h5>
+                    <h5>Get an instant car shipping quote </h5>
                     <a class="button-square-for-every-page" href="tel:+1-833-233-4447"> Car Shipping Calculator</a>
 
                 </div>
@@ -178,7 +178,7 @@
             <div class="new-blog-section-one">
                 <h2><span>Transporting a Car in Various Ways with Rapid Auto Shipping</span></h2>
                 <p>
-                    Someone may want to send their automobile to a distant location, while another may want to transfer it locally. As a result, there are a variety of choices. You should think about the modes of transportation before transporting your car. There are two ways to transport a car. One of these is the open-air method.If you are shipping your car over a short distance, an open-air technique is the best option because it is the most cost-effective.
+                    Someone may want to send their automobile to a distant location, while another may want to transfer it locally. As a result, there are a variety of choices. You should think about the modes of transportation before transporting your car. There are two ways to transport a car. One of these is the open-air method. If you are shipping your car over a short distance, an open-air technique is the best option because it is the most cost-effective.
 
                 <ul>
                     <li class="list-0f-state-to-state-page"> Your car is shipped in a container using this method.</li>
