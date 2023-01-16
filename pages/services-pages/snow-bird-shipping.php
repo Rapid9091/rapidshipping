@@ -14,7 +14,7 @@
     <meta property="og:title" content="Snowbirds Auto Transport - US Canada Auto Transport Services" />
     <meta property="og:description" content="Get Snowbirds Auto Transport services From Rapid Auto Shipping. The Best US Canada Auto Transport Services provide Get Quote Now" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/snow-bird-shipping" />
-    <meta property="og:image" content="https://rapidautoshipping.com/assets/images/GettyImages-0-1.png" />
+    <meta property="og:image" content="<?= get_img() ?>truck-in-snow.jpg" />
     <meta property="og:site_name" content="Snowbirds Auto Transport - Rapid Auto Shipping " />
     <meta name='robots' content='index' />
     <meta name="keywords" content="shipping to canada from us, shipping from canada to us, us canada auto transport, snow bird auto transport, snowbird auto transport, snowbirds auto transport, canada to us car shipping, snowbird car transport, snowbird car shipping, import a car from usa to canada">
@@ -28,9 +28,12 @@
     <meta property="article:tag" content="snowbird car transport" />
     <meta property="article:tag" content="snowbird car shipping" />
     <meta property="article:tag" content="import a car from usa to canada" />
+
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->
+
     <?php include head; ?>
+
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_blog.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_all-service-page.css">
@@ -158,7 +161,7 @@
 
                     </p>
 
-                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665832014/received_594529625738657_y8wkkh.jpg" alt="snowbird transportation">
+                    <img loading="lazy" style="width:100%" src="<?= get_img() ?>truck-in-snow.jpg" alt="snowbird transportation">
 
                 </div>
             </div>
