@@ -152,7 +152,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521154/door-to-door-img-2.jpg" alt="Top Multi Car Shipping Services" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673947954/Recent%20Uploads/ras-gif.gif" alt="Top Multi Car Shipping Services" />
 
                     </div>
                     <li id="4">
