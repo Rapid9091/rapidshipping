@@ -400,7 +400,7 @@
                 <!-- here this div use for calling  -->
             </ul>
             <button onclick="window.location.href=' tel:+1 833-233-4447'" class="number heart" style="cursor:pointer;">
-                <p data-aos="zoom-out"><i class="fa-solid fa-phone"></i>+1 833-233-4447</p>
+                <p data-aos="zoom-out"><i class="fa-solid fa-phone"></i>+1 (833) 233-4447</p>
             </button>
 
         </div>

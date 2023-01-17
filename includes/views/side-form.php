@@ -9,7 +9,7 @@
     <form action="<?= $form_url ?>" class="third-section-form">
         <div style="box-shadow:unset !important; width:100% !important; ">
             <p>Get an Instant Quote </p>
-            <p>Call: <a href="tel:+1-833-233-4447">+1-833-233-4447</a></p>
+            <p>Call: <a href="tel:+1-833-233-4447">+1 (833) 233-4447</a></p>
 
 
             <div class="steps-second-short-form third-section-form-child s-f-3">
