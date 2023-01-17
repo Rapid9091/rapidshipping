@@ -101,17 +101,12 @@
                     <li><a href="#5">What are the drawbacks of using an open auto carrier?</a></li>
                     <li><a href="#6">Details about open auto transport can be found here</a></li>
                     <li><a href="#7">Know More About Open Transportation</a></li>
-
-
-
-
                 </ul>
-
             </div>
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <div class="shipping-form-state-image">
-                    <img src="<?= get_img() ?>auto-transport-open.jpg" alt="Open Car Transport" />
+                    <img loading="lazy" src="<?= get_img() ?>auto-transport-open.jpg" alt="Open Car Transport" />
 
                 </div>
                 <ul>
@@ -139,7 +134,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="<?= get_img() ?>vaibhv-img.png" alt="Open Auto Transport" />
+                        <img loading="lazy" src="<?= get_img() ?>vaibhv-img.png" alt="Open Auto Transport" />
                     </div>
                     <li id="3">
                         <div class="shipping-form-state-content">
@@ -169,7 +164,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="<?= get_img() ?>aboutus-first-background-image.png" alt="Open Auto Transport" />
+                        <img loading="lazy" src="<?= get_img() ?>aboutus-first-background-image.png" alt="Open Auto Transport" />
 
                     </div>
                     <li id="5">
@@ -207,7 +202,7 @@
                     </li>
 
                     <div class="shipping-form-state-image">
-                        <img src="<?= get_img() ?>bus-shipping-1.jpg" />
+                        <img loading="lazy" src="<?= get_img() ?>bus-shipping-1.jpg" alt="Best open auto transport" />
 
                     </div>
                     <li id="7">
@@ -223,7 +218,7 @@
                 </ul>
 
                 <div class="shipping-form-state-image">
-                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673597414/Recent%20Uploads/Auto-Shipping-about-1_gydnd1.png" alt="Open Auto Transport" />
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673597414/Recent%20Uploads/Auto-Shipping-about-1_gydnd1.png" alt="Open Auto Transport" />
                 </div>
             </section>
 

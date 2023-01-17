@@ -176,8 +176,7 @@
                         <div class="blog-page-blog-section-grid-heading-container">
                             <h2>Enclosed Auto Transport Chicago(RAS) </h2>
                             <p>
-                                Chicago is a city which is located in the Midwest of the United States of America. With a population approaching 3 million, it is the third largest city in the United States. Chicago is a massive, active city
-                                .....
+                                Chicago is a city which is located in the Midwest of the United States of America. With a population approaching 3 million, it is the third largest city in the United States. Chicago is a massive, active city.....
                             </p>
                             <p class="comments-on-blogs-page-dynamic">21k Views</p>
                         </div>
@@ -194,7 +193,7 @@
                         <div class=" blog-page-blog-section-grid-heading-container">
                             <h2>Cost To Ship A Car In USA ? </h2>
                             <p>
-                                what is the average cost of transporting an automobile in the United States? Here are some examples of factors that can influence the cost of shipping a car .....
+                                what is the average cost of transporting an automobile in the United States? Here are some examples of factors that can influence the cost of shipping a car.....
                             </p>
                             <p class="comments-on-blogs-page-dynamic">210k Views</p>
                         </div>

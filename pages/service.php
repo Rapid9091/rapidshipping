@@ -132,7 +132,7 @@
       <div class="service-vehicle-content service-vehicle-content-01">
         <h2 class="page-left-sub-heading">TRANSPORT SERVICES FOR AUTO AUCTION</h2>
         <p>
-          Buying or selling a secondhand car at an auto auction may be a fascinating experience. However, once the dust has settled, the last bids have been placed, and the thrill of the auction has worn off, the practical issue of determining how to transfer the
+          Buying or selling a second-hand car at an auto auction may be a fascinating experience. However, once the dust has settled, the last bids have been placed, and the thrill of the auction has worn off, the practical issue of determining how to transfer the
           vehicle from the auction lot must be addressed.
 
         </p>
@@ -330,7 +330,7 @@
       <li>
         <div class="service-provide-section-content">
           <h6 class="page-left-sub-heading">SERVICE THAT IS COMPLETELY CUSTOMIZABLE AND PERSONAL </h6>
-          <p class="page-normal-text">Because each of our customers is unique, we provide a completely customized door-to-door car transportation service. Our conscientious shipping consultants will work with you to guarantee that it fulfills your requirements. They'll
+          <p class="page-normal-text">Because each of our customers is unique, we provide a completely customized door-to-door car transportation service. Our conscientious shipping consultants will work with you to guarantee that it fulfils your requirements. They'll
             be there to assist you during the full door-to-door car transportation process, so you'll never feel alone. We recognize the value of offering individual cognizance and strive to always surpass your expectations.</p>
 
         </div>
