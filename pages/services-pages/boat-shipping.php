@@ -158,13 +158,11 @@
                                 </li>
                                 <li style="list-style:disc !important;margin-left:15px;">
                                     <p class="para-2">What is the size of your boat?</p>
-
                                 </li>
                                 <li style="list-style:disc !important;margin-left:15px;">
                                     <p class="para-2">
                                         Is it a case of being 'overweight'?
                                     </p>
-
                                 </li>
                                 <li style="list-style:disc !important;margin-left:15px;">
                                     <p class="para-2">What are the dimensions of your boat in terms of height, length, and width?</p>
@@ -175,14 +173,9 @@
 
                                 <li style="list-style:disc !important;margin-left:15px;">
                                     <p class="para-2">Are there any unique factors we should be aware of while completing your request?</p>
-
                                 </li>
                             </ul>
-
-
-
                             </p>
-
 
                         </div>
                     </li>
