@@ -89,8 +89,9 @@
                 <li><a href="<?= home_path(); ?>blogs">Blogs</a></li>
                 <li><a href="<?= home_path(); ?>states">States</a></li>
                 <li><a href="<?= home_path(); ?>cars">Cars</a></li>
-                <!-- <li><a href="<?= home_path(); ?>sitemap.xml">Our Sitemap</a></li> -->
-                <li><a href="<?= home_path(); ?>auto-transport-carriers">More Companies Reviews</a></li>
+                <li><a href="<?= home_path(); ?>auto-transport-carriers">Reviews</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state">State to state</a></li>
+                <li><a href="<?= home_path(); ?>blogs/auto-shipping-calculator">Calculator</a></li>
 
             </ul>
         </div>
@@ -106,6 +107,7 @@
                 <li><a href="<?= home_path(); ?>blogs/ship-from-new-york-to-florida">How much does it cost to ship a car from Florida to New York</a></li>
                 <li><a href="<?= home_path(); ?>blogs/cost-to-ship-a-car">Cost to ship a car </a></li>
                 <li><a href="<?= home_path(); ?>blogs/enclosed-auto-transport-chicago">Enclosed Auto transport Chicago</a></li>
+
             </ul>
         </div>
 
@@ -116,6 +118,12 @@
                 <li><a href="<?= home_path(); ?>state-to-state/alabama-to-alaska">Alabama to Alaska</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/alabama-to-arizona">Alabama to Arizona</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/texas-to-california">Texas to California</a></li>
+                <li><a href="https://rapidautoshipping.com/state-to-state/texas-to-california">Texas to California</a></li>
+                <li><a href="https://rapidautoshipping.com/state-to-state/alabama-to-arizona">Alabama to Arizona</a></li>
+                <li><a href="https://rapidautoshipping.com/state-to-state/alabama-to-alaska">Alabama to Alaska</a></li>
+                <li><a href="https://rapidautoshipping.com/state-to-state/new-jersey-to-california">New Jersey to California</a></li>
+                <li><a href="https://rapidautoshipping.com/state-to-state/california-to-houston">California to Houston</a></li>
+                <li><a href="https://rapidautoshipping.com/state-to-state/california-to-arizona">California to Arizona</a></li>
             </ul>
         </div>
 
@@ -134,8 +142,7 @@
                 <li><a href="<?= home_path(); ?>blogs/travel-trailer-moving-service">Trailer Moving Services</a></li>
                 <li><a href="<?= home_path(); ?>blogs/how-can-i-move-a-motorcycle">How to ship a motorcycle</a></li>
                 <li><a href="<?= home_path(); ?>blogs/international-car-shipping-tips">Tips for international car shipping</a></li>
-                <li><a href="<?= home_path(); ?>blogs/car-shipping-documents">Car Shipping Documents for shipping </a></li>
-                <li><a href="<?= home_path(); ?>blogs/how-to-ship-a-car-overseas">How to ship a car overseas ?</a></li>
+
             </ul>
         </div>
 
@@ -160,7 +167,7 @@
         </div>
 
         <div class="footer-urls-grid-1">
-            <h3>Services we offer</h3>
+            <h3>Important Links</h3>
             <ul>
                 <li><a href="https://rapidautoshipping.com/services/multi-car-shipping">multi car shipping</a></li>
                 <li><a href="https://rapidautoshipping.com/services/heavy-hauling-truck">heavy hauling truck</a></li>
@@ -172,13 +179,12 @@
                 <li><a href="https://rapidautoshipping.com/services/tractor-transport">tractor transport</a></li>
                 <li><a href="https://rapidautoshipping.com/services/food-truck-shipping">food truck shipping</a></li>
                 <li><a href="https://rapidautoshipping.com/services/construction-equipment">construction equipment</a></li>
-
                 <li><a href="https://rapidautoshipping.com/services/car-transport-in-continental-us">car transport in continental us</a></li>
                 <li><a href="https://rapidautoshipping.com/services/car-transport-quotes">car transport quotes</a></li>
             </ul>
         </div>
         <div class="footer-urls-grid-1">
-            <h3>Services we offer</h3>
+            <h3>Quick Links</h3>
             <ul>
                 <li><a href="https://rapidautoshipping.com/services/hauling-oversize-load">hauling oversize load</a></li>
                 <li><a href="https://rapidautoshipping.com/services/line-haul-transport">line haul transport</a></li>
@@ -196,7 +202,7 @@
             </ul>
         </div>
         <div class="footer-urls-grid-1">
-            <h3>Services we offer</h3>
+            <h3>Services</h3>
             <ul>
                 <li><a href="https://rapidautoshipping.com/services/yacht-shipping-services">yacht shipping services</a></li>
                 <li><a href="https://rapidautoshipping.com/services/international-boat-transport">international boat transport</a></li>
