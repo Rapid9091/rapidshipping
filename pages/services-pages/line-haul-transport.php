@@ -7,11 +7,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Top rated line haul transport services - Rapid auto shipping</title>
-    <meta name="Top rated line haul transport services - Rapid auto shipping" />
+    <title>Top Rated Linehaul Transportation Services | Linehaul Trucking</title>
+    <meta name="Top Rated Linehaul Transportation Services | Linehaul Trucking" />
     <meta name="description" content="If you tell Rapid Auto Shipping ahead of time, maybe we will be able to offer you a good discount on your Line Haul Transport request with our best service." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Top rated line haul transport services - Rapid auto shipping" />
+    <meta property="og:title" content="Top Rated Linehaul Transportation Services | Linehaul Trucking" />
     <meta property="og:description" content="If you tell Rapid Auto Shipping ahead of time, maybe we will be able to offer you a good discount on your Line Haul Transport request with our best service." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/line-haul-transport" />
     <meta property="og:site_name" content="line haul transport - Rapid Auto Shipping" />
