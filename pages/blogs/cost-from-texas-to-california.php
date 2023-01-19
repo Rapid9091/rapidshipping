@@ -7,11 +7,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Cost to Ship Car from Texas to California | Get Quote!</title>
-    <meta name="Cost to Ship Car from Texas to California | Get Quote!" />
+    <title>Auto Transport Company Texas to California | +1-833-233-4447</title>
+    <meta name="Auto Transport Company Texas to California | +1-833-233-4447" />
     <meta name="description" content="How much does it cost to ship car from Texas to California? Click to read our full blog to know the best and affordable ways of ship from Texas to California." />
     <meta property="og:type" content="Blog" />
-    <meta property="og:title" content="Cost to Ship Car from Texas to California | Get Quote!" />
+    <meta property="og:title" content="Auto Transport Company Texas to California | +1-833-233-4447" />
     <meta property="og:description" content="How much does it cost to ship car from Texas to California? Click to read our full blog to know the best and affordable ways of ship from Texas to California." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/cost-from-texas-to-california" />
     <meta property="og:site_name" content="Shipping cost from Texas to California - Rapid Auto Shipping" />

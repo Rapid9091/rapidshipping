@@ -7,11 +7,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Best Military Vehicle Car Shipping Services | +1-833-233-4447</title>
-    <meta name="title" content="Best Military Vehicle Car Shipping Services | +1-833-233-4447">
+    <title>Best Military Vehicle Auto Transport Services | +1-833-233-4447</title>
+    <meta name="title" content="Best Military Vehicle Auto Transport Services | +1-833-233-4447">
     <meta name="description" content="Rapid Auto Shipping is The Best Military Vehicle Transport Service Provider for Military Members or Military Car Shipping. Get Quote Now" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Military Vehicle Car Shipping Services | +1-833-233-4447" />
+    <meta property="og:title" content="Best Military Vehicle Auto Transport Services | +1-833-233-4447" />
     <meta property="og:description" content="Rapid Auto Shipping is The Best Military Vehicle Transport Service Provider for Military Members or Military Car Shipping. Get Quote Now" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/military-shipping" />
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/military-shipping-background.png" />
