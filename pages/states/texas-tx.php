@@ -6,12 +6,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Auto Transport company | Car shipping services Texas | +1-833-233-4447</title>
-    <meta name="title" content="Texas Auto Transport company - Car shipping from /to Texas" />
-    <meta name="description" content="Need to transport a Car/Vehicle to or From Texas, You Need An Experienced Texas auto Transport Company That Means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping" />
+    <title>Texas Auto Shipping Service | (833) 233-4447</title>
+    <meta name="title" content="Texas Auto Shipping Service | (833) 233-4447" />
+    <meta name="description" content="Do you need to ship your car to Texas? We ship cars in Texas to all parts of the state at reasonable prices." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Texas Auto Transport company - Car shipping from /to Texas" />
-    <meta property="og:description" content="Need to transport a Car/Vehicle to or From Texas, You Need An Experienced Texas auto Transport Company That Means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping" />
+    <meta property="og:title" content="Texas Auto Shipping Service | (833) 233-4447" />
+    <meta property="og:description" content="Do you need to ship your car to Texas? We ship cars in Texas to all parts of the state at reasonable prices." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/texas-tx" />
     <meta property="og:site_name" content="Auto Transport Texas - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

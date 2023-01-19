@@ -7,12 +7,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>State to state transportation services across USA</title>
-    <meta name="State to state transportation services across USA" />
-    <meta name="description" content="Are you shifting to another state in the USA, Looking for state to state movers services? We are just a click away to help you in state to state movers." />
+    <title>State to State Car Transportation Services Across in USA</title>
+    <meta name="State to State Car Transportation Services Across in USA" />
+    <meta name="description" content="Do you want to relocate your car to a different state? We are only a click away from assisting you with state to state movers." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="State to state transportation services across USA" />
-    <meta property="og:description" content="Are you shifting to another state in the USA, Looking for state to state movers services? We are just a click away to help you in state to state movers." />
+    <meta property="og:title" content="State to State Car Transportation Services Across in USA" />
+    <meta property="og:description" content="Do you want to relocate your car to a different state? We are only a click away from assisting you with state to state movers." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/enclosed-auto-transport-chicago" />
     <meta property="og:site_name" content="state to state transport - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
