@@ -211,7 +211,7 @@
                     </li>
 
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?= get_img() ?>bus-shipping-1.jpg" alt="Shipping Car To Florida" />
+                        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/…/Recent%20Uploads/truck-856345_960_720_cl2sil.jpg" alt="Shipping Car To Florida" />
 
                     </div>
                     <li id="7">
