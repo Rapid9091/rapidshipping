@@ -14,7 +14,7 @@
     <meta property="og:title" content="Best Fifth Wheel Transport & Hauling Services in the US" />
     <meta property="og:description" content="Rapid Auto Shipping provides the best Fifth wheel transport services, used for towing heavy equipment such as tractors, construction vehicles etc." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/fifth-wheel-transport" />
-    <meta property="og:site_name" content="fifth wheel transport services - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Best Fifth Wheel Transport & Hauling Services in the US" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="5th wheel transport, fifth wheel transport service, fifth wheel transport services, 5th wheel transportation, 5th wheel transport services, 5th wheel transportation services near me, fifth wheel transportation, 5th wheel transportation services, 5th wheel delivery service, fifth wheel transport near me, 5th wheel trailer moving service, fifth wheel moving, fifth wheel hauling" />
     <meta property="article:tag" content="fifth wheel transport" />
