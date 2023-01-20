@@ -15,7 +15,7 @@
     <meta property="og:description" content="Rapid Auto Shipping is The Best Military Vehicle Transport Service Provider for Military Members or Military Car Shipping. Get Quote Now" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/military-shipping" />
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/military-shipping-background.png" />
-    <meta property="og:site_name" content="military car shipping - Rapid Auto Shipping " />
+    <meta property="og:site_name" content="Best Military Vehicle Auto Transport Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="military car shipping, military vehicle transport, military pcs vehicle shipping, military vehicle shipping, military auto transport, military vehicles transportation, military car shipping company, car shipping military, military car shipping companies, shipping vehicles military, car shipping for military">
     <meta property="article:tag" content="military car shipping" />
