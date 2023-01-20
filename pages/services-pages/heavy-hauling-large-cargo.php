@@ -14,7 +14,7 @@
     <meta property="og:title" content="Heavy Cargo Transportation Services." />
     <meta property="og:description" content="We ship any heavy cargo vehicle regardless of weight! Our transportation services are the best in the business." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/heavy-hauling-large-cargo" />
-    <meta property="og:site_name" content="heavy hauling large cargo - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Heavy Cargo Transportation Services" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="heavy freight, cargo hauling, heavy cargo transportation, heavy cargo, hauling cargo, heavy shipping companies, heavy goods shipping, shipping heavy items, cargo haul, how to ship weights, what is heavy goods shipping, heavey loads, how heavy is a cargo ship, shipping something heavy, cargo loads, best shipping for heavy items, how to ship heavy items, shipping large, cargo shipments, haul cargo" />
     <meta property="article:tag" content="heavy freight" />
