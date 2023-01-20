@@ -11,7 +11,7 @@
     <meta name="title" content="Top rated line haul transport services Company in USA - Rapid auto shipping" />
     <meta name="description" content="Rapid Auto Shipping offers you a good discount on your Line Haul Transport request with our best service. Get the best Line Haul Transport services with RAS." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Line haul transportation -- Rapid Auto Shipping" />
+    <meta property="og:title" content="Top rated line haul transport services Company in USA - Rapid auto shipping" />
     <meta property="og:description" content="Rapid Auto Shipping offers you a good discount on your Line Haul Transport request with our best service. Get the best Line Haul Transport services with RAS." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/line-haul-transportation" />
     <meta property="og:site_name" content="Top rated line haul transport services Company in USA - Rapid auto shipping" />
