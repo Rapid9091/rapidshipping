@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>We provide trusted customised container shipping services.</title>
+    <title>We provide trusted customised container shipping services</title>
     <meta name="title" content="We provide trusted customised container shipping services." />
     <meta name="description" content="Rapid Auto Shipping provides customised shipping containers solutions to fit your individual needs at an attractive price." />
     <meta property="og:type" content="website" />

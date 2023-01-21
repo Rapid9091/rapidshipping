@@ -83,7 +83,7 @@
             </p>
         </div>
         <div class="military-shipping-sixth-section-img">
-            <img src="<?= get_img() ?>home-picking-vehicle-1.png" alt="classic car transport" />
+            <img src="<?= get_img() ?>home-picking-vehicle-1.png" alt="state to state car shipping" />
         </div>
     </section>
     <section class="first-sub-service-page">

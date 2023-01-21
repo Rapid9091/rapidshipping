@@ -125,7 +125,7 @@
             HAULING SERVICES FOR custom shipping containers IN THEIR ENTIRETY
         </h2>
         <p>
-            That's correct! Heavy Haulers can transport your cargo container to any location in the United States or overseas, whether it is full or empty! With the best moving firm, you may ship heavy or empty 20', 40', or 45' containers. We provide movers for both local and cross-country relocation, including port to port, land to port, and port to land. We can help you with loads, permits, and more!
+            That's correct! Heavy Haulers can transport your cargo container to any location in the United States or overseas, whether it is full or empty! With the best moving firm, you may ship heavy or empty 20', 40', or 45' containers. We provide movers for both local and cross-country relocation, including port to port, land to port, and port to land. We can help you with loads, permits, and more!   
             <br><br>
             Cargo of various sizes and weights is transported using intermodal shipping containers. There are several types and sizes to choose from, each having its own shipping purpose. You must first determine the dimensions of your shipment before selecting a shipping container. Shipping container sizes follow the Industrial Standards Organization, or ISO, and are available in three lengths: 20 feet, 40 feet, and 45 feet. Cargo containers can be customised to fit the needs of international trade. There are a total of 12 distinct ISO containers to choose from.
         </p>

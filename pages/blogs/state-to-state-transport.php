@@ -148,7 +148,7 @@
                     <li class="list-0f-state-to-state-page">You will save money because you will not have to refuel your tank many times.</li>
                 </ul>
                 </p>
-                <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673604898/Recent%20Uploads/car-on-trailer-2_kpmqdx.jpg" alt="state to state auto transport">
+                <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673604898/Recent%20Uploads/car-on-trailer-2_kpmqdx.jpg" alt="state to state transportation">
 
             </div>
             <div class="new-blog-section-one">
@@ -172,7 +172,7 @@
 
                     You may easily verify this by first using a car shipping calculator to estimate the cost of your shipment.
                 </p>
-                <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673591711/Recent%20Uploads/giving-key.jpg" alt="cost of shipping car">
+                <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673591711/Recent%20Uploads/giving-key.jpg" alt="state to state transportation">
 
             </div>
             <div class="new-blog-section-one">

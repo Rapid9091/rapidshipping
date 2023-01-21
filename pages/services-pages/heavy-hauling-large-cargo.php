@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Heavy Cargo Transportation Services</title>
-    <meta name="title" content="Heavy Cargo Transportation Services." />
-    <meta name="description" content="We ship any heavy cargo vehicle regardless of weight! Our transportation services are the best in the business." />
+    <title>Top heavy hauling large cargo transportation services</title>
+    <meta name="title" content="Top heavy hauling large cargo transportation services." />
+    <meta name="description" content="Do you need to move large amounts of merchandise with heavy hauling large cargo? You are at right place because we are specializes in heavy cargo shipping." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Heavy Cargo Transportation Services." />
-    <meta property="og:description" content="We ship any heavy cargo vehicle regardless of weight! Our transportation services are the best in the business." />
+    <meta property="og:title" content="Top heavy hauling large cargo transportation services." />
+    <meta property="og:description" content="Do you need to move large amounts of merchandise with heavy hauling large cargo? You are at right place because we are specializes in heavy cargo shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/heavy-hauling-large-cargo" />
-    <meta property="og:site_name" content="Heavy Cargo Transportation Services" />
+    <meta property="og:site_name" content="heavy hauling large cargo - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="heavy freight, cargo hauling, heavy cargo transportation, heavy cargo, hauling cargo, heavy shipping companies, heavy goods shipping, shipping heavy items, cargo haul, how to ship weights, what is heavy goods shipping, heavey loads, how heavy is a cargo ship, shipping something heavy, cargo loads, best shipping for heavy items, how to ship heavy items, shipping large, cargo shipments, haul cargo" />
     <meta property="article:tag" content="heavy freight" />
