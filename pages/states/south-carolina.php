@@ -168,7 +168,7 @@
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://www.patriotspoint.org/" style="color:black;" title="South Carolina Auto transport ">USS Yorktown and Patriots Point</a>
+                </ion-icon><br> <a target="_blank" href="#" style="color:black;" title="South Carolina Auto transport ">USS Yorktown and Patriots Point</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">

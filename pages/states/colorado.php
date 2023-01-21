@@ -250,7 +250,7 @@
          <div class="offer-animator">
              <span>10% Offer</span>
          </div> <br>
-         <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b>Rapid Auto Shipping</b></span> </a> offers some special discounts to their valued customers to seniors and students who wish to transport their cars throughout the <a href="https://www.army.mil/" title="USA military info"><b><span class="california-state-span">U.S. Military</span></b></a> members can also take the benefits of these discounts. But those customers who do not relate to these categories can take our seasonal offers. Save your time, energy, and especially money by working with us.
+         <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b>Rapid Auto Shipping</b></span> </a> offers some special discounts to their valued customers to seniors and students who wish to transport their cars throughout the <a href="#" title="USA military info"><b><span class="california-state-span">U.S. Military</span></b></a> members can also take the benefits of these discounts. But those customers who do not relate to these categories can take our seasonal offers. Save your time, energy, and especially money by working with us.
          </p>
      </section>
      <!-- ----------------------------- -->
