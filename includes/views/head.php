@@ -60,3 +60,45 @@
 <a id="href3" target="_blank" href="https://updownradar.com">
     <img style="display:none;" alt="updown" src="https://www.2findlocal.com/Set/Icons/f.png">
 </a>
+
+
+<!-- schema GMV BY SHUBHAM -->
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "AutoDealer",
+        "name": "Rapid Auto Shipping",
+        "image": "",
+        "@id": "https://www.google.com/search?q=RAPID+AUTO+SHIPPING&stick=H4sIAAAAAAAA_-NgU1I1qLAwNzAwSQGSRinJJonJ5lYGFZZpxklpKaamJqYphiaJqRaLWIWDHAM8XRQcQ0P8FYI9PAMCPP3cAX3OyBg_AAAA&hl=en&mat=CQboPtW2E659ElcB8pgkaCrcCWQa73jO9jT4jRJf_9Uudf-BPXmz_5xKr1gDTGHSvImvLNlXZELZm8GmA73eAbXhAI_2btubgUNVlT9aXR5qY5ml-XVg07YAdku5UXMMD8E&authuser=0#scso=_meu3Y7yuJrCwptQPp_CzwAM_54:28,_-vW3Y4usLriuqtsPkMylyAo_61:0,_oD65Y6CCNaGgptQPkpyYoAk_55:27,_p0C5Y82IMralptQP35aq4AM_58:0,_5kG5Y-6QAcylqtsP2Z-FoAs_58:0,_TUS5Y62QFuayqtsP1sKCqA8_50:179,_7ay7Y7zxN42lptQPveaT4A0_46:0,_ZRa9Y8vsEYOcptQP0au8yAc_54:331,_du7AY8mjHvelptQPscOz6A0_47:0,_-j7CY7mWK46YptQPnuu_uA0_62:483,_1O3HY5u_JYiJptQP956X8AY_76:483",
+        "url": "https://rapidautoshipping.com/",
+        "telephone": "+1 (833) 233-4447",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "906 S Main Street",
+            "addressLocality": "Silverton",
+            "addressRegion": "TX",
+            "postalCode": "79257",
+            "addressCountry": "US"
+        },
+        "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+        },
+        "sameAs": [
+            "https://www.facebook.com/people/Rapid-Auto-Shipping/100077073625103/",
+            "https://twitter.com/ShippingRapid"
+        ]
+    }
+</script>
+<!-- END -->
