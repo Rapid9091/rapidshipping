@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Hauling oversize load trucks services - Rapid auto shipping</title>
-    <meta name="Hauling oversize load trucks services - Rapid auto shipping" />
+    <meta name="title" content="Hauling oversize load trucks services - Rapid auto shipping" />
     <meta name="description" content="Any cargo that exceeds the permissible size,carried by Hauling oversize load truck services, we deal with all permissible issues and delivered your cargo safely" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Hauling oversize load trucks services - Rapid auto shipping" />
