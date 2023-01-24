@@ -6,14 +6,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Auto Transport company | Car shipping services Texas | +1-833-233-4447</title>
-    <meta name="title" content="Texas Auto Transport company - Car shipping from /to Texas" />
-    <meta name="description" content="Need to transport a Car/Vehicle to or From Texas, You Need An Experienced Texas auto Transport Company That Means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping" />
+    <title>Texas Auto transport Service | (833) 233-4447</title>
+    <meta name="title" content="Texas Auto transport Service | (833) 233-4447" />
+    <meta name="description" content="Do you need to auto transport texas? We ship cars in Texas to all parts of the state at reasonable prices." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Texas Auto Transport company - Car shipping from /to Texas" />
-    <meta property="og:description" content="Need to transport a Car/Vehicle to or From Texas, You Need An Experienced Texas auto Transport Company That Means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping" />
+    <meta property="og:title" content="Texas Auto transport Service | (833) 233-4447" />
+    <meta property="og:description" content="Do you need to auto transport texas? We ship cars in Texas to all parts of the state at reasonable prices." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/texas-tx" />
-    <meta property="og:site_name" content="Auto Transport Texas - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Texas Auto transport Service | (833) 233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="texas car shipping, vehicle shipping texas, car transport texas, ship my car to texas, car shipping companies houston, auto transport austin tx, texas auto transport, car shipping texas, vehicle transport texas, auto shipping texas, shipping car from california to texas" />
     <meta property="article:tag" content="texas car shipping" />
@@ -149,9 +149,9 @@
             </form>
             <div class="pop-backgroud" id="pop-up-login">
                 <section class="profile-details-section" id="form">
-                    <img src="<?= get_img() ?>/cross-mark.png" onclick="hide_pop_up()" class="cross-mark" alt="rapid-auto-shipping" />
+                    <img src="<?= get_img() ?>/cross-mark.png" onclick="hide_pop_up()" class="cross-mark" alt="Texas Auto Transport" />
 
-                    <img src="<?= get_img() ?>/check-mark.png" alt="rapid-auto-shipping" />
+                    <img src="<?= get_img() ?>/check-mark.png" alt="Texas Auto Transport" />
                     <h2>Thank You</h2>
                     <p>For Getting an Immediate Quote Call <br><a href="<?= home_path(); ?>"><b>Rapid Auto Shipping </b></a> now</p>
                     <a href="tel:+123 12345678">+1833-233-4447</a>
@@ -195,7 +195,7 @@
                 </p>
             </div>
             <div class="first-california-state-grid-box">
-                <h3 class="utility_sub-heading">FAQ's while Auto Transport in<span class="california-state-span"> Texas TX</span></h3>
+                <h3 class="utility_sub-heading">FAQ's while Auto Transport <span class="california-state-span"> Texas TX</span></h3>
                 <ul>
                     <li><a title="Required cost while shipping from texas" href="#required_cost_while_shipping_texas">What's the cost for Texas Auto Transportation Services ?</a></li>
                     <li><a title="Discounts while shipping from texas" href="#discount_cost_while_shipping_texas">Discounts you may avail while shipping to and from Texas ?</a></li>
@@ -220,7 +220,7 @@
 
     <section class="two-california-state " id="famous_attracions_in_Texas">
         <h2 class="utility_main-heading">Some famous attractions in Texas- TX</h2>
-        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666352440/Recent%20Uploads/austin-texas-1756159_1280_ikeqei.jpg" alt="Texas Auto Transport company">
+        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666352440/Recent%20Uploads/austin-texas-1756159_1280_ikeqei.jpg" alt="auto transport texas">
         <p class=" text">Texas, the country's second-largest state, offers a wealth of entertainment and adventure choices. Geographically and culturally diverse, the state offers a diverse range of attractions and activities. </p>
         <ul class="utility_grid">
             <li>
@@ -441,7 +441,7 @@
                 How to get the best <span class="california-state-span"> quote </span>for your shipping
             </h2>
             <p class="text">
-                Rapid Auto Shipping is best in Texas Auto Transport and will make shipping your car to or from Texas as simple as possible. Rapid Auto Shipping is a Car Transport Texas that specializes in Auto transport Austin, Dallas Auto Transport, Auto Transport Houston, TX as well as other locations in the United States. In a matter of seconds, we can provide you with an accurate quote for Shipping car from California to texas. All you have to do is fill out our simple online form and you'll receive a free with our service, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent who will assist you with everything. You will not be placed on hold. So don't waste any time and fill out our form to get a free quote, or give us a call and we'll take care of everything; either way, dealing with Rapid Auto Shipping is a win-win situation. Our prices are always Affordable denotes that everything is done on time and on budget without any problems.
+                Rapid Auto Shipping is best in Texas Auto Transport and will make shipping your car to or from Texas as simple as possible. Rapid Auto Shipping is a Auto Transport Texas that specializes in Auto transport Austin, Dallas Auto Transport, Auto Transport Houston, TX as well as other locations in the United States. In a matter of seconds, we can provide you with an accurate quote for Shipping car from California to texas. All you have to do is fill out our simple online form and you'll receive a free with our service, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent who will assist you with everything. You will not be placed on hold. So don't waste any time and fill out our form to get a free quote, or give us a call and we'll take care of everything; either way, dealing with Rapid Auto Shipping is a win-win situation. Our prices are always Affordable denotes that everything is done on time and on budget without any problems.
             </p>
             <div class="five-california-state-box-btn utility_grid-center">
                 <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
@@ -483,7 +483,7 @@
                     <button><a href="<?= home_path(); ?>services/enclosed-shipping" title="open auto trnasport description">Know More</a></button>
                 </div>
                 <div class="sixth-california-state-gird-1-img sixth-california-state-gird-1-img-special ">
-                    <img loading="lazy" src="<?= get_img() ?>Enclosed-Transport-img.png" alt="Texas Car shipping services">
+                    <img loading="lazy" src="<?= get_img() ?>Enclosed-Transport-img.png" alt="auto transport texas">
                 </div>
             </div>
             <div class="sixth-california-state-gird-1 utility_grid" id="luxury_and_classic_car_shipping_texas">
@@ -570,7 +570,7 @@
                     OPERABLE VS INOPERABLE VEHICLE
                 </h2>
                 <p class="text">
-                    A vehicle is considered for Auto Transport in Texas that is operable is one that is in good operating order and can travel forward and backward without the assistance of a human. Vehicles that are unable to move are classified as inoperable or non-running. In this case, a winch will be necessary, which could result in additional costs. To put it another way, the customer will be charged more for this additional service by the driver. Not every transportation firm, however, provides this service with non-operational cars.
+                    A vehicle is considered for Auto Transport Texas that is operable is one that is in good operating order and can travel forward and backward without the assistance of a human. Vehicles that are unable to move are classified as inoperable or non-running. In this case, a winch will be necessary, which could result in additional costs. To put it another way, the customer will be charged more for this additional service by the driver. Not every transportation firm, however, provides this service with non-operational cars.
                 </p>
             </div>
         </div>

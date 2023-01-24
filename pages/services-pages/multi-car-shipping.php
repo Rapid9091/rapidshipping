@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Affordable Multi Car shipping services in USA.</title>
-    <meta name="Affordable Multi Car shipping services in USA." />
+    <title>Top Rated Multi Car Transport Services | Auto Shipping Services</title>
+    <meta name="Top Rated Multi Car Transport Services | Auto Shipping Services" />
     <meta name="description" content="Rapid Auto Shipping provides Multi Car transport services at an affordable price with our expertise vehicles safely to their destination." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Affordable Multi Car shipping services in USA." />
+    <meta property="og:title" content="Top Rated Multi Car Transport Services | Auto Shipping Services" />
     <meta property="og:description" content="Rapid Auto Shipping provides Multi Car transport services at an affordable price with our expertise vehicles safely to their destination." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/multi-car-shipping" />
-    <meta property="og:site_name" content="Multi Car shipping - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Top Rated Multi Car Transport Services | Auto Shipping Services" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="multi car transport, multiple car shipping quotes, multiple vehicle transport, shipping multiple cars, multi car shipping, multiple auto transport quotes, multiple car transport quotes, multi car transport companies, multiple auto shipping quotes, multiple car carrier" />
     <meta property="article:tag" content="multi car transport" />
