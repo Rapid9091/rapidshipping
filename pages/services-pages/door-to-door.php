@@ -136,7 +136,7 @@
                             <br>
                             <h3>Step 1: Request a price and arrange for a pickup.</h3>
 
-                            <p class="para-2">To determine the cost of our door-to-door auto transfer service, use our auto transport calculator. It's as simple as a cup of cake. You simply provide some information (such as trailer type, vehicle condition, make and model, and pick-up/drop-off locations) and receive a quotation in seconds.</p>
+                            <p class="para-2">To determine the cost of our door-to-door auto transport service, use our auto transport calculator. It's as simple as a cup of cake. You simply provide some information (such as trailer type, vehicle condition, make and model, and pick-up/drop-off locations) and receive a quotation in seconds.</p>
                             <br>
                             <h3>Step 2: We come to your location and pick up your vehicle.</h3>
 

@@ -191,7 +191,7 @@
                 <li><a href="https://rapidautoshipping.com/services/cost-to-ship-a-bus">cost to ship a bus</a></li>
                 <li><a href="https://rapidautoshipping.com/services/open-car-shipping">open car shipping</a></li>
                 <li><a href="https://rapidautoshipping.com/services/auto-auction-shipping">auto auction shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/cutomized-container-shipping">cutomized container shipping</a></li>
+                <li><a href="https://rapidautoshipping.com/services/customized-container-shipping">customized container shipping</a></li>
                 <li><a href="https://rapidautoshipping.com/services/state-to-state-car-shipping">state to state car shipping</a></li>
                 <li><a href="https://rapidautoshipping.com/services/car-transport">car transport</a></li>
                 <li><a href="https://rapidautoshipping.com/services/farm-equipment">farm equipment</a></li>
