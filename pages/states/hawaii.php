@@ -53,6 +53,12 @@
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
+
+        }
+
+        .third-section-content-text {
+            font-size: 20px !important;
+
         }
     </style>
 </head>
