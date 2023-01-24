@@ -17,6 +17,7 @@
 h1 > span,
 h2 > span,
 h4 > span,
+h6 > span,
 .heading-1 > span {
   color: var(--nav-color);
 }
@@ -205,8 +206,10 @@ h4 > span,
   background-color: var(--nav-color);
 }
 
-.orange-strip > h2 {
+.orange-strip > h2,
+.orange-strip > h6 {
   font-weight: 600;
+  font-size: 22px;
 }
 
 /* third section starts here */
@@ -312,7 +315,8 @@ div[class*="special-red-btn"] {
   height: 250px;
 }
 
-.fifth-state-to-state-grid-content > h2 {
+.fifth-state-to-state-grid-content > h2,
+.fifth-state-to-state-grid-content > h6 {
   font-size: 25px;
 }
 
@@ -447,11 +451,13 @@ div[class*="special-red-btn"] {
     bottom: 1 0%;
     left: 85%;
   }
-  .orange-strip > h2 {
+  .orange-strip > h2,
+  .orange-strip > h6 {
     font-size: 18px;
     font-weight: 500;
   }
-  .fifth-state-to-state-grid-content > h2 {
+  .fifth-state-to-state-grid-content > h2,
+  .fifth-state-to-state-grid-content > h6 {
     font-size: 15px;
   }
   .sixth-state-to-state-grid-1 > li {
@@ -497,7 +503,8 @@ div[class*="special-red-btn"] {
   padding: 0 10% 0% 10%;
 }
 
-.all-state-name-pages > h2 {
+.all-state-name-pages > h2,
+.all-state-name-pages > h6 {
   text-align: center;
   padding: 1%;
 }
