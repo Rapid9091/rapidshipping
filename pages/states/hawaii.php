@@ -57,7 +57,7 @@
         }
 
         .third-section-content-text {
-            font-size: 20px !important;
+            font-size: 20px;
 
         }
     </style>
