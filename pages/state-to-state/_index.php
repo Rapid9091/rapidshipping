@@ -68,14 +68,14 @@ if (isset($_GET['page_id'])) {
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-                <p class="heading-1"><?= $data['page_h2'] ?></p>
+                <h2 class="heading-1"><?= $data['page_h2'] ?></h2>
                 <p class="para-2"><?= $data['page_about_2'] ?> </p>
             </div>
 
             <div class="points-div " id="top-section">
-                <h2 class="heading-2">
+                <h5 class="heading-2">
                     What's in this article?
-                </h2>
+                </h5>
 
 
                 <ul class="points-div-ul">
@@ -110,7 +110,7 @@ if (isset($_GET['page_id'])) {
                         foreach ($json_decoded as $result) {
                             echo '<li id="' . $result->index . '">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">' . $result->heading . '</h2>
+                            <h4 class="heading-1">' . $result->heading . '</h4>
                             <p class="para-2">
                                 ' . $result->about . '
                             </p>
@@ -123,7 +123,7 @@ if (isset($_GET['page_id'])) {
 
                     <li id="step">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">How to ship Vehicle <span><?= $data['state_form'] . " to " . $data['state_to'] ?></span>?</h2>
+                            <h3 class="heading-1">How to ship Vehicle <span><?= $data['state_form'] . " to " . $data['state_to'] ?></span>?</h3>
                             <p class="para-2">It's as simple as 1-2-3 to ship a car from <?= $data['state_form'] . " to " . $data['state_to'] ?> with Rapid Auto Shipping.
                                 <br><br>
                                 <b>Step 1:</b> Get a quick auto shipment quote for <?= $data['state_form'] . " to " . $data['state_to'] ?> Auto Shipping and schedule a pickup time that works for you.
