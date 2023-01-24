@@ -118,7 +118,7 @@
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1"> LINEHAUL TRANSPORTATION</span>
                             </h2>
-                            <p class="para-2"> If you notify Rapid Auto Shipping ahead of time about your Line Haul Transportation request, you may be able to earn a significant discount on your transaction. It will then be simple for Rapid Auto Shipping to arrange for a Line Haul Transporter. Rapid Auto Shipping believes in providing clients and consumers with the most cost-effective service possible. When compared to any other <a href="https://rapidautoshipping.com/">transport service company</a> on the market, Rapid Auto Shipping offers the most benefits for Line Haul Transporting.
+                            <p class="para-2"> If you notify Rapid Auto Shipping ahead of time about your Line Haul Transportation request, you may be able to earn a significant discount on your transaction. It will then be simple for Rapid Auto Shipping to arrange for a Line Haul Transporter. Rapid Auto Shipping believes in providing clients and consumers with the most cost-effective service possible. When compared to any other <a href="https://rapidautoshipping.com/">transport service company</a> on the market, Rapid Auto Shipping offers the most benefits for Line Haul Transportation.
                             </p>
                             <div class="shipping-form-state-image">
                                 <img loading="lazy" src="<?= get_img() ?>isuzu-trucks-background.jpg" alt="Line haul transportation" />
@@ -176,7 +176,7 @@
                                 <br>
                                 <br><b>Cost savings</b><br>
 
-                                Carriers can track statistics for freight movement via line-haul carrier tracking. These analytics provide useful information on the shipment process, allowing the carrier to cut down on <a href="https://rapidautoshipping.com/blogs/cost-to-ship-a-car">transportation expenses</a>. These savings can be passed on to the client in the form of lower delivery fees. For example, if a carrier monitors the performance of truck tires and determines that Tire A is more fuel-efficient than Tire B, each vehicle's tires can be replaced for a more fuel-efficient fleet, saving money on maintenance expenditures.
+                                Carriers can track statistics for freight movement via line-haul carriers tracking. These analytics provide useful information on the shipment process, allowing the carrier to cut down on <a href="https://rapidautoshipping.com/blogs/cost-to-ship-a-car">transportation expenses</a>. These savings can be passed on to the client in the form of lower delivery fees. For example, if a carrier monitors the performance of truck tires and determines that Tire A is more fuel-efficient than Tire B, each vehicle's tires can be replaced for a more fuel-efficient fleet, saving money on maintenance expenditures.
                                 <br>
                                 <br><b>Communication between carriers and providers should be improved.</b><br>
 
