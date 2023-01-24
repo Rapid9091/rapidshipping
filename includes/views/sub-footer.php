@@ -118,12 +118,12 @@
                 <li><a href="<?= home_path(); ?>state-to-state/alabama-to-alaska">Alabama to Alaska</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/alabama-to-arizona">Alabama to Arizona</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/texas-to-california">Texas to California</a></li>
-                <li><a href="https://rapidautoshipping.com/state-to-state/texas-to-california">Texas to California</a></li>
-                <li><a href="https://rapidautoshipping.com/state-to-state/alabama-to-arizona">Alabama to Arizona</a></li>
-                <li><a href="https://rapidautoshipping.com/state-to-state/alabama-to-alaska">Alabama to Alaska</a></li>
-                <li><a href="https://rapidautoshipping.com/state-to-state/new-jersey-to-california">New Jersey to California</a></li>
-                <li><a href="https://rapidautoshipping.com/state-to-state/california-to-houston">California to Houston</a></li>
-                <li><a href="https://rapidautoshipping.com/state-to-state/california-to-arizona">California to Arizona</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/texas-to-california">Texas to California</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/alabama-to-arizona">Alabama to Arizona</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/alabama-to-alaska">Alabama to Alaska</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/new-jersey-to-california">New Jersey to California</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/california-to-houston">California to Houston</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/california-to-arizona">California to Arizona</a></li>
             </ul>
         </div>
 
@@ -151,17 +151,17 @@
         <div class="footer-urls-grid-1">
             <p class="footer-grid-headings">Services we offer</p>
             <ul>
-                <li><a href="https://rapidautoshipping.com/services/rail-shipping">rail shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/enclosed-shipping">enclosed shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/door-to-door">door to door</a></li>
-                <li><a href="https://rapidautoshipping.com/services/motor-cycle-shipping">motor cycle shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/snow-bird-shipping">snow bird shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/boat-shipping">boat shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/military-shipping">military shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/classic-car-shipping">classic car shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/heavy-equipment-shipping">heavy equipment shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/lowboy-shipping">lowboy shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/car-shipping-companies">car shipping companies</a></li>
+                <li><a href="<?= home_path(); ?>services/rail-shipping">rail shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/enclosed-shipping">enclosed shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/door-to-door">door to door</a></li>
+                <li><a href="<?= home_path(); ?>services/motor-cycle-shipping">motor cycle shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/snow-bird-shipping">snow bird shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/boat-shipping">boat shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/military-shipping">military shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/classic-car-shipping">classic car shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/heavy-equipment-shipping">heavy equipment shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/lowboy-shipping">lowboy shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/car-shipping-companies">car shipping companies</a></li>
 
             </ul>
         </div>
@@ -169,52 +169,52 @@
         <div class="footer-urls-grid-1">
             <h3>Important Links</h3>
             <ul>
-                <li><a href="https://rapidautoshipping.com/services/multi-car-shipping">multi car shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/heavy-hauling-truck">heavy hauling truck</a></li>
-                <li><a href="https://rapidautoshipping.com/services/fifth-wheel-transport">fifth wheel transport</a></li>
-                <li><a href="https://rapidautoshipping.com/services/car-shipping-services">car shipping services</a></li>
-                <li><a href="https://rapidautoshipping.com/services/rv-transport">rv transport</a></li>
-                <li><a href="https://rapidautoshipping.com/services/heavy-hauling-large-cargo">heavy hauling large cargo</a></li>
-                <li><a href="https://rapidautoshipping.com/services/car-transport-dealership">car transport dealership</a></li>
-                <li><a href="https://rapidautoshipping.com/services/tractor-transport">tractor transport</a></li>
-                <li><a href="https://rapidautoshipping.com/services/food-truck-shipping">food truck shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/construction-equipment">construction equipment</a></li>
-                <li><a href="https://rapidautoshipping.com/services/car-transport-in-continental-us">car transport in continental us</a></li>
-                <li><a href="https://rapidautoshipping.com/services/car-transport-quotes">car transport quotes</a></li>
+                <li><a href="<?= home_path(); ?>services/multi-car-shipping">multi car shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/heavy-hauling-truck">heavy hauling truck</a></li>
+                <li><a href="<?= home_path(); ?>services/fifth-wheel-transport">fifth wheel transport</a></li>
+                <li><a href="<?= home_path(); ?>services/car-shipping-services">car shipping services</a></li>
+                <li><a href="<?= home_path(); ?>services/rv-transport">rv transport</a></li>
+                <li><a href="<?= home_path(); ?>services/heavy-hauling-large-cargo">heavy hauling large cargo</a></li>
+                <li><a href="<?= home_path(); ?>services/car-transport-dealership">car transport dealership</a></li>
+                <li><a href="<?= home_path(); ?>services/tractor-transport">tractor transport</a></li>
+                <li><a href="<?= home_path(); ?>services/food-truck-shipping">food truck shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/construction-equipment">construction equipment</a></li>
+                <li><a href="<?= home_path(); ?>services/car-transport-in-continental-us">car transport in continental us</a></li>
+                <li><a href="<?= home_path(); ?>services/car-transport-quotes">car transport quotes</a></li>
             </ul>
         </div>
         <div class="footer-urls-grid-1">
             <h3>Quick Links</h3>
             <ul>
-                <li><a href="https://rapidautoshipping.com/services/hauling-oversize-load">hauling oversize load</a></li>
-                <li><a href="https://rapidautoshipping.com/services/line-haul-transport">line haul transport</a></li>
-                <li><a href="https://rapidautoshipping.com/services/cost-to-ship-a-bus">cost to ship a bus</a></li>
-                <li><a href="https://rapidautoshipping.com/services/open-car-shipping">open car shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/auto-auction-shipping">auto auction shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/customized-container-shipping">customized container shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/state-to-state-car-shipping">state to state car shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/car-transport">car transport</a></li>
-                <li><a href="https://rapidautoshipping.com/services/farm-equipment">farm equipment</a></li>
-                <li><a href="https://rapidautoshipping.com/services/cargo-vans-services">cargo vans services</a></li>
+                <li><a href="<?= home_path(); ?>services/hauling-oversize-load">hauling oversize load</a></li>
+                <li><a href="<?= home_path(); ?>services/line-haul-transport">line haul transport</a></li>
+                <li><a href="<?= home_path(); ?>services/cost-to-ship-a-bus">cost to ship a bus</a></li>
+                <li><a href="<?= home_path(); ?>services/open-car-shipping">open car shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/auto-auction-shipping">auto auction shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/cutomized-container-shipping">customized container shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/state-to-state-car-shipping">state to state car shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/car-transport">car transport</a></li>
+                <li><a href="<?= home_path(); ?>services/farm-equipment">farm equipment</a></li>
+                <li><a href="<?= home_path(); ?>services/cargo-vans-services">cargo vans services</a></li>
 
-                <li><a href="https://rapidautoshipping.com/services/caterpillar-equipment-shipping">caterpillar equipment shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/containerized-freight-hauling">containerized freight hauling</a></li>
+                <li><a href="<?= home_path(); ?>services/caterpillar-equipment-shipping">caterpillar equipment shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/containerized-freight-hauling">containerized freight hauling</a></li>
             </ul>
         </div>
         <div class="footer-urls-grid-1">
             <h3>Services</h3>
             <ul>
-                <li><a href="https://rapidautoshipping.com/services/yacht-shipping-services">yacht shipping services</a></li>
-                <li><a href="https://rapidautoshipping.com/services/international-boat-transport">international boat transport</a></li>
-                <li><a href="https://rapidautoshipping.com/services/ambulance-shipping">ambulance shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/international-heavy-equipment-shipping">international heavy equipment shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/hauling-isuzu-npr-truck">hauling isuzu npr truck</a></li>
-                <li><a href="https://rapidautoshipping.com/services/komatsu-equipment-shipping">komatsu equipment shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/transporting-case-trucks">transporting case trucks</a></li>
-                <li><a href="https://rapidautoshipping.com/services/new-holland-tractor">new holland tractor</a></li>
-                <li><a href="https://rapidautoshipping.com/services/forklift-transportation-company">forklift transportation company</a></li>
-                <li><a href="https://rapidautoshipping.com/services/international-car-shipping">international car shipping</a></li>
-                <li><a href="https://rapidautoshipping.com/services/international-motorcycle-shipping">international motorcycle shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/yacht-shipping-services">yacht shipping services</a></li>
+                <li><a href="<?= home_path(); ?>services/international-boat-transport">international boat transport</a></li>
+                <li><a href="<?= home_path(); ?>services/ambulance-shipping">ambulance shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/international-heavy-equipment-shipping">international heavy equipment shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/hauling-isuzu-npr-truck">hauling isuzu npr truck</a></li>
+                <li><a href="<?= home_path(); ?>services/komatsu-equipment-shipping">komatsu equipment shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/transporting-case-trucks">transporting case trucks</a></li>
+                <li><a href="<?= home_path(); ?>services/new-holland-tractor">new holland tractor</a></li>
+                <li><a href="<?= home_path(); ?>services/forklift-transportation-company">forklift transportation company</a></li>
+                <li><a href="<?= home_path(); ?>services/international-car-shipping">international car shipping</a></li>
+                <li><a href="<?= home_path(); ?>services/international-motorcycle-shipping">international motorcycle shipping</a></li>
             </ul>
         </div>
 
