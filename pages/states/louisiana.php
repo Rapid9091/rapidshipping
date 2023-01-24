@@ -81,7 +81,7 @@
         <div class="first-california-state-grid utility_grid">
             <div class="first-california-state-grid " id="description_while_shipping_Louisiana">
                 <p class="text">
-                    We have experts and experienced staff at our Car transport <a href="https://en.wikipedia.org/wiki/Louisiana"><span class="california-state-span"><b>Louisiana</b></span></a> services, You dont have to need worry about your vehicle after handover to us for shipping. We do also cover in services shipping from Illinois to Louisiana or auto transport New Orleans. Louisiana is a state in the United States Deep South and South Central regions with a population of 4.6 million. It is the 31st largest state in size, with a total area (land and water) of 52,069.13 square miles (135,382 km2) and the 25th most populous and 19th smallest state among the 50 United States. <a href="https://www.louisiana.gov/"><span class="california-state-span"><b>Louisiana</b></span></a> is bordered by Texas on the west, Arkansas on the north, Mississippi on the east, and the Gulf of Mexico on the south. The Mississippi River runs along much of the state's eastern border.
+                    We have experts and experienced staff at our Car transport <a target="_blank" href="https://en.wikipedia.org/wiki/Louisiana"><span class="california-state-span"><b>Louisiana</b></span></a> services, You dont have to need worry about your vehicle after handover to us for shipping. We do also cover in services shipping from Illinois to Louisiana or auto transport New Orleans. Louisiana is a state in the United States Deep South and South Central regions with a population of 4.6 million. It is the 31st largest state in size, with a total area (land and water) of 52,069.13 square miles (135,382 km2) and the 25th most populous and 19th smallest state among the 50 United States. <a target="_blank" href="https://www.louisiana.gov/"><span class="california-state-span"><b>Louisiana</b></span></a> is bordered by Texas on the west, Arkansas on the north, Mississippi on the east, and the Gulf of Mexico on the south. The Mississippi River runs along much of the state's eastern border.
 
                     Louisiana is the only state in the United States with parishes, which are identical to counties, making it one of only two states in the country without counties (the other being Alaska). The state capital is Baton Rouge, while the largest city is New Orleans. Because of New Orleans, Louisiana Auto Transport services are relatively easy to come by, which isn't unexpected. Carriers want to operate routes between and within large cities with sprawling metro areas. There's no doubt that New Orleans fits the bill. However, there are a few things to know regarding Louisiana Auto Transport, particularly the state's vast rural areas. Louisiana is notorious for its wetlands and bayous, which make shipping a car difficult. However, shipping a car to the region is easier in larger cities than in smaller ones.
                     <br><br>
@@ -128,19 +128,19 @@
         <ul class="utility_grid">
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="#" style="color:black;" title="Louisiana Auto transport ">New Orleans' French Quarter</a>
+                </ion-icon><br> <a href="#" style="color:black;" title="Louisiana Auto transport ">New Orleans' French Quarter</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="#" style="color:black;" title="Louisiana Auto transport ">National WWII Museum</a>
+                </ion-icon><br> <a href="#" style="color:black;" title="Louisiana Auto transport ">National WWII Museum</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="#" style="color:black;" title="Louisiana Auto transport ">Mardi Gras</a>
+                </ion-icon><br> <a href="#" style="color:black;" title="Louisiana Auto transport ">Mardi Gras</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="#" style="color:black;" title="Louisiana Auto transport ">Melrose Plantation</a>
+                </ion-icon><br> <a href="#" style="color:black;" title="Louisiana Auto transport ">Melrose Plantation</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
@@ -149,7 +149,7 @@
 
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="#" style="color:black;" title="Louisiana Auto transport ">Laura Plantation</a>
+                </ion-icon><br> <a href="#" style="color:black;" title="Louisiana Auto transport ">Laura Plantation</a>
             </li>
 
         </ul>
@@ -177,7 +177,7 @@
         <div class="third-california-state-grid utility_grid utility_grid-3">
             <div class="third-california-state-grid-1">
                 <ion-icon name="card-sharp"></ion-icon>
-                <h3 class="sub-heading">How to get price ?</h3>
+                <h3 class="sub-heading">How to get price?</h3>
                 <p class="text">To get the instant cost from best Louisiana Auto Transport company you can directly contact us at <a href="tel:-833-233-4447" title="Call Now For Auto Transport USA"><span class="california-state-span">:+1-833-233-4447</span> </a> our executives will make sure that you will get the best quote and most of the discounts for your shipping .</p>
                 <div class="third-california-state-grid-1-btn">
                     <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
@@ -287,7 +287,7 @@
                     <p class="text">
                         Door-to-door service is sometimes known as house-to-house service, which is a key distinction. This is the most convenient service because your automobile will be picked up and brought to your for all intents and purposes specific preferred destination without any worry or fuss, which is quite crucial. Furthermore, Rapid Auto Shipping can offer you door-to-door service in all 50 states of the United States without charging you a single penny extra. The driver essentially arrives at the address of your choosing and picks up your wheels before dropping them off at just your chosen precise spot, whether it is a dealership, business, or residential secure location.
                     </p>
-                    <button><a target="_blank" href="<?= home_path(); ?>services/door-to-door" title="Door to Door car shipping services Louisiana">Know More</a></button>
+                    <button><a href="<?= home_path(); ?>services/door-to-door" title="Door to Door car shipping services Louisiana">Know More</a></button>
                 </div>
             </div>
         </div>

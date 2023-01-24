@@ -118,12 +118,10 @@
   flex-direction: column;
   margin-left: 10px;
 }
-
 .company-reviews-box-star > i {
   color: var(--nav-color);
   font-size: 14px;
 }
-
 .company-reviews-box-content {
   padding: 5%;
 }

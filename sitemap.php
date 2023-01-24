@@ -111,7 +111,6 @@ function
 get_dir_row($info, $list)
 {
 
-
     $dir = $info['dir'];
     $priority = $info['priority'];
     $index = $info['indexFileName'];
@@ -122,7 +121,6 @@ get_dir_row($info, $list)
 
 
     foreach ($list as $item) {
-
 
         if ($index != $item) {
             $file = str_replace(".php", "", $item);
