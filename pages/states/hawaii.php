@@ -170,7 +170,7 @@
             <div class="third-california-state-grid-1">
                 <ion-icon name="timer-sharp"></ion-icon>
                 <h3 class="sub-heading">24 * 7 customer support</h3>
-                <p class="text">Our team of professionals at best Hawaii Auto Transport company work around the clock, 365 days a year, to ensure our car shipping service runs like clockwork. and provide you Assisstance 24*7.</p>
+                <p class="text">Our team of professionals at best Hawaii Auto Transport company work around the clock, 365 days a year, to ensure our car shipping service runs like clockwork. and provide you Assistance 24*7.</p>
                 <div class="third-california-state-grid-1-btn">
                     <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
@@ -232,7 +232,7 @@
 
     <section class="sixth-california-state">
         <h2 class="utility_main-heading">
-            Some Special<span class="california-state-span"> shipping </span> requirments
+            Some Special<span class="california-state-span"> shipping </span> REQUIREMENTS
         </h2>
         <div class="sixth-california-state-gird">
             <div class="sixth-california-state-gird-1 utility_grid">
@@ -252,7 +252,7 @@
                 <div class="sixth-california-state-gird-1-content">
                     <h3 class="utility_sub-heading">Enclosed Auto Transport</h3>
                     <p class="text">
-                        <a href="<?= home_path(); ?>services/enclosed-shipping" title="Enclosed auto transport Hawaii"><span class="california-state-span"><b>Enclosed auto trasnport</b></span></a> is a type of auto transport that gives much protection to your vehicles. Well, it is considered the safest way to transport luxury, classic and new cars. The vehicle shipping carrier's top and side covers, as well as straps, secure the consignment on the trailer. The enclosed trailer fully covered the vehicles so that not even a single particle of dust could not be able to touch the cars. In other words, it will provide full protection to the vehicles. It will protect your vehicle from wind-blown ash and debris damage, persistent sun damage, or damage from rain and snowfall. Transporting a vehicle on an enclosed truck is considered bit expensive. But, if you want to transport your vehicle in the most safest way then it will be considered a smart investment.
+                        <a href="<?= home_path(); ?>services/enclosed-shipping" title="Enclosed auto transport Hawaii"><span class="california-state-span"><b>Enclosed auto transport</b></span></a> is a type of auto transport that gives much protection to your vehicles. Well, it is considered the safest way to transport luxury, classic and new cars. The vehicle shipping carrier's top and side covers, as well as straps, secure the consignment on the trailer. The enclosed trailer fully covered the vehicles so that not even a single particle of dust could not be able to touch the cars. In other words, it will provide full protection to the vehicles. It will protect your vehicle from wind-blown ash and debris damage, persistent sun damage, or damage from rain and snowfall. Transporting a vehicle on an enclosed truck is considered bit expensive. But, if you want to transport your vehicle in the most safest way then it will be considered a smart investment.
                         As a result, we provide two enclosed auto transport solutions for delivering your vehicle:
                         <br><br> <b>Soft-Sided Enclosed Auto Transport –</b> It will protect your vehicle from wind-blown, rain, sleet, snow, and other elements.
                         <br><br> <b>Hard-Sided Enclosed Auto Transport –</b> Along with the merits of soft-sided enclosed carriers, hard-sided carriers add more protection for your car in the unlikely event of damage during transit.
