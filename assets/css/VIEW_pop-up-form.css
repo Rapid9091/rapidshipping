@@ -1,88 +1,88 @@
 .pop-backgroud {
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 100vh;
-    width: 100vw;
-    background-color: rgba(0, 0, 0, 0.856);
-    z-index: 99;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.856);
+  z-index: 99;
 }
 
 .profile-details-section {
-    position: absolute;
-    top: 10%;
-    left: 30%;
-    width: 35%;
-    padding: 2% 0 4% 0;
-    background-color: #fff;
-    box-shadow: 0 1px 3px #00000026;
-    border-radius: 5px;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    transition: 1s;
+  position: absolute;
+  top: 10%;
+  left: 30%;
+  width: 35%;
+  padding: 2% 0 4% 0;
+  background-color: #fff;
+  box-shadow: 0 1px 3px #00000026;
+  border-radius: 5px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: 1s;
 }
 
 .cross-mark {
-    position: absolute;
-    top: 2%;
-    right: 2%;
-    cursor: pointer;
-    width: 25px !important;
+  position: absolute;
+  top: 2%;
+  right: 2%;
+  cursor: pointer;
+  width: 25px !important;
 }
 
-.profile-details-section>img {
-    width: 150px;
+.profile-details-section > img {
+  width: 150px;
 }
 
-.profile-details-section>h2{
-    font-size: 30px;
-    color: var(--nav-color);
+.profile-details-section > h5 {
+  font-size: 30px;
+  color: var(--nav-color);
 }
 
-.profile-details-section>p {
-    margin: 3% 0 4% 0;
-    font-size: 18px;
-    text-align: center;
+.profile-details-section > p {
+  margin: 3% 0 4% 0;
+  font-size: 18px;
+  text-align: center;
 }
 
-.profile-details-section>a:last-child {
-    color: #fff;
-    font-weight: 500;
-    font-size: 18px;
-    padding: 8px 30px;
-    border: 1.8px solid var(--nav-color);
-    border-radius: 50px;
-    background-color: var(--nav-color);
-    transition: 0.3s;
+.profile-details-section > a:last-child {
+  color: #fff;
+  font-weight: 500;
+  font-size: 18px;
+  padding: 8px 30px;
+  border: 1.8px solid var(--nav-color);
+  border-radius: 50px;
+  background-color: var(--nav-color);
+  transition: 0.3s;
 }
 
-.profile-details-section>a:hover {
-    background-color: #fff;
-    color: var(--nav-color);
+.profile-details-section > a:hover {
+  background-color: #fff;
+  color: var(--nav-color);
 }
 
 @media screen and (max-width: 500px) {
-    .profile-details-section {
-        margin: 100px auto;
-        width: 80%;
-        top: 10%;
-        left: 10%;
-    }
-    .update-button {
-        margin-top: 20px;
-        border: none;
-        font-size: 16px;
-        color: #fff;
-        background-color: #0352fc;
-        padding: 6px 10px;
-        border-radius: 4px;
-    }
-    .profile-details-section>p {
-        margin: 3% 0 4% 0;
-        font-size: 15px;
-        text-align: center;
-    }
+  .profile-details-section {
+    margin: 100px auto;
+    width: 80%;
+    top: 10%;
+    left: 10%;
+  }
+  .update-button {
+    margin-top: 20px;
+    border: none;
+    font-size: 16px;
+    color: #fff;
+    background-color: #0352fc;
+    padding: 6px 10px;
+    border-radius: 4px;
+  }
+  .profile-details-section > p {
+    margin: 3% 0 4% 0;
+    font-size: 15px;
+    text-align: center;
+  }
 }

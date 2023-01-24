@@ -63,12 +63,12 @@
 
     <div class="callout-right-container-other-imp-links">
         <ul>
-            <h2 style=""><a href="<?= home_path() ?>blogs" style="color:black;">
+            <h5 style=""><a href="<?= home_path() ?>blogs" style="color:black;">
                     <span>
                         <ion-icon style="color:vaR(--nav-color);" name="caret-forward-circle-sharp"></ion-icon>
                     </span> Other Useful links
                 </a>
-            </h2>
+            </h5>
         </ul>
     </div>
 </div>
