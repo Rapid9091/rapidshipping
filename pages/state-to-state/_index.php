@@ -178,9 +178,9 @@ if (isset($_GET['page_id'])) {
                 <h3><?= $data['route_star'] ?>/10 <span>stars</span></h3>
                 <p>Based on recent dispatch reports, the carrier availability rating from <?= $data['state_form'] . " to " . $data['state_to'] . " is " . $data['route_star'] ?>/10 </p>
                 <div class="orange-strip">
-                    <h2>
+                    <h6>
                         Road Transportation
-                    </h2>
+                    </h6>
 
                 </div>
             </div>
@@ -189,9 +189,9 @@ if (isset($_GET['page_id'])) {
                 <h3><?= $data['route_distance'] ?> <span>miles</span></h3>
                 <p>The center of each state is used to approximate mileage between locations.</p>
                 <div class="orange-strip">
-                    <h2>
+                    <h6>
                         Total Distance
-                    </h2>
+                    </h6>
 
                 </div>
             </div>
@@ -199,12 +199,11 @@ if (isset($_GET['page_id'])) {
                 <img src="<?= get_img() ?>timer-clock.png" alt="state to state auto transport" />
                 <h3><?= $data['route_timing'] ?> <span>days</span></h3>
                 <p>Estimated transit times are based on carriers traveling up to 500 miles per day.
-
                 </p>
                 <div class="orange-strip">
-                    <h2>
+                    <h6>
                         Customer Review
-                    </h2>
+                    </h6>
 
                 </div>
             </div>
@@ -215,9 +214,9 @@ if (isset($_GET['page_id'])) {
         <div class="fifth-state-to-state-grid">
             <div class="fifth-state-to-state-grid-1">
                 <div class="fifth-state-to-state-grid-content">
-                    <h2 class="heading-2">
+                    <h6 class="heading-2">
                         <span>Rapid Auto Shipping</span> Makes Shipping a Car From your desired location as Easy as 1-2-3!
-                    </h2>
+                    </h6>
                     <div class="steps-buttons">
                         <button onclick="active_tab(0,this)" class="special-red-btn-1" id="btn">1</button>
                         <button onclick="active_tab(1,this)" class="special-red-btn-2">2</button>
@@ -275,8 +274,8 @@ if (isset($_GET['page_id'])) {
 
     <section class="all-state-name-page-mains" style="margin:4% 0;">
         <section class="all-state-name-pages">
-            <h2 class="heading-1">
-                Autoshipping <span>States</span> in USA </h2>
+            <h6 class="heading-1">
+                Autoshipping <span>States</span> in USA </h6>
             <section class="all-state-name-grids-section">
                 <div class="all-state-name-grids">
                     <a href="<?= get_state() ?>/alabama" rel="dofollow">Alabama</a><br>
