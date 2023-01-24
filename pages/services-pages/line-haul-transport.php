@@ -97,7 +97,7 @@
                                 <br>
                                 Line haul transport and LineHaul logistics assists businesses in determining the logistics for transporting items between certain locations within a set timeframe.
 
-                                The three best <a href="<?= get_state() ?>"> state </a> line haul drivers are <a href="#">Wyoming</a> , <a href="<?= get_state() ?>/tennessee-tn">Tennessee</a> and <a href="<?= get_state() ?>/rhode-island">Rhode Island</a>
+                                The three best <a href="<?= get_state() ?>"> state </a> line haul drivers are <a href="<?= get_state() ?>/wyoming-wy">Wyoming</a> , <a href="<?= get_state() ?>/tennessee-tn">Tennessee</a> and <a href="<?= get_state() ?>/rhode-island">Rhode Island</a>
                             </p>
                             <div class="shipping-form-state-image">
                                 <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1671280732/Recent%20Uploads/trailer.jpg" alt="line haul auto transport" />
@@ -109,7 +109,7 @@
                             <h2 class="heading-1"><span> LINE HAUL CARRIER?</h2>
 
                             <p class="para-2">
-                                A line-hauler is a coline-halt that engages in the line haul process by providing transportation services, management, quality assurance, and regulatory compliance. Carriers are an important part of line haul transportation because they make the process run smoothly and supply the data needed to track linehaul logistics. <a href="https://en.wikipedia.org/wiki/Less-than-truckload_shipping">Less-than-truckload (LTL) </a> shipping and Full Truckload (FTL) requirements are followed by carriers to ensure timely delivery and quality care during the <a href="https://www.sciencedirect.com/topics/engineering/transport-process">transporting process</a>.
+                                A line-hauler is a coline-halt that engages in the line haul process by providing transportation services, management, quality assurance, and regulatory compliance. Carriers are an important part of line haul transportation because they make the process run smoothly and supply the data needed to track linehaul logistics. <a href="https://en.wikipedia.org/wiki/Less-than-truckload_shipping" target="_blank">Less-than-truckload (LTL) </a> shipping and Full Truckload (FTL) requirements are followed by carriers to ensure timely delivery and quality care during the <a href="https://www.sciencedirect.com/topics/engineering/transport-process" target="_blank">transporting process</a>.
                                 We also provide tips for linehaul transportation listed below.
                             </p>
                         </div>
@@ -118,7 +118,7 @@
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1"> LINEHAUL TRANSPORTATION</span>
                             </h2>
-                            <p class="para-2"> If you notify Rapid Auto Shipping ahead of time about your Line Haul Transportation request, you may be able to earn a significant discount on your transaction. It will then be simple for Rapid Auto Shipping to arrange for a Line Haul Transporter. Rapid Auto Shipping believes in providing clients and consumers with the most cost-effective service possible. When compared to any other <a href="https://rapidautoshipping.com/">transport service company</a> on the market, Rapid Auto Shipping offers the most benefits for Line Haul Transporting.
+                            <p class="para-2"> If you notify Rapid Auto Shipping ahead of time about your Line Haul Transportation request, you may be able to earn a significant discount on your transaction. It will then be simple for Rapid Auto Shipping to arrange for a Line Haul Transporter. Rapid Auto Shipping believes in providing clients and consumers with the most cost-effective service possible. When compared to any other <a href="https://rapidautoshipping.com/">transport service company</a> on the market, Rapid Auto Shipping offers the most benefits for Line Haul Transportation.
                             </p>
                             <div class="shipping-form-state-image">
                                 <img loading="lazy" src="<?= get_img() ?>isuzu-trucks-background.jpg" alt="Line haul transportation" />
@@ -176,13 +176,13 @@
                                 <br>
                                 <br><b>Cost savings</b><br>
 
-                                Carriers can track statistics for freight movement via line-haul carrier tracking. These analytics provide useful information on the shipment process, allowing the carrier to cut down on <a href="https://rapidautoshipping.com/blogs/cost-to-ship-a-car">transportation expenses</a>. These savings can be passed on to the client in the form of lower delivery fees. For example, if a carrier monitors the performance of truck tires and determines that Tire A is more fuel-efficient than Tire B, each vehicle's tires can be replaced for a more fuel-efficient fleet, saving money on maintenance expenditures.
+                                Carriers can track statistics for freight movement via line-haul carriers tracking. These analytics provide useful information on the shipment process, allowing the carrier to cut down on <a href="https://rapidautoshipping.com/blogs/cost-to-ship-a-car">transportation expenses</a>. These savings can be passed on to the client in the form of lower delivery fees. For example, if a carrier monitors the performance of truck tires and determines that Tire A is more fuel-efficient than Tire B, each vehicle's tires can be replaced for a more fuel-efficient fleet, saving money on maintenance expenditures.
                                 <br>
                                 <br><b>Communication between carriers and providers should be improved.</b><br>
 
                                 Linehaul transportation uses analytics to connect the supply chain, allowing for greater communication between the carrier, product providers, customers, and other parties engaged in the shipping process. Companies can eliminate errors, improve their understanding of the shipping process, and deliver more value with better communication and accuracy. This level of communication strengthens the supply chain and helps everyone save money.
                                 <br>
-                                <br><b>There are fewer <a href="https://www.gsa.gov/buying-selling/products-services/transportation-logistics-services/fleet-management/vehicle-leasing/accidents-and-maintenance/accident-management-center-amc">accidents and errors</a>.</b><br>
+                                <br><b>There are fewer <a href="https://www.gsa.gov/buying-selling/products-services/transportation-logistics-services/fleet-management/vehicle-leasing/accidents-and-maintenance/accident-management-center-amc" target="_blank">accidents and errors</a>.</b><br>
 
                                 Truck drivers in line haul trucking operate in shifts to reduce weariness. This has a number of implications for the freight transportation operation as well as the drivers. A normal shift for a driver is from eight or nine o'clock in the morning until approximately five or six o'clock in the evening. This reduces worker tiredness, which can lead to more mistakes and workplace accidents. Allowing drivers to take breaks between shifts can make transportation safer, more efficient, and less expensive.
                             </p>

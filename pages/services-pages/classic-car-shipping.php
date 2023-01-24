@@ -97,7 +97,7 @@
     <!-- new section under the first section of single line -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Classic car transport ";
+        $NAME = "Classic car transportation";
         $PARAGRAPH = "Shipping a vintage, antique, or classic car safely and efficiently is not difficult, but there are a few things to keep in mind before you begin. There are a few areas about which you may have reservations, which is why we've compiled this list of frequently asked questions about exporting an antique, vintage, or classic car. Classic car transport is similar to shipping any other type of vehicle, there are a few considerations to keep in mind to help you make the best decision possible.";
         include small_form;
         ?>
@@ -140,7 +140,7 @@
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667295981/Recent%20Uploads/Inkedrace_car_shipping-min_mwzw9y_s7i04a.jpg" alt="Classic car shipping">
 
                     <p>
-                        The difference in insurance coverage between open and enclosed auto transport carriers is that an open car carrier's policy is often a $50,000 policy. An enclosed auto transport carrier's insurance policy typically starts at roughly $250,000 and can go up to $1,000,000.
+                        The difference in insurance coverage between open and enclosed auto transport carriers is that an open car carriers' policy is often a $50,000 policy. An enclosed auto transport carriers' insurance policy typically starts at roughly $250,000 and can go up to $1,000,000.
                     </p>
 
 
