@@ -266,7 +266,7 @@
                     <button><a href="<?= home_path(); ?>services/enclosed-shipping" title="Enclosed auto transportation">Know More</a></button>
                 </div>
                 <div class="sixth-california-state-gird-1-img sixth-california-state-gird-1-img-special ">
-                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/…acanaya-9cSMMMSmZzY-unsplash-1024x1024_hbosfx.jpg" alt="Auto Transport in Hawaii">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg" alt="Auto Transport in Hawaii">
                 </div>
             </div>
             <div class="sixth-california-state-gird-1 utility_grid" id="door_to_door_while_shipping_hawaii">
