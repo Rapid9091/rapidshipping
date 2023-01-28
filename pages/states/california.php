@@ -88,6 +88,21 @@
   <!-- --------City Descriptions ------- -->
   <!-- ----------------------------- -->
 
+  <section class="first-california-state" style="background-color: var(--section-background);">
+    <div class="sixth-california-state-gird-1 utility_grid">
+      <div class="sixth-california-state-gird-1-content">
+        <h2 class="utility_main-heading">Car Shipping in <span class="california-state-span"> California</span></h2>
+
+        <p class="text">
+          Car shipping in California is a popular option for those looking to get their car out of state quickly. There are a number of companies that offer auto shipping services in the state, and most can get your car to your destination within a few days.<br><br>Rapid Auto Shipping is the best way to get your car shipped to California. We have a wide range of services that are perfect for getting your car shipped quickly. We can ship your car using our own trucks or we can use a carrier like FedEx or UPS. We have a variety of services that are perfect for getting your car to California quickly. We can ship your car using our own trucks or we can use a carrier like FedEx or UPS.
+        </p>
+
+      </div>
+      <div class="sixth-california-state-gird-1-img sixth-california-state-gird-1-img-special ">
+        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673597414/Recent%20Uploads/Auto-Shipping-about-1_gydnd1.png" alt="California Car Shipping Services">
+      </div>
+    </div>
+  </section>
 
   <!-- ----------------------------- -->
   <!-- --------first section ------- -->
