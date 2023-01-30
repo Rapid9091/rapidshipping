@@ -91,15 +91,18 @@
                 <ul>
                     <li>
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1"> What Is Line Haul?</h2>
+                            <h2 class="heading-1"> What Is a Linehaul?</h2>
                             <p class="para-2">
-                                Line haul transport is the process of transporting goods or cargo over long distances. It involves a company's trucks, vans, or other vehicles traveling from one point to another along a predetermined route. Line haul transport can include both interstate and intrastate travel, with shipments ranging from small packages to oversized loads. It usually involves multiple stops at depots or warehouses where products are loaded onto different trailers and unloaded at their destination. The purpose of line haul transport is to efficiently move large amounts of cargo in bulk over a long distance while minimizing costs associated with fuel consumption and personnel needed for the trip.
+                                Line haul transport is the process of transporting goods or cargo over long distances. It involves a company's trucks, vans, or other vehicles traveling from one point to another along a predetermined route. Line haul transport can include both interstate and intrastate travel, with shipments ranging from small packages to oversized loads. It usually involves multiple stops at depots or warehouses where products are loaded onto different trailers and unloaded at their destination. The purpose of linehaul transport is to efficiently move large amounts of cargo in bulk over a long distance while minimizing costs associated with fuel consumption and personnel needed for the trip.
                             </p>
+                            <div class="shipping-form-state-image">
+                                <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673604898/Recent%20Uploads/car-on-trailer-2_kpmqdx.jpg" alt="What Is a Linehaul" />
+                            </div>
                         </div>
                     </li>
                     <li>
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1"> LINE HAUL TRANSPORTATION?</h2>
+                            <h2 class="heading-1"> WHAT IS LINE HAUL TRANSPORTATION?</h2>
                             <p class="para-2">
                                 The moving of commodities and objects, or freight, between two sites via truck, rail, airplane, or ship is referred to as transportation. Because freight varies in size, weight, and volume, the logistics for transporting freight may vary as well. For example, if you wanted to convey a 10,000kg object across the ocean to the United States, the logistics would be more expensive and time consuming than sending a smaller piece domestically.
                                 <br>
