@@ -215,13 +215,10 @@
                         </div>
                     </li>
                 </ul>
-
                 <div class="shipping-form-state-image">
                     <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673597414/Recent%20Uploads/Auto-Shipping-about-1_gydnd1.png" alt="Open Auto Transport" />
                 </div>
             </section>
-
-
         </div>
 
         <div class="right-state-to-state-child" id="right-state-to-state-child">
