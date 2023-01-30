@@ -592,6 +592,8 @@
 .working-state .working-state-step-0 {
   text-align: center;
   margin-bottom: 30px;
+  margin-left:4%;
+  margin-right:4%;
 }
 .working-state .working-step-img {
   background-color: var(--nav-color);
