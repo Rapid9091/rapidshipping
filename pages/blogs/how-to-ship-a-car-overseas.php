@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>How to ship a car overseas</title>
-    <meta name="title" content="How to ship a car overseas" />
-    <meta name="description" content="Rapid Auto Shipping - Shipping a car overseas service provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a car overseas in all states of the USA." />
+    <title>How to Ship a Car Overseas - Everything You Need to Know</title>
+    <meta name="title" content="How to Ship a Car Overseas - Everything You Need to Know" />
+    <meta name="description" content="Ship a car overseas with quality, affordability and convenience. Call +1-833-233-4447 now for RAS - the premier provider of auto shipping service to all 50 states of the USA." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Overseas car transport Services" />
-    <meta property="og:description" content="Rapid Auto Shipping - Shipping a car overseas service provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a car overseas in all states of the USA." />
+    <meta property="og:title" content="How to Ship a Car Overseas - Everything You Need to Know" />
+    <meta property="og:description" content="Ship a car overseas with quality, affordability and convenience. Call +1-833-233-4447 now for RAS - the premier provider of auto shipping service to all 50 states of the USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-to-ship-a-car-overseas" />
-    <meta property="og:site_name" content="Overseas car Transport  - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="How to Ship a Car Overseas - Everything You Need to Know" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car shipping service provider ,auto transporter ,port-to-port shipping ,international car shipping, Overseas auto shipping ,overseas car shipping, overseas car shipping serivees near me, TOP GLOBAL CAR SHIPPING COMPANY,  GLOBAL CAR SHIPPING COMPANY " />
 
@@ -53,12 +53,10 @@
         .affordable-ways-page-grid>h2 .affordable-ways-page-grid>ul {
             margin: 2% 0;
         }
-
         .affordable-ways-page-grid-content-1>p {
             padding: 2% 0;
             font-size: 15px;
         }
-
         .affordable-ways-page-grid-content-1>ul {
             padding: 2% 0;
         }
