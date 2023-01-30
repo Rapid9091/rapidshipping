@@ -53,10 +53,12 @@
         .affordable-ways-page-grid>h2 .affordable-ways-page-grid>ul {
             margin: 2% 0;
         }
+
         .affordable-ways-page-grid-content-1>p {
             padding: 2% 0;
             font-size: 15px;
         }
+
         .affordable-ways-page-grid-content-1>ul {
             padding: 2% 0;
         }
@@ -107,7 +109,7 @@
                         <li class="list-style"> Destination taxes and fees abroad</li>
                     </ul>
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666088694/SHIP_A_CAR_OVERSEAS._oz1sa9.jpg" alt="Overseas car shipping">
+                    <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666088694/SHIP_A_CAR_OVERSEAS._oz1sa9.jpg" alt="Overseas car shipping">
                 </div>
                 <div class="new-blog-section-one">
                     <h2>SHOULD YOU TRANSPORT YOUR CAR OVERSEAS OR PURCHASE A NEW VEHICLE THERE ?
@@ -121,8 +123,10 @@
                         <br><br>
                         <b> Cost of shipping –</b> if your car is a new model, transporting it together with your possessions can be worthwhile. The least expensive car transportation costs are around $900. The price of transporting an automobile abroad ranges from roughly $900 to $6,000, depending on a number of variables. You go up a few local car selling websites to see what the area has to offer and how much things cost.
                         If this is not a permanent move, do you have a place where you can store your car while you are away? Is it affordable to temporarily park your automobile where you live? Additionally, it can be worth it to let a trustworthy friend or family member look after your automobile until you return if they are able to.
-                        <br><br>
-                        <b> Costs associated with car maintenance -</b> If you drive a supercar or other costly vehicle, be aware that handling repairs in your new location may cost you significantly more. Be aware that replacement parts for an automobile made in the United States could be more expensive and challenging to locate.
+                    </p>
+                    <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673591711/Recent%20Uploads/giving-key.jpg" alt="Overseas auto transport">
+                    <p>
+                        <br> <b> Costs associated with car maintenance -</b> If you drive a supercar or other costly vehicle, be aware that handling repairs in your new location may cost you significantly more. Be aware that replacement parts for an automobile made in the United States could be more expensive and challenging to locate.
                         <br><br>
                         <b>The period of your stay abroad - </b>Last but not least, it's crucial to know how long you'll be gone. It might make sense to bring your car with you if you determine you'll be staying in the new country for a while.
                     </p>
