@@ -8,8 +8,6 @@
 }
 
 .heading-1 {
-  font-size: 32px;
-  font-weight: 700;
   font-size: 30px;
   font-weight: 600;
 }
@@ -162,13 +160,38 @@ h6 > span,
 /* -------------------- */
 
 .rapid-advantages-section {
-  padding: var(--all-section-padding);
+  padding: 0 10%;
+}
+
+.rapid-advantages-grid-container > h2 {
+  text-align: center;
+  text-transform: capitalize;
+  margin-bottom: 3%;
+}
+
+.rapid-advantages-grid-container {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  padding: 5% 2%;
 }
 
 .rapid-advantages-grid-1 {
-  height: 300px;
+  height: 250px;
+  text-align: center;
   width: 100%;
-  border: 1px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 5%;
+}
+
+.rapid-advantages-grid-1 > h3 {
+  color: var(--nav-color);
+  margin: 3% 0;
+}
+
+.rapid-advantages-grid-1 > img {
+  height: 80px;
 }
 
 /* review star strip */
@@ -481,9 +504,22 @@ div[class*="special-red-btn"] {
   .seventh-city-name {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .rapid-advantages-grid.utility_grid-3 {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 0;
+  }
 }
 
 @media screen and (max-width: 600px) {
+  .rapid-advantages-grid.utility_grid-3 {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 0;
+  }
+  .rapid-advantages-grid-1 {
+    border-bottom: 1px solid var(--nav-color);
+  }
+
   .seventh-city-name {
     grid-template-columns: repeat(1, 1fr);
     grid-gap: unset;
