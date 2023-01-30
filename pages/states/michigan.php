@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Best Auto Shipping Michigan - Rapid Auto Shipping</title>
-    <meta name="title" content="Best Auto Shipping Michigan - Rapid Auto Shipping" />
+    <title>Ship a car with a Michigan auto shipping company</title>
+    <meta name="title" content="Ship a car with a Michigan auto shipping company" />
     <meta name="description" content="Rapid Auto Shipping is a company that offers fast and reliable car shipping services, so if you are looking to ship your vehicle in or from Michigan, then get an instant quote now." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Auto Shipping Michigan - Rapid Auto Shipping" />
+    <meta property="og:title" content="Ship a car with a Michigan auto shipping company" />
     <meta property="og:description" content="Rapid Auto Shipping is a company that offers fast and reliable car shipping services, so if you are looking to ship your vehicle in or from Michigan, then get an instant quote now." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/michigan" />
-    <meta property="og:site_name" content="Best Auto Shipping Michigan - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Ship a car with a Michigan auto shipping company" />
     <meta name='robots' content='index' />
 
     <meta name="keywords" content="auto shipping michigan, car shipping companies in michigan, car shipping michigan, vehicle transport mi, auto transport michigan, car transport michigan, vehicle shipping michigan, car shipping quotes michigan, car transport companies in michigan, michigan car transport companies, michigan car shipping companies, shipping a car to michigan, car transport to michigan, car shipping from california to michigan, car transport services michigan, michigan auto shipping, car hauler companies in michigan" />
