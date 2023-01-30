@@ -12,10 +12,10 @@
   <?php include head; ?>
   <title>Auto Transport Company in California - California Car Shipping Services</title>
   <meta name="title" content="California Auto Transport company - Auto Shipping California">
-  <meta name="description" content="Need to transport a Car/Vehicle to or From California, You Need An Experienced California auto Transport Company That Means Rapid Auto Shipping..." />
+  <meta name="description" content="Do you require auto transport in California? Rapid Auto Shipping is one of California's top-rated car shipping companies. Get an instant quote for free." />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="California Auto Transport company - Auto Shipping California" />
-  <meta property="og:description" content="Need to transport a Car to or From California, You Need An Experienced California auto Transport Company That Means Rapid Auto Shipping..." />
+  <meta property="og:description" content="Do you require auto transport in California? Rapid Auto Shipping is one of California's top-rated car shipping companies. Get an instant quote for free." />
   <meta property="og:url" content="https://rapidautoshipping.com/states/california" />
   <meta property="og:img" content="https://rapidautoshipping.com/assets/images/66178.png" />
   <meta property="og:site_name" content="california Auto Transport - Rapid Auto Shipping" />
@@ -59,7 +59,7 @@
     .contact-us-header-page {
       width: 100%;
       background-repeat: no-repeat, repeat;
-      background-image: url('<?= get_img() ?>california-bg.jpeg');
+      background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/e_brightness:-20/v1675077230/Recent%20Uploads/califoria-state-bg.png');
       background-blend-mode: lighten;
       position: relative;
       background-position: center;
@@ -91,10 +91,10 @@
   <section class="first-california-state" style="background-color: var(--section-background);">
     <div class="sixth-california-state-gird-1 utility_grid" style="margin-top:0;">
       <div class="sixth-california-state-gird-1-content">
-        <h2 class="utility_main-heading">Car Shipping in <span class="california-state-span"> California</span></h2>
+        <h2 class="utility_main-heading">auto transport in <span class="california-state-span"> California</span></h2>
 
         <p class="text">
-          Car shipping in California is a popular option for those looking to get their car out of state quickly. There are a number of companies that offer auto shipping services in the state, and most can get your car to your destination within a few days.<br><br>Rapid Auto Shipping is the best way to get your car shipped to California. We have a wide range of services that are perfect for getting your car shipped quickly. We can ship your car using our own trucks or we can use a carrier like FedEx or UPS. We have a variety of services that are perfect for getting your car to California quickly. We can ship your car using our own trucks or we can use a carrier like FedEx or UPS.
+          Auto transport in California is a popular option for those looking to get their car out of state quickly. There are a number of companies that offer auto shipping services in the state, and most can get your car to your destination within a few days.<br><br>Rapid Auto Shipping is the best way to get your car shipped to California. We have a wide range of services that are perfect for getting your car shipped quickly. We can ship your car using our own trucks or we can use a carrier like FedEx or UPS. We have a variety of services that are perfect for getting your car to California quickly. We can ship your car using our own trucks or we can use a carrier like FedEx or UPS.
         </p>
 
       </div>
@@ -424,7 +424,7 @@
         How to get the best <span class="california-state-span"> quote </span>for your shipping
       </h2>
       <p class="text">
-        If you want to car shipping <a href="https://www.usa.gov/state-government/california" title="more about California state"><span class="california-state-span">California,</span></a> Rapid Auto Shipping will help you to make it easier. <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "> <span class="california-state-span">Rapid Auto Shipping</span></a>
+        If you want to auto transport in california, Rapid Auto Shipping will help you to make it easier. <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "> <span class="california-state-span">Rapid Auto Shipping</span></a>
         is a company that specializes in car shipping California and other parts of the United States. We will provide an appropriate quote for the shipment of your vehicle within a few seconds.
         All you have to do is fill out our free online form and you’ll get a free quote, without any hassle auto transport Califorina quote immediately with just a few clicks. If you have any questions, please contact us and you will be connected to a real, knowledgeable agent; there will be no waiting on hold, and we will assist you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always <a href="<?= home_path() ?>blogs/cost-to-ship-a-car" title="More about affordable car shipping USA"><span class="california-state-span"> Affordable means</span></a> exactly that: on time and on budget.
       </p>
@@ -452,7 +452,7 @@
         <div class="sixth-california-state-gird-1-content">
           <h3 class="utility_sub-heading">Open Auto Transport</h3>
           <p class="text">
-            Are you looking to car shipping California by <a href="<?= home_path(); ?>services/open-car-shipping" title="Open Auto Shipping USA">
+            Are you looking to auto transport in California by <a href="<?= home_path(); ?>services/open-car-shipping" title="Open Auto Shipping USA">
               <span class="california-state-span"> open auto transport</span></a>? Well, it is the most preferred way to transport the auto-mobiles by customers. Open trailers are just like double-decker car trailers. Each car is securely fastened to prevent it from moving during the journey.
             Open auto transport is one of the cheapest ways of shipping your vehicle with full of security and protection. With the help of open auto transport, your vehicle will arrive at its destination within a few days depending on the distance safely without spending much money.
           </p>

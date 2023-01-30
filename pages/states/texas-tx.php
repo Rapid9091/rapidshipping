@@ -47,7 +47,7 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
-            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/e_brightness:-67/v1666352976/Recent%20Uploads/port-arthur-1584098_1280_odezus.jpg');
+            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/e_brightness:-75/v1675066367/Recent%20Uploads/texas-state-bg.png');
             background-blend-mode: lighten;
             background-position: center;
             background-repeat: no-repeat;

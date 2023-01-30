@@ -157,6 +157,20 @@ h6 > span,
   width: 100%;
 }
 
+/* -------------------- */
+/* Advantages section */
+/* -------------------- */
+
+.rapid-advantages-section {
+  padding: var(--all-section-padding);
+}
+
+.rapid-advantages-grid-1 {
+  height: 300px;
+  width: 100%;
+  border: 1px solid red;
+}
+
 /* review star strip */
 
 .state-to-state-review {
