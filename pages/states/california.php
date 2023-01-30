@@ -59,7 +59,7 @@
     .contact-us-header-page {
       width: 100%;
       background-repeat: no-repeat, repeat;
-      background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/e_brightness:-65/v1675075749/Recent%20Uploads/califoria-state-bg.png');
+      background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/e_brightness:-20/v1675077230/Recent%20Uploads/califoria-state-bg.png');
       background-blend-mode: lighten;
       position: relative;
       background-position: center;
