@@ -76,7 +76,7 @@
         <h2 class="sub-service-heading-main">
             What is Military Auto Shipping? </h2>
         <p>
-            Simply, military auto shipping firms do exactly what their name implies: they ship vehicles for military personnel. Military car shipping such as humpees and jeeps can also be shipped. Military vehicle shipping services will be provided to active and former military members by any transportation company, whether it is a broker or a carrier. It's unusual to have services available for active-duty military personnel but not for retired military personnel, and vice versa. Auto transporters, in our experience, do not discriminate between active and retired military personnel.
+            Simply, military auto shipping firms do exactly what their name implies: they ship vehicles for military personnel. Military car shipping such as humpies and jeeps can also be shipped. Military vehicle shipping services will be provided to active and former military members by any transportation company, whether it is a broker or a carrier. It's unusual to have services available for active-duty military personnel but not for retired military personnel, and vice versa. Auto transporters, in our experience, do not discriminate between active and retired military personnel.
             <br>
             Depending on what you're sending, you can locate open, enclosed, or even flatbed transport trucks to convey your automobile. Open transportation is frequently the cheapest and most cost-effective mode of transportation. Enclosed is frequently recommended for more expensive automobiles that are not used regularly. It's worth noting, though, that enclosed transportation takes longer to locate than open transportation. Flatbed shipment, the final option, is an on-demand service for large cars that cannot fit on normal transport trucks.
             <br>
@@ -116,7 +116,7 @@
 
                 We can offer you a terrific deal to ship your vehicle if you're a military service member, whether active or retired. We deal with top-rated automobile shipping companies that provide open, enclosed, and flatbed services throughout the United States. We also provide military shipping services to Alaska, Hawaii, and U.S. territory abroad.
                 <br>
-                We can also military vehicle transport as per your requirement! It doesn't matter if it's a conventional military jeep, a humvee, or a surplus tank... If it's a military vehicle with wheels, there's a good possibility we'll be able to transfer it for you at a reasonable price.
+                We can also military vehicle transport as per your requirement! It doesn't matter if it's a conventional military jeep, a Humvee, or a surplus tank... If it's a military vehicle with wheels, there's a good possibility we'll be able to transfer it for you at a reasonable price.
 
             </p>
         </div>
@@ -129,7 +129,7 @@
             Taking Care of the Details
         </h2>
         <p>
-            Many auto shipping firms provide excellent deals to consumers who are looking to move their vehicles. It is critical to choose a business that performs these trips on a regular basis and is familiar with the specialised protocols involved in transporting personnel to and from sites. Moving from one residence to another or from a port to a dealership isn't as simple as shipping to and from military facilities. When visiting some of the country's most protected sites, there are limits, paperwork, and other issues to contend with.
+            Many auto shipping firms provide excellent deals to consumers who are looking to move their vehicles. It is critical to choose a business that performs these trips on a regular basis and is familiar with the specialized protocols involved in transporting personnel to and from sites. Moving from one residence to another or from a port to a dealership isn't as simple as shipping to and from military facilities. When visiting some of the country's most protected sites, there are limits, paperwork, and other issues to contend with.
             <br>
             You may feel that you can drive your car to your destination. However, that comes with a slew of headaches. Consider how long it will take you to travel this distance. The extra wear and tear - driving a vehicle for this long will result in the engine getting greater mileage. Debris or rocks can potentially damage your car, causing cosmetic and component damage. Yes, the government will reimburse you for transportation and per diem, as well as provide you with restricted accommodation options. However, if you have more than two automobiles or a large family that exceeds the per diem and housing allowances, you may still be out of money.
             <br>
@@ -171,7 +171,7 @@
             <br>
             You can also call us toll-free to get a price from one of our representatives. Many people are interested in ancient military jeeps, and we've heard requests to export deactivated tanks and other items. While not everyone is capable of transporting a deactivated tank, some are.
 
-            The United States military has its own shippers, but if you're mailing something from an army surplus store or something else, we can certainly ship it. We can assist you move anything, whether it's an antique World War II army vehicle or something else, like an armoured personnel carrier or something else.
+            The United States military has its own shippers, but if you're mailing something from an army surplus store or something else, we can certainly ship it. We can assist you move anything, whether it's an antique World War II army vehicle or something else, like an armored personnel carrier or something else.
 
             <br> Some of the military's older vehicles may not fit on a conventional carrier, so if your auto transport representative says you need one, expect to spend a little more. If your vehicle is too big or large to fit on a conventional auto transport truck, you'll need a flatbed carrier.
         </p>
