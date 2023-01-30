@@ -193,7 +193,88 @@
             </div>
         </div>
     </section>
-    
+    <!-- ----------------------------- -->
+    <!-- --------How Does It Work---------- -->
+    <!-- ----------------------------- -->
+    <section class="working-state">
+        <h3 class="utility_main-heading">
+            How does <span class="california-state-span">Hawaii car shipping</span> work?
+        </h3>
+        <p class="text">The procedure for moving a car from Hawaii to the mainland (or from the mainland to Hawaii) is as follows:</p>
+
+        <div class="working-state-child-relative">
+            <div class="working-state-child-step">
+                <div class="working-state-step-0">
+                    <div class="working-step-img grid-center">
+                        <img src="<?= get_img() ?>icons/contact.png" alt="Hawai Car Transport">
+                    </div>
+                    <div class="working-step-name">
+                        <h6>Step 1</h6>
+                        <p>Get a quote and book</p>
+                    </div>
+                    <div class="working-step-content">
+                        <p>You can get an instant price quote<span id="dots1">...</span><span id="more1">erisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac.</span>
+                            <br>
+                            <span class="read_more_btn" onclick="myFunction_a()" id="myBtn1">Read more</span>
+                        </p>
+                    </div>
+
+
+                </div>
+                <div class="working-state-step-0">
+                    <div class="working-step-img grid-center">
+                        <img src="<?= get_img() ?>icons/oil-gauge.png" alt="Hawai Car Transport">
+                    </div>
+                    <div class="working-step-name">
+                        <h6>Step 2</h6>
+                        <p>Vehicle preparation</p>
+                    </div>
+                    <div class="working-step-content">
+                        <p>Having ¼ tank of gasoline or less<span id="dots2">...</span><span id="more2">erisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. </span>
+                            <br>
+                        <p><span class="read_more_btn" onclick="myFunction_b()" id="myBtn2">Read more</span></p>
+                        </p>
+                    </div>
+
+
+                </div>
+                <div class="working-state-step-0">
+                    <div class="working-step-img grid-center">
+                        <img src="<?= get_img() ?>icons/sedan.png" alt="Hawai Car Transport">
+                    </div>
+                    <div class="working-step-name">
+                        <h6>Step 3</h6>
+                        <p>Vehicle pick up</p>
+                    </div>
+                    <div class="working-step-content">
+                        <p>We offer Door-to-Port service<span id="dots3">...</span><span id="more3">erisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</span>
+                            <br>
+                            <span class="read_more_btn" onclick="myFunction_c()" id="myBtn3">Read more</span>
+                        </p>
+                    </div>
+
+
+                </div>
+                <div class="working-state-step-0 ">
+                    <div class="working-step-img grid-center">
+                        <img src="<?= get_img() ?>icons/car-icon.png" alt="Hawai Car Transport">
+                    </div>
+                    <div class="working-step-name">
+                        <h6>Step 4</h6>
+                        <p>Vehicle delivery</p>
+                    </div>
+                    <div class="working-step-content">
+                        <p>
+                        <p>Pick-up the vehicle from the port<span id="dots4">...</span><span id="more4">erisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. </span>
+                            <br>
+                            <span class="read_more_btn" onclick="myFunction_d()" id="myBtn4">Read more</span>
+                        </p>
+                    </div>
+
+
+                </div>
+            </div>
+    </section>
     <!-- ----------------------------- -->
     <!-- --------fourth section ------- -->
     <!-- ----------------------------- -->
@@ -345,7 +426,11 @@
     </section>
 
     <?php include_once page_bottom ?>
-    <script src="<?= get_assets(); ?>/js/qna.js"></script>
+    <script src="<?= get_assets(); ?>/js/qna.js">
+    </script>
+
+    <script src="<?= get_assets(); ?>/js/state-read-more.js">
+    </script>
 </body>
 
 </html>
