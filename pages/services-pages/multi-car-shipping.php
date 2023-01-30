@@ -102,7 +102,7 @@
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <div class="shipping-form-state-image">
-                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg" alt="Top Multi Car Shipping Services" />
+                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg" alt="multi car transport" />
 
                 </div>
                 <ul>
@@ -130,6 +130,18 @@
                         <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521399/Recent%20Uploads/variety-cars-shipping-3.jpg" alt="Top Multi Car Shipping Services" />
 
                     </div>
+                    <li>
+                        <div class="shipping-form-state-content">
+                            <h2 class="heading-1">Benefits of using a <span> multi car transport</span></h2>
+
+                            <p class="para-2">
+                                Using a multi car transport for transportation of multiple vehicles is an efficient and cost-effective way to transport cars in bulk. The transporter can easily accommodate up to 8 vehicles at once, reducing the number of trips required to move them from one place to another. Additionally, with its robust construction it ensures that all the cars are safely secured during transit. Furthermore, this method eliminates potential risks associated with driving long distances as well as provides stress free transportation services. It also helps save time and money by avoiding personnel costs such as fuel expenses, toll fees etc. Which would otherwise be incurred when transporting each vehicle separately.
+                            </p>
+
+
+                        </div>
+                    </li>
+
                     <li id="3">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Who Transports <span>Multiple Vehicles</span> At The Same Time?</h2>
@@ -140,7 +152,7 @@
                                 Individuals and families - It's fairly uncommon for families or individuals to require the transportation of multiple vehicles at the same time. This is most common when relocating large distances or buying many cars at an auction or online. As a result, multi-car transportation becomes necessary in this situation.
                             </p>
                             <div class="shipping-form-state-image">
-                                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping-min_tdvjxf.jpg" alt="Multi Car Shipping Services" />
+                                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping-min_tdvjxf.jpg" alt="multi car transport" />
 
                             </div>
                             <p class="para-2">Businesses and corporations - Businesses and firms with a fleet of vehicles or many cars utilised for commercial purposes may need to relocate them at times. This could be due to a move, or it could simply be to ship many cars to another branch or office. It makes no difference how many automobiles you want to move because we provide the best car delivery service regardless of the quantity of vehicles.
@@ -152,7 +164,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673947954/Recent%20Uploads/ras-gif.gif" alt="Top Multi Car Shipping Services" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673947954/Recent%20Uploads/ras-gif.gif" alt="multi car transport" />
 
                     </div>
                     <li id="4">

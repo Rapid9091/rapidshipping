@@ -67,6 +67,13 @@
     </div>
     <section class="first-sub-service-page">
         <h2 class="sub-service-heading-main">
+            millitary car shipping</h2>
+        <p>
+            Military car shipping is a convenient and cost-effective way of moving your vehicle from one location to another. It involves special attention, planning and safety protocols that must be followed for the transport of cars in an efficient manner. The process begins with selecting the right company that specializes in car shipping military services. This includes researching prices, different types of services available, as well as verifying their certifications and licenses. After selection, scheduling is necessary to ensure smooth operations between pick-up and delivery locations. All details about the origin and destination addresses must be carefully entered into a contract before accepting service from any Military shipping cars company. Finally, once everything has been finalized, the actual transport will commence where your vehicle will be taken from point A to point B safely by experienced drivers in customized trucks equipped with advanced tracking technology ensuring quick delivery times while you can relax knowing it’s being taken care of professionally!
+        </p>
+    </section>
+    <section class="first-sub-service-page">
+        <h2 class="sub-service-heading-main">
             What is Military Auto Shipping? </h2>
         <p>
             Simply, military auto shipping firms do exactly what their name implies: they ship vehicles for military personnel. Military car shipping such as humpees and jeeps can also be shipped. Military vehicle shipping services will be provided to active and former military members by any transportation company, whether it is a broker or a carrier. It's unusual to have services available for active-duty military personnel but not for retired military personnel, and vice versa. Auto transporters, in our experience, do not discriminate between active and retired military personnel.
@@ -114,7 +121,7 @@
             </p>
         </div>
         <div class="military-shipping-sixth-section-img">
-            <img src="<?= get_img() ?>military-shipping-background.png" alt="military vehicle transport" />
+            <img src="<?= get_img() ?>military-shipping-background.png" alt="military car shipping" />
         </div>
     </section>
     <section class="first-sub-service-page">
@@ -157,7 +164,7 @@
     </section>
     <section class="first-sub-service-page">
         <h2 class="sub-service-heading-main">
-            Military Auto Shipping; Military Vehicles
+            Military Auto Shipping: Military Vehicles
         </h2>
         <p>
             Not all military auto transportation businesses will ship particular military vehicles. We can handle them at Rapid Auto Shipping. Fill out our online, rapid car shipping quote form if you're shipping a military vehicle. You'll receive a quote right away, with no trouble.
