@@ -43,6 +43,9 @@
     <link rel="stylesheet" href="<?= get_css(); ?>small-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_colorado-to-arizona.css">
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>utility.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>global.css">
+
     <style>
         .contact-us-header-page {
             width: 100%;
@@ -306,6 +309,32 @@
 
     <!-- top scroll button end -->
 
+    <!-- ------------------------ -->
+    <!-- Advantages section -->
+    <!-- ------------------------ -->
+    <!-- <section class="rapid-advantages-section">
+        <div class="rapid-advantages-grid-container utility_grid utility_grid-3">
+            <div class="rapid-advantages-grid-1 ">
+                <img src="" alt="">
+                <h3>Nationwide Door to Door Shipping</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In itaque sit quis dolorum aperiam, consectetur numquam? Quisquam corrupti, modi saepe praesentium beatae libero inventore quod cumque laboriosam laudantium! Dicta, earum.</p>
+            </div>
+            <div class="rapid-advantages-grid-1 ">
+                <img src="" alt="">
+                <h3>Nationwide Door to Door Shipping</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In itaque sit quis dolorum aperiam, consectetur numquam? Quisquam corrupti, modi saepe praesentium beatae libero inventore quod cumque laboriosam laudantium! Dicta, earum.</p>
+            </div>
+            <div class="rapid-advantages-grid-1 ">
+                <img src="" alt="">
+                <h3>Nationwide Door to Door Shipping</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In itaque sit quis dolorum aperiam, consectetur numquam? Quisquam corrupti, modi saepe praesentium beatae libero inventore quod cumque laboriosam laudantium! Dicta, earum.</p>
+            </div>
+        </div>
+    </section> -->
+
+
+
+
     <!-- parent grid section end  -->
     <!-- review section-->
     <section class="state-to-state-review ">
@@ -345,7 +374,7 @@
 
                 </div>
             </div>
-
+        </div>
     </section>
     <!-- steps-state-to-state -->
     <section class="fifth-state-to-state">
