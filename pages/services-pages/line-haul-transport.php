@@ -93,7 +93,7 @@
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1"> What Is Line Haul?</h2>
                             <p class="para-2">
-                                Line haul transport is the process of transporting goods or cargo over long distances. It involves a company's trucks, vans, or other vehicles traveling from one point to another along a predetermined route. Line haul transport can include both interstate and intrastate travel, with shipments ranging from small packages to oversized loads. It usually involves multiple stops at depots or warehouses where products are loaded onto different trailers and unloaded at their destination. The purpose of line haul transport is to efficiently move large amounts of cargo in bulk over a long distance while minimizing costs associated with fuel consumption and personnel needed for the trip.
+                                Line haul transport is the process of transporting goods or cargo over long distances. It involves a company's trucks, vans, or other vehicles traveling from one point to another along a predetermined route. Line haul transport can include both interstate and intrastate travel, with shipments ranging from small packages to oversized loads. It usually involves multiple stops at depots or warehouses where products are loaded onto different trailers and unloaded at their destination. The purpose of linehaul transport is to efficiently move large amounts of cargo in bulk over a long distance while minimizing costs associated with fuel consumption and personnel needed for the trip.
                             </p>
                         </div>
                     </li>
