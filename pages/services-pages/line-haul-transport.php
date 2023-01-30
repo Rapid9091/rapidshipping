@@ -91,6 +91,14 @@
                 <ul>
                     <li>
                         <div class="shipping-form-state-content">
+                            <h2 class="heading-1"> What Is Line Haul?</h2>
+                            <p class="para-2">
+                                Line haul transport is the process of transporting goods or cargo over long distances. It involves a company's trucks, vans, or other vehicles traveling from one point to another along a predetermined route. Line haul transport can include both interstate and intrastate travel, with shipments ranging from small packages to oversized loads. It usually involves multiple stops at depots or warehouses where products are loaded onto different trailers and unloaded at their destination. The purpose of line haul transport is to efficiently move large amounts of cargo in bulk over a long distance while minimizing costs associated with fuel consumption and personnel needed for the trip.
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="shipping-form-state-content">
                             <h2 class="heading-1"> LINE HAUL TRANSPORTATION?</h2>
                             <p class="para-2">
                                 The moving of commodities and objects, or freight, between two sites via truck, rail, airplane, or ship is referred to as transportation. Because freight varies in size, weight, and volume, the logistics for transporting freight may vary as well. For example, if you wanted to convey a 10,000kg object across the ocean to the United States, the logistics would be more expensive and time consuming than sending a smaller piece domestically.
@@ -100,17 +108,26 @@
                                 The three best <a href="<?= get_state() ?>"> state </a> line haul drivers are <a href="<?= get_state() ?>/wyoming-wy">Wyoming</a> , <a href="<?= get_state() ?>/tennessee-tn">Tennessee</a> and <a href="<?= get_state() ?>/rhode-island">Rhode Island</a>
                             </p>
                             <div class="shipping-form-state-image">
-                                <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1671280732/Recent%20Uploads/trailer.jpg" alt="line haul auto transport" />
+                                <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1671280732/Recent%20Uploads/trailer.jpg" alt="line haul transportation" />
                             </div>
                         </div>
                     </li>
                     <li>
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1"><span> LINE HAUL CARRIER?</h2>
+                            <h2 class="heading-1">LINE HAUL CARRIER?</h2>
 
                             <p class="para-2">
                                 A line-hauler is a coline-halt that engages in the line haul process by providing transportation services, management, quality assurance, and regulatory compliance. Carriers are an important part of line haul transportation because they make the process run smoothly and supply the data needed to track linehaul logistics. <a href="https://en.wikipedia.org/wiki/Less-than-truckload_shipping" target="_blank">Less-than-truckload (LTL) </a> shipping and Full Truckload (FTL) requirements are followed by carriers to ensure timely delivery and quality care during the <a href="https://www.sciencedirect.com/topics/engineering/transport-process" target="_blank">transporting process</a>.
                                 We also provide tips for linehaul transportation listed below.
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="shipping-form-state-content">
+                            <h2 class="heading-1"> How Do Line Haul Carriers Operate?</h2>
+
+                            <p class="para-2">
+                                Line haul carriers operate a variety of cargo services, including the transportation of goods between locations. These carriers typically have their own truck fleets and terminals to provide direct service from point A to point B in a timely manner. They can also arrange for shipments that require delivery through multiple intermediaries such as railroads and distribution centers. In addition, line haul carriers often offer logistical support by providing tracking systems, route planning assistance, local pick-up/delivery services, packaging and warehousing capabilities. The key advantage of using these types of carriers is that they provide one central source for shipping needs. This helps streamline the process so that customers don't need to keep track of several different companies or vendors during the course of shipping something from one place to another.
                             </p>
                         </div>
                     </li>
@@ -121,7 +138,7 @@
                             <p class="para-2"> If you notify Rapid Auto Shipping ahead of time about your Line Haul Transportation request, you may be able to earn a significant discount on your transaction. It will then be simple for Rapid Auto Shipping to arrange for a Line Haul Transporter. Rapid Auto Shipping believes in providing clients and consumers with the most cost-effective service possible. When compared to any other <a href="https://rapidautoshipping.com/">transport service company</a> on the market, Rapid Auto Shipping offers the most benefits for Line Haul Transportation.
                             </p>
                             <div class="shipping-form-state-image">
-                                <img loading="lazy" src="<?= get_img() ?>isuzu-trucks-background.jpg" alt="Line haul transportation" />
+                                <img loading="lazy" src="<?= get_img() ?>isuzu-trucks-background.jpg" alt="linehaul transportation" />
                             </div>
                         </div>
                     </li>
@@ -147,7 +164,7 @@
                                 Transportation costs: Because carriers track analytics for each delivery, they have an impact on freight transportation costs. This assists them in determining the correct cost for moving freight while yet allowing the organisation to make a profit.
                             </p>
                             <div class="shipping-form-state-image">
-                                <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667822580/Recent%20Uploads/39ae15d5-ecdb-4a20-93db-aa0e451aff2e_rlcjix.jpg" alt="FIFTH-WHEEL RV" />
+                                <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667822580/Recent%20Uploads/39ae15d5-ecdb-4a20-93db-aa0e451aff2e_rlcjix.jpg" alt="line haul auto transport" />
                             </div>
                             <p class="para-2">
                                 <br> Line haul carriers have a direct impact on freight flow because they control the modes of transportation. For example, a line haul carrier with a large cargo ship fleet may be able to control the bulk of freight shipping over a body of water, lowering costs and eliminating competition.
@@ -205,7 +222,7 @@
                                 <br><br> Make use of the appropriate software: You can use digital tracking software to keep track of crucial metrics for each delivery and improve the efficiency of your freight transportation business. There are hundreds of digital tools for freight companies available on the internet.
                             </p>
                             <div class="shipping-form-state-image">
-                                <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668072952/Recent%20Uploads/9ca5c3b1500e24fc85961c3924de96289d518134_recqyb.jpg" alt="fifth wheel car shipping" />
+                                <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668072952/Recent%20Uploads/9ca5c3b1500e24fc85961c3924de96289d518134_recqyb.jpg" alt="line haul transport" />
                             </div>
 
                         </div>
@@ -229,7 +246,7 @@
                     </li>
                 </ul>
                 <div class="shipping-form-state-image">
-                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668072952/Recent%20Uploads/semi-truck-on-a-two-lane-mountain-highway-with-beautiful-clouds-in-picture-id1416057555_f4hiz0.jpg" alt="FIFTH-WHEEL RV" />
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668072952/Recent%20Uploads/semi-truck-on-a-two-lane-mountain-highway-with-beautiful-clouds-in-picture-id1416057555_f4hiz0.jpg" alt="line haul auto transportation" />
                 </div>
             </section>
         </div>

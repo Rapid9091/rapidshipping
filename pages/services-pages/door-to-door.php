@@ -124,7 +124,7 @@
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <div class="shipping-form-state-image">
-                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673511549/door-to-door-car-img.jpg" alt="Door-to-Door Car Transport" />
+                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673511549/door-to-door-car-img.jpg" alt="Door to Door Auto Transport" />
 
                 </div>
                 <ul>
@@ -165,7 +165,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831351/RapidAutoShipping/home-delivering-vehicle-1_zdchxd.png" alt="Door-to-Door Auto Transport" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831351/RapidAutoShipping/home-delivering-vehicle-1_zdchxd.png" alt="Door to Door Auto Shipping" />
 
                     </div>
                     <li id="3">
@@ -202,7 +202,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667289367/pikwizard-93ebb5ffea68de56d908cf4447f61f4e_aq36ag.jpg" alt="Door-to-Door Car Transport" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667289367/pikwizard-93ebb5ffea68de56d908cf4447f61f4e_aq36ag.jpg" alt="Door to Door Car Shipping Services" />
 
                     </div>
                     <li id="6">
@@ -262,7 +262,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521154/door-to-door-img-2.jpg" alt="Door-to-Door Car Transport" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521154/door-to-door-img-2.jpg" alt="Door to Door Car Shipping" />
 
                     </div>
                     <li id="9">
@@ -277,21 +277,11 @@
                     </li>
                     <li id="10">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">The advantages of using a <span>door-to-door</span> transportation service</h2>
+                            <h2 class="heading-1">What are the benefits of <span>door to door auto transport</span>?</h2>
                             <p class="para-2">
-                                Find out what the benefits of door-to-door car shipping are:<br>
-
-                                Is there anything more handy than having your vehicle delivered right to your doorstep? Your car is transported from point A to point B with ease using door-to-door services. Every step of the shipping process is handled by our professional couriers. After that, you can choose between open car transport and enclosed automobile transport, and you're ready to leave.
-                                <br><br>
-                                Allow us to handle the transportation of your vehicle, and you won't have to worry about planning a long road trip. Your automobile will arrive at its destination faster and in a safer manner than if you drove it on the highway.
-                                <br>
-                                You have the option of selecting the pick-up and delivery locations. We'll get as close as we can as long as it's safe and lawful to do so. It doesn't have to be your home, either. Why not travel to your office, shopping centre, or storage facility if it's more convenient?
-                                <br><br>
-                                We offer a door-to-door auto transport service to provide the greatest value. Use our rapid online quotation calculator to find out how much it will cost.
-
-                                You can meet the person who will be transporting your automobile when it is picked up. This is reassuring to our customers. You get to supervise the loading and unloading of your vehicle, as well as inspect it directly with the carrier.
-
-                                If you have more than one vehicle in your household, don't be concerned about arranging a door-to-door auto transport service. Whether you require one, two, three, or more cars delivered to your door, we can make the appropriate preparations.
+                                <b><span> Convenience –</span></b> Door to door auto transport is the most convenient option when it comes to shipping a car. This service allows you to have your vehicle picked up and dropped off at any location of your choice, eliminating the need for you to drive the vehicle yourself or arrange alternate transportation methods such as renting a trailer.
+                                <br><br><b><span> Standard –</span></b> Door to door auto transport gives customers peace of mind knowing that their vehicles are being transported with care by experienced drivers and carriers who understand how important it is for them to get where they need to go safely and securely.
+                                <br><br><b><span> Safety –</span></b> Door to door auto transport is an incredibly convenient option for those looking to ship their vehicle. One of the biggest benefits of this type of transport is safety. With door to door auto transport, your vehicle will never be exposed while it’s in transit and won't experience any wear and tear from long-distance travel.
                             </p>
                         </div>
                     </li>
@@ -333,7 +323,7 @@
                 </ul>
 
                 <div class="shipping-form-state-image">
-                    <img src="<?= get_img() ?>home_bg-1.jpg" alt="Door-to-Door Auto Transport" />
+                    <img src="<?= get_img() ?>home_bg-1.jpg" alt=" Door to Door Car Shipping Company" />
                 </div>
             </section>
 
