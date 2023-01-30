@@ -89,7 +89,7 @@
   <!-- ----------------------------- -->
 
   <section class="first-california-state" style="background-color: var(--section-background);">
-    <div class="sixth-california-state-gird-1 utility_grid">
+    <div class="sixth-california-state-gird-1 utility_grid" style="margin-top:0;">
       <div class="sixth-california-state-gird-1-content">
         <h2 class="utility_main-heading">Car Shipping in <span class="california-state-span"> California</span></h2>
 

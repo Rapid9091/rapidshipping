@@ -8,13 +8,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Best Auto Shipping Michigan - Rapid Auto Shipping</title>
-    <meta name="Best Auto Shipping Michigan - Rapid Auto Shipping" />
-    <meta name="description" content="Rapid Auto Shipping is one of the best car shipping companies in Michigan, Need to ship your car in or from Michigan? Get Quote now!" />
+    <meta name="title" content="Best Auto Shipping Michigan - Rapid Auto Shipping" />
+    <meta name="description" content="Rapid Auto Shipping is a company that offers fast and reliable car shipping services, so if you are looking to ship your vehicle in or from Michigan, then get an instant quote now." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Auto Shipping Michigan - Rapid Auto Shipping" />
-    <meta property="og:description" content="Rapid Auto Shipping is one of the best car shipping companies in Michigan, Need to ship your car in or from Michigan? Get Quote now!" />
+    <meta property="og:title" content="Best Auto Shipping Michigan - Rapid Auto Shipping" />
+    <meta property="og:description" content="Rapid Auto Shipping is a company that offers fast and reliable car shipping services, so if you are looking to ship your vehicle in or from Michigan, then get an instant quote now." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/michigan" />
-    <meta property="og:site_name" content="Military Shipping - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Best Auto Shipping Michigan - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
 
     <meta name="keywords" content="auto shipping michigan, car shipping companies in michigan, car shipping michigan, vehicle transport mi, auto transport michigan, car transport michigan, vehicle shipping michigan, car shipping quotes michigan, car transport companies in michigan, michigan car transport companies, michigan car shipping companies, shipping a car to michigan, car transport to michigan, car shipping from california to michigan, car transport services michigan, michigan auto shipping, car hauler companies in michigan" />
