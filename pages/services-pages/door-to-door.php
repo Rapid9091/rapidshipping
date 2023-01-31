@@ -59,7 +59,7 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: repeat, no-repeat;
-            background-image: url('<?= get_img() ?>door to door-bg.jfif');
+            background-image: url('<?= get_img() ?>door-to-door-bg.jfif');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
@@ -115,16 +115,13 @@
                     <li><a href="#10">the advantages of using a door to door transportation service</a></li>
                     <li><a href="#11">what types of auto transportation do we provide?</a></li>
                     <li><a href="#12">when it's impossible to ship a car from one location to another?</a></li>
-
-
-
                 </ul>
 
             </div>
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <div class="shipping-form-state-image">
-                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673511549/door to door-car-img.jpg" alt="Door to Door Auto Transport" />
+                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673511549/door-to-door-car-img.jpg" alt="Door to Door Auto Transport" />
 
                 </div>
                 <ul>
@@ -262,7 +259,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521154/door to door-img-2.jpg" alt="Door to Door Car Shipping" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521154/door-to-door-img-2.jpg" alt="Door to Door Car Shipping" />
 
                     </div>
                     <li id="9">
