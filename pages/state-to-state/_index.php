@@ -174,7 +174,7 @@ if (isset($_GET['page_id'])) {
     <!-- ------------------------ -->
     <section class="rapid-advantages-section">
         <div class="rapid-advantages-grid-container">
-            <h2 class="heading-1">Advantages usign <span>Rapid Auto Shipping</span></h2>
+            <h2 class="heading-1">Advantages using <span>Rapid Auto Shipping</span></h2>
             <div class="rapid-advantages-grid utility_grid utility_grid-3">
                 <div class="rapid-advantages-grid-1 ">
                     <img src="<?= get_img() ?>icons/rating.png" alt="Albama to alaska shipping">
