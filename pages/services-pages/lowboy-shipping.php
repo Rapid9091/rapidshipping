@@ -15,6 +15,7 @@
     <meta property="og:description" content="Looking for the best lowboy trucking companies? Rapid Auto Shipping specialises in heavy equipment transport services throughout the United States." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/lowboy-shipping" />
     <meta property="og:site_name" content="Lowboy Trucking company | Lowboy Hauling Services" />
+    <meta property="og:image" content="https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="lowboy transport, lowboy trucking, lowboy hauling, lowboy trucking company, lowboy hauling near me, lowboy services, lowboy transportation, lowboy transport services, lowboy trucking companies, heavy haul lowboy, lowboy transport services, lowboy hauler, heavy haul lowboy trailers, lowboy trucking near me, lowboy services near me, heavy haul lowboys, lowboy trailer trucking companies, lowboy service, lowboy hauling companies, lowboy heavy haul trailers, lowboy loads, lowboy hauling rates, heavy haul lowboy trailers, lowboy service near me, lowboy boat trailer, lowboy cost per mile, lowboy trailer loading, lowboy trailer for hire near me" />
     <meta property="article:tag" content="lowboy transport" />

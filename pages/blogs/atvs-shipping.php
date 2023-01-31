@@ -15,6 +15,7 @@
     <meta property="og:description" content="Rapid Auto Shipping - ATV TRANSPORT Services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in ATV TRANSPORT Services in all states of the USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/shipping-a-dump-truck" />
     <meta property="og:site_name" content="ATV TRANSPORT Service Provider Company in USA" />
+    <meta property="og:image" content="https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="ATV TRANSPORT Service Provider Company in USA,ATV shipping services,ATV transportation,Cheap ATV's transport services, ATV's auto transport services company,ATV transportation services near me, ATV transport companies ,ATV transport services cost,ATV transport service provider for hire near me" />
 

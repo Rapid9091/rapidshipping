@@ -19,6 +19,7 @@
   <meta property="og:url" content="https://rapidautoshipping.com/states/california" />
   <meta property="og:img" content="https://rapidautoshipping.com/assets/images/66178.png" />
   <meta property="og:site_name" content="california Auto Transport - Rapid Auto Shipping" />
+  <meta property="og:image" content="https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png" />
   <meta name='robots' content='index' />
   <meta name="keywords" content="car shipping companies california, auto transport california, ship my car to california, auto shipping california, ship car to california, car transporters california, vehicle shipping california, car shipping california, car transporters california, vehicle transport california, california auto transport, car transport california, california vehicle shipping, auto transport companies california, shipping car to california, california vehicle transport, car transport in california, car transportation california, car transport to california, car transportation services in California, car transport service california">
   <meta property="article:tag" content="car shipping companies california" />

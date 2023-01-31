@@ -15,6 +15,7 @@
     <meta property="og:description" content="Do you need to move large amounts of merchandise with heavy hauling large cargo? You are at right place because we are specializes in heavy cargo shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/heavy-hauling-large-cargo" />
     <meta property="og:site_name" content="heavy hauling large cargo - Rapid Auto Shipping" />
+    <meta property="og:image" content="https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="heavy freight, cargo hauling, heavy cargo transportation, heavy cargo, hauling cargo, heavy shipping companies, heavy goods shipping, shipping heavy items, cargo haul, how to ship weights, what is heavy goods shipping, heavey loads, how heavy is a cargo ship, shipping something heavy, cargo loads, best shipping for heavy items, how to ship heavy items, shipping large, cargo shipments, haul cargo" />
     <meta property="article:tag" content="heavy freight" />

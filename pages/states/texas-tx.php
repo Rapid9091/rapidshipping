@@ -14,6 +14,7 @@
     <meta property="og:description" content="Do you need to auto transport texas? We ship cars in Texas to all parts of the state at reasonable prices." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/texas-tx" />
     <meta property="og:site_name" content="Texas Auto transport Service | (833) 233-4447" />
+    <meta property="og:image" content="https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="texas car shipping, vehicle shipping texas, car transport texas, ship my car to texas, car shipping companies houston, auto transport austin tx, texas auto transport, car shipping texas, vehicle transport texas, auto shipping texas, shipping car from california to texas" />
     <meta property="article:tag" content="texas car shipping" />

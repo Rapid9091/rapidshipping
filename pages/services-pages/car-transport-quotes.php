@@ -15,6 +15,7 @@
     <meta property="og:description" content="Get instant car shipping quotes with no hassles or hidden fees, and learn about the best car shipping companies to ship for the best auto shipping rates!" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/car-transport-quotes" />
     <meta property="og:site_name" content="Get Instant Free Car Shipping Quotes" />
+    <meta property="og:image" content="https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car shipping, car shipping companies, car shipping services, vehicle shipping, car shipping quotes, cheap car shipping, vehicle shipping companies, auto shipping quotes, best car shipping companies, auto transport quotes, car shipping calculator,  car transport cost, vehicle shipping quote" />
     <meta property="article:tag" content="car shipping" />
