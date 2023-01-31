@@ -77,7 +77,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Overseas car shipping";
-        $PARAGRAPH = "For a variety of reasons, some clients may choose to relocate abroad: a dream career, the possibility to pursue an overseas education, love, family, retirement, etc. It can be really stressful to relocate to another country. Moving abroad involves numerous processes, such as packing up your belongings, locating housing, and acclimating to a foreign culture. Some clients want to bring their own cars as well, adding another step to the process by setting up secure overseas car shipping.";
+        $PARAGRAPH = "</br>For a variety of reasons, some clients may choose to relocate abroad: a dream career, the possibility to pursue an overseas education, love, family, retirement, etc. It can be really stressful to relocate to another country. Moving abroad involves numerous processes, such as packing up your belongings, locating housing, and acclimating to a foreign culture. Some clients want to bring their own cars as well, adding another step to the process by setting up secure overseas car shipping.";
         include small_form;
         ?>
     </div>

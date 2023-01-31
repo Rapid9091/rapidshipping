@@ -281,7 +281,7 @@
             </div>
             <div class="sixth-california-state-gird-1 utility_grid" id="door_to_door_car_shipping_alaska">
                 <div class="sixth-california-state-gird-1-img ">
-                    <img loading="lazy" src="<?= get_img() ?>door-to-door-bg.jfif" alt="Alaska Auto Transportation Services">
+                    <img loading="lazy" src="<?= get_img() ?>door-to-door-bg.jfif" alt="Alaska Car Shipping">
                 </div>
                 <div class="sixth-california-state-gird-1-content" id="door_to_door_transport_to_california_section">
                     <h3 class="utility_sub-heading">Door to Door auto Transport</h3>

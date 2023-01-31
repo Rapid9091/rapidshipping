@@ -101,11 +101,7 @@
                     <li><a href="#2">heavy haul trucking details</a></li>
                     <li><a href="#3">we ship a lot of heavy haul equipment</a></li>
                     <li><a href="#4">what to be on the lookout for in a heavy haul trucking company</a></li>
-
-
-
                 </ul>
-
             </div>
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
@@ -147,13 +143,12 @@
                             <h2 class="heading-1">We Ship A Lot Of <span>Heavy Haul Equipment</span></h2>
                             <p class="para-2">From pickup to delivery, our heavy haul trucking logistics experts will plan transportation. We'll handle your big freight, even if convoys and pilot cars are required. We'll also do our utmost to locate the most cost-effective options. That is what distinguishes us as one of the greatest heavy-haul trucking companies in the industry!
                                 <br>
-                                Excavator Hauling, Bulldozer Transport, Paver Trucking, Forklift Transport, Motor Grader Shipping, Trenchers Shipping, Heavy Duty Truck Transport, Compactor Shipping, Crane Shipping, Wheel Loader Hauling, Construction Equipment Transport, Oversize Load Transport, Wide Load Shipping, International Heavy Haul Trucking
+                                Excavator Hauling, Bulldozer Transport, Paver Trucking, Forklift Transport, Motor Grader Shipping, Trenchers Shipping, Heavy Duty Truck Transport, Compactor Shipping, Crane Shipping, Wheel Loader Hauling, Construction Equipment Transport, <a href="https://rapidautoshipping.com/services/hauling-oversize-load">Oversize Load Transport</a>, Wide Load Shipping, International Heavy Haul Trucking
                             </p>
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
                         <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673939648/Recent%20Uploads/heavy-hauling-large-cargo-shipping.jpg" alt="Heavy Haul Trucking Details" />
-
                     </div>
                     <li id="4">
                         <div class="shipping-form-state-content">
@@ -168,18 +163,11 @@
                                 <li style="list-style:disc !important" class="para-2"> Understanding of the regulatory requirements for large or wide loads on the route</li>
                                 <li style="list-style:disc !important" class="para-2"> The transportation fleet's quality and versatility</li>
                                 <li style="list-style:disc !important" class="para-2"> Heavy-haul trucking drivers with a lot of experience</li>
-                                <li style="list-style:disc !important" class="para-2"> A logistics heavy equipment transportation crew with extensive experience</li>
+                                <li style="list-style:disc !important" class="para-2"> A logistics <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping">heavy equipment transportation</a> crew with extensive experience</li>
                                 <li style="list-style:disc !important" class="para-2"> Heavy load trucking experience and expertise</li>
                             </ul>
-
-
-
                         </div>
                     </li>
-
-
-
-
                 </ul>
 
                 <div class="shipping-form-state-image">
