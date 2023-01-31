@@ -41,6 +41,7 @@
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_contactus.css">
     <link rel="stylesheet" href="<?= get_css(); ?>small-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>VIEW_ready-to-move.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>VIEW_working-state.css">
     <link rel="stylesheet" href="<?= get_css(); ?>strip-under-header.css">
 
     <style>

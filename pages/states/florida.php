@@ -202,8 +202,58 @@
             <p class="text">
                 The costs of shipping a vehicle aren’t easy to figure. Auto shipping companies consider many factors to determine your final cost. The distance between locations, your vehicle, and the type of car transport you choose affects your cost.
 
-                Add in other considerations like the season, if your move date is near a major holiday, and the weather, and your price can change. Contact multiple companies for estimates. Then, you’ll have a better idea of what you can expect to better make your decision.
+                Add in other considerations like the season, if your move date is near a major holiday, and the weather, and your price can change. Contact multiple companies for estimates. Then, you’ll have a better idea of what you can expect to better make your decision.Several more factors are just as important. These inlclude:
             </p>
+        </div>
+        <div class="cost-factors">
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/itinerary.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Distance</p>
+                </div>
+            </div>
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/sedan.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Vehicle (Make and Model)</p>
+                </div>
+            </div>
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/season.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Seasonality</p>
+                </div>
+            </div>
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/road-trip.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Pick-up Date</p>
+                </div>
+            </div>
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/car-service.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Vehicle Condition</p>
+                </div>
+            </div>
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/discount.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Discount</p>
+                </div>
+            </div>
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/route.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Route</p>
+                </div>
+            </div>
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/container.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Transport Method</p>
+                </div>
+            </div>
         </div>
         <div class="third-california-state-grid utility_grid utility_grid-3">
             <div class="third-california-state-grid-1">
