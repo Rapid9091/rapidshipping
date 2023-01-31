@@ -182,7 +182,7 @@ if (isset($_GET['page_id'])) {
                     <p>We have thousands of 5-star reviews for exceptional vehicle shipping services.</p>
                 </div>
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/route.png" alt="best car shipping in USA">
+                    <img src="<?= get_img() ?>icons/route-2.png" alt="best car shipping in USA">
                     <h3>Nationwide Door to Door Shipping</h3>
                     <p>We provide direct service to and from any residential or business location in the US.</p>
                 </div>
