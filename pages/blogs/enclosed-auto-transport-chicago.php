@@ -129,7 +129,7 @@
                         <p>
                             In Chicago, hire professionals for enclosed classic car transportation. <a href="<?= home_path() ?>">Rapid Auto Shipping</a> is a well-known vehicle shipping company in Chicago that provides Classic Car Enclosed Transport Services. When transporting a classic car, enclosed car transport provides added protection. We can offer you with an Enclosed Vehicle Carrier Service that will ensure your precious property arrives safely and without harm at its destination, whether it is for business or pleasure.
                         </p>
-                        <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg" alt="Luxury car Enclosed shipping">
+                        <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg" alt="auto transport Chicago">
 
                     </div>
                     <div class="new-blog-section-one new-blog-section-one-changes">
