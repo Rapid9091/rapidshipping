@@ -129,7 +129,7 @@
                         <p>
                             Ship car from california to texas have distance of approx 1400km. It will be simpler if you delegate this long-distance transportation to pros. Because many families auto-ship their vehicles, moving your car from one city to another is simple. You may believe that you can drive the car yourself to your new residence. However, you must consider the expense of gasoline, lodging rates, and the time required to drive this distance, as well as the reverse. The engine will get greater mileage if you drive it for this long. Some missiles or rocks can also cause harm to your car, causing several motor parts to be damaged. In addition, the dust in the air will fade the colour of your car. So, why are you under so much stress? Allow the pros to handle it. Paying a business to ship your car is preferable to doing it yourself and making things worse.
                         </p>
-                        <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521398/Recent%20Uploads/car-shipping-3.jpg" alt="Texas to california auto shipping">
+                        <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521398/Recent%20Uploads/car-shipping-3.jpg" alt="california to texas auto shipping">
 
                     </div>
                 </div>
@@ -153,7 +153,7 @@
                         <p>
                             You might be thinking after looking at the many sorts of services available from each auto transport company. The cost of shipping a car from Texas to California is determined by the type of service you choose. The fee is also determined by the country to which you are transporting your vehicle. The freight you must pay may differ depending on which country you are in. To recap the cost, if you are performing open shipping, you can do it for under $800, depending on the company. If you use enclosed shipping, it can cost up to $1400. If you need an interstate car carrier, it will be less expensive than usual. For your transport shipping, you can also use the site function.
                         </p>
-                        <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668845979/Recent%20Uploads/email-4284157-735x551_asbg06.png" alt="Texas to california auto shipping">
+                        <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668845979/Recent%20Uploads/email-4284157-735x551_asbg06.png" alt="ship a car from texas to california ">
 
                     </div>
                 </div>
@@ -165,7 +165,7 @@
                             California and Texas are both massive states. People are frequently transporting vehicles to various regions in these two states. But, in the end, there are a few well-known locations where people park their automobiles all year. You might be curious about the ship car from Texas to California. Don't worry; math has already been done for you, so you can easily calculate overall shipping costs. The shipping pricing and projected car shipment time may fluctuate depending on different auto transport firms and the size of the auto train. The following are the approximate fees for auto transport:
                             <br><br>
                         </p>
-                        <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566890/Recent%20Uploads/car-and-walllet.webp" alt="Texas to california auto shipping">
+                        <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566890/Recent%20Uploads/car-and-walllet.webp" alt="CAR SHIPPING COST FROM TEXAS TO CALIFORNIA">
 
                         <p>
                             The voyage from Houston, Texas, to Los Angeles, California, is approximately 1553 miles long and takes 3-5 days. Shipping from Texas to California is approximately between $1,050 and $1,250, depending on whether you use an open carrier or an enclosed auto carrier.
@@ -179,7 +179,7 @@
                             The cost of driving from Bakersfield, California to Corpus Christi, Texas is between $1,025 and $1,225, depending on the service and car model. The distance you are having your car sent is approximately 1632 miles, and ship car from Texas to California could take 3-6 days.
 
                         </p>
-                        <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668072952/Recent%20Uploads/semi-truck-on-a-two-lane-mountain-highway-with-beautiful-clouds-in-picture-id1416057555_f4hiz0.jpg" alt="california to texas auto shipping">
+                        <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668072952/Recent%20Uploads/semi-truck-on-a-two-lane-mountain-highway-with-beautiful-clouds-in-picture-id1416057555_f4hiz0.jpg" alt="Texas to california auto shipping">
 
                         <p> The Car shipping cost from Texas to California via Bakersfield, California to Corpus Christi, Texas is between $1,025 and $1,225, depending on the service and car model. The distance you are having your car sent is approximately 1632 miles, and shipping your vehicle could take 3-6 days. <br>
                             The distance between El Paso, Texas and Long Beach, California is only 851 miles, and shipping your car takes only 2-3 days. If you are seeking the best transportation company to ship your automobile, Car shipping cost from Texas to California might range from $650 to $1000.

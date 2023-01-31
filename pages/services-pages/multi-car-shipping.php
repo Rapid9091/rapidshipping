@@ -191,7 +191,7 @@
                 </ul>
 
                 <div class="shipping-form-state-image">
-                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673591711/Recent%20Uploads/giving-key.jpg" alt="Top Multi Car Shipping Services" />
+                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673591711/Recent%20Uploads/giving-key.jpg" alt="multi car transport services" />
                 </div>
             </section>
 

@@ -130,7 +130,7 @@
                         Automobiles are held in terminals, which are regional storage facilities. The majority of these facilities are in or near major cities. To put it another way, the trucker you work with is just responsible for transporting your vehicle from one terminal to the next.
                         <br><br>
                     </p>
-                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831375/RapidAutoShipping/vaibhv-img_rjhueu.png" alt="Open auto transport">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831375/RapidAutoShipping/vaibhv-img_rjhueu.png" alt="terminal to terminal Auto Transport services">
 
                     <p>
                         Terminals will be provided to you near your two designated sites. However, if you reside in a remote area, this fact may result in a long drive. As a result, many people consider it to be a less appealing option.

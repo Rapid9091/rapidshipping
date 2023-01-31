@@ -174,27 +174,25 @@ if (isset($_GET['page_id'])) {
     <!-- ------------------------ -->
     <section class="rapid-advantages-section">
         <div class="rapid-advantages-grid-container">
-            <h2 class="heading-1">Advantages usign <span>Rapid Auto Shipping</span></h2>
+            <h2 class="heading-1">Advantages using <span>Rapid Auto Shipping</span></h2>
             <div class="rapid-advantages-grid utility_grid utility_grid-3">
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/rating.png" alt="Albama to alaska shipping">
+                    <img src="<?= get_img() ?>icons/rating.png" alt="best car shipping in USA">
                     <h3>Top Rated Auto Shipping Company</h3>
                     <p>We have thousands of 5-star reviews for exceptional vehicle shipping services.</p>
                 </div>
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/route.png" alt="Albama to alaska shipping">
+                    <img src="<?= get_img() ?>icons/route-2.png" alt="best car shipping in USA">
                     <h3>Nationwide Door to Door Shipping</h3>
                     <p>We provide direct service to and from any residential or business location in the US.</p>
                 </div>
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/auto-insurance-icon.png" alt="Albama to alaska shipping">
+                    <img src="<?= get_img() ?>icons/auto-insurance-icon.png" alt="best car shipping in USA">
                     <h3>Complete Vehicle Coverage</h3>
                     <p>We offer the most comprehensive coverage options for complete peace of mind.</p>
                 </div>
-
-
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/savings-icon.png" alt="Albama to alaska shipping">
+                    <img src="<?= get_img() ?>icons/savings-icon.png" alt="best car shipping in USA">
                     <h3>No Up-Front Deposit Required</h3>
                     <p>You don't pay a penny until the day your shipment is scheduled for pickup.</p>
                 </div>
