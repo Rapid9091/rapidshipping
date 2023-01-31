@@ -101,7 +101,7 @@
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <div class="shipping-form-state-image">
-                    <img loading="lazy" src="<?= get_img() ?>auto-transport-open.jpg" alt="Open Car Transport" />
+                    <img loading="lazy" src="<?= get_img() ?>auto-transport-open.jpg" alt="military car shipping" />
                 </div>
                 <ul>
                     <li id="1">
@@ -129,7 +129,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667549582/Recent%20Uploads/services-4070150_960_720_mwryqa.jpg" alt="Open Auto Transport" />
+                        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667549582/Recent%20Uploads/services-4070150_960_720_mwryqa.jpg" alt="military shipping cars" />
                     </div>
                     <li id="3">
                         <div class="shipping-form-state-content">
@@ -155,7 +155,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?= get_img() ?>aboutus-first-background-image.png" alt="Open Auto Transport" />
+                        <img loading="lazy" src="<?= get_img() ?>aboutus-first-background-image.png" alt="military vehicle shipping" />
                     </div>
                     <li id="5">
                         <div class="shipping-form-state-content">
@@ -185,7 +185,7 @@
                     </li>
 
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?= get_img() ?>bus-shipping-1.jpg" alt="Best open auto transport" />
+                        <img loading="lazy" src="<?= get_img() ?>bus-shipping-1.jpg" alt="military vehicle transport" />
 
                     </div>
                     <li id="7">
@@ -216,7 +216,7 @@
                     </li>
                 </ul>
                 <div class="shipping-form-state-image">
-                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673597414/Recent%20Uploads/Auto-Shipping-about-1_gydnd1.png" alt="Open Auto Transport" />
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673597414/Recent%20Uploads/Auto-Shipping-about-1_gydnd1.png" alt="car shipping for military" />
                 </div>
             </section>
         </div>
