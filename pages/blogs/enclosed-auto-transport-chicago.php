@@ -108,7 +108,7 @@
                         <p>
                             In many respects, moving to Chicago is a blessing. It's not only a lovely destination to visit with so much to see, but it's also a land full of possibilities. Regardless of why you've come to Chicago, you'll need to ship your belongings to your new residence. There are several organisations to choose from if you need high-quality auto shipping in Chicago. The Chicago auto transport services are versatile, giving all sorts of shipping services like <a href="<?= home_path() ?>services/door-to-door">door-to-door</a> shipment, enclosed shipping, multi-carrier, etc. Simply complete the free quote form and select the service that best meets your needs.
                         </p>
-                        <img style="width:100%" loading="lazy" src="<?= get_img() ?>Enclosed-Transport-img.png" alt="Enclosed car shipping Chicago">
+                        <img style="width:100%" loading="lazy" src="<?= get_img() ?>Enclosed-Transport-img.png" alt="auto transport chicago">
                     </div>
 
                     <div class="new-blog-section-one new-blog-section-one-changes">
@@ -129,6 +129,8 @@
                         <p>
                             In Chicago, hire professionals for enclosed classic car transportation. <a href="<?= home_path() ?>">Rapid Auto Shipping</a> is a well-known vehicle shipping company in Chicago that provides Classic Car Enclosed Transport Services. When transporting a classic car, enclosed car transport provides added protection. We can offer you with an Enclosed Vehicle Carrier Service that will ensure your precious property arrives safely and without harm at its destination, whether it is for business or pleasure.
                         </p>
+                        <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg" alt="Luxury car Enclosed shipping">
+
                     </div>
                     <div class="new-blog-section-one new-blog-section-one-changes">
                         <h2><span>CHICAGO'S HARD-SIDED ENCLOSED CAR TRANSPORT</span></h2>
