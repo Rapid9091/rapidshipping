@@ -10,7 +10,7 @@
           <div class="why-choose-us-grid-box">
               <h4>We are Country wide</h4>
               <p>
-                  We build partnerships that are open and honest. With our employees, customers, drivers, and other business partners, we strive for relationships built on honesty, perseverance, mutual trust, and integrity. Our words, behavior's, decisions, and actions all come together to form a unified whole. We don't make promises we won't be able to keep. It's crucial to keep track of commitments at <strong><a href="<?= home_path() ?>" style="color:black;">Rapid Auto Shipping</a></strong>. It all comes down to the fundamentals of business. If you say you'll do something, follow through.
+                  We build partnerships that are open and honest. With our employees, customers, drivers, and other business partners, we strive for relationships built on honesty, perseverance, mutual trust, and integrity. Our words, behavior's, decisions, and actions all come together to form a unified whole. We don't make promises we won't be able to keep. It's crucial to keep track of commitments at Rapid Auto Shipping. It all comes down to the fundamentals of business. If you say you'll do something, follow through.
               </p>
           </div>
           <div class="why-choose-us-grid-box">

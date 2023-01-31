@@ -66,7 +66,7 @@
 
         <?php
         $NAME = "Rapid Auto Shipping Michigan";
-        $PARAGRAPH = "Rapid Auto Shipping is a Michigan auto shipping company that treats each and every one of its clients equally. We help clients transfer their vehicles on time and at a fair rate. We insure their automobiles completely and deliver them safely from point A to point B. You may rest easy knowing that if your car is damaged while being transported, you will be paid. We've got you covered; our insurance company will take care of the claim efficiently. We bonded and licenced a company that can be trusted by all clients. Customers do not need to pay a deposit to schedule their ride. In addition, we give trusted carriers to our customers so that they may have the best possible transportation experience.";
+        $PARAGRAPH = "</br>Rapid Auto Shipping is a Michigan auto shipping company that treats each and every one of its clients equally. We help clients transfer their vehicles on time and at a fair rate. We insure their automobiles completely and deliver them safely from point A to point B. You may rest easy knowing that if your car is damaged while being transported, you will be paid. We've got you covered; our insurance company will take care of the claim efficiently. We bonded and licenced a company that can be trusted by all clients. Customers do not need to pay a deposit to schedule their ride. In addition, we give trusted carriers to our customers so that they may have the best possible transportation experience.";
         include small_form;
         ?>
     </div>
