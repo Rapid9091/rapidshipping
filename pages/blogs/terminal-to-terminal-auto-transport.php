@@ -106,7 +106,7 @@
     <!-- -------------------------------------- -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Terminal to terminal auto transport";
+        $NAME = "Terminal to Terminal Car Shipping";
         $PARAGRAPH = " As the name implies, terminal to terminal auto transport begins and concludes at a terminal. A terminal is a type of regional car storage facility. These facilities are typically located in or near major urban areas. Auto transport from terminal to terminal is less convenient than shipping from door to door.<br>   This service is useful for people who need to drop off or pick up their cars on specific days and hours. You choose the time for your vehicle to be dropped off or picked up without needing to coordinate with the carrier driver.";
         include small_form;
         ?>

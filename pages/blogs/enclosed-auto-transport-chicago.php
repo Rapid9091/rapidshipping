@@ -97,7 +97,7 @@
             include small_form;
             ?>
         </div>
-        <h2>Enclosed Auto Transport Chicago (RAS)</h2>
+        <h2>Auto Transport Chicago</h2>
         </h2>
 
         <div class="arkansas-top-companies-2022-container">
