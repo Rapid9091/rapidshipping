@@ -97,7 +97,7 @@
 
                     In general, especially for longer excursions, you should contact a professional if an ATV won't fit in the bed of your car with the tailgate fully closed and fastened.
 
-                    Depending on your need for security and damage prevention, we provide both open and enclosed transport alternatives for ATVs. We ship to local terminals in all 50 states, or we may deliver right to your home, and every vehicle is fully insured for the duration of the delivery to prevent damages.
+                    Depending on your need for security and damage prevention, we provide both open and <a href="https://rapidautoshipping.com/services/enclosed-shipping">enclosed transport</a> alternatives for ATVs. We ship to local terminals in all 50 states, or we may deliver right to your home, and every vehicle is fully insured for the duration of the delivery to prevent damages.
                     <br><br><b>
                         COST TO SHIP AN ATV</b><br>
 
@@ -117,7 +117,7 @@
 
                     Current gas prices can have a big impact on how much it costs to freight an ATV. Fuel costs immediately affect shipping costs and have the potential to increase the cost of transportation services. When petrol prices are high, it is best to choose a mode of transportation that can carry several ATVs at once.
 
-                    <br><b> Pickup and Delivery Locations:</b> The cost to ship an ATV is often less than in a rural region because there are typically more transport trucks and shipments available in urban and metropolitan areas. Rural stops are challenging to include in a shipping route and take more time and fuel, which raises the entire cost of exporting ATVs.
+                    <br><b> Pickup and Delivery Locations:</b> The cost to ship an ATV is often less than in a rural region because there are typically more <a href="https://rapidautoshipping.com/services/transporting-case-trucks">transport trucks</a> and shipments available in urban and metropolitan areas. Rural stops are challenging to include in a shipping route and take more time and fuel, which raises the entire cost of exporting ATVs.
                     <br><br><b>
                         GET READY YOUR ATV FOR TRANSPORT</b><br>
 
