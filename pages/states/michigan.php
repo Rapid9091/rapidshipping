@@ -323,7 +323,7 @@
             </h2>
             <p class="text">
                 Rapid Auto Shipping is best in Michigan Car Shipping and will make shipping your car to or from Michigan as simple as possible. Rapid Auto Shipping is a Michigan Auto Transport that specializes in car shipping to and from Michigan as well as other locations in the United States. Within seconds, we will supply you with an accurate quote for the shipping of your vehicle.
-                All you have to do is fill out our simple online form and you'll receive a free, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent; you will not be placed on hold, and we will help you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that: on time and on budget.
+                All you have to do is fill out our simple online form and you'll receive a free, no-obligation <b><a href="<?= home_path() ?>services/car-transport-quotes">auto transport quote</a></b> in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent; you will not be placed on hold, and we will help you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that: on time and on budget.
             </p>
             <div class="five-california-state-box-btn utility_grid-center">
                 <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
@@ -368,7 +368,7 @@
                     <button><a href="<?= home_path(); ?>services/enclosed-shipping" title="Enclosed auto transportation">Know More</a></button>
                 </div>
                 <div class="sixth-california-state-gird-1-img sixth-california-state-gird-1-img-special ">
-                    <img loading="lazy" src="<?= get_img() ?>Enclosed-Transport-img.png" alt="Michigan Car shipping services">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668072952/Recent%20Uploads/truck-856345_960_720_cl2sil.jpg" alt="Michigan Car shipping services">
                 </div>
             </div>
             <div class="sixth-california-state-gird-1 utility_grid" id="door_to_door_while_shipping_Alabama">
@@ -380,7 +380,7 @@
                     <p class="text">
                         Enclosed vehicle carriers provide a better piece of mind when transporting your exotic or vintage car in Michigan. Enclosed trailers are designed to transport vehicles with low ground clearance and are equipped with hydraulic lift gates, allowing automobiles to remain entirely horizontal during loading and unloading.
                         <br><br>
-                        The cost of shipping a vintage or luxury car by enclosed carrier is determined by the trailer type you select. A single or two-car trailer (for high-end automobiles and express delivery) or a multi-car trailer (for up to seven cars) are available. Because of their availability, efficiency, and service, including personal care from the driver, enclosed trailers are more expensive. During the shipping procedure, you can communicate directly with the truck driver and be informed until your vehicle arrives in Michigan.
+                        The cost of shipping a vintage or <a href="<?= home_path() ?>services/classic-car-shipping" title="classic car transportation">Classic car</a> by enclosed carrier is determined by the trailer type you select. A single or two-car trailer (for high-end automobiles and express delivery) or a multi-car trailer (for up to seven cars) are available. Because of their availability, efficiency, and service, including personal care from the driver, enclosed trailers are more expensive. During the shipping procedure, you can communicate directly with the truck driver and be informed until your vehicle arrives in Michigan.
                     </p>
                     <button><a target="_blank" href="<?= home_path(); ?>services/door-to-door" title="luxury and classic car trnasport description">Know More</a></button>
                 </div>
