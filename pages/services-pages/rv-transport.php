@@ -64,12 +64,17 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: repeat, no-repeat;
-            background-image: url('<?= get_img() ?>home_bg-1.jpg');
+            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/v1675230274/Recent%20Uploads/rv-transport-01.jpg');
+
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
+        }
+
+        .third-section-state {
+            background-color: rgb(0, 0, 0, 0.6) !important;
         }
     </style>
 </head>
@@ -133,7 +138,7 @@
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <div class="shipping-form-state-image">
-                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673511549/door-to-door-car-img.jpg" alt="TRANSPORT SERVICES FOR RVS" />
+                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1675230274/Recent%20Uploads/rv-transport-img-02.jpg" alt="TRANSPORT SERVICES FOR RVS" />
 
                 </div>
                 <ul>
@@ -161,7 +166,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831351/RapidAutoShipping/home-delivering-vehicle-1_zdchxd.png" alt="TRANSPORT SERVICES FOR RVS" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1675230274/Recent%20Uploads/rv-transport-img-03.png" alt="TRANSPORT SERVICES FOR RVS" />
 
                     </div>
                     <li id="3">
@@ -190,7 +195,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667289367/pikwizard-93ebb5ffea68de56d908cf4447f61f4e_aq36ag.jpg" alt="RV Transport" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1675230274/Recent%20Uploads/rv-transport-img-05.jpg" alt="RV Transport" />
 
                     </div>
                     <li id="6">
@@ -225,7 +230,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521154/door-to-door-img-2.jpg" alt="RV Transport" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1675230274/Recent%20Uploads/rv-transport-01.jpg" alt="RV Transport" />
 
                     </div>
                     <li id="9">
@@ -268,7 +273,7 @@
                 </ul>
 
                 <div class="shipping-form-state-image">
-                    <img src="<?= get_img() ?>home_bg-1.jpg" alt="RV Transport" />
+                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673591711/Recent%20Uploads/giving-key.jpg" alt="RV Transport" />
                 </div>
             </section>
 
