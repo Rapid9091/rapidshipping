@@ -66,7 +66,7 @@
 
         <?php
         $NAME = "Rapid Auto Shipping Michigan";
-        $PARAGRAPH = "</br>Rapid Auto Shipping is a Michigan auto shipping company that treats each and every one of its clients equally. We help clients transfer their vehicles on time and at a fair rate. We insure their automobiles completely and deliver them safely from point A to point B. You may rest easy knowing that if your car is damaged while being transported, you will be paid. We've got you covered; our insurance company will take care of the claim efficiently. We bonded and licenced a company that can be trusted by all clients. Customers do not need to pay a deposit to schedule their ride. In addition, we give trusted carriers to our customers so that they may have the best possible transportation experience.";
+        $PARAGRAPH = "Rapid Auto Shipping is a Michigan auto shipping company that treats each and every one of its clients equally. We help clients transfer their vehicles on time and at a fair rate. We insure their automobiles completely and deliver them safely from point A to point B. You may rest easy knowing that if your car is damaged while being transported, you will be paid. We've got you covered; our insurance company will take care of the claim efficiently. We bonded and licenced a company that can be trusted by all clients. Customers do not need to pay a deposit to schedule their ride. In addition, we give trusted carriers to our customers so that they may have the best possible transportation experience.";
         include small_form;
         ?>
     </div>
@@ -86,62 +86,62 @@
         </div>
         <div class="state-city-name">
             <p>
-                Adrian,
-                <span><a href="#">Alma,</a></span>
-                Ann Arbor,
-                Battle Creek,
-                Bay City,
-                Benton Harbor,
-                Bloomfield Hills,
-                <span><a href="#">Cadillac,</a></span>
-                Charlevoix,
-                Cheboygan,
-                Dearborn,
-                <span><a href="#">Detroit,</a></span>
-                East Lansing,
-                Eastpointe,
-                Ecorse,
-                <span><a href="#">Escanaba,</a></span>
-                Flint,
-                Grand Haven,
-                Grand Rapids,
-                Grayling,
-                Grosse Pointe,
-                <span><a href="#">Hancock,</a></span>
-                Highland Park,
-                Holland,
-                Houghton,
-                Interlochen,
-                Iron Mountain,
-                <span><a href="#">Ironwood,</a></span>
-                Ishpeming,
-                Jackson,
-                Kalamazoo,
-                Lansing,
-                <span><a href="#">Livonia,</a></span>
-                Ludington,
-                Mackinaw City,
-                Manistee,
-                Marquette,
-                Menominee,
-                <span><a href="#">Midland,</a></span>
-                Monroe,
-                Mount Clemens,
-                Mount Pleasant,
-                Muskegon,
-                <span><a href="#">Niles,</a></span>
-                Petoskey,
-                Pontiac,
-                Port Huron,
-                Royal Oak,
-                <span><a href="#">Saginaw,</a></span>
-                Saint Ignace,
-                Saint Joseph,
-                Sault Sainte Marie,
-                Traverse City,
-                Trenton,
-                <span><a href="#">Warren,</a></span>
-                Wyandotte,
+                Adrian <span class="california-state-span" style="font-weight:bold;">||</span>
+                <span><a href="#">Alma <span class="california-state-span" style="font-weight:bold;">||</span></a></span>
+                Ann Arbor <span class="california-state-span" style="font-weight:bold;">||</span>
+                Battle Creek <span class="california-state-span" style="font-weight:bold;">||</span>
+                Bay City <span class="california-state-span" style="font-weight:bold;">||</span>
+                Benton Harbor <span class="california-state-span" style="font-weight:bold;">||</span>
+                Bloomfield Hills <span class="california-state-span" style="font-weight:bold;">||</span>
+                <span><a href="#">Cadillac <span class="california-state-span" style="font-weight:bold;">||</span></a></span>
+                Charlevoix <span class="california-state-span" style="font-weight:bold;">||</span>
+                Cheboygan <span class="california-state-span" style="font-weight:bold;">||</span>
+                Dearborn <span class="california-state-span" style="font-weight:bold;">||</span>
+                <span><a href="#">Detroit <span class="california-state-span" style="font-weight:bold;">||</span></a></span>
+                East Lansing <span class="california-state-span" style="font-weight:bold;">||</span>
+                Eastpointe <span class="california-state-span" style="font-weight:bold;">||</span>
+                Ecorse <span class="california-state-span" style="font-weight:bold;">||</span>
+                <span><a href="#">Escanaba <span class="california-state-span" style="font-weight:bold;">||</span></a></span>
+                Flint <span class="california-state-span" style="font-weight:bold;">||</span>
+                Grand Haven <span class="california-state-span" style="font-weight:bold;">||</span>
+                Grand Rapids <span class="california-state-span" style="font-weight:bold;">||</span>
+                Grayling <span class="california-state-span" style="font-weight:bold;">||</span>
+                Grosse Pointe <span class="california-state-span" style="font-weight:bold;">||</span>
+                <span><a href="#">Hancock <span class="california-state-span" style="font-weight:bold;">||</span></a></span>
+                Highland Park <span class="california-state-span" style="font-weight:bold;">||</span>
+                Holland <span class="california-state-span" style="font-weight:bold;">||</span>
+                Houghton <span class="california-state-span" style="font-weight:bold;">||</span>
+                Interlochen <span class="california-state-span" style="font-weight:bold;">||</span>
+                Iron Mountain <span class="california-state-span" style="font-weight:bold;">||</span>
+                <span><a href="#">Ironwood <span class="california-state-span" style="font-weight:bold;">||</span></a></span>
+                Ishpeming <span class="california-state-span" style="font-weight:bold;">||</span>
+                Jackson <span class="california-state-span" style="font-weight:bold;">||</span>
+                Kalamazoo <span class="california-state-span" style="font-weight:bold;">||</span>
+                Lansing <span class="california-state-span" style="font-weight:bold;">||</span>
+                <span><a href="#">Livonia <span class="california-state-span" style="font-weight:bold;">||</span></a></span>
+                Ludington <span class="california-state-span" style="font-weight:bold;">||</span>
+                Mackinaw City <span class="california-state-span" style="font-weight:bold;">||</span>
+                Manistee <span class="california-state-span" style="font-weight:bold;">||</span>
+                Marquette <span class="california-state-span" style="font-weight:bold;">||</span>
+                Menominee <span class="california-state-span" style="font-weight:bold;">||</span>
+                <span><a href="#">Midland <span class="california-state-span" style="font-weight:bold;">||</span></a></span>
+                Monroe <span class="california-state-span" style="font-weight:bold;">||</span>
+                Mount Clemens <span class="california-state-span" style="font-weight:bold;">||</span>
+                Mount Pleasant <span class="california-state-span" style="font-weight:bold;">||</span>
+                Muskegon <span class="california-state-span" style="font-weight:bold;">||</span>
+                <span><a href="#">Niles <span class="california-state-span" style="font-weight:bold;">||</span></a></span>
+                Petoskey <span class="california-state-span" style="font-weight:bold;">||</span>
+                Pontiac <span class="california-state-span" style="font-weight:bold;">||</span>
+                Port Huron <span class="california-state-span" style="font-weight:bold;">||</span>
+                Royal Oak <span class="california-state-span" style="font-weight:bold;">||</span>
+                <span><a href="#">Saginaw <span class="california-state-span" style="font-weight:bold;">||</span></a></span>
+                Saint Ignace <span class="california-state-span" style="font-weight:bold;">||</span>
+                Saint Joseph <span class="california-state-span" style="font-weight:bold;">||</span>
+                Sault Sainte Marie <span class="california-state-span" style="font-weight:bold;">||</span>
+                Traverse City <span class="california-state-span" style="font-weight:bold;">||</span>
+                Trenton <span class="california-state-span" style="font-weight:bold;">||</span>
+                <span><a href="#">Warren <span class="california-state-span" style="font-weight:bold;">||</span></a></span>
+                Wyandotte <span class="california-state-span" style="font-weight:bold;">||</span>
                 Ypsilanti
             </p>
         </div>
