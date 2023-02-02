@@ -138,16 +138,16 @@ $state_list = fetch_all_data($query_to_fetch_state);
 </body>
 
 </html>
-<?php
+<!-- <?php
 
-if ($state_list) {
+// if ($state_list) {
 
-    for ($i = 0; $i < count($state_list); $i++) {
-        $state = $state_list[$i];
+//     for ($i = 0; $i < count($state_list); $i++) {
+//         $state = $state_list[$i];
 
-        echo home_path() . "state-to-state/" . $state['slug'];
-        echo  "<br>";
-    }
-}
+//         echo home_path() . "state-to-state/" . $state['slug'];
+//         echo  "<br>";
+//     }
+// }
 
-?>
+?> -->
