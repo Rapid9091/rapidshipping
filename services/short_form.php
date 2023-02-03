@@ -6,6 +6,7 @@ $domain = "https://rapidautoshipping.com";
 
 if (isset($_GET['redirectto'])) {
     $domain = $_GET['redirectto'];
+    echo $domain;
 }
 
 
@@ -20,6 +21,7 @@ if (isset($_GET['fname']) && $_GET['fname'] != ""  && isset($_GET['email']) && $
     $email = $_GET['email'];
     $number = $_GET['number'];
     $page = $_GET['page'];
+    echo "$page";
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
         header("Location: " . $domain . "?error=Invalid email");
     }

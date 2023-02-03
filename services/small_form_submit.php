@@ -7,12 +7,12 @@ $con =  mysqli_connect($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
 $response = [];
 // $time_stamp = date("Y-m-d");
 
-if (isset($_POST['name']) && $_POST['name'] != ""  && isset($_POST['email']) && $_POST['email'] != "" && isset($_POST['mobile']) && $_POST['mobile'] != "") {
+if (isset($_POST['name']) && $_POST['name'] != ""  && isset($_POST['email']) && $_POST['email'] != "" && isset($_POST['mobile']) && $_POST['mobile'] != "" && isset($_POST['page'])) {
 
     $name = $_POST['name'];
     $email = $_POST['email'];
     $number = $_POST['mobile'];
-
+    $page = $_POST['page'];
 
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
         $response['result'] = false;
@@ -35,7 +35,7 @@ if (isset($_POST['name']) && $_POST['name'] != ""  && isset($_POST['email']) && 
     $txt = "Name : " . $name . " " . "\r\n";
     $txt .= "Email : " . $email  . "\r\n";
     $txt .= "Number : " . $number . "\r\n";
-    $txt .= "Page : " . $domain . "\r\n";
+    $txt .= "Page : " . $page . "\r\n";
 
     $headers = "From: noreply.rapidautoshipping.com";
 
@@ -50,18 +50,11 @@ if (isset($_POST['name']) && $_POST['name'] != ""  && isset($_POST['email']) && 
             $response['message'] = "Something went worng";
             throwResponse($response);
         }
-        
     } else {
         $response['result'] = false;
         $response['message'] = "Data table is full";
         throwResponse($response);
     }
-
-
-
-
-
-
 } else {
     $response['result'] = false;
     $response['message'] = "Insufficient data";
