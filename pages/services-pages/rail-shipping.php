@@ -81,7 +81,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Transport Car By Train";
-        $PARAGRAPH = "You may believe that shipping your car by rail is straightforward, but big railroad firms will not serve customers who have only one or two vehicles. Among these companies are Amtrak, Union Pacific, and Burlington Northern Santa Fe. They book all available space with car shipping companies that move cars on a regular basis.";
+        $PARAGRAPH = "You may believe that shipping your car by rail is straightforward, but big railroad firms will not serve customers who have only one or two vehicles. Among these companies are Amtrak, Union Pacific, and Burlington Northern Santa Fe. They book all available space with car shipping companies that move cars on a regular basis.Transporting a car by train can be an efficient, cost-effective way to get your vehicle from one place to another. Whether you're moving across the country or just shipping a car as part of a long-distance sale, it's important to know that there are reliable options if you choose to use rail transport.";
         include_once small_form;
         ?>
     </div>

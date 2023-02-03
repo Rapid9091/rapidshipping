@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>We provide trusted customised container shipping services</title>
-    <meta name="title" content="We provide trusted customised container shipping services." />
+    <title>Shipping Car In Container | shipping Container For Cars</title>
+    <meta name="title" content="Shipping Car In Container | shipping Container For Cars." />
     <meta name="description" content="Rapid Auto Shipping provides customised shipping containers solutions to fit your individual needs at an attractive price." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="We provide trusted customised container shipping services." />
+    <meta property="og:title" content="Shipping Car In Container | shipping Container For Cars." />
     <meta property="og:description" content="Rapid Auto Shipping provides customised shipping containers solutions to fit your individual needs at an attractive price." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/cutomized-container-shipping" />
-    <meta property="og:site_name" content="customised container shipping - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Shipping Car In Container | shipping Container For Cars" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="shipping container garage, container modifications, customised shipping containers, how much does a 40ft shipping container weigh, containers for sale, shipping containers for sale in ga, 40'hc container, modified shipping containers, 40 shipping container weight, shipping container workshop, custom shipping containers, 40 foot shipping container weight, 40hc container, 53 containers, 53 container, shipping container modifications, 53 shipping container for sale, 53 high cube shipping container for sale, 40ft shipping container weight, 40 ft shipping container weight, shipping container garage, custom storage containers, shipping container roll up doors, custom containers" />
     <meta property="article:tag" content="shipping container garage" />
@@ -78,7 +78,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Customised shipping containers";
-        $PARAGRAPH = "Rapid Auto Shipping can give you lots Customised shipping containers solutions to fit your needs. Domestic container movers charge different rates than international container carriers, but both have other things to consider. The dimensions and weight of your shipping container are shown here. The weight of the contents within a 40-foot shipping crate, for example, determines the cost of transport. We also can transport empty shipping containers.";
+        $PARAGRAPH = "Rapid Auto Shipping can give you lots Customised shipping containers solutions to fit your needs. Domestic container movers charge different rates than international container carriers, but both have other things to consider. The dimensions and weight of your shipping container are shown here. The weight of the contents within a 40-foot shipping crate, for example, determines the cost of transport. We also can transport empty shipping containers.We also offer additional services such as storage solutions and loading/unloading assistance that help ensure that all shipments are delivered on time and safely arrive at their destination.";
         include_once small_form;
         ?>
     </div>
