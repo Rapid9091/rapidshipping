@@ -19,6 +19,7 @@ if (isset($_GET['fname']) && $_GET['fname'] != ""  && isset($_GET['email']) && $
     }
     $email = $_GET['email'];
     $number = $_GET['number'];
+    $page = $_GET['page'];
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
         header("Location: " . $domain . "?error=Invalid email");
     }
@@ -32,7 +33,7 @@ if (isset($_GET['fname']) && $_GET['fname'] != ""  && isset($_GET['email']) && $
     $txt = "Name : " . $name . " " . $lname . "\r\n";
     $txt .= "Email : " . $email  . "\r\n";
     $txt .= "Number : " . $number . "\r\n";
-    $txt .= "Page : " . $domain  . "\r\n";
+    $txt .= "Page : " . $page  . "\r\n";
 
     $headers = "From: noreply.rapidautoshipping.com";
 

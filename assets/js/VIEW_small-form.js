@@ -2,6 +2,7 @@ function submit_from() {
   let name = get_value("name", "Name can't be empty"),
     email = get_value("email", "Email can't be empty"),
     number = get_value("number", "Number can't be empty");
+  page = get_value("page", "Page can't be empty");
 
   if (!name || name == "" || !validate_name(name)) {
     toast.error("Please enter a valid name");
@@ -25,6 +26,7 @@ function submit_from() {
         name: name,
         email: email,
         mobile: number,
+        page: page,
       },
 
       function (data, status) {

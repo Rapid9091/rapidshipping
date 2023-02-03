@@ -19,7 +19,7 @@ $form_url = home_path() . "services/short_form.php?redirectto=" . current_path()
 
     </div>
 
-    <form action="<?= $form_url ?>" class="third-section-form">
+    <form action="<?= $form_url ?>" class="third-section-form" method="get">
         <div>
             <p>Get an Instant Quote </p>
             <p>Call: <a href="tel:+1-833-233-4447">+1 (833) 233-4447</a></p>
@@ -30,9 +30,9 @@ $form_url = home_path() . "services/short_form.php?redirectto=" . current_path()
                     <input id="name" type="text" placeholder="Name" />
                 </div>
 
-                <!-- <div class="steps-second-short-form-part">
-                    <input id="lname" type="text" placeholder="Last Name" />
-                </div> -->
+                <div class="steps-second-short-form-part" hidden>
+                    <input id="page" type="text"  value="<?= current_path() ?>" />
+                </div>
 
                 <div class="steps-second-short-form-part">
 
