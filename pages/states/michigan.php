@@ -380,9 +380,9 @@
                     <p class="text">
                         Enclosed vehicle carriers provide a better piece of mind when transporting your exotic or vintage car in Michigan. Enclosed trailers are designed to transport vehicles with low ground clearance and are equipped with hydraulic lift gates, allowing automobiles to remain entirely horizontal during loading and unloading.
                         <br><br>
-                        The cost of shipping a vintage or <a href="<?= home_path() ?>services/classic-car-shipping" title="classic car transportation">Classic car</a> by enclosed carrier is determined by the trailer type you select. A single or two-car trailer (for high-end automobiles and express delivery) or a multi-car trailer (for up to seven cars) are available. Because of their availability, efficiency, and service, including personal care from the driver, enclosed trailers are more expensive. During the shipping procedure, you can communicate directly with the truck driver and be informed until your vehicle arrives in Michigan.
+                        The cost of shipping a vintage or <b><a href="<?= home_path() ?>services/classic-car-shipping" title="classic car transportation">Classic car</a></b> by enclosed carrier is determined by the trailer type you select. A single or two-car trailer (for high-end automobiles and express delivery) or a multi-car trailer (for up to seven cars) are available. Because of their availability, efficiency, and service, including personal care from the driver, enclosed trailers are more expensive. During the shipping procedure, you can communicate directly with the truck driver and be informed until your vehicle arrives in Michigan.
                     </p>
-                    <button><a target="_blank" href="<?= home_path(); ?>services/door-to-door" title="luxury and classic car trnasport description">Know More</a></button>
+                    <button><a target="_blank" href="<?= home_path(); ?>services/classic-car-shipping" title="luxury and classic car trnasport description">Know More</a></button>
                 </div>
             </div>
         </div>

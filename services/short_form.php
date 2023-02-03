@@ -28,8 +28,8 @@ if (isset($_GET['fname']) && $_GET['fname'] != ""  && isset($_GET['email']) && $
     if (!validate_mobile($number)) {
         header("Location: " . $domain . "?error=Invalid number");
     }
-    // $to = "info@rapidautoshipping.com , amankeshari5937@gmail.com";
-    $to = "vaibhav.growupnext@gmail.com";
+    $to = "info@rapidautoshipping.com , amankeshari5937@gmail.com";
+
 
     $subject = "Query From Website";
     $txt = "Name : " . $name . " " . $lname . "\r\n";
