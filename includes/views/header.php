@@ -526,7 +526,7 @@
             <img loading="lazy" src="<?= get_img(); ?>popup_copy.jpg" alt="offer-section">
         </div>
         <div class="offer-container-btn">
-            <button><a href="tel:+1833-233-1477">+1833-233-1477</a></button>
+            <button><a href="tel:+1-833-233-1477">+1 (833) 233-4447</a></button>
             <button class="offer-box-cut-btn" id="offer-box-cut-btn" onclick="offer_box_cut()">X</button>
         </div>
     </div>

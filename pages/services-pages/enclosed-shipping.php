@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Best Enclosed Auto Transport Service - Enclosed Car Shipping</title>
     <meta name="title" content="Best Enclosed Auto Transport Service - Enclosed Car Shipping">
-    <meta name="description" content="Rapid Auto Shipping is One Of The Best Enclosed Auto Transport Service Providers. We Give Reliable Enclosed Car Shipping  Services. Get Quote Now" />
+    <meta name="description" content="We are one of the best enclosed auto transport service providers. Book your enclosed car shipping service today with Rapid Auto Shipping." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Rapid Auto Shipping - Enclosed Auto Transport" />
-    <meta property="og:description" content="Rapid Auto Shipping is One Of The Best Enclosed Auto Transport Service Providers. We Give Reliable Enclosed Car Shipping  Services. Get Quote Now" />
+    <meta property="og:description" content="We are one of the best enclosed auto transport service providers. Book your enclosed car shipping service today with Rapid Auto Shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/enclosed-shipping" />
     <meta property="og:img" content="https://rapidautoshipping.com/assets/images/vaibhav-img-2.png" />
     <meta property="og:site_name" content="open transport car shipping - Rapid Auto Shipping " />
@@ -71,7 +71,7 @@
     <!-- new section under the first section of single line -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Enclosed Car Shipping";
+        $NAME = "Trust Us With Your Enclosed Car Shipping Needs Today!";
         $PARAGRAPH = "One of the many alternatives for transporting autos across the country is enclosed auto shipment. Enclosed auto transporters use a covered, enclosed transport trailer to carry cars safely and securely. In contrast, open auto transport is loading vehicles onto a trailer that is open to the elements. Enclosed trailers protect vehicles from the elements. The majority of open trailers have the capacity to haul ten cars at once. Enclosed automobile transport trucks, on the other hand, transport two to six vehicles at once, sometimes in just one deck. On the other hand, open trailers transport ten cars on two racks stacked one on top of the other.";
         include small_form;
         ?>
@@ -122,7 +122,7 @@
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span> Why Is Enclosed Carrier The Safest Way To Transport Your Vehicle?</span></h2>
-                    <p> Firstly, Our enclosed hard and soft-sided carriers are the safest way to transport your vehicle. Furthermore, an enclosed container protects your vehicle and prevents it from sliding around. The tailored platform provides a smoother slope while loading or unloading, allowing your vehicle to load with ease and safety.
+                    <p> Firstly, Our enclosed hard and soft-sided carriers are the safest way to transport your vehicle. Furthermore, an <b><a href="<?= home_path() ?>services/customized-container-shipping" title="Customised Shipping Containers">enclosed container</a></b> protects your vehicle and prevents it from sliding around. The tailored platform provides a smoother slope while loading or unloading, allowing your vehicle to load with ease and safety.
                     </p>
                 </div>
             </div>
@@ -240,7 +240,7 @@
 
                         <br> <span style="font-weight: 500;">(->)</span> Is there sentimental value in your vehicle?
                         <br> <span style="font-weight: 500;">(->)</span> Is your vehicle a potential investment?
-                        <br> <span style="font-weight: 500;">(->)</span> Is it a historic car, a luxury car, or an exotic sports car that you own?
+                        <br> <span style="font-weight: 500;">(->)</span> Is it a historic car, a <b><a href="<?= home_path() ?>services/classic-car-shipping" title="classic car transport">luxury car</a></b>, or an exotic sports car that you own?
                         <br> <span style="font-weight: 500;">(->)</span> Is the value of your car higher than the coverage provided by an open carrier insurance policy?
                         <br> <span style="font-weight: 500;">(->)</span> Is there a high-end paint job, a lot of chrome, or exterior changes on your car?
                         <br> <span style="font-weight: 500;">(->)</span> Is your vehicle's ground clearance low, even with aftermarket body kits?

@@ -36,7 +36,7 @@
                         <div class="call-and-mail">
                             <img height="20" width="20" alt="Auto transport" src="<?= get_img() ?>phone-call-icon.png" />
                             <a href="tel:+1-833-233-4447">
-                                +1-833-233-4447
+                                +1 (833) 233-4447
                             </a>
                         </div>
                     </div>

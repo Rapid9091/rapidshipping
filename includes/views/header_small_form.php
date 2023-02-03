@@ -6,7 +6,7 @@ $form_url = home_path() . "services/short_form.php?redirectto=" . current_path()
 <form action="<?= $form_url ?>" class="third-section-form">
     <div>
         <p>Get an Instant Quote </p>
-        <p>Call: <a href="tel:+1-833-233-4447">+1-833-233-4447</a></p>
+        <p>Call: <a href="tel:+1-833-233-4447">+1 (833) 233-4447</a></p>
 
 
         <div class="steps-second-short-form third-section-form-child s-f-3">
@@ -59,7 +59,7 @@ $form_url = home_path() . "services/short_form.php?redirectto=" . current_path()
         <img src="<?= get_img() ?>/check-mark.png" alt="rapid-auto-shipping" />
         <h5>Thank You</h5>
         <p>For Getting an Immediate Quote Call <br><a href="<?= home_path(); ?>"><b>Rapid Auto Shipping </b></a> now</p>
-        <a href="tel:+123 12345678">+1833-233-4447</a>
+        <a href="tel:+1-833-233-4447">+1 (833) 233-4447</a>
     </section>
 </div>
 <script>

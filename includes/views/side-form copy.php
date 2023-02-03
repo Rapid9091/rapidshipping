@@ -1,6 +1,6 @@
 <div class="callout-right-container">
     <h2>Call us today for the free quote</h2>
-    <a href="tel:+833-233-4447">+1-833-233-4447</a></br>
+    <a href="tel:+833-233-4447">+1 (833) 233-4447</a></br>
     <p>Open 7 Days a Week</br>
         7:00am to 7:00pm EST</br>
         Closed On Holidays

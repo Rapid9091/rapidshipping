@@ -106,6 +106,6 @@
     </a>
     <h3>
         If you would prefer to speak to one of our experienced Transport Specialists,
-        feel free to give us a call at <br><a href="tel:+1-833-233-4447">+1-833-233-4447</a>
+        feel free to give us a call at <br><a href="tel:+1-833-233-4447">+1 (833) 233-4447</a>
     </h3>
 </div>
