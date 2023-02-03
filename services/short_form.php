@@ -31,6 +31,7 @@ if (isset($_GET['fname']) && $_GET['fname'] != ""  && isset($_GET['email']) && $
     $txt = "Name : " . $name . " " . $lname . "\r\n";
     $txt .= "Email : " . $email  . "\r\n";
     $txt .= "Number : " . $number . "\r\n";
+    $txt .= "Page : " . $domain  . "\r\n";
 
     $headers = "From: noreply.rapidautoshipping.com";
 
