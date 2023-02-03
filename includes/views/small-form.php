@@ -19,7 +19,7 @@ $form_url = home_path() . "services/short_form.php?redirectto=" . current_path()
 
     </div>
 
-    <form action="<?= $form_url ?>" class="third-section-form" method="get">
+    <form action="<?= $form_url ?>" class="third-section-form" >
         <div>
             <p>Get an Instant Quote </p>
             <p>Call: <a href="tel:+1-833-233-4447">+1 (833) 233-4447</a></p>
