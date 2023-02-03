@@ -9,6 +9,7 @@
 <script src="<?= get_assets(); ?>/js/header.js"></script>
 
 <script src="<?= get_js("VIEW_small-form.js"); ?>"></script>
+<script src="<?= get_js("VIEW_side-form.js"); ?>"></script>
 <script src="<?= get_js("review-home.js"); ?>"></script>
 
 
@@ -121,4 +122,3 @@
 
     gtag('config', 'UA-230557003-1');
 </script>
-

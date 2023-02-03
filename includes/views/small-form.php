@@ -1,8 +1,8 @@
-<?php
+<!-- <?php
 
-$form_url = home_path() . "services/short_form.php?redirectto=" . current_path();
+        // $form_url = home_path() . "services/short_form.php?redirectto=" . current_path();
 
-?>
+        ?> -->
 
 <section class="third-section-state">
 
@@ -19,7 +19,7 @@ $form_url = home_path() . "services/short_form.php?redirectto=" . current_path()
 
     </div>
 
-    <form action="<?= $form_url ?>" class="third-section-form" >
+    <form action="#" class="third-section-form">
         <div>
             <p>Get an Instant Quote </p>
             <p>Call: <a href="tel:+1-833-233-4447">+1 (833) 233-4447</a></p>
@@ -31,7 +31,7 @@ $form_url = home_path() . "services/short_form.php?redirectto=" . current_path()
                 </div>
 
                 <div class="steps-second-short-form-part" hidden>
-                    <input id="page" type="text"  value="<?= current_path() ?>" />
+                    <input id="page" type="text" value="<?= current_path() ?>" />
                 </div>
 
                 <div class="steps-second-short-form-part">
