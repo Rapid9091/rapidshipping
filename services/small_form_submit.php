@@ -29,11 +29,13 @@ if (isset($_POST['name']) && $_POST['name'] != ""  && isset($_POST['email']) && 
     $query_data = "INSERT INTO `form_query` ( `name`, `email`, `number`, `added_on`) VALUES ('$name', '$email', $number, current_timestamp());";
     $res = mysqli_query($con, $query_data);
 
-    $to = "info@rapidautoshipping.com , amankeshari5937@gmail.com";
+    // $to = "info@rapidautoshipping.com , amankeshari5937@gmail.com";
+    $to = "vaibhav.growupnext@gmail.com";
     $subject = "Query From Website";
     $txt = "Name : " . $name . " " . "\r\n";
     $txt .= "Email : " . $email  . "\r\n";
     $txt .= "Number : " . $number . "\r\n";
+    $txt .= "Page : " . $domain . "\r\n";
 
     $headers = "From: noreply.rapidautoshipping.com";
 
