@@ -109,7 +109,7 @@
             <h2 class="sub-service-heading-main">HOW TO Transport Farm Equipment?
             </h2>
             <p class="services-subtheory-lines-small">
-                Tractors are often transported on lowboy trucks and trailers if you're wondering how to send a tractor. Large tractors and other oversize machinery and equipment are frequently moved with this type of specialist rig. A flatbed trailer is known as a lowboy trailer. Its ground clearance is lower than that of a regular flatbed.
+                Tractors are often transported on <b><a href="<?= home_path() ?>services/lowboy-shipping">lowboy trucks</a></b> and trailers if you're wondering how to send a tractor. Large tractors and other oversize machinery and equipment are frequently moved with this type of specialist rig. A flatbed trailer is known as a lowboy trailer. Its ground clearance is lower than that of a regular flatbed.
                 <br>
                 Depending on the size of the farm equipment, we can transport it on a removable gooseneck trailer. This type of trailer is utilized when the machinery can be pushed or transferred onto the trailer bed, as is typically the case with tractors. Chains and booms are used to secure the tractor once it has been transferred or hauled onto the trailer. Boomers tighten and secure the chains to keep the trailer safe and steady on the track. The simplest approach to Transport Farm Equipment like a tractor is to work with the proper logistical specialists.
             </p>
@@ -131,11 +131,11 @@
             EXPERTISE IN FARM EQUIPMENT HANDLING THAT IS ADAPTABLE
         </h2>
         <p>
-            Tractor hauling and farm equipment transfer require a great deal of experience. At Rapid Auto Shipping, we employ qualified specialists in every department, from claims to customer service. Our team has the resources to provide each of our clients with valuable advice and services.
+            <a href="<?= home_path() ?>services/tractor-transport">Tractor hauling</a> and farm equipment transfer require a great deal of experience. At Rapid Auto Shipping, we employ qualified specialists in every department, from claims to customer service. Our team has the resources to provide each of our clients with valuable advice and services.
 
             Our finance department is incredibly responsive to the needs of our clients. We can help you locate a suitable payment method, ranging from traditional methods like direct billing and credit cards to newer options like PayPal and cryptocurrency. Frequent shoppers may be eligible for a line of credit to help with future payments. Contact our finance department to set up a payment option that is convenient for your organization.
             <br><br>
-            Rapid Auto Shipping stands out among farm equipment transportation companies because of our flexibility to adapt to your needs. We make it simple to communicate with competent employees and provide extra services like load tracking, permitting, and loading help. For comprehensive agricultural equipment transporting solutions, turn to our farm equipment transportation service . For your tractor hauling needs, we can even develop custom solutions.
+            Rapid Auto Shipping stands out among farm equipment transportation companies because of our flexibility to adapt to your needs. We make it simple to communicate with competent employees and provide extra services like load tracking, permitting, and loading help. For comprehensive agricultural equipment transporting solutions, turn to our farm equipment <b><a href="<?= home_path() ?>">transportation service</a></b> . For your tractor hauling needs, we can even develop custom solutions.
         </p>
     </section>
     <section class="first-sub-service-page">
