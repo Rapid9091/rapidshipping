@@ -85,7 +85,7 @@
     <!-- ----------------------------- -->
 
     <section class="first-california-state">
-        <h2 class="utility_main-heading">Overview About <span class="california-state-span">Car Shipping Ohio Ohio</span></h2>
+        <h2 class="utility_main-heading">Overview About <span class="california-state-span">Car Shipping Ohio</span></h2>
         <div class="first-california-state-grid utility_grid">
             <div class="first-california-state-grid " id="more_about_texas">
                 <p>

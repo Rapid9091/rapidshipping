@@ -42,12 +42,17 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
-            background-image: url('<?= get_img() ?>rhode-island-state.jpeg');
+            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping.-min_ooxowf.jpg');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
+        }
+
+        .third-section-state {
+
+            background-color: rgb(0, 0, 0, 0.6);
         }
     </style>
 </head>
@@ -72,14 +77,14 @@
         <div class="first-california-state-grid utility_grid">
             <div class="first-california-state-grid " id="description_while_shipping_rhode_island">
                 <p class="text">
-                    The State of <a title="Car shipping services in Rhode island" href="https://www.ri.gov/"><b><span class="california-state-span">Rhode island</span></b></a> is in the Northeastern United States of America. With little less than 1.1 million, it is the smallest U.S. state by area and the seventh-least populous, yet it is the second-most densely populated after New Jersey. It is named after the eponymous island, despite the fact that the majority of its land area is on the mainland. Rhode Island is bordered on the west by Connecticut, on the north and east by Massachusetts, and on the south by the Atlantic Ocean via Rhode Island Sound and Block Island Sound; it also has a tiny maritime border with New York. It's not difficult to go about the state because it's the smallest in the country. When it comes to shipping your car to or from the state, this is actually a significant advantage. In addition, the state has several major cities that are conveniently accessible by interstate highways. Providence is by far the most populous. The state's capital, as well as the most common car shipping destination, is Providence. Cranston, Warwick, and Pawtucket, all within a few miles of Providence, are other prominent cities in the state.
+                    The State of <a target="_blank" rel="nofollow" title="Car shipping services in Rhode island" href="https://www.ri.gov/"><b><span class="california-state-span">Rhode island</span></b></a> is in the Northeastern United States of America. With little less than 1.1 million, it is the smallest U.S. state by area and the seventh-least populous, yet it is the second-most densely populated after New Jersey. It is named after the eponymous island, despite the fact that the majority of its land area is on the mainland. Rhode Island is bordered on the west by Connecticut, on the north and east by Massachusetts, and on the south by the Atlantic Ocean via Rhode Island Sound and Block Island Sound; it also has a tiny maritime border with New York. It's not difficult to go about the state because it's the smallest in the country. When it comes to shipping your car to or from the state, this is actually a significant advantage. In addition, the state has several major cities that are conveniently accessible by interstate highways. Providence is by far the most populous. The state's capital, as well as the most common car shipping destination, is Providence. Cranston, Warwick, and Pawtucket, all within a few miles of Providence, are other prominent cities in the state.
                     <br><br> With Providence as the primary site for motor transportation services, accessibility is critical. And Providence is located right on Interstate 95, the primary interstate highway that runs through the city. It is one of the most vital highways in the country, running from Miami to Maine. Car shipping businesses like routes that run up and down the coast, and Providence is located southwest of Boston, which is also a major car shipping hub. Being able to travel to locations like Boston, Baltimore, and New York – as well as Providence – is a huge plus, as it usually means shorter pickup, transportation, and delivery times.
                 </p>
                 <br>
                 <h3 id="best_company_while_shipping_rhode_island">Why we are best in Rhode Island auto transport company ?</h3>
                 <br>
                 <p>
-                    <b><a href="https://rapidautoshipping.com/">Rapid Auto Shipping</a></b> is a Car transport Rhode Island Company that values all of its customers equally and provides best Car Shipping Rhode Island Services. We assist customers in getting their vehicles delivered on schedule and at a reasonable cost. We fully insure their vehicles and transport them safely from one location to another. You may rest assured that if your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance provider will efficiently handle the claim. We bonded and licensed a company that can be trusted by all clients. Customers do not need to pay a deposit to schedule their ride.Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience with Auto Transport Companies In Rhode Island.
+                    <b><a href="<?= home_path() ?>">Rapid Auto Shipping</a></b> is a Car transport Rhode Island Company that values all of its customers equally and provides best Car Shipping Rhode Island Services. We assist customers in getting their vehicles delivered on schedule and at a reasonable cost. We fully insure their vehicles and transport them safely from one location to another. You may rest assured that if your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance provider will efficiently handle the claim. We bonded and licensed a company that can be trusted by all clients. Customers do not need to pay a deposit to schedule their ride.Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience with Auto Transport Companies In Rhode Island.
                 </p>
             </div>
             <div class="first-california-state-grid-box">
@@ -121,18 +126,18 @@
             <p class="utility_text" id="more_cities_in_rhode_island">
                 Barrington <span class="california-state-span" style="font-weight:bold;">||</span>
                 Bristol <span class="california-state-span" style="font-weight:bold;">||</span>
-                <a title="Car shipping services in Rhode Island" href="https://www.centralfallsri.gov/" style="color:black;"> Central Falls </a><span class="california-state-span" style="font-weight:bold;">||</span>
+                Central Falls <span class="california-state-span" style="font-weight:bold;">||</span>
                 Cranston <span class="california-state-span" style="font-weight:bold;">||</span>
                 East Greenwich <span class="california-state-span" style="font-weight:bold;">||</span>
                 East Providence <span class="california-state-span" style="font-weight:bold;">||</span>
                 Kingston <span class="california-state-span" style="font-weight:bold;">||</span>
-                <a title="Car shipping services in Rhode Island" href="https://www.middletownri.com/" style="color:black;"> Middletown </a> <span class="california-state-span" style="font-weight:bold;">||</span>
+                Middletown <span class="california-state-span" style="font-weight:bold;">||</span>
                 Narragansett <span class="california-state-span" style="font-weight:bold;">||</span>
                 Newport <span class="california-state-span" style="font-weight:bold;">||</span>
                 North Kingstown <span class="california-state-span" style="font-weight:bold;">||</span>
                 Pawtucket <span class="california-state-span" style="font-weight:bold;">||</span>
                 Portsmouth <span class="california-state-span" style="font-weight:bold;">||</span>
-                <a title="Car shipping services in Rhode Island" href="https://www.providenceri.gov/" style="color:black;"> Providence </a> <span class="california-state-span" style="font-weight:bold;">||</span>
+                <a target="_blank" rel="nofollow" title="Car shipping services in Rhode Island" href="https://www.providenceri.gov/" style="color:black;"> Providence </a> <span class="california-state-span" style="font-weight:bold;">||</span>
                 South Kingstown <span class="california-state-span" style="font-weight:bold;">||</span>
                 Tiverton <span class="california-state-span" style="font-weight:bold;">||</span>
                 Warren <span class="california-state-span" style="font-weight:bold;">||</span>
@@ -234,7 +239,7 @@
         <div class="sixth-california-state-gird">
             <div class="sixth-california-state-gird-1 utility_grid">
                 <div class="sixth-california-state-gird-1-img ">
-                    <img loading="lazy" src="<?= get_img() ?>home_bg-1.jpg" alt="Rhode Island Auto Transport">
+                    <img loading="lazy" src="<?= get_img() ?>home_bg-1.jpg" alt="Rhode Island Open Auto Transport">
                 </div>
                 <div class="sixth-california-state-gird-1-content">
                     <h3 class="utility_sub-heading">Open Auto Transport</h3>
@@ -255,12 +260,12 @@
                     <button><a href="<?= home_path(); ?>services/enclosed-shipping" title="Enclosed auto transportation">Know More</a></button>
                 </div>
                 <div class="sixth-california-state-gird-1-img sixth-california-state-gird-1-img-special ">
-                    <img loading="lazy" src="<?= get_img() ?>Enclosed-Transport-img.png" alt="Rhode Island Car shipping services">
+                    <img loading="lazy" src="<?= get_img() ?>Enclosed-Transport-img.png" alt="Rhode Island Enclosed Car shipping services">
                 </div>
             </div>
             <div class="sixth-california-state-gird-1 utility_grid" id="door_to_door_while_shipping_rhode_island">
                 <div class="sixth-california-state-gird-1-img ">
-                    <img loading="lazy" src="<?= get_img() ?>door-to-door-bg.jfif" alt="Rhode Island Auto Transportation Services">
+                    <img loading="lazy" src="<?= get_img() ?>door-to-door-bg.jfif" alt="Rhode Island Luxury and Classic Auto Services">
                 </div>
                 <div class="sixth-california-state-gird-1-content" id="door_to_door_transport_to_california_section">
                     <h3 class="utility_sub-heading">LUXURY AND CLASSIC CARS auto Transport</h3>
@@ -290,7 +295,7 @@
     <section class="seventh-california-state">
         <div class="seventh-california-state-box utility_grid">
             <div class="seventh-california-state-box-img">
-                <img loading="lazy" src="<?= get_img() ?>snowbird-shipping-2.jpeg" alt="Auto Transport in Rhode Island">
+                <img loading="lazy" src="<?= get_img() ?>snowbird-shipping-2.jpeg" alt="Snowbird Shipping in Rhode Island">
             </div>
             <div class="seventh-california-state-box-content">
                 <h2 class="utility_sub-heading">Snowbird Shipping</h2>
@@ -338,7 +343,7 @@
                     CHEAP CAR SHIPPING services IN RHODE ISLAND
                 </h2>
                 <p class="text">
-                    The vehicle's size/weight, the distance it needs to be carried across, and the <a title="Car shipping services in Rhode island" href="https://www.ri.gov/"><b><span class="california-state-span">Rhode island</span></b></a> auto transport you're employing are the most important aspects impacting the car shipping charges. The bigger your truck is and the furthest you want to ship it, the more you'll have to spend. The two things are inextricably linked. When picking an auto transport Rhode Island carrier, consider your budget, destination, country, and the type of service offered when travelling from East Providence, RI to Florida. The auto transport firm, on the other hand, sets the rates. Due to a scarcity of trucks and employees, smaller businesses may be obliged to raise their prices. For example, if the Rhode Island vehicle transport firm has a limited fleet and doesn't have a carrier near your area, it will have to charge more for fuel and other fees. Companies with a wide fleet, such as Rapid Auto Shipping, have carriers in most parts of the United States, therefore their charges are more inexpensive. We also provide open carrier and terminal services, bringing the total cost down even further.
+                    The vehicle's size/weight, the distance it needs to be carried across, and the <a target="_blank" rel="nofollow" title="Car shipping services in Rhode island" href="https://www.ri.gov/"><b><span class="california-state-span">Rhode island</span></b></a> auto transport you're employing are the most important aspects impacting the car shipping charges. The bigger your truck is and the furthest you want to ship it, the more you'll have to spend. The two things are inextricably linked. When picking an auto transport Rhode Island carrier, consider your budget, destination, country, and the type of service offered when travelling from East Providence, RI to Florida. The auto transport firm, on the other hand, sets the rates. Due to a scarcity of trucks and employees, smaller businesses may be obliged to raise their prices. For example, if the Rhode Island vehicle transport firm has a limited fleet and doesn't have a carrier near your area, it will have to charge more for fuel and other fees. Companies with a wide fleet, such as Rapid Auto Shipping, have carriers in most parts of the United States, therefore their charges are more inexpensive. We also provide open carrier and terminal services, bringing the total cost down even further.
                     <br><br>
                     Because open carriers can transport more automobiles at once than enclosed carriers, they are less expensive to employ. Furthermore, instead of opting for the door-to-door service, you can save money by driving your car to a terminal. Finally, our seasonal specials and discounts help you save even more money on shipping. For further information, please contact our Rhode Island office.
                 </p>

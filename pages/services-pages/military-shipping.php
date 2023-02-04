@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Best Military | Vehicle Car Shipping Services  | +1 (833) 233-4447</title>
+    <title>Best Military | Vehicle Car Shipping Services | +1 (833) 233-4447</title>
     <meta name="title" content="Best Military | Vehicle Car Shipping Services  | +1 (833) 233-4447">
     <meta name="description" content="Rapid Auto Shipping is The Best Military Vehicle Transport Service Provider for Military Members. Get Quote for Military Car Shipping services now." />
     <meta property="og:type" content="website" />
@@ -66,7 +66,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Military Vehicle Transport";
-        $PARAGRAPH = "Any auto transport company that performs military car shipping will offer a discount to our men and women in uniform. This might range from a simple $25 off your total cost to over a hundred dollars, depending on the shipper. Did you know that we, at Rapid Auto Shipping, offer military people discounts? Because the military only pays for one car per service member to be transported, anybody in the military who needs auto shipping for a second vehicle must contact an independent auto shipper. The majority of vehicle transport companies, on the other hand, provide military vehicle Shipping.";
+        $PARAGRAPH = "Active and retired military personnel can use the service known as military car shipping, also referred to as military auto transport. It's more complicated to ship to and from military locations than move from one house to another. Rapid Auto Shipping is a reputable and safe US-based auto shipping company that can meet all of your car travel requirements. Every military vehicle transportation operation runs smoothly because we know how to handle complex cargoes. Our skilled logistics team will collaborate with you to develop an effective and timely plan for your military vehicle shipping, regardless of whether the shipment is local, cross-country, or worldwide.";
         include_once small_form;
         ?>
     </div>

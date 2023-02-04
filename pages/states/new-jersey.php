@@ -6,14 +6,14 @@
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1">
-     <title>Auto Transport company | Car shipping services New Jersey | +1-833-233-4447</title>
-     <meta name="Auto Transport company | Car shipping services New Jersey | +1-833-233-4447" />
+     <title>Best Car Shipping Companies in New Jersey | +1-833-233-4447</title>
+     <meta name="title" content="Best Car Shipping Companies in New Jersey | +1-833-233-4447" />
      <meta name="description" content="Need Car Shipping service in New Jersey, you need an experienced New Jersey auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
      <meta property="og:type" content="website" />
-     <meta property="og:title" content="Auto Transport company | Car shipping services New Jersey | +1-833-233-4447" />
+     <meta property="og:title" content="Best Car Shipping Companies in New Jersey | +1-833-233-4447" />
      <meta property="og:description" content="Need Car Shipping service in New Jersey, you need an experienced New Jersey auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
      <meta property="og:url" content="https://rapidautoshipping.com/states/new-jersey" />
-     <meta property="og:site_name" content="Auto Transport New Jersey - Rapid Auto Shipping" />
+     <meta property="og:site_name" content="Best Car Shipping Companies in New Jersey | +1-833-233-4447" />
      <meta name='robots' content='index' />
      <meta name="keywords" content="car shipping nj, car shipping companies new jersey, auto transport companies new jersey, car transport companies in new jersey, car shipping new jersey, auto transport companies nj, car transport new jersey" />
      <meta property="article:tag" content="car shipping nj" />
@@ -38,12 +38,16 @@
          .contact-us-header-page {
              width: 100%;
              background-repeat: no-repeat, repeat;
-             background-image: url('<?= get_img() ?>new-jersey-state-bg-1.jpg');
+             background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673597414/Recent%20Uploads/Auto-Shipping-about-1_gydnd1.png');
              background-blend-mode: lighten;
              position: relative;
              background-position: center;
              background-repeat: no-repeat;
              background-size: cover;
+         }
+
+         .third-section-state {
+             background-color: rgb(0, 0, 0, 0.6);
          }
      </style>
  </head>
@@ -104,32 +108,32 @@
 
      <section class="two-california-state " id="famous_attracions_in_Texas">
          <h2 class="utility_main-heading">Some famous attractions in <span class="california-state-span"> New Jersey</span></h2>
-         <img loading="lazy" src="<?= get_img() ?>new-jersey-state-bg-1.jpg" alt="New Jersey Auto Transport company">
+         <img loading="lazy" src="<?= get_img() ?>new-jersey-state-bg-1.jpg" alt="New Jersey Open Auto Transport">
          <p class=" text">A state in the Mid-Atlantic region of the northeastern United States is called New Jersey. At 7, 354 square miles (19, 050 km2), New Jersey is the fifth-smallest state in terms of area, but its 9.3 million residents make it the 11th-most populous and most densely populated.</p>
          <ul class="utility_grid">
              <li>
                  <ion-icon name="locate-sharp">
-                 </ion-icon><br> <a target="_blank" title="More About Spots" href="https://www.newarknj.gov/" style="color:black;"> Newark</a>
+                 </ion-icon><br> <a target="_blank" href="#" style="color:black;"> Newark</a>
              </li>
              <li>
                  <ion-icon name="locate-sharp">
-                 </ion-icon><br> <a target="_blank" title="More About Spots" href="https://www.jerseycitynj.gov/" style="color:black;">Jersey City</a>
+                 </ion-icon><br> <a target="_blank" href="#" style="color:black;">Jersey City</a>
              </li>
              <li>
                  <ion-icon name="locate-sharp">
-                 </ion-icon><br> <a target="_blank" title="More About Spots" href="https://www.patersonnj.gov/" style="color:black;">Paterson</a>
+                 </ion-icon><br> <a target="_blank" href="#" style="color:black;">Paterson</a>
              </li>
              <li>
                  <ion-icon name="locate-sharp">
-                 </ion-icon><br> <a target="_blank" title="More About Spots" href="https://www.elizabethnj.org/" style="color:black;"> Elizabeth</a>
+                 </ion-icon><br> <a target="_blank" href="#" style="color:black;"> Elizabeth</a>
              </li>
              <li>
                  <ion-icon name="locate-sharp">
-                 </ion-icon><br><a target="_blank" title="More About Spots" href="https://www.lakewoodnj.gov/" style="color:black;"> Lakewood</a>
+                 </ion-icon><br><a target="_blank" rel="nofollow" title="More About Lakewood" href="https://www.lakewoodnj.gov/" style="color:black;"> Lakewood</a>
              </li>
              <li>
                  <ion-icon name="locate-sharp">
-                 </ion-icon><br><a target="_blank" title="More About Spots" href="https://www.edisonnj.org/" style="color:black;">Edison</a>
+                 </ion-icon><br><a target="_blank" rel="nofollow" title="More About Edison" href="https://www.edisonnj.org/" style="color:black;">Edison</a>
              </li>
          </ul>
 
@@ -297,7 +301,7 @@
          <div class="sixth-california-state-gird">
              <div class="sixth-california-state-gird-1 utility_grid" id="door_to_door_auto_transport_new_york">
                  <div class="sixth-california-state-gird-1-img ">
-                     <img loading="lazy" src="<?= get_img() ?>state-to-state-bg-1.jpg" alt="New Jersey auto transport company">
+                     <img loading="lazy" src="<?= get_img() ?>state-to-state-bg-1.jpg" alt="Car Shipping Companies New Jersey">
                  </div>
                  <div class="sixth-california-state-gird-1-content" id="luxury_transport_to_new_jersey">
                      <h3 class="utility_sub-heading">Door to Door auto transport</h3>
@@ -307,14 +311,14 @@
                          Because classic and exotic cars are typically quite expensive, even little damage can result in thousands of dollars in car repairs. The cars are guaranteed to arrive in New Jersey safe, secure, and on-time thanks to high insurance policy limits.
                      </p>
                      <p class="utility_text" id="more_cities_in_texas">
-                         <a target="_blank" href="https://automobiles.honda.com/cr-v" style="color:black;"> Honda CR-V </a><span class=" california-state-span" style="font-weight:bold;"> ||</span>
-                         <a target="_blank" href="https://automobiles.honda.com/civic-sedan" style="color:black;">Honda Civic </a><span class=" california-state-span" style="font-weight:bold;"> ||</span>
-                         <a target="_blank" href="https://www.nissanusa.com/vehicles/crossovers-suvs/rogue.html" style="color:black;"> Nissan Rogue </a><span class=" california-state-span" style="font-weight:bold;"> ||</span>
-                         <a target="_blank" href="https://www.toyota.com/rav4/" style="color:black;">Toyota RAV4</a><span class=" california-state-span" style="font-weight:bold;"> ||</span>
-                         <a target="_blank" href="https://www.jeep.com/grand-cherokee.html" style="color:black;"> Jeep Grand Cherokee </a><span class=" california-state-span" style="font-weight:bold;"> ||</span>
+                         <a href="#" style="color:black;"> Honda CR-V </a><span class=" california-state-span" style="font-weight:bold;"> ||</span>
+                         <a href="#" style="color:black;">Honda Civic </a><span class=" california-state-span" style="font-weight:bold;"> ||</span>
+                         <a href="#" style="color:black;"> Nissan Rogue </a><span class=" california-state-span" style="font-weight:bold;"> ||</span>
+                         <a href="#" style="color:black;">Toyota RAV4</a><span class=" california-state-span" style="font-weight:bold;"> ||</span>
+                         <a href="#" style="color:black;"> Jeep Grand Cherokee </a><span class=" california-state-span" style="font-weight:bold;"> ||</span>
 
                      </p>
-                     <button><a target="_blank" href="<?= home_path(); ?>services/classic-car-shipping" title="luxury and classic car trnasport description">Know More</a></button>
+                     <button><a href="<?= home_path(); ?>services/classic-car-shipping" title="luxury and classic car trnasport description">Know More</a></button>
                  </div>
              </div>
              <div class="sixth-california-state-gird-1 utility_grid" id="enclosed_auto_transport_in_new_jersey_auto_transport">
@@ -329,13 +333,13 @@
                      <button><a href="<?= home_path(); ?>services/enclosed-shipping" title="enclosed auto trnasport description">Know More</a></button>
                  </div>
                  <div class="sixth-california-state-gird-1-img sixth-california-state-gird-1-img-special ">
-                     <img loading="lazy" src="<?= get_img() ?>Enclosed-Transport-img.png" alt="New Jersey car shipping services">
+                     <img loading="lazy" src="<?= get_img() ?>Enclosed-Transport-img.png" alt="New Jersey Enclosed Car Shipping Services">
                  </div>
              </div>
 
              <div class="sixth-california-state-gird-1 utility_grid" id="open_auto_transport_in_new_york">
                  <div class="sixth-california-state-gird-1-img ">
-                     <img loading="lazy" src="<?= get_img() ?>home_bg-1.jpg" alt="New Jersey auto transport company">
+                     <img loading="lazy" src="<?= get_img() ?>home_bg-1.jpg" alt="New Jersey Door to Door Auto Transport Company">
                  </div>
                  <div class="sixth-california-state-gird-1-content">
                      <h3 class="utility_sub-heading">Open Auto Transport</h3>
@@ -363,7 +367,7 @@
      <section class="seventh-california-state" id="snowbird_shipping_new_jersey">
          <div class="seventh-california-state-box utility_grid">
              <div class="seventh-california-state-box-img">
-                 <img loading="lazy" src="<?= get_img() ?>snowbird-shipping-2.jpeg" alt="Auto Transport in Texas">
+                 <img loading="lazy" src="<?= get_img() ?>snowbird-shipping-2.jpeg" alt="Snowbird Shipping in New Jersey">
              </div>
              <div class="seventh-california-state-box-content">
                  <h2 class="utility_sub-heading">Snowbird Shipping</h2>
