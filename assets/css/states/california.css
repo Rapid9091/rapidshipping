@@ -109,7 +109,7 @@
 
 .third-california-state > h2 {
   text-align: center;
-  margin-bottom: 4%;
+  margin-bottom: 2.7%;
 }
 
 .third-california-state-grid {
@@ -190,10 +190,10 @@
 
 .fourth-california-state > h2 {
   text-align: center;
-  margin-bottom: 4%;
+  margin-bottom: 2%;
 }
 .fourth-california-state > p {
-  margin-top: 4%;
+  margin-top: 2%;
 }
 .offer-animator {
   margin: 1% auto;
@@ -235,7 +235,7 @@
 }
 .five-california-state-box > h2 {
   text-align: center;
-  margin-bottom: 4%;
+  margin-bottom: 2%;
 }
 .five-california-state-box > p {
   text-align: center;
@@ -443,10 +443,10 @@
 }
 .eight-califorina-state-grid {
   grid-template-columns: repeat(1, 1fr);
-  grid-gap: 5%;
 }
 .eight-califorina-state-grid-1 {
   color: #fff9;
+  margin-bottom: 5%;
 }
 
 @media screen and (max-width: 800px) {
@@ -486,6 +486,9 @@
   }
   .eight-califorina-state {
     padding-bottom: 10%;
+  }
+  .sixth-california-state-gird-1-img-special {
+    grid-row: 1;
   }
 }
 @media screen and (max-width: 500px) {
@@ -559,7 +562,7 @@
   }
 }
 .cost-factors {
-  padding: 2% 0% 0 0;
+  padding: 4% 0% 0 0;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
@@ -616,4 +619,3 @@
     margin-left: 10px;
   }
 }
-

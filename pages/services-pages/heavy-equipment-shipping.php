@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Heavy Equipment Transport | Equipment Transport (833)2334447</title>
-    <meta name="Heavy Equipment Transport | Equipment Transport (833)2334447" />
-    <meta name="description" content="Want Heavy Equipment Transport Service? Rapid Auto Shipping provides a Heavy Equipment Hauling service! Call +1-833-233-4447 for Free Quote!" />
+    <title>Heavy Equipment Shippers & Transport Company - Rapid Auto Shipping</title>
+    <meta name="Heavy Equipment Shippers & Transport Company - Rapid Auto Shipping" />
+    <meta name="description" content="The team at Rapid Auto Shipping specialize in heavy equipment moving and transport. We deliver across the country - to all 50 states." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Heavy Equipment Transport | Equipment Transport (833)2334447" />
-    <meta property="og:description" content="Want Heavy Equipment Transport Service? Rapid Auto Shipping provides a Heavy Equipment Hauling service! Call +1-833-233-4447 for Free Quote!" />
+    <meta property="og:title" content="Heavy Equipment Shippers & Transport Company - Rapid Auto Shipping" />
+    <meta property="og:description" content="The team at Rapid Auto Shipping specialize in heavy equipment moving and transport. We deliver across the country - to all 50 states." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/heavy-equipment-shipping" />
-    <meta property="og:site_name" content="Heavy Equipment Transport - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Heavy Equipment Shippers & Transport Company - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
 
     <meta name="keywords" content="heavy equipment transport, equipment transport, heavy equipment hauling, heavy equipment shipping, heavy equipment haulers, equipment hauling services, equipment shipping, heavy equipment transportation, shipping heavy equipment, equipment transportation, heavy equipment transporters, heavy equipment trucking" />
@@ -59,6 +59,16 @@
             background-repeat: no-repeat;
             background-size: cover;
         }
+
+        .third-section-content-heading {
+            font-size: 45px;
+        }
+
+        @media screen and (max-width: 400px) {
+            .third-section-content-heading {
+                font-size: 30px;
+            }
+        }
     </style>
 </head>
 
@@ -68,7 +78,7 @@
     <!-- new section under the first section of single line -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = " Heavy Equipment Transport";
+        $NAME = "Professional Heavy Equipment Shipping with Rapid Auto Shipping";
         $PARAGRAPH = "Are you seeking for a company that can assist you relocate your commercial or industrial business with heavy equipment transfer and lowboy shipping? Rapid Auto Shipping can transfer your large equipment or trucks, regardless of size or destination. You've come to the right place if you're looking for a big haul trucking equipment and transportation company that gives exceptional service at a fair price. Rapid Auto Shipping is here to help you out! We have heavy equipment transporters in all states and cities ready to ship your equipment.";
         include small_form;
         ?>
@@ -80,7 +90,7 @@
                     <h2><span> Shipping for Heavy Equipment Transport</span></h2>
                     <p> Are you looking for a heavy equipment transfer and lowboy shipping firm to help you relocate your commercial or industrial business? No matter the size or destination, Rapid Auto Shipping can transport your big equipment or trucks! If you're looking for a heavy haul trucking equipment and transportation company that provides excellent service at a reasonable cost, you've come to the right place. The Rapid Auto Shipping is here to assist you! We have heavy equipment transporters ready to ship your equipment in all <a href="<?= get_state() ?>"><strong>States</strong> </a> and cities.
                         <br><br>
-                        Rapid Auto Shipping is a licensed, bonded, and reputable <a href="https://en.wikipedia.org/wiki/Heavy_equipment">heavy equipment</a> and machinery shipping company. We have over ten years of expertise transporting heavy equipment for hundreds of businesses of all sizes. Our reputation is built on our promise to deliver your large equipment safely and affordably. We provide a number of shipping alternatives to fulfil your cargo requirements as well as your budget constraints. When moving big equipment or oversized materials, a lowboy or step deck trailer is the ideal option.
+                        Rapid Auto Shipping is a licensed, bonded, and reputable <a target="_blank" href="https://en.wikipedia.org/wiki/Heavy_equipment">heavy equipment</a> and machinery shipping company. We have over ten years of expertise transporting heavy equipment for hundreds of businesses of all sizes. Our reputation is built on our promise to deliver your large equipment safely and affordably. We provide a number of shipping alternatives to fulfil your cargo requirements as well as your budget constraints. When moving big equipment or oversized materials, a lowboy or step deck trailer is the ideal option.
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673438870/Recent%20Uploads/jcb-over-truck2_izaj00.jpg" alt="Heavy equipment shipping">
                 </div>
@@ -95,7 +105,7 @@
                         <br><br>
                         Tremendous Customer Service: We're here to provide you with polite service from the moment you call for a free quote to the moment your vehicle arrives at its destination.
 
-                        Professional Truck Transport Service: We make certain that all of our <a href="https://www.bls.gov/ooh/construction-and-extraction/construction-equipment-operators.htm">drivers</a> are courteous, professional, and friendly. We make certain that they are adequately trained to move all types of trucks, including dump trucks, before we begin any movements.
+                        Professional Truck Transport Service: We make certain that all of our <a target="_blank" href="https://www.bls.gov/ooh/construction-and-extraction/construction-equipment-operators.htm">drivers</a> are courteous, professional, and friendly. We make certain that they are adequately trained to move all types of trucks, including dump trucks, before we begin any movements.
                         <br>
                         Finally, when you call us for a free quote, we attempt to provide you with the most competitive truck shipping rates available.
                     </p>
@@ -113,7 +123,7 @@
                         <br><br>
                         <strong> Capabilities for tracking - </strong> can keep you updated on the progress of your shipment throughout its journey.
                         <br>
-                        <br> <strong> <a style="color:black;" href="https://www.fmcsa.dot.gov/regulations/cargo-securement/cargo-securement-rules">Safe Transportation -</a></strong> Your heavy equipment transport is transported by skilled drivers who are concerned about the weight they are transporting.
+                        <br> <strong> <a target="_blank" style="color:black;" href="https://www.fmcsa.dot.gov/regulations/cargo-securement/cargo-securement-rules">Safe Transportation -</a></strong> Your heavy equipment transport is transported by skilled drivers who are concerned about the weight they are transporting.
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521398/Recent%20Uploads/car-tied-on-trailer-3.jpg" alt="Safely shipping a car">
 

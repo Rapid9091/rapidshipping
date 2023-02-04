@@ -268,7 +268,7 @@
                 <div class="sixth-california-state-gird-1-content">
                     <h3 class="utility_sub-heading">Enclosed Auto Transport</h3>
                     <p class="text">
-                        <a href=" <?= home_path(); ?>services/enclosed-shipping" title="Enclosed auto shipping USA"><span class="california-state-span "><b> Enclosed car transport</b></span></a> is a type of <b>auto transport</b> that gives much protection to your vehicles. Well, it is considered the safest way to transport luxury, classic and new cars. In the Alaska Car shipping services carrier's top and side covers, as well as straps, secure the consignment on the trailer. The enclosed trailer fully covered the vehicles so that not even a single particle of dust could not be able to touch the cars. In other words, it will provide full protection to the vehicles. It will protect your vehicle from wind-blown ash and debris damage, persistent sun damage, or damage from rain and snowfall. Transporting a vehicle on an enclosed truck is considered a bit expensive.
+                        <a href=" <?= home_path(); ?>services/enclosed-shipping" title="Enclosed auto shipping USA"><span class="california-state-span "><b> Enclosed car transport</b></span></a> is a type of <b>auto transport</b> that gives much protection to your vehicles. Well, it is considered the safest way to transport luxury, classic and new cars. In the Alaska Car shipping services carrier's top and side covers, as well as straps, secure the consignment on the trailer.
                         </br> </br> <b>Soft-sided Enclosed Auto Transport in Alaska–</b> Your vehicle is protected from wind-blown debris, rain, sleet, snow, and other factors by the huge fabric that covers Alaska Auto Transportation Services.
                         </br> </br>
                         <b>Hard-Sided Enclosed Auto Transport in Alaska –</b> In addition to the advantages of soft-sided carriers, hard-sided carriers offer additional protection for your vehicle in the unlikely event that it is damaged while in transit.
@@ -276,7 +276,7 @@
                     <button><a href="<?= home_path(); ?>services/enclosed-shipping" title="Enclosed auto transportation">Know More</a></button>
                 </div>
                 <div class="sixth-california-state-gird-1-img sixth-california-state-gird-1-img-special ">
-                    <img loading="lazy" src="<?= get_img() ?>Enclosed-Transport-img.png" alt="alaska Car shipping services">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/HOW_TO_SHIP_A_TRUCK01-min_e6qbxk.jpg" alt="alaska Car shipping services">
                 </div>
             </div>
             <div class="sixth-california-state-gird-1 utility_grid" id="door_to_door_car_shipping_alaska">

@@ -266,11 +266,61 @@
                 Above all, if a customer deals with many businesses, the price will rise to the next level. As a result, clients should only work with one company at a time.
             </p>
         </div>
+        <div class="cost-factors">
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/itinerary.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Distance</p>
+                </div>
+            </div>
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/sedan.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Vehicle (Make and Model)</p>
+                </div>
+            </div>
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/season.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Seasonality</p>
+                </div>
+            </div>
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/road-trip.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Pick-up Date</p>
+                </div>
+            </div>
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/car-service.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Vehicle Condition</p>
+                </div>
+            </div>
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/discount.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Discount</p>
+                </div>
+            </div>
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/route.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Route</p>
+                </div>
+            </div>
+            <div class="cost-factors-div">
+                <div class="cost-factors-icon"><img src="<?= get_img() ?>icons/container.png" alt=""></div>
+                <div class="cost-factors-name">
+                    <p class="text">Transport Method</p>
+                </div>
+            </div>
+        </div>
         <div class="third-california-state-grid utility_grid utility_grid-3">
             <div class="third-california-state-grid-1">
                 <ion-icon name="card-sharp"></ion-icon>
                 <h3 class="sub-heading">How to get price ?</h3>
-                <p class="text">To get the instant cost from best Michigan Auto Transport company you can directly contact us at <a href="tel:-833-233-4447" title="Call Now For Auto Transport USA"><span class="california-state-span">:+1-833-233-4447</span> </a> our executives will make sure that you will get the best quote and most of the discounts for your shipping .</p>
+                <p class="text">To get the instant cost from best Michigan Auto Transport company you can directly contact us at <a href="tel:-833-233-4447" title="Call Now For Auto Transport USA"><span class="california-state-span">:+1 (833) 233-4447</span> </a> our executives will make sure that you will get the best quote and most of the discounts for your shipping .</p>
                 <div class="third-california-state-grid-1-btn">
                     <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
@@ -310,6 +360,14 @@
         </div> <br>
         We've also prepared seasonal discounts that everyone can take advantage of in addition to these offerings. If you're shipping a car, we recommend that you plan ahead and call our Michigan auto transport company to find out when the best time is to ship. Special discounts are available for cities such as Detroit, Michigan, and Ann Arbor, Michigan.
         </p>
+        <br>
+        <h2 class="utility_main-heading">
+            <span class="california-state-span">How long does it take</span> to ship a car to or from Michigan?
+        </h2>
+        <p class="text">
+            Short distances, such as those under 200 miles, can take several days on average. Auto shipping to/from Michigan can take up to 9 days if the distance is greater than 2000 miles. That being said, you can be confident that we will do everything possible to provide prompt service and ensure that your vehicle is shipped quickly, efficiently, and without delays.
+
+            Several factors can influence how long it takes to transport a car to or from Michigan. Weather, road construction, traffic, detours, seasonality, driver's hours, and distance can all have an impact on vehicle transportation to and from MI. When time is of the essence, you can choose between CAR SHIPPING VIA RAILS and guaranteed pick-up service.</p>
     </section>
 
     <!-- ----------------------------- -->
@@ -359,9 +417,7 @@
                 <div class="sixth-california-state-gird-1-content">
                     <h3 class="utility_sub-heading">Enclosed Auto Transport Michigan</h3>
                     <p class="text">
-                        Michigan can be pounded by winter storms due to its northern location and proximity to water. There's a lot that Michigan people have to cope with, from stinging winds blowing in from Lake Michigan to snow coming down across Lake Superior from Canada and hitting the Upper Peninsula. Marie, you'll want to work with a Michigan auto shipping company that understands how to preserve your large investment, whether it's a luxury sedan or a high-end SUV, no matter what the weather is like. It's a good idea to ship your car to Michigan in an enclosed carrier.
-                        <br>
-                        A covered auto transport is the safest way to transfer your car to Michigan. When exporting your car, you have two options:
+                        Michigan can be pounded by winter storms due to its northern location and proximity to water. There's a lot that Michigan people have to cope with, from stinging winds blowing in from Lake Michigan to snow coming down across Lake Superior from Canada and hitting the Upper Peninsula. When exporting your car, you have two options:
                         <br><br> <strong>Soft-Sided Enclosed Auto Transport –</strong> Your car is protected from wind-blown debris, rain, sleet, snow, and other elements by the large fabric that covers the carriers.
                         <br><br> <strong>Hard-Sided Enclosed Auto Transport –</strong> In addition to the benefits provided by soft-sided carriers, hard-sided carriers provide additional protection for your vehicle in the unlikely case that it is damaged during transit.
                     </p>
@@ -382,7 +438,7 @@
                         <br><br>
                         The cost of shipping a vintage or <b><a href="<?= home_path() ?>services/classic-car-shipping" title="classic car transportation">Classic car</a></b> by enclosed carrier is determined by the trailer type you select. A single or two-car trailer (for high-end automobiles and express delivery) or a multi-car trailer (for up to seven cars) are available. Because of their availability, efficiency, and service, including personal care from the driver, enclosed trailers are more expensive. During the shipping procedure, you can communicate directly with the truck driver and be informed until your vehicle arrives in Michigan.
                     </p>
-                    <button><a target="_blank" href="<?= home_path(); ?>services/classic-car-shipping" title="luxury and classic car trnasport description">Know More</a></button>
+                    <button><a  href="<?= home_path(); ?>services/classic-car-shipping" title="luxury and classic car trnasport description">Know More</a></button>
                 </div>
             </div>
         </div>

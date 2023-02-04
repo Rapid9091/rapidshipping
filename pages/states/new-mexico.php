@@ -7,13 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Car Shipping Services | +1-833-233-4447 | New Mexico Auto Transport Company</title>
-    <meta name="description" content="Need Car Shipping service in New Mexico, you need an experienced New Mexico auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <title>Auto Transport Service in New Mexico - Rapidautoshipping</title>
+    <meta name="title" content="Auto Transport Service in New Mexico - Rapidautoshipping">
+    <meta name="description" content="Rapid Auto Shipping is a trusted New Mexico auto transport company with over 10 years of experience. We offer 24/7 claims service and offer competitive prices across all 50 states." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="New Mexico Car Transport  Services | Rapid Auto Shipping" />
+    <meta property="og:title" content="Auto Transport Service in New Mexico - Rapidautoshipping" />
     <meta property="og:description" content="Need to ship your car to or from New Mexico. We provides New Mexico car transport or car transport New Mexico services to haul your vehicle Get Quotes!" />
     <meta property="og:url" content="https://rapidautoshipping.com/states/new-mexico" />
-    <meta property="og:site_name" content="New Mexico Auto Shipping - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Auto Transport Service in New Mexico - Rapidautoshipping" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car shipping new mexico, new mexico car shipping, new mexico car transport, car transport new mexico, albuquerque auto transport, car shipping albuquerque nm, auto transport albuquerque nm, car transport albuquerque, car transport to new mexico, auto transport new mexico, auto transport companies albuquerque nm, auto transport companies in albuquerque, car transport albuquerque nm" />
     <meta property="article:tag" content="car shipping new mexico" />
@@ -51,6 +52,16 @@
             background-repeat: no-repeat;
             background-size: cover;
         }
+
+        .third-section-content-heading {
+            font-size: 45px;
+        }
+
+        @media screen and (max-width: 400px) {
+            .third-section-content-heading {
+                font-size: 30px;
+            }
+        }
     </style>
 </head>
 
@@ -64,7 +75,7 @@
     <div class="contact-us-header-page">
 
         <?php
-        $NAME = "Auto Transport New Mexico";
+        $NAME = "Get Your Vehicle Transported With Trust and Efficiency By Auto Transport New Mexico";
         $PARAGRAPH = "New Mexico is a state in the United States' Southwest region with a population of 2.1 million people. It is the 5th biggest state by area and the 36th most populated. It is part of the southern Rocky Mountain Mountain States, sharing the Four Corners region of the western United States with Texas to the east and southeast, Oklahoma to the northeast, and the Mexican states of Chihuahua and Sonora to the south, as well as Utah, Colorado, and Arizona.";
         include small_form;
         ?>
@@ -78,13 +89,13 @@
         <div class="first-california-state-grid utility_grid">
             <div class="first-california-state-grid " id="more_about_texas">
                 <p>
-                    <a href="https://en.wikipedia.org/wiki/New_Mexico" title="More about New Mexico Tourism"><span class="california-state-span">New Mexico</span></a> is a state in the Southwest region of the United States with 2.1 million population, it is the 5th largest state in terms of area and the 36th most populous. It is one of the southern Rocky Mountain Mountain States, bordering Texas to the east and southeast, Oklahoma to the northeast, and the Mexican states of Chihuahua and Sonora to the south, as well as Utah, Colorado, and Arizona, thus sharing the Four Corners region of the western United States. Santa Fe, the state capital and largest city, is the oldest capital in the United States, having been created in 1610 as the administrative centre of Nuevo México in New Spain. New Mexico auto transport is a little bit easier...but only a little bit.<br><br> Regardless of the state, auto transport businesses prefer to run routes to and from large cities. <a href="https://www.newmexico.org/" title="More about New Mexico Tourism"><span class="california-state-span">New Mexico</span></a> also has a number of important cities, including Albuquerque and Las Cruces, which are the state's two most popular shipping destinations. The majority of the state, however, is desolate due to the fact that it is primarily desert. Continue reading to learn more about shipping to or from New Mexico. For all intents and purposes, much of New Mexico is now desert, desolate, and rural.
+                    <a target="_blank" href="https://en.wikipedia.org/wiki/New_Mexico" title="More about New Mexico Tourism"><span class="california-state-span">New Mexico</span></a> is a state in the Southwest region of the United States with 2.1 million population, it is the 5th largest state in terms of area and the 36th most populous. It is one of the southern Rocky Mountain Mountain States, bordering Texas to the east and southeast, Oklahoma to the northeast, and the Mexican states of Chihuahua and Sonora to the south, as well as Utah, Colorado, and Arizona, thus sharing the Four Corners region of the western United States. Santa Fe, the state capital and largest city, is the oldest capital in the United States, having been created in 1610 as the administrative centre of Nuevo México in New Spain. New Mexico auto transport is a little bit easier...but only a little bit.<br><br> Regardless of the state, auto transport businesses prefer to run routes to and from large cities. <a target="_blank" href="https://www.newmexico.org/" title="More about New Mexico Tourism"><span class="california-state-span">New Mexico</span></a> also has a number of important cities, including Albuquerque and Las Cruces, which are the state's two most popular shipping destinations. The majority of the state, however, is desolate due to the fact that it is primarily desert. Continue reading to learn more about shipping to or from New Mexico. For all intents and purposes, much of New Mexico is now desert, desolate, and rural.
                 </p>
                 <h5 class="utility_sub-heading" style="margin:4% 0;font-weight:bold;">
                     WHY ARE WE THE BEST IN CAR TRANSPORT COMPANIES
                 </h5>
                 <p>
-                    <a href="<?= home_path(); ?>" title="Best Autoshipping company in USA"><span class="california-state-span"><b>Rapid Auto Shipping</b></span></a> is a New Mexico Car Shipping Company that values all of its customers equally and provides best Car Shipping Services In New Mexico. We assist customers in transporting their autos on schedule and at a reasonable cost. We fully insure their vehicles and transport them without harm from door to door. You may rest easy knowing that in the unlikely event that your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance company will handle the claim quickly and effectively. We bonded and licensed a business that all customers may rely on. Customers can book their transportation without paying a deposit. Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience with Car Transporters In New Mexico.
+                    <a href="<?= home_path(); ?>" title="Best Autoshipping company in USA"><span class="california-state-span"><b>Rapid Auto Shipping</b></span></a> is a New Mexico Car Shipping Company that values all of its customers equally and provides <a href="<?= home_path(); ?>" title="Best Car Shippping">best Car Shipping Services</a> In New Mexico. We assist customers in transporting their autos on schedule and at a reasonable cost. We fully insure their vehicles and transport them without harm from <a href="<?= home_path() ?>services/door-to-door">door to door</a>. You may rest easy knowing that in the unlikely event that your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance company will handle the claim quickly and effectively. We bonded and licensed a business that all customers may rely on. Customers can book their transportation without paying a deposit. Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience with Car Transporters In New Mexico.
                 </p>
             </div>
             <div class="first-california-state-grid-box">
@@ -188,7 +199,7 @@
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>
-        Every year, we make sure that our auto shipping prices are competitive and up to date. We are unable to provide special discounts to all of our customers, but we have made an attempt to assist military members, students, and seniors who wish to use our <a href="https://www.nm.gov/" title="More about New Mexico Tourism"><span class="california-state-span">New Mexico</span></a> car shipping services. There are also seasonal auto shipping rates available, so even if you aren't a member of one of these associations, you can still benefit.
+        Every year, we make sure that our auto shipping prices are competitive and up to date. We are unable to provide special discounts to all of our customers, but we have made an attempt to assist military members, students, and seniors who wish to use our <a target="_blank" href="https://www.nm.gov/" title="More about New Mexico Tourism"><span class="california-state-span">New Mexico</span></a> car shipping services. There are also seasonal auto shipping rates available, so even if you aren't a member of one of these associations, you can still benefit.
         </p>
     </section>
 
@@ -203,7 +214,7 @@
                 How to get the best <span class="california-state-span"> quote </span>for your shipping
             </h2>
             <p class="text">
-                <a href="<?= home_path(); ?>" title="Autoshipping company in USA"><span class="california-state-span"><b>Rapid Auto Shipping</b></span></a> is best in New Mexico Car Shipping and will make shipping your car to or from New Mexico as simple as possible. Rapid Auto Shipping is a New Mexico Car Shipping that specializes in Car Transport Companies In New Mexico in car shipping to and from New Mexico as well as other locations in the United States. Within seconds, we will supply you with an accurate quote for the shipping of your vehicle. All you have to do is fill out our simple online form and you'll receive a free, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent; you will not be placed on hold, and we will help you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that: on time and on budget.
+                <a href="<?= home_path(); ?>" title="Autoshipping company in USA"><span class="california-state-span"><b>Rapid Auto Shipping</b></span></a> is best in New Mexico Car Shipping and will make shipping your car to or from New Mexico as simple as possible. Rapid Auto Shipping is a New Mexico Car Shipping that specializes in Car Transport Companies In New Mexico in car shipping to and from New Mexico as well as other locations in the United States. Within seconds, we will supply you with an accurate quote for the shipping of your vehicle. All you have to do is fill out our simple online form and you'll receive a free, no-obligation <b><a href="<?= home_path() ?>services/car-transport-quotes">auto transport quote</a></b> in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent; you will not be placed on hold, and we will help you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that: on time and on budget.
             </p>
             <div class="five-california-state-box-btn utility_grid-center">
                 <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
@@ -222,7 +233,7 @@
         <div class="sixth-california-state-gird">
             <div class="sixth-california-state-gird-1 utility_grid" id="door_to_door_auto_transport_new_hampshire">
                 <div class="sixth-california-state-gird-1-img ">
-                    <img loading="lazy" src="<?= get_img() ?>door-to-door-bg.jfif" alt="New Mexico City Auto Transportation Services">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg" alt="New Mexico City Auto Transportation Services">
                 </div>
                 <div class="sixth-california-state-gird-1-content" id="door_to_door_transport_to_california_section">
                     <h3 class="utility_sub-heading">LUXURY AND CLASSIC CAR SHIPPING</h3>
@@ -232,7 +243,7 @@
                         Most clients in New Mexico agree that using an enclosed transport carrier speeds up the delivery of their exotic or historic vehicles. There are no detours, therefore there is less time on the road where things could go wrong. Your historic car is kept hidden from view, and neither the weather nor road debris can get to it during transportation, reducing the risk of theft.
                         <br>
                     </p>
-                    <button><a target="_blank" href="<?= home_path(); ?>services/door-to-door" title="luxury and classic car trnasport description">Know More</a></button>
+                    <button><a href="<?= home_path(); ?>services/classic-car-shipping" title="luxury and classic car trnasport description">Know More</a></button>
                 </div>
             </div>
             <div class="sixth-california-state-gird-1 utility_grid" id="enclosed_auto_transport_in_new_hampshire_auto_transport">
