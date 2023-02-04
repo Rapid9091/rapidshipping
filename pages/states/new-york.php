@@ -6,13 +6,14 @@
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1">
-     <title>Auto Transport company | Car shipping services New York | +1-833-233-4447</title>
+     <title>Best Car Shipping Companies in New York | +1-833-233-4447</title>
+     <meta name="title" content="Best Car Shipping Companies in New York | +1-833-233-4447">
      <meta name="description" content="Need Car Shipping service in New York, you need an experienced New York auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
      <meta property="og:type" content="website" />
-     <meta property="og:title" content="Auto Transport company | Car shipping services New York | +1-833-233-4447" />
+     <meta property="og:title" content="Best Car Shipping Companies in New York | +1-833-233-4447" />
      <meta property="og:description" content="Need Car Shipping service in New York, you need an experienced New York auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
      <meta property="og:url" content="https://rapidautoshipping.com/states/new-york" />
-     <meta property="og:site_name" content="New York Auto Transport - Rapid Auto Shipping " />
+     <meta property="og:site_name" content="Best Car Shipping Companies in New York | +1-833-233-4447" />
      <meta name='robots' content='index' />
      <meta name="keywords" content="car transport to new york, car transporters new york, car shipping companies new york, auto transport companies new york, new york car transport, car transport to new york, new york auto transport companies, new york auto transport, auto transport in new york, car shipping companies ny, new york car, transport companies, new york car shipping, ship car to new york, ship car from ca to ny, car transport california to new york, ship car from texas to new york, car transport new york to florida, ship car ny to fl">
      <meta property="article:tag" content="car transporters new york" />
@@ -47,12 +48,16 @@
          .contact-us-header-page {
              width: 100%;
              background-repeat: no-repeat, repeat;
-             background-image: url('<?= get_img() ?>new-york-img.png');
+             background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666178209/HONDA_AUTO_SHIPPING-min_rfupnv.jpg');
              background-blend-mode: lighten;
              position: relative;
              background-position: center;
              background-repeat: no-repeat;
              background-size: cover;
+         }
+
+         .third-section-state {
+             background-color: rgb(0, 0, 0, 0.6);
          }
      </style>
  </head>
@@ -67,7 +72,7 @@
      <div class="contact-us-header-page">
 
          <?php
-            $NAME = "Best New York Auto Transport Company";
+            $NAME = "Best New York car shipping Company";
             $PARAGRAPH = "If you are interested in shipping a vehicle to or from the state of New York, give us a call. New York is a fabulous place, with a rich history and sightseeing, and cozy weather to enjoy, and Rapid Auto Shipping can help you to get there and have an amazing experience. All you have to do is fill out our free online form or call us toll-free at +1-833-233-4447 and you’ll get a free, no-hassle auto transport quote immediately.";
             include small_form;
             ?>
@@ -81,7 +86,7 @@
          <div class="first-california-state-grid utility_grid">
              <div class="first-california-state-grid " id="more_about_texas">
                  <p>
-                     <a href="https://www.nycgo.com/" title="More about New York Tourism"><span class="california-state-span"> New York City</span> </a> is a renowned tourist destination in the United States. It is a Metropolitan Statistical Area with a population of over 18.7 million people, usually known as the <a href="https://www.ny.gov/" title="More about New York "> <span class="california-state-span">New York Metro Area</span></a> or just "New York." According to recent data, New York is the safest and most dependable location for transporting autos.This is a boon for New York auto transport services, as carriers can now simply travel throughout the city. However, this lowers the cost of car shipping in New York City or the New York metro area. Aside from that, it is a very adaptable city where every carrier wants to conduct business.As a result, the pickup and delivery are completed promptly.New York City and its metropolitan area are also conveniently accessible. As a result, finding a carrier at a reasonable price should not be difficult. <a href="https://www1.nyc.gov/" title="More about New York City"><span class="california-state-span"> New York </span></a>does, however, include rural areas, particularly to the north and west of the city. And we need to talk about it a little bit.
+                     New York City is a renowned tourist destination in the United States. It is a Metropolitan Statistical Area with a population of over 18.7 million people, usually known as the <a target="_blank" rel="nofollow" href="https://www.ny.gov/" title="More about New York "> <span class="california-state-span">New York Metro Area</span></a> or just "New York." According to recent data, New York is the safest and most dependable location for transporting autos.This is a boon for New York auto transport services, as carriers can now simply travel throughout the city. However, this lowers the cost of car shipping in New York City or the New York metro area. Aside from that, it is a very adaptable city where every carrier wants to conduct business.As a result, the pickup and delivery are completed promptly.New York City and its metropolitan area are also conveniently accessible. As a result, finding a carrier at a reasonable price should not be difficult. <a target="_blank" rel="nofollow" href="https://www1.nyc.gov/" title="More about New York City"><span class="california-state-span"> New York </span></a>does, however, include rural areas, particularly to the north and west of the city. And we need to talk about it a little bit.
                  </p>
                  <h5 class="utility_sub-heading" style="margin:4% 0;font-weight:bold;">
                      WHY ARE WE THE BEST IN CAR TRANSPORT COMPANY
@@ -118,32 +123,32 @@
 
      <section class="two-california-state " id="famous_attracions_in_Texas">
          <h2 class="utility_main-heading">Some famous attractions in <span class="california-state-span"> New York</span></h2>
-         <img loading="lazy" src="<?= get_img() ?>new-york-img.png" alt="New York Auto Transport company">
+         <img loading="lazy" src="<?= get_img() ?>new-york-img.png" alt="Car Shipping Companies in New York">
          <p class=" text">The most populous city in the United States is New York, which is frequently referred to as New York City (NYC) to distinguish it from the State of New York. New York Metropolis is also the most densely populated large city in the United States, with an estimated population of 8,804,190 in 2020 spread across 300.46 square miles (778.2 km2).</p>
          <ul class="utility_grid">
              <li>
                  <ion-icon name="locate-sharp">
-                 </ion-icon><br> <a target="_blank" title="More About Spots" href="https://www.nps.gov/stli/index.htm" style="color:black;"> Status of Liberty</a>
+                 </ion-icon><br> <a target="_blank" rel="nofollow" title="Know About Status of Liberty" href="https://www.nps.gov/stli/index.htm" style="color:black;"> Status of Liberty</a>
              </li>
              <li>
                  <ion-icon name="locate-sharp">
-                 </ion-icon><br> <a target="_blank" title="More About Spots" href="https://www.planetware.com/new-york-city/new-york-central-park-us-ny-central.htm" style="color:black;">The Central Park</a>
+                 </ion-icon><br> <a href="#" style="color:black;">The Central Park</a>
              </li>
              <li>
                  <ion-icon name="locate-sharp">
-                 </ion-icon><br> <a target="_blank" title="More About Spots" href="https://www.rockefellercenter.com/" style="color:black;"> Rockefeller Center </a>
+                 </ion-icon><br> <a href="#" style="color:black;"> Rockefeller Center </a>
              </li>
              <li>
                  <ion-icon name="locate-sharp">
-                 </ion-icon><br> <a target="_blank" title="More About Spots" href="https://www.metmuseum.org/" style="color:black;">Metropolitan Museum </a>
+                 </ion-icon><br> <a href="#" style="color:black;">Metropolitan Museum </a>
              </li>
              <li>
                  <ion-icon name="locate-sharp">
-                 </ion-icon><br><a target="_blank" title="More About Spots" href="https://www.esbnyc.com/" style="color:black;"> Empire State Building</a>
+                 </ion-icon><br><a href="#" style="color:black;"> Empire State Building</a>
              </li>
              <li>
                  <ion-icon name="locate-sharp">
-                 </ion-icon><br><a target="_blank" title="More About Spots" href="https://www.911memorial.org/" style="color:black;"> 9/11 Memorial and Museum</a>
+                 </ion-icon><br><a href="#" style="color:black;"> 9/11 Memorial and Museum</a>
              </li>
          </ul>
 
@@ -356,7 +361,7 @@
          <div class="sixth-california-state-gird">
              <div class="sixth-california-state-gird-1 utility_grid" id="door_to_door_auto_transport_new_york">
                  <div class="sixth-california-state-gird-1-img ">
-                     <img loading="lazy" src="<?= get_img() ?>door-to-door-bg.jfif" alt="New York City Auto Transportation Services">
+                     <img loading="lazy" src="<?= get_img() ?>door-to-door-bg.jfif" alt="New York Door to Door Auto Transport Services">
                  </div>
                  <div class="sixth-california-state-gird-1-content" id="door_to_door_transport_to_california_section">
                      <h3 class="utility_sub-heading">Door to Door auto transport</h3>
@@ -380,13 +385,13 @@
                      <button><a href="<?= home_path(); ?>services/enclosed-shipping" title="open auto trnasport description">Know More</a></button>
                  </div>
                  <div class="sixth-california-state-gird-1-img sixth-california-state-gird-1-img-special ">
-                     <img loading="lazy" src="<?= get_img() ?>Enclosed-Transport-img.png" alt="New York Car shipping services">
+                     <img loading="lazy" src="<?= get_img() ?>Enclosed-Transport-img.png" alt="New York Enclosed Car shipping Services">
                  </div>
              </div>
 
              <div class="sixth-california-state-gird-1 utility_grid" id="open_auto_transport_in_new_york">
                  <div class="sixth-california-state-gird-1-img ">
-                     <img loading="lazy" src="<?= get_img() ?>home_bg-1.jpg" alt="New York Auto Transport">
+                     <img loading="lazy" src="<?= get_img() ?>home_bg-1.jpg" alt="New York Open Auto Transport">
                  </div>
                  <div class="sixth-california-state-gird-1-content">
                      <h3 class="utility_sub-heading">Open Auto Transport</h3>
@@ -414,7 +419,7 @@
      <section class="seventh-california-state" id="snowbird_auto_transport_new_york">
          <div class="seventh-california-state-box utility_grid">
              <div class="seventh-california-state-box-img">
-                 <img loading="lazy" src="<?= get_img() ?>snowbird-shipping-2.jpeg" alt="Auto Transport in Texas">
+                 <img loading="lazy" src="<?= get_img() ?>snowbird-shipping-2.jpeg" alt="Snowbird Shipping in New York ">
              </div>
              <div class="seventh-california-state-box-content">
                  <h2 class="utility_sub-heading">Snowbird Shipping</h2>
@@ -444,7 +449,7 @@
                  </h2>
                  <p class="text">
                      Every year, in winters, thousands of people move from the north side to the south side due to the freezing weather to specifically live in warm weather in the South in a big way. After ending the winter season in the North, then they again came back to the north in their homes to enjoy the blossoming spring weather. Those people who move from north to south during winters are known as snowbirds. Some of the snowbirds decided to drive by themselves to their destination but most of the people prefer to use auto shipping companies to transport their automobiles, or so they specifically thought. And they tend to kind of go to their destination by air in a subtle way. However, it helped them in numerous ways from definitely time, money, hassle, and mostly for the most part wear and tear to their vehicles, which is fairly significant
-                     . In winters as there is a lot of snow and cold in New York so we follow best practices as recommended by the <a title="Guidlines for winter auto transport" href="https://boisson.nyc/pages/winter-shipping-policy"> <span class="california-state-span">NYC govt </span></a>. shipping your vehicle.
+                     . In winters as there is a lot of snow and cold in New York so we follow best practices as recommended by the <a title="Guidlines for winter auto transport" rel="nofollow" target="_blank" href="https://boisson.nyc/pages/winter-shipping-policy"> <span class="california-state-span">NYC govt </span></a>. shipping your vehicle.
                  </p>
              </div>
              <div class="eight-califorina-state-grid-1" id="operable_auto_transport_new_york">
@@ -461,4 +466,5 @@
 
      <?php include_once page_bottom ?>
  </body>
+
  </html>
