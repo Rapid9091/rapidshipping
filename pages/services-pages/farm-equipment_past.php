@@ -131,7 +131,7 @@
             EXPERTISE IN FARM EQUIPMENT HANDLING THAT IS ADAPTABLE
         </h2>
         <p>
-            <a href="<?= home_path() ?>services/tractor-transport">Tractor hauling</a> and farm equipment transfer require a great deal of experience. At Rapid Auto Shipping, we employ qualified specialists in every department, from claims to customer service. Our team has the resources to provide each of our clients with valuable advice and services.
+            <b><a href="<?= home_path() ?>services/tractor-transport">Tractor hauling</a></b> and farm equipment transfer require a great deal of experience. At Rapid Auto Shipping, we employ qualified specialists in every department, from claims to customer service. Our team has the resources to provide each of our clients with valuable advice and services.
 
             Our finance department is incredibly responsive to the needs of our clients. We can help you locate a suitable payment method, ranging from traditional methods like direct billing and credit cards to newer options like PayPal and cryptocurrency. Frequent shoppers may be eligible for a line of credit to help with future payments. Contact our finance department to set up a payment option that is convenient for your organization.
             <br><br>
