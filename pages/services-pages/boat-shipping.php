@@ -105,7 +105,7 @@
                     It makes no difference if you own a large company that sells boats or if you simply enjoy collecting them. Rapid Auto Shipping is unconcerned about your cause for needing Boat Transport, and we want to know how we can help you. Our goal is to figure out the specifics of your Boat request and how we can assist you. We feel we are the best transportation service providers in the United States, and Boat is no exception. When it comes to Boat Transport, Rapid Auto Shipping has a lot of experience. We recognize that it is distinct from other modes of automobile transportation, which is why Rapid Auto Shipping takes extra precautions and is well-versed in the process!<br>
 
                     Rapid Auto Shipping will not let you down when it comes to Boat Transport!
-                    for all information about boat transport in USA you may visit the official website <a target="_blank" href="https://www.transportation.gov/maritime-and-waterways"><b>Martitime and Waterways</b></a>
+                    for all information about boat transport in USA you may visit the official website <a target="_blank" rel="nofollow" href="https://www.transportation.gov/maritime-and-waterways"><b>Martitime and Waterways</b></a>
                 </p>
             </div>
 
@@ -128,7 +128,7 @@
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <div class="shipping-form-state-image">
-                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673601625/Recent%20Uploads/Untitled_design_2_ulkydq.png" alt="Boat Shipping in USA" />
+                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673601625/Recent%20Uploads/Untitled_design_2_ulkydq.png" alt="Boat Shipping Company in USA" />
 
                 </div>
                 <ul>
@@ -143,7 +143,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566890/Recent%20Uploads/car-and-walllet.webp" alt="#1 Boat Transport Company" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566890/Recent%20Uploads/car-and-walllet.webp" alt="Boat Transport Company" />
 
                     </div>
                     <li id="2">
@@ -189,12 +189,12 @@
                                 It makes no difference if you own a large company that sells boats or if you simply enjoy collecting them. Rapid Auto Shipping is unconcerned about your cause for needing Small Boat Transport, and we want to know how we can help you. Our goal is to figure out the specifics of your Boat request and how we can assist you in Small Boat Transport. We feel we are the best transportation service providers in the United States, and Boat is no exception. When it comes to Boat Transport, Rapid Auto Shipping has a lot of experience. We recognize that it is distinct from other modes of automobile transportation, which is why Rapid Auto Shipping takes extra precautions and is well-versed in the process!
 
                                 Rapid Auto Shipping will not let you down when it comes to Boat Transport!
-                                For safety measures, ypu may read this official documentation by <a target="_blank" href="https://www.uscgboating.org/images/420.PDF"><b>US Government</b></a>.
+                                For safety measures, ypu may read this official documentation by <a target="_blank" rel="nofollow" href="https://www.uscgboating.org/images/420.PDF"><b>US Government</b></a>.
                             </p>
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673602009/Recent%20Uploads/boat-port-1_sxbzuh.jpg" alt="#1 Boat Transport Company" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673602009/Recent%20Uploads/boat-port-1_sxbzuh.jpg" alt="Boat Transport Company" />
 
                     </div>
                     <li id="4">
@@ -218,12 +218,12 @@
                             <p class="para-2">
                                 Allow Rapid Auto Shipping to assist you in transporting your Boat! We've been in the company for ten years and have the knowledge and expertise that consumers demand. You may get a free quote to ship your boat at any time by filling out our online quote form, or by calling one of our experts. You can also ask questions, get advice, learn more about boat transportation, and more when you call. So, whatever you require, use Rapid Auto Shipping to assist you.<br><br>
                                 if you want to ship your boat from states like
-                                <a target="_blank" href="https://www.azgfd.com/boating/registration/"><b>Arizona</b></a>,
-                                <a target="_blank" href="https://tpwd.texas.gov/regulations/outdoor-annual/boating/title-registration-id-requirements"><b>Texas</b></a>,
-                                <a target="_blank" href="https://eservices.mvd.newmexico.gov/eTapestry/"><b>New Mexico</b></a>,
-                                <a target="_blank" href="https://fwp.mt.gov/activities/boating/rules-regulations"><b>Montana</b></a>,
-                                <a target="_blank" href="https://gf.nd.gov/boating"><b>North Dakota</b></a>,
-                                <a target="_blank" href="https://www.dol.wa.gov/vehicleregistration/registerboat.html"><b>washington</b></a>
+                                <a href="#"><b>Arizona</b></a>,
+                                <a target="_blank" rel="nofollow" href="https://tpwd.texas.gov/regulations/outdoor-annual/boating/title-registration-id-requirements"><b>Texas</b></a>,
+                                <a href="#"><b>New Mexico</b></a>,
+                                <a href="#"><b>Montana</b></a>,
+                                <a href="#"><b>North Dakota</b></a>,
+                                <a href="#"><b>washington</b></a>
                                 you may refer to their official government website just simply by clicking on the state names written in the queue.
                             </p>
 
@@ -231,7 +231,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673601813/Recent%20Uploads/yacht-shipping_igq6xk.jpg" alt="#1 Boat Transport Company" />
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673601813/Recent%20Uploads/yacht-shipping_igq6xk.jpg" alt="#1 Boat Shipping Company" />
 
                     </div>
                     <li id="6">
@@ -239,7 +239,7 @@
                             <h2 class="heading-1">Ways to register your boat for shipping?</h2>
                             <p class="para-2">
                                 To remove your inconvenience our firm Rapid Auto Shipping will assist you in registering your boat for transportation and make your journey smooth , easy and convinent. For more information you can contact us with our toll free number<br> <a style="color:black" href="tel:+1-833-233-4447">(+ 1833 233 4447)</a> or you can fill our form.
-                                For more registration information you may also refer to this official government websites like : <a target="_blank" href="https://boatus.org/study-guide/boat/registration/"><b>Boat US ORG</b></a>.
+                                For more registration information you may also refer to this official government websites like : <a target="_blank" rel="nofollow" href="https://boatus.org/study-guide/boat/registration/"><b>Boat US ORG</b></a>.
                             </p>
                         </div>
                     </li>
@@ -260,17 +260,14 @@
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Does it Cost More to Ship a Boat Overseas?</h2>
                             <p class="para-2">
-                                The cost of Yacht Transport by road is determined by the type of boat, the popularity of the route, and the destinations. The cost is also determined by the trailer's size. The dimensions are length, width, height, and weight. Is the boat wider than 8ft 6in? If this is the case, an overwide permission will be required in every state in the United States. Overwide permits and maybe escorts will be required if the boat on the trailer is over 13ft 6in high.
-                                <br><br>
-                                Our Yacht Transport Prices are vary by per-mile fees for moving a boat from one area to another vary. In general, the lower the transportation charge per mile, the more miles it travels. the best way to know the cost go to our price calculator, fill form or call us +1-833-233-4447 now!
-
+                                One of the leading causes for needing to ship a boat is moving residences or relocating. There are numerous extra steps to ship a boat overseas, but the most popular solutions for shipping a boat overseas are port-to-port ones. Rapid Auto Shipping is the industry-leading <b>boat shipping company</b>. When shipping your boat overseas, size and weight are the two main determinants of shipping a boat abroad costs. There is no surprise that heavier cargo costs more to transport than lighter freight, and boats are no different from other vehicles in this regard. Size becomes an issue when a boat needs special handling because of its size or other factors that make it difficult to ship and load conventionally. Winterizing your boat before sending it abroad is highly advised.
                             </p>
                         </div>
                     </li>
                 </ul>
 
                 <div class="shipping-form-state-image">
-                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673591711/Recent%20Uploads/giving-key.jpg" alt="Boat Shipping in USA" />
+                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673591711/Recent%20Uploads/giving-key.jpg" alt="Boat Shipping Company in USA" />
                 </div>
             </section>
 

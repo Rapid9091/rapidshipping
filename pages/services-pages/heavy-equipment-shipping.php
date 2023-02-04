@@ -60,7 +60,9 @@
             background-size: cover;
         }
 
-  
+        .third-section-state {
+            background-color: rgb(0, 0, 0, 0.4);
+        }
 
         .third-section-content-heading {
             font-size: 45px;
@@ -92,7 +94,7 @@
                     <h2><span> Shipping for Heavy Equipment Transport</span></h2>
                     <p> Are you looking for a heavy equipment transfer and lowboy shipping firm to help you relocate your commercial or industrial business? No matter the size or destination, Rapid Auto Shipping can transport your big equipment or trucks! If you're looking for a heavy haul trucking equipment and transportation company that provides excellent service at a reasonable cost, you've come to the right place. The Rapid Auto Shipping is here to assist you! We have heavy equipment transporters ready to ship your equipment in all <a href="<?= get_state() ?>"><strong>States</strong> </a> and cities.
                         <br><br>
-                        Rapid Auto Shipping is a licensed, bonded, and reputable <a target="_blank" href="https://en.wikipedia.org/wiki/Heavy_equipment">heavy equipment</a> and machinery shipping company. We have over ten years of expertise transporting heavy equipment for hundreds of businesses of all sizes. Our reputation is built on our promise to deliver your large equipment safely and affordably. We provide a number of shipping alternatives to fulfil your cargo requirements as well as your budget constraints. When moving big equipment or oversized materials, a lowboy or step deck trailer is the ideal option.
+                        Rapid Auto Shipping is a licensed, bonded, and reputable <a target="_blank" rel="nofollow" href="https://en.wikipedia.org/wiki/Heavy_equipment">heavy equipment</a> and machinery shipping company. We have over ten years of expertise transporting heavy equipment for hundreds of businesses of all sizes. Our reputation is built on our promise to deliver your large equipment safely and affordably. We provide a number of shipping alternatives to fulfil your cargo requirements as well as your budget constraints. When moving big equipment or oversized materials, a lowboy or step deck trailer is the ideal option.
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673438870/Recent%20Uploads/jcb-over-truck2_izaj00.jpg" alt="Heavy equipment shipping">
                 </div>
@@ -107,7 +109,7 @@
                         <br><br>
                         Tremendous Customer Service: We're here to provide you with polite service from the moment you call for a free quote to the moment your vehicle arrives at its destination.
 
-                        Professional Truck Transport Service: We make certain that all of our <a target="_blank" href="https://www.bls.gov/ooh/construction-and-extraction/construction-equipment-operators.htm">drivers</a> are courteous, professional, and friendly. We make certain that they are adequately trained to move all types of trucks, including dump trucks, before we begin any movements.
+                        Professional Truck Transport Service: We make certain that all of our <a target="_blank" rel="nofollow" href="https://www.bls.gov/ooh/construction-and-extraction/construction-equipment-operators.htm">drivers</a> are courteous, professional, and friendly. We make certain that they are adequately trained to move all types of trucks, including dump trucks, before we begin any movements.
                         <br>
                         Finally, when you call us for a free quote, we attempt to provide you with the most competitive truck shipping rates available.
                     </p>
@@ -125,7 +127,7 @@
                         <br><br>
                         <strong> Capabilities for tracking - </strong> can keep you updated on the progress of your shipment throughout its journey.
                         <br>
-                        <br> <strong> <a target="_blank" style="color:black;" href="https://www.fmcsa.dot.gov/regulations/cargo-securement/cargo-securement-rules">Safe Transportation -</a></strong> Your heavy equipment transport is transported by skilled drivers who are concerned about the weight they are transporting.
+                        <br> <strong> <a target="_blank" rel="nofollow" style="color:black;" href="https://www.fmcsa.dot.gov/regulations/cargo-securement/cargo-securement-rules">Safe Transportation -</a></strong> Your heavy equipment transport is transported by skilled drivers who are concerned about the weight they are transporting.
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521398/Recent%20Uploads/car-tied-on-trailer-3.jpg" alt="Safely shipping a car">
 
@@ -143,7 +145,7 @@
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span>Why Are We Your HEAVY EQUIPMENT HAULING Experts?</span></h2>
-                    <p> <strong><a href="<?= home_path() ?>">Rapid Auto Shipping</a></strong> has long been a leader in delivering heavy equipment transport and lowboy transport services to customers looking for cost-effective, secure, and dependable vehicle transportation. Rapid Auto Shipping's lowboy carry carriers are incredibly adaptable and can transport your automobile anywhere in the country. Lowboy transport is noteworthy because it can move anything from large equipment such as bulldozers and dump trucks to specialized automobile and truck combinations. Lowboys are frequently used to haul boats and even campers. The lowboy is the vehicle transport industry's all-in-one solution. The drivers at Rapid Auto Shipping are experts with lowboy transport, especially with big loads.
+                    <p>Rapid Auto Shipping has long been a leader in delivering heavy equipment transport and lowboy transport services to customers looking for cost-effective, secure, and dependable vehicle transportation. Rapid Auto Shipping's lowboy carry carriers are incredibly adaptable and can transport your automobile anywhere in the country. Lowboy transport is noteworthy because it can move anything from large equipment such as bulldozers and dump trucks to specialized automobile and truck combinations. Lowboys are frequently used to haul boats and even campers. The lowboy is the vehicle transport industry's all-in-one solution. The drivers at Rapid Auto Shipping are experts with <b><a href="<?= home_path() ?>services/lowboy-shipping" title="know about lowboy shipping">lowboy transport</a></b>, especially with big loads.
 
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666432435/Recent%20Uploads/exotic-car-min_jbuf4y.jpg" alt="Best auto transport USA">

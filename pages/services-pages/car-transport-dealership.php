@@ -133,6 +133,15 @@
                     </li>
                     <li id="5">
                         <div class="shipping-form-state-content">
+                            <h2 class="heading-1"> How much Does Transporting cars for <span>Dealerships cost</span>?
+                            </h2>
+                            <p class="para-2">
+                                Estimated dealership transportation costs for vehicles. They may change depending on the time of year and the kind of car you are shipping. If you want to lower the cost of shipping an automobile, it's critical to understand how that cost is determined. Your location, distance of your shipment, the required time and date, the vehicle and mode of transportation, as well as the price of diesel fuel are all determining factors. Please speak with a our staff member; they have been taught to pay attention to your preferences for car shipment and provide suitable alternatives. With the assistance of our instant car transport cost calculator, you can secure top-rated car shipping services 24/7 at rates that fit your budget.
+                            </p>
+                        </div>
+                    </li>
+                    <li id="6">
+                        <div class="shipping-form-state-content">
                             <h2 class="heading-1"> Vehicle Pick-Up and Drop-Off Service</h2>
                             <p class="para-2">
                                 The most crucial aspect of the shipping procedure is door-to-door service. If they can't fit in front of their house, some clients may have to meet the carrier in a parking lot or up the block, depending on their location.

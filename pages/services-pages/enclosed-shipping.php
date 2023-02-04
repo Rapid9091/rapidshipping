@@ -81,7 +81,7 @@
         <div class="affordable-ways-page-grid">
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span> What Is an Enclosed Auto Carrier and How Does It Work?</span></h2>
+                    <h3><span> What Is an Enclosed Auto Carrier and How Does It Work?</span></h3>
                     <p> Enclosed auto shipping is one of the various options for transporting automobiles across the country. Enclosed auto transporters transport autos safely and securely using a covered, enclosed transport trailer. Open auto transport, on the other hand, involves autos being loaded onto a trailer that is "open" to the elements. Vehicles in enclosed trailers are not exposed to the elements.
                         <br><br>
                         The majority of open trailers can transport ten automobiles at once. Enclosed car shipment trucks, on the other hand, transport between two and six autos at a time, sometimes in just one deck. Open trailers, on the other hand, transport ten automobiles on two racks piled one on top of the other.
@@ -139,10 +139,10 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span> What is a Soft-Sided Enclosed Auto Carrier, and how does it work?</span></h2>
+                    <h3><span> What is a Soft-Sided Enclosed Auto Carrier, and how does it work?</span></h3>
                     <p> If you're shipping your car across the nation, a soft-sided enclosed auto transport carrier is a great option. These carriers shield your vehicle from branches, flying debris, and other potential dings and dents. This, like all other modes of transportation, will assist avoid racking up thousands of miles in a single trip.
                         <br><br>
-                        Our enclosed soft-sided carriers are particularly ideal for transporting luxury or sports cars. Your car's beautiful finish will be preserved when it arrives due to its lack of exposure to the elements. The leather interiors, as well as the shining chrome and hand-waxed paint finishes, will benefit from this.
+                        Our enclosed soft-sided carriers are particularly ideal for <b><a href="<?= home_path() ?>services/classic-car-shipping" title="classic car transport">transporting luxury or sports cars</a></b>. Your car's beautiful finish will be preserved when it arrives due to its lack of exposure to the elements. The leather interiors, as well as the shining chrome and hand-waxed paint finishes, will benefit from this.
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668429775/Recent%20Uploads/attachment-frederik-hojfeldt-nielsen-eEpF3zcICfE-unsplash_lja7n6.jpg" alt="Enclosed car shipping">
 
@@ -151,7 +151,7 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span> What is a Hard-Sided Enclosed Auto Carrier, and how does it work?</span></h2>
+                    <h3><span> What is a Hard-Sided Enclosed Auto Carrier, and how does it work?</span></h3>
                     <p> A fully enclosed auto trailer is a hard-sided enclosed conveyance. This safeguards your vehicle in the unlikely event that it is destroyed during shipment. Owners of exotic and collectible cars will benefit from our hard-sided covered transport service. The carriers are loaded using a hydraulic lift gate.
                         <br><br>
                         This allows you to load smaller cars closer to the ground while keeping your vehicle level. What difference does it make? It helps to prevent fluid leakage or loss while in transit, ensuring that nothing spills out and damages your car or others. Drip pans are installed on almost every covered hard-sided car transporter to protect cars on the bottom rack from transmission fluids and other fluids from vehicles on the top rack. It also means that your car will be ready to drive; no fluid top-offs are required.
@@ -163,7 +163,7 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span> Enclosed Car Shipping vs. Open Car Shipping: What's the Difference?</span></h2>
+                    <h4><span> Enclosed Car Shipping vs. Open Car Shipping: What's the Difference?</span></h4>
                     <p> Trucks are used for all types of vehicle transportation, whether open or enclosed. This truck has either an open-air trailer with many vehicles or an enclosed trailer with one or more vehicles that will transport them to their destination.
                         <br><br>
                         Open-air trailers provide no weather protection yet are perfect for any automobile, pickup truck, or SUV. Enclosed vehicle transportation entails transporting the car on a trailer that is completely enclosed. The vehicle will be safer and more secure as a result of this. It also gives owners of new, high-value, rare, and vintage vehicles extra peace of mind.
@@ -173,7 +173,7 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span> Auto Transport Trailers: Enclosed Stacking vs. Enclosed Non-Stacking</span></h2>
+                    <h4><span> Auto Transport Trailers: Enclosed Stacking vs. Enclosed Non-Stacking</span></h4>
                     <p> Whether you're shipping a car open or enclosed, there are two major types of trailers to select from: stacking and non-stacking.
                         <br>
                         It's self-explanatory: an enclosed stacking trailer enables the stacking of automobiles in two rows, one on top of the other. There is only one row of automobiles on a non-stacking transport trailer, with nothing on top.
@@ -189,8 +189,8 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span> What Is the Cost of Enclosed Auto Transport?</span></h2>
-                    <p> Now we'll get down to the meat and potatoes of the open vs enclosed debate: the expense of shipping your vehicle.
+                    <h4><span> What Is the Cost of Enclosed Auto Transport?</span></h4>
+                    <p> Now we'll get down to the meat and potatoes of the open vs enclosed debate: the expense of <b><a href="<?= home_path() ?>">shipping your vehicle</a></b>.
                         <br>
                         The cost of enclosed auto transport is usually always higher than the cost of an open transport trailer. At any given time, open automobile transport trucks can transport up to ten vehicles. This allows the driver to spread the expense of the entire consignment across ten trucks, rather than the two to six that an enclosed truck would allow.
                     </p>
@@ -207,7 +207,7 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>How Much Time Does It Take To Ship A Car Using Enclosed Trailers?</span></h2>
+                    <h4><span>How Much Time Does It Take To Ship A Car Using Enclosed Trailers?</span></h4>
                     <p> There are two main waiting periods while transporting a vehicle: the time it takes to identify a carrier and have them pick up the vehicle, and the actual transit time.
                         <br>
                         Because there aren't as many covered trucks on the road, enclosed transport services can take a little longer to schedule than open shipping in terms of the time it takes to get your vehicle picked up. There are more than enough, however, it may take a little longer to get your vehicle booked and picked up.
@@ -219,12 +219,12 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>Should You Use Enclosed Transport to Ship Your Car?</span></h2>
+                    <h4><span>Should You Use Enclosed Transport to Ship Your Car?</span></h4>
                     <p> With an enclosed car shipping truck, you can ship any automobile (so long as it can physically fit on the trailer). That isn't to say you should always do it.
                         <br>
                         Enclosed transport services are typically recommended for anyone with a valuable vehicle. Vehicles lose value over time, beginning when you drive them off the lot — even if they're brand new! In fact, new vehicles can lose up to 50% of their value in the first two years of ownership.
                         <br>
-                        This is why we don't advocate enclosed shipping for any car that is used on a daily basis. A <a style="color:var(--nav-color);" href="https://www.toyota.com/prius/" target="_blank" title="More about toyota Prius"><b>Toyota Prius</b></a> or a <a style="color:var(--nav-color);" href="https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/shopping-tools/download-catalog/02-pdf/2018-chevrolet-impala-catalog.pdf" title="More Ipala's" target="_blank"><b>Chevrolet Impala</b></a> don't need an enclosed truck because they'll be exposed to about the same level of risk in an open truck as you would while driving it personally.
+                        This is why we don't advocate enclosed shipping for any car that is used on a daily basis. A <a style="color:var(--nav-color);" href="https://www.toyota.com/prius/" target="_blank" rel="nofollow" title="More about toyota Prius"><b>Toyota Prius</b></a> or a <a style="color:var(--nav-color);" href="https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/shopping-tools/download-catalog/02-pdf/2018-chevrolet-impala-catalog.pdf" title="More Ipala's" target="_blank" rel="nofollow"><b>Chevrolet Impala</b></a> don't need an enclosed truck because they'll be exposed to about the same level of risk in an open truck as you would while driving it personally.
                         <br>
                         An enclosed truck, on the other hand, mitigates much of that risk, making it ideal for vehicles that aren't driven every day.
                         <br>
@@ -235,12 +235,12 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span> When Should I Use Enclosed Auto Transport to Ship My Vehicle?</span></h2>
+                    <h4><span> When Should I Use Enclosed Auto Transport to Ship My Vehicle?</span></h4>
                     <p> If you answered yes to any of these questions, shipping your car in a soft-sided or hard-sided enclosed auto carrier is likely your best option.
 
                         <br> <span style="font-weight: 500;">(->)</span> Is there sentimental value in your vehicle?
                         <br> <span style="font-weight: 500;">(->)</span> Is your vehicle a potential investment?
-                        <br> <span style="font-weight: 500;">(->)</span> Is it a historic car, a <b><a href="<?= home_path() ?>services/classic-car-shipping" title="classic car transport">luxury car</a></b>, or an exotic sports car that you own?
+                        <br> <span style="font-weight: 500;">(->)</span> Is it a historic car, a luxury car, or an exotic sports car that you own?
                         <br> <span style="font-weight: 500;">(->)</span> Is the value of your car higher than the coverage provided by an open carrier insurance policy?
                         <br> <span style="font-weight: 500;">(->)</span> Is there a high-end paint job, a lot of chrome, or exterior changes on your car?
                         <br> <span style="font-weight: 500;">(->)</span> Is your vehicle's ground clearance low, even with aftermarket body kits?
@@ -252,7 +252,7 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>Why Should You Use Enclosed Carriers From Rapid Auto Shipping?</span></h2>
+                    <h4><span>Why Should You Use Enclosed Carriers From Rapid Auto Shipping?</span></h4>
                     <p> Regardless of the type of car being transported, Rapid Auto Shipping provides full enclosed transportation services to all of our customers. We only work with top-rated carriers who are known for providing excellent service, and we double-check that their vehicles are fully enclosed before dispatching them. We have over 10 years of covered carrier shipping experience and can ensure that your car is sent promptly, easily, and efficiently.
                         <br>
                         Give us a call if you want to ship your automobile on an open or enclosed auto transport truck. We can provide you with a quotation over the phone for moving your vehicle when you need it moved.

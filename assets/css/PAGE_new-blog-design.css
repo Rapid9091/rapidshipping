@@ -2,9 +2,12 @@
   padding: 3% 0;
 }
 
-.new-blog-section-one > h2 {
+.new-blog-section-one > h2,
+.new-blog-section-one > h3,
+.new-blog-section-one > h4 {
   margin-bottom: 2%;
   text-transform: capitalize;
+  font-size: 24px;
 }
 
 .new-blog-section-one > img {

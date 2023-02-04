@@ -48,19 +48,23 @@
     display: grid;
     grid-template-columns: 100% 1fr;
   }
-  @media screen and (max-width: 500px) {
-    .arkansas-top-companies-2022-grid > table > thead > tr > th {
-      font-size: unset;
-      line-height: unset;
-    }
-    .arkansas-top-companies-2022-grid > table > tbody > tr {
-      margin-bottom: 2%;
-    }
-    .arkansas-top-companies-2022-grid > table > tbody > tr > td {
-      word-spacing: unset;
-      letter-spacing: unset;
-      font-size: 14px;
-      line-height: unset;
-    }
+  .arkansas-top-companies-2022-container {
+    padding: 5% 5%;
+    grid-gap: 0;
+  }
+}
+@media screen and (max-width: 500px) {
+  .arkansas-top-companies-2022-grid > table > thead > tr > th {
+    font-size: unset;
+    line-height: unset;
+  }
+  .arkansas-top-companies-2022-grid > table > tbody > tr {
+    margin-bottom: 2%;
+  }
+  .arkansas-top-companies-2022-grid > table > tbody > tr > td {
+    word-spacing: unset;
+    letter-spacing: unset;
+    font-size: 14px;
+    line-height: unset;
   }
 }

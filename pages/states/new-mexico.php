@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Auto Transport Service in New Mexico - Rapidautoshipping</title>
+    <title>Auto Transport Service in New Mexico - Rapid Auto Shipping</title>
     <meta name="title" content="Auto Transport Service in New Mexico - Rapidautoshipping">
     <meta name="description" content="Rapid Auto Shipping is a trusted New Mexico auto transport company with over 10 years of experience. We offer 24/7 claims service and offer competitive prices across all 50 states." />
     <meta property="og:type" content="website" />
@@ -45,7 +45,7 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
-            background-image: url('<?= get_img() ?>new-mexico-state-bg-1.jpg');
+            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/v1675077230/Recent%20Uploads/califoria-state-bg.png');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
@@ -55,6 +55,10 @@
 
         .third-section-content-heading {
             font-size: 45px;
+        }
+
+        .third-section-state {
+            background-color: rgb(0, 0, 0, 0.6);
         }
 
         @media screen and (max-width: 400px) {
@@ -89,7 +93,7 @@
         <div class="first-california-state-grid utility_grid">
             <div class="first-california-state-grid " id="more_about_texas">
                 <p>
-                    <a target="_blank" href="https://en.wikipedia.org/wiki/New_Mexico" title="More about New Mexico Tourism"><span class="california-state-span">New Mexico</span></a> is a state in the Southwest region of the United States with 2.1 million population, it is the 5th largest state in terms of area and the 36th most populous. It is one of the southern Rocky Mountain Mountain States, bordering Texas to the east and southeast, Oklahoma to the northeast, and the Mexican states of Chihuahua and Sonora to the south, as well as Utah, Colorado, and Arizona, thus sharing the Four Corners region of the western United States. Santa Fe, the state capital and largest city, is the oldest capital in the United States, having been created in 1610 as the administrative centre of Nuevo México in New Spain. New Mexico auto transport is a little bit easier...but only a little bit.<br><br> Regardless of the state, auto transport businesses prefer to run routes to and from large cities. <a target="_blank" href="https://www.newmexico.org/" title="More about New Mexico Tourism"><span class="california-state-span">New Mexico</span></a> also has a number of important cities, including Albuquerque and Las Cruces, which are the state's two most popular shipping destinations. The majority of the state, however, is desolate due to the fact that it is primarily desert. Continue reading to learn more about shipping to or from New Mexico. For all intents and purposes, much of New Mexico is now desert, desolate, and rural.
+                    <a target="_blank" rel="nofollow" href="https://en.wikipedia.org/wiki/New_Mexico" title="More about New Mexico Tourism"><span class="california-state-span">New Mexico</span></a> is a state in the Southwest region of the United States with 2.1 million population, it is the 5th largest state in terms of area and the 36th most populous. It is one of the southern Rocky Mountain Mountain States, bordering Texas to the east and southeast, Oklahoma to the northeast, and the Mexican states of Chihuahua and Sonora to the south, as well as Utah, Colorado, and Arizona, thus sharing the Four Corners region of the western United States. Santa Fe, the state capital and largest city, is the oldest capital in the United States, having been created in 1610 as the administrative centre of Nuevo México in New Spain. New Mexico auto transport is a little bit easier...but only a little bit.<br><br> Regardless of the state, auto transport businesses prefer to run routes to and from large cities. <a target="_blank" href="https://www.newmexico.org/" title="More about New Mexico Tourism"><span class="california-state-span">New Mexico</span></a> also has a number of important cities, including Albuquerque and Las Cruces, which are the state's two most popular shipping destinations. The majority of the state, however, is desolate due to the fact that it is primarily desert. Continue reading to learn more about shipping to or from New Mexico. For all intents and purposes, much of New Mexico is now desert, desolate, and rural.
                 </p>
                 <h5 class="utility_sub-heading" style="margin:4% 0;font-weight:bold;">
                     WHY ARE WE THE BEST IN CAR TRANSPORT COMPANIES
@@ -199,7 +203,7 @@
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>
-        Every year, we make sure that our auto shipping prices are competitive and up to date. We are unable to provide special discounts to all of our customers, but we have made an attempt to assist military members, students, and seniors who wish to use our <a target="_blank" href="https://www.nm.gov/" title="More about New Mexico Tourism"><span class="california-state-span">New Mexico</span></a> car shipping services. There are also seasonal auto shipping rates available, so even if you aren't a member of one of these associations, you can still benefit.
+        Every year, we make sure that our auto shipping prices are competitive and up to date. We are unable to provide special discounts to all of our customers, but we have made an attempt to assist military members, students, and seniors who wish to use our <a target="_blank" rel="nofollow" href="https://www.nm.gov/" title="More about New Mexico Tourism"><span class="california-state-span">New Mexico</span></a> car shipping services. There are also seasonal auto shipping rates available, so even if you aren't a member of one of these associations, you can still benefit.
         </p>
     </section>
 
@@ -260,7 +264,7 @@
                     <button><a href="<?= home_path(); ?>services/enclosed-shipping" title="open auto trnasport description">Know More</a></button>
                 </div>
                 <div class="sixth-california-state-gird-1-img sixth-california-state-gird-1-img-special ">
-                    <img loading="lazy" src="<?= get_img() ?>Enclosed-Transport-img.png" alt="New Mexico Car shipping services">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1668429775/Recent%20Uploads/attachment-frederik-hojfeldt-nielsen-eEpF3zcICfE-unsplash_lja7n6.jpg" alt="New Mexico Car shipping services">
                 </div>
             </div>
 

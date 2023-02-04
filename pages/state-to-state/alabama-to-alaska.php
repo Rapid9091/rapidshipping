@@ -115,7 +115,7 @@
                 <ul>
                     <li id="1">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Shipping From The State Of <span>Alabama </span></h2>
+                            <h4 class="heading-1">Shipping From The State Of <span>Alabama </span></h4>
                             <p class="para-2">
                                 <a href="<?= home_path() ?>states/alabama">Alabama (AL)</a> is the 22nd state in the United States, and it is located in the southeast. The state's entire area is 52,419 square miles.
 
@@ -126,7 +126,7 @@
                     </li>
                     <li id="2">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Shipping From The State Of <span>Alabama to Alaska</span></h2>
+                            <h4 class="heading-1">Shipping From The State Of <span>Alabama to Alaska</span></h4>
 
                             <p class="para-2">
                                 Alaska (Ak) is also accessible by sea, thanks to its well-organized infrastructure of railways, roads, and airports. The national and interstate highways are marked on the <a href="https://en.wikipedia.org/wiki/Alaska">Alaska</a> Map. In addition, the railway map shows the state's major train routes. The counties of Alaska are made up of 11 census zones and 16 boroughs.
@@ -142,8 +142,8 @@
                     </li>
                     <li id="3">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">How to ship Vehicle <span>Alabama to Alaska</span>?
-                            </h2>
+                            <h4 class="heading-1">How to ship Vehicle <span>Alabama to Alaska</span>?
+                            </h4>
                             <p class="para-2">It's as simple as 1-2-3 to ship a car from Alabama to Alaska with Rapid Auto Shipping.
                                 <br><br>
                                 <b>Step 1:</b> Get a quick auto shipment quote for Alabama to <a href="<?= home_path() ?>states/alaska">Alaska Auto Shipping</a> and schedule a pickup time that works for you.
@@ -161,8 +161,8 @@
                     </li>
                     <li id="4">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">What else can we ship with your company?
-                            </h2>
+                            <h4 class="heading-1">What else can we ship with your company?
+                            </h4>
                             <p class="para-2">
                                 Rapid Auto Shipping specialises in moving sedans, SUVs, pickup trucks, minivans, big vehicles, antiques, classic automobiles, motorbikes, construction vehicles, inoperable cars, and boats, among other vehicles. If you're unsure whether or not we can ship your vehicle, give us a call and we'll see what we can do.
                             </p>
@@ -171,7 +171,7 @@
                     </li>
                     <li id="5">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">How to register a vehicle in <span>Alaska</span>?</h2>
+                            <h4 class="heading-1">How to register a vehicle in <span>Alaska</span>?</h4>
                             <p class="para-2">
                                 Alaskan citizens must register and title their automobiles with the <a href="https://doa.alaska.gov/dmv/reg/home.htm">DMV</a>, which they can do by mail or in person if certain requirements are completed. Car registration may be fee-based and cannot be conducted over the phone or online, depending on the vehicle type.
 
@@ -183,8 +183,8 @@
 
                     <li id="6">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">What is the cost of registering a vehicle in Alaska?
-                            </h2>
+                            <h4 class="heading-1">What is the cost of registering a vehicle in Alaska?
+                            </h4>
                             <p class="para-2">
                                 Vehicle registration fees in Alaska vary depending on the kind of vehicle:
                                 <br>
@@ -197,8 +197,8 @@
                     </li>
                     <li id="7">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Do I need someone to be present in <span>Alabama</span> to receive my Vehicle?
-                            </h2>
+                            <h4 class="heading-1">Do I need someone to be present in <span>Alabama</span> to receive my Vehicle?
+                            </h4>
                             <p class="para-2">Yes, someone must be there to sign the initial and final inspection reports, release and accept the car, and hand keys to the driver. This individual can be anyone over the age of 18 whom you have entrusted with the responsibility of releasing or accepting your car.
 
                             </p>
@@ -206,14 +206,14 @@
                     </li>
                     <li id="8">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Will my Vehicle be transported safely and securely to <span>Alabama to Alaska</span>?</h2>
+                            <h4 class="heading-1">Will my Vehicle be transported safely and securely to <span>Alabama to Alaska</span>?</h4>
                             <p class="para-2">All of our vehicle shipments are fully insured while in transit. This includes damage caused by our drivers or workers, as well as damages caused by equipment failure or equipment failure by the assigned auto shipping or vehicle transport truck. All of our drivers and transport trucks are required by law to carry at least $700,000 in public liability insurance.
                             </p>
                         </div>
                     </li>
                     <li id="9">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">How many days will it take to ship my Vehicle from <span>Alabama to Alaska</span> ?</h2>
+                            <h4 class="heading-1">How many days will it take to ship my Vehicle from <span>Alabama to Alaska</span> ?</h4>
                             <p class="para-2">The travel time in Alabama to Alaska car shipping is anticipated to be 3 to 5 days. This path is estimated to be roughly 1,200 kilometers long. On average, standard carriers go from 400 to 500 miles every day. For packages that must arrive sooner, expedited shipping is also available.
 
                             </p>
@@ -221,8 +221,8 @@
                     </li>
                     <li id="10">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">The shipping cost of a vehicle from <span>Alabama to Alaska</span> ?
-                            </h2>
+                            <h4 class="heading-1">The shipping cost of a vehicle from <span>Alabama to Alaska</span> ?
+                            </h4>
                             <p class="para-2">Over the last 10 days, the average cost of shipping an automobile from Alabama to Alaska has ranged from $300 to $600.
                                 If you need Alabama to Alaska vehicle transport services for your car, truck, or other vehicle, Rapid Auto Shipping can help. Our skilled team has over two decades of experience and can handle any long-distance shipping project. We provide transparent pricing, precise quotes, and ongoing contact throughout the transportation process.
                             </p>
@@ -230,24 +230,24 @@
                     </li>
                     <li id="11">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">How to get a free quote for vehicle shipping from <span>Alabama to Alaska</span> ?
-                            </h2>
+                            <h4 class="heading-1">How to get a free quote for vehicle shipping from <span>Alabama to Alaska</span> ?
+                            </h4>
                             <p class="para-2">Throughout the year, the cost of shipping a car, truck, or motorcycle from Alabama to Alaska varies. Use our website to calculate your quote for Alabama to Alaska auto shipping for your car on the quickest route available today. We'll need the following information to generate your quote: the location you're shipping from and to, the type of car you'd like to send, and the date your vehicle will be available.
                             </p>
                         </div>
                     </li>
                     <li id="12">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">What is the carrier availability rating between <span>Alabama to Alaska</span> ?
-                            </h2>
+                            <h4 class="heading-1">What is the carrier availability rating between <span>Alabama to Alaska</span> ?
+                            </h4>
                             <p class="para-2">Open transit is the most common way of car shipping. Open-air transports are divided into two categories. Eight to ten car carriers handle the majority of freight. Smaller carriers that handle 2-3 automobiles are used for shorter, more local journeys. Because open-air carriers are utilised more frequently, there is a larger network of carrier availability. Enclosed transportation methods are recommended for moving historic, premium, or exotic vehicles. On the road, enclosed carriers offer the best protection from open-air elements. We recommend booking your enclosed transportation in advance because carrier availability is limited.
                             </p>
                         </div>
                     </li>
                     <li id="13">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">What should I consider when shipping a car in Alaska?
-                            </h2>
+                            <h4 class="heading-1">What should I consider when shipping a car in Alaska?
+                            </h4>
                             <p class="para-2"><a href="http://dnr.alaska.gov/ag/Index/Chapter25.pdf">Check</a> to see if your car has been thoroughly cleaned both inside and out. This is especially crucial because it will aid the driver's inspection in determining any pre-existing damage to your car. You'll also want to make sure the vehicle doesn't have any other personal belongings in it unless you want to ship them with it. Make sure the driver is aware of any unusual circumstances with the car. Finally, ensure that the automobile has a quarter tank of gas when it is picked up for shipping.
 
 
@@ -257,8 +257,8 @@
                     </li>
                     <li id="14">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Is it possible to ship a car if it isn't in running condition?
-                            </h2>
+                            <h4 class="heading-1">Is it possible to ship a car if it isn't in running condition?
+                            </h4>
                             <p class="para-2">Yes, we do transport vehicles that are not running or operational. When shipping inoperable autos, a special auto carrier is needed that uses a winch that is attached to your car and slowly and carefully drags it onto the carrier. Because of the unique equipment and extra labour necessary in fastening the car onto the transporter, there is an additional price for inoperable automobiles. You can choose the inoperable option on the online booking form, or tell your shipping agent if you're making a phone reservation so that suitable provisions can be made to accommodate a non-running vehicle.
 
 
@@ -269,8 +269,8 @@
                     </li>
                     <li id="15">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Are there size restrictions on shipping my vehicle?
-                            </h2>
+                            <h4 class="heading-1">Are there size restrictions on shipping my vehicle?
+                            </h4>
                             <p class="para-2">Check to see if your car has been thoroughly cleaned both inside and out. This is especially crucial because it will aid the driver's inspection in determining any pre-existing damage to your car. You'll also want to make sure the vehicle doesn't have any other personal belongings in it unless you want to ship them with it. Make sure the driver is aware of any unusual circumstances with the car. Finally, ensure that the automobile has a quarter tank of gas when it is picked up for shipping.
 
 
@@ -314,7 +314,7 @@
     <!-- ------------------------ -->
     <section class="rapid-advantages-section">
         <div class="rapid-advantages-grid-container">
-            <h2 class="heading-1">Advantages usign <span>Rapid Auto Shipping</span></h2>
+            <h3 class="heading-1">Advantages usign <span>Rapid Auto Shipping</span></h3>
             <div class="rapid-advantages-grid utility_grid utility_grid-3">
                 <div class="rapid-advantages-grid-1 ">
                     <img src="<?= get_img() ?>icons/rating.png" alt="Albama to alaska shipping">
