@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Auto Transport company | Car shipping services Virginia | +1-833-233-4447</title>
-    <meta name="Auto Transport company | Car shipping services Virginia | +1-833-233-4447" />
-    <meta name="description" content="Need Car Shipping service in Virginia, you need an experienced Virginia auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <title>Virginia Auto Transport Services</title>
+    <meta name="Virginia Auto Transport Services" />
+    <meta name="description" content="Do you require car shipping in Virginia? Rapid Auto Shipping is here to help you with your Virginia auto transport needs. Call +1 (833) 233-4447 to get an instant online quote." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Auto Transport company | Car shipping services Virginia | +1-833-233-4447" />
-    <meta property="og:description" content="Need Car Shipping service in Virginia, you need an experienced Virginia auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta property="og:title" content="Virginia Auto Transport Services" />
+    <meta property="og:description" content="Do you require car shipping in Virginia? Rapid Auto Shipping is here to help you with your Virginia auto transport needs. Call +1 (833) 233-4447 to get an instant online quote." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/virginia-va" />
-    <meta property="og:site_name" content="Auto Transport Virginia - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Virginia Auto Transport Services" />
     <meta name='robots' content='index' />
 
     <meta name="keywords" content="virginia auto transport, car shipping companies virginia, car transport companies in virginia, car shipping companies in virginia, ship my car to virginia, auto transport in virginia, auto transport virginia, virginia car shipping, auto transport companies in virginia, car shipping virginia, car transport companies virginia, car transport virginia, virginia car carrier, virginia car haulers, virginia car transport, car transport to virginia, international car shipping companies in va" />
@@ -52,12 +52,17 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
-            background-image: url('<?= get_img() ?>virginia-state.jpeg');
+            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673597414/Recent%20Uploads/Auto-Shipping-about-1_gydnd1.png');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
+        }
+
+        .third-section-state {
+
+            background-color: rgb(0, 0, 0, 0.6);
         }
     </style>
 </head>
@@ -68,7 +73,7 @@
 
         <?php
         $NAME = "Auto Transport Virginia";
-        $PARAGRAPH = "With a population of 8.6 million people, Virginia is located in the Mid-Atlantic and Southeastern areas of the United States of America. With a total area of 42,774.2 square miles (110,784.7 km2), including 3,180.13 square miles (8,236.5 km2) of water, Virginia is the 35th largest state by area and the 12th most populous state.";
+        $PARAGRAPH = "You require a reputable Virginia auto transport firm to ship a car to or from Virginia. Rapid Auto Shipping gives you Virginia's best car shipping services. Our team of auto shipping specialists offers customers the best service in the market. Every team member will treat you and your vehicle with the utmost respect and honesty. In order to make things simpler for you, we've also streamlined the car shipping procedure. We handle the entire process on your behalf to deliver a car shipping service that is quick, simple, and economical to/from Virginia and across the US. ";
         include small_form;
         ?>
     </div>
@@ -78,7 +83,7 @@
     <!-- ----------------------------- -->
 
     <section class="first-california-state">
-        <h2 class="utility_main-heading">FIND CHEAP Virginia<span class="california-state-span">CAR SHIPPING OPTIONS</span></h2>
+        <h2 class="utility_main-heading">FIND CHEAP OPTIONS <span class="california-state-span">AUTO TRANSPORT VIRGINIA</span></h2>
         <div class="first-california-state-grid utility_grid">
             <div class="first-california-state-grid " id="description_while_shipping_virginia">
                 <p class="text">
@@ -90,7 +95,7 @@
                 <h3 id="best_company_while_shipping_virginia">Why we are best in Virginia auto transport company ?</h3>
                 <br>
                 <p>
-                    <b><a href="https://rapidautoshipping.com/">Rapid Auto Shipping</a></b> is a Car transport Washington Company that values all of its customers equally and provides best Car transport Washington State Services. We assist customers in getting their vehicles delivered on schedule and at a reasonable cost. We fully insure their vehicles and transport them safely from one location to another. You may rest assured that if your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance provider will efficiently handle the claim. We bonded and licensed a company that can be trusted by all clients. Customers do not need to pay a deposit to schedule their ride.Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience with Car Shipping Companies Washington state.
+                    <b><a href="<?= home_path() ?>">Rapid Auto Shipping</a></b> is a Car transport Washington Company that values all of its customers equally and provides best Car transport Washington State Services. We assist customers in getting their vehicles delivered on schedule and at a reasonable cost. We fully insure their vehicles and transport them safely from one location to another. You may rest assured that if your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance provider will efficiently handle the claim. We bonded and licensed a company that can be trusted by all clients. Customers do not need to pay a deposit to schedule their ride.Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience with Car Shipping Companies Washington state.
                 </p>
             </div>
             <div class="first-california-state-grid-box">
@@ -138,13 +143,13 @@
                 Danville <span class="california-state-span" style="font-weight:bold;">||</span>
                 Fairfax <span class="california-state-span" style="font-weight:bold;">||</span>
                 Falls Church <span class="california-state-span" style="font-weight:bold;">||</span>
-                <a href="https://www.fredericksburgva.gov/" target="_blank" title="car shipping services in Virginia" style="color:black;"> Fredericksburg </a><span class="california-state-span" style="font-weight:bold;">||</span>
+                <a href="https://www.fredericksburgva.gov/" rel="nofollow" target="_blank" title="car shipping services in Virginia" style="color:black;"> Fredericksburg </a><span class="california-state-span" style="font-weight:bold;">||</span>
                 Hampton <span class="california-state-span" style="font-weight:bold;">||</span>
                 Hanover <span class="california-state-span" style="font-weight:bold;">||</span>
                 Hopewell <span class="california-state-span" style="font-weight:bold;">||</span>
                 Lexington <span class="california-state-span" style="font-weight:bold;">||</span>
                 Lynchburg <span class="california-state-span" style="font-weight:bold;">||</span>
-                <a href="https://www.manassasva.gov/" target="_blank" title="car shipping services in Virginia" style="color:black;"> Manassas </a><span class="california-state-span" style="font-weight:bold;">||</span>
+                <a href="https://www.manassasva.gov/" rel="nofollow" target="_blank" title="car shipping services in Virginia" style="color:black;"> Manassas </a><span class="california-state-span" style="font-weight:bold;">||</span>
                 Martinsville <span class="california-state-span" style="font-weight:bold;">||</span>
                 New Market <span class="california-state-span" style="font-weight:bold;">||</span>
                 Newport News <span class="california-state-span" style="font-weight:bold;">||</span>
@@ -152,12 +157,12 @@
                 Petersburg <span class="california-state-span" style="font-weight:bold;">||</span>
                 Portsmouth <span class="california-state-span" style="font-weight:bold;">||</span>
                 Reston <span class="california-state-span" style="font-weight:bold;">||</span>
-                <a href="https://www.rva.gov/" target="_blank" title="car shipping services in Virginia" style="color:black;">Richmond </a><span class="california-state-span" style="font-weight:bold;">||</span>
+                <a href="https://www.rva.gov/" target="_blank" rel="nofollow" title="car shipping services in Virginia" style="color:black;">Richmond </a><span class="california-state-span" style="font-weight:bold;">||</span>
                 Roanoke <span class="california-state-span" style="font-weight:bold;">||</span>
                 Staunton <span class="california-state-span" style="font-weight:bold;">||</span>
                 Suffolk <span class="california-state-span" style="font-weight:bold;">||</span>
                 Virginia Beach <span class="california-state-span" style="font-weight:bold;">||</span>
-                <a href="https://www.waynesboro.va.us/" title="car shipping services in Virginia" style="color:black;">Waynesboro </a><span class="california-state-span" style="font-weight:bold;">||</span>
+                <a target="_blank" href="https://www.waynesboro.va.us/" rel="nofollow" title="car shipping services in Virginia" style="color:black;">Waynesboro </a><span class="california-state-span" style="font-weight:bold;">||</span>
                 Williamsburg <span class="california-state-span" style="font-weight:bold;">||</span>
                 Winchester
             </p>
@@ -232,7 +237,7 @@
                 How to get the best <span class="california-state-span"> quote </span>for your shipping
             </h2>
             <p class="text">
-                Rapid Auto Shipping is best in Car Transport Washington and will make shipping your car to or from Washington as simple as possible. Rapid Auto Shipping is an Auto Transport Washington that specializes in Car shipping Companies Washington in car shipping to and from Washington as well as other locations in the United States. In a matter of seconds, we can provide you with an accurate quote for transferring your vehicle. All you have to do is fill out our simple online form and you'll receive a free with our service, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent who will assist you with everything. You will not be placed on hold. So don't waste any time and fill out our form to get a free quote, or give us a call and we'll take care of everything; either way, dealing with Rapid Auto Shipping is a win-win situation. Our prices are always Affordable denotes that everything is done on time and on budget without any problems.
+                Rapid Auto Shipping is best in Car Transport Washington and will make shipping your car to or from Washington as simple as possible. Rapid Auto Shipping is an Auto Transport Washington that specializes in <b><a href="<?= home_path() ?>services/car-shipping-companies">Car shipping Companies</a></b> Washington in car shipping to and from Washington as well as other locations in the United States. In a matter of seconds, we can provide you with an accurate quote for transferring your vehicle. All you have to do is fill out our simple online form and you'll receive a free with our service, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent who will assist you with everything. You will not be placed on hold. So don't waste any time and fill out our form to get a free quote, or give us a call and we'll take care of everything; either way, dealing with Rapid Auto Shipping is a win-win situation. Our prices are always Affordable denotes that everything is done on time and on budget without any problems.
             </p>
             <div class="five-california-state-box-btn utility_grid-center">
                 <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
@@ -289,7 +294,7 @@
 
                         We go the additional mile for this auto shipping service because most of our clients utilize them to transport vintage or premium cars inside a city. Because automobiles are shielded from the environment, road debris, and possible thieves, the odds of their being damaged while in transit are greatly reduced. Because the quantity of cars being transported is less, they reach their destination faster. You can also carry your exotic or historic cars in a single car carrier, which will arrive considerably faster and reduce the chances of their colliding with other vehicles.
                     </p>
-                    <button><a target="_blank" href="<?= home_path(); ?>services/classic-car-shipping" title="luxury and classic car trnasport description">Know More</a></button>
+                    <button><a href="<?= home_path(); ?>services/classic-car-shipping" title="luxury and classic car trnasport description">Know More</a></button>
                 </div>
             </div>
         </div>
@@ -321,7 +326,7 @@
                     and other
                     <a title="More about auto shipping states" href="<?= home_path() ?>states"> <span class="california-state-span"> states</span></a> in the United States are among the most popular snowbird destinations. Any route that runs from north to south is referred to as a "snowbird path." Furthermore, during the snowbird season, rates tend to soar because drivers have so many options that they always choose the most expensive one. Customers should avoid being seduced by low prices since they will end up squandering their time.
                 </p>
-                <button><a href="<?= home_path(); ?>services/snow-bird-shipping" title="snowbird shipping USA">Know More</a></button>
+                <button><a href="<?= home_path(); ?>services/snow-bird-shipping" rel="nofollow" title="snowbird shipping USA">Know More</a></button>
             </div>
         </div>
     </section>

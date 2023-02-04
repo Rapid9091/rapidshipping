@@ -60,6 +60,8 @@
             background-size: cover;
         }
 
+  
+
         .third-section-content-heading {
             font-size: 45px;
         }

@@ -7,16 +7,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Car Shipping Services | +1-833-233-4447 | Ohio Auto Transport Company</title>
-    <meta name="description" content="Need Car Shipping service in Ohio, you need an experienced Ohio auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <title>Car Shipping Ohio Services | +1 (833)-233-4447</title>
+    <meta name="title" content="Car Shipping Ohio Services | +1 (833)-233-4447">
+    <meta name="description" content="Need Car Shipping in Ohio? Rapid Auto Shipping is an experienced Ohio auto transport company. Get a car shipping quote right now." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Ohio Car Transport  Services | Rapid Auto Shipping" />
-    <meta property="og:description" content="Need to ship your car to or from Ohio. We provides Ohio car transport or car transport Ohio services to haul your vehicle Get Quotes!" />
+    <meta property="og:title" content="Car Shipping Ohio Services | +1 (833)-233-4447" />
+    <meta property="og:description" content="Need Car Shipping in Ohio? Rapid Auto Shipping is an experienced Ohio auto transport company. Get a car shipping quote right now." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Auto Shipping Ohio - Rapid Auto Shipping" />
-    <meta property="og:description" content="Rapid Auto Shipping is one of the most secure and cost-effective auto transport companies in Ohio. Contact for, to and from auto shipping ohio!" />
+
     <meta property="og:url" content="https://rapidautoshipping.com/states/ohio" />
-    <meta property="og:site_name" content="Auto Shipping Ohio - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Car Shipping Ohio Services | +1 (833)-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="auto shipping ohio, auto transport ohio, auto transport companies in ohio, car shipping ohio, car transporters ohio, car transport companies ohio, car shipping companies ohio, vehicle transport oh, ohio auto transport companies, auto transport companies ohio, enclosed auto transport oh, ohio auto transport, transport service companies, how to ship a vehicle, ship car from ohio to california, shipping service near me, ship a car from ohio to california" />
     <meta property="article:tag" content="auto shipping ohio" />
@@ -51,12 +51,16 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
-            background-image: url('<?= get_img() ?>ohio-state.jpeg');
+            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/v1675490548/Recent%20Uploads/auto-transport-truck-img-0.png');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
+        }
+
+        .third-section-state {
+            background-color: rgb(0, 0, 0, 0.6);
         }
     </style>
 </head>
@@ -81,11 +85,11 @@
     <!-- ----------------------------- -->
 
     <section class="first-california-state">
-        <h2 class="utility_main-heading">Overview about <span class="california-state-span"> Ohio</span></h2>
+        <h2 class="utility_main-heading">Overview About <span class="california-state-span">Car Shipping Ohio Ohio</span></h2>
         <div class="first-california-state-grid utility_grid">
             <div class="first-california-state-grid " id="more_about_texas">
                 <p>
-                    The state <a href="https://www.ohiosos.gov/"><span class="california-state-span"><b>Ohio</b></span></a> in the Midwestern region of the United States of America and it is the 34th-largest state by land, and with a population of approximately 11.8 million, it is the seventh-most populous and tenth-most densely inhabited of the fifty United States. The state's capital and largest city is Columbus, with the main metropolitan areas being the Columbus metro area, Greater Cincinnati, and Greater Cleveland. <a href="https://en.wikipedia.org/wiki/Ohio"><span class="california-state-span"><b>Ohio</b></span></a> is surrounded on the north by Lake Erie, on the east by Pennsylvania, on the southeast by West Virginia, on the southeast by Kentucky, on the southwest by Indiana, and on the northwest by Michigan. Car Shipping Ohio should be easy to come by . <br><br>The state's main cities, particularly Columbus, Cincinnati, and Cleveland, are responsible for this. Columbus, the state's largest metropolis and capital, is also the state's largest city.
+                    The state Ohio in the Midwestern region of the United States of America and it is the 34th-largest state by land, and with a population of approximately 11.8 million, it is the seventh-most populous and tenth-most densely inhabited of the fifty United States. The state's capital and largest city is Columbus, with the main metropolitan areas being the Columbus metro area, Greater Cincinnati, and Greater Cleveland. <a target="_blank" rel="nofollow" href="https://en.wikipedia.org/wiki/Ohio"><span class="california-state-span"><b>Ohio</b></span></a> is surrounded on the north by Lake Erie, on the east by Pennsylvania, on the southeast by West Virginia, on the southeast by Kentucky, on the southwest by Indiana, and on the northwest by Michigan. Car Shipping Ohio should be easy to come by . <br><br>The state's main cities, particularly Columbus, Cincinnati, and Cleveland, are responsible for this. Columbus, the state's largest metropolis and capital, is also the state's largest city.
 
                     Then there's Cincinnati, which is to the south, and Cleveland, which is to the north. All of those cities are key shipping hubs that are also easy to get to and from for carriers.
                 </p>
@@ -131,47 +135,47 @@
         <ul class="utility_grid">
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="Car shipping services North Carolina" href="https://www.rockhall.com/" style="color:black;">Rock & Roll Hall of Fame</a>
+                </ion-icon><br> <a target="_blank" rel="nofollow" title="Car shipping services North Carolina" href="https://www.rockhall.com/" style="color:black;">Rock & Roll Hall of Fame</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="Auto transport North Carolina" href="https://www.nationalmuseum.af.mil/" style="color:black;">National Museum of the US Air Force</a>
+                </ion-icon><br> <a target="_blank" rel="nofollow" title="Auto transport North Carolina" href="https://www.nationalmuseum.af.mil/" style="color:black;">National Museum of the US Air Force</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina Car shipping services" href="https://www.cedarpoint.com/" style="color:black;">Cedar Point Amusement Park
+                </ion-icon><br> <a target="_blank" rel="nofollow" title="North Carolina Car shipping services" href="https://www.cedarpoint.com/" style="color:black;">Cedar Point Amusement Park
                 </a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina Car shipping services" href="https://www.visitamishcountry.com/" style="color:black;">Amish Country</a>
+                </ion-icon><br> <a target="_blank" rel="nofollow" title="North Carolina Car shipping services" href="https://www.visitamishcountry.com/" style="color:black;">Amish Country</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br><a target="_blank" title="Car shipping services in North Carolina" href="https://thehockinghills.org/" style="color:black;">Hocking Hills State Park
+                </ion-icon><br><a target="_blank" rel="nofollow" title="Car shipping services in North Carolina" href="https://thehockinghills.org/" style="color:black;">Hocking Hills State Park
                 </a>
             </li>
 
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="https://www.cincymuseum.org/" style="color:black;">Cincinnati Museum Center
+                </ion-icon><br> <a target="_blank" rel="nofollow" title="North Carolina auto transport company" href="https://www.cincymuseum.org/" style="color:black;">Cincinnati Museum Center
                 </a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="https://www.fpconservatory.org/" style="color:black;">Franklin Park Conservatory and Botanical Gardens</a>
+                </ion-icon><br> <a target="_blank" rel="nofollow" title="North Carolina auto transport company" href="https://www.fpconservatory.org/" style="color:black;">Franklin Park Conservatory and Botanical Gardens</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="https://www.clevelandart.org/" style="color:black;">The Cleveland Museum of Art</a>
+                </ion-icon><br> <a target="_blank" rel="nofollow" title="North Carolina auto transport company" href="https://www.clevelandart.org/" style="color:black;">The Cleveland Museum of Art</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="https://myfountainsquare.com/" style="color:black;">Fountain Square</a>
+                </ion-icon><br> <a target="_blank" rel="nofollow" title="North Carolina auto transport company" href="https://myfountainsquare.com/" style="color:black;">Fountain Square</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="https://www.toledomuseum.org/" style="color:black;">Toledo Museum of Art</a>
+                </ion-icon><br> <a target="_blank" rel="nofollow" title="North Carolina auto transport company" href="https://www.toledomuseum.org/" style="color:black;">Toledo Museum of Art</a>
             </li>
 
 
@@ -283,7 +287,7 @@
         <div class="sixth-california-state-gird">
             <div class="sixth-california-state-gird-1 utility_grid" id="door_to_door_auto_transport_new_hampshire">
                 <div class="sixth-california-state-gird-1-img ">
-                    <img loading="lazy" src="<?= get_img() ?>door-to-door-bg.jfif" alt="Ohio City Auto Transportation Services">
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667295981/Recent%20Uploads/Inkedrace_car_shipping-min_mwzw9y_s7i04a.jpg" alt="Ohio City Auto Transportation Services">
                 </div>
                 <div class="sixth-california-state-gird-1-content" id="door_to_door_transport_to_california_section">
                     <h3 class="utility_sub-heading">LUXURY AND CLASSIC CAR SHIPPING</h3>
@@ -293,7 +297,7 @@
                         Single-truck shipment and multi-car trailers are options for higher-end dealerships and exotic automobile buyers. Vehicles are shielded from all road and weather elements, such as rain, snow, and mud, while in travel to Ohio. When deciding between open and enclosed trailers for shipping expensive cars, always choose enclosed carriers.
                         <br>
                     </p>
-                    <button><a target="_blank" href="<?= home_path(); ?>services/door-to-door" title="luxury and classic car trnasport description">Know More</a></button>
+                    <button><a target="_blank" href="<?= home_path(); ?>services/classic-car-shipping" title="luxury and classic car trnasport description">Know More</a></button>
                 </div>
             </div>
             <div class="sixth-california-state-gird-1 utility_grid" id="enclosed_auto_transport_in_new_hampshire_auto_transport">
