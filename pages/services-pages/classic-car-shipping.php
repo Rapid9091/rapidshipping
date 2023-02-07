@@ -98,7 +98,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Classic car transportation";
-        $PARAGRAPH = "Shipping a vintage, antique, or classic car safely and efficiently is not difficult, but there are a few things to keep in mind before you begin. There are a few areas about which you may have reservations, which is why we've compiled this list of frequently asked questions about exporting an antique, vintage, or classic car. Classic car transport is similar to shipping any other type of vehicle, there are a few considerations to keep in mind to help you make the best decision possible.";
+        $PARAGRAPH = "Do you want your premium or historic car transported? Rapid Auto Shipping has been America's top provider of classic car shipping for more than ten years. Every classic car is handled with white-glove care by our knowledgeable drivers. We follow all the procedures that other auto transport businesses omit. Our top aim is to ensure the expert protection and safety of your car during the move; we will ensure that your vintage or classic car is handled with the highest care, from seat covers to two car covers, and the transportation of your car stays under your control.";
         include small_form;
         ?>
     </div>
@@ -166,33 +166,36 @@
                     <h2><span>Why Exotic Car Transport May Be a Good Option?</span></h2>
                     <div class="new-blog-section-one-child grid grid-2">
                         <div class="new-blog-section-one-child-0">
+                            <img src="<?= get_img() ?>icons/charity.png" alt="Classic Car Shipping">
                             <h6>Shipped with care</h6>
                             <div class="new-blog-section-one-child-div">
-                                <img src="<?= get_img() ?>icons/charity.png" alt="">
+
                                 <p>We transport all different kinds of automobiles, including new, luxury, and classic models. We even provide international historic car shipping to particular ports.</p>
                             </div>
 
                         </div>
-                        <div class="new-blog-section-one-child-0">
+                        <div class="new-blog-section-one-child-0"><img src="<?= get_img() ?>icons/car-wash.png" alt="Classic Car Transportation">
                             <h6>Avoid exposure to the elements</h6>
+
                             <div class="new-blog-section-one-child-div">
-                                <img src="<?= get_img() ?>icons/car-wash.png" alt="">
                                 <p>We understand that you want your automobile to be in the same condition as when you left it. With our enclosed auto shipping option, you can keep your car out of the weather and the elements.</p>
                             </div>
 
                         </div>
                         <div class="new-blog-section-one-child-0">
+                            <img src="<?= get_img() ?>icons/shipping.png" alt="Classic Car Shipping">
                             <h6>Interstate compliant</h6>
                             <div class="new-blog-section-one-child-div">
-                                <img src="<?= get_img() ?>icons/shipping.png" alt="">
+
                                 <p>To ensure that we only partner with the most skilled classic car transporter businesses, we have a compliance department that inspects all auto classic vehicles transport trucks in our network.</p>
                             </div>
 
                         </div>
                         <div class="new-blog-section-one-child-0">
+                            <img src="<?= get_img() ?>icons/customer-service.png" alt="Classic Car Transportation">
                             <h6>Call your driver anytime </h6>
                             <div class="new-blog-section-one-child-div">
-                                <img src="<?= get_img() ?>icons/customer-service.png" alt="">
+
                                 <p>Exotic automobile transportation might be stressful, but Rapidautoshipping makes it simple by giving you status updates and the phone number of your truck driver.</p>
                             </div>
 

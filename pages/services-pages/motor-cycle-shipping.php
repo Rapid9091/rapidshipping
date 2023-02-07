@@ -183,7 +183,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Motorcycle Shipping Using Open Transport</h2>
                             <p class="para-2">
-                                Are you considering transporting your Harley using an open motorcycle transport services? The double-decker carriers used by your dealer are open carriers. Furthermore, your motorcycle will be transported using cutting-edge technology and will arrive at its destination within seven days. Finally, open transport is a safe mode of transportation because your motorcycle will be shielded from road vibrations and jolts.
+                                Are you considering transporting your Harley using an open motorcycle transport services? The double-decker carriers used by your dealer are open carriers. Furthermore, your motorcycle will be transported using cutting-edge technology and will arrive at its destination within seven days. Finally, <b><a href="<?= home_path() ?>services/open-car-shipping">open transport</a></b> is a safe mode of transportation because your motorcycle will be shielded from road vibrations and jolts.
                             </p>
 
 
