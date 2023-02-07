@@ -248,7 +248,7 @@
                     <p>
                         <b>7. Top exaples of classic car?</b><br>
 
-                        Recently, many 1960s and even early 1990s cars are considered being <a href="https://en.wikipedia.org/wiki/Classic_car#:~:text=Recently%2C%20many%201980s%20and%20even,Deuce%20Coupe%2C%20and%201949%20Ford.">"classic automobiles"</a>. In USA there we use so much classic car in our daily life and many time we need to ship them. Some top exaples are :<br><br>
+                        Recently, many 1960s and even early 1990s cars are considered being <a target="_blank" href="https://en.wikipedia.org/wiki/Classic_car#:~:text=Recently%2C%20many%201980s%20and%20even,Deuce%20Coupe%2C%20and%201949%20Ford.">"classic automobiles"</a>. In USA there we use so much classic car in our daily life and many time we need to ship them. Some top exaples are :<br><br>
                         <li style="list-style:disc !important"><a href="https://www.astonmartin.com/en/models/past-models/db5-db5-convertible" style="color:black;">Astom MArtin DB-5 (1964)</a></li>
                         <li style="list-style:disc !important"><a href="https://www.ferrari.com/en-EN/auto/250-gto" style="color:black;">Ferrari 250 GTO (1962)</a></li>
                         <li style="list-style:disc !important"><a href="https://www.jaguar.com/about-jaguar/jaguar-classic/authentic-cars/e-type-reborn.html" style="color:black;">Jaguar E type (1961)</a></li>

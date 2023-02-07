@@ -76,7 +76,7 @@
         <div class="first-california-state-grid utility_grid">
             <div class="first-california-state-grid " id="description_while_shipping_Florida">
                 <p class="text">
-                    <a href="https://www.usa.gov/state-government/florida"><span class="california-state-span"><b>Florida</b></span></a> is the fourth most populous state in the United States despite ranking just 22nd largest by total area. Florida is a popular vacation and winter home area, which makes Florida auto transport easier to find. It is surrounded by the Gulf of Mexico, florida Georgia, the Atlantic Ocean and the Straits of Florida
+                    <a target="_blank" rel="nofollow" href="https://www.usa.gov/state-government/florida"><span class="california-state-span"><b>Florida</b></span></a> is the fourth most populous state in the United States despite ranking just 22nd largest by total area. Florida is a popular vacation and winter home area, which makes Florida auto transport easier to find. It is surrounded by the Gulf of Mexico, florida Georgia, the Atlantic Ocean and the Straits of Florida
                     Travel to Florida is the centerpiece of many a vacation, and one of the best ways to tour the state is via car. Driving from points north around the Panhandle beaches to the touristy-areas in the central portions of the state before enjoying some of the most beautiful sunsets known to man in the Keys, there is much to see.
                     <br><br>
                     So, why wouldn’t you do it in your own vehicle? From the type of vehicle you’re shipping to transport trailer options and distance between your destinations, there are several factors to take into account when you're taking Car shipping services in Florida. The details of your vehicle — size, weight, any special accessories and whether it is operational — may require certain accommodations and add to your final cost. Additionally, the time of year impacts shipping rates. For instance, with more people flocking to Florida during the winter season, prices for auto transport in Florida will generally be higher. All of these factors will be taken into consideration when determining the final cost of shipping your vehicle. To get an accurate idea of your cost, request a quote from an auto transport company.
@@ -85,7 +85,7 @@
                 <h3 id="best_auto_transport_florida">Why we are best in Florida auto transport company ?</h3>
                 <br>
                 <p>
-                    If you want to ship your car to or from <a href="https://www.usa.gov/state-government/florida"><span class="california-state-span"><b>Florida</b></span></a>, Rapid Auto Transport will help you to make it easier. We make the Booking Process Simple and everything is 100% Fully Insured. Rapid Auto Transport Specializes in Nationwide Car Shipping to or from Florida. All you have to do is fill out our free online form and you’ll get a free quote , no-hassle auto transport quote immediately. If you have queries feel free to call us and you’ll get a hold of a live experienced representative; no waiting on hold, no annoying phone menus. So hurry up, fill out our form and get your quote, or give us a call and let us do the work; either way, you win when you work with Rapid Auto Shipping. Always Affordable is just what it says: right on time and on budget.
+                    If you want to ship your car to or from Florida, Rapid Auto Transport will help you to make it easier. We make the Booking Process Simple and everything is 100% Fully Insured. Rapid Auto Transport Specializes in Nationwide Car Shipping to or from Florida. All you have to do is fill out our free online form and you’ll get a free quote , no-hassle auto transport quote immediately. If you have queries feel free to call us and you’ll get a hold of a live experienced representative; no waiting on hold, no annoying phone menus. So hurry up, fill out our form and get your quote, or give us a call and let us do the work; either way, you win when you work with Rapid Auto Shipping. Always Affordable is just what it says: right on time and on budget.
                 </p>
             </div>
             <div class="first-california-state-grid-box">
@@ -297,7 +297,7 @@
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>
-        <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b> Rapid Auto Shipping</b></span> </a> offers Military members that want Auto Transport in <a href="https://www.flgov.com/"><span class="california-state-span"><b>Florida</b></span></a> benefit from special discounts. A preferential price is offered as well to seniors and students that choose our Car shipping services in Florida. Seasonal offers might apply to clients that do not fit the above-mentioned criteria.
+        <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b> Rapid Auto Shipping</b></span> </a> offers Military members that want Auto Transport in <a target="_blank" rel="nofollow" href="https://www.flgov.com/"><span class="california-state-span"><b>Florida</b></span></a> benefit from special discounts. A preferential price is offered as well to seniors and students that choose our Car shipping services in Florida. Seasonal offers might apply to clients that do not fit the above-mentioned criteria.
         </p>
     </section>
 
@@ -378,7 +378,7 @@
 
                         We make Florida Car shipping services easy for you as the vehicle owner. Since there may be road restrictions at certain addresses, our team will be communicative with you if the truck driver is not able to deliver at the precise address. We will arrange to pick the car up or deliver it to a nearby location.
                     </p>
-                    <button><a target="_blank" href="<?= home_path(); ?>services/door-to-door" title="Door to door auto transport">Know More</a></button>
+                    <button><a href="<?= home_path(); ?>services/door-to-door" title="Door to door auto transport">Know More</a></button>
                 </div>
             </div>
         </div>
@@ -404,7 +404,7 @@
             <div class="seventh-california-state-box-content">
                 <h2 class="utility_sub-heading">SHIPPING LUXURY AND CLASSIC CARS IN FLORIDA</h2>
                 <p class="text">
-                    While enclosed transportation is not the cheapest way of <a href="https://www.transportation.gov/"><span class="california-state-span"><b>Auto transport </b></span></a> in <a href="http://www.myflorida.com/"><span class="california-state-span"><b>Florida</b></span></a>, it is by far the most suitable option for luxury, exotic, or classic vehicles. A classic or antique car owner can never be too careful with the original parts and paint. Therefore, <b>Florida Auto Transportation Services</b> uses enclosed carriers must be taken into consideration, as they offer the highest level of protection available on the market.
+                    While enclosed transportation is not the cheapest way of <a target="_blank" rel="nofollow" href="https://www.transportation.gov/"><span class="california-state-span"><b>Auto transport </b></span></a> in <a target="_blank" rel="nofollow" href="http://www.myflorida.com/"><span class="california-state-span"><b>Florida</b></span></a>, it is by far the most suitable option for luxury, exotic, or classic vehicles. A classic or antique car owner can never be too careful with the original parts and paint. Therefore, <b>Florida Auto Transportation Services</b> uses enclosed carriers must be taken into consideration, as they offer the highest level of protection available on the market.
                     With an enclosed transportation method, luxury vehicles are also protected from various forces (dirt, moisture, debris), and from weather conditions. The shipping process is calibrated to ensure protection and security to all expensive vehicles that must be shipped throughout the state of Florida.
                 </p>
                 <button><a href="<?= home_path(); ?>services/classic-car-shipping" title="Classic car shipping USA">Know More</a></button>
@@ -426,7 +426,7 @@
                     SNOWBIRDS ROUTES
                 </h2>
                 <p class="text">
-                    In general, all routes from north to south can be called snowbirds routes. The major snowbird states are Arizona, Texas, Florida, and California. During snowbirds season car shipping prices on these routes go up. It is advisable that customers not be lured by the lowest prices on the market. The Florida <a href="https://www.transportation.gov/"><span class="california-state-span"><b>Auto transport </b></span></a> company have too many cars to choose from, and they go by the highest price, which means if you are not willing to pay more your car would not get shipped soon and will have to wait longer than expected.
+                    In general, all routes from north to south can be called snowbirds routes. The major snowbird states are Arizona, Texas, Florida, and California. During snowbirds season car shipping prices on these routes go up. It is advisable that customers not be lured by the lowest prices on the market. The Florida <a target="_blank" rel="nofollow" href="https://www.transportation.gov/"><span class="california-state-span"><b>Auto transport </b></span></a> company have too many cars to choose from, and they go by the highest price, which means if you are not willing to pay more your car would not get shipped soon and will have to wait longer than expected.
                 </p>
             </div>
             <div class="eight-califorina-state-grid-1" id="operable_nonoperable_while_shipping_Florida">
@@ -444,7 +444,7 @@
                     A NOTE ON FLORIDA SNOWBIRDS
                 </h2>
                 <p class="text">
-                    So carriers try to avoid the area in the summer, but they’ll go there if there’s enough demand. But more importantly, <a href="https://www.stateofflorida.com/"><span class="california-state-span"><b>Florida</b></span></a> auto transport is popular during the winter, when the industry slows down. Fewer people ship cars in the winter for whatever reason, and most of the ones that do are shipping south. These people are called snowbirds because they take advantage of the mild times of the year and live there. In the north, that’s the summer. In the south, it's winter. During the summer months, prices may actually be a bit higher; whereas, during the winter, snowbirds carry the industry, but prices are lower because there’s usually plenty of freight.
+                    So carriers try to avoid the area in the summer, but they’ll go there if there’s enough demand. But more importantly, <a target="_blank" rel="nofollow" href="https://www.stateofflorida.com/"><span class="california-state-span"><b>Florida</b></span></a> auto transport is popular during the winter, when the industry slows down. Fewer people ship cars in the winter for whatever reason, and most of the ones that do are shipping south. These people are called snowbirds because they take advantage of the mild times of the year and live there. In the north, that’s the summer. In the south, it's winter. During the summer months, prices may actually be a bit higher; whereas, during the winter, snowbirds carry the industry, but prices are lower because there’s usually plenty of freight.
                 </p>
             </div>
         </div>
