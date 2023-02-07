@@ -650,8 +650,9 @@ div[class*="special-red-btn"] {
 .new-blog-section-one-child-0 > h6 {
   font-size: 21px;
   font-weight: 600;
+  margin-bottom: 10px;
 }
-.new-blog-section-one-child-div > img {
+.new-blog-section-one-child-0 > img {
   width: 60px;
   margin: 10px 0;
 }

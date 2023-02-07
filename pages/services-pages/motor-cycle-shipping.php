@@ -264,49 +264,55 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
 
                                 <div class="new-blog-section-one-child  grid-2">
                                     <div class="new-blog-section-one-child-0">
+                                        <img src="<?= get_img() ?>icons/motorbike.png" alt="">
                                         <h6>The type of vehicle</h6>
                                         <div class="new-blog-section-one-child-div">
-                                            <img src="<?= get_img() ?>icons/motorbike.png" alt="">
+
                                             <p>A transport truck might be required. But the majority of motorcycle enthusiasts choose an enclosed trailer. Open shipping is never preferable to enclosed shipment because the fully enclosed carrier provides the greatest level of security.</p>
                                         </div>
 
                                     </div>
                                     <div class="new-blog-section-one-child-0">
+                                        <img src="<?= get_img() ?>icons/back-in-time.png" alt="">
                                         <h6>Time factor</h6>
                                         <div class="new-blog-section-one-child-div">
-                                            <img src="<?= get_img() ?>icons/back-in-time.png" alt="">
+
                                             <p>Though express shipping is more expensive than regular shipping, professional motorcycle riders prefer it. </p>
                                         </div>
 
                                     </div>
-                                    <div class="new-blog-section-one-child-0">
+                                    <div class="new-blog-section-one-child-0"><img src="<?= get_img() ?>icons/express-delivery.png" alt="">
                                         <h6>Pick up / Delivery time</h6>
+
                                         <div class="new-blog-section-one-child-div">
-                                            <img src="<?= get_img() ?>icons/express-delivery.png" alt="">
+
                                             <p>You must specify when in addition to where you want your motorcycle sent. The price will definitely increase if the pickup or delivery time doesn't coincide with regular company hours.</p>
                                         </div>
 
                                     </div>
                                     <div class="new-blog-section-one-child-0">
+                                        <img src="<?= get_img() ?>icons/to-do.png" alt="">
                                         <h6>Items to be included</h6>
                                         <div class="new-blog-section-one-child-div">
-                                            <img src="<?= get_img() ?>icons/to-do.png" alt="">
+
                                             <p>The items (bike accessories, spare parts, specialty equipment, or other home goods) to be delivered are also taken into account by motorcycle carriers. Before exporting a motorbike, they take into account these crucial factors. The price may increase as more things are added.</p>
                                         </div>
 
                                     </div>
                                     <div class="new-blog-section-one-child-0">
+                                        <img src="<?= get_img() ?>icons/car-insurance.png" alt="">
                                         <h6>Single vs. multiple vehicles</h6>
                                         <div class="new-blog-section-one-child-div">
-                                            <img src="<?= get_img() ?>icons/car-insurance.png" alt="">
+
                                             <p>Whether the bike will be transported by a single vehicle or a fleet of trucks also affects the cost of shipping. A hefty bike may occasionally be disassembled before transportation, with the pieces being put into various containers. The price would increase if such were the case.</p>
                                         </div>
 
                                     </div>
                                     <div class="new-blog-section-one-child-0">
+                                        <img src="<?= get_img() ?>icons/clipboard.png" alt="">
                                         <h6>Insurance coverage</h6>
                                         <div class="new-blog-section-one-child-div">
-                                            <img src="<?= get_img() ?>icons/clipboard.png" alt="">
+
                                             <p>Although we provide the very minimum in terms of liability insurance, you may always take it a step further to make it safer. As a result, we rank among the finest and safest motorbike shipping firms in the nation. What is the price of shipping a motorcycle then? The greatest motorbike transporters, like us, would elicit a variety of information to determine the precise price.</p>
                                         </div>
 
