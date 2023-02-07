@@ -163,6 +163,47 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
+                    <h2><span>Why Exotic Car Transport May Be a Good Option?</span></h2>
+                    <div class="new-blog-section-one-child grid grid-2">
+                        <div class="new-blog-section-one-child-0">
+                            <h6>Shipped with care</h6>
+                            <div class="new-blog-section-one-child-div">
+                                <img src="<?= get_img() ?>icons/charity.png" alt="">
+                                <p>We transport all different kinds of automobiles, including new, luxury, and classic models. We even provide international historic car shipping to particular ports.</p>
+                            </div>
+
+                        </div>
+                        <div class="new-blog-section-one-child-0">
+                            <h6>Avoid exposure to the elements</h6>
+                            <div class="new-blog-section-one-child-div">
+                                <img src="<?= get_img() ?>icons/car-wash.png" alt="">
+                                <p>We understand that you want your automobile to be in the same condition as when you left it. With our enclosed auto shipping option, you can keep your car out of the weather and the elements.</p>
+                            </div>
+
+                        </div>
+                        <div class="new-blog-section-one-child-0">
+                            <h6>Interstate compliant</h6>
+                            <div class="new-blog-section-one-child-div">
+                                <img src="<?= get_img() ?>icons/shipping.png" alt="">
+                                <p>To ensure that we only partner with the most skilled classic car transporter businesses, we have a compliance department that inspects all auto classic vehicles transport trucks in our network.</p>
+                            </div>
+
+                        </div>
+                        <div class="new-blog-section-one-child-0">
+                            <h6>Call your driver anytime </h6>
+                            <div class="new-blog-section-one-child-div">
+                                <img src="<?= get_img() ?>icons/customer-service.png" alt="">
+                                <p>Exotic automobile transportation might be stressful, but Rapidautoshipping makes it simple by giving you status updates and the phone number of your truck driver.</p>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="affordable-ways-page-grid-content-1">
+                <div class="new-blog-section-one">
                     <h2><span>THE TOP 7 THINGS YOU SHOULD KNOW BEFORE SHIPPING YOUR CLASSIC CAR</span></h2>
                     <p> It is critical to use a skilled antique car transport company to protect your vehicle during transportation. You should conduct research on the company you intend to hire to ensure the safety of your money. Here are the top five things to consider when selecting an Antique car transportation service.
                         <br><br>

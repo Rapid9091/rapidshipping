@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Ambulance transport services - Rapid Auto Shipping</title>
-    <meta name="title" content="Ambulance transport services - Rapid Auto Shipping" />
+    <title>The Best Ambulance Transport Services| RAPID AUTO SHIPPING</title>
+    <meta name="title" content="The Best Ambulance Transport Services| RAPID AUTO SHIPPING" />
     <meta name="description" content="Ambulance transportation is a specialty of Rapid Auto Shipping. We are experts in offering shipping services for ambulances in all states." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Ambulance transport services - Rapid Auto Shipping" />
+    <meta property="og:title" content="The Best Ambulance Transport Services| RAPID AUTO SHIPPING" />
     <meta property="og:description" content="Ambulance transportation is a specialty of Rapid Auto Shipping. We are experts in offering shipping services for ambulances in all states." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/ambulance-shipping" />
-    <meta property="og:site_name" content="ambulance shipping - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="The Best Ambulance Transport Services| RAPID AUTO SHIPPING" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="Ambulance car, ambulance, heavy duty ambulance, truck ambulance, how much does an ambulance weigh, is an ambulance a commercial vehicle, ambulance trailer, ambulance salvage yard, is an ambulance a commercial vehicle, ambulance truck, ambulance work truck, Ambulance car, ambulance, heavy duty ambulance, truck ambulance, how much does an ambulance weigh, is an ambulance a commercial vehicle, ambulance trailer, ambulance salvage yard, is an ambulance a commercial vehicle, ambulance truck" />
     <meta property="article:tag" content="Ambulance car" />

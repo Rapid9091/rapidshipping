@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>No1 International heavy equipment shipping Services.</title>
-    <meta name="title" content="No1 International heavy equipment shipping Services." />
+    <title>Heavy Equipment Shipping | Heavy Equipment Transport</title>
+    <meta name="title" content="Heavy Equipment Shipping | Heavy Equipment Transport" />
     <meta name="description" content="We provide services for heavy machinery transport and shipping to anyplace in the USA, We are heavy equipment transport professionals. Get us by a  call!" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="No1 International heavy equipment shipping Services." />
+    <meta property="og:title" content="Heavy Equipment Shipping | Heavy Equipment Transport" />
     <meta property="og:description" content="We provide services for heavy machinery transport and shipping to anyplace in the USA, We are heavy equipment transport professionals. Get us by a  call!" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/international-heavy-equipment-shipping" />
-    <meta property="og:site_name" content="International heavy equipment shipping - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Heavy Equipment Shipping | Heavy Equipment Transport" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="shipping heavy machinery, equipment shipping company, international heavy equipment, heavy equipment shipping overseas, shipping equipment overseas, heavy equipment shipping, heavy equipment haulers, heavy equipment shipping companies, shipping heavy equipment overseas, best international shipping companies, international shipping large items, specialized overseas shipping, cargo shipping overseas, international transport services, international transport carriers, overseas shipping company, international machinery, shipping companies international" />
     <meta property="article:tag" content="shipping heavy machinery" />
