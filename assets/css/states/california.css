@@ -194,6 +194,8 @@
 }
 .fourth-california-state > p {
   margin-top: 2%;
+  font-size: 17px;
+  line-height: 1.8;
 }
 .offer-animator {
   margin: 1% auto;
@@ -239,6 +241,8 @@
 }
 .five-california-state-box > p {
   text-align: center;
+  font-size: 17px;
+  line-height: 1.8;
 }
 
 .five-california-state-box-btn > button {
@@ -298,6 +302,8 @@
 }
 .sixth-california-state-gird-1-content > p {
   margin-top: 4%;
+  font-size: 17px;
+  line-height: 1.8;
 }
 .sixth-california-state-gird-1-content > h3 {
   font-weight: 700;
@@ -347,6 +353,7 @@
   padding: 0 8%;
   text-align: center;
   font-size: 18px;
+  line-height: 1.8;
 }
 .ten-percent-offer-box > button {
   height: max-content;
@@ -440,6 +447,8 @@
 }
 .eight-califorina-state-grid-1 > p {
   text-align: justify;
+  font-size: 17px;
+  line-height: 1.8;
 }
 .eight-califorina-state-grid {
   grid-template-columns: repeat(1, 1fr);

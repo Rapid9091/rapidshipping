@@ -220,10 +220,11 @@
             <span class="california-state-span"> Discounts </span>while Alaska Auto Transport
         </h2>
         <p class="text">
-            At <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b>Rapid Auto Shipping</b></span> </a> we try to give you the most affordable prices for your Alaska Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
+            At <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b>Rapid Auto Shipping</b></span> </a> we try to give you the most affordable prices for your Alaska Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time</p>
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>
+        <p class=""text
         <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b> Rapid Auto Shipping</b></span> </a> offers some special discounts to their valued customers to seniors and students who wish to transport their cars throughout the <a target="_blank" href="https://www.defense.gov/About/our-forces/#:~:text=The%20Army%2C%20Marine%20Corps%2C%20Navy,in%20part%20under%20state%20authority." title="US defence"><b>U.S. Military</b></a> members can also take the benefits of these discounts. But those customers who do not relate to these categories can take our seasonal offers. Save your time, energy, and especially money by working with us.
         </p>
     </section>
