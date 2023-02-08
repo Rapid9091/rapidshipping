@@ -91,7 +91,7 @@
                 <p class="heading-1">Auto transport <span> Texas to California</span> </p>
 
                 <p class="para-2">
-                    When shipping a vehicle from your location, you must also consider where the vehicle will be dropped off. We genuinely provide door-to-door service from anyplace in Texas to anywhere in California! Yes, it is right! We will ship to any delivery location from any address provided! Inquire about our Express service.
+                    When shipping a vehicle from your location, you must also consider where the vehicle will be dropped off. We genuinely provide <b><a href="<?= home_path() ?>services/door-to-door">door-to-door service</a></b> from anyplace in Texas to anywhere in California! Yes, it is right! We will ship to any delivery location from any address provided! Inquire about our Express service.
                 </p>
             </div>
 
@@ -153,9 +153,8 @@
                             <p class="para-2">
                                 It's as simple as 1-2-3 steps for car shipping from Texas to California with Rapid Auto Shipping.
                                 <br><br>
-                                <b>Step 1:</b> Request a free quote for auto shipping Texas to California and set up a pickup time that works for you.
-                                <br>You can easily get a quote, enter your origin and destination, choose your shipping dates, and book your reservation online or over the phone using our online quote form. For your Texas to California car shipping, our executive can assist you!
-                                <br><br>
+                                <b>Step 1:</b> Request a free quote for <b><a href=" <?= home_path() ?>states/texas-tx">auto shipping Texas</a></b> to California and set up a pickup time that works for you.
+                                <br>You can easily get a quote, enter your origin and destination, choose your shipping dates, and book your reservation online or over the phone using our online quote form. For your Texas to <b><a href="<?= home_path() ?>states/california">California car shipping</a></b>, our executive can assist you! <br><br>
                                 <b>Step 2:</b>Your vehicle will be picked up in Texas from a certain location.
                                 <br>
                                 On the day of pickup, our trained towing experts will properly inspect your vehicle and load it onto the carrier. We can pick up from any house or business in Texas using our direct service.

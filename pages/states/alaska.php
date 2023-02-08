@@ -61,6 +61,11 @@
             background-repeat: no-repeat;
             background-size: cover;
         }
+
+        .third-section-state {
+
+            background-color: rgb(0, 0, 0, 0.5) !important;
+        }
     </style>
 </head>
 
@@ -74,7 +79,7 @@
 
         <?php
         $NAME = "Best Alaska Auto Transport company";
-        $PARAGRAPH = "If you want to ship your car to or from Alaska, Rapid Auto Shipping will help you to make it easier. Rapid Auto Shipping is a company that specializes in car shipping to and from Alaska and other parts of the United States. We will provide an appropriate quote for the shipment of your vehicle within a few seconds.All you have to do is fill out our free online form and you'll get a free quote, without any hassle auto transport quote immediately with just a few clicks.";
+        $PARAGRAPH = "If you want to <b>ship your car to or from Alaska</b>, Rapid Auto Shipping will help you to make it easier. Rapid Auto Shipping is a company that specializes in car shipping to and from Alaska and other parts of the United States. We will provide an appropriate quote for the shipment of your vehicle within a few seconds.All you have to do is fill out our free online form and you'll get a free quote, without any hassle auto transport quote immediately with just a few clicks.";
         include small_form;
         ?>
     </div>

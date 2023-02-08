@@ -108,91 +108,90 @@ The maximum permissible load for combined height and width is 8.5 feet in most c
                     The logistics team at Rapid Auto Shipping will do everything possible to give you the most reasonable oversize load shipping quote.
                 </p>
             </div>
-
-            <div class="points-div " id="top-section">
-                <h2 class="heading-2">
-                    What's in this article?
-                </h2>
-                <ul class="points-div-ul">
-                    <li><a href="#1">permits and escorts are included in our complete oversize load shipping services</a></li>
-                    <li><a href="#2">how do heavy haulers haul an oversize load?</a></li>
-                    <li><a href="#3">using the right trucks and trailers to transport oversize loads truck</a></li>
-                    <li><a href="#4">rapid auto shipping services for over-dimensional transport</a></li>
-                    <li><a href="#5">rapid auto shipping make towing of your oversize and overweight loads truck easy</a></li>
-                </ul>
-            </div>
-            <!-- section from which shipping started here -->
-            <section class="first-state-to-state">
-                <div class="shipping-form-state-image">
-                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1674538853/Recent%20Uploads/oversize-trucking-03.jpg" alt="Customised Shipping Containers (RAS)" />
-
+                <div class="points-div " id="top-section">
+                    <h2 class="heading-2">
+                        What's in this article?
+                    </h2>
+                    <ul class="points-div-ul">
+                        <li><a href="#1">permits and escorts are included in our complete oversize load shipping services</a></li>
+                        <li><a href="#2">how do heavy haulers haul an oversize load?</a></li>
+                        <li><a href="#3">using the right trucks and trailers to transport oversize loads truck</a></li>
+                        <li><a href="#4">rapid auto shipping services for over-dimensional transport</a></li>
+                        <li><a href="#5">rapid auto shipping make towing of your oversize and overweight loads truck easy</a></li>
+                    </ul>
                 </div>
-                <ul>
-                    <li id="1">
-                        <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Permits And Escorts Are Included In Our Complete <span>Oversize Load Shipping</span> Services</h2>
-                            <p class="para-2"> Rapid Auto Shipping offers comprehensive and high-quality oversize hauling services. We have a solid and trustworthy reputation in the oversize <a href="<?= home_path() ?>services/heavy-hauling-truck">load trucking company</a> market, with over a decade of expertise. You need a business that can manage everything so you can relax when shipping big loads. Rapid Auto Shipping locates the most suitable oversize load truck, obtains the necessary permissions, and escorts the vehicles. If load assistance is required, we can help. Rapid Auto Shipping is your one-stop shop for shipping big loads.
-                                <br>
-                                <br>
-                                We transport large and overweight loads throughout the United States, Canada, and Mexico. There are various choices for port-to-port transit. Our crew is well-versed in the ins and outs of oversize load rules, both in terms of state regulations and international shipping. Our team of expert logistics agents will locate the most cost-effective overweight load shipping rates while adhering to all safety rules. Because oversize load licenses differ from state to state, it's critical to pick a company that understands the logistics of shipping enormous loads. Rapid Auto Shipping is a dependable large freight hauling firm.
-                            </p>
-
-                        </div>
-                    </li>
-                    <li id="2">
-                        <div class="shipping-form-state-content">
-                            <h2 class="heading-1">How Do Heavy Haulers <span>Haul An Oversize Load</span>?
-                            </h2>
-
-                            <p class="para-2">
-                                You'll need the right truck, trailer, permits, pilot cars, route planning, and more to transport an enormous load. Each state has its own set of rules for transporting big freight, which is why the proper permissions must be obtained. Rapid Auto Shipping maps out the route ahead of time to avoid low bridges and other problems that could stymie dimensional freight shipping.<br> Every truck has the appropriate oversize load signs and banners. Every trailer is hand-picked to ensure that it is the ideal fit for your oversized and heavy freight. Rapid Auto Shipping takes every measure to ensure that the oversize load transport. Our teams' and your heavy machinery's safety comes first.
-                            </p>
-
-
-                        </div>
-                    </li>
+                <!-- section from which shipping started here -->
+                <section class="first-state-to-state">
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1674295794/Recent%20Uploads/over-size-truck-2.jpg" alt="Customised Shipping Containers" />
+                        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1674538853/Recent%20Uploads/oversize-trucking-03.jpg" alt="Customised Shipping Containers (RAS)" />
+
                     </div>
-                    <li id="3">
-                        <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Using The Right Trucks And Trailers To Transport <span>Oversize Loads Truck</span></h2>
-                            <p class="para-2"> An aircraft fuselage, a spool of cable, or a multi-ton excavator are all examples of enormous loads. They've all been relocated by Rapid Auto Shipping. These cargoes can have a wide range of compositions, but they always have one thing in common: their sheer size makes them dangerous to transport. That is why having the appropriate trucks and trailers for big loads is critical. Rapid Auto Shipping' first focus is the safety of the team and your equipment.
-                                <br><br>
-                                Different permits and specially certified trailers and rigs are required for oversize and overweight cargoes. We estimate the finest shipping alternatives by calculating the dimensions and weights of your machinery transport. Escort vehicles, as well as oversize load banners on trucks, are designed for safety and are required in many locations. This is to protect the team and people around them from any road hazards. For conveying cargo loads that surpass ordinary standards, there are a variety of trailer choices. When dealing with equipment of this size and scale, most oversize and overweight transports require RGNs or extended RGNs to overcome height and weight concerns. Rapid Auto Shipping will arrange the appropriate type for you, guaranteeing that your costly machinery reaches on schedule and is ready to work.
-                            </p>
+                    <ul>
+                        <li id="1">
+                            <div class="shipping-form-state-content">
+                                <h2 class="heading-1">Permits And Escorts Are Included In Our Complete <span>Oversize Load Shipping</span> Services</h2>
+                                <p class="para-2"> Rapid Auto Shipping offers comprehensive and high-quality oversize hauling services. We have a solid and trustworthy reputation in the oversize <a href="<?= home_path() ?>services/heavy-hauling-truck">load trucking company</a> market, with over a decade of expertise. You need a business that can manage everything so you can relax when shipping big loads. Rapid Auto Shipping locates the most suitable oversize load truck, obtains the necessary permissions, and escorts the vehicles. If load assistance is required, we can help. Rapid Auto Shipping is your one-stop shop for shipping big loads.
+                                    <br>
+                                    <br>
+                                    We transport large and overweight loads throughout the United States, Canada, and Mexico. There are various choices for port-to-port transit. Our crew is well-versed in the ins and outs of oversize load rules, both in terms of state regulations and international shipping. Our team of expert logistics agents will locate the most cost-effective overweight load shipping rates while adhering to all safety rules. Because oversize load licenses differ from state to state, it's critical to pick a company that understands the logistics of shipping enormous loads. Rapid Auto Shipping is a dependable large freight hauling firm.
+                                </p>
+
+                            </div>
+                        </li>
+                        <li id="2">
+                            <div class="shipping-form-state-content">
+                                <h2 class="heading-1">How Do Heavy Haulers <span>Haul An Oversize Load</span>?
+                                </h2>
+
+                                <p class="para-2">
+                                    You'll need the right truck, trailer, permits, pilot cars, route planning, and more to transport an enormous load. Each state has its own set of rules for transporting big freight, which is why the proper permissions must be obtained. Rapid Auto Shipping maps out the route ahead of time to avoid low bridges and other problems that could stymie dimensional freight shipping.<br> Every truck has the appropriate oversize load signs and banners. Every trailer is hand-picked to ensure that it is the ideal fit for your oversized and heavy freight. Rapid Auto Shipping takes every measure to ensure that the oversize load transport. Our teams' and your heavy machinery's safety comes first.
+                                </p>
+
+
+                            </div>
+                        </li>
+                        <div class="shipping-form-state-image">
+                            <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1674295794/Recent%20Uploads/over-size-truck-2.jpg" alt="Customised Shipping Containers" />
                         </div>
-                    </li>
+                        <li id="3">
+                            <div class="shipping-form-state-content">
+                                <h2 class="heading-1">Using The Right Trucks And Trailers To Transport <span>Oversize Loads Truck</span></h2>
+                                <p class="para-2"> An aircraft fuselage, a spool of cable, or a multi-ton excavator are all examples of enormous loads. They've all been relocated by Rapid Auto Shipping. These cargoes can have a wide range of compositions, but they always have one thing in common: their sheer size makes them dangerous to transport. That is why having the appropriate trucks and trailers for big loads is critical. Rapid Auto Shipping' first focus is the safety of the team and your equipment.
+                                    <br><br>
+                                    Different permits and specially certified trailers and rigs are required for oversize and overweight cargoes. We estimate the finest shipping alternatives by calculating the dimensions and weights of your machinery transport. Escort vehicles, as well as oversize load banners on trucks, are designed for safety and are required in many locations. This is to protect the team and people around them from any road hazards. For conveying cargo loads that surpass ordinary standards, there are a variety of trailer choices. When dealing with equipment of this size and scale, most oversize and overweight transports require RGNs or extended RGNs to overcome height and weight concerns. Rapid Auto Shipping will arrange the appropriate type for you, guaranteeing that your costly machinery reaches on schedule and is ready to work.
+                                </p>
+                            </div>
+                        </li>
 
-                    <li id="4">
-                        <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Rapid Auto Shipping Services For <span>Over-Dimensional Transport</span></h2>
-                            <p class="para-2">
-                                Rapid Auto Shipping logistics experts make it a priority to comprehend the many rules for heavy loads that surpass ordinary legal restrictions for state, municipal, and international travel. From weigh stations to customs, we assemble all of the documentation and licenses so that your drivers can get through swiftly. Aircraft manufacturers, agricultural industries, raw land developers, and construction companies all use us as their chosen <a href="<?= home_path() ?>services/heavy-hauling-large-cargo">transporting hauling service</a>.<br><br> Your unique transportation services are meticulously prepared. Loading and unloading services are available, even in rural locations or oil fields. We give special attention to your oversize load and can carry it alone or as part of a convoy with the rest of your fleet. Let's get your big cargo moved now!
-                            </p>
+                        <li id="4">
+                            <div class="shipping-form-state-content">
+                                <h2 class="heading-1">Rapid Auto Shipping Services For <span>Over-Dimensional Transport</span></h2>
+                                <p class="para-2">
+                                    Rapid Auto Shipping logistics experts make it a priority to comprehend the many rules for heavy loads that surpass ordinary legal restrictions for state, municipal, and international travel. From weigh stations to customs, we assemble all of the documentation and licenses so that your drivers can get through swiftly. Aircraft manufacturers, agricultural industries, raw land developers, and construction companies all use us as their chosen <a href="<?= home_path() ?>services/heavy-hauling-large-cargo">transporting hauling service</a>.<br><br> Your unique transportation services are meticulously prepared. Loading and unloading services are available, even in rural locations or oil fields. We give special attention to your oversize load and can carry it alone or as part of a convoy with the rest of your fleet. Let's get your big cargo moved now!
+                                </p>
 
-                        </div>
-                    </li>
+                            </div>
+                        </li>
 
-                    <li id="4">
-                        <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Rapid Auto Shipping Make Towing Of Your Oversize And Overweight Loads Truck Easy</span></h2>
-                            <p class="para-2">
-                                Do you require oversized towing services? The way to go is with Rapid Auto Shipping! We have a larger fleet of towing equipment, including double removable goosenecks, double decks, and extensible drop decks, which gives us a lot of flexibility and allows us to provide excellent towing services for any size, shape, or height of the equipment. Members of our team at Rapid Auto Shipping are constantly ready to ensure that the towing of your heavy machinery goes well.
-                            </p>
+                        <li id="4">
+                            <div class="shipping-form-state-content">
+                                <h2 class="heading-1">Rapid Auto Shipping Make Towing Of Your Oversize And Overweight Loads Truck Easy</span></h2>
+                                <p class="para-2">
+                                    Do you require oversized towing services? The way to go is with Rapid Auto Shipping! We have a larger fleet of towing equipment, including double removable goosenecks, double decks, and extensible drop decks, which gives us a lot of flexibility and allows us to provide excellent towing services for any size, shape, or height of the equipment. Members of our team at Rapid Auto Shipping are constantly ready to ensure that the towing of your heavy machinery goes well.
+                                </p>
 
-                        </div>
-                    </li>
-
-
+                            </div>
+                        </li>
 
 
-                </ul>
 
-                <div class="shipping-form-state-image">
-                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1674295794/Recent%20Uploads/over-size-truck.jpg" alt="Customised Shipping Containers" />
-                </div>
-            </section>
+
+                    </ul>
+
+                    <div class="shipping-form-state-image">
+                        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1674295794/Recent%20Uploads/over-size-truck.jpg" alt="Customised Shipping Containers" />
+                    </div>
+                </section>
 
 
         </div>

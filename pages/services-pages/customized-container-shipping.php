@@ -87,7 +87,7 @@
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-                <h2 class="heading-1">Customised Shipping Containers (RAS)</h2>
+                <h3 class="heading-1">Customised Shipping Containers (RAS)</h3>
                 <p class="para-2">
                     Rapid Auto Shipping offers custom shipping containers solutions to meet your specific requirements. Prices for domestic container movers differ from rates for international container movers, but both have other considerations. This contains your shipping containers' dimensions and weight. The cost of moving a 40-foot shipping container, for example, is determined by the weight of the cargo within. Empty shipping containers are also transported by us. Rapid Auto Shipping is one of the most reputable shipping container transportation firms in the business. We know how to deliver the best transportation options because we have over a decade of expertise.
                     <br><br>
@@ -97,9 +97,9 @@
             </div>
 
             <div class="points-div " id="top-section">
-                <h2 class="heading-2">
+                <h3 class="heading-2">
                     What's in this article?
-                </h2>
+                </h3>
                 <ul class="points-div-ul">
                     <li><a href="#1">a reliable shipping container moving company</a></li>
                     <li><a href="#2">shipping container moving companies: what to know</a></li>
@@ -130,7 +130,7 @@
                             <h2 class="heading-1">What Is The Distinction Between <span>Open</span> And <span>Enclosed</span> Trailers?</h2>
 
                             <p class="para-2">
-                                Open carrier and enclosed carrier are the two basic types of auto shipment.
+                                Open carrier and <a href="<?= home_path() ?>services/enclosed-shipping">enclosed carrier</a> are the two basic types of auto shipment.
                                 <br>
                                 When you ship your car on an open carrier, it is known as open carrier car transport. This is the most cost-effective auto transportation option available, as opposed to an enclosed carrier. Your vehicle, however, will be exposed to the elements, such as rain, hail, and snow. External influences, in fact, have the potential to harm your vehicle. However, this is a remote possibility that occurs only infrequently.
                             </p>
@@ -143,7 +143,7 @@
                     </div>
                     <li id="3">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">What Is The Cost Of <span>Open Auto Transport</span>?</h2>
+                            <h3 class="heading-1">What Is The Cost Of <span>Open Auto Transport</span>?</h3>
                             <p class="para-2"> The cost of open car transport varies depending on your specific needs at <strong><a href="<?= home_path() ?>">Rapid Auto Shipping</a></strong>. The cost of open automobile shipment is determined by a number of factors. These factors include your car's type and model, the overall distance of your shipping, and whether or not your vehicle is in good working order.
                                 <br><br>
                                 When you're ready, our instant open car transport cost calculator can quickly provide you with open car shipping quotes. You can even keep your identity hidden! Simply provide us with some basic information about your vehicle and shipment route. You'll have exact open automobile shipping quotes to select from in a matter of seconds.
@@ -153,13 +153,13 @@
 
                     <li id="4">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">What Are The Benefits Of Using An Open Auto Carrier?</h2>
+                            <h3 class="heading-1">What Are The Benefits Of Using An Open Auto Carrier?</h3>
                             <p class="para-2">
                                 Open carriers are becoming the most popular method of cost-effective car shipping. As a result, auto transport service companies are in a fierce rivalry. As a result of this competition, auto shipping companies are compelled to do everything possible to deliver high-quality services at a cheaper cost. Because the vehicle transportation industry is booming, serious companies must give the best services available to stay competitive.
 
                                 Another big benefit for customers is that vehicle shipping companies can accommodate more vehicles on their trucks, lowering car shipping costs significantly and further lowering prices.
                                 <br><br>
-                                The conventional ten-vehicle transporter is the most typical open auto carrier, which is frequently used to transport new vehicles to dealerships. It is the most cost-effective method of transporting multiple autos in one trip. Both service providers and clients profit from it. Carriers make the most money, while customers get the best auto transportation deals.
+                                The conventional ten-vehicle transporter is the most typical open auto carrier, which is frequently used to transport new vehicles to dealerships. It is the most cost-effective method of transporting multiple autos in one trip. Both service providers and clients profit from it. Carriers make the most money, while customers get the <b><a href="<?= home_path() ?>">best auto transportation</a></b> deals.
                                 <br><br>
                                 Customers on a budget aren't the only ones that choose open carrier auto transport. It is also used by most dealerships, collectors, and manufacturers. The cost of transporting ten autos at once has a substantial impact on the total cost of auto shipping. Open carriers of various sizes that can transport fewer vehicles are also available, although ten-car carriers are the most frequent.
                                 <br><br>
