@@ -78,7 +78,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Line Haul Transportation";
-        $PARAGRAPH = "Rapid Auto Shipping may be able to offer you a significant discount on your Line Haul Transport request if you notify them ahead of time. Rapid Auto Shipping will then be able to easily organize for just a Transporter. Rapid Auto Shipping believes in giving a most cost-effective service to its customers. Rapid Auto Shipping provides the most benefits for Transporting when comparing to any transport service firm in the market. ";
+        $PARAGRAPH = "There are numerous advantages to using line haul transportation. You can save time and money by dealing with a firm specialising in this kind of shipment. Our staff are the best in the industry, allowing us to maintain our reputation and offer industry-leading precision on every load. Rapid Auto Shipping is committed to providing its clients with the most affordable service possible. Compared to other transport service providers on the market, Rapid Auto Shipping provides the most transportation benefits.";
         include_once small_form;
         ?>
     </div>

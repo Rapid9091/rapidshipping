@@ -56,6 +56,10 @@
             background-repeat: no-repeat;
             background-size: cover;
         }
+
+        .third-section-state {
+            background-color: rgb(0, 0, 0, 0.5) !important;
+        }
     </style>
 </head>
 

@@ -66,6 +66,11 @@
 
             background-color: rgb(0, 0, 0, 0.5) !important;
         }
+
+        p.text {
+            font-size: 17px;
+            line-height: 1.8;
+        }
     </style>
 </head>
 
@@ -103,7 +108,7 @@
                 <br>
                 <h3 id="best_company_while_shipping_alaska">Why we are best in Alaska auto transport company ?</h3>
                 <br>
-                <p>
+                <p class="text">
                     <a href="<?= home_path(); ?>"><b> Rapid Auto Shipping </b></a>
                     treats every customer equally with respect. We help them to transport their vehicles on time without any hustle at affordable rates. We provide full insurance to their cars and deliver them from <b><a href="<?= home_path(); ?>services/door-to-door">door to door</a></b> with no damage. You can have peace of mind knowing that in the unlikely event your car suffers damage during <b>Alaska car shipping</b>. We've got you covered; our insurance will take care of the claim fast and efficiently. We bonded and licensed a company that every customer trusts. We offer customers to schedule their transportation without any deposit. Moreover, we provide trustworthy carriers to the customers so they can have the best experience of transportation.
 
@@ -224,8 +229,7 @@
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>
-        <p class=""text
-        <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b> Rapid Auto Shipping</b></span> </a> offers some special discounts to their valued customers to seniors and students who wish to transport their cars throughout the <a target="_blank" href="https://www.defense.gov/About/our-forces/#:~:text=The%20Army%2C%20Marine%20Corps%2C%20Navy,in%20part%20under%20state%20authority." title="US defence"><b>U.S. Military</b></a> members can also take the benefits of these discounts. But those customers who do not relate to these categories can take our seasonal offers. Save your time, energy, and especially money by working with us.
+        <p class="text"> <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b> Rapid Auto Shipping</b></span> </a> offers some special discounts to their valued customers to seniors and students who wish to transport their cars throughout the <a target="_blank" href="https://www.defense.gov/About/our-forces/#:~:text=The%20Army%2C%20Marine%20Corps%2C%20Navy,in%20part%20under%20state%20authority." title="US defence"><b>U.S. Military</b></a> members can also take the benefits of these discounts. But those customers who do not relate to these categories can take our seasonal offers. Save your time, energy, and especially money by working with us.
         </p>
     </section>
     <!-- ----------------------------- -->

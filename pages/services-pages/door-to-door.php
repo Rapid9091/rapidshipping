@@ -66,6 +66,10 @@
             background-repeat: no-repeat;
             background-size: cover;
         }
+
+        .third-section-state {
+            background-color: rgb(0, 0, 0, 0.4) !important;
+        }
     </style>
 </head>
 
@@ -76,7 +80,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Door To Door Auto Transport";
-        $PARAGRAPH = "For a long time, door to door car transport has been the most common way of auto transport in the industry. Because it is the most convenient and allows both carriers and clients more control over the vehicle being transported, many carriers only provide door to door auto shipping services. ";
+        $PARAGRAPH = "Auto shipping from door to door is exactly what it sounds like. Your car will be picked up at your home and delivered right to your final destination by one of our car carriers. For the pick-up and delivery of your vehicle, you must provide the transportation provider with the exact addresses. Your car will be delivered as close as feasible to your chosen address. People with busy schedules or those who reside in rural areas will benefit significantly from door-to-door transportation services. We are aware of how difficult and frustrating auto transportation can be. Therefore, in order to guarantee complete client pleasure, Rapid Auto Shipping provides live customer care seven days a week, 24 hours a day. ";
         include_once small_form;
         ?>
     </div>

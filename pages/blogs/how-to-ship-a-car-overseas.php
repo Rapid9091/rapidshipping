@@ -54,9 +54,15 @@
             margin: 2% 0;
         }
 
-        .affordable-ways-page-grid-content-1>p {
+        .affordable-ways-page-grid-content-1>div>p {
             padding: 2% 0;
-            font-size: 15px;
+            font-size: 17px;
+            line-height: 1.8;
+        }
+
+        p.text {
+            font-size: 17px;
+            line-height: 1.8;
         }
 
         .affordable-ways-page-grid-content-1>ul {

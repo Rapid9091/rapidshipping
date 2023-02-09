@@ -7,15 +7,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Open Transport Car Shipping Services | +1-833-233-4447</title>
-    <meta name="title" content="Open Transport Car Shipping Services | +1-833-233-4447">
+    <title>Open Carrier Transport Car Shipping Services | +1-833-233-4447</title>
+    <meta name="title" content="Open Carrier Transport Car Shipping Services | +1-833-233-4447">
     <meta name="description" content="Secure And Reliable Auto Transport Carriers. We can ship vehicles of any size. Open Transport Car Shipping, We Can Help. you to  open transport car shipping" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Open Transport Car Shipping Services | +1-833-233-4447" />
+    <meta property="og:title" content="Open Carrier Transport Car Shipping Services | +1-833-233-4447" />
     <meta property="og:description" content="Secure And Reliable Auto Transport Carriers. We can ship vehicles of any size. Open Transport Car Shipping, We Can Help. you to  open transport car shipping" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/open-car-shipping" />
     <meta property="og:img" content="https://rapidautoshipping.com/assets/images/vaibhv-img.png" />
-    <meta property="og:site_name" content="Open Transport Car Shipping Services | +1-833-233-4447" />
+    <meta property="og:site_name" content="Open Carrier Transport Car Shipping Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car carrier, open transport, automobile carrier, car shipping carriers, open auto, carrier for car, truck for car transport, get carrier auto transport, auto truck transport, auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport">
     <meta property="article:tag" content="open transport" />
@@ -66,7 +66,7 @@
     <!-- this is the fiorst section with background image -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Open Car Transport";
+        $NAME = "Open Transport Car Shipping";
         $PARAGRAPH = "Your vehicle will be transported in an open transport car carrier trailer, which typically has two racks that can hold 4-10 autos. The truck, which can be 16 to 24 feet long, has no walls or roof, but it is equipped with special protections and systems to keep your car safe and secure while being stored on the ramps. Commercial vehicle carrier trailers are usually double-deckers with hydraulically controlled subdivisions that enable for self-propelled mobility.";
         include_once small_form;
         ?>
@@ -106,7 +106,7 @@
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <div class="shipping-form-state-image">
-                    <img loading="lazy" src="<?= get_img() ?>auto-transport-open.jpg" alt="Open Car Transport" />
+                    <img loading="lazy" src="<?= get_img() ?>auto-transport-open.jpg" alt="Open transport car shipping" />
 
                 </div>
                 <ul>
@@ -134,7 +134,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?= get_img() ?>vaibhv-img.png" alt="Open Auto Transport" />
+                        <img loading="lazy" src="<?= get_img() ?>vaibhv-img.png" alt="Open carrier car shipping" />
                     </div>
                     <li id="3">
                         <div class="shipping-form-state-content">
@@ -164,7 +164,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?= get_img() ?>aboutus-first-background-image.png" alt="Open Auto Transport" />
+                        <img loading="lazy" src="<?= get_img() ?>aboutus-first-background-image.png" alt="Open transport car shipping" />
 
                     </div>
                     <li id="5">
@@ -202,7 +202,7 @@
                     </li>
 
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?= get_img() ?>bus-shipping-1.jpg" alt="Best open auto transport" />
+                        <img loading="lazy" src="<?= get_img() ?>bus-shipping-1.jpg" alt="Open carrier car shipping" />
 
                     </div>
                     <li id="7">
@@ -218,7 +218,7 @@
                 </ul>
 
                 <div class="shipping-form-state-image">
-                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673597414/Recent%20Uploads/Auto-Shipping-about-1_gydnd1.png" alt="Open Auto Transport" />
+                    <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673597414/Recent%20Uploads/Auto-Shipping-about-1_gydnd1.png" alt="Open transport car shipping" />
                 </div>
             </section>
 
