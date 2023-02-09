@@ -139,7 +139,6 @@
                         <br><br>
                         Why? It is not only more convenient for truckers, but it also allows them to mix shipments going to the same location. It also saves them a lot of time daily. It also saves them a lot of time when it comes to delivery.
 
-                        These conveniences will result in cost savings for you
                     </p>
 
                 </div>

@@ -102,7 +102,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                     <li><a href="#9">How long will it take for my motorcycle to be shipped?</a></li>
                     <li><a href="#10">Ship your motorcycle now!</a></li>
                     <li><a href="#11">What Makes Rapid Auto Shipping So Different?</a></li>
-                    <li><a href="#12">Motorcycle Overseas Shipping Made Easy With Rapid Auto Shipping</a></li>
+                    <li><a href="#12">Rapid Auto Shipping: Your One-Stop Shop For Cross Country Motorcycle Shipping</a></li>
                 </ul>
 
             </div>
@@ -115,7 +115,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                 <ul>
                     <li id="1">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Motorcycle Shipping Made Simple At The <span>Lowest Cost</span></h2>
+                            <h3 class="heading-1">Motorcycle Shipping Made Simple At The <span>Lowest Cost</span></h3>
                             <p class="para-2">
                                 We provide a wide range of motorcycle fans and models, including Harley Davidson enthusiasts, professional motorcycle racers, first-time and other motorcycle shippers. We understand the level of trust required when entrusting your motorcycle to a motorcycle transport company, and we take pleasure in being thorough and competent in our search for the best shipping option at the best motorcycle shipping pricing. Our evaluations explain everything about our great customer service at a glance.
                             </p>
@@ -123,7 +123,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                     </li>
                     <li id="2">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">What Are The Benefits Of Shipping My <span>Motorcycle</span>?</h2>
+                            <h3 class="heading-1">What Are The Benefits Of Shipping My <span>Motorcycle</span>?</h3>
 
                             <p class="para-2">
 
@@ -145,7 +145,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                     </div>
                     <li id="3">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1"> How Do <span>Motorcycles</span> Get Shipped?</h2>
+                            <h3 class="heading-1"> How Do <span>Motorcycles</span> Get Shipped?</h3>
                             <p class="para-2">
 
                                 On the surface, transporting a motorcycle is similar to transporting a regular-sized vehicle. You figure out what services you'll need, how much they'll cost, and then look for a company that can do the job.
@@ -163,7 +163,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
 
                     <li id="4">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1"><span>Motorcycle Shipping</span> Using Enclosed Auto Transport</h2>
+                            <h4 class="heading-1"><span>Motorcycle Shipping</span> Using Enclosed Auto Transport</h4>
                             <p class="para-2">
                                 An enclosed motorcycle transport carrier is the safest way to transport your motorcycle. The sturdy sides protect the details, leather seats, and body of your bike from damage or breakage caused by the elements. Your motorbike will be shipped and delivered safely to your destination on time for key bike rallies and events, crated in an enclosed motorcycle transport carrier, secured to a custom pallet, and appropriately isolated from other bikes.
                                 <br>
@@ -182,7 +182,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                     </div>
                     <li id="5">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Motorcycle Shipping Using Open Transport</h2>
+                            <h3 class="heading-1">Motorcycle Shipping Using Open Transport</h3>
                             <p class="para-2">
                                 Are you considering transporting your Harley using an open motorcycle transport services? The double-decker carriers used by your dealer are open carriers. Furthermore, your motorcycle will be transported using cutting-edge technology and will arrive at its destination within seven days. Finally, <b><a href="<?= home_path() ?>services/open-car-shipping">open transport</a></b> is a safe mode of transportation because your motorcycle will be shielded from road vibrations and jolts.
                             </p>
@@ -193,7 +193,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
 
                     <li id="6">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Getting The <span>Motorcycle</span> Ready For Transportation</h2>
+                            <h4 class="heading-1">Getting The <span>Motorcycle</span> Ready For Transportation</h4>
                             <p class="para-2">
                                 Getting your bike ready for transportation is similar to getting any other vehicle ready for transit. When it is shipped, you should only have a quarter tank of gas. Also, make sure the motorcycle is running, and if it isn't, inform your representative. You should look for any loose connections, especially with the wheels and handlebars. It's a rare occurrence, but we've seen clients' bikes fall apart when loading or unloading!
                                 <br><br>
@@ -206,7 +206,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
 
                     <li id="7">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Get The Most Benefit Of Your Shipment</h2>
+                            <h3 class="heading-1">Get The Most Benefit Of Your Shipment</h3>
                             <p class="para-2">
 
                                 Before you schedule a shipping, make sure to check rates and services. Motorcycles are more challenging to price for shippers, especially if they are not a motorcycle-only business. As a result, comparing prices is critical.
@@ -221,7 +221,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                     </li>
                     <li id="8">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">What Influences Our <span>Motorcycle</span> Shipping Costs?</h2>
+                            <h3 class="heading-1">What Influences Our <span>Motorcycle</span> Shipping Costs?</h3>
                             <p class="para-2">Distance - In general, the longer the distance, the more expensive it is to ship a motorcycle. There are, however, some notable exceptions. Because your bike is travelling in a fully loaded carrier, if we ship it to a destination along a busy shipping route, such as a city along Interstate 95 between New York and Florida, you may experience shockingly reduced shipping charges. Putting a half loaded truck on the road is more expensive for both our clients and us.
 
                                 Off the Beaten Path - If your destination is not on a major interstate route, you can expect to pay more for motorbike transportation. There are additional costs associated with exiting the freeway and travelling to an out-of-the-way location.<br><br>
@@ -235,7 +235,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
 
                     <li id="9">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">How Long Will It Take For My Motorcycle To Be Shipped?</h2>
+                            <h5 class="heading-1">How Long Will It Take For My Motorcycle To Be Shipped?</h5>
                             <p class="para-2">
                                 The time it takes to move a motorcycle, like any other vehicle, is determined by a number of factors. The most important factor is distance, although additional factors can include:<br><br>
 
@@ -252,7 +252,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                     </li>
                     <li id="10">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Ship Your Motorcycle Now!</h2>
+                            <h4 class="heading-1">Ship Your Motorcycle Now!</h4>
                             <p class="para-2">
                                 Allow Rapid Auto Shipping to assist you in transporting your motorcycle! We'the ve been in the company for ten years and have the knowledge and expertise that consumers demand. You may get a free quote to ship your bike at any time by filling out our online quote form, or by calling one of our experts. You can also ask questions, get advice, learn more about motorbike transportation, and more when you call. So, whatever you require, use Rapid Auto Shipping to assist you.
                             </p>
@@ -260,17 +260,23 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                     </li>
                     <li id="12">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Motorcycle Overseas Shipping Made Easy With Rapid Auto Shipping</h2>
+                            <h3 class="heading-1">Rapid Auto Shipping: Your One-Stop Shop For <span>Cross Country Motorcycle Shipping</span></h3>
                             <p class="para-2">
-                                When you’re ready to take your motorcycle on an international adventure, the first step is to get it shipped overseas. At Rapid Auto Shipping, we make the process easy with our door-to-door service and competitive rates.
+                                Rapid Auto Shipping is the premier provider of cross country motorcycle shipping services. We have years of experience shipping motorcycles all over the United States, and we have the resources and expertise to get your motorcycle shipped safely and quickly.
+                                <br>
+                                Here's how our process works:
+                                <br>
+                                First, you'll need to get a quote from us. We'll need to know the make and model of your motorcycle, as well as your shipping address and the address of your destination. Once we have that information, we'll be able to give you a quote for our services.
 
-                                shipping a motorcycle overseas doesn't have to be complicated or expensive. With a little planning and the help of a reliable shipping company like Rapid Auto Shipping, you can be enjoying the open road in no time.
+                                Once you've decided to use our services, we'll work with you to schedule a pick-up date and time. We'll come to your location and load your motorcycle onto one of our specially-designed trailers. We'll then transport it to our facility, where it will be prepared for shipment.
+
+                                Once your motorcycle is at our facility, we'll load it onto one of our enclosed trailers and ship it to its destination. We track all of our shipments so that we can provide you with updates along the way. And when your motorcycle arrives at its destination, we'll unload it and contact you so that you can pick it up.
                             </p>
                         </div>
                     </li>
                     <li id="11">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">What Makes Rapid Auto Shipping So Different?</h2>
+                            <h3 class="heading-1">What Makes Rapid Auto Shipping So Different?</h3>
                             <div style="margin:15px 0;">
 
                                 <div class="new-blog-section-one-child  grid-2">
