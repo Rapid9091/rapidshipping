@@ -180,7 +180,7 @@
                             </h2>
                             <p class="para-2"> Fifth wheel RV transport, like most other <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping">heavy transportation</a> jobs, is usually charged on a per-mile basis. For the first 100 miles, you'll normally pay around $4 per mile, but lengthier excursions will have a cheaper per-mile fee. This can range from $1 to $3 per mile for cross-country transport.
 
-                                There are a few more elements that can affect the cost of fifth wheel RV shipping besides the per-mile fee and total distance, such as:
+                                There are a few more elements that can affect the cost of fifth wheel <strong><a href="<?= home_path() ?>services/rv-transport">RV shipping</a></strong> besides the per-mile fee and total distance, such as:
 
                                 Most fifth-wheel RV transport firms use heavy-duty pickup vehicles to <a href="https://rapidautoshipping.com/services/rv-transport">transport your RV</a>, however certain larger RVs may require a semi-truck. When compared to a pickup truck, hiring a semi-truck is usually more expensive.
                                 <br> <br>

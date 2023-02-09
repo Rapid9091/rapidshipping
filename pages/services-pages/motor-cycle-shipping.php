@@ -102,6 +102,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                     <li><a href="#9">How long will it take for my motorcycle to be shipped?</a></li>
                     <li><a href="#10">Ship your motorcycle now!</a></li>
                     <li><a href="#11">What Makes Rapid Auto Shipping So Different?</a></li>
+                    <li><a href="#12">Motorcycle Overseas Shipping Made Easy With Rapid Auto Shipping</a></li>
                 </ul>
 
             </div>
@@ -257,6 +258,16 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                             </p>
                         </div>
                     </li>
+                    <li id="12">
+                        <div class="shipping-form-state-content">
+                            <h2 class="heading-1">Motorcycle Overseas Shipping Made Easy With Rapid Auto Shipping</h2>
+                            <p class="para-2">
+                                When you’re ready to take your motorcycle on an international adventure, the first step is to get it shipped overseas. At Rapid Auto Shipping, we make the process easy with our door-to-door service and competitive rates.
+
+                                shipping a motorcycle overseas doesn't have to be complicated or expensive. With a little planning and the help of a reliable shipping company like Rapid Auto Shipping, you can be enjoying the open road in no time.
+                            </p>
+                        </div>
+                    </li>
                     <li id="11">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">What Makes Rapid Auto Shipping So Different?</h2>
@@ -323,6 +334,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                             </div>
                         </div>
                     </li>
+
 
                 </ul>
 

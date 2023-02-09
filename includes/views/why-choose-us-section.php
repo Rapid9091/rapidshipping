@@ -16,7 +16,7 @@
           <div class="why-choose-us-grid-box">
               <h4>We are reliable</h4>
               <p>
-                  When you adore your vehicle, getting behind the wheel and hitting the open road is the finest way to get it from point A to point B. When you can't see your vehicle until it arrives at its destination, you'll need a dependable transportation firm to deliver it safely and swiftly. We at <strong><a href="<?= home_path() ?>" style="color:black;">Rapid Auto Shipping</a></strong> has given great auto transport solutions to hundreds of thousands of consumers, and our 99+ percent customer satisfaction rate reflects our dedication to providing top-notch service. Affecting or extending throughout all parts of a <a href="<?= get_state() ?>" style="color:black;"> <strong>States</strong> </a>
+                  When you adore your vehicle, getting behind the wheel and hitting the open road is the finest way to get it from point A to point B. When you can't see your vehicle until it arrives at its destination, you'll need a dependable transportation firm to deliver it safely and swiftly. We at Rapid Auto Shipping has given great auto transport solutions to hundreds of thousands of consumers, and our 99+ percent customer satisfaction rate reflects our dedication to providing top-notch service. Affecting or extending throughout all parts of a States.
               </p>
           </div>
       </div>

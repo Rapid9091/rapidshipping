@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Get Instant Free Car Shipping Quotes</title>
-    <meta name="title" content="Get Instant Free Car Shipping Quotes" />
-    <meta name="description" content="Get instant car shipping quotes with no hassles or hidden fees, and learn about the best car shipping companies to ship for the best auto shipping rates!" />
+    <title>Get Instant Car Shipping Quotes | Reliable & Affordable</title>
+    <meta name="title" content="Get Instant Car Shipping Quotes | Reliable & Affordable" />
+    <meta name="description" content="Get the best car shipping quotes in the Rapid Auto Shipping. We offer hassle-free and affordable car shipping services for both short and long distances. Get a free quote today and experience fast, secure, reliable auto transport." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Get Instant Free Car Shipping Quotes" />
-    <meta property="og:description" content="Get instant car shipping quotes with no hassles or hidden fees, and learn about the best car shipping companies to ship for the best auto shipping rates!" />
+    <meta property="og:title" content="Get Instant Car Shipping Quotes | Reliable & Affordable" />
+    <meta property="og:description" content="Get the best car shipping quotes in the Rapid Auto Shipping. We offer hassle-free and affordable car shipping services for both short and long distances. Get a free quote today and experience fast, secure, reliable auto transport." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/car-transport-quotes" />
-    <meta property="og:site_name" content="Get Instant Free Car Shipping Quotes" />
+    <meta property="og:site_name" content="Get Instant Car Shipping Quotes | Reliable & Affordable" />
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car shipping, car shipping companies, car shipping services, vehicle shipping, car shipping quotes, cheap car shipping, vehicle shipping companies, auto shipping quotes, best car shipping companies, auto transport quotes, car shipping calculator,  car transport cost, vehicle shipping quote" />
@@ -60,6 +60,10 @@
             background-repeat: no-repeat;
             background-size: cover;
         }
+
+        .third-section-state {
+            background-color: rgb(0, 0, 0, 0.6);
+        }
     </style>
 </head>
 
@@ -69,7 +73,7 @@
     <!-- new section under the first section of single line -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Get Auto Shipping Quotes";
+        $NAME = "Car Shipping Quotes Immediately";
         $PARAGRAPH = "We recommend receiving many quotations before selecting on a business to export your automobile because shipping a car cross-country may be a tough process. Automobile shipping quotes take into account a number of factors before deciding on a price. Distance is one of the most essential and apparent factors that impacts the cost of automobile shipping. The size and weight of the vehicle you need to transport are the next factors to consider. Car carriers are limited in the quantity of freight they can put aboard their vehicles by the Department of Transportation. To put it another way, the larger and heavier your car is, the more the shipping costs will be.";
         include small_form;
         ?>
@@ -92,11 +96,11 @@
                         <br><br>
                         <b>Vehicle dimensions and weight :</b>
 
-                        <a href="https://rapidautoshipping.com/services/car-transport">Car transport</a> firms must make particular allowances for automobiles that are longer, taller, or heavier than typical, and as a result, the price may vary.
+                        Car transport firms must make particular allowances for automobiles that are longer, taller, or heavier than typical, and as a result, the price may vary.
                         <br><br>
                         <b> The state of the vehicle :</b>
 
-                        Inoperable autos cost more to ship because <a href="https://rapidautoshipping.com/services/car-shipping-companies">car shipping companies</a> need additional tools and staff to accommodate the cargo. We can, however, send your car if it rolls, steers, and brakes.
+                        Inoperable autos cost more to ship because <a href="<?= home_path() ?>services/car-shipping-companies">car shipping companies</a> need additional tools and staff to accommodate the cargo. We can, however, send your car if it rolls, steers, and brakes.
 
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg" alt="car shipping quotes">
@@ -144,13 +148,13 @@
                 <div class="new-blog-section-one">
                     <h2><span> Quotes For International Car Shipping</span></h2>
                     <p>
-                        Transporting a car internationally is far more difficult than shipping a car within the United States. Obtaining international car shipping rates is a time-consuming process that usually involves three steps. Domestic shipping to the port, customs, and international cargo ships to the port are the three components. When you request an <a href="https://rapidautoshipping.com/services/international-car-shipping
+                        Transporting a car internationally is far more difficult than shipping a car within the United States. Obtaining international car shipping rates is a time-consuming process that usually involves three steps. Domestic shipping to the port, customs, and international cargo ships to the port are the three components. When you request an <a href="<?= home_path() ?>services/international-car-shipping
 ">international car shipping</a> price online, most businesses will gather all of your information before providing you with an estimate.
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521154/door-to-door-img-2.jpg" alt="car shipping quotes">
                     <p>
                         <br>
-                        Rapid Auto Shipping is one of the few auto shipping companies in the world that can provide you with an exact international car shipping price in a real-real-time vehicle shipping calculator that uses cutting-edge technology to calculate domestic shipping costs and determine which port is the most cost-effective to ship from. It also aids in determining the cost of the overseas portion of the journey. Rapid Auto Shipping has the technology and experience to provide you with a worry-free and dependable worldwide car shipping service.
+                        Rapid Auto Shipping is one of the few auto shipping companies in the world that can provide you with an exact international car shipping price in a real-real-time vehicle shipping calculator that uses cutting-edge technology to calculate domestic shipping costs and determine which port is the most cost-effective to ship from. It also aids in determining the cost of the overseas portion of the journey. Rapid Auto Shipping has the technology and experience to provide you with a worry-free and dependable worldwide <strong><a href="<?= home_path() ?>services/car-shipping-services">car shipping service</a></strong>.
 
                     </p>
                 </div>

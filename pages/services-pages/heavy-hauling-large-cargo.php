@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Top heavy hauling large cargo transportation services</title>
-    <meta name="title" content="Top heavy hauling large cargo transportation services." />
-    <meta name="description" content="Do you need to move large amounts of merchandise with heavy hauling large cargo? You are at right place because we are specializes in heavy cargo shipping." />
+    <title>Reliable Heavy Hauling Services for Large Cargo Transportation</title>
+    <meta name="title" content="Reliable Heavy Hauling Services for Large Cargo Transportation." />
+    <meta name="description" content="Heavy Hauling is your go-to source for large cargo transportation. We provide reliable, high-quality service to move heavy loads quickly and safely. Our team of experts is dedicated to helping you get your cargo where it needs to go on time." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Top heavy hauling large cargo transportation services." />
-    <meta property="og:description" content="Do you need to move large amounts of merchandise with heavy hauling large cargo? You are at right place because we are specializes in heavy cargo shipping." />
+    <meta property="og:title" content="Reliable Heavy Hauling Services for Large Cargo Transportation." />
+    <meta property="og:description" content="Heavy Hauling is your go-to source for large cargo transportation. We provide reliable, high-quality service to move heavy loads quickly and safely. Our team of experts is dedicated to helping you get your cargo where it needs to go on time." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/heavy-hauling-large-cargo" />
-    <meta property="og:site_name" content="heavy hauling large cargo - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Reliable Heavy Hauling Services for Large Cargo Transportation" />
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="heavy freight, cargo hauling, heavy cargo transportation, heavy cargo, hauling cargo, heavy shipping companies, heavy goods shipping, shipping heavy items, cargo haul, how to ship weights, what is heavy goods shipping, heavey loads, how heavy is a cargo ship, shipping something heavy, cargo loads, best shipping for heavy items, how to ship heavy items, shipping large, cargo shipments, haul cargo" />
@@ -65,7 +65,7 @@
         }
 
         .third-section-state {
-            background-color: rgb(0, 0, 0, 0.4) !important;
+            background-color: rgb(0, 0, 0, 0.6) !important;
         }
     </style>
 </head>
@@ -76,7 +76,7 @@
     <!-- this is the fiorst section with background image -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Heavy Hauling Large Cargo Shipping";
+        $NAME = "Heavy Hauling Large Cargo Transportation";
         $PARAGRAPH = "Transporting loads or freight that surpass standard-sized standards is referred to as heavy haul trucking. This strategy is utilised when your shipment is considered large or wide. This means the transit freight is wider, longer, heavier, or taller, or a combination of these features. In heavy haul transportation, step deck trailers, RGN trailers, drop deck trailers, and other trailers are often utilised. ";
         include_once small_form;
         ?>
