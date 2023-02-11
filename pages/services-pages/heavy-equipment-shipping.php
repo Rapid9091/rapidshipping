@@ -92,9 +92,9 @@
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span> Shipping for Heavy Equipment Transport</span></h2>
-                    <p> Are you looking for a heavy equipment transfer and lowboy shipping firm to help you relocate your commercial or industrial business? No matter the size or destination, Rapid Auto Shipping can transport your big equipment or trucks! If you're looking for a heavy haul trucking equipment and transportation company that provides excellent service at a reasonable cost, you've come to the right place. The Rapid Auto Shipping is here to assist you! We have heavy equipment transporters ready to ship your equipment in all <a href="<?= get_state() ?>"><strong>States</strong> </a> and cities.
+                    <p> Are you looking for a heavy equipment transfer and <strong><a href="<?= home_path() ?>services/lowboy-shipping">lowboy shipping</a></strong> firm to help you relocate your commercial or industrial business? No matter the size or destination, Rapid Auto Shipping can transport your big equipment or trucks! If you're looking for a <a href="<?= get_state() ?>"><strong>States</strong> </a> heavy haul trucking equipment and transportation company that provides excellent service at a reasonable cost, you've come to the right place. The Rapid Auto Shipping is here to assist you! We have heavy equipment transporters ready to ship your equipment in all <a href="<?= get_state() ?>"><strong>States</strong> </a> and cities.
                         <br><br>
-                        Rapid Auto Shipping is a licensed, bonded, and reputable <a target="_blank" rel="nofollow" href="https://en.wikipedia.org/wiki/Heavy_equipment">heavy equipment</a> and machinery shipping company. We have over ten years of expertise transporting heavy equipment for hundreds of businesses of all sizes. Our reputation is built on our promise to deliver your large equipment safely and affordably. We provide a number of shipping alternatives to fulfil your cargo requirements as well as your budget constraints. When moving big equipment or oversized materials, a lowboy or step deck trailer is the ideal option.
+                        Rapid Auto Shipping is a licensed, bonded, and reputable <strong><a target="_blank" rel="nofollow" href="https://en.wikipedia.org/wiki/Heavy_equipment">heavy equipment</a></strong> and machinery shipping company. We have over ten years of expertise transporting heavy equipment for hundreds of businesses of all sizes. Our reputation is built on our promise to deliver your large equipment safely and affordably. We provide a number of shipping alternatives to fulfil your cargo requirements as well as your budget constraints. When moving big equipment or oversized materials, a lowboy or step deck trailer is the ideal option.
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673438870/Recent%20Uploads/jcb-over-truck2_izaj00.jpg" alt="Heavy equipment shipping">
                 </div>
@@ -119,7 +119,7 @@
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span> Why Are We Superior to Other Heavy equipment hauling and Lowboy Trucking Firms?</span></h2>
-                    <p> First and foremost, we attempt to earn your trust, when other big haul trucking companies are just concerned with collecting your money. Construction companies use our door-to-door heavy equipment transport service for transferring bulldozers, cranes, and other construction vehicles. When industrial companies need forklifts or other heavy machinery relocated from one factory to another, they contact us. Finally, farmers count on us to bring heavy equipment, such as tractors and other farm machinery, to their fields. The following are some of the advantages of using our heavy equipment transportation service:
+                    <p> First and foremost, we attempt to earn your trust, when other big haul trucking companies are just concerned with collecting your money. Construction companies use our <strong><a href="<?= home_path() ?>services/door-to-door">door-to-door</a></strong> heavy equipment transport service for transferring bulldozers, cranes, and other construction vehicles. When industrial companies need forklifts or other heavy machinery relocated from one factory to another, they contact us. Finally, farmers count on us to bring heavy equipment, such as tractors and other farm machinery, to their fields. The following are some of the advantages of using our heavy equipment transportation service:
                         <br><br>
                         <strong> Door-to-Door Service – </strong> can deliver heavy equipment to your business door or job site.
                         <br><br>
@@ -129,7 +129,7 @@
                         <br>
                         <br> <strong> <a target="_blank" rel="nofollow" style="color:black;" href="https://www.fmcsa.dot.gov/regulations/cargo-securement/cargo-securement-rules">Safe Transportation -</a></strong> Your heavy equipment transport is transported by skilled drivers who are concerned about the weight they are transporting.
                     </p>
-                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521398/Recent%20Uploads/car-tied-on-trailer-3.jpg" alt="Safely shipping a car">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521398/Recent%20Uploads/car-tied-on-trailer-3.jpg" alt="heavy equipment shipper">
 
                 </div>
             </div>

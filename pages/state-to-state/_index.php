@@ -50,6 +50,10 @@ if (isset($_GET['page_id'])) {
             background-repeat: no-repeat;
             background-size: cover;
         }
+
+        .third-section-content-text>span {
+            color: var(--nav-color);
+        }
     </style>
 </head>
 

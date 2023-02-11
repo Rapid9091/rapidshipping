@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>How to Ship a Car Overseas - Everything You Need to Know</title>
     <meta name="title" content="How to Ship a Car Overseas - Everything You Need to Know" />
-    <meta name="description" content="Ship a car overseas with quality, affordability and convenience. Call +1-833-233-4447 now for RAS - the premier provider of auto shipping service to all 50 states of the USA." />
+    <meta name="description" content="Ship a car overseas with quality, affordability and convenience. Call +1 (833) 233-4447 now for RAS - the premier provider of auto shipping service to all 50 states of the USA." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="How to Ship a Car Overseas - Everything You Need to Know" />
-    <meta property="og:description" content="Ship a car overseas with quality, affordability and convenience. Call +1-833-233-4447 now for RAS - the premier provider of auto shipping service to all 50 states of the USA." />
+    <meta property="og:description" content="Ship a car overseas with quality, affordability and convenience. Call +1 (833) 233-4447 now for RAS - the premier provider of auto shipping service to all 50 states of the USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-to-ship-a-car-overseas" />
     <meta property="og:site_name" content="How to Ship a Car Overseas - Everything You Need to Know" />
     <meta name='robots' content='index' />
@@ -82,7 +82,7 @@
     <!-- -------------------------------------- -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Overseas car shipping";
+        $NAME = "Best Overseas car shipping";
         $PARAGRAPH = "</br>For a variety of reasons, some clients may choose to relocate abroad: a dream career, the possibility to pursue an overseas education, love, family, retirement, etc. It can be really stressful to relocate to another country. Moving abroad involves numerous processes, such as packing up your belongings, locating housing, and acclimating to a foreign culture. Some clients want to bring their own cars as well, adding another step to the process by setting up secure overseas car shipping.";
         include small_form;
         ?>
@@ -97,14 +97,14 @@
                     <h2>HOW TO SHIP A CAR OVERSEAS ?
                     </h2>
                     <p>
-                        Overseas auto shipping is a difficult procedure that needs careful planning and execution. If you want an overseas transfer to go smoothly, there are usually a few parties involved. In most cases, the procedure is as follows: Your car will be loaded into a truck, unloaded at a port or airport, and then loaded once more into a cargo ship or an aeroplane for the next leg of its journey. It will be put onto another truck and transported to its ultimate address after clearing customs at the port or airport when it reaches its destination country.
+                        Overseas auto shipping is a difficult procedure that needs careful planning and execution. If you want an overseas transfer to go smoothly, there are usually a few parties involved. In most cases, the procedure is as follows: Your car will be loaded into a truck, unloaded at a port or airport, and then loaded once more into a <strong><a href="<?= home_path() ?>services/heavy-hauling-large-cargo">cargo ship</a></strong> or an aeroplane for the next leg of its journey. It will be put onto another truck and transported to its ultimate address after clearing customs at the port or airport when it reaches its destination country.
                     </p>
                 </div>
                 <div class="new-blog-section-one">
                     <h2>COST TO SHIP A CAR OVERSEAS (💵)?
                     </h2>
                     <p>
-                        Of course, you want to know how much international car shipping can cost you so that you can prepare a budget. Sometimes purchasing an automobile in your new city of residence may be more cost-effective. In general, a few fundamental elements determine how much it will cost to export your car.
+                        Of course, you want to know how much <strong><a href="<?= home_path() ?>services/international-car-shipping">international car shipping</a></strong> can cost you so that you can prepare a budget. Sometimes purchasing an automobile in your new city of residence may be more cost-effective. In general, a few fundamental elements determine how much it will cost to export your car.
                     <ul>
                         <li class="list-style"> The distance between your house and the closest seaport</li>
 
@@ -127,7 +127,7 @@
                         <br><br>
                         <b> Do you intend to sell your automobile prior to the moving date? </b>Selling your car on short notice could result in a bad deal. Will you have the time and resources to go automobile shopping?
                         <br><br>
-                        <b> Cost of shipping –</b> if your car is a new model, transporting it together with your possessions can be worthwhile. The least expensive car transportation costs are around $900. The price of transporting an automobile abroad ranges from roughly $900 to $6,000, depending on a number of variables. You go up a few local car selling websites to see what the area has to offer and how much things cost.
+                        <b> Cost of shipping –</b> if your car is a new model, transporting it together with your possessions can be worthwhile. The least expensive <strong><a href="<?= home_path() ?>blogs/cost-to-ship-a-car">car transportation costs</a></strong> are around $900. The price of transporting an automobile abroad ranges from roughly $900 to $6,000, depending on a number of variables. You go up a few local car selling websites to see what the area has to offer and how much things cost.
                         If this is not a permanent move, do you have a place where you can store your car while you are away? Is it affordable to temporarily park your automobile where you live? Additionally, it can be worth it to let a trustworthy friend or family member look after your automobile until you return if they are able to.
                     </p>
                     <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673591711/Recent%20Uploads/giving-key.jpg" alt="Overseas auto transport">
@@ -179,7 +179,7 @@
                 </div>
                 <div class="third-mexico-blog-grid-1-content-row grid-center">
                     <p>For shipping cost</p>
-                    <a href="tel:+1-833-233-4447"><button class="number">
+                    <a href="tel:+1 (833) 233-4447"><button class="number">
                             Contact Us
                         </button></a>
                 </div>
@@ -198,7 +198,7 @@
                 </div>
                 <div class="third-mexico-blog-grid-1-content-row grid-center">
                     <p>For shipping cost</p>
-                    <a href="tel:+1-833-233-4447"><button class="number">
+                    <a href="tel:+1 (833) 233-4447"><button class="number">
                             Contact Us
                         </button></a>
                 </div>
