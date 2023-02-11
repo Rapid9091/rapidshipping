@@ -99,7 +99,7 @@
                 <h3 id="Mest_company_while_shipping_massachusetts">Why we are best in Massachusetts auto transport company ?</h3>
                 <br>
                 <p>
-                    <b><a href="<?= home_path() ?>">Rapid Auto Shipping</a></b> is a massachusetts Car Shipping Company that values all of its customers equally. We help customers transport their vehicles on time and at a fair rate.We fully insure their vehicles and transport them without harm from door to door. You may rest easy knowing that if your vehicle is damaged while being transported, you will be paid. We've got you covered; our insurance company will take care of the claim efficiently. We bonded and licensed a business that all customers may rely on. Customers can book their transportation without paying a deposit. In addition, we give trusted carriers to our customers so that they can have the best possible transportation experience. finest possible transportation experience with Massachusetts Car transport Companies.
+                Rapid Auto Shipping is a massachusetts Car Shipping Company that values all of its customers equally. We help customers transport their vehicles on time and at a fair rate.We fully insure their vehicles and transport them without harm from door to door. You may rest easy knowing that if your vehicle is damaged while being transported, you will be paid. We've got you covered; our insurance company will take care of the claim efficiently. We bonded and licensed a business that all customers may rely on. Customers can book their transportation without paying a deposit. In addition, we give trusted carriers to our customers so that they can have the best possible transportation experience. finest possible transportation experience with Massachusetts Car transport Companies.
                 </p>
             </div>
             <div class="first-california-state-grid-box">
@@ -267,7 +267,7 @@
             <span class="california-state-span"> Discounts </span>while Auto Transport in Massachusetts
         </h2>
         <p class="text">
-            At <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b>Rapid Auto Shipping</b></span> </a> we try to give you the most affordable prices for your Massachusetts Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
+            At Rapid Auto Shipping we try to give you the most affordable prices for your Massachusetts Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>
@@ -285,7 +285,7 @@
                 How to get the best <span class="california-state-span"> quote </span>for your shipping
             </h2>
             <p class="text">
-                <b><a href="<?= home_path() ?>">Rapid Auto Shipping</a></b> is best in <b>Massachusetts Car Shipping</b> and will make shipping your car to or from Massachusetts as simple as possible. Rapid Auto Shipping is a <b>Massachusetts Auto Transport</b> that specializes in car shipping to and from Massachusetts as well as other locations in the United States. Within seconds, we will supply you with an accurate quote for the shipping of your vehicle. All you have to do is fill out our simple online form and you'll receive a free, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent; you will not be placed on hold, and we will help you with everything. So, don't waste any more time and fill out our form to get a free quote, or give us a call and we'll take care of it for you; either way, dealing with Rapid Auto Shipping is a win-win situation. Always Affordable denotes that everything is done on time and on budget.
+            Rapid Auto Shipping is best in <b>Massachusetts Car Shipping</b> and will make shipping your car to or from Massachusetts as simple as possible. Rapid Auto Shipping is a <b>Massachusetts Auto Transport</b> that specializes in car shipping to and from Massachusetts as well as other locations in the United States. Within seconds, we will supply you with an accurate quote for the shipping of your vehicle. All you have to do is fill out our simple online form and you'll receive a free, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent; you will not be placed on hold, and we will help you with everything. So, don't waste any more time and fill out our form to get a free quote, or give us a call and we'll take care of it for you; either way, dealing with Rapid Auto Shipping is a win-win situation. Always Affordable denotes that everything is done on time and on budget.
             </p>
             <div class="five-california-state-box-btn utility_grid-center">
                 <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>

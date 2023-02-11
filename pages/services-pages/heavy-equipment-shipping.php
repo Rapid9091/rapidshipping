@@ -154,7 +154,7 @@
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666432435/Recent%20Uploads/exotic-car-min_jbuf4y.jpg" alt="Best auto transport USA">
 
                     <p>
-                        <strong><a href="<?= home_path() ?>">Rapid Auto Shipping</a></strong> has over a decade of experience in the lowboy auto transport sector and can pick up, ship, and deliver your vehicles and equipment safely, securely, and quickly.
+                    Rapid Auto Shipping has over a decade of experience in the lowboy auto transport sector and can pick up, ship, and deliver your vehicles and equipment safely, securely, and quickly.
 
                         Our mission is to deliver the best service possible at the most affordable lowboy vehicle transport charges.
                     </p>

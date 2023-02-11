@@ -109,7 +109,7 @@
                 <h3 id="best_company_while_shipping_alaska">Why we are best in Alaska auto transport company ?</h3>
                 <br>
                 <p class="text">
-                    <a href="<?= home_path(); ?>"><b> Rapid Auto Shipping </b></a>
+                Rapid Auto Shipping
                     treats every customer equally with respect. We help them to transport their vehicles on time without any hustle at affordable rates. We provide full insurance to their cars and deliver them from <b><a href="<?= home_path(); ?>services/door-to-door">door to door</a></b> with no damage. You can have peace of mind knowing that in the unlikely event your car suffers damage during <b>Alaska car shipping</b>. We've got you covered; our insurance will take care of the claim fast and efficiently. We bonded and licensed a company that every customer trusts. We offer customers to schedule their transportation without any deposit. Moreover, we provide trustworthy carriers to the customers so they can have the best experience of transportation.
 
                 </p>
@@ -225,11 +225,11 @@
             <span class="california-state-span"> Discounts </span>while Alaska Auto Transport
         </h2>
         <p class="text">
-            At <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b>Rapid Auto Shipping</b></span> </a> we try to give you the most affordable prices for your Alaska Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time</p>
+            At Rapid Auto Shipping we try to give you the most affordable prices for your Alaska Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time</p>
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>
-        <p class="text"> <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b> Rapid Auto Shipping</b></span> </a> offers some special discounts to their valued customers to seniors and students who wish to transport their cars throughout the <a target="_blank" href="https://www.defense.gov/About/our-forces/#:~:text=The%20Army%2C%20Marine%20Corps%2C%20Navy,in%20part%20under%20state%20authority." title="US defence"><b>U.S. Military</b></a> members can also take the benefits of these discounts. But those customers who do not relate to these categories can take our seasonal offers. Save your time, energy, and especially money by working with us.
+        <p class="text"> Rapid Auto Shipping offers some special discounts to their valued customers to seniors and students who wish to transport their cars throughout the <a target="_blank" href="https://www.defense.gov/About/our-forces/#:~:text=The%20Army%2C%20Marine%20Corps%2C%20Navy,in%20part%20under%20state%20authority." title="US defence"><b>U.S. Military</b></a> members can also take the benefits of these discounts. But those customers who do not relate to these categories can take our seasonal offers. Save your time, energy, and especially money by working with us.
         </p>
     </section>
     <!-- ----------------------------- -->
@@ -242,7 +242,7 @@
                 How to get the best <span class="california-state-span"> quote </span>for your shipping
             </h2>
             <p class="text">
-                If you want to car shipping Alaska, <a href="<?= home_path(); ?>"><b> Rapid Auto Shipping </b></a> will help you to make it easier. Rapid Auto Shipping is a company that specializes in car shipping Alaska and other parts of the United States. We will provide an appropriate quote for the shipment of your vehicle within a few seconds.
+                If you want to car shipping Alaska, Rapid Auto Shipping will help you to make it easier. Rapid Auto Shipping is a company that specializes in car shipping Alaska and other parts of the United States. We will provide an appropriate quote for the shipment of your vehicle within a few seconds.
                 All you have to do is fill out our free online form and you'll get a free quote, without any hassle in Alaska <b><a href="<?= home_path() ?>services/car-transport-quotes">auto transport quote</a></b> immediately with just a few clicks. If you have any questions, please contact us and you will be connected to a real, knowledgeable agent; there will be no waiting on hold, and we will assist you with everything. So don't waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always <a href="<?= home_path() ?>blogs/cheapest-way-to-ship-a-car"><b>Affordable means</b></a>
                 exactly that: on time and on budget. </p>
             <div class="five-california-state-box-btn utility_grid-center">

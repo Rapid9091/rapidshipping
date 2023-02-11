@@ -185,6 +185,23 @@
                 </div>
             </div>
             <div class="third-mexico-blog-grid-1">
+                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676116468/Recent%20Uploads/air-fright_nyieq2.jpg" alt="auto shipping mexico">
+                <div class="third-mexico-blog-grid-1-content">
+                    <h3 class="sub-heading">
+                    BY AIR FREIGHT
+                    </h3>
+                    <p class="text">
+                    The primary operational goal of Rapid Auto Shipping Airfreight Division is offering you a way to take advantage of the greatest air freighting possibilities and services. Our global air freight shipping service provides the quickest way of transporting your vehicles or household products.
+                    </p>
+                </div>
+                <div class="third-mexico-blog-grid-1-content-row grid-center">
+                    <p>For shipping cost</p>
+                    <a href="tel:+1 (833) 233-4447"><button class="number">
+                            Contact Us
+                        </button></a>
+                </div>
+            </div>
+            <div class="third-mexico-blog-grid-1">
                 <img src="<?= get_img() ?>background-bg-2.jpg" alt="auto shipping mexico">
                 <div class="third-mexico-blog-grid-1-content">
                     <h3 class="sub-heading">
@@ -203,23 +220,7 @@
                         </button></a>
                 </div>
             </div>
-            <div class="third-mexico-blog-grid-1">
-                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676116468/Recent%20Uploads/air-fright_nyieq2.jpg" alt="auto shipping mexico">
-                <div class="third-mexico-blog-grid-1-content">
-                    <h3 class="sub-heading">
-                    BY AIR FREIGHT
-                    </h3>
-                    <p class="text">
-                    The primary operational goal of Rapid Auto Shipping Airfreight Division is offering you a way to take advantage of the greatest air freighting possibilities and services. Our global air freight shipping service provides the quickest way of transporting your vehicles or household products.
-                    </p>
-                </div>
-                <div class="third-mexico-blog-grid-1-content-row grid-center">
-                    <p>For shipping cost</p>
-                    <a href="tel:+1 (833) 233-4447"><button class="number">
-                            Contact Us
-                        </button></a>
-                </div>
-            </div>
+            
 
         </div>
     </section>
@@ -261,13 +262,13 @@
             <div class="why-choose-us-grid-box">
                 <h4 class="sub-heading">We are Country wide</h4>
                 <p class="text">
-                    We build partnerships that are open and honest.With our employees, customers, drivers, and other business partners, we strive for relationships built on honesty, perseverance, mutual trust, and integrity.Our words, behaviours, decisions, and actions all come together to form a unified whole. We don't make promises we won't be able to keep.It's crucial to keep track of commitments at <a href="<?= home_path() ?>" style="color:var(--nav-color);">Rapid Auto Shipping</a>. It all comes down to the fundamentals of business. If you say you'll do something, follow through.
+                    We build partnerships that are open and honest.With our employees, customers, drivers, and other business partners, we strive for relationships built on honesty, perseverance, mutual trust, and integrity.Our words, behaviours, decisions, and actions all come together to form a unified whole. We don't make promises we won't be able to keep.It's crucial to keep track of commitments at Rapid Auto Shipping. It all comes down to the fundamentals of business. If you say you'll do something, follow through.
                 </p>
             </div>
             <div class="why-choose-us-grid-box">
                 <h4 class="sub-heading">We are reliable</h4>
                 <p class="text">
-                    When you adore your vehicle, getting behind the wheel and hitting the open road is the finest way to get it from point A to point B. When you can't see your vehicle until it arrives at its destination, you'll need a dependable transportation firm to deliver it safely and swiftly. We at <a href="<?= home_path() ?>" style="color:var(--nav-color);">Rapid Auto Shipping</a> has given great auto transport solutions to hundreds of thousands of consumers, and our 99+ percent customer satisfaction rate reflects our dedication to providing top-notch service.affecting or extending throughout all parts of a <a href="<?= get_state() ?>" style="color:var(--nav-color);"> States </a>
+                    When you adore your vehicle, getting behind the wheel and hitting the open road is the finest way to get it from point A to point B. When you can't see your vehicle until it arrives at its destination, you'll need a dependable transportation firm to deliver it safely and swiftly. We at Rapid Auto Shipping has given great auto transport solutions to hundreds of thousands of consumers, and our 99+ percent customer satisfaction rate reflects our dedication to providing top-notch service.affecting or extending throughout all parts of a  States
                 </p>
             </div>
         </div>
