@@ -71,7 +71,7 @@
     <!-- new section under the first section of single line -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Trust Us With Your Enclosed Car Shipping Needs Today!";
+        $NAME = "Enclosed Auto Transport";
         $PARAGRAPH = "One of the many alternatives for transporting autos across the country is enclosed auto shipment. Enclosed auto transporters use a covered, enclosed transport trailer to carry cars safely and securely. In contrast, open auto transport is loading vehicles onto a trailer that is open to the elements. Enclosed trailers protect vehicles from the elements. The majority of open trailers have the capacity to haul ten cars at once. Enclosed automobile transport trucks, on the other hand, transport two to six vehicles at once, sometimes in just one deck. On the other hand, open trailers transport ten cars on two racks stacked one on top of the other.";
         include small_form;
         ?>
@@ -224,7 +224,7 @@
                         <br>
                         Enclosed transport services are typically recommended for anyone with a valuable vehicle. Vehicles lose value over time, beginning when you drive them off the lot — even if they're brand new! In fact, new vehicles can lose up to 50% of their value in the first two years of ownership.
                         <br>
-                        This is why we don't advocate enclosed shipping for any car that is used on a daily basis. A <a style="color:var(--nav-color);" href="https://www.toyota.com/prius/" target="_blank" rel="nofollow" title="More about toyota Prius"><b>Toyota Prius</b></a> or a <a style="color:var(--nav-color);" href="https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/shopping-tools/download-catalog/02-pdf/2018-chevrolet-impala-catalog.pdf" title="More Ipala's" target="_blank" rel="nofollow"><b>Chevrolet Impala</b></a> don't need an enclosed truck because they'll be exposed to about the same level of risk in an open truck as you would while driving it personally.
+                        This is why we don't advocate enclosed shipping for any car that is used on a daily basis. A Toyota Prius or a Chevrolet Impala don't need an enclosed truck because they'll be exposed to about the same level of risk in an open truck as you would while driving it personally.
                         <br>
                         An enclosed truck, on the other hand, mitigates much of that risk, making it ideal for vehicles that aren't driven every day.
                         <br>

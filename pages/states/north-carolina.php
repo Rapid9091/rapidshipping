@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Car Shipping Services North Carolina | Auto transport Company</title>
-    <meta name="Car Shipping Services North Carolina | Auto transport Company" />
-    <meta name="description" content="Need Car Shipping service in North Carolina, you need an experienced North Carolina auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <title>Fast & Reliable Auto Shipping Services in North Carolina</title>
+    <meta name="title" content="Fast & Reliable Auto Shipping Services in North Carolina" />
+    <meta name="description" content="At Auto Shipping NC, we provide fast, secure and affordable car transport services to our clients. Get a free quote today and have your car shipped safely and on time." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Affordable shipping North Carolina | Rapid Auto Shipping" />
-    <meta property="og:description" content="Rapid Auto Shipping is in top most affordable in shipping North Carolina. We are best Auto transport companies North Carolina." />
+    <meta property="og:title" content="Fast & Reliable Auto Shipping Services in North Carolina" />
+    <meta property="og:description" content="At Auto Shipping NC, we provide fast, secure and affordable car transport services to our clients. Get a free quote today and have your car shipped safely and on time." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/north-carolina" />
-    <meta property="og:site_name" content="Auto Transport North Carolina - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Fast & Reliable Auto Shipping Services in North Carolina" />
     <meta name='robots' content='index' />
 
     <meta name="keywords" content="car shipping companies north carolina, auto transport companies in nc, auto transport companies north carolina, auto transport north carolina, north carolina auto transport, north carolina car transport, shipping north carolina, carolina transport" />
@@ -45,12 +45,16 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
-            background-image: url('<?= get_img() ?>north-carolina-state-bg-1.jpg');
+            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666181429/Exotic_Car_Shipping-min_tdvjxf.jpg');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
+        }
+
+        .third-section-state {
+            background-color: rgb(0, 0, 0, 0.8);
         }
     </style>
 </head>
@@ -60,8 +64,8 @@
     <div class="contact-us-header-page">
 
         <?php
-        $NAME = "Auto Transport North Carolina";
-        $PARAGRAPH = "North Carolina is a state in the United States of America. The state is the 28th biggest in the country, with a population of 9 million people. It is bordered on the north by Virginia, on the east by the Atlantic Ocean, on the south by Georgia and South Carolina, and on the west by Tennessee. The state capital is Raleigh, while Charlotte is the biggest city.";
+        $NAME = "Auto Shipping North Carolina";
+        $PARAGRAPH = "Do you require a car shipping from North Carolina to another state? Are you seeking the best vehicle shipping company in North Carolina? And reasonable prices? Rapid Auto Shipping can transport your vehicle to or from North Carolina or any place in the United States. Our trained professional vehicle carriers provide open and enclosed auto shipping services to and from North Carolina. Find out how much it will cost to ship a car to or from North Carolina using our free and easy-to-use auto shipping calculator, and receive a quote in under two minutes.";
         include small_form;
         ?>
     </div>
@@ -75,14 +79,14 @@
         <div class="first-california-state-grid utility_grid">
             <div class="first-california-state-grid " id="description_while_shipping_North Carolina">
                 <p class="text">
-                    The state of <a href="https://en.wikipedia.org/wiki/North_Carolina"><span class="california-state-span"><b>North Carolina</b></span></a> is in the United States of America. The state has a population of 9 million people and is the 28th largest in the country. Virginia borders it on the north, the Atlantic Ocean on the east, Georgia and South Carolina on the south, and Tennessee on the west. Raleigh is the state capital, and Charlotte is the largest metropolis. The Charlotte metropolitan area, with a population of 2,569,213 people in 2018, is the most populous in North Carolina, the 23rd most populous in the United States, and the country's second-largest financial hub after New York City. With an anticipated population of 2,079,687 in 2019, the Raleigh-Durham-Cary combined statistical area is the state's second-biggest metropolitan region, and it is home to Research Triangle Park, the country's largest research park. Auto transport services in <a href="https://www.nc.gov/"><span class="california-state-span"><b>North Carolina</b></span></a> are rather easy to get by.
-                    <br><br> There are several significant cities in the state, all of which are popular with vehicle shipping businesses. Many airlines are willing to fly to places including Raleigh, Charlotte, Winston-Salem, and Greensboro, among others. When you consider the convenience of access, this tends to make costs cheaper and more cost-effective. Continue reading to discover more about auto transport services in North Carolina and what to expect when shipping to or from the state.
+                    The state of North Carolina is in the United States of America. The state has a population of 9 million people and is the 28th largest in the country. Virginia borders it on the north, the Atlantic Ocean on the east, Georgia and South Carolina on the south, and Tennessee on the west. Raleigh is the state capital, and Charlotte is the largest metropolis. The Charlotte metropolitan area, with a population of 2,569,213 people in 2018, is the most populous in North Carolina, the 23rd most populous in the United States, and the country's second-largest financial hub after New York City. With an anticipated population of 2,079,687 in 2019, the Raleigh-Durham-Cary combined statistical area is the state's second-biggest metropolitan region, and it is home to Research Triangle Park, the country's largest research park. Auto transport services in <a target="_blank" rel="nofollow" href="https://www.nc.gov/"><b>North Carolina</b></a> are rather easy to get by.
+
                 </p>
                 <br>
-                <h3 id="best_company_while_shipping_North Carolina">Why we are best in North Carolina auto transport company ?</h3>
+                <h3 class="utility_main-heading" style="font-size:25px;" id="best_company_while_shipping_North Carolina">Why we are best in <span class="california-state-span">North Carolina</span> auto transport company ?</h3>
                 <br>
                 <p>
-                    <b><a href="https://rapidautoshipping.com/">Rapid Auto Shipping</a></b> is a North Carolina Car Shipping Company that values all of its customers equally and provides best Car Shipping Services In North Carolina. We assist customers in transporting their autos on schedule and at a reasonable cost. We fully insure their vehicles and transport them without harm from door to door. You may rest easy knowing that in the unlikely event that your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance company will handle the claim quickly and effectively. We bonded and licensed a business that all customers may rely on. Customers can book their transportation without paying a deposit. Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience with Car Transport companies in North Carolina.
+                    Rapid Auto Shipping is a North Carolina Car Shipping Company that values all of its customers equally and provides best Car Shipping Services In North Carolina. We assist customers in transporting their autos on schedule and at a reasonable cost. We fully insure their vehicles and transport them without harm from <strong><a href="<?= home_path() ?>services/door-to-door">door to door</a></strong>. You may rest easy knowing that in the unlikely event that your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance company will handle the claim quickly and effectively. We bonded and licensed a business that all customers may rely on. Customers can book their transportation without paying a deposit. Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience with <strong><a href="<?= home_path() ?>services/car-transport">Car Transport</a></strong> companies in North Carolina.
                 </p>
             </div>
             <div class="first-california-state-grid-box">
@@ -120,53 +124,53 @@
         <ul class="utility_grid">
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="Car shipping services North Carolina" href="https://www.nps.gov/blri/index.htm" style="color:black;">Blue Ridge Parkway</a>
+                </ion-icon><br> <a target="_blank" title="Car shipping services North Carolina" href="#" style="color:black;">Blue Ridge Parkway</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="Auto transport North Carolina" href="https://www.biltmore.com/" style="color:black;">The Biltmore Estate</a>
+                </ion-icon><br> <a target="_blank" title="Auto transport North Carolina" href="#" style="color:black;">The Biltmore Estate</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina Car shipping services" href="https://www.outerbanks.org/plan-your-trip/beaches/" style="color:black;">Beaches of the Outer Banks</a>
+                </ion-icon><br> <a target="_blank" title="North Carolina Car shipping services" href="#" style="color:black;">Beaches of the Outer Banks</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina Car shipping services" href="https://www.nps.gov/blri/planyourvisit/linville-falls-trails.htm" style="color:black;">Linville Gorge and Falls</a>
+                </ion-icon><br> <a target="_blank" title="North Carolina Car shipping services" href="#" style="color:black;">Linville Gorge and Falls</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br><a target="_blank" title="Car shipping services in North Carolina" href="https://www.battleshipnc.com/" style="color:black;">Battleship North Carolina</a>
+                </ion-icon><br><a target="_blank" title="Car shipping services in North Carolina" href="#" style="color:black;">Battleship North Carolina</a>
             </li>
 
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="https://naturalsciences.org/" style="color:black;">North Carolina Museum of Natural Sciences</a>
+                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="#" style="color:black;">North Carolina Museum of Natural Sciences</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="https://www.ncdcr.gov/about/nature/every-day-we-care/north-carolina-aquariums" style="color:black;">North Carolina Aquarium
+                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="#" style="color:black;">North Carolina Aquarium
                 </a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="https://www.nps.gov/caha/index.htm" style="color:black;">Cape Hatteras</a>
+                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="#" style="color:black;">Cape Hatteras</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="https://www.ncparks.gov/state-parks/chimney-rock-state-park" style="color:black;">Chimney Rock State Park</a>
+                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="#" style="color:black;">Chimney Rock State Park</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="https://www.ncparks.gov/state-parks/grandfather-mountain-state-park" style="color:black;">Grandfather Mountain</a>
+                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="#" style="color:black;">Grandfather Mountain</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="https://www.nps.gov/wrbr/index.htm" style="color:black;">Wright Brothers National Memorial</a>
+                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="#" style="color:black;">Wright Brothers National Memorial</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="https://www.discoveryplace.org/" style="color:black;">Discovery Place</a>
+                </ion-icon><br> <a target="_blank" title="North Carolina auto transport company" href="#" style="color:black;">Discovery Place</a>
             </li>
 
         </ul>
@@ -204,9 +208,9 @@
             <div class="third-california-state-grid-1">
                 <ion-icon name="card-sharp"></ion-icon>
                 <h3 class="sub-heading">How to get price ?</h3>
-                <p class="text">To get the instant cost from best North Carolina Auto Transport company you can directly contact us at <a href="tel:-833-233-4447" title="Call Now For Auto Transport USA"><span class="california-state-span">:+1-833-233-4447</span> </a> our executives will make sure that you will get the best quote and most of the discounts for your shipping .</p>
+                <p class="text">To get the instant cost from best North Carolina Auto Transport company you can directly contact us at <a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">+1 (833) 233-4447 </a> our executives will make sure that you will get the best quote and most of the discounts for your shipping .</p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
             <div class="third-california-state-grid-1">
@@ -214,7 +218,7 @@
                 <h3 class="sub-heading">24 * 7 customer support</h3>
                 <p class="text">Our team of professionals at best North Carolina Auto Transport company work around the clock, 365 days a year, to ensure our car shipping service runs like clockwork. and provide you Assisstance 24*7.</p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
             <div class="third-california-state-grid-1">
@@ -224,7 +228,7 @@
                     Everyone’s needs are different, which is why we offer fully customizable North Carolina Car shipping services. Our dedicated shipping advisors work with you to provide best service.
                 </p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
         </div>
@@ -238,7 +242,7 @@
             <span class="california-state-span"> Discounts </span>while Auto Transport in North Carolina
         </h2>
         <p class="text">
-            At <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b>Rapid Auto Shipping</b></span> </a> we try to give you the most affordable prices for your North Carolina Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
+            At Rapid Auto Shipping we try to give you the most affordable prices for your North Carolina Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>
@@ -256,11 +260,11 @@
                 How to get the best <span class="california-state-span"> quote </span>for your shipping
             </h2>
             <p class="text">
-                <b><a href="<?= home_path() ?>">Rapid Auto Shipping</a></b> is best in North Carolina Car Shipping and will make shipping your car to or from North Carolina as simple as possible. Rapid Auto Shipping is a North Carolina Car Shipping that specializes in Car Transport Companies In North Carolina in car shipping to and from North Carolina as well as other locations in the United States. Within seconds, we will supply you with an accurate quote for the shipping of your vehicle. All you have to do is fill out our simple online form and you'll receive a free, no-obligation auto Carolina transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent; you will not be placed on hold, and we will help you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that: on time and on budget.
+                Rapid Auto Shipping is best in North Carolina Car Shipping and will make shipping your car to or from North Carolina as simple as possible. Rapid Auto Shipping is a North Carolina Car Shipping that specializes in Car Transport Companies In North Carolina in car shipping to and from North Carolina as well as other locations in the United States. Within seconds, we will supply you with an accurate quote for the shipping of your vehicle. All you have to do is fill out our simple online form and you'll receive a free, no-obligation auto Carolina transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent; you will not be placed on hold, and we will help you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that: on time and on budget.
 
             </p>
             <div class="five-california-state-box-btn utility_grid-center">
-                <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
+                <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
             </div>
         </div>
     </section>
@@ -332,7 +336,7 @@
     <section class="ten-percent-offer-box utility_flex">
         <h2>Ship now and get <span> 10% off</span></h2>
         <p class="text">At Rapid Auto Shipping we provide affordable prices,on-time delivery, 24*7 services, ship tracking feature and hassle free services.</p>
-        <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA"> Contact Us</a></button>
+        <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA"> Contact Us</a></button>
     </section>
 
     <!-- ----------------------------- -->
