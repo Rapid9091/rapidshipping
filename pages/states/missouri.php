@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Car Shipping Services | +1-833-233-4447 | Missouri Auto Transport Company</title>
-    <meta name="Car Shipping Services | +1-833-233-4447 | Missouri Auto Transport Company" />
-    <meta name="description" content="Need Car Shipping service in Missouri, you need an experienced Missouri auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <title>Safe, Secure Enclosed Auto Transport Company in Missouri</title>
+    <meta name="title" content="Safe, Secure Enclosed Auto Transport Company in Missouri" />
+    <meta name="description" content="Get your vehicle safely transported with Rapid Auto Shipping. Our experienced team of professionals will pick up and deliver your vehicle to its destination with utmost care. Contact us today" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Car Shipping Services | +1-833-233-4447 | Missouri Auto Transport Company" />
-    <meta property="og:description" content="Rapid Auto Shipping is most dependable and professional in car transport companies in Missouri. We offer services at a reasonable cost!" />
+    <meta property="og:title" content="Safe, Secure Enclosed Auto Transport Company in Missouri" />
+    <meta property="og:description" content="Get your vehicle safely transported with Rapid Auto Shipping. Our experienced team of professionals will pick up and deliver your vehicle to its destination with utmost care. Contact us today" />
     <meta property="og:url" content="https://rapidautoshipping.com/states/missouri" />
-    <meta property="og:site_name" content="Auto Transport Missouri - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Safe, Secure Enclosed Auto Transport Company in Missouri" />
     <meta name='robots' content='index' />
 
     <meta name="keywords" content="enclosed auto transport mo, car transporters missouri, car transport companies in missouri, auto transport in missouri, vehicle transport mo, missouri auto transport, how much to ship a car from california to missouri, how much is it to register a car in missouri, cost of vehicle inspection in missouri, registering car in mo, what is needed to register a car in missouri, transfer title from ohio to missouri, cost to register a car in missouri, registering a car in missouri, transfer plates in missouri, license plate renewal columbia mo, shipping services mo, vehicle inspection st robert mo, missouri vehicle inspection near me, how long is missouri inspection good for, how to register a car in missouri, how much are tags for a car in missouri" />
@@ -57,12 +57,16 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
-            background-image: url('<?= get_img() ?>missouri-state-bg-1.png');
+            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831374/RapidAutoShipping/transports_enclosed-1_h4kicx.png');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
+        }
+
+        .third-section-state {
+            background-color: rgb(0, 0, 0, 0.8);
         }
     </style>
 </head>
@@ -73,7 +77,7 @@
 
         <?php
         $NAME = "Auto Transport Company in Missouri";
-        $PARAGRAPH = "Missouri is the 19th most populous state in the United States, with a population of roughly six million people. It is located in the Midwest. Iowa, Illinois, Kentucky, and Tennessee border it on the north; Illinois, Kentucky, and Tennessee border it on the east; Arkansas borders it on the south; and Oklahoma, Kansas, and Nebraska border it on the west. The Ozarks, a wooded highland in the south, has it all: timber, minerals, and leisure.";
+        $PARAGRAPH = "You don't need to go very far to find the best auto shipping company to transfer your automobile to Missouri. Customers in Missouri trust Rapid Vehicle Shipment as their go-to source for car shipping and auto transport. We recommend enclosed transportation solutions when transporting historic, premium, or exotic cars. Our team of vehicle shipping specialists offers customers the best service in the market. Every team member will treat you and your vehicle with the utmost respect and honesty, starting with open quotations and pricing and continuing through the transfer.";
         include small_form;
         ?>
     </div>
@@ -87,16 +91,16 @@
         <div class="first-california-state-grid utility_grid">
             <div class="first-california-state-grid " id="description_while_shipping_missouri">
                 <p class="text">
-                    <a href="https://www.mo.gov/"><span class="california-state-span">Missouri</span></a> is a state in the United States' Midwestern area with the population of about six million, It is the country's 19th most populous state. It is bordered on the north by Iowa, Illinois, Kentucky, and Tennessee, on the east by Illinois, Kentucky, and Tennessee, on the south by Arkansas, and on the west by Oklahoma, Kansas, and Nebraska. Timber, minerals, and recreation are all available in the Ozarks, a forested upland in the south. The Missouri River, after which the state is named, runs through the heart of the state before emptying into the Mississippi River, which forms the state's eastern boundary. St. Louis and Kansas City are the state's two major cities. This is fantastic news if you're shipping to or from one of them, as they're Missouri's two most popular shipping destinations. There are various causes for this. For starters, they're densely populated, and densely populated locations typically have higher demand for auto transportation services. In addition, they are both located along I-70, a major interstate roadway.
+                    Missouri is a state in the United States' Midwestern area with the population of about six million, It is the country's 19th most populous state. It is bordered on the north by Iowa, Illinois, Kentucky, and Tennessee, on the east by Illinois, Kentucky, and Tennessee, on the south by Arkansas, and on the west by Oklahoma, Kansas, and Nebraska. Timber, minerals, and recreation are all available in the Ozarks, a forested upland in the south. The Missouri River, after which the state is named, runs through the heart of the state before emptying into the Mississippi River, which forms the state's eastern boundary. St. Louis and Kansas City are the state's two major cities. This is fantastic news if you're shipping to or from one of them, as they're Missouri's two most popular shipping destinations. There are various causes for this. For starters, they're densely populated, and densely populated locations typically have higher demand for auto transportation services. In addition, they are both located along I-70, a major interstate roadway.
                 </p>
                 <br>
                 <h3 id="best_company_while_shipping_missouri">Why we are best in Missouri auto transport company ?</h3>
                 <br>
                 <p>
-                    <b><a href="https://rapidautoshipping.com/">Rapid Auto Shipping</a></b> is a <a href="https://www.visitmo.com/"><span class="california-state-span">Missouri</span></a> Car Shipping Company that values all of its customers equally and provides best Shipping Services In Missouri. We assist customers in transporting their autos on schedule and at a reasonable cost. We fully insure their vehicles and transport them without harm from door to door. You may rest easy knowing that in the unlikely event that your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance company will handle the claim quickly and effectively. We bonded and licensed a business that all customers may rely on. Customers can book their transportation without paying a deposit. Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience with Car Transporters In Missouri.
+                    Rapid Auto Shipping is a <a target="_blank" rel="nofollow" href="https://www.visitmo.com/">Missouri</a> <strong><a href="<?= home_path() ?>services/car-shipping-companies">Car Shipping Company</a></strong> that values all of its customers equally and provides best Shipping Services In Missouri. We assist customers in transporting their autos on schedule and at a reasonable cost. We fully insure their vehicles and transport them without harm from <strong><a href="<?= home_path() ?>services/door-to-door">door to door</a></strong>. You may rest easy knowing that in the unlikely event that your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance company will handle the claim quickly and effectively. We bonded and licensed a business that all customers may rely on. Customers can book their transportation without paying a deposit. Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience with Car Transporters In Missouri.
                 </p>
             </div>
-            <div class="first-california-state-grid-box">
+            <div class=" first-california-state-grid-box">
                 <h3 class="utility_sub-heading">FAQ's while <span class="california-state-span"> Missouri</span> Auto Transport </h3>
                 <ul>
                     <li><a title="Cost for Missouri Auto Transport company" href="#required_cost_while_shipping_missouri">How to get the best shipping cost for Missouri Auto Transportation Services ?</a></li>
@@ -188,17 +192,17 @@
             <div class="third-california-state-grid-1">
                 <ion-icon name="card-sharp"></ion-icon>
                 <h3 class="sub-heading">How to get price ?</h3>
-                <p class="text">To get the instant cost from best <a href="https://www.mo.gov/"><span class="california-state-span">Missouri</span></a>Auto Transport company you can directly contact us at <a href="tel:-833-233-4447" title="Call Now For Auto Transport USA"><span class="california-state-span">:+1-833-233-4447</span> </a> our executives will make sure that you will get the best quote and most of the discounts for your shipping .</p>
+                <p class="text">To get the instant cost from best Missouri Auto Transport company you can directly contact us at <a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA"><span class="california-state-span">:+1 (833) 233-4447</span> </a> our executives will make sure that you will get the best quote and most of the discounts for your shipping .</p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
             <div class="third-california-state-grid-1">
                 <ion-icon name="timer-sharp"></ion-icon>
                 <h3 class="sub-heading">24 * 7 customer support</h3>
-                <p class="text">Our team of professionals at best <a href="https://www.mo.gov/"><span class="california-state-span">Missouri</span></a>Auto Transport company work around the clock, 365 days a year, to ensure our car shipping service runs like clockwork. and provide you Assisstance 24*7.</p>
+                <p class="text">Our team of professionals at best Missouri Auto Transport company work around the clock, 365 days a year, to ensure our car shipping service runs like clockwork. and provide you Assisstance 24*7.</p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
             <div class="third-california-state-grid-1">
@@ -208,7 +212,7 @@
                     Everyone’s needs are different, which is why we offer fully customizable Missouri Car shipping services. Our dedicated shipping advisors work with you to provide best service.
                 </p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
         </div>
@@ -222,7 +226,7 @@
             <span class="california-state-span"> Discounts </span>while Auto Transport in Missouri
         </h2>
         <p class="text">
-            At <a href="<?= home_path(); ?>" title="Best Missouri Auto Transport company "><span class="california-state-span"><b>Rapid Auto Shipping</b></span> </a> we try to give you the most affordable prices for your Missouri Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
+            At Rapid Auto Shipping we try to give you the most affordable prices for your Missouri Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>
@@ -246,7 +250,7 @@
                 All you have to do is fill out our simple online form and you'll receive a free, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent; you will not be placed on hold, and we will help you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that: on time and on budget.
             </p>
             <div class="five-california-state-box-btn utility_grid-center">
-                <button><a href="tel:+1-833-233-4447" title="Auto Transport in Missouri">Get Quote Now</a></button>
+                <button><a href="tel:+1 (833) 233-4447" title="Auto Transport in Missouri">Get Quote Now</a></button>
             </div>
         </div>
     </section>
@@ -312,7 +316,7 @@
     <section class="ten-percent-offer-box utility_flex">
         <h2>Ship now and get <span> 10% off</span></h2>
         <p class="text">At Rapid Auto Shipping we provide affordable prices,on-time delivery, 24*7 services, ship tracking feature and hassle free services.</p>
-        <button><a href="tel:+1-833-233-4447" title="Car shipping services in Missouri"> Contact Us</a></button>
+        <button><a href="tel:+1 (833) 233-4447" title="Car shipping services in Missouri"> Contact Us</a></button>
     </section>
 
     <!-- ----------------------------- -->
