@@ -285,11 +285,11 @@
             <span class="california-state-span"> Discounts </span>while Auto Transport in Hawaii
         </h2>
         <p class="text">
-            At <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b>Rapid Auto Shipping</b></span> </a> we try to give you the most affordable prices for your Hawaii Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
+            At Rapid Auto Shipping we try to give you the most affordable prices for your Hawaii Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>
-        <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b> Rapid Auto Shipping</b></span> </a> offers some special discounts to their valued customers to seniors and students who wish to transport their cars throughout the <a target="_blank" href="https://www.defense.gov/About/our-forces/" title="Military auto transport Hawaii"><span class="california-state-span"><b>U.S. Military members</b></span></a> can also take the benefits of these discounts. But those customers who do not relate to these categories can take our seasonal offers. Save your time, energy, and especially money by working with us.
+        Rapid Auto Shipping offers some special discounts to their valued customers to seniors and students who wish to transport their cars throughout the <a target="_blank" href="https://www.defense.gov/About/our-forces/" title="Military auto transport Hawaii"><span class="california-state-span"><b>U.S. Military members</b></span></a> can also take the benefits of these discounts. But those customers who do not relate to these categories can take our seasonal offers. Save your time, energy, and especially money by working with us.
         </p>
     </section>
 
@@ -303,7 +303,7 @@
                 How to get the best <span class="california-state-span"> quote </span>for your shipping
             </h2>
             <p class="text">
-                If you want <b>car shipping Hawaii</b>, <b><a href="<?= home_path() ?>" title="Best auto transport company USA">Rapid Auto Shipping</a></b> will help you to make it easier. Rapid Auto Shipping is a company that specializes in car shipping to and from <a target="_blank" rel="nofollow" href="https://portal.ehawaii.gov/" title="Hawaii car shipping services "><span class="california-state-span"><b>Hawaii</b></span></a> and other parts of the United States. We will provide an appropriate quote for the shipment of your vehicle within a few seconds.
+                If you want <b>car shipping Hawaii</b>, Rapid Auto Shipping will help you to make it easier. Rapid Auto Shipping is a company that specializes in car shipping to and from <a target="_blank" rel="nofollow" href="https://portal.ehawaii.gov/" title="Hawaii car shipping services "><span class="california-state-span"><b>Hawaii</b></span></a> and other parts of the United States. We will provide an appropriate quote for the shipment of your vehicle within a few seconds.
                 All you have to do is fill out our free online form and you’ll get a free quote, without any hassle <b><a href="<?= home_path() ?>services/car-transport-quotes">auto transport quote</a></b> immediately with just a few clicks. If you have any questions, please contact us and you will be connected to a real, knowledgeable agent; there will no waiting on hold, and we will assist you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that: on time and on budget.
             </p>
             <div class="five-california-state-box-btn utility_grid-center">
