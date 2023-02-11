@@ -219,7 +219,7 @@
                         Moving can be stressful enough without having to worry about where your automobile is. Before meeting with the shipping company, make sure you know where you will drop off and pick up your vehicle; if you are aware of any obstacles that may obstruct drop-off, inform the shipping company to avoid issues.
 
                     </p>
-                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831352/RapidAutoShipping/home-picking-vehicle-1_oqlngr.png" alt="Classic car transportation">
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831352/RapidAutoShipping/home-picking-vehicle-1_oqlngr.png" rel="nofollow"> alt="Classic car transportation">
 
                     <p>
                         <br><br>

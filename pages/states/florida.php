@@ -62,7 +62,7 @@
 
         <?php
         $NAME = "Best Florida Auto Transport company";
-        $PARAGRAPH = "Despite being the 22nd largest state in terms of total area, Florida is the country's fourth most populous state. Florida is a popular vacation and winter home destination, making Florida car transportation more accessible. The Gulf of Mexico, Florida, Georgia, the Atlantic Ocean, and the Florida Straits surround it. Tallahassee is the state capital. Florida, sometimes known as the Sunshine State, places a strong emphasis on travel and tourism.";
+        $PARAGRAPH = "Transferring or moving your automobile may be a stressful and difficult logistical process. However, you can count on Rapid Auto Shipping to deliver your vehicle to Florida and back. With more than 10 years of expertise in the vehicle transport industry, Rapid Auto Shipping is much more than simply a Florida car shipping company. We've learned that when it comes to offering car shipping to and from Florida, attention to detail is crucial.";
         include small_form;
         ?>
     </div>
