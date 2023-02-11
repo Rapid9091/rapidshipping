@@ -162,7 +162,7 @@
                         <h2><span> How much is Car shipping cost from Texas to California ?
                             </span></h2>
                         <p>
-                            California and Texas are both massive states. People are frequently transporting vehicles to various regions in these two states. But, in the end, there are a few well-known locations where people park their automobiles all year. You might be curious about the ship car from Texas to California. Don't worry; math has already been done for you, so you can easily calculate overall shipping costs. The shipping pricing and projected car shipment time may fluctuate depending on different auto transport firms and the size of the auto train. The following are the approximate fees for auto transport:
+                            California and Texas are both massive states. People are frequently transporting vehicles to various regions in these two states. But, in the end, there are a few well-known locations where people park their automobiles all year. You might be curious about the <strong><a href="<?= home_path() ?>states/texas-tx">ship car from Texas</a></strong> to California. Don't worry; math has already been done for you, so you can easily calculate overall shipping costs. The shipping pricing and projected car shipment time may fluctuate depending on different auto transport firms and the size of the auto train. The following are the approximate fees for auto transport:
                             <br><br>
                         </p>
                         <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1670566890/Recent%20Uploads/car-and-walllet.webp" alt="car shipping cost from texas to california">

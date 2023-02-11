@@ -82,7 +82,7 @@
                     <br><br>
                     Commercial vehicle carrier trailers are typically double-decker, with hydraulically controlled subdivisions that allow for autonomous mobility. Car carriers are loaded by driving the automobiles onto hydraulic ramps from ramps, while flatbed tow trucks are fitted with loaders and winches to upload non-operational cars.<br> The automobiles are attached to the ramps with wheel straps and tie-down ratchets once they have been loaded.Wheel straps, tie-down ratchets, and chains are used to fasten the automobiles to the ramps once they have been loaded.
                     <br><br>
-                    Some individuals appear to believe that enclosed auto transport is considerably superior to open auto transport, or that open transport automobile shipment is extremely inexpensive and thus terrible; however, this is not always the case. Open-air transportation is far safer than most people believe, and it is a feasible alternative for practically every vehicle.
+                    Some individuals appear to believe that <strong><a href="<?= home_path() ?>services/enclosed-shipping">enclosed auto transport</a></strong> is considerably superior to open auto transport, or that open transport automobile shipment is extremely inexpensive and thus terrible; however, this is not always the case. Open-air transportation is far safer than most people believe, and it is a feasible alternative for practically every vehicle.
 
                     Vehicles are protected by the way open car transport trailers are constructed. While cars on an open carrier will be exposed to the weather, most things will be deflected away from your vehicle by the beams and bars. When your vehicle is transported across the country, it will not be subjected to the same wear and tear as when it is driven.This implies that no further kilometers will be added, tyres will not be worn down, and the chance of an accident will be greatly minimized.
 
@@ -94,7 +94,7 @@
                     What's in this article?
                 </h2>
                 <ul class="points-div-ul">
-                    <li><a href="#1">Is open auto transport a cheapest way to ship a car?</a></li>
+                    <li><a href="#1">Is open auto transport a <strong><a href="<?= home_path() ?>blogs/cheapest-way-to-ship-a-car">cheapest way to ship a car </a></strong>?</a></li>
                     <li><a href="#2">What is the distinction between open and enclosed trailers?</a></li>
                     <li><a href="#3">What is the cost of open auto transport?</a></li>
                     <li><a href="#4">What are the benefits of using an open auto carrier?</a></li>
@@ -141,7 +141,7 @@
                             <h2 class="heading-1">What Is The Cost Of <span>Open Auto Transport</span>?</h2>
                             <p class="para-2"> The cost of open car transport varies depending on your specific needs at <strong><a href="<?= home_path() ?>">Rapid Auto Shipping</a></strong>. The cost of open automobile shipment is determined by a number of factors. These factors include your car's type and model, the overall distance of your shipping, and whether or not your vehicle is in good working order.
                                 <br><br>
-                                When you're ready, our instant open car transport cost calculator can quickly provide you with open car shipping quotes. You can even keep your identity hidden! Simply provide us with some basic information about your vehicle and shipment route. You'll have exact open automobile shipping quotes to select from in a matter of seconds.
+                                When you're ready, our instant open car transport cost calculator can quickly provide you with open car shipping quotes. You can even keep your identity hidden! Simply provide us with some basic information about your vehicle and shipment route. You'll have exact open <strong><a href="<?= home_path() ?>services/car-transport-quotes">automobile shipping quotes</a></strong> to select from in a matter of seconds.
                             </p>
                         </div>
                     </li>

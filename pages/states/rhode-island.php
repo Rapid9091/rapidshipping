@@ -8,11 +8,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Auto transport Company Rhode Island | Car Shipping Services</title>
-    <meta name="title" content="Car Shipping Services | +1-833-233-4447 | Rhode Island Auto Transport Company" />
-    <meta name="description" content="Need Car Shipping service in Rhode Island, you need an experienced Rhode Island auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta name="title" content="Car Shipping Services | +1 (833) 233-4447 | Rhode Island Auto Transport Company" />
+    <meta name="description" content="Need Car Shipping service in Rhode Island, you need an experienced Rhode Island auto transport company means Rapid Auto Shipping. Call +1 (833) 233-4447 For vehicle shipping." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Car Shipping Services | +1-833-233-4447 | Rhode Island Auto Transport Company" />
-    <meta property="og:description" content="Need Car Shipping service in Rhode Island, you need an experienced Rhode Island auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta property="og:title" content="Car Shipping Services | +1 (833) 233-4447 | Rhode Island Auto Transport Company" />
+    <meta property="og:description" content="Need Car Shipping service in Rhode Island, you need an experienced Rhode Island auto transport company means Rapid Auto Shipping. Call +1 (833) 233-4447 For vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/rhode-island" />
     <meta property="og:site_name" content="Rhode Island Car Transport - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
@@ -158,16 +158,16 @@
         </h2>
         <div class="third-california-state-desc">
             <p class="text">
-                It's tough to determine the cost of transporting a vehicle. The entire cost of transportation is influenced by a number of factors. The distance between the two places, the vehicle's size, and its kind are all factors that influence the pricing. Moreover, there are other elements to consider, such as the season. If you want to ship your vehicle during the Snowbird season, for example, pricing will be higher due to high demand. Weather factors, as well as working or non-working automobiles, might affect costs. Above all, if a customer does business with a number of different companies, the price will grow to the next level. Clients should only work with one company at a time as a result.
+                It's tough to determine the <strong><a href="<?= home_path() ?>blogs/cost-to-ship-a-car">cost of transporting a vehicle</a></strong>. The entire cost of transportation is influenced by a number of factors. The distance between the two places, the vehicle's size, and its kind are all factors that influence the pricing. Moreover, there are other elements to consider, such as the season. If you want to ship your vehicle during the Snowbird season, for example, pricing will be higher due to high demand. Weather factors, as well as working or non-working automobiles, might affect costs. Above all, if a customer does business with a number of different companies, the price will grow to the next level. Clients should only work with one company at a time as a result.
             </p>
         </div>
         <div class="third-california-state-grid utility_grid utility_grid-3">
             <div class="third-california-state-grid-1">
                 <ion-icon name="card-sharp"></ion-icon>
                 <h3 class="sub-heading">How to get price ?</h3>
-                <p class="text">To get the instant cost from best Rhode Island Auto Transport company you can directly contact us at <a href="tel:-833-233-4447" title="Call Now For Auto Transport USA"><span class="california-state-span">:+1-833-233-4447</span> </a> our executives will make sure that you will get the best quote and most of the discounts for your shipping .</p>
+                <p class="text">To get the instant cost from best Rhode Island Auto Transport company you can directly contact us at <a href="tel:-833-233-4447" title="Call Now For Auto Transport USA"><span class="california-state-span">:+1 (833) 233-4447</span> </a> our executives will make sure that you will get the best quote and most of the discounts for your shipping .</p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
             <div class="third-california-state-grid-1">
@@ -175,17 +175,17 @@
                 <h3 class="sub-heading">24 * 7 customer support</h3>
                 <p class="text">Our team of professionals at best Rhode Island Auto Transport company work around the clock, 365 days a year, to ensure our car shipping service runs like clockwork. and provide you Assisstance 24*7.</p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
             <div class="third-california-state-grid-1">
                 <ion-icon name="settings-sharp"></ion-icon>
                 <h3 class="sub-heading">We provide what you need.</h3>
                 <p class="text">
-                    Everyone’s needs are different, which is why we offer fully customizable Rhode Island Car shipping services. Our dedicated shipping advisors work with you to provide best service.
+                    Everyone’s needs are different, which is why we offer fully customizable Rhode Island <strong><a href="<?= home_path() ?>services/car-shipping-services">Car shipping services</a></strong>. Our dedicated shipping advisors work with you to provide best service.
                 </p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
         </div>
@@ -217,10 +217,10 @@
                 How to get the best <span class="california-state-span"> quote </span>for your shipping
             </h2>
             <p class="text">
-                Rapid Auto Shipping is best in Car Shipping Rhode Island and will make shipping your car to or from Rhode Island as simple as possible. Rapid Auto Shipping is an Rhode Island Auto Transport that specializes in Car transport Companies in Rhode Island in car shipping to and from Rhode Island as well as other locations in the United States. In a matter of seconds, we can provide you with an accurate quote for transferring your vehicle. All you have to do is fill out our simple online form and you'll receive a free with our service, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent who will assist you with everything. You will not be placed on hold. So don't waste any time and fill out our form to get a free quote, or give us a call and we'll take care of everything; either way, dealing with Rapid Auto Shipping is a win-win situation. Our prices are always Affordable denotes that everything is done on time and on budget without any problems.
+                Rapid Auto Shipping is best in Car Shipping Rhode Island and will make shipping your car to or from Rhode Island as simple as possible. Rapid Auto Shipping is an Rhode Island Auto Transport that specializes in Car transport Companies in Rhode Island in car shipping to and from Rhode Island as well as other locations in the United States. In a matter of seconds, we can provide you with an accurate quote for transferring your vehicle. All you have to do is fill out our simple online form and you'll receive a free with our service, no-obligation <strong><a href="<?= home_path() ?>services/car-transport-quotes">auto transport quote</a></strong> in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent who will assist you with everything. You will not be placed on hold. So don't waste any time and fill out our form to get a free quote, or give us a call and we'll take care of everything; either way, dealing with Rapid Auto Shipping is a win-win situation. Our prices are always Affordable denotes that everything is done on time and on budget without any problems.
             </p>
             <div class="five-california-state-box-btn utility_grid-center">
-                <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
+                <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
             </div>
         </div>
     </section>
@@ -286,7 +286,7 @@
     <section class="ten-percent-offer-box utility_flex">
         <h2>Ship now and get <span> 10% off</span></h2>
         <p class="text">At Rapid Auto Shipping we provide affordable prices,on-time delivery, 24*7 services, ship tracking feature and hassle free services.</p>
-        <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA"> Contact Us</a></button>
+        <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA"> Contact Us</a></button>
     </section>
 
     <!-- ----------------------------- -->

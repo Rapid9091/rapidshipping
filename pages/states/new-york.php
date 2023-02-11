@@ -276,7 +276,7 @@
          </h2>
          <div class="third-california-state-desc">
              <p class="text">
-                 The cost of transporting a vehicle is not simple to calculate. The total price of transportation varies according to several factors. There are multiple factors that can affect the cost such as distance between the locations, size of the vehicle, and its type.
+                 The <strong><a href="<?= home_path() ?>blogs/cost-to-ship-a-carservices/heavy-hauling-large-cargo">cost of transporting a vehicle</a></strong> is not simple to calculate. The total price of transportation varies according to several factors. There are multiple factors that can affect the cost such as distance between the locations, size of the vehicle, and its type.
 
                  Apart from that, other considerations like the season, for example, if you want to ship your vehicle during <a title="More about Snowbird Auto Transport" href="<?= home_path(); ?>services/snow-bird-shipping"> <span class="california-state-span"> Snowbird season </span></a>, the prices will be high due to the demand. Other factors such as weather, operable or inoperable vehicles, can change the price.
 
@@ -304,7 +304,7 @@
                  <ion-icon name="settings-sharp"></ion-icon>
                  <h3 class="sub-heading">We provide what you need.</h3>
                  <p class="text">
-                     Everyone’s needs are different, which is why we offer fully customizable New York Car shipping services. Our dedicated shipping advisors work with you to provide best service.
+                     Everyone’s needs are different, which is why we offer fully customizable New York <strong><a href="<?= home_path() ?>services/car-shipping-services">Car shipping services</a></strong>. Our dedicated shipping advisors work with you to provide best service.
                  </p>
                  <div class="third-california-state-grid-1-btn">
                      <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
@@ -342,7 +342,7 @@
              </h2>
              <p class="text">
                  If you want to ship your car to or from New York, Rapid Auto Shipping will help you to make it easier. Rapid Auto Shipping is a company that specialises in car shipping in New York and other parts of the United States. We will provide an appropriate quote for the shipment of your vehicle within a few seconds.
-                 All you have to do is fill out our free online form and you’ll get a free quote, without any hassle auto transport quote immediately with just a few clicks. If you have any questions, please contact us and you will be connected to a real, knowledgeable agent; there will be no waiting on hold, and we will assist you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you either way, working with Rapid Auto Shipping is a win-win situation. Always <a title="Affordable auto shipping in US" href="<?= home_path(); ?>blogs/cheapest-way-to-ship-a-car"> <span class="california-state-span">Affordable means</span></a> exactly that on time and on budget.
+                 All you have to do is fill out our free online form and you’ll get a free quote, without any hassle <strong><a href="<?= home_path() ?>services/car-transport-quotes">auto transport quote</a></strong> immediately with just a few clicks. If you have any questions, please contact us and you will be connected to a real, knowledgeable agent; there will be no waiting on hold, and we will assist you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you either way, working with Rapid Auto Shipping is a win-win situation. Always <a title="Affordable auto shipping in US" href="<?= home_path(); ?>blogs/cheapest-way-to-ship-a-car"> <span class="california-state-span">Affordable means</span></a> exactly that on time and on budget.
              </p>
              <div class="five-california-state-box-btn utility_grid-center">
                  <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
