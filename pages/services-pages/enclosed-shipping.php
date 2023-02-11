@@ -224,7 +224,7 @@
                         <br>
                         Enclosed transport services are typically recommended for anyone with a valuable vehicle. Vehicles lose value over time, beginning when you drive them off the lot — even if they're brand new! In fact, new vehicles can lose up to 50% of their value in the first two years of ownership.
                         <br>
-                        This is why we don't advocate enclosed shipping for any car that is used on a daily basis. A <a style="color:var(--nav-color);" href="https://www.toyota.com/prius/" target="_blank" rel="nofollow" title="More about toyota Prius"><b>Toyota Prius</b></a> or a <a style="color:var(--nav-color);" href="https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/shopping-tools/download-catalog/02-pdf/2018-chevrolet-impala-catalog.pdf" title="More Ipala's" target="_blank" rel="nofollow"><b>Chevrolet Impala</b></a> don't need an enclosed truck because they'll be exposed to about the same level of risk in an open truck as you would while driving it personally.
+                        This is why we don't advocate enclosed shipping for any car that is used on a daily basis. A Toyota Prius or a Chevrolet Impala don't need an enclosed truck because they'll be exposed to about the same level of risk in an open truck as you would while driving it personally.
                         <br>
                         An enclosed truck, on the other hand, mitigates much of that risk, making it ideal for vehicles that aren't driven every day.
                         <br>
