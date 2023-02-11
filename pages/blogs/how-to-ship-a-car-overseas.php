@@ -203,6 +203,23 @@
                         </button></a>
                 </div>
             </div>
+            <div class="third-mexico-blog-grid-1">
+                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676116468/Recent%20Uploads/air-fright_nyieq2.jpg" alt="auto shipping mexico">
+                <div class="third-mexico-blog-grid-1-content">
+                    <h3 class="sub-heading">
+                    BY AIR FREIGHT
+                    </h3>
+                    <p class="text">
+                    The primary operational goal of Rapid Auto Shipping Airfreight Division is offering you a way to take advantage of the greatest air freighting possibilities and services. Our global air freight shipping service provides the quickest way of transporting your vehicles or household products.
+                    </p>
+                </div>
+                <div class="third-mexico-blog-grid-1-content-row grid-center">
+                    <p>For shipping cost</p>
+                    <a href="tel:+1 (833) 233-4447"><button class="number">
+                            Contact Us
+                        </button></a>
+                </div>
+            </div>
 
         </div>
     </section>

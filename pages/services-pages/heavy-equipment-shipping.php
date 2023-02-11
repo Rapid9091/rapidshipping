@@ -83,16 +83,19 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Professional Heavy Equipment Shipping with Rapid Auto Shipping";
-        $PARAGRAPH = "Are you seeking for a company that can assist you relocate your commercial or industrial business with heavy equipment transfer and lowboy shipping? Rapid Auto Shipping can transfer your large equipment or trucks, regardless of size or destination. You've come to the right place if you're looking for a big haul trucking equipment and transportation company that gives exceptional service at a fair price. Rapid Auto Shipping is here to help you out! We have heavy equipment transporters in all states and cities ready to ship your equipment.";
+        $PARAGRAPH = "Are you seeking for a company that can assist you relocate your commercial or industrial business with heavy equipment transfer and <span><a href='https://rapidautoshipping.com/services/lowboy-shipping
+            '>lowboy shipping</a></span>? Rapid Auto Shipping can transfer your large equipment or trucks, regardless of size or destination. You've come to the right place if you're looking for a big haul trucking equipment and transportation company that gives exceptional service at a fair price. Rapid Auto Shipping is here to help you out! We have heavy equipment transporters in all states and cities ready to ship your equipment.";
         include small_form;
         ?>
     </div>
+    
     <div class="arkansas-top-companies-2022-container">
         <div class="affordable-ways-page-grid">
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span> Shipping for Heavy Equipment Transport</span></h2>
-                    <p> Are you looking for a heavy equipment transfer and <strong><a href="<?= home_path() ?>services/lowboy-shipping">lowboy shipping</a></strong> firm to help you relocate your commercial or industrial business? No matter the size or destination, Rapid Auto Shipping can transport your big equipment or trucks! If you're looking for a <a href="<?= get_state() ?>"><strong>States</strong> </a> heavy haul trucking equipment and transportation company that provides excellent service at a reasonable cost, you've come to the right place. The Rapid Auto Shipping is here to assist you! We have heavy equipment transporters ready to ship your equipment in all <a href="<?= get_state() ?>"><strong>States</strong> </a> and cities.
+                    <p> Are you looking for a heavy equipment transfer and <strong><a href="<?= home_path() ?>services/lowboy-shipping">lowboy shipping</a></strong> firm to help you relocate your commercial or industrial business? No matter the size or destination, Rapid Auto Shipping can transport your big equipment or trucks! If you're looking for a States <strong><a href="https://rapidautoshipping.com/services/heavy-hauling-truck
+">heavy haul trucking</a></strong>  equipment and transportation company that provides excellent service at a reasonable cost, you've come to the right place. The Rapid Auto Shipping is here to assist you! We have heavy equipment transporters ready to ship your equipment in all <strong><a href="<?= get_state() ?>">States</a></strong> and cities.
                         <br><br>
                         Rapid Auto Shipping is a licensed, bonded, and reputable <strong><a target="_blank" rel="nofollow" href="https://en.wikipedia.org/wiki/Heavy_equipment">heavy equipment</a></strong> and machinery shipping company. We have over ten years of expertise transporting heavy equipment for hundreds of businesses of all sizes. Our reputation is built on our promise to deliver your large equipment safely and affordably. We provide a number of shipping alternatives to fulfil your cargo requirements as well as your budget constraints. When moving big equipment or oversized materials, a lowboy or step deck trailer is the ideal option.
                     </p>

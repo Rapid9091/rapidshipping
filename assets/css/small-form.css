@@ -25,7 +25,9 @@
   font-size: 70px;
   font-weight: 500;
 }
-
+p span a{
+  color: var(--nav-color);
+}
 .contact-us-header-page-content > p:last-child {
   font-size: 20px;
   font-weight: 500;
