@@ -262,7 +262,7 @@ However, transporting a motorcycle is not the same as transporting a car. Altern
                         <div class="shipping-form-state-content">
                             <h3 class="heading-1">Rapid Auto Shipping: Your One-Stop Shop For <span>Cross Country Motorcycle Shipping</span></h3>
                             <p class="para-2">
-                                Rapid Auto Shipping is the premier provider of cross country motorcycle shipping services. We have years of experience shipping motorcycles all over the United States, and we have the resources and expertise to get your motorcycle shipped safely and quickly.
+                                Rapid Auto Shipping is the premier provider of <strong><a href="<?= home_path() ?>blogs/cross-country-car-shipping">cross country motorcycle shipping</a></strong> services. We have years of experience shipping motorcycles all over the United States, and we have the resources and expertise to get your motorcycle shipped safely and quickly.
                                 <br>
                                 Here's how our process works:
                                 <br>
