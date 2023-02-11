@@ -84,7 +84,7 @@
                 <h3 id="best_company_while_shipping_rhode_island">Why we are best in Rhode Island auto transport company ?</h3>
                 <br>
                 <p>
-                    <b><a href="<?= home_path() ?>">Rapid Auto Shipping</a></b> is a Car transport Rhode Island Company that values all of its customers equally and provides best Car Shipping Rhode Island Services. We assist customers in getting their vehicles delivered on schedule and at a reasonable cost. We fully insure their vehicles and transport them safely from one location to another. You may rest assured that if your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance provider will efficiently handle the claim. We bonded and licensed a company that can be trusted by all clients. Customers do not need to pay a deposit to schedule their ride.Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience with Auto Transport Companies In Rhode Island.
+                    Rapid Auto Shipping is a Car transport Rhode Island Company that values all of its customers equally and provides best Car Shipping Rhode Island Services. We assist customers in getting their vehicles delivered on schedule and at a reasonable cost. We fully insure their vehicles and transport them safely from one location to another. You may rest assured that if your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance provider will efficiently handle the claim. We bonded and licensed a company that can be trusted by all clients. Customers do not need to pay a deposit to schedule their ride.Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience with Auto Transport Companies In Rhode Island.
                 </p>
             </div>
             <div class="first-california-state-grid-box">
@@ -199,7 +199,7 @@
             <span class="california-state-span"> Discounts </span>while Auto Transport in Rhode Island
         </h2>
         <p class="text">
-            At <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b>Rapid Auto Shipping</b></span> </a> we try to give you the most affordable prices for your Rhode Island Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
+            At Rapid Auto Shipping we try to give you the most affordable prices for your Rhode Island Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>

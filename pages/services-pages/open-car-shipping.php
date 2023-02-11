@@ -139,7 +139,7 @@
                     <li id="3">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">What Is The Cost Of <span>Open Auto Transport</span>?</h2>
-                            <p class="para-2"> The cost of open car transport varies depending on your specific needs at <strong><a href="<?= home_path() ?>">Rapid Auto Shipping</a></strong>. The cost of open automobile shipment is determined by a number of factors. These factors include your car's type and model, the overall distance of your shipping, and whether or not your vehicle is in good working order.
+                            <p class="para-2"> The cost of open car transport varies depending on your specific needs at Rapid Auto Shipping. The cost of open automobile shipment is determined by a number of factors. These factors include your car's type and model, the overall distance of your shipping, and whether or not your vehicle is in good working order.
                                 <br><br>
                                 When you're ready, our instant open car transport cost calculator can quickly provide you with open car shipping quotes. You can even keep your identity hidden! Simply provide us with some basic information about your vehicle and shipment route. You'll have exact open <strong><a href="<?= home_path() ?>services/car-transport-quotes">automobile shipping quotes</a></strong> to select from in a matter of seconds.
                             </p>

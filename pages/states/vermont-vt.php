@@ -198,7 +198,7 @@
             <span class="california-state-span"> Discounts </span>while Auto Transport in Vermont
         </h2>
         <p class="text">
-            At <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b>Rapid Auto Shipping</b></span> </a> we try to give you the most affordable prices for your Vermont Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
+            At Rapid Auto Shipping we try to give you the most affordable prices for your Vermont Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>

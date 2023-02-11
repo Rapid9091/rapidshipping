@@ -71,7 +71,7 @@
     <!-- new section under the first section of single line -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Trust Us With Your Enclosed Car Shipping Needs Today!";
+        $NAME = "Enclosed Auto Transport";
         $PARAGRAPH = "One of the many alternatives for transporting autos across the country is enclosed auto shipment. Enclosed auto transporters use a covered, enclosed transport trailer to carry cars safely and securely. In contrast, open auto transport is loading vehicles onto a trailer that is open to the elements. Enclosed trailers protect vehicles from the elements. The majority of open trailers have the capacity to haul ten cars at once. Enclosed automobile transport trucks, on the other hand, transport two to six vehicles at once, sometimes in just one deck. On the other hand, open trailers transport ten cars on two racks stacked one on top of the other.";
         include small_form;
         ?>

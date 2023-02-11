@@ -92,8 +92,7 @@
                      WHY ARE WE THE BEST IN CAR TRANSPORT COMPANY
                  </h5>
                  <p>
-                     <a href="<?= home_path(); ?>" title="Autoshipping company in USA"><span class="california-state-span"><b>Rapid Auto Shipping</b></span></a>
-                     treats every customer equally with respect. We help them to transport their vehicles on time without any hustle at affordable rates. We provide full insurance to their cars and deliver them from <a title="More about door to door Auto Transport" href="<?= home_path(); ?>services/door-to-door"> <span class="california-state-span"> door to door </span></a>with no damage. You can have peace of mind knowing that in the unlikely event your car suffers damage during transportation your vehicle. We've got you covered our insurance will take care of the claim fast and efficiently. We bonded and licensed a company that every customer trusts. We offer customers to schedule their transportation without any deposit. Moreover, we provide trustworthy carriers to the customers so they can have the best experience of transportation.
+                     Rapid Auto Shipping treats every customer equally with respect. We help them to transport their vehicles on time without any hustle at affordable rates. We provide full insurance to their cars and deliver them from <a title="More about door to door Auto Transport" href="<?= home_path(); ?>services/door-to-door"> <span class="california-state-span"> door to door </span></a>with no damage. You can have peace of mind knowing that in the unlikely event your car suffers damage during transportation your vehicle. We've got you covered our insurance will take care of the claim fast and efficiently. We bonded and licensed a company that every customer trusts. We offer customers to schedule their transportation without any deposit. Moreover, we provide trustworthy carriers to the customers so they can have the best experience of transportation.
                  </p>
              </div>
              <div class="first-california-state-grid-box">
@@ -278,7 +277,7 @@
              <p class="text">
                  The <strong><a href="<?= home_path() ?>blogs/cost-to-ship-a-carservices/heavy-hauling-large-cargo">cost of transporting a vehicle</a></strong> is not simple to calculate. The total price of transportation varies according to several factors. There are multiple factors that can affect the cost such as distance between the locations, size of the vehicle, and its type.
 
-                 Apart from that, other considerations like the season, for example, if you want to ship your vehicle during <a title="More about Snowbird Auto Transport" href="<?= home_path(); ?>services/snow-bird-shipping"> <span class="california-state-span"> Snowbird season </span></a>, the prices will be high due to the demand. Other factors such as weather, operable or inoperable vehicles, can change the price.
+                 Apart from that, other considerations like the season, for example, if you want to ship your vehicle during Snowbird season, the prices will be high due to the demand. Other factors such as weather, operable or inoperable vehicles, can change the price.
 
                  Most importantly, if a customer starts to work with different companies, the price will be increased to the next level. So it is always advisable for the customers to work with only one company.
              </p>
@@ -322,11 +321,11 @@
              <span class="california-state-span"> Discounts </span>while New York Auto Transport
          </h2>
          <p class="text">
-             At <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span">Rapid Auto Shipping</span> </a> we try to give you the most affordable prices for your New York Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
+             At Rapid Auto Shipping we try to give you the most affordable prices for your New York Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
          <div class="offer-animator">
              <span>10% Offer</span>
          </div> <br>
-         <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span">Rapid Auto Shipping</span> </a> offers some special discounts to their valued customers to seniors and students who wish to transport their cars throughout the U.S. Military members can also take the benefits of these discounts. But those customers who do not relate to these categories can take our seasonal offers. Save your time, energy, and especially money by working with us.
+         Rapid Auto Shipping offers some special discounts to their valued customers to seniors and students who wish to transport their cars throughout the U.S. Military members can also take the benefits of these discounts. But those customers who do not relate to these categories can take our seasonal offers. Save your time, energy, and especially money by working with us.
          </p>
      </section>
 
@@ -342,7 +341,7 @@
              </h2>
              <p class="text">
                  If you want to ship your car to or from New York, Rapid Auto Shipping will help you to make it easier. Rapid Auto Shipping is a company that specialises in car shipping in New York and other parts of the United States. We will provide an appropriate quote for the shipment of your vehicle within a few seconds.
-                 All you have to do is fill out our free online form and you’ll get a free quote, without any hassle <strong><a href="<?= home_path() ?>services/car-transport-quotes">auto transport quote</a></strong> immediately with just a few clicks. If you have any questions, please contact us and you will be connected to a real, knowledgeable agent; there will be no waiting on hold, and we will assist you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you either way, working with Rapid Auto Shipping is a win-win situation. Always <a title="Affordable auto shipping in US" href="<?= home_path(); ?>blogs/cheapest-way-to-ship-a-car"> <span class="california-state-span">Affordable means</span></a> exactly that on time and on budget.
+                 All you have to do is fill out our free online form and you’ll get a free quote, without any hassle <strong><a href="<?= home_path() ?>services/car-transport-quotes">auto transport quote</a></strong> immediately with just a few clicks. If you have any questions, please contact us and you will be connected to a real, knowledgeable agent; there will be no waiting on hold, and we will assist you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that on time and on budget.
              </p>
              <div class="five-california-state-box-btn utility_grid-center">
                  <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
@@ -366,7 +365,7 @@
                  <div class="sixth-california-state-gird-1-content" id="door_to_door_transport_to_california_section">
                      <h3 class="utility_sub-heading">Door to Door auto transport</h3>
                      <p class="text">
-                         Door to door definitely is also known as house to house service, which kind of is fairly significant. This mostly is the most convenient service in which generally your car will particularly be essentially picked up and delivered at pretty your for all intents and purposes particular preferred destination without any hassle and bustle, which actually is fairly significant. Moreover, Rapid Auto shipping can provide you door-to-door service within <a title="Auto shipping states" href="<?= home_path(); ?>states"> <span class="california-state-span">50 states</span></a> of the U.S without charging you even a single penny extra in a really major way. The driver will basically come to the address of your choice and will pick up your wheels and drop that at particularly your selected precise address whether it essentially is a dealership, business, or residential place of security and safety in a sort of major way.
+                         Door to door definitely is also known as house to house service, which kind of is fairly significant. This mostly is the most convenient service in which generally your car will particularly be essentially picked up and delivered at pretty your for all intents and purposes particular preferred destination without any hassle and bustle, which actually is fairly significant. Moreover, Rapid Auto shipping can provide you door-to-door service within 50 states of the U.S without charging you even a single penny extra in a really major way. The driver will basically come to the address of your choice and will pick up your wheels and drop that at particularly your selected precise address whether it essentially is a dealership, business, or residential place of security and safety in a sort of major way.
                          <br>
                      </p>
                      <button><a target="_blank" href="<?= home_path(); ?>services/door-to-door" title="luxury and classic car trnasport description">Know More</a></button>
@@ -376,7 +375,7 @@
                  <div class="sixth-california-state-gird-1-content">
                      <h3 class="utility_sub-heading">Enclosed Auto Transport</h3>
                      <p class="text">
-                         <a href=" <?= home_path(); ?>services/enclosed-shipping" title="Enclosed auto shipping USA"><span class="california-state-span "> Enclosed car transport </span></a>is a type of auto transport that gives much protection to your vehicles. Well, it is considered the safest way to transport luxury, classic and new cars. The vehicle shipping carrier's top and side covers, as well as straps, secure the consignment on the trailer. The enclosed trailer fully covered the vehicles so that not even a single particle of dust could not be able to touch the cars. In other words, it will provide full protection to the vehicles.
+                         Enclosed car transport is a type of auto transport that gives much protection to your vehicles. Well, it is considered the safest way to transport luxury, classic and new cars. The vehicle shipping carrier's top and side covers, as well as straps, secure the consignment on the trailer. The enclosed trailer fully covered the vehicles so that not even a single particle of dust could not be able to touch the cars. In other words, it will provide full protection to the vehicles.
 
                          <br> <br> <b>Soft-sided Enclosed Auto Transport –</b> It will protect your vehicle from wind-blown, rain, sleet, snow, and other elements.
                          <br> <br>
