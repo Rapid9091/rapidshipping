@@ -86,7 +86,7 @@
     <!-- this is the fiorst section with background image -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Rapid Auto Shipping - Ship Your Boat with Excellence";
+        $NAME = "Best Boat Shipping Auto Services";
         $PARAGRAPH = "Do you want to move and need your boat to come with you? It's not a problem at all! we Rapid Auto Shipping are one of the best boat transport company, we understand how difficult it is to find a reputable company that transports yachts. Our goal is to make your boat transportation as easy as possible for you. Unlike other boat shipping companies who are unconcerned about your concerns, our crew is committed to ensuring that your boat arrives safely at its destination. Our prior customer evaluations have demonstrated this.";
         include_once small_form;
         ?>
@@ -231,8 +231,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673601813/Recent%20Uploads/yacht-shipping_igq6xk.jpg" alt="#1 Boat Shipping Company" />
-
+                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673601813/Recent%20Uploads/yacht-shipping_igq6xk.jpg" alt="boat shipping company " />
                     </div>
                     <li id="6">
                         <div class="shipping-form-state-content">

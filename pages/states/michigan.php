@@ -69,7 +69,7 @@
 
         <?php
         $NAME = "Best Auto Shipping Company Michigan";
-        $PARAGRAPH = "Rapid Auto Shipping is a Michigan <a href='<?= home_path() ?>'>auto shipping company</a> that treats each and every one of its clients equally. We help clients transfer their vehicles on time and at a fair rate. We insure their automobiles completely and deliver them safely from point A to point B. You may rest easy knowing that if your car is damaged while being transported, you will be paid. We've got you covered; our insurance company will take care of the claim efficiently. We bonded and licenced a company that can be trusted by all clients. Customers do not need to pay a deposit to schedule their ride. In addition, we give trusted carriers to our customers so that they may have the best possible transportation experience.";
+        $PARAGRAPH ="Rapid Auto Shipping is a Michigan <span><a href='https://rapidautoshipping.com/'>auto shipping company</a></span>  that treats each and every one of its clients equally. We help clients transfer their vehicles on time and at a fair rate. We insure their automobiles completely and deliver them safely from point A to point B. You may rest easy knowing that if your car is damaged while being transported, you will be paid. We've got you covered; our insurance company will take care of the claim efficiently. We bonded and licenced a company that can be trusted by all clients. Customers do not need to pay a deposit to schedule their ride. In addition, we give trusted carriers to our customers so that they may have the best possible transportation experience.";
         include small_form;
         ?>
     </div>
@@ -261,7 +261,7 @@
         </h2>
         <div class="third-california-state-desc">
             <p class="text">
-                The cost of transporting a vehicle is difficult to estimate. A variety of elements influence the total cost of transportation. A lot of factors determine the price, including the distance between the two locations, the vehicle's size, and its kind.
+                The cost of transporting a vehicle is difficult to estimate. A variety of elements influence the total <b><a href="<?=home_path()?>blogs/cost-to-ship-a-car">cost of transportation</a></b>. A lot of factors determine the price, including the distance between the two locations, the vehicle's size, and its kind.
                 Apart from that, there are additional considerations to make, such as the season. For example, because of strong demand, if you wish to send your vehicle during the Snowbird season, pricing will be higher. Weather conditions, as well as functioning or non-operational autos, may have an impact on cost.
                 Above all, if a customer deals with many businesses, the price will rise to the next level. As a result, clients should only work with one company at a time.
             </p>
@@ -380,9 +380,9 @@
                 How to get the best <span class="california-state-span"> quote </span>for your shipping
             </h2>
             <p class="text">
-                Rapid Auto Shipping is best in Michigan Car Shipping and will make shipping your car to or from Michigan as simple as possible. Rapid Auto Shipping is a Michigan Auto Transport that specializes in car shipping to and from Michigan as well as other locations in the United States. Within seconds, we will supply you with an accurate quote for the shipping of your vehicle.
-                All you have to do is fill out our simple online form and you'll receive a free, no-obligation <b><a href="<?= home_path() ?>services/car-transport-quotes">auto transport quote</a></b> in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent; you will not be placed on hold, and we will help you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that: on time and on budget.
+            You can rely on us for all your car transport requirements, whether you need open or enclosed transport for one or several automobiles. Our crew is amiable, dependable, and skilled in getting your car to or from Michigan on schedule and in good condition. Rapid Auto Shipping provides quick Michigan auto shipping rates 24 hours a day, 7 days a week. We'll ensure that you have all the car transportation details you want and that you receive a reasonable shipping quotation for auto shipping in Michigan. We are eager to assist you. For a free <b><a href="<?= home_path() ?>services/car-transport-quotes">quote on your vehicle shipment</a></b>, Use our online car shipment quotation calculator to get a price. You can book immediately or call us to review your shipping needs.
             </p>
+            
             <div class="five-california-state-box-btn utility_grid-center">
                 <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
             </div>
