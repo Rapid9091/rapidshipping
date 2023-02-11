@@ -107,7 +107,7 @@
                         <h2><span>EXTENDING HIGH-END TRANSPORTATION SOLUTIONS WITH CHICAGO AUTO TRANSPORT</span></h2>
                         <p>
                             In many respects, moving to Chicago is a blessing. It's not only a lovely destination to visit with so much to see, but it's also a land full of possibilities. Regardless of why you've come to Chicago, you'll need to ship your belongings to your new residence. There are several organisations to choose from if you need high-quality auto shipping in Chicago. The Chicago <strong><a href="<?= home_path() ?>services">auto transport services</a>
-                            </strong> are versatile, giving all sorts of shipping services like <a href="<?= home_path() ?>services/door-to-door">door-to-door</a> shipment, enclosed shipping, multi-carrier, etc. Simply complete the free quote form and select the service that best meets your needs.
+                            </strong> are versatile, giving all sorts of shipping services like door-to-door shipment, enclosed shipping, multi-carrier, etc. Simply complete the free quote form and select the service that best meets your needs.
                         </p>
                         <img style="width:100%" loading="lazy" src="<?= get_img() ?>Enclosed-Transport-img.png" alt="auto transport chicago">
                     </div>
@@ -128,7 +128,7 @@
                     <div class="new-blog-section-one new-blog-section-one-changes">
                         <h2><span>ENCLOSED IS CLASSIC CAR TRANSPORTATION IN CHICAGO</span></h2>
                         <p>
-                            In Chicago, hire professionals for enclosed classic car transportation. <a href="<?= home_path() ?>">Rapid Auto Shipping</a> is a well-known vehicle shipping company in Chicago that provides <strong><a href="<?= home_path() ?>services/classic-car-shipping">Classic Car Enclosed Transport Services</a>
+                            In Chicago, hire professionals for enclosed classic car transportation. Rapid Auto Shipping is a well-known vehicle shipping company in Chicago that provides <strong><a href="<?= home_path() ?>services/classic-car-shipping">Classic Car Enclosed Transport Services</a>
                             </strong> . When transporting a classic car, nclosed car transport provides added protection. We can offer you with an Enclosed Vehicle Carrier Service that will ensure your precious property arrives safely and without harm at its destination, whether it is for business or pleasure.
                         </p>
                         <img style="width:100%" loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg" alt="auto transport Chicago">
