@@ -77,7 +77,7 @@
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
                 <p class="heading-1"><span>Alabama to Alaska</span> Auto Shipping</p>
-                <p class="para-2"> We have decades of long-distance car shipping experience to offer our clients. We use covered auto carriers, <a href="<?= home_path() ?>services/open-car-shipping">Open Carriers Transport</a> , and <a href="<?= home_path() ?>services/lowboy-shipping">Lowboy Trucks</a> to transport your automobile safely and securely, all at a reasonable <a href="<?= home_path() ?>blogs/cost-to-ship-a-car">Cost</a>. Our experienced crew provides accurate quotes, prompt pickups, and ongoing communication throughout the transportation process. Book your spot today by <a href="<?= home_path() ?>contact-us">Contacting Us</a>, using our safe, easy online system, which is available 24/7, or by phoning one of our skilled shipping representatives.
+                <p class="para-2"> We have decades of long-distance car shipping experience to offer our clients. We use covered auto carriers, <strong><a href="<?= home_path() ?>services/open-car-shipping">Open Carriers Transport</a></strong>, and Lowboy Trucks to transport your automobile safely and securely, all at a reasonable Cost. Our experienced crew provides accurate quotes, prompt pickups, and ongoing communication throughout the transportation process. Book your spot today by <strong><a href="<?= home_path() ?>contact-us">Contacting Us</a></strong>, using our safe, easy online system, which is available 24/7, or by phoning one of our skilled shipping representatives.
                 </p>
             </div>
 
@@ -119,7 +119,7 @@
                             <p class="para-2">
                                 <a href="<?= home_path() ?>states/alabama">Alabama (AL)</a> is the 22nd state in the United States, and it is located in the southeast. The state's entire area is 52,419 square miles.
 
-                                Alabama shares its borders with <a href="<?= home_path() ?>states/georgia">Georgia</a>, <a href="<?= home_path() ?>states/tennessee-tn">Tennessee</a>, the Gulf of <a href="<?= home_path() ?>states/new-mexico">Mexico</a>, <a href="<?= home_path() ?>states/mississippi">Mississippi</a>, and <a href="<?= home_path() ?>states/florida">Florida</a> in the United States. A map of <a href="https://en.wikipedia.org/wiki/Alabama">Alabama</a> can assist a first-time tourist in locating all of the key points of interest in the Yellowhammer State. Alabama is known for a variety of tourist attractions such as beaches, nature parks, monuments, and historical sites. Alabama's capital is Montgomery, but Birmingham is the largest city.
+                                Alabama shares its borders with Georgia,Tennessee, the Gulf of Mexico, Mississippi, and Florida in the United States. A map of <a target="_blank" href="https://en.wikipedia.org/wiki/Alabama">Alabama</a> can assist a first-time tourist in locating all of the key points of interest in the Yellowhammer State. Alabama is known for a variety of tourist attractions such as beaches, nature parks, monuments, and historical sites. Alabama's capital is Montgomery, but Birmingham is the largest city.
 
                             </p>
                         </div>
@@ -129,7 +129,7 @@
                             <h4 class="heading-1">Shipping From The State Of <span>Alabama to Alaska</span></h4>
 
                             <p class="para-2">
-                                Alaska (Ak) is also accessible by sea, thanks to its well-organized infrastructure of railways, roads, and airports. The national and interstate highways are marked on the <a href="https://en.wikipedia.org/wiki/Alaska">Alaska</a> Map. In addition, the railway map shows the state's major train routes. The counties of Alaska are made up of 11 census zones and 16 boroughs.
+                                Alaska (Ak) is also accessible by sea, thanks to its well-organized infrastructure of railways, roads, and airports. The national and interstate highways are marked on the <a target="_blank" href="https://en.wikipedia.org/wiki/Alaska">Alaska</a> Map. In addition, the railway map shows the state's major train routes. The counties of Alaska are made up of 11 census zones and 16 boroughs.
 
                                 Visitors to Alaska can enjoy the state's well-kept golf courses, such as Chena Bend, Sleepy Hollow, Eagleglen, and others. Some of Alaska's most visited national parks include Kobuk Valley National Park, Yukon Charley Rivers National Preserve, and Katmai National Park & Preserve. The state's museums are yet another big draw. Some of the most well-known museums include the Pratt Museum, the Kodiak Baranov Museum, and the Alaska State Museum.
 
@@ -146,7 +146,7 @@
                             </h4>
                             <p class="para-2">It's as simple as 1-2-3 to ship a car from Alabama to Alaska with Rapid Auto Shipping.
                                 <br><br>
-                                <b>Step 1:</b> Get a quick auto shipment quote for Alabama to <a href="<?= home_path() ?>states/alaska">Alaska Auto Shipping</a> and schedule a pickup time that works for you.
+                                <b>Step 1:</b> Get a quick auto shipment quote for Alabama to <strong><a href="<?= home_path() ?>states/alaska">Alaska Auto Shipping</a></strong> and schedule a pickup time that works for you.
                                 <br>
                                 With our online quote form, you can easily get a quote, enter your origin and destination, choose your shipping dates, and book your reservation online or over the phone for your Alabama to Alaska car shipping!
                                 <br><br><b>Step 2:</b> Your vehicle will be picked up from a certain place in Alabama.
@@ -173,7 +173,7 @@
                         <div class="shipping-form-state-content">
                             <h4 class="heading-1">How to register a vehicle in <span>Alaska</span>?</h4>
                             <p class="para-2">
-                                Alaskan citizens must register and title their automobiles with the <a href="https://doa.alaska.gov/dmv/reg/home.htm">DMV</a>, which they can do by mail or in person if certain requirements are completed. Car registration may be fee-based and cannot be conducted over the phone or online, depending on the vehicle type.
+                                Alaskan citizens must register and title their automobiles with the <a target="_blank" href="https://doa.alaska.gov/dmv/reg/home.htm">DMV</a>, which they can do by mail or in person if certain requirements are completed. Car registration may be fee-based and cannot be conducted over the phone or online, depending on the vehicle type.
 
                             </p>
 
@@ -213,7 +213,7 @@
                     </li>
                     <li id="9">
                         <div class="shipping-form-state-content">
-                            <h4 class="heading-1">How many days will it take to ship my Vehicle from <span>Alabama to Alaska</span> ?</h4>
+                            <h4 class="heading-1">How many days will it take to ship my Vehicle from <span>Alabama to Alaska</span>?</h4>
                             <p class="para-2">The travel time in Alabama to Alaska car shipping is anticipated to be 3 to 5 days. This path is estimated to be roughly 1,200 kilometers long. On average, standard carriers go from 400 to 500 miles every day. For packages that must arrive sooner, expedited shipping is also available.
 
                             </p>
@@ -248,7 +248,7 @@
                         <div class="shipping-form-state-content">
                             <h4 class="heading-1">What should I consider when shipping a car in Alaska?
                             </h4>
-                            <p class="para-2"><a href="http://dnr.alaska.gov/ag/Index/Chapter25.pdf">Check</a> to see if your car has been thoroughly cleaned both inside and out. This is especially crucial because it will aid the driver's inspection in determining any pre-existing damage to your car. You'll also want to make sure the vehicle doesn't have any other personal belongings in it unless you want to ship them with it. Make sure the driver is aware of any unusual circumstances with the car. Finally, ensure that the automobile has a quarter tank of gas when it is picked up for shipping.
+                            <p class="para-2"><a target="_blank" href="http://dnr.alaska.gov/ag/Index/Chapter25.pdf">Check</a> to see if your car has been thoroughly cleaned both inside and out. This is especially crucial because it will aid the driver's inspection in determining any pre-existing damage to your car. You'll also want to make sure the vehicle doesn't have any other personal belongings in it unless you want to ship them with it. Make sure the driver is aware of any unusual circumstances with the car. Finally, ensure that the automobile has a quarter tank of gas when it is picked up for shipping.
 
 
 
