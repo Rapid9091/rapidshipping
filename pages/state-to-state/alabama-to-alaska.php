@@ -248,10 +248,8 @@
                         <div class="shipping-form-state-content">
                             <h4 class="heading-1">What should I consider when shipping a car in Alaska?
                             </h4>
-                            <p class="para-2"><a target="_blank" href="http://dnr.alaska.gov/ag/Index/Chapter25.pdf">Check</a> to see if your car has been thoroughly cleaned both inside and out. This is especially crucial because it will aid the driver's inspection in determining any pre-existing damage to your car. You'll also want to make sure the vehicle doesn't have any other personal belongings in it unless you want to ship them with it. Make sure the driver is aware of any unusual circumstances with the car. Finally, ensure that the automobile has a quarter tank of gas when it is picked up for shipping.
-
-
-
+                            <p class="para-2">
+                                <a target="_blank" href="http://dnr.alaska.gov/ag/Index/Chapter25.pdf">Check</a> to see if your car has been thoroughly cleaned both inside and out. This is especially crucial because it will aid the driver's inspection in determining any pre-existing damage to your car. You'll also want to make sure the vehicle doesn't have any other personal belongings in it unless you want to ship them with it. Make sure the driver is aware of any unusual circumstances with the car. Finally, ensure that the automobile has a quarter tank of gas when it is picked up for shipping.
                             </p>
                         </div>
                     </li>

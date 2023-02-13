@@ -83,7 +83,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Professional Heavy Equipment Shipping with Rapid Auto Shipping";
-        $PARAGRAPH = "Rapid Auto Shipping collaborates with our international heavy equipment shipping division and project logistics team to create the ideal transportation schedule for your needs. We have established the ultimate network via years of relationship development with air and shipping lines and a large Rolodex of national transportation businesses. These building parts have contributed to creating the ideal solution, which equals excellent customer service.";
+        $PARAGRAPH = "Transferring or moving your automobile may be a stressful and difficult logistical process. However, you can count on Rapid Auto Shipping to deliver your vehicle to Florida and back. With more than 10 years of expertise in the vehicle transport industry, Rapid Auto Shipping is much more than simply a Florida car shipping company. We've learned that when it comes to offering car shipping to and from Florida, attention to detail is crucial.";
         include small_form;
         ?>
     </div>
