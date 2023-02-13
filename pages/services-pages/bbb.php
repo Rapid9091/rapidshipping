@@ -4,33 +4,37 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Open Carrier Transport Car Shipping Services | +1-833-233-4447</title>
-    <meta name="title" content="Open Carrier Transport Car Shipping Services | +1-833-233-4447">
-    <meta name="description" content="Secure And Reliable Auto Transport Carriers. We can ship vehicles of any size. Open Transport Car Shipping, We Can Help. you to  open transport car shipping" />
+    <title>Heavy Equipment Shipping | Heavy Equipment Transport</title>
+    <meta name="title" content="Heavy Equipment Shipping | Heavy Equipment Transport" />
+    <meta name="description" content="We provide services for heavy machinery transport and shipping to anyplace in the USA, We are heavy equipment transport professionals. Get us by a  call!" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Open Carrier Transport Car Shipping Services | +1-833-233-4447" />
-    <meta property="og:description" content="Secure And Reliable Auto Transport Carriers. We can ship vehicles of any size. Open Transport Car Shipping, We Can Help. you to  open transport car shipping" />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/open-car-shipping" />
-    <meta property="og:img" content="https://rapidautoshipping.com/assets/images/vaibhv-img.png" />
-    <meta property="og:site_name" content="Open Carrier Transport Car Shipping Services | +1-833-233-4447" />
+    <meta property="og:title" content="Heavy Equipment Shipping | Heavy Equipment Transport" />
+    <meta property="og:description" content="We provide services for heavy machinery transport and shipping to anyplace in the USA, We are heavy equipment transport professionals. Get us by a  call!" />
+    <meta property="og:url" content="https://rapidautoshipping.com/services/international-heavy-equipment-shipping" />
+    <meta property="og:site_name" content="Heavy Equipment Shipping | Heavy Equipment Transport" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car carrier, open transport, automobile carrier, car shipping carriers, open auto, carrier for car, truck for car transport, get carrier auto transport, auto truck transport, auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport">
-    <meta property="article:tag" content="open transport" />
-    <meta property="article:tag" content="automobile carrier" />
-    <meta property="article:tag" content="car shipping carriers" />
-    <meta property="article:tag" content="open auto, carrier for car" />
-    <meta property="article:tag" content="truck for car transport" />
-    <meta property="article:tag" content="get carrier auto transport" />
-    <meta property="article:tag" content="auto truck transport" />
-    <meta property="article:tag" content="auto transport carriers" />
-    <meta property="article:tag" content="open transport car shipping" />
-    <meta property="article:tag" content="open transport car shipping" />
-    <meta property="article:tag" content="auto transporters carriers" />
-    <meta property="article:tag" content="open carrier car shipping" />
-    <meta property="article:tag" content="open auto transport" />
+    <meta name="keywords" content="shipping heavy machinery, equipment shipping company, international heavy equipment, heavy equipment shipping overseas, shipping equipment overseas, heavy equipment shipping, heavy equipment haulers, heavy equipment shipping companies, shipping heavy equipment overseas, best international shipping companies, international shipping large items, specialized overseas shipping, cargo shipping overseas, international transport services, international transport carriers, overseas shipping company, international machinery, shipping companies international" />
+    <meta property="article:tag" content="shipping heavy machinery" />
+    <meta property="article:tag" content="equipment shipping company" />
+    <meta property="article:tag" content="international heavy equipment" />
+    <meta property="article:tag" content="heavy equipment shipping overseas" />
+    <meta property="article:tag" content="shipping equipment overseas" />
+    <meta property="article:tag" content="heavy equipment shipping" />
+    <meta property="article:tag" content="heavy equipment haulers" />
+    <meta property="article:tag" content="heavy equipment shipping companies" />
+    <meta property="article:tag" content="shipping heavy equipment overseas" />
+    <meta property="article:tag" content="best international shipping companies" />
+    <meta property="article:tag" content="international shipping large items" />
+    <meta property="article:tag" content="specialized overseas shipping" />
+    <meta property="article:tag" content="cargo shipping overseas" />
+    <meta property="article:tag" content="international transport services" />
+    <meta property="article:tag" content="international transport carriers" />
+    <meta property="article:tag" content="overseas shipping company" />
+    <meta property="article:tag" content="international machinery" />
+    <meta property="article:tag" content="shipping companies international" />
 
     <!--     Google Analytics Code Start -->
 
@@ -50,17 +54,14 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: repeat, no-repeat;
-            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676278088/Recent%20Uploads/ambulance-service2_fqcuva.jpg');
+            background-image: url('<?= get_img() ?>background-bg-2.jpg');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
-
         }
-        .third-section-state {
-    background-color: rgb(0, 0, 0, 0.6) !important;
-}
+        
     </style>
 </head>
 
@@ -70,8 +71,8 @@
     <!-- this is the fiorst section with background image -->
     <div class="contact-us-header-page">
     <?php
-        $NAME = "Ambulance shipping";
-        $PARAGRAPH = "Rapid Auto Shipping specialises in moving all forms of heavy construction equipment, large commodities, and agricultural gear to their final destination. We have a team of professionals who can assist you in matching your load with a suitable and cost-effective truck. Our logistics team is skilled and prepared to manage and transfer your ambulance to your selected location in a fast and safe manner.";
+        $NAME = "International Heavy Equipment ";
+        $PARAGRAPH = "Breakbulk refers to equipment that must be loaded individually onto a cargo plane or ship, as opposed to equipment and goods that are loaded into containers. Because of the irregular shapes and enormous weight of many breakbulk commodities, the majority of these services must be contracted separately.";
         include small_form;
         ?>
     </div>
