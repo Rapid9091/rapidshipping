@@ -83,7 +83,8 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Professional Heavy Equipment Shipping with Rapid Auto Shipping";
-        $PARAGRAPH = "Rapid Auto Shipping collaborates with our international heavy equipment shipping division and project logistics team to create the ideal transportation schedule for your needs. We have established the ultimate network via years of relationship development with air and shipping lines and a large Rolodex of national transportation businesses. These building parts have contributed to creating the ideal solution, which equals excellent customer service.";
+        $PARAGRAPH = "Are you seeking for a company that can assist you relocate your commercial or industrial business with heavy equipment transfer and <span><a href='https://rapidautoshipping.com/services/lowboy-shipping
+            '>lowboy shipping</a></span>? Rapid Auto Shipping can transfer your large equipment or trucks, regardless of size or destination. You've come to the right place if you're looking for a big haul trucking equipment and transportation company that gives exceptional service at a fair price. Rapid Auto Shipping is here to help you out! We have heavy equipment transporters in all states and cities ready to ship your equipment.";
         include small_form;
         ?>
     </div>
