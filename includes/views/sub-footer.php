@@ -122,7 +122,7 @@
                 <li><a href="<?= home_path(); ?>state-to-state/alabama-to-arizona">Alabama to Arizona</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/alabama-to-alaska">Alabama to Alaska</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/new-jersey-to-california">New Jersey to California</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state/california-to-houston">California to Houston</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/california-to-texas">California to Texas</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/california-to-arizona">California to Arizona</a></li>
             </ul>
         </div>
