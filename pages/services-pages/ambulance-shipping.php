@@ -123,7 +123,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676278088/Recent%20Uploads/ambulace-service3_x4jkgx.jpg" alt="Ambulance Shipping Service" />
+                        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676288218/Recent%20Uploads/ambulance-service4_alptk8.jpg" alt="Ambulance Shipping Service" />
                     </div>
                     <li id="3">
                         <div class="shipping-form-state-content">
