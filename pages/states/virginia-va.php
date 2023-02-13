@@ -95,7 +95,7 @@
                 <h3 id="best_company_while_shipping_virginia">Why we are best in Virginia auto transport company ?</h3>
                 <br>
                 <p>
-                    <b><a href="<?= home_path() ?>">Rapid Auto Shipping</a></b> is a Car transport Washington Company that values all of its customers equally and provides best Car transport Washington State Services. We assist customers in getting their vehicles delivered on schedule and at a reasonable cost. We fully insure their vehicles and transport them safely from one location to another. You may rest assured that if your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance provider will efficiently handle the claim. We bonded and licensed a company that can be trusted by all clients. Customers do not need to pay a deposit to schedule their ride.Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience with Car Shipping Companies Washington state.
+                    Rapid Auto Shipping is a Car transport Washington Company that values all of its customers equally and provides best Car transport Washington State Services. We assist customers in getting their vehicles delivered on schedule and at a reasonable cost. We fully insure their vehicles and transport them safely from one location to another. You may rest assured that if your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance provider will efficiently handle the claim. We bonded and licensed a company that can be trusted by all clients. Customers do not need to pay a deposit to schedule their ride.Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience with Car Shipping Companies Washington state.
                 </p>
             </div>
             <div class="first-california-state-grid-box">
@@ -185,9 +185,9 @@
             <div class="third-california-state-grid-1">
                 <ion-icon name="card-sharp"></ion-icon>
                 <h3 class="sub-heading">How to get price ?</h3>
-                <p class="text">To get the instant cost from best Virginia Auto Transport company you can directly contact us at <a href="tel:-833-233-4447" title="Call Now For Auto Transport USA"><span class="california-state-span">:+1-833-233-4447</span> </a> our executives will make sure that you will get the best quote and most of the discounts for your shipping .</p>
+                <p class="text">To get the instant cost from best Virginia Auto Transport company you can directly contact us at <a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">:+1 (833) 233-4447 </a> our executives will make sure that you will get the best quote and most of the discounts for your shipping .</p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
             <div class="third-california-state-grid-1">
@@ -195,7 +195,7 @@
                 <h3 class="sub-heading">24 * 7 customer support</h3>
                 <p class="text">Our team of professionals at best Virginia Auto Transport company work around the clock, 365 days a year, to ensure our car shipping service runs like clockwork. and provide you Assisstance 24*7.</p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
             <div class="third-california-state-grid-1">
@@ -205,7 +205,7 @@
                     Everyone’s needs are different, which is why we offer fully customizable Virginia Car shipping services. Our dedicated shipping advisors work with you to provide best service.
                 </p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
         </div>
@@ -219,7 +219,7 @@
             <span class="california-state-span"> Discounts </span>while Auto Transport in Virginia
         </h2>
         <p class="text">
-            At <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b>Rapid Auto Shipping</b></span> </a> we try to give you the most affordable prices for your Virginia Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
+            At Rapid Auto Shipping we try to give you the most affordable prices for your Virginia Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>
@@ -237,10 +237,10 @@
                 How to get the best <span class="california-state-span"> quote </span>for your shipping
             </h2>
             <p class="text">
-                Rapid Auto Shipping is best in Car Transport Washington and will make shipping your car to or from Washington as simple as possible. Rapid Auto Shipping is an Auto Transport Washington that specializes in <b><a href="<?= home_path() ?>services/car-shipping-companies">Car shipping Companies</a></b> Washington in car shipping to and from Washington as well as other locations in the United States. In a matter of seconds, we can provide you with an accurate quote for transferring your vehicle. All you have to do is fill out our simple online form and you'll receive a free with our service, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent who will assist you with everything. You will not be placed on hold. So don't waste any time and fill out our form to get a free quote, or give us a call and we'll take care of everything; either way, dealing with Rapid Auto Shipping is a win-win situation. Our prices are always Affordable denotes that everything is done on time and on budget without any problems.
+                Rapid Auto Shipping is best in <strong><a href="<?= home_path() ?>services/car-transport">Car Transport</a> Washington and will make shipping your car to or from Washington as simple as possible. Rapid Auto Shipping is an Auto Transport Washington that specializes in <b><a href="<?= home_path() ?>services/car-shipping-companies">Car shipping Companies</a></b> Washington in car shipping to and from Washington as well as other locations in the United States. In a matter of seconds, we can provide you with an accurate quote for transferring your vehicle. All you have to do is fill out our simple online form and you'll receive a free with our service, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent who will assist you with everything. You will not be placed on hold. So don't waste any time and fill out our form to get a free quote, or give us a call and we'll take care of everything; either way, dealing with Rapid Auto Shipping is a win-win situation. Our prices are always Affordable denotes that everything is done on time and on budget without any problems.
             </p>
             <div class="five-california-state-box-btn utility_grid-center">
-                <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
+                <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
             </div>
         </div>
     </section>
@@ -306,7 +306,7 @@
     <section class="ten-percent-offer-box utility_flex">
         <h2>Ship now and get <span> 10% off</span></h2>
         <p class="text">At Rapid Auto Shipping we provide affordable prices,on-time delivery, 24*7 services, ship tracking feature and hassle free services.</p>
-        <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA"> Contact Us</a></button>
+        <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA"> Contact Us</a></button>
     </section>
 
     <!-- ----------------------------- -->
@@ -320,11 +320,8 @@
             <div class="seventh-california-state-box-content">
                 <h2 class="utility_sub-heading">Snowbird Shipping</h2>
                 <p class="text">
-                    <a title="More about auto shipping states" href="<?= home_path() ?>states/texas-tx"> <span class="california-state-span"> Texas,</span> </a>
-                    <a title="More about auto shipping states" href="<?= home_path() ?>states/california"> <span class="california-state-span"> California,</span> </a>
-                    <a title="More about auto shipping states" href="<?= home_path() ?>states/florida"> <span class="california-state-span"> Florida,</span> </a>
-                    and other
-                    <a title="More about auto shipping states" href="<?= home_path() ?>states"> <span class="california-state-span"> states</span></a> in the United States are among the most popular snowbird destinations. Any route that runs from north to south is referred to as a "snowbird path." Furthermore, during the snowbird season, rates tend to soar because drivers have so many options that they always choose the most expensive one. Customers should avoid being seduced by low prices since they will end up squandering their time.
+                    Texas, California, Florida, and other
+                    states in the United States are among the most popular snowbird destinations. Any route that runs from north to south is referred to as a "snowbird path." Furthermore, during the snowbird season, rates tend to soar because drivers have so many options that they always choose the most expensive one. Customers should avoid being seduced by low prices since they will end up squandering their time.
                 </p>
                 <button><a href="<?= home_path(); ?>services/snow-bird-shipping" rel="nofollow" title="snowbird shipping USA">Know More</a></button>
             </div>

@@ -77,21 +77,20 @@
     <!-- ----------------------------- -->
 
     <section class="first-california-state">
-        <h2 class="utility_main-heading">OVERVIEW ABOUT <span class="california-state-span">ARIZONA AUTO TRANSPORT</span></h2>
+        <h2 class="utility_main-heading">OVERVIEW ABOUT <span class="california-state-span">ARIZONA</span></h2>
         <div class="first-california-state-grid utility_grid">
             <div class="first-california-state-grid " id="more_about_auto_transport_arizona">
                 <p>
                     Arizona is a state in the United States of America and the state has a population of approximately 6.6 million people and was the last of the contiguous states to gain statehood. The Grand Canyon, which is located in Arizona, is a major tourist attraction that attracts millions of visitors each year.
 
-                    It is currently the 15th most populous and sixth-largest <a target="_blank" href=" <?= get_state() ?>" title="US state auto transport"><span class="california-state-span"><b>States</b></span></a> in terms of the total area in the United States. As a result, Arizona auto transport services should be easy to come by. Arizona is notorious for being almost totally covered with desert. As a result, when it comes to Arizona auto transport, you must keep in mind that the state is mostly desert.
+                    It is currently the 15th most populous and sixth-largest States in terms of the total area in the United States. As a result, Arizona <a href="<?= home_path() ?>services/car-shipping-services"><b>auto transport services</b></a> should be easy to come by. Arizona is notorious for being almost totally covered with desert. As a result, when it comes to Arizona auto transport, you must keep in mind that the state is mostly desert.
 
-                    <a target="_blank" rel="nofollow" href="https://www.phoenix.gov/"><span class="california-state-span"><b>Phoenix</b></span></a> is a major car shipment hub and one of the most well-known in the United States. In reality, the entire Phoenix metro region is one massive car transportation center , with millions of people living there. Carriers have a lot of clients to pick from.
+                    Phoenix is a major car shipment hub and one of the most well-known in the United States. In reality, the entire Phoenix metro region is one massive car transportation center , with millions of people living there. Carriers have a lot of clients to pick from.
                 </p>
                 <br>
-                <h4>Why we are best auto transport company in Arizon ?</h4>
+                <h4 class="utility_main-heading" style="font-size:24px;">Why we are best auto transport company in <span>Arizona</span>?</h4>
                 <p>
-                    Rapid Auto Shipping treats every customer equally with respect. We help them to transport their vehicles on time without any hustle at <a href="<?= home_path() ?>blogs/cheapest-way-to-ship-a-car"><span class="california-state-span"><b>Affordable </b></span></a>
-                    rates. We provide full insurance to their cars and deliver them from door to door with no damage. You can have peace of mind knowing that in the unlikely event your car suffers damage during transportation your vehicle. We've got you covered; our insurance will take care of the claim fast and efficiently. We bonded and licensed a company that every customer trusts. We offer customers to schedule their transportation without any deposit. Moreover, we provide trustworthy carriers to the customers so they can have the best experience of transportation.
+                    Rapid Auto Shipping treats every customer equally with respect. We help them to transport their vehicles on time without any hustle at Affordable rates. We provide full insurance to their cars and deliver them from <a href="<?= home_path() ?>services/door-to-door"><b>door to door</b></a> with no damage. You can have peace of mind knowing that in the unlikely event your car suffers damage during transportation your vehicle. We've got you covered; our insurance will take care of the claim fast and efficiently. We bonded and licensed a company that every customer trusts. We offer customers to schedule their transportation without any deposit. Moreover, we provide trustworthy carriers to the customers so they can have the best experience of transportation.
                 </p>
             </div>
             <div class="first-california-state-grid-box">
@@ -177,9 +176,9 @@
             <div class="third-california-state-grid-1">
                 <ion-icon name="card-sharp"></ion-icon>
                 <h3 class="sub-heading">How to get price ?</h3>
-                <p>To get the instant cost from best Arizona Auto Transport company you can directly contact us at <a href="tel:-833-233-4447" title="Call Now For Auto Transport USA"><span class="california-state-span">:+1-833-233-4447</span> </a> our executives will make sure that you will get the best quote and most of the discounts for your shipping .</p>
+                <p>To get the instant cost from best Arizona Auto Transport company you can directly contact us at <a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">:+1 (833) 233-4447</a> our executives will make sure that you will get the best quote and most of the discounts for your shipping .</p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
             <div class="third-california-state-grid-1">
@@ -187,7 +186,7 @@
                 <h3 class="sub-heading">24 * 7 customer support</h3>
                 <p>Our team of professionals at best Arizona Auto Transport company work around the clock, 365 days a year, to ensure our Car shipping services in Arizona runs like clockwork. and provide you Assisstance 24*7.</p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
             <div class="third-california-state-grid-1">
@@ -197,7 +196,7 @@
                     Everyone’s needs are different, which is why we offer fully customizable Arizona Car shipping services in Arizona . Our dedicated shipping advisors work with you to provide best service.
                 </p>
                 <div class="third-california-state-grid-1-btn">
-                    <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
+                    <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Contact us</a></button>
                 </div>
             </div>
         </div>
@@ -212,11 +211,11 @@
             <span class="california-state-span"> Discounts </span>while Arizona Auto Transportation Services
         </h2>
         <p>
-            At <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span">Rapid Auto Shipping</span> </a> we try to give you the most affordable prices for your Arizona Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
+            At Rapid Auto Shipping we try to give you the most affordable prices for your Arizona Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>
-        Rapid Auto Shipping offers some special discounts to their valued customers to seniors and students who wish to transport their cars throughout the <a href="https://tgal.us/military-pov-shipping/" target="_blank" rel="nofollow" title="Military transport USA"><span class="california-state-span"><b>U.S. Military</b></span></a> members can also take the benefits of these discounts. But those customers who do not relate to these categories can take our seasonal offers. Save your time, energy, and especially money by working with us.
+        Rapid Auto Shipping offers some special discounts to their valued customers to seniors and students who wish to transport their cars throughout the <a href="https://tgal.us/military-pov-shipping/" target="_blank" rel="nofollow" title="Military transport USA">U.S. Military</a> members can also take the benefits of these discounts. But those customers who do not relate to these categories can take our seasonal offers. Save your time, energy, and especially money by working with us.
         </p>
     </section>
     <!-- ----------------------------- -->
@@ -230,12 +229,12 @@
             </h2>
             <p>
                 If you want to auto shipping Arizona,
-                <a href="<?= home_path(); ?>" title="Auto Shipping Company USA"><b>Rapid Auto Shipping</b></a>
+                Rapid Auto Shipping
                 will help you to make it easier. Rapid Auto Shipping is a company that specializes in Arizona Auto Transport, Auto Transport in Arizona, Car shipping services in Arizona and other parts of the United States. We will provide an appropriate quote for the shipment of your vehicle within a few seconds.
                 All you have to do is fill out our free online form and you’ll get a free quote, without any hassle auto transport quote immediately with just a few clicks. If you have any questions, please contact us and you will be connected to a real, knowledgeable agent; there will be no waiting on hold, and we will assist you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that: on time and on budget.
             </p>
             <div class="five-california-state-box-btn utility_grid-center">
-                <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
+                <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
             </div>
         </div>
     </section>
@@ -288,7 +287,7 @@
                     <h3 class="utility_sub-heading">Door to Door auto Transport</h3>
                     <p>
                         Door to door definitely is also known as house to house service, which kind of is fairly significant. This mostly is the most convenient service in which generally your car will particularly be essentially picked up and delivered at pretty your for all intents and purposes particular preferred destination without any hassle and bustle, which actually is fairly significant. Moreover,
-                        <a href="<?= home_path(); ?>" title="Best auto transport company USA"><b>Rapid Auto Shipping</b></a>
+                        Rapid Auto Shipping
                         can provide you door-to-door service within 50 states of the U.S without charging you even a single penny extra in a really major way. The driver will basically come to the address of your choice and will pick up your wheels and drop that at particularly your selected precise address whether it essentially is a dealership, business, or residential place of security and safety in a sort of major way.
                     </p>
                     <button><a href="<?= home_path(); ?>services/door-to-door" title="luxury and classic car trnasport description">Know More</a></button>
@@ -303,7 +302,7 @@
     <section class="ten-percent-offer-box utility_flex" id="get_instant_quote_through_call">
         <h2>Ship now and get <span> 10% off</span></h2>
         <p>At Rapid Auto Shipping we provide affordable prices,on-time delivery, 24*7 services, ship tracking feature and hassle free services.</p>
-        <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA"> Contact Us</a></button>
+        <button><a href="tel:+1 (833) 233-4447" title="Call Now For Auto Transport USA"> Contact Us</a></button>
     </section>
     <!-- ----------------------------- -->
     <!-- --------seventh section---------- -->
@@ -316,7 +315,7 @@
             <div class="seventh-california-state-box-content">
                 <h2 class="utility_sub-heading">Snowbird Shipping</h2>
                 <p>
-                    The major leading snowbird states in the USA are <a target="_blank" rel="nofollow" href="https://az.gov" title="Arizona State Car shipping"><span class="california-state-span"><b>Arizona</b></span></a>, Arizona, California, Florida, and so on. Generally, all paths that go from north to south are called Snowbird routes. In addition, prices usually start soaring during the <a  rel="nofollow" target="_blank" title="Snowbird auto transport USA" href="https://azmag.gov/Newsroom/MAG-News/boosting-the-economic-impact-of-canadian-snowbirds-in-arizona"><span class="california-state-span"><b>snowbird season</b></span></a> because during that time the Arizona Auto Transport company drivers have so many options, so they always go with the highest amount. So it is recommended that the customers don't get attracted to the lowest prices because, at the end of the day, it's only going to waste your precious time. </p>
+                    The major leading snowbird states in the USA are Arizona, Arizona, California, Florida, and so on. Generally, all paths that go from north to south are called Snowbird routes. In addition, prices usually start soaring during the snowbird season because during that time the Arizona Auto Transport company drivers have so many options, so they always go with the highest amount. So it is recommended that the customers don't get attracted to the lowest prices because, at the end of the day, it's only going to waste your precious time. </p>
                 </p>
                 <button><a href="<?= home_path(); ?>services/snow-bird-shipping" title="snowbird shipping USA">Know More</a></button>
             </div>
