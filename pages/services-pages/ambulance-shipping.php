@@ -80,7 +80,6 @@
                 <h2 class="heading-1">When You Choose <span>Rapid Auto Shipping</span>, You Choose Dependable Ambulance Relocation.</h2>
                 <p class="para-2">
                     Rapid Auto Shipping is well-known for providing trustworthy transportation and freight throughout the continent of North America. Heavyweights, such as construction equipment, heavy machinery, and other huge heavy loads, are the company's specialty. The government has fully certified, bonded, and insured Rapid Auto Shipping to move loads throughout North America, including the United States, Canada, and Mexico. The firm employs skilled drivers that can transport loads of any size, shape, or dimension and guarantee on-time delivery. When it comes to price, the Rapid Auto Shipping is the cheapest; they operate with a skilled logistics team that assists in plotting the most efficient route for clients. We offer load tracking upon request and provide customer service seven days a week from 7 a.m. to 10 p.m. EST.
-
                 </p>
             </div>
 
@@ -113,7 +112,6 @@
                     <li id="2">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1"><span>Ambulance Shipping</span> Service</h2>
-
                             <p class="para-2">Rapid Auto Shipping are professionals at transporting all types of heavy construction equipment, huge goods, and agricultural machinery to your desired location. We have a team of experts who can help you match your load with a vehicle that is both acceptable and inexpensive. Our logistics crew is trained and qualified to manage your ambulance and transport it to your preferred location in a timely and safe manner. Because we integrate contemporary innovations and technologies into our transportation services, we take satisfaction in serving our clients professionally and being able to deliver great logistics services.</p>
 
 
