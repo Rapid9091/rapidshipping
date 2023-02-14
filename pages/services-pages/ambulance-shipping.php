@@ -7,31 +7,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Open Carrier Transport Car Shipping Services | +1-833-233-4447</title>
-    <meta name="title" content="Open Carrier Transport Car Shipping Services | +1-833-233-4447">
-    <meta name="description" content="Secure And Reliable Auto Transport Carriers. We can ship vehicles of any size. Open Transport Car Shipping, We Can Help. you to  open transport car shipping" />
+    <title>The Best Ambulance Transport Services| RAPID AUTO SHIPPING</title>
+    <meta name="title" content="The Best Ambulance Transport Services| RAPID AUTO SHIPPING" />
+    <meta name="description" content="Ambulance transportation is a specialty of Rapid Auto Shipping. We are experts in offering shipping services for ambulances in all states." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Open Carrier Transport Car Shipping Services | +1-833-233-4447" />
-    <meta property="og:description" content="Secure And Reliable Auto Transport Carriers. We can ship vehicles of any size. Open Transport Car Shipping, We Can Help. you to  open transport car shipping" />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/open-car-shipping" />
-    <meta property="og:img" content="https://rapidautoshipping.com/assets/images/vaibhv-img.png" />
-    <meta property="og:site_name" content="Open Carrier Transport Car Shipping Services | +1-833-233-4447" />
+    <meta property="og:title" content="The Best Ambulance Transport Services| RAPID AUTO SHIPPING" />
+    <meta property="og:description" content="Ambulance transportation is a specialty of Rapid Auto Shipping. We are experts in offering shipping services for ambulances in all states." />
+    <meta property="og:url" content="https://rapidautoshipping.com/services/ambulance-shipping" />
+    <meta property="og:site_name" content="The Best Ambulance Transport Services| RAPID AUTO SHIPPING" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car carrier, open transport, automobile carrier, car shipping carriers, open auto, carrier for car, truck for car transport, get carrier auto transport, auto truck transport, auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport">
-    <meta property="article:tag" content="open transport" />
-    <meta property="article:tag" content="automobile carrier" />
-    <meta property="article:tag" content="car shipping carriers" />
-    <meta property="article:tag" content="open auto, carrier for car" />
-    <meta property="article:tag" content="truck for car transport" />
-    <meta property="article:tag" content="get carrier auto transport" />
-    <meta property="article:tag" content="auto truck transport" />
-    <meta property="article:tag" content="auto transport carriers" />
-    <meta property="article:tag" content="open transport car shipping" />
-    <meta property="article:tag" content="open transport car shipping" />
-    <meta property="article:tag" content="auto transporters carriers" />
-    <meta property="article:tag" content="open carrier car shipping" />
-    <meta property="article:tag" content="open auto transport" />
-
+    <meta name="keywords" content="Ambulance car, ambulance, heavy duty ambulance, truck ambulance, how much does an ambulance weigh, is an ambulance a commercial vehicle, ambulance trailer, ambulance salvage yard, is an ambulance a commercial vehicle, ambulance truck, ambulance work truck, Ambulance car, ambulance, heavy duty ambulance, truck ambulance, how much does an ambulance weigh, is an ambulance a commercial vehicle, ambulance trailer, ambulance salvage yard, is an ambulance a commercial vehicle, ambulance truck" />
+    <meta property="article:tag" content="Ambulance car" />
+    <meta property="article:tag" content="ambulance" />
+    <meta property="article:tag" content="heavy duty ambulance" />
+    <meta property="article:tag" content="truck ambulance" />
+    <meta property="article:tag" content="how much does an ambulance weigh" />
+    <meta property="article:tag" content="is an ambulance a commercial vehicle" />
+    <meta property="article:tag" content="ambulance trailer" />
+    <meta property="article:tag" content="ambulance salvage yard" />
+    <meta property="article:tag" content="is an ambulance a commercial vehicle" />
+    <meta property="article:tag" content="ambulance truck" />
+    <meta property="article:tag" content="ambulance work truck" />
     <!--     Google Analytics Code Start -->
 
 
@@ -58,9 +54,10 @@
             background-size: cover;
 
         }
+
         .third-section-state {
-    background-color: rgb(0, 0, 0, 0.6) !important;
-}
+            background-color: rgb(0, 0, 0, 0.6) !important;
+        }
     </style>
 </head>
 
@@ -69,7 +66,7 @@
     <?php include header; ?>
     <!-- this is the fiorst section with background image -->
     <div class="contact-us-header-page">
-    <?php
+        <?php
         $NAME = "Ambulance shipping";
         $PARAGRAPH = "Rapid Auto Shipping specialises in moving all forms of heavy construction equipment, large commodities, and agricultural gear to their final destination. We have a team of professionals who can assist you in matching your load with a suitable and cost-effective truck. Our logistics team is skilled and prepared to manage and transfer your ambulance to your selected location in a fast and safe manner.";
         include small_form;
@@ -82,7 +79,7 @@
             <div class="first-section-state-to-state">
                 <h2 class="heading-1">When You Choose <span>Rapid Auto Shipping</span>, You Choose Dependable Ambulance Relocation.</h2>
                 <p class="para-2">
-                Rapid Auto Shipping is well-known for providing trustworthy transportation and freight throughout the continent of North America. Heavyweights, such as construction equipment, heavy machinery, and other huge heavy loads, are the company's specialty. The government has fully certified, bonded, and insured Rapid Auto Shipping to move loads throughout North America, including the United States, Canada, and Mexico. The firm employs skilled drivers that can transport loads of any size, shape, or dimension and guarantee on-time delivery. When it comes to price, the Rapid Auto Shipping is the cheapest; they operate with a skilled logistics team that assists in plotting the most efficient route for clients. We offer load tracking upon request and provide customer service seven days a week from 7 a.m. to 10 p.m. EST.
+                    Rapid Auto Shipping is well-known for providing trustworthy transportation and freight throughout the continent of North America. Heavyweights, such as construction equipment, heavy machinery, and other huge heavy loads, are the company's specialty. The government has fully certified, bonded, and insured Rapid Auto Shipping to move loads throughout North America, including the United States, Canada, and Mexico. The firm employs skilled drivers that can transport loads of any size, shape, or dimension and guarantee on-time delivery. When it comes to price, the Rapid Auto Shipping is the cheapest; they operate with a skilled logistics team that assists in plotting the most efficient route for clients. We offer load tracking upon request and provide customer service seven days a week from 7 a.m. to 10 p.m. EST.
 
                 </p>
             </div>
@@ -96,7 +93,7 @@
                     <li><a href="#2">ambulance shipping service</a></li>
                     <li><a href="#3">selecting the most appropriate shipping ambulance services</a></li>
                     <li><a href="#4">we are the most preferred ambulance service provider all around the united states</a></li>
-                    
+
                 </ul>
             </div>
             <!-- section from which shipping started here -->
@@ -108,7 +105,7 @@
                 <ul>
                     <li id="1">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Choosing <span>Ambulance Transport</span>  Drivers</h2>
+                            <h2 class="heading-1">Choosing <span>Ambulance Transport</span> Drivers</h2>
                             <p class="para-2">Because we aim to assure safety, Rapid Auto Shipping is picky about the types of drivers we hire for shipping ambulances. We go to great pains to do background checks and guarantee that the drivers we hire are capable of handling the job. Ambulance shipping necessitates a high level of attention to detail and the ability to solve problems quickly. Our employees must have the appropriate skills and mental preparation to handle the task. When it comes to shipping ambulances, Rapid Auto Shipping is the finest option.</p>
 
                         </div>
@@ -141,7 +138,7 @@
 
                         </div>
                     </li>
-                    
+
 
                 </ul>
 
