@@ -43,10 +43,6 @@
             background-size: center;
         }
 
-        .affordable-ways-page-grid {
-            padding-right: 4%;
-        }
-
         .affordable-ways-page-grid-content-1 {
             margin-bottom: 2%;
         }
@@ -55,13 +51,23 @@
             margin: 2% 0;
         }
 
-        .affordable-ways-page-grid-content-1>p {
+        .affordable-ways-page-grid-content-1>p,
+        .text {
             padding: 2% 0;
-            font-size: 15px;
+            font-size: 17px;
+            line-height: 1.8;
+        }
+
+        .third-section-state {
+            background-color: rgb(0, 0, 0, 0.5);
         }
 
         .affordable-ways-page-grid-content-1>ul {
             padding: 2% 0;
+        }
+
+        .why-choose-us-grid-box>p {
+            line-height: 1.6;
         }
     </style>
 </head>
@@ -88,9 +94,12 @@
     <div class="arkansas-top-companies-2022-container">
         <div class="affordable-ways-page-grid">
             <div class="affordable-ways-page-grid-content-1">
-                <h2> ATV shipping services
+                <div class="shipping-form-state-image" style="margin-bottom:5%;">
+                    <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676378948/Recent%20Uploads/quad-atv-cars-all-terrain-vehicle-parked-mountain-road_1_gckfvc.jpg" alt="ATV TRANSPORT IN USA" />
+                </div>
+                <h2 class="heading-1"> <span>ATV shipping</span> services
                 </h2>
-                <p>
+                <p class="para-2">
                     All-terrain electric vehicles don't require petrol refills. Your car won't, however, go as quickly as one with a conventional engine because of this.
 
                     Our customers who export ATVs and side-by-side ATVs are frequently astonished to learn that, similar to motorcycles, hiring someone to move smaller cars is relatively reasonable. In fact, when the risk of damage is considered—we've seen plenty of heavy lifting trucks with smashed cab windows as a result of ATV hauling—it frequently makes more sense and is less expensive in the long run to ship it professionally. We take the necessary procedures, guarantee secure delivery, and provide shipping at a reasonable price.
@@ -133,8 +142,11 @@
                     <li style="list-style:disc;"> If at all feasible, take away all accessories and personal stuff.</li>
                     <br>
                     Remember that the sort of trailer your carrier has will affect how you prepare your ATV for shipping. If you have any inquiries about transporting your ATV, don't hesitate to get in touch with your carrier. They will be able to help you prepare for a secure shipment.
-
+                <div class="shipping-form-state-image">
+                    <img style=" width:100%;" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676378948/Recent%20Uploads/quad-beach_1_x8dw2o.jpg" alt="ATV TRANSPORT IN USA" />
+                </div>
                 </p>
+
             </div>
         </div>
 
