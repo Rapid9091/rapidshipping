@@ -126,7 +126,7 @@
                         <br><br>
                         We go above and beyond, monitor the entire shipping process, and prioritise your needs to ensure that you receive what you desire and anticipate. <b style="color:var(--nav-color);">Rapid Auto Shipping</b> always does things right the first time. Our expertise in delivering exotic cars and our depth of experience are unmatched by any other shipping firm.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666432435/Recent%20Uploads/exotic-car-min_jbuf4y.jpg" alt="Exotic and car shipping">
+                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676378721/Recent%20Uploads/exotic-car1_dpjhox.jpg" alt="Exotic and car shipping">
                 </div>
                 <div class="new-blog-section-one">
                     <h2>HOW MUCH DOES IT COST TO TRANSPORT AN EXOTIC CAR?  (<ion-icon style="color:var(--nav-color);" name="wallet-sharp"></ion-icon>)
@@ -142,7 +142,7 @@
                     <p>
                         In order to provide historic and expensive vehicles with the essential protection from the elements that other movers might not totally provide, enclosed car transport is a specialised service. Our top-notch enclosed transport keeps cars in excellent condition throughout the trip and assures that there is absolutely no chance of harm to the vehicle in any way. The extra safety precautions of an enclosed service give you complete peace of mind for the entire time of the delivery of the vehicle when you are investing in your dream car.
                     </p>
-                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666434490/Recent%20Uploads/transport-3369756_1280_rgvufw.jpg" alt="Enclosed Exotic and car shipping">
+                    <img style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676378721/Recent%20Uploads/exotic-car2_ewxn4b.jpg" alt="Enclosed Exotic and car shipping">
                 </div>
                 <div class="new-blog-section-one">
                     <h2>IS THE SHIPPING PROCEDURE FOR EXOTIC CARS THE SAME AS FOR OTHER CARS</h2>
