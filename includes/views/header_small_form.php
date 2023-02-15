@@ -36,7 +36,7 @@ $form_url = home_path() . "services/short_form.php?redirectto=" . current_path()
                 <button type="button" onclick="submit_from()">Submit</button>
             </div>
             <div class="customer-face-section" style="display:flex;justify-content:center;align-items:center; ">
-                <img src="<?= get_img() ?>customer-faces.png" style="height:40px; " alt="Rapid Auto Shipping" />
+                <img loading="lazy" src="<?= get_img() ?>customer-faces.png" style="height:40px; " alt="Rapid Auto Shipping" />
                 <p style="color:#808080; font-size:12px; text-align:center;">
                     <span style="color:#ff5722;font-weight:bold;"> 29284</span>
                     people shipped using<br>
@@ -54,9 +54,9 @@ $form_url = home_path() . "services/short_form.php?redirectto=" . current_path()
 </form>
 <div class="pop-backgroud" id="pop-up-login">
     <section class="profile-details-section" id="form">
-        <img src="<?= get_img() ?>/cross-mark.png" onclick="hide_pop_up()" class="cross-mark" alt="rapid-auto-shipping" />
+        <img loading="lazy" src="<?= get_img() ?>/cross-mark.png" onclick="hide_pop_up()" class="cross-mark" alt="rapid-auto-shipping" />
 
-        <img src="<?= get_img() ?>/check-mark.png" alt="rapid-auto-shipping" />
+        <img loading="lazy" src="<?= get_img() ?>/check-mark.png" alt="rapid-auto-shipping" />
         <h5>Thank You</h5>
         <p>For Getting an Immediate Quote Call <br><a href="<?= home_path(); ?>"><b>Rapid Auto Shipping </b></a> now</p>
         <a href="tel:+1-833-233-4447">+1 (833) 233-4447</a>
