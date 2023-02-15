@@ -48,7 +48,7 @@
     </style>
 
     <!-- schema sent by aniket -->
-    <script type="application/ld+json">
+    <script defer type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "Corporation",
@@ -67,7 +67,7 @@
             ]
         }
     </script>
-    <script type="application/ld+json">
+    <script defer type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "WebSite",
