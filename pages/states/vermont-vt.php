@@ -65,7 +65,7 @@
 
         <?php
         $NAME = "Auto Transport Company In Vermont";
-        $PARAGRAPH = "Montpelier, the state capital, is the least populous in the United States. Burlington, the most populated city in the state, is the least populous city in the state. Vermont has a humid climate that is typical of New England. It features hot, humid summers and chilly winters, which (as is customary) get colder as you go higher up. This does not deter many individuals from taking advantage of everything Vermont has to offer.";
+        $PARAGRAPH = "Moving to or from Vermont is never easy, particularly if you worry about shipping your car. There is no denying that Rapid Auto Shipping is the top auto transporter in the country. The large number of customers who use our automobile shipping services every day is sufficient evidence of their confidence in us. We are also highly effective when transporting a vehicle to or from Vermont. Rapid Auto Shipping will transport your car safely by employing one of our experienced carriers.";
         include small_form;
         ?>
     </div>

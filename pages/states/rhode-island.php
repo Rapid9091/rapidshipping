@@ -63,7 +63,7 @@
 
         <?php
         $NAME = "Car Transport company in Rhode Island";
-        $PARAGRAPH = "The condition of the state Rhode Island is located in the United States of America's Midwestern region, and it is the 34th largest state by geographical area, as well as the seventh most populous and tenth most densely populated of the fifty states, with a population of around 11.8 million people. Columbus is the state's capital and largest city.";
+        $PARAGRAPH = "Are you trying to find a firm to ship your automobile to or from Rhode Island? Rapid Auto Shipping is an expert in shipping cars across the country to or from Rhode Island. We have more than ten years of experience in the car shipping industry. Rapid Auto Shipping provides you with a free quotation based on your service requirements for transporting an automobile to or from Rhode Island. However, there's no need to worry about the deadline since our shipping experts will take every precaution to guarantee that you receive a swift and seamless Rhode Island auto transport service with no delays.";
         include small_form;
         ?>
     </div>

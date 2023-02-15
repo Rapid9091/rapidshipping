@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Cargo Van Transportation Services - Rapid Auto Shippping</title>
-    <meta name="title" content="Cargo Van Transportation Services - Rapid Auto Shippping" />
+    <title>Best Cargo Van Auto Transport Services | +1-833-233-4447</title>
+    <meta name="title" content="Best Cargo Van Auto Transport Services | +1-833-233-4447" />
     <meta name="description" content="Rapid Auto Shipping known for providing the most trusted Cargo Van Transportation Services in town. For small cargo vans transportation call us!" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Cargo Van Transportation Services - Rapid Auto Shippping" />
+    <meta property="og:title" content="Best Cargo Van Auto Transport Services | +1-833-233-4447" />
     <meta property="og:description" content="Rapid Auto Shipping known for providing the most trusted Cargo Van Transportation Services in town. For small cargo vans transportation call us!" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/cargo-vans-services" />
-    <meta property="og:site_name" content="cargo van services - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Best Cargo Van Auto Transport Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="van delivery, cargo delivery service, delivery van, van for delivery service, van deliveries, van delivery service, van delivery services, cargo van delivery, cargo delivery services, van pickup service, van for delivery, delivery van service, cargo delivery services, van pick up service, van courier service, cargo delivery van" />
     <meta property="article:tag" content="van delivery" />
@@ -63,7 +63,7 @@
     <!-- new section under the first section of single line -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = " Cargo Vans Shipping";
+        $NAME = "Van Transport Service";
         $PARAGRAPH = "You've come to the right place if you need aid moving cargo vans. Rapid Auto Shipping offers the most dependable Cargo Van Hauling Services in town. We are the number one brand name on the market for all of your transportation needs. Rapid Auto Shipping provides the experience and knowledge to assist you with Hauling Cargo Vans, a more involved procedure than other forms of transport. ";
         include small_form;
         ?>

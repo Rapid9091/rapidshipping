@@ -61,7 +61,7 @@
 
          <?php
             $NAME = "New Jersey car shipping services";
-            $PARAGRAPH = "New Jersey is a state in the Mid-Atlantic region of the United States, located in the northeastern United States. New Jersey is the fifth-smallest state by area, with 7, 354 square miles (19, 050 km2), yet it is the 11th-most populous and densely inhabited, with around 9.3 million residents. Trenton is the state capital, while Newark is the state's most populated city. All of the state's counties, with the exception of Warren, are part of the combined statistical areas of New York City or Philadelphia, making Greater New York the state's largest metropolitan region.";
+            $PARAGRAPH = "Rapid Auto Shipping can provide a car shipping service to or from New Jersey if you need to ship your automobile. After shipping automobiles for so long, Rapid Auto Shipping employs experienced drivers that know the fastest and best routes throughout New Jersey. They travel on I-78, which enters New Jersey from Pennsylvania at Easton and continues to Clinton, Alpha, Liberty Corner, Bloomsbury, Lebanon, and Union Township. Along with this, our support teams look after your cargo and guarantee its success.";
             include small_form;
             ?>
      </div>
