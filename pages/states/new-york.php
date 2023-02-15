@@ -73,7 +73,7 @@
 
          <?php
             $NAME = "Best New York car shipping Company";
-            $PARAGRAPH = "If you are interested in shipping a vehicle to or from the state of New York, give us a call. New York is a fabulous place, with a rich history and sightseeing, and cozy weather to enjoy, and Rapid Auto Shipping can help you to get there and have an amazing experience. All you have to do is fill out our free online form or call us toll-free at +1-833-233-4447 and you’ll get a free, no-hassle auto transport quote immediately.";
+            $PARAGRAPH = "Rapid Auto Shipping has years of expertise in automobile shipping in New York. Auto transfer to and from New York is another one of our specialities. We only deal with the safest and most reputable vehicle haulers on the road. Our professional moving consultants examine your vehicle or cars to build the optimal transportation strategy for you and your vehicle. In addition, our in-house coordinators will assist you throughout the entire transportation procedure.";
             include small_form;
             ?>
      </div>

@@ -77,7 +77,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Fifth Wheel Transport";
-        $PARAGRAPH = "A fifth wheel is an RV that is designed to be coupled to a fifth wheel. This is a horseshoe-shaped coupling device that can be used on semi-trucks and can be installed in pickup trucks. Pickup trucks with a fifth wheel in the truck bed are most commonly used to transport fifth-wheel RVs.Fifth wheels are not to be confused with camper or trailer RVs, which connect to a standard trailer hitch and are typically much smaller. They're also separate from motorised RVs, sometimes known as motorhomes, which are completely self-contained motorised vehicles that aren't hauled by a truck.";
+        $PARAGRAPH = "For Fifth Wheel shipping and transportation, Rapid Auto Shipping is the industry-leading company. To get your equipment where it needs to go, we provide a range of fifth-wheel trailer shipping and relocation options. There are various advantages to using fifth-wheel transportation services when moving equipment. While moving different kinds of trailers, fifth-wheel shipping also provides alternatives to standard flatbed or trailer freight when hauling equipment. Rapid Auto Shipping offers specialised solutions that are tailored to your requirements for 5th wheel transfer.";
         include_once small_form;
         ?>
     </div>

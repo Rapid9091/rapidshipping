@@ -62,7 +62,7 @@
     <div class="contact-us-header-page">
         <?php
         $NAME = "Top Multi car shipping Services";
-        $PARAGRAPH = "When shipping many automobiles, the transport procedure is sped up since the number of pauses between deliveries is minimized. Because automobiles heading for the same destination are grouped together and sent together, multi car transportation is also less expensive. ";
+        $PARAGRAPH = "Shipping an automobile from an auto auction is not difficult, nor is ordering multi vehicles from a single yard. Rapid Auto Shipping provides transportation flexibility, and You may easily organise multiple car transportation with us to save time and money. For more than ten years, Rapid Auto Shipping has worked with individual clients, car dealerships, and fleet management firms. One of our specialities is multi car shipping.";
         include_once small_form;
         ?>
     </div>
@@ -147,7 +147,7 @@
                             <h2 class="heading-1">Who Transports <span>Multiple Vehicles</span> At The Same Time?</h2>
                             <p class="para-2">Auto shipping firms are always pleased to transport many vehicles at the same time—in fact, this is an excellent situation for car shipping. Shipping many automobiles together saves them time and money, which they can pass on to the client in the form of lower costs. Here are some instances of clients who commonly have multiple vehicles transported at the same time.
                                 <br><br>
-                                Automobile dealerships and rental organizations frequently need to transport many automobiles at the same time. This allows them to maintain their automobile inventory stocked while also saving money on multi car transportation costs.
+                                Automobile dealerships and rental organizations frequently need to transport many automobiles at the same time. This allows them to maintain their automobile inventory stocked while also saving money on multi <strong><a href="<?= home_path() ?>blogs/cost-to-ship-a-car">car transportation costs</a></strong>.
                                 <br><br>
                                 Individuals and families - It's fairly uncommon for families or individuals to require the transportation of multiple vehicles at the same time. This is most common when relocating large distances or buying many cars at an auction or online. As a result, multi car transportation becomes necessary in this situation.
                             </p>
@@ -157,7 +157,7 @@
                             </div>
                             <p class="para-2">Businesses and corporations - Businesses and firms with a fleet of vehicles or many cars utilized for commercial purposes may need to relocate them at times. This could be due to a move, or it could simply be to ship many cars to another branch or office. It makes no difference how many automobiles you want to move because we provide the best car delivery service regardless of the quantity of vehicles.
                                 <br><br>
-                                Military Members - Relocation is a frequent aspect of life for members of the armed forces and their families, and it is not limited to active duty. In addition to the discounts offered for shipping multiple vehicles at once, being a member of the Army, Navy, Marines, Air Force, or Coast Guard usually entitles you to transportation discounts. These discounts can be combined with multi car shipping discounts to save even more money. You can even add more automobiles from friends who are travelling to the same location to save money on multiple vehicle open transportation
+                                Military Members - Relocation is a frequent aspect of life for members of the armed forces and their families, and it is not limited to active duty. In addition to the discounts offered for shipping multiple vehicles at once, being a member of the Army, Navy, Marines, Air Force, or Coast Guard usually entitles you to transportation discounts. These discounts can be combined with multi car shipping discounts to save even more money. You can even add more automobiles from friends who are travelling to the same location to save money on multiple vehicle <strong><a href="<?= home_path() ?>services/open-car-shipping">open transportation</a></strong>
                             </p>
 
 
