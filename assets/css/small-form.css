@@ -83,6 +83,7 @@
   border-radius: 7px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   padding: 5%;
+  max-width: 410px;
 }
 
 .third-section-form > div > p:first-child {
@@ -262,7 +263,7 @@ div[class*="vehicle-car-"] > input {
   }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 750px) {
   .third-section-state {
     grid-template-columns: 100%;
     grid-gap: 0;
