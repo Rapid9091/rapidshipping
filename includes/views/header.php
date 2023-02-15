@@ -2,7 +2,7 @@
 <!-- ----------offer popup css----------- -->
 <!-- ------------------------------- -->
 
-<style>
+<!-- <style>
     #offer_container {
         position: fixed relative;
         top: 15%;
@@ -73,7 +73,7 @@
 
         color: #ff5227;
     }
-</style>
+</style> -->
 
 <header class="header">
     <!-- write heder code here -->
@@ -418,7 +418,7 @@
 <!-- ---- dialog box on opening site ---- -->
 <!-- ------------------------------- -->
 
-<style>
+<!-- <style>
     #open_offer_container {
         top: 15%;
         left: 50%;
@@ -474,7 +474,7 @@
             right: -24% !important;
         }
     }
-</style>
+</style> -->
 
 
 <!-- <dialog id="open_offer_container" class="opening_popup_mobile">
@@ -495,26 +495,26 @@
 </dialog> -->
 
 
-<script>
-    var open_offer_container = document.getElementById("open_offer_container");
+    <!-- <script defer>
+        var open_offer_container = document.getElementById("open_offer_container");
 
-    if (localStorage.getItem("developerName")) {
-        open_offer_container.close();
-    } else {
-        setTimeout(
-            function() {
-                open_offer_container.showModal();
-                localStorage.setItem("developerName", "satyam");
-            }, 30000
-        );
-    }
-
-    function close_open_offer_box() {
-        try {
+        if (localStorage.getItem("developerName")) {
             open_offer_container.close();
-        } catch (e) {}
-    }
-</script>
+        } else {
+            setTimeout(
+                function() {
+                    open_offer_container.showModal();
+                    localStorage.setItem("developerName", "satyam");
+                }, 30000
+            );
+        }
+
+        function close_open_offer_box() {
+            try {
+                open_offer_container.close();
+            } catch (e) {}
+        }
+    </script> -->
 
 <!-- ------------------------------- -->
 <!-- --- dialog box on leaving site --- -->
@@ -535,7 +535,7 @@
 <!-- ------------------------------- -->
 <!-- js dialog box on leaving site -->
 <!-- ------------------------------- -->
-<script type="text/javascript">
+<!-- <script type="text/javascript" defer>
     var offer_box_cut_btn = document.getElementById('offer-box-cut-btn');
 
     function addEvent(obj, evt, fn) {
@@ -561,9 +561,9 @@
             }
         });
     });
-</script>
+</script> -->
 
-<script>
+<!-- <script defer>
     var offer_box_cut_btn = document.getElementById('offer-box-cut-btn');
     var offer_container = document.getElementById('offer_container');
     var offer_container_box = document.getElementById("offer-container");
@@ -574,4 +574,4 @@
 
         } catch (e) {}
     }
-</script>
+</script> -->
