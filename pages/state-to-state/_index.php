@@ -31,7 +31,7 @@ if (isset($_GET['page_id'])) {
 
     <!--     Google Analytics Code Ends -->
 
-    <?php include head; ?>
+              <?php include_once head; ?>
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_home.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_contactus.css">
     <!-- animation css link   -->
