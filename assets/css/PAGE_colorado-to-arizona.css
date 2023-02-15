@@ -450,7 +450,7 @@ div[class*="special-red-btn"] {
     padding: 5%;
   }
 }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
   .main-state-to-state {
     grid-template-columns: 100%;
     padding: 5%;
