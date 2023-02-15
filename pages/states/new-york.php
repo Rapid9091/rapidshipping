@@ -275,7 +275,7 @@
          </h2>
          <div class="third-california-state-desc">
              <p class="text">
-                 The <strong><a href="<?= home_path() ?>blogs/cost-to-ship-a-carservices/heavy-hauling-large-cargo">cost of transporting a vehicle</a></strong> is not simple to calculate. The total price of transportation varies according to several factors. There are multiple factors that can affect the cost such as distance between the locations, size of the vehicle, and its type.
+                 The <strong><a href="<?= home_path() ?>blogs/cost-to-ship-a-car">cost of transporting a vehicle</a></strong> is not simple to calculate. The total price of transportation varies according to several factors. There are multiple factors that can affect the cost such as distance between the locations, size of the vehicle, and its type.
 
                  Apart from that, other considerations like the season, for example, if you want to ship your vehicle during Snowbird season, the prices will be high due to the demand. Other factors such as weather, operable or inoperable vehicles, can change the price.
 
