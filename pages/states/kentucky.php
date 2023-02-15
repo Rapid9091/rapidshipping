@@ -64,12 +64,16 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
-            background-image: url('<?= get_img() ?>kentucky-state-bg.jpg');
+            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
+        }
+
+        .third-section-state {
+            background-color: rgb(0, 0, 0, 0.8);
         }
     </style>
 </head>
@@ -94,9 +98,9 @@
         <div class="first-california-state-grid utility_grid">
             <div class="first-california-state-grid " id="description_while_shipping_Kentucky">
                 <p class="text">
-                    <a href="https://en.wikipedia.org/wiki/Kentucky"><span class="california-state-span"><b>Kentucky</b></span></a> is a state in the Southeastern United States with the population of 4.5 million, bordered on the north by Illinois, Indiana, and Ohio, on the east by West Virginia and On the north, it is bordered by Maryland and Virginia; on the south, it is bordered by Tennessee; and on the west, it is bordered by Missouri. The Ohio River runs through the state's northern boundary. The state capital is Frankfort, and the two largest cities are Louisville and Lexington.
+                    Kentucky is a state in the Southeastern United States with the population of 4.5 million, bordered on the north by Illinois, Indiana, and Ohio, on the east by West Virginia and On the north, it is bordered by Maryland and Virginia; on the south, it is bordered by Tennessee; and on the west, it is bordered by Missouri. The Ohio River runs through the state's northern boundary. The state capital is Frankfort, and the two largest cities are Louisville and Lexington.
 
-                    <br>It is the 37th largest state in size, with a total area (land and water) of 40, 408 square miles (104, 656 km2) and the 26th most populous among the 50 United States. The Mississippi River to the west, the Ohio River to the north, and the Big Sandy River and Tug Fork to the east — Kentucky is the only U.S. state with a continuous border of rivers running down three of its borders. The Kentucky River, Tennessee River, Cumberland River, Green River, and Licking River are the state's primary internal rivers.
+                    <br>
 
                     <br>Auto transport services in Kentucky are a little easier to come by. This is because auto transport companies prefer routes to and from large cities with broad metropolitan areas. It's not surprising, given that large cities have more residents and hence more customers. However, vehicular transportation to and from Kentucky is most popular through the state's largest cities, particularly Louisville.
 
@@ -106,7 +110,7 @@
                 <h3 id="best_company_while_shipping_Kentucky">Why we are best in Kentucky auto transport company ?</h3>
                 <br>
                 <p>
-                    <b><a href="<?= home_path() ?>">Rapid Auto Shipping</a></b> is a Car Shipping Kentucky Company that values all of its customers equally. We assist customers in transporting their autos on schedule and at a reasonable cost. We fully insure their vehicles and transport them without harm from door to door. You may rest easy knowing that in the unlikely event that your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance company will handle the claim quickly and effectively. We bonded and licensed a business that all customers may rely on. Customers can book their transportation without paying a deposit. Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience.
+                    Rapid Auto Shipping is a Car Shipping Kentucky Company that values all of its customers equally. We assist customers in transporting their autos on schedule and at a reasonable cost. We fully insure their vehicles and transport them without harm from door to door. You may rest easy knowing that in the unlikely event that your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance company will handle the claim quickly and effectively. We bonded and licensed a business that all customers may rely on. Customers can book their transportation without paying a deposit. Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience.
                 </p>
             </div>
             <div class="first-california-state-grid-box">
@@ -138,7 +142,7 @@
         <h2 class="utility_main-heading">Some famous Auto Transport in <span class="california-state-span">Kentucky</span> Cities</h2>
         <img loading="lazy" src="<?= get_img() ?>kentucky-state-bg.jpg" alt="Kentucky Auto Transport company">
         <p class=" text">
-            Lexington, which is home to the <a href="https://kentucky.gov/Pages/home.aspx"><span class="california-state-span"><b>Kentucky</b></span></a> Horse Park, is another renowned equestrian attraction. Because of the state's karst geology, the state's various parks are home to countless natural springs, stunning caverns, and other unique natural features if you're looking for free things to do in Kentucky. <a href="https://www.kentuckytourism.com/"><span class="california-state-span"><b>Kentucky</b></span></a> is also a great destination to visit for a weekend escape, whether it's in a romantic cabin along the Appalachian Mountains or in one of the state's other popular vacation spots. In this list of top tourist attractions in Kentucky, you'll find some of the best places to visit.
+            Lexington, which is home to the Kentucky Horse Park, is another renowned equestrian attraction. Because of the state's karst geology, the state's various parks are home to countless natural springs, stunning caverns, and other unique natural features if you're looking for free things to do in Kentucky. <a rel="nofollow" target="_blank" href="https://www.kentuckytourism.com/"><strong ><b>Kentucky</b></strong></a> is also a great destination to visit for a weekend escape, whether it's in a romantic cabin along the Appalachian Mountains or in one of the state's other popular vacation spots. In this list of top tourist attractions in Kentucky, you'll find some of the best places to visit.
         </p>
 
         <ul class="utility_grid">
@@ -150,59 +154,59 @@
 
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://www.kentuckyderby.com/" style="color:black;" title="Kentucky Auto transport ">Kentucky Derby</a>
+                </ion-icon><br> <a  href="#" style="color:black;" title="Kentucky Auto transport ">Kentucky Derby</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://www.sluggermuseum.com/" style="color:black;" title="Kentucky Auto transport ">Louisville Slugger Museum & Factory</a>
+                </ion-icon><br> <a  href="#" style="color:black;" title="Kentucky Auto transport ">Louisville Slugger Museum & Factory</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://www.fs.usda.gov/dbnf/" style="color:black;" title="Kentucky Auto transport ">Daniel Boone National Forest</a>
+                </ion-icon><br> <a  href="#" style="color:black;" title="Kentucky Auto transport ">Daniel Boone National Forest</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://www.nps.gov/maca/" style="color:black;" title="Kentucky Auto transport ">Mammoth Cave National Park</a>
+                </ion-icon><br> <a  href="#" style="color:black;" title="Kentucky Auto transport ">Mammoth Cave National Park</a>
             </li>
             <li>
                 <ion-icon name="locate-sharp">
-                </ion-icon><br><a href="https://kyhorsepark.com/" style="color:black;" title="Kentucky Auto transport ">Kentucky Horse Park</a>
-            </li>
-
-            <li>
-                <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://alicenter.org/" style="color:black;" title="Kentucky Auto transport "> Muhammad Ali Center</a>
-            </li>
-            <li>
-                <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://www.derbymuseum.org/" style="color:black;" title="Kentucky Auto transport ">The Kentucky Derby Museum</a>
-            </li>
-            <li>
-                <ion-icon name="locate-sharp">
-                </ion-icon><br>
-                <a target="_blank" href="https://www.kentuckytourism.com/bowling-green/attractions/family-fun/lost-river-cave" style="color:black;" title="Kentucky Auto transport "> Lost River Cave</a>
+                </ion-icon><br><a href="#" style="color:black;" title="Kentucky Auto transport ">Kentucky Horse Park</a>
             </li>
 
             <li>
                 <ion-icon name="locate-sharp">
+                </ion-icon><br> <a  href="#" style="color:black;" title="Kentucky Auto transport "> Muhammad Ali Center</a>
+            </li>
+            <li>
+                <ion-icon name="locate-sharp">
+                </ion-icon><br> <a  href="#" style="color:black;" title="Kentucky Auto transport ">The Kentucky Derby Museum</a>
+            </li>
+            <li>
+                <ion-icon name="locate-sharp">
                 </ion-icon><br>
-                <a target="_blank" href="https://louisvillemegacavern.com/" style="color:black;" title="Kentucky Auto transport "> Louisville Mega Cavern</a>
+                <a  href="#" style="color:black;" title="Kentucky Auto transport "> Lost River Cave</a>
+            </li>
 
-            </li>
             <li>
                 <ion-icon name="locate-sharp">
                 </ion-icon><br>
-                <a target="_blank" href="https://parks.ky.gov/corbin/parks/resort/cumberland-falls-state-resort-park" style="color:black;" title="Kentucky Auto transport ">Cumberland Falls State Resort Park</a>
-            </li>
-            <li>
-                <ion-icon name="locate-sharp">
-                </ion-icon><br> <a target="_blank" href="https://shakervillageky.org/" style="color:black;" title="Kentucky Auto transport "> Shaker Village of Pleasant Hill</a>
+                <a  href="#" style="color:black;" title="Kentucky Auto transport "> Louisville Mega Cavern</a>
 
             </li>
             <li>
                 <ion-icon name="locate-sharp">
                 </ion-icon><br>
-                <a target="_blank" href="https://www.newportaquarium.com/" style="color:black;" title="Kentucky Auto transport "> Newport Aquarium</a>
+                <a  href="#" style="color:black;" title="Kentucky Auto transport ">Cumberland Falls State Resort Park</a>
+            </li>
+            <li>
+                <ion-icon name="locate-sharp">
+                </ion-icon><br> <a  href="#" style="color:black;" title="Kentucky Auto transport "> Shaker Village of Pleasant Hill</a>
+
+            </li>
+            <li>
+                <ion-icon name="locate-sharp">
+                </ion-icon><br>
+                <a  href="#" style="color:black;" title="Kentucky Auto transport "> Newport Aquarium</a>
 
             </li>
 
@@ -274,7 +278,7 @@
             <span class="california-state-span"> Discounts </span>while Auto Transport in Kentucky
         </h2>
         <p class="text">
-            At <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b>Rapid Auto Shipping</b></span> </a> we try to give you the most affordable prices for your Kentucky Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
+            At Rapid Auto Shipping we try to give you the most affordable prices for your Kentucky Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>
@@ -293,7 +297,7 @@
                 How to get the best <span class="california-state-span"> quote </span>for your shipping
             </h2>
             <p class="text">
-                <strong><a href="<?= home_path() ?>">Rapid Auto Shipping</a></strong> is best in car shipping service Kentucky and will make your car shipping Kentucky as simple as possible.Rapid Auto Shipping is a Kentucky Auto Transport that specializes in car shipping to and from Kentucky as well as other locations in the United States. Within seconds, we will supply you with an accurate quote for the shipping of your vehicle. All you have to do is fill out our simple online form and you'll receive a free, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent; you will not be placed on hold, and we will help you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that: on time and on budget.
+                Rapid Auto Shipping is best in car shipping service Kentucky and will make your car shipping Kentucky as simple as possible.Rapid Auto Shipping is a Kentucky Auto Transport that specializes in car shipping to and from Kentucky as well as other locations in the United States. Within seconds, we will supply you with an accurate quote for the shipping of your vehicle. All you have to do is fill out our simple online form and you'll receive a free, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent; you will not be placed on hold, and we will help you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that: on time and on budget.
             <div class="five-california-state-box-btn utility_grid-center">
                 <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
             </div>

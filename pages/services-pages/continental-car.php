@@ -36,12 +36,16 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: repeat, no-repeat;
-            background-image: url('<?= get_img() ?>shipping-trucks-bg.jpg');
+            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673597414/Recent%20Uploads/Auto-Shipping-about-1_gydnd1.png');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
+        }
+
+        .third-section-state {
+            background-color: rgb(0, 0, 0, 0.7);
         }
     </style>
 </head>
@@ -89,7 +93,7 @@ We are a car shipping business that can deliver your CONTINENTAL autos both loca
 
                 Whether you choose fully enclosed or open air transportation, we guarantee that any of your CONTINENTAL cars arrive in perfect condition. Unlike the enclosed alternative, the open air option may expose your car to the elements. The fully enclosw,sed alternative safeguards your vehicle against physical harm and possible abrasion while in transit.
 
-                We cover both domestic and international routes, providing excellent service at all times. If you'd like us to send your automobile internationally, please contact one of our international car shipping experts, who will go over your options and pricing with you. We provide the most competitive international shipping prices in the market.
+                We cover both domestic and international routes, providing excellent service at all times. If you'd like us to send your automobile internationally, please contact one of our international car shipping experts, who will go over your options and pricing with you. We provide the most competitive <strong><a href="<?= home_path() ?>services/international-car-shipping">international shipping</a></strong> prices in the market.
             </p>
         </div>
         <div class="military-shipping-sixth-section-img">
@@ -128,7 +132,7 @@ We are a car shipping business that can deliver your CONTINENTAL autos both loca
             Enclosed car shipping is a type of auto transport that protects your vehicles from the elements. It is, after all, the safest way to transport continental, luxury, historic, and new automobiles. Top and side covers, as well as straps, from the vehicle transportation carrier secure the consignment on the trailer. The enclosed trailer completely encased the vehicles, preventing even a single particle of dust from coming into contact with them. In other words, the automobiles will be completely protected. It will protect your car against damage caused by wind-blown ash and debris, long-term sun exposure, and rain and snowfall. The cost of transporting a vehicle in an enclosed truck is considerable. However, if you want to transport your vehicle in the safest possible manner, it will be a wise purchase.
             As a result, we provide two enclosed car shipping options for your vehicle's delivery:
             • Enclosed Soft-Sided Car Transport
-            • Enclosed Car Transport with Hard Sides
+            • <strong><a href="<?= home_path() ?>services/enclosed-shipping">Enclosed Car Transport</a></strong> with Hard Sides
 
             Soft-Sided Enclosed Car Transport - It will protect your vehicle from the elements such as wind, rain, sleet, and snow.
 
