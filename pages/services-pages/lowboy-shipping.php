@@ -90,16 +90,32 @@
 
     <!-- parent grid section start-->
     <div class="main-state-to-state">
+
         <div class="left-state-to-state">
+            <div class="points-div " id="top-section">
+                <h2 class="heading-2">
+                    What's in this article?
+                </h2>
+                <ul class="points-div-ul">
+                    <li><a href="#1">lowboy transportation for all heavy equipment and machinery</a></li>
+                    <li><a href="#2">when and what is need of extendable lowboy trailer?</a></li>
+                    <li><a href="#3">lowboy trailer shipping in all states</a></li>
+                    <li><a href="#4">how to ship lowboy trailer with rapid auto shipping?</a></li>
+                    <li><a href="#5">our company transports lowboy trailers with reliability</a></li>
+                    <li><a href="#6">we are your lowboy hauling experts</a></li>
+
+
+                </ul>
+
+            </div>
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <ul>
                     <li id="1">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1" style="text-transform:uppercase;"><span> LOWBOY TRANSPORTATION FOR ALL HEAVY EQUIPMENT AND MACHINERY</span></h2>
+                            <h2 class="heading-1"><span>Lowboy Transportation</span> For All Heavy Equipment And Machinery</h2>
                             <p class="para-2">
-                                The <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping
-">heavy equipment</a> transportation industry's workhorses are lowboy trailers. They're helpful in a range of industries for transporting equipment, machinery, and goods. These are virtually universally used in agriculture, mining, construction, and freight transportation around the world. Depending on where you are in the world, lowboy trailers are also known as a double drop, low loader, low-bed, or float. They're all referred to as a drop deck semi-trailer. Rapid Auto can haul your trailer alone, or we can offer the lowboy trailer to deliver your freight.
+                                The <strong><a href="https://rapidautoshipping.com/services/heavy-equipment-shipping">heavy equipment transportation</a></strong> industry's workhorses are lowboy trailers. They're helpful in a range of industries for transporting equipment, machinery, and goods. These are virtually universally used in agriculture, mining, construction, and freight transportation around the world. Depending on where you are in the world, lowboy trailers are also known as a double drop, low loader, low-bed, or float. They're all referred to as a drop deck semi-trailer. Rapid Auto can haul your trailer alone, or we can offer the lowboy trailer to deliver your freight.
                                 <br>
 
                             </p>
@@ -114,7 +130,7 @@
                     </li>
                     <li id="2">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1" style="text-transform:uppercase;"><span> WHEN AND WHAT IS need of EXTENDABLE LOWBOY TRAILER?</span></h2>
+                            <h2 class="heading-1"> When And What Is Need Of Extendable <span>Lowboy Trailer?</span></h2>
 
                             <p class="para-2">
                                 When large weights exceed the regular lowboy trucking maximum length dimensions, an extended lowboy trucking, also known as a stretch lowboy trucking, is used. When this happens, the length of a standard lowboy trucking can increase from 28 to 50 feet. There are extension stops every 24 inches as well. This makes it possible to transport longer, heavier equipment in a safe manner.
@@ -125,8 +141,7 @@
                     </li>
                     <li id="3">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1" style="text-transform:uppercase;"><span> LOWBOY TRAILER SHIPPING in all STATES
-                                </span></h2>
+                            <h2 class="heading-1"><span> Lowboy Trailer</span> Shipping In All States</h2>
                             <p class="para-2"> Lowboy hauling is available in all 50 states, including Alaska and Hawaii. Lowboy trailers can be found at some of the best prices at online auctions. The disadvantage of buying trailers online is that you will need to arrange for reliable transportation for any new trailers you purchase. There's no need to be concerned with Rapid Auto Shipping. We provide high-quality lowboy trailer transportation throughout the United States.
 
                             </p>
@@ -140,8 +155,7 @@
                     </li>
                     <li id="4">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1" style="text-transform:uppercase;"><span> how to ship LOWBOY TRAILER WITH RAPID AUTO SHIPPING ?
-                                </span></h2>
+                            <h2 class="heading-1"> How To Ship <span>Lowboy Trailer</span> With Rapid Auto Shipping?</h2>
                             <p class="para-2">
                                 We must first establish the sort of haul you require in order to move a lowboy trailer. There are power-only options for shipping the lowboy trailer on its own, or it can be carried on a separate trailer for travel. Lowboy trailers come in a variety of shapes and sizes to accommodate a wide range of transport applications. Each model of lowboy has its own set of features that cater to a specific demand for transporting varied heavy loads. The fixed gooseneck, or FGN, has a longer deck length and is the lightest of the three options. Although the decreased weight is advantageous, the fixed neck eliminates the ability to detach and load over the trailer's front.
                                 <br><br>
@@ -153,9 +167,9 @@
                     </li>
                     <li id="5">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1" style="text-transform:uppercase;"><span> our COMPANY TRANSPORTS LOWBOY TRAILERS WITH RELIABILITY</span></h2>
+                            <h2 class="heading-1">Our Company Transports <span>Lowboy Trailers</span> With Reliability</h2>
                             <p class="para-2">
-                                On a lowboy trailer, <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping">transporting heavy material</a> and equipment is a task for professionals. Rapid Auto Shipping works with qualified, bonded drivers who have been verified to ensure that their rigs and trailers conform with all North American shipping standards. We don't work with just anyone at Rapid Auto. We make certain to discover the best option for transporting your lowboy trailer. Rapid Auto Shipping has been moving lowboy trailers and large equipment for over a decade. We are aware of the actions that must be taken to ensure a safe transportation experience.
+                                On a lowboy trailer, transporting heavy material and equipment is a task for professionals. Rapid Auto Shipping works with qualified, bonded drivers who have been verified to ensure that their rigs and trailers conform with all North American shipping standards. We don't work with just anyone at Rapid Auto. We make certain to discover the best option for transporting your lowboy trailer. Rapid Auto Shipping has been moving lowboy trailers and large equipment for over a decade. We are aware of the actions that must be taken to ensure a safe transportation experience.
                                 <br>
                                 We also provide cranes ,forklifts and lowbed trucking if your freight needs loading or unloading help. Most oversize lowboy trailer transports necessitate the use of pilot cars or escort vehicles, which we will arrange for you. We'll get it done whether you require power-only shipping for your lowboy trailer or need to move it on a separate trailer. For all of your lowboy trucking services needs, your personal logistics specialist will select the best driver, vehicle, and trailer.
                             </p>
@@ -166,7 +180,7 @@
                     </li>
                     <li id="5">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1" style="text-transform:uppercase;"><span> WE ARE YOUR LOWBOY HAULING EXPERTS.</span></h2>
+                            <h2 class="heading-1"> We Are Your <span>Lowboy Hauling</span> Experts</h2>
                             <p class="para-2">
                                 When you engage with Nationwide Transport Services, you'll be assigned a logistics agent who will coordinate all aspects of your transportation with lowboy service firms. Our load specialists are highly trained professionals who will plan everything you'll need for a safe and efficient delivery. Your logistics agent knows everything there is to know about your request. As a result, you'll always be able to get updates from someone who is familiar with your shipment.
                                 When you contact us, a logistics representative will obtain information regarding your request, such as:
@@ -176,7 +190,7 @@
                                 <span style="color:var(--nav-color);font-weight:500;">(->)</span> The origin and destination ZIP codes for the freight.
                                 <br><br> <span style="color:var(--nav-color);font-weight:500;">(->)</span> If any more services are required.
                                 <br><br> <span style="color:var(--nav-color);font-weight:500;">(->)</span> Your load consultant will evaluate the cost of shipping your freight and begin the planning process. The following are some of your logistics agent's responsibilities:
-                                <br><br> <span style="color:var(--nav-color);font-weight:500;">(->)</span> Choosing the best mode of <a href="https://rapidautoshipping.com/services/cargo-vans-services">transport for your cargo</a>.
+                                <br><br> <span style="color:var(--nav-color);font-weight:500;">(->)</span> Choosing the best mode of <strong><a href="https://rapidautoshipping.com/services/cargo-vans-services">transport for your cargo</a></strong>.
                                 <br><br> <span style="color:var(--nav-color);font-weight:500;">(->)</span> Hiring a driver and any additional workers that may be required.
                                 <br><br> <span style="color:var(--nav-color);font-weight:500;">(->)</span> Creating a path between points A and B.
                                 <br><br> <span style="color:var(--nav-color);font-weight:500;">(->)</span> Assisting with paperwork and permit applications.

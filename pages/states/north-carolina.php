@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Fast & Reliable Auto Shipping Services in North Carolina</title>
     <meta name="title" content="Fast & Reliable Auto Shipping Services in North Carolina" />
-    <meta name="description" content="At Auto Shipping NC, we provide fast, secure and affordable car transport services to our clients. Get a free quote today and have your car shipped safely and on time." />
+    <meta name="description" content="At Auto Shipping NC, we provide fast, affordable car transport services to our clients. Get a free quote today and have your car shipped safely and on time." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Fast & Reliable Auto Shipping Services in North Carolina" />
-    <meta property="og:description" content="At Auto Shipping NC, we provide fast, secure and affordable car transport services to our clients. Get a free quote today and have your car shipped safely and on time." />
+    <meta property="og:description" content="At Auto Shipping NC, we provide fast, affordable car transport services to our clients. Get a free quote today and have your car shipped safely and on time." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/north-carolina" />
     <meta property="og:site_name" content="Fast & Reliable Auto Shipping Services in North Carolina" />
     <meta name='robots' content='index' />

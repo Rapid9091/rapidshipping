@@ -8,10 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Texas Auto Transport Services - Safe & Reliable Shipping</title>
     <meta name="title" content="Texas Auto Transport Services - Safe & Reliable Shipping" />
-    <meta name="description" content="Get your car from Texas to anywhere in the US with ease. At Auto Transport Texas, we provide safe and reliable auto transport services for all of your vehicles. Get a free quote and book online today." />
+    <meta name="description" content="Get your car from Texas to anywhere in the US with ease. we provide safe and reliable auto transport services for all of your vehicles." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Texas Auto Transport Services - Safe & Reliable Shipping" />
-    <meta property="og:description" content="Get your car from Texas to anywhere in the US with ease. At Auto Transport Texas, we provide safe and reliable auto transport services for all of your vehicles. Get a free quote and book online today." />
+    <meta property="og:description" content="Get your car from Texas to anywhere in the US with ease. we provide safe and reliable auto transport services for all of your vehicles." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/texas-tx" />
     <meta property="og:site_name" content="Texas Auto Transport Services - Safe & Reliable Shipping" />
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png" />

@@ -82,7 +82,7 @@
         <div class="affordable-ways-page-grid">
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>Regular Routes Vs Popular Routes</span></h2>
+                    <h2>Regular Routes Vs Popular Routes</h2>
                     <p>
                         The cost of shipping a car is also influenced by the popularity of the route. You can expect to spend more per mile if no one else is trying to ship autos on that route. However, if there are several vehicles that need to be sent along that route, the cost of the car shipping quote may increase.
                     </p>
@@ -90,7 +90,7 @@
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span> How Much Do Auto Shipping Companies Charge?</span></h2>
+                    <h2> How Much Do Auto Shipping Companies Charge?</h2>
                     <p>
                         Prices for auto shipping companies are based on current market trends for auto transport across the United States. The overall cost of auto shipping depends on the type of automobile you want to transfer, where it needs to go, its size, condition (or if it has any modifications), total transportation distance, transport type (open or enclosed trailer shipment), and finally, the time of year you book.
                         <br><br>
@@ -100,7 +100,7 @@
                         <br><br>
                         <b> The state of the vehicle :</b>
 
-                        Inoperable autos cost more to ship because <a href="<?= home_path() ?>services/car-shipping-companies">car shipping companies</a> need additional tools and staff to accommodate the cargo. We can, however, send your car if it rolls, steers, and brakes.
+                        Inoperable autos cost more to ship because <strong><a href="<?= home_path() ?>services/car-shipping-companies">car shipping companies</a></strong> need additional tools and staff to accommodate the cargo. We can, however, send your car if it rolls, steers, and brakes.
 
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/car-shipping-calculator_zlkem2.jpg" alt="car shipping quotes">
@@ -121,7 +121,7 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>Rapid Auto Shipping Provides Car Shipping Quotes</span></h2>
+                    <h2>Rapid Auto Shipping Provides Car Shipping Quotes</h2>
                     <p>
                         Shipping a car cross-country can be a difficult procedure, therefore we recommend getting many bids before deciding on a company to export your vehicle. Before a price is set, numerous elements are considered in automobile shipping quotations. One of the most important and obvious criteria that determines the cost of car shipment is distance. The size and weight of the car you need to ship is the next consideration. The DOT limits the amount of cargo that car carriers can load onto their trucks. To put it another way, the bigger and heavier your vehicle is, the more you should expect to pay for shipping it.
                     </p>
@@ -132,7 +132,7 @@
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span> How Do I Get Quotes For Car Shipping?</span></h2>
+                    <h2> How Do I Get Quotes For Car Shipping?</h2>
                     <p>
                         Car shipping quotes can be obtained in a variety of methods. The simplest approach to obtain one is to conduct an online search for the term "auto shipping quotes." There will be a plethora of providers to pick from, but only a few will provide immediate prices and a car shipping calculator online. Many companies may ask you to fill out a form with all of your information, after which they will contact you by phone or email with a car shipping price.
                         <br><br>
@@ -146,10 +146,10 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span> Quotes For International Car Shipping</span></h2>
+                    <h2> Quotes For International Car Shipping</h2>
                     <p>
-                        Transporting a car internationally is far more difficult than shipping a car within the United States. Obtaining international car shipping rates is a time-consuming process that usually involves three steps. Domestic shipping to the port, customs, and international cargo ships to the port are the three components. When you request an <a href="<?= home_path() ?>services/international-car-shipping
-">international car shipping</a> price online, most businesses will gather all of your information before providing you with an estimate.
+                        Transporting a car internationally is far more difficult than shipping a car within the United States. Obtaining international car shipping rates is a time-consuming process that usually involves three steps. Domestic shipping to the port, customs, and international cargo ships to the port are the three components. When you request an <strong><a href="<?= home_path() ?>services/international-car-shipping
+">international car shipping</a></strong> price online, most businesses will gather all of your information before providing you with an estimate.
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521154/door-to-door-img-2.jpg" alt="car shipping quotes">
                     <p>

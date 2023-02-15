@@ -77,12 +77,12 @@
             background-size: cover;
         }
 
-        a {
-            color: var(--nav-color);
-        }
 
-        strong {
-            color: var(--nav-color);
+
+
+
+        h2 {
+            color: #000;
         }
 
         .affordable-ways-page-grid {
@@ -141,10 +141,10 @@
             </p>
 
             <div class="new-blog-section-one">
-                <h2><span>Why should you hire <a href="<?= home_path(); ?>"><strong>Rapid Auto Shipping</strong></a> for state to state transportation</span></h2>
+                <h2>Why should you hire for <span>state to state</span> transportation</h2>
                 <p>
 
-                    Our need for <strong>Auto Transport Service</strong> is unavoidable. There are numerous advantages to employing an <strong>auto transport service:</strong>
+                    Our need forAuto Transport Service is unavoidable. There are numerous advantages to employing anauto transport service:
                 <ul>
                     <li class="list-0f-state-to-state-page"> Because you won't be driving your car for a long time, it won't age.</li>
                     <li class="list-0f-state-to-state-page"> It helps you save time.</li>
@@ -155,23 +155,21 @@
 
             </div>
             <div class="new-blog-section-one">
-                <h2><span>The Most Efficient <strong> Transport Company</strong></span></h2>
+                <h2>The Most Efficient Transport Company</h2>
                 <p>
                     You no longer have to search for the best vehicle shipping business. Rapid Auto Shipping , our company, is leading the charge. We have been tried and true, so you may rely on us without hesitation.
                 </p>
-            </div>
-            <div class="new-blog-section-one">
-                <h2><span>The Most Efficient <strong> Transport Company</strong></span></h2>
                 <p>
-                    <strong>Car shipping</strong> has a number of limitations. To begin with, when you load your car into a trailer, it must arrive at its destination undamaged. The question of its security is the most concerning issue. We have experts at <strong> Auto Shipping </strong>that realise how valuable your car is to you, therefore we won't damage it. It will be carried in the same luxuriant state as when it was picked up.
+                    Car shipping has a number of limitations. To begin with, when you load your car into a trailer, it must arrive at its destination undamaged. The question of its security is the most concerning issue. We have experts at Auto Shipping that realise how valuable your car is to you, therefore we won't damage it. It will be carried in the same luxuriant state as when it was picked up.
 
                     Our organisation carries autos to a variety of locations while ensuring their safety. It is clear from the great Google evaluations that our company has gotten. Moreover, our organisation has earned positive feedback on Transit Reviews.
                 </p>
             </div>
+
             <div class="new-blog-section-one">
-                <h2><span>Cost of Shipping a Car</span></h2>
+                <h2>Cost of Shipping a Car</h2>
                 <p>
-                    There are a number of respectable <strong>car shipping</strong> businesses that advertise a reduced cost for transferring your vehicle at first. However, when your car arrives at its destination, you may be required to pay an extra fee. To avoid such problems, properly read the contract before signing it.
+                    There are a number of respectablecar shipping businesses that advertise a reduced cost for transferring your vehicle at first. However, when your car arrives at its destination, you may be required to pay an extra fee. To avoid such problems, properly read the contract before signing it.
 
                     You may easily verify this by first using a car shipping calculator to estimate the cost of your shipment.
                 </p>
@@ -179,7 +177,7 @@
 
             </div>
             <div class="new-blog-section-one">
-                <h2><span>Transporting a Car in Various Ways with Rapid Auto Shipping</span></h2>
+                <h2>Transporting a Car in Various Ways with Rapid Auto Shipping</h2>
                 <p>
                     Someone may want to send their automobile to a distant location, while another may want to transfer it locally. As a result, there are a variety of choices. You should think about the modes of transportation before transporting your car. There are two ways to transport a car. One of these is the open-air method. If you are shipping your car over a short distance, an open-air technique is the best option because it is the most cost-effective.
 
@@ -192,18 +190,18 @@
                 </p>
             </div>
             <div class="new-blog-section-one">
-                <h2><span>Call us</span></h2>
+                <h2>Call us Now</h2>
                 <p>
                     Do you want to state to state movers? No problem. Do you want to transport your car to a different country? No problem. All you must do is to call our number and avail our services. We assure you that you will have a service of premium quality.
                 <ul>
                     <br>
-                    <li class="list-0f-state-to-state-page"> <a href="<?= home_path() ?>blogs/cost-to-ship-a-car">Cost to Ship a Car</a> State to State</li>
+                    <li class="list-0f-state-to-state-page"> <strong><a href="<?= home_path() ?>blogs/cost-to-ship-a-car">Cost to Ship a Car</a></strong> State to State</li>
                     <li class="list-0f-state-to-state-page"> state to state moving and auto transport</li>
-                    <li class="list-0f-state-to-state-page"> State to State <strong>Auto Transport</strong></li>
+                    <li class="list-0f-state-to-state-page"> State to StateAuto Transport</li>
                     <li class="list-0f-state-to-state-page"> Car Transport at a Low Cost</li>
                     <li class="list-0f-state-to-state-page"> state to state moving and auto transport</li>
                     <li class="list-0f-state-to-state-page"> Car Transportation at a Low Cost</li>
-                    <li class="list-0f-state-to-state-page"> <a href="<?= home_path() ?>blogs/cheapest-way-to-ship-a-car">Cheap Car Transport</a></li>
+                    <li class="list-0f-state-to-state-page"> <strong><a href="<?= home_path() ?>blogs/cheapest-way-to-ship-a-car">Cheap Car Transport</a></strong></li>
                     <li class="list-0f-state-to-state-page"> State to State Movers</li>
                     <li class="list-0f-state-to-state-page"> Companies that provide state to state moving and auto transport</li>
                     <li class="list-0f-state-to-state-page"> The Best Auto Transportation Firms</li>
