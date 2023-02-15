@@ -7,11 +7,10 @@
 <link rel="stylesheet" href="<?= get_css(); ?>VIEW_services-types.css">
 <link rel="stylesheet" href="<?= get_css(); ?>VIEW_qna.css">
 <link rel="stylesheet" href="<?= get_css(); ?>VIEW_all-state-name.css">
-
 <link rel="stylesheet" href="<?= get_css(); ?>small-form.css">
 <link rel="stylesheet" href="<?= get_css(); ?>VIEW_new-footer.css">
 <link rel="stylesheet" href="<?= get_css(); ?>VIEW_pop-up-form.css">
-<link rel="stylesheet" href="<?= get_css(); ?>car-key-section.css">
+<link rel="stylesheet" href="<?= get_css(); ?>car-key-section.css"> 
 
 
 

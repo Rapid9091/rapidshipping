@@ -37,13 +37,9 @@
     <?php include head; ?>
 
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_home.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>PAGE_contactus.css">
+    <!-- <link rel="stylesheet" href="<?= get_css(); ?>PAGE_contactus.css"> -->
     <link rel="stylesheet" href="<?= get_css(); ?>strip-under-header.css">
 
-    <link rel="stylesheet" href="<?= get_css(); ?>car-key-section.css">
-
-    <!-- animation css link   -->
-    <link rel="stylesheet" href="<?= get_css(); ?>small-form.css">
 
     <style>
         .third-section>p>b>a {
