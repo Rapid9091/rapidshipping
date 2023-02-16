@@ -76,6 +76,8 @@
 
 .third-section-form {
   overflow: hidden;
+  display: grid;
+  place-items: center;
 }
 
 .third-section-form > div {
