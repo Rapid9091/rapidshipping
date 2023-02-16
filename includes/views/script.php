@@ -1,6 +1,6 @@
 <!-- cdn js links -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer"></script>
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<!-- <script src="https://unpkg.com/aos@next/dist/aos.js"></script> -->
 <script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
 
 
@@ -31,9 +31,9 @@
     //Create a new Toastmejs class instance
     window = toast = new Toastme(config);
 
-    AOS.init({
-        duration: 1000,
-    });
+    // AOS.init({
+    //     duration: 1000,
+    // });
 
     const domain = "<?= home_path() ?>";
 </script>
