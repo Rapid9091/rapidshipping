@@ -50,12 +50,16 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
-            background-image: url('<?= get_img() ?>kansas-state-bg.jpg');
+            background-image: url('https://res.cloudinary.com/dsmsqwx6q/image/upload/v1675490709/Recent%20Uploads/Arizona_Auto_Transport.png');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
+        }
+
+        .third-section-state {
+            background-color: rgb(0, 0, 0, 0.8);
         }
     </style>
 </head>
@@ -80,15 +84,15 @@
         <div class="first-california-state-grid utility_grid">
             <div class="first-california-state-grid " id="description_while_shipping_Kansas">
                 <p class="text">
-                    <a href="https://en.wikipedia.org/wiki/Kansas"><span class="california-state-span"><b>Kansas</b></span></a> is a state in the United States Midwest region with a population of 2.9 million. The capital is Topeka, and the major city is Wichita. It is the 15th largest state in size, with a total area (land and water) of 82,278 square miles (213,100 km2) and the 35th most populous among the 50 United States. The Kansa Native Americans who lived along the river's banks gave the river its name, and Kansas was named after them. Although the term's original meaning was probably not "people of the (south) wind," the tribe's name has come to imply "people of the (south) wind." Countless and diverse Native American tribes lived in what is now Kansas for thousands of years. Tribes in the state's eastern region mostly resided in villages along river valleys. Semi-nomadic tribes in the western section of the state hunted enormous herds of bison. However, Wichita is possibly the most popular vehicle transport location in all of Kansas.
-                   
+                    Kansas is a state in the United States Midwest region with a population of 2.9 million. The capital is Topeka, and the major city is Wichita. It is the 15th largest state in size, with a total area (land and water) of 82,278 square miles (213,100 km2) and the 35th most populous among the 50 United States. The Kansa Native Americans who lived along the river's banks gave the river its name, and Kansas was named after them. Although the term's original meaning was probably not "people of the (south) wind," the tribe's name has come to imply "people of the (south) wind." Countless and diverse Native American tribes lived in what is now Kansas for thousands of years. Tribes in the state's eastern region mostly resided in villages along river valleys. Semi-nomadic tribes in the western section of the state hunted enormous herds of bison. However, Wichita is possibly the most popular vehicle transport location in all of Kansas.
+
                     <br><br>
                 </p>
                 <br>
                 <h3 id="best_company_while_shipping_Kansas">Why we are best in Kansas auto transport company ?</h3>
                 <br>
                 <p>
-                    <b><a href="<?= home_path() ?>">Rapid Auto Shipping</a></b> values all of its customers equally. We assist customers in transporting their autos on schedule and at a reasonable cost. We fully insure their vehicles and transport them without harm from door to door. You may rest easy knowing that in the unlikely event that your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance company will handle the claim quickly and effectively. We bonded and licensed a business that all customers may rely on. Customers can book their transportation without paying a deposit. Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience.
+                    Rapid Auto Shipping values all of its customers equally. We assist customers in transporting their autos on schedule and at a reasonable cost. We fully insure their vehicles and transport them without harm from door to door. You may rest easy knowing that in the unlikely event that your vehicle is damaged during transportation, you will be compensated. We've got you covered; our insurance company will handle the claim quickly and effectively. We bonded and licensed a business that all customers may rely on. Customers can book their transportation without paying a deposit. Furthermore, we provide our customers with dependable carriers so that they can have the finest possible transportation experience.
                 </p>
             </div>
             <div class="first-california-state-grid-box">
@@ -120,7 +124,7 @@
         <h2 class="utility_main-heading">Some famous Auto Transport in <span class="california-state-span">Kansas</span> Cities</h2>
         <img loading="lazy" src="<?= get_img() ?>kansas-state-bg.jpg" alt="Kansas Auto Transport company">
         <p class=" text">
-            <a href="https://portal.kansas.gov/" title="Kansas auto transport "><span class="california-state-span"><b>Kansas</b></span></a> isn't exactly what you'd anticipate. Kansas, on the other hand, offers a wide range of exciting activities for visitors of all ages. There are many outdoor attractions, museums, and, of course, the 8 Wonders of Kansas. When you visit the "Sunflower State," you can expect a lot of fun. We've compiled a list of some of Kansas' most popular tourist destinations. So, when you visit Kansas, make sure to include some of these sites and activities on your itinerary to make the most of everything the state has to offer.
+            Kansas isn't exactly what you'd anticipate. Kansas, on the other hand, offers a wide range of exciting activities for visitors of all ages. There are many outdoor attractions, museums, and, of course, the 8 Wonders of Kansas. When you visit the "Sunflower State," you can expect a lot of fun. We've compiled a list of some of Kansas' most popular tourist destinations. So, when you visit Kansas, make sure to include some of these sites and activities on your itinerary to make the most of everything the state has to offer.
         </p>
 
         <ul class="utility_grid">
@@ -256,7 +260,7 @@
             <span class="california-state-span"> Discounts </span>while Auto Transport in Kansas
         </h2>
         <p class="text">
-            At <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b>Rapid Auto Shipping</b></span> </a> we try to give you the most affordable prices for your Kansas Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
+            At Rapid Auto Shipping we try to give you the most affordable prices for your Kansas Car shipping services. But we value our customer and their valuable feedbacks so we offer you a special and a limited time
         <div class="offer-animator">
             <span>10% Offer</span>
         </div> <br>
@@ -274,7 +278,7 @@
                 How to get the best <span class="california-state-span"> quote </span>for your shipping
             </h2>
             <p class="text">
-                <a href="<?= home_path(); ?>" title="Best Auto Transport company USA "><span class="california-state-span"><b> Rapid Auto Shipping</b></span> </a> will make shipping your car to or from car shipping services kansas. Rapid Auto Shipping specializes in car shipping to and from Kansas as well as other locations in the United States. Within seconds, we will supply you with an accurate quote for the shipping of your vehicle. All you have to do is fill out our simple online form and you'll receive a free, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent; you will not be placed on hold, and we will help you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that: on time and on budget.
+               Rapid Auto Shipping will make shipping your car to or from car shipping services kansas. Rapid Auto Shipping specializes in car shipping to and from Kansas as well as other locations in the United States. Within seconds, we will supply you with an accurate quote for the shipping of your vehicle. All you have to do is fill out our simple online form and you'll receive a free, no-obligation auto transport quote in just a few clicks. If you have any questions, please contact us and you will be connected to a live, knowledgeable agent; you will not be placed on hold, and we will help you with everything. So don’t waste time and fill out our form to obtain a free quote, or give us a call and let us handle it for you; either way, working with Rapid Auto Shipping is a win-win situation. Always Affordable means exactly that: on time and on budget.
             </p>
             <div class="five-california-state-box-btn utility_grid-center">
                 <button><a href="tel:+1-833-233-4447" title="Call Now For Auto Transport USA">Get Quote Now</a></button>
@@ -328,7 +332,7 @@
                 <div class="sixth-california-state-gird-1-content" id="door_to_door_transport_to_california_section">
                     <h3 class="utility_sub-heading">Door to Door auto Transport</h3>
                     <p class="text">
-                        Door-to-door service is sometimes known as house-to-house service, which is a key distinction. This is the most convenient service because your automobile will be picked up and brought to your for all intents and purposes specific preferred destination without any worry or fuss, which is quite crucial. Furthermore, Rapid Auto Shipping can offer you door-to-door service in all 50 <a href="<?= home_path() ?>states"><span class="california-state-span"><b>States</b></span></a> of the United States without charging you a single penny extra. The driver essentially arrives at the address of your choosing and picks up your wheels before dropping them off at just your chosen precise spot, whether it is a dealership, business, or residential secure location.
+                        Door-to-door service is sometimes known as house-to-house service, which is a key distinction. This is the most convenient service because your automobile will be picked up and brought to your for all intents and purposes specific preferred destination without any worry or fuss, which is quite crucial. Furthermore, Rapid Auto Shipping can offer you door-to-door service in all 50 States of the United States without charging you a single penny extra. The driver essentially arrives at the address of your choosing and picks up your wheels before dropping them off at just your chosen precise spot, whether it is a dealership, business, or residential secure location.
                     </p>
                     <button><a target="_blank" href="<?= home_path(); ?>services/door-to-door" title="Door to Door car shipping services Kansas">Know More</a></button>
                 </div>

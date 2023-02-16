@@ -71,24 +71,24 @@
 <div class="review-for-sts-transport-page">
     <div class="review-for-sts-transport-page-1">
         <div class="review-section-img-container">
-            <img width="150" height="50" src="<?= get_img() ?>coloured-logo.jpg" alt="state to state transport" />
+            <img loading="lazy" width="150" height="50" src="<?= get_img() ?>coloured-logo.jpg" alt="state to state transport" />
         </div>
         <p class=" special-character">Customer love us</p>
         <p>Don't just take our word for it though! Check out the thousands of five star reviews we've earned by striving to be the best in the auto transportation industry. We will love to get your reviews too .</p>
     </div>
     <div class="review-for-sts-transport-page-2">
         <p>4.6</p>
-        <img height="25" width="100" src="<?= get_img() ?>review-stars.png" alt="state to state transport" />
+        <img loading="lazy" height="25" width="100" src="<?= get_img() ?>review-stars.png" alt="state to state transport" />
         <p>Google reviews</p>
     </div>
     <div class="review-for-sts-transport-page-2">
         <p>5</p>
-        <img height="25" width="100" src="<?= get_img() ?>review-stars.png" alt="state to state transport" />
+        <img loading="lazy" height="25" width="100" src="<?= get_img() ?>review-stars.png" alt="state to state transport" />
         <p>BBB reviews</p>
     </div>
     <div class="review-for-sts-transport-page-2">
         <p>4.8</p>
-        <img height="25" width="100" src="<?= get_img() ?>review-stars.png" alt="state to state transport" />
+        <img loading="lazy" height="25" width="100" src="<?= get_img() ?>review-stars.png" alt="state to state transport" />
         <p>Trustpilot</p>
     </div>
 </div>

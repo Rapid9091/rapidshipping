@@ -37,13 +37,9 @@
     <?php include head; ?>
 
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_home.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>PAGE_contactus.css">
+    <!-- <link rel="stylesheet" href="<?= get_css(); ?>PAGE_contactus.css"> -->
     <link rel="stylesheet" href="<?= get_css(); ?>strip-under-header.css">
 
-    <link rel="stylesheet" href="<?= get_css(); ?>car-key-section.css">
-
-    <!-- animation css link   -->
-    <link rel="stylesheet" href="<?= get_css(); ?>small-form.css">
 
     <style>
         .third-section>p>b>a {
@@ -52,7 +48,7 @@
     </style>
 
     <!-- schema sent by aniket -->
-    <script type="application/ld+json">
+    <script defer type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "Corporation",
@@ -71,7 +67,7 @@
             ]
         }
     </script>
-    <script type="application/ld+json">
+    <script defer type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "WebSite",
@@ -140,13 +136,13 @@
             On TransportReviews, TrustPilot, Facebook, the Better Business Bureau, and Google, Rapid Auto Shipping consistently obtains five-star ratings. Some reviewers are given a little deposit reimbursement that is unrelated to their rating score or pricing as an incentive to share their experience. We've delivered over 20,000 new and used cars, and while we're not perfect, we've built a solid reputation in the process. </p>
         <div class="trustbadge-container">
             <div class="trustbadeg-1">
-                <img src="<?= get_img() ?>bbb-rating-img.png" alt="review rapid auto shipping" />
+                <img loading="lazy" src="<?= get_img() ?>bbb-rating-img.png" alt="review rapid auto shipping" />
             </div>
             <div class="trustbadeg-1">
-                <img src="<?= get_img() ?>google-review-rating-img.png" alt="review rapid auto shipping" />
+                <img loading="lazy" src="<?= get_img() ?>google-review-rating-img.png" alt="review rapid auto shipping" />
             </div>
             <div class="trustbadeg-1">
-                <img src="<?= get_img() ?>Trustpilot-review-rating-img.png" alt="review rapid auto shipping" />
+                <img loading="lazy" src="<?= get_img() ?>Trustpilot-review-rating-img.png" alt="review rapid auto shipping" />
             </div>
         </div>
 
@@ -179,7 +175,7 @@
         <div class="steps">
 
             <div class="first-step">
-                <img src="<?= get_img() ?>home-picking-vehicle.png" alt="Best Auto Shipping Company In USA">
+                <img loading="lazy" src="<?= get_img() ?>home-picking-vehicle.png" alt="Best Auto Shipping Company In USA">
 
                 <div class="about-step">
                     <h2>1. Picking your Vehicle</h2>
@@ -196,11 +192,11 @@
                         <br><br> Our auto shipping carriers make an appointment for loading and unloading the scheduled vehicle. Our carriers for pickup and delivery are booked as per appointment. We let you know our location and you will know specifically when to arrive and meet them.
                     </p>
                 </div>
-                <img src=" <?= get_img() ?>home-shipping-vehicle.png" alt="Auto Transport Company">
+                <img loading="lazy" src=" <?= get_img() ?>home-shipping-vehicle.png" alt="Auto Transport Company">
 
             </div>
             <div class="first-step first-third-step">
-                <img src=" <?= get_img() ?>home-delivering-vehicle.png" alt="Auto Shipping Services">
+                <img loading="lazy" src=" <?= get_img() ?>home-delivering-vehicle.png" alt="Auto Shipping Services">
 
                 <div class="about-step">
                     <h2>3. Delivering your vehicle</h2>
@@ -218,7 +214,7 @@
             <a href="<?= home_path(); ?>services/rail-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img src=" <?= get_img() ?>metro-icon.png" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>metro-icon.png" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>By Rail</h3>
@@ -229,7 +225,7 @@
             <a href="<?= home_path(); ?>services/enclosed-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img src=" <?= get_img() ?>closed-truck-icon.png" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>closed-truck-icon.png" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Enclosed Auto Transport</h3>
@@ -241,7 +237,7 @@
             <a href="<?= home_path(); ?>services/door-to-door">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img src=" <?= get_img() ?>door-to-door-icon.png" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>door-to-door-icon.png" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Door To Door Shipping</h3>
@@ -252,7 +248,7 @@
             <a href="<?= home_path(); ?>services/motor-cycle-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img src=" <?= get_img() ?>motorcycle-icon.png" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>motorcycle-icon.png" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Motorcycle Transport</h3>
@@ -264,7 +260,7 @@
             <a href="<?= home_path(); ?>services/snow-bird-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img src=" <?= get_img() ?>snowbird-icon.png" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>snowbird-icon.png" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Snow Bird Shipping</h3>
@@ -275,7 +271,7 @@
             <a href="<?= home_path(); ?>services/boat-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img src=" <?= get_img() ?>boat-shipping-icon.png" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>boat-shipping-icon.png" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Boat Shipping</h3>

@@ -48,7 +48,7 @@
             <input type="text" onKeyUp="validateInput()" id="zipCode" placeholder="Ship From (Zip-code)">
 
 
-            <img src=" <?= get_img() ?>icons8-left-and-right-arrows-80 (1) 1.png" alt="">
+            <img loading="lazy" src=" <?= get_img() ?>icons8-left-and-right-arrows-80 (1) 1.png" alt="">
 
             <input type="text" onKeyUp="ValidateInput()" id="ZipCode" placeholder="Ship To (Zip-code)">
 

@@ -6,7 +6,7 @@
 <div class="callout-right-container">
 
     <div class="logo">
-        <img src="<?= get_img('Untitled-1-Recovered.png'); ?>" alt="auto transport blogs" srcset="">
+        <img loading="lazy" src="<?= get_img('Untitled-1-Recovered.png'); ?>" alt="auto transport blogs" srcset="">
     </div>
 
 
@@ -45,7 +45,7 @@
                     <button type="button" onclick="submit_from_side()">Submit</button>
                 </div>
                 <div class="customer-face-section" style="display:flex;justify-content:center;align-items:center;">
-                    <img src="<?= get_img() ?>customer-faces.png" style="height:40px;" alt="auto transport blogs" />
+                    <img loading="lazy" src="<?= get_img() ?>customer-faces.png" style="height:40px;" alt="auto transport blogs" />
                     <p style="color:#808080; font-size:12px; text-align:center;">
                         <span style="color:#ff5722;font-weight:bold;"> 300104</span>
                         people shipped using<br>

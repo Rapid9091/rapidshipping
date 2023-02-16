@@ -3,11 +3,11 @@
 <link rel="stylesheet" href="<?= get_assets(); ?>/css/global.css">
 <link rel="stylesheet" href="<?= get_css(); ?>VIEW_header.css" type="text/css">
 <link rel="stylesheet" href="<?= get_css(); ?>VIEW_footer.css">
-<link rel="stylesheet" href="<?= get_css(); ?>PAGE_state.global.css">
+<!-- wait -->
+<!-- <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state.global.css"> -->
 <link rel="stylesheet" href="<?= get_css(); ?>VIEW_services-types.css">
 <link rel="stylesheet" href="<?= get_css(); ?>VIEW_qna.css">
 <link rel="stylesheet" href="<?= get_css(); ?>VIEW_all-state-name.css">
-
 <link rel="stylesheet" href="<?= get_css(); ?>small-form.css">
 <link rel="stylesheet" href="<?= get_css(); ?>VIEW_new-footer.css">
 <link rel="stylesheet" href="<?= get_css(); ?>VIEW_pop-up-form.css">
@@ -28,7 +28,7 @@
 
 
 <!-- Review Tag Manager Add -->
-<script type='application/ld+json'>
+<script defer type='application/ld+json'>
     {
         "@context": "http://www.schema.org",
         "@type": "product",
@@ -64,7 +64,7 @@
 
 <!-- schema GMV BY SHUBHAM -->
 
-<script type="application/ld+json">
+<script defer type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "AutoDealer",

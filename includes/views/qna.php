@@ -6,7 +6,7 @@
             <p>What time will the driver deliver my Vehicle?</p>
             <div class="read---">
                 <span>Read More</span>
-                <img src="<?= get_img() ?>icons8-arrow-100 5.png" alt="Car Shipping Alaska">
+                <img loading="lazy" src="<?= get_img() ?>icons8-arrow-100 5.png" alt="Car Shipping Alaska">
             </div>
             <div class="faq-underline-div">
             </div>
@@ -15,7 +15,7 @@
             <p>Does my vehicle need to have a tag for shipment?</p>
             <div class="read---">
                 <span>Read More</span>
-                <img src="<?= get_img() ?>icons8-arrow-100 5.png" alt="Alaska Auto Transport Company">
+                <img loading="lazy" src="<?= get_img() ?>icons8-arrow-100 5.png" alt="Alaska Auto Transport Company">
             </div>
             <div class="faq-underline-div">
             </div>
@@ -24,7 +24,7 @@
             <p>Can I ship a muscle car, antique vehicle or classic car?</p>
             <div class="read---">
                 <span>Read More</span>
-                <img src="<?= get_img() ?>icons8-arrow-100 5.png" alt="Car Shipping Alaska">
+                <img loading="lazy" src="<?= get_img() ?>icons8-arrow-100 5.png" alt="Car Shipping Alaska">
             </div>
             <div class="faq-underline-div">
             </div>
@@ -33,7 +33,7 @@
             <p>If I pay extra can I have my vehicle expedited?</p>
             <div class="read---">
                 <span>Read More</span>
-                <img src="<?= get_img() ?>icons8-arrow-100 5.png" alt="Alaska Auto Transport Company">
+                <img loading="lazy" src="<?= get_img() ?>icons8-arrow-100 5.png" alt="Alaska Auto Transport Company">
             </div>
             <div class="faq-underline-div">
             </div>
@@ -41,16 +41,16 @@
     </div>
     <div class="sixth-section-state-faq-img">
         <!-- <div class="sixth-section-state-faq-img-0">
-            <img src="<?= get_img() ?>DSC_0302-scaled-e1578607804430 1.png" alt="Car Shipping Alaska">
+            <img loading="lazy" src="<?= get_img() ?>DSC_0302-scaled-e1578607804430 1.png" alt="Car Shipping Alaska">
         </div> -->
         <div class="slideContainer">
             <div class="Slide">
-                <img src="<?= get_img() ?>DSC_0302-scaled-e1578607804430 1.png" alt="Car Shipping Alaska">
+                <img loading="lazy" src="<?= get_img() ?>DSC_0302-scaled-e1578607804430 1.png" alt="Car Shipping Alaska">
 
                 <div class="Caption"></div>
             </div>
             <div class="Slide">
-                <img src="<?= get_img() ?>blue-boat-clouds.png" alt="rapid auto shipping">
+                <img loading="lazy" src="<?= get_img() ?>blue-boat-clouds.png" alt="rapid auto shipping">
                 <div class="Caption"></div>
             </div>
             <div class="Slide">

@@ -8,12 +8,12 @@
             <div class="comapny-info">
                 <div class="under-map-design">
                     <div class="under-map-design-1">
-                        <img width="100" height="100" alt="rapid auto shipping" src="<?= get_img() ?>coloured-logo.jpg" />
+                        <img loading="lazy" width="100" height="100" alt="rapid auto shipping" src="<?= get_img() ?>coloured-logo.jpg" />
                     </div>
                     <div class="under-map-design-1 under-map-design-2">
                         <div class="address">
                             <div class="address-1">
-                                <img height="20" width="20" alt="rapid auto shipping" src="<?= get_img() ?>location-pin.png" />
+                                <img loading="lazy" height="20" width="20" alt="rapid auto shipping" src="<?= get_img() ?>location-pin.png" />
                             </div>
                             <div class="address-2">
                                 <a href="https://www.google.com/maps?ll=34.468384,-101.304284&z=5&t=m&hl=en&gl=US&mapclient=embed&cid=11474043018341862120">
@@ -28,13 +28,13 @@
                     </div>
                     <div class="under-map-design-1">
                         <div class="call-and-mail">
-                            <img height="20" width="20" alt="Car shipping" src="<?= get_img() ?>mail-icon.png" />
+                            <img loading="lazy" height="20" width="20" alt="Car shipping" src="<?= get_img() ?>mail-icon.png" />
                             <a href="mailto: info@rapidautoshipping.com">
                                 info@rapidautoshipping.com
                             </a>
                         </div>
                         <div class="call-and-mail">
-                            <img height="20" width="20" alt="Auto transport" src="<?= get_img() ?>phone-call-icon.png" />
+                            <img loading="lazy" height="20" width="20" alt="Auto transport" src="<?= get_img() ?>phone-call-icon.png" />
                             <a href="tel:+1-833-233-4447">
                                 +1 (833) 233-4447
                             </a>
@@ -44,16 +44,16 @@
                 <div class="icon-holder">
                     <div class="icon-holder-grid">
                         <div class="icon-holder-grid-1">
-                            <a href="https://www.facebook.com/Rapid-Auto-Shipping-105964451981199" target="_blank"><img height="30" width="30" src="<?= get_img() ?>facebook-icon.png" alt="rapid auto shipping links"></a>
+                            <a href="https://www.facebook.com/Rapid-Auto-Shipping-105964451981199" target="_blank"><img loading="lazy" height="30" width="30" src="<?= get_img() ?>facebook-icon.png" alt="rapid auto shipping links"></a>
                         </div>
                         <div class="icon-holder-grid-1">
-                            <a href="https://www.instagram.com/rapidautoshipping/" target="_blank"><img height="30" width="30" src="<?= get_img() ?>instagram-icon.png" alt="rapid auto shipping links"></a>
+                            <a href="https://www.instagram.com/rapidautoshipping/" target="_blank"><img loading="lazy" height="30" width="30" src="<?= get_img() ?>instagram-icon.png" alt="rapid auto shipping links"></a>
                         </div>
                         <div class="icon-holder-grid-1">
-                            <a href="https://twitter.com/ShippingRapid" target="_blank"><img height="30" width="30" src="<?= get_img() ?>twitter-icon.png" alt="rapid auto shipping links"></a>
+                            <a href="https://twitter.com/ShippingRapid" target="_blank"><img loading="lazy" height="30" width="30" src="<?= get_img() ?>twitter-icon.png" alt="rapid auto shipping links"></a>
                         </div>
                         <div class="icon-holder-grid-1">
-                            <a href=" https://www.linkedin.com/in/rapid-auto-shipping-ba4593232/" target="_blank"><img height="30" width="30" src="<?= get_img() ?>linkedin-icon.png" alt="rapid auto shipping links"></a>
+                            <a href=" https://www.linkedin.com/in/rapid-auto-shipping-ba4593232/" target="_blank"><img loading="lazy" height="30" width="30" src="<?= get_img() ?>linkedin-icon.png" alt="rapid auto shipping links"></a>
                         </div>
 
                     </div>

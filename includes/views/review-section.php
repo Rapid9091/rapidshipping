@@ -1,6 +1,6 @@
 <section class="second-review-section">
     <div class="arrow" onclick="right();">
-        <img src="<?= get_img() ?>/left-arrow.png" alt="open car transport" />
+        <img loading="lazy" src="<?= get_img() ?>/left-arrow.png" alt="open car transport" />
     </div>
     <div class="arrow-mid" id="arrow-mid">
         <div class="review-sec tech-slideshow" id="review-sec">
@@ -28,7 +28,7 @@
 
                 <div class="date">
                     <p>11, April 2019</p>
-                    <img src=" <?= get_img() ?>Trustpilot-logo.png" alt="Trustpilot">
+                    <img loading="lazy" src=" <?= get_img() ?>Trustpilot-logo.png" alt="Trustpilot">
                 </div>
 
             </div>
@@ -53,7 +53,7 @@
 
                 <div class="date">
                     <p>07, May 2021</p>
-                    <img src=" <?= get_img() ?>google-mini-logo.png" alt="google-mini-logo">
+                    <img loading="lazy" src=" <?= get_img() ?>google-mini-logo.png" alt="google-mini-logo">
                 </div>
 
             </div>
@@ -79,7 +79,7 @@
 
                 <div class="date">
                     <p>07, April 2020</p>
-                    <img src=" <?= get_img() ?>TransportReviewsLogo.png" alt="Transport Reviews Logo">
+                    <img loading="lazy" src=" <?= get_img() ?>TransportReviewsLogo.png" alt="Transport Reviews Logo">
                 </div>
 
             </div>
@@ -105,7 +105,7 @@
 
                 <div class="date">
                     <p>01, September 2020</p>
-                    <img src=" <?= get_img() ?>bbb-logo-horizontal.png" alt="bbb logo">
+                    <img loading="lazy" src=" <?= get_img() ?>bbb-logo-horizontal.png" alt="bbb logo">
                 </div>
 
             </div>
@@ -131,7 +131,7 @@
 
                 <div class="date">
                     <p>22, September 2019</p>
-                    <img src=" <?= get_img() ?>google-mini-logo.png" alt="google mini">
+                    <img loading="lazy" src=" <?= get_img() ?>google-mini-logo.png" alt="google mini">
                 </div>
 
             </div>
@@ -157,7 +157,7 @@
 
                 <div class="date">
                     <p>07, April 2020</p>
-                    <img src=" <?= get_img() ?>TransportReviewsLogo.png" alt="Transport Reviews Logo">
+                    <img loading="lazy" src=" <?= get_img() ?>TransportReviewsLogo.png" alt="Transport Reviews Logo">
                 </div>
 
             </div>
@@ -186,7 +186,7 @@
 
                 <div class="date">
                     <p>11, April 2019</p>
-                    <img src=" <?= get_img() ?>Trustpilot-logo.png" alt="Trustpilot">
+                    <img loading="lazy" src=" <?= get_img() ?>Trustpilot-logo.png" alt="Trustpilot">
                 </div>
 
             </div>
@@ -212,7 +212,7 @@
 
                 <div class="date">
                     <p>22, September 2019</p>
-                    <img src=" <?= get_img() ?>google-mini-logo.png" alt="google mini">
+                    <img loading="lazy" src=" <?= get_img() ?>google-mini-logo.png" alt="google mini">
                 </div>
 
             </div>
@@ -224,7 +224,7 @@
         </div>
     </div>
     <div class="arrow" onclick="left();">
-        <img src="<?= get_img() ?>/right-arrow.png" alt="enclosed auto transport" />
+        <img loading="lazy" src="<?= get_img() ?>/right-arrow.png" alt="enclosed auto transport" />
 
     </div>
 </section>
