@@ -92,6 +92,9 @@
   color: var(--color-black);
   padding: 0 10px;
 }
+.sub-menu > div > ul > li>.hydrated{
+  color: var(--nav-color);
+}
 
 .sub-menu > div > ul > li > a:hover {
   color: var(--nav-color);
