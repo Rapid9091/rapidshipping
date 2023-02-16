@@ -80,8 +80,8 @@
     <!-- this is the fiorst section with background image -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Shipping car to Florida";
-        $PARAGRAPH = "New York and Florida share a number of similarities. Both are in the same time zone and border the Atlantic Ocean. Both have a diverse population and are historic settling areas for those looking to start a new life in the United States.Both are subjected to harsh weather. And there are plenty of people who live in both places - many New Yorkers visit Florida as snowbirds seasons.";
+        $NAME = "Shipping Car From New York To Florida";
+        $PARAGRAPH = "Rapid Auto Shipping is a reliable and affordable way to ship your car from New York to Florida. Whether you need your car shipped for personal or business reasons, Rapid Auto Shipping offers the best prices with top-notch customer service. They specialize in door-to-door shipping services so that you can rest assured that your vehicle will arrive safely and on time. With their decades of experience, they are able to provide options for different size vehicles and budgets. Their team of experts will work hard throughout the entire process to make sure that all of your needs are met during transit.";
         include_once small_form;
         ?>
     </div>
