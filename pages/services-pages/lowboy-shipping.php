@@ -82,7 +82,7 @@
     <!-- this is the fiorst section with background image -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Lowboy Trucking Services";
+        $NAME = "Lowboy Trucking";
         $PARAGRAPH = "Lowboy trailers are the workhorses of the heavy equipment transportation sector. They're used for moving equipment, machinery, and cargo in a variety of sectors. Around the world, they are almost commonly employed in agriculture, mining, construction, and freight transportation. Lowboy trailers are also known as a double drop, low loader, low-bed, or float depending on where you are in the world. A drop deck semi-trailer is the name given to all of them. Rapid Auto can carry your trailer by itself, or we may deliver your freight using a lowboy trailer.";
         include small_form;
         ?>

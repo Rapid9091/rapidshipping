@@ -89,7 +89,7 @@
     <!-- new section under the first section of single line -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Auto Trasnport Auction";
+        $NAME = "Auto Transport Auction";
         $PARAGRAPH = "Auto auctions are an excellent way to get a great deal with a used car. Online auto auction services such as Copart and Manheim often can help you find cars for a good deal.Auto auctions are an excellent way to obtain a great price on a used car. Online auto auction services like Copart and Manheim can often help you find cars for a bargain. The majority of auto transport companies on the road vehicles to and from auctions, and we can assist you with our excellent auto auction shipping services!";
         include small_form;
         ?>

@@ -69,7 +69,7 @@
     <!-- this is the fiorst section with background image -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Military Vehicle Transport";
+        $NAME = "Millitary Car Shipping";
         $PARAGRAPH = "Active and retired military personnel can use the service known as military car shipping, also referred to as military auto transport. It's more complicated to ship to and from military locations than move from one house to another. Rapid Auto Shipping is a reputable and safe US-based auto shipping company that can meet all of your car travel requirements. Every military vehicle transportation operation runs smoothly because we know how to handle complex cargoes. Our skilled logistics team will collaborate with you to develop an effective and timely plan for your military vehicle shipping, regardless of whether the shipment is local, cross-country, or worldwide.";
         include_once small_form;
         ?>
