@@ -8,10 +8,11 @@
     padding: 5%;
 }
 
-.company-review-first-section>h1 {
+.company-review-first-section>h3 {
     text-align: center;
     line-height: 2.5;
     font-weight: 700;
+    font-size: 2em;
 }
 
 .company-reviews-section {
