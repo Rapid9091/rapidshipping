@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+
+ 
+
+ 
+.howItWorkHome {
+    padding-top: 65px;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+@media (min-width: 768px){
+.container {
+    width: 750px;
+}}
+
+@media (min-width: 992px){
+.container {
+    width: 970px;
+}}
+.homeContainer {
+    max-width: 1040px;
+}
+.container {
+    max-width: 975px;
+}
+.howItWorkHome .container {
+    max-width: 1170px;
+    width: 1170px;
+}
+
+.container::before{
+    display: table;
+    content: " ";
+}
+.container::after{
+    display: table;
+    content: " ";
+    clear: both;
+}
+.width {
+    float: left;
+    width: 100%;
+}
+.text-center {
+    text-align: center;
+}
+.howItWorkHome .titleHow {
+    float: left;
+    width: 100%;
+    font-size: 39px;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+p {
+    margin: 0 0 10px;
+}
+.howItWorkHome .subTitle {
+    display: inline-block;
+    max-width: 560px;
+    padding: 0px 20px;
+    color: #83888f;
+    font-weight: 500;
+    font-size: 15px;
+    padding-bottom: 30px;
+    margin-bottom: 125px;
+    border-bottom: 3px solid #f3f3f4;
+}
+.howItWorkHome .stepsHow {
+    margin-bottom: 0px;
+    border-bottom: 1px solid #eeeef2;
+    position: relative;
+}
+.howItWorkHome .stepsHow::before {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 1120px;
+    background: url(../../assets/images/road.png) no-repeat top 30px center;
+    top: 0px;
+    left: 0px;
+}
+.howItWorkHome .stepsHow .item {
+    padding-left: 280px;
+    position: relative;
+    z-index: 4;
+    /* width: 100%; */
+    margin-bottom: 205px;
+    float: left;
+}
+.howItWorkHome .stepsHow .stepsCount {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border: 2px solid #8a94a4;
+    background-color: #9dadc9;
+    line-height: 46px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 900;
+    color: #fff;
+    position: absolute;
+    left: 145px;
+    top: 5px;
+}
+.howItWorkHome .stepsHow .item .img {
+    float: right;
+    width: 360px;
+    text-align: center;
+}
+img {
+    max-width: 100%;
+}
+.howItWorkHome .stepsHow .item .text {
+    float: left;
+    width: 450px;
+}
+
+.howItWorkHome .stepsHow .item .text .titleItem {
+    float: left;
+    width: 100%;
+    font-size: 24px;
+    color: #00011e;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.howItWorkHome .stepsHow .item .text p {
+    float: left;
+    width: 100%;
+    color: #83888f;
+    font-weight: 500;
+}
+.howItWorkHome .stepsHow > .item:nth-child(even) {
+    padding: 0px 280px 0px 0px;
+}
+.howItWorkHome .stepsHow > .item:nth-child(even) .stepsCount {
+    left: auto;
+    right: 70px;
+}
+.howItWorkHome .stepsHow > .item:nth-child(even) .img {
+    float: left;
+}
+.howItWorkHome .stepsHow > .item:nth-child(even) .text {
+    text-align: right;
+    float: right;
+}
+
+@media screen and (max-width: 1200px){
+  .howItWorkHome .stepsHow .item .text {
+    width: 290px;
+}
+
+.howItWorkHome .container{
+    width: 970px;
+    max-width: 970px;
+}}
+@media screen and (max-width: 991px){
+
+.howItWorkHome {
+    padding: 100px 0px;
+}
+.howItWorkHome .stepsHow::before {
+    background: url(../../assets/images/road-2.png) no-repeat left top;
+    width: 34px;
+    left: -150px;
+    top: 220px;
+}
+.howItWorkHome {
+    padding: 100px 0px; }
+
+  .howItWorkHome .homeContainer {
+    max-width: 300px; }
+
+  .howItWorkHome .stepsHow .item,
+  .howItWorkHome .stepsHow > .item:nth-child(2n) {
+    padding: 0px; }
+
+  .howItWorkHome .stepsHow::before {
+    background: url(../../assets/images/road-2.png) no-repeat left top;
+    width: 34px;
+    left: -150px;
+    top: 220px; }
+
+  .howItWorkHome .stepsHow .stepsCount {
+    left: -158px !important;
+    top: 200px !important; }
+
+  .howItWorkHome .stepsHow .item .img {
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 40px; }
+
+  .howItWorkHome .subTitle {
+    margin-bottom: 90px; }
+
+  .howItWorkHome .stepsHow .item .text {
+    width: 100%; }
+
+  .howItWorkHome .stepsHow > .item:nth-child(2n) .text {
+    text-align: left; }
+
+  .howItWorkHome .stepsHow .item {
+    margin-bottom: 80px; }
+
+  .howItWorkHome .subTitle,
+  .howItWorkHome .titleHow {
+    width: 550px;
+    margin-left: -75px; }
+
+}
+@media screen and (max-width: 768px){
+    .howItWorkHome .subTitle, .howItWorkHome .titleHow {
+    width: 100%;
+    margin: 0px 0px 30px 0px; }
+
+  .howItWorkHome {
+    padding: 40px 0px; }
+
+  .howItWorkHome .titleHow {
+    font-size: 34px;
+    margin-bottom: 15px; }
+
+  .howItWorkHome .subTitle {
+    margin-bottom: 60px; }
+
+  .howItWorkHome .stepsHow .stepsCount {
+    left: calc(50% - 25px) !important;
+    top: -40px !important; }
+
+  .howItWorkHome .stepsHow .item .text {
+    text-align: center; }
+
+  .howItWorkHome .stepsHow .item {
+    margin-bottom: 120px;
+    position: relative; }
+    .howItWorkHome .stepsHow .item::before {
+      content: "";
+      display: block;
+      position: absolute;
+      width: 100%;
+      left: 0px;
+      top: calc(100% + 10px);
+      height: 75px;
+      background: url(../images/small-road.png) no-repeat top center; }
+
+  .howItWorkHome .stepsHow::before {
+    display: none !important; }
+
+  .howItWorkHome .stepsHow > .item:last-child {
+    margin-bottom: 35px; }
+
+  .howItWorkHome .stepsHow > .item:last-child::before {
+    display: none !important; }
+}
+.how_heading{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.how_head{
+  font-size: 39px;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-bottom: 30px
+}
+.how_subtitle{
+    display: inline-block;
+    max-width: 560px;
+    padding: 0px 20px;
+    color: #83888f;
+    font-weight: 500;
+    font-size: 15px;
+    padding-bottom: 30px;
+    border-bottom: 3px solid #f3f3f4;
+}
+    </style>
+</head>
+<body>
+    <section class="">
+      <div class="how_heading">
+        <div class="text-center" >
+          <h3 class="how_head">How It Works</h3>
+          <p class="how_subtitle">We make car shipping cheap and easy by helping customers directly connect with auto transport carriers. We load, haul &amp; deliver anything on wheels.</p>
+        </div>
+      </div>
+            <div class="howItWorkHome width">
+                <div class="container homeContainer">
+                    <!-- <div class="width text-center">
+                        <span class="titleHow">How it Works</span>
+                        <p class="subTitle">
+                            We make car shipping cheap and easy by helping customers directly connect with auto transport carriers. We load, haul &amp; deliver anything on wheels.
+                        </p>
+                    </div> -->
+                    
+          
+                    <div class="width stepsHow">
+                        <div class="item">
+                            <span class="stepsCount">1</span>
+                            <div class="img">
+                                <img src="https://getcarrier.com/frontend/images/img-how-1.png" alt="">
+                            </div>
+                            <div class="text">
+                                <span class="titleItem">Request Quotes</span>
+                                <p>
+                                    Set your pickup and destination locations and indicate what vehicle you need to ship.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <span class="stepsCount">2</span>
+                            <div class="img">
+                                <img src="https://getcarrier.com/frontend/images/img-how-2.png" alt="">
+                            </div>
+                            <div class="text">
+                                <span class="titleItem">Get Instant Prices From Top Carriers</span>
+                                <p>
+                                    Our system will automatically show you nearest carriers and instantly show you price quotes.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <span class="stepsCount">3</span>
+                            <div class="img">
+                                <img src="https://getcarrier.com/frontend/images/img-how-3.png" alt="">
+                            </div>
+                            <div class="text">
+                                <span class="titleItem">Book Online</span>
+                                <p>
+                                    Book your shipment online. Driver will get in touch with you right away to schedule pickup and delivery timeframes.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <span class="stepsCount">4</span>
+                            <div class="img">
+                                <img src="https://getcarrier.com/frontend/images/img-how-4.png" alt="">
+                            </div>
+                            <div class="text">
+                                <span class="titleItem">Rate Your Carrier After Delivery</span>
+                                <p>
+                                    Tell us about your experience and help other customers make the right decision!
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+        
+    </section>
+</body>
+</html>
