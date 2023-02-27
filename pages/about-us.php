@@ -55,7 +55,7 @@
     <div class="contact-us-header-page">
         <?php
 
-        $NAME = "Best Auto Shipping Company In USA";
+        $NAME = "About US";
         $PARAGRAPH = "We will help you to ship your vehicle on time at an affordable price. You can ship your vehicle without any hustle and bustle, only just by contacting us.<span> We will provide you best representatives to help you out if you have any questions regarding <b>auto shipping. </b> All you have to do is to fill the free quote form, to get an instant quote for your shipment. You will see your <b>auto shipping</b> quote in less than 30 seconds with our price calculator, and find out when your vehicle can be picked up.</span>";
         ~include small_form;
         ?>
