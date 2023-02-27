@@ -7,13 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Affordable Construction Equipment Shipping | +1-(833) 233-4447</title>
+    <title>Affordable Construction Equipment Shipping Services</title>
+    <meta name="title" content="Affordable Construction Equipment Shipping Services" />
     <meta name="description" content="+1 (833) 233-4447 We provide the best construction equipment shipping services ⭐Bulk Equipment Transport Services ⭐Construction Equipment Shipping ⭐Driveaway Transport Solutions ⭐Heavy Machinery Transport" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Affordable Construction Equipment Shipping | +1-(833) 233-4447" />
+    <meta property="og:title" content="Affordable Construction Equipment Shipping Services" />
     <meta property="og:description" content="+1 (833) 233-4447 We provide the best construction equipment shipping services ⭐Bulk Equipment Transport Services ⭐Construction Equipment Shipping ⭐Driveaway Transport Solutions ⭐Heavy Machinery Transport" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/construction-equipment" />
-    <meta property="og:site_name" content="Rapid Auto Shipping | Best Auto Transport Company in US " />
+    <meta property="og:site_name" content="Affordable Construction Equipment Shipping Services " />
     <meta name='robots' content='index' />
     <meta name="keywords" content="construction equipment shipping,construction equipment transportation,heavy equipment moving,moving construction equipment, shipping construction equipment, transporting construction equipment, construction equipment towing company, construction equipment transport company">
     <meta property="article:tag" content="construction equipment shipping" />

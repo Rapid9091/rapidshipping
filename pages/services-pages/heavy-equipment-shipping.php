@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Heavy Equipment Shippers & Transport Company - Rapid Auto Shipping</title>
-    <meta name="Heavy Equipment Shippers & Transport Company - Rapid Auto Shipping" />
+    <title>Heavy Equipment Shippers & Auto Transport Company </title>
+    <meta name="Heavy Equipment Shippers & Auto Transport Company " />
     <meta name="description" content="The team at Rapid Auto Shipping specialize in heavy equipment moving and transport. We deliver across the country - to all 50 states." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Heavy Equipment Shippers & Transport Company - Rapid Auto Shipping" />
+    <meta property="og:title" content="Heavy Equipment Shippers & Auto Transport Company " />
     <meta property="og:description" content="The team at Rapid Auto Shipping specialize in heavy equipment moving and transport. We deliver across the country - to all 50 states." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/heavy-equipment-shipping" />
-    <meta property="og:site_name" content="Heavy Equipment Shippers & Transport Company - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Heavy Equipment Shippers & Auto Transport Company " />
     <meta name='robots' content='index' />
 
     <meta name="keywords" content="heavy equipment transport, equipment transport, heavy equipment hauling, heavy equipment shipping, heavy equipment haulers, equipment hauling services, equipment shipping, heavy equipment transportation, shipping heavy equipment, equipment transportation, heavy equipment transporters, heavy equipment trucking" />
