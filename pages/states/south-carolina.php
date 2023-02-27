@@ -99,7 +99,7 @@
     <div class="contact-us-header-page">
 
         <?php
-        $NAME = "Insured and Reliable Auto Shipping in South Carolina with Rapid Auto Shipping";
+        $NAME = "Reliable Auto Transport In South Carolina";
         $PARAGRAPH = "The state of South Carolina is located in the United States of America's coastal Southeastern area. With a population of 5.1 million, South Carolina is the 40th largest and 23rd most populous state in the United States. It is bordered on the north by North Carolina, on the southeast by the Atlantic Ocean, and on the southwest by Georgia. Throughout the state, there are a number of notable auto shipping facilities.";
         include small_form;
         ?>
