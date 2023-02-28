@@ -7,15 +7,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Trustworthy International Boat Shipping Services with Rapid Auto Shipping.</title>
-    <meta name="title" content="Trustworthy International Boat Shipping Services with Rapid Auto Shipping." />
+    <title>Trustworthy International Boat Shipping Services with RAS</title>
+    <meta name="title" content="Trustworthy International Boat Shipping Services with RAS" />
     <meta name="description" content="Rapid Auto Shipping is The Best International Boat Shipping Company. We Serve in many countries including Europe, Africa, Asia, Middle East, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Trustworthy International Boat Shipping Services with Rapid Auto Shipping." />
+    <meta property="og:title" content="Trustworthy International Boat Shipping Services with RAS" />
     <meta property="og:description" content="Rapid Auto Shipping is The Best International Boat Shipping Company. We Serve in many countries including Europe, Africa, Asia, Middle East, and more." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/boat-shipping" />
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/blue-boat-clouds.png" />
-    <meta property="og:site_name" content="Trustworthy International Boat Shipping Services with Rapid Auto Shipping." />
+    <meta property="og:site_name" content="Trustworthy International Boat Shipping Services with RAS" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="boat shipping, international boat shipping, boat transport international, shiping boat, shipping boats overseas, international boat shipping rates, international boat transport, international shipping by boat, international boat transportation, shipment boat, boat shipping services, shipping by boat international, shipping overseas by boat, boat shipping rates, boat shipping companies, boat shipping service, shipping boat shipping shipping boats, shipping boat, boat shipping prices, shipping yacht, shipping a boat cost, boat shippers, boat shipping quote, shipment by boat, boat transportation cost, boat shipping prices, yacht shipping, how to ship a boat, boat shipping costs, boat transport company, boat shipping cost, cost of shipping a boat, shipping by boat">
     <meta property="article:tag" content="boat shipping" />

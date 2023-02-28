@@ -9,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Transport Car | Vehicle From State To State | Rapid Auto Shipping</title>
     <meta name="description" content="We transport cars from state to state at the most affordable price. Get a state to state car shipping quote or give us a call at +1-833-233-4447 We will make your." />
+    <meta name="title" content="Transport Car | Vehicle From State To State | Rapid Auto Shipping" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Transport Car | Vehicle From State To State | Rapid Auto Shipping" />
     <meta property="og:description" content="We transport cars from state to state at the most affordable price. Get a state to state car shipping quote or give us a call at +1-833-233-4447 We will make your." />

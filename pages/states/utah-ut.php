@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Auto Transport company | Car shipping services Utah | +1-833-233-4447</title>
-    <meta name="Auto Transport company | Car shipping services Utah | +1-833-233-4447" />
+    <title>Utah Auto Transport Company | Car Shipping Services</title>
+    <meta name="Utah Auto Transport Company | Car Shipping Services" />
     <meta name="description" content="Need to transport a Car/Vehicle to or From Utah, You Need An Experienced Utah auto Transport Company That Means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping ." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Auto Transport company | Car shipping services Utah | +1-833-233-4447" />
+    <meta property="og:title" content="Utah Auto Transport Company | Car Shipping Services" />
     <meta property="og:description" content="Need to transport a Car/Vehicle to or From Utah, You Need An Experienced Utah auto Transport Company That Means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping ." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/utah-ut" />
-    <meta property="og:site_name" content="Auto Transport Utah - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Utah Auto Transport Company | Car Shipping Services" />
     <meta name='robots' content='index' />
 
     <meta name="keywords" content="utah car, car transport companies utah, cars in utah, auto transport utah, car shipping utah, shipping companies utah, utah auto, auto transport in utah, auto transport companies utah, freight shipping salt lake city, salt lake city car transport, car shipping companies in utah, car shipping companies salt lake city, car shipping companies utah, car shipping salt lake city, car transport salt lake city utah, salt lake city auto transport, utah car shipping, utah car transport, car transport to utah, shipping companies in salt lake city" />

@@ -18,7 +18,7 @@
     <meta property="og:title" content="Best Honda Auto Transport Services In USA | Rapid Auto Shipping" />
     <meta property="og:description" content="Rapid Auto Shipping is the best Honda auto transport company in the USA. Our services make it easier for you to buy, sell and trade-in your car! Call us today." />
     <meta property="og:url" content="https://rapidautoshipping.com/cars/honda" />
-    <meta property="og:site_name" content="Auto Transport Services  -  Rapid Auto Shipping " />
+    <meta property="og:site_name" content="Best Honda Auto Transport Services In USA | Rapid Auto Shipping " />
     <meta name='robots' content='index' />
     <meta name="keywords" content="Honda services by Rapid Auto Shipping, Honda car shipping service, Honda car shipping, Honda auto transports, Honda transporter services, Honda transporter">
     <meta property="article:tag" content="Honda transporter services" />

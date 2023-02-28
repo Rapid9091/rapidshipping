@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title># 1 International Car Shipping Services In USA | Rapid Auto Shipping.</title>
-    <meta name="# 1 International Car Shipping Services In USA | Rapid Auto Shipping." />
+    <title># 1 International Car Shipping Services In USA | RAS.</title>
+    <meta name="title" content="# 1 International Car Shipping Services In USA | RAS."/>
     <meta name="description" content="When it comes to international car shipping services, Rapid Auto Shipping is most reliable and expert in auto shipping globally. Click for a free Quote!" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="# 1 International Car Shipping Services In USA | Rapid Auto Shipping." />
+    <meta property="og:title" content="# 1 International Car Shipping Services In USA | RAS." />
     <meta property="og:description" content="When it comes to international car shipping services, Rapid Auto Shipping is most reliable and expert in auto shipping globally. Click for a free Quote!" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/car-transport" />
-    <meta property="og:site_name" content="Car transport services - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="# 1 International Car Shipping Services In USA | RAS." />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car shipping from usa, international car shipping, auto shipping global, how long does it take to ship a car overseas, ship car overseas, how much does it cost to ship a car overseas, how much to ship a car overseas, international vehicle shipping, international auto shippers, ship vehicles overseas, cars shipped overseas, shipping cars overseas, international car transport, international auto transport, international auto shipping, international car shipping companies" />
     <meta property="article:tag" content="car shipping from usa" />
