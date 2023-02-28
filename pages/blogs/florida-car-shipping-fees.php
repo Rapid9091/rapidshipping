@@ -15,7 +15,7 @@
     <meta property=" og:description" content="How to avoid extra fees while shipping your vehicle to Florida.  Call  +1-833-233-4447 to know more about best vehicle shipping company in Florida USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/florida-car-shipping-fees" />
     <meta property="og:site_name" content="What's the extra fees while Florida car shipping ?" />
-
+    <meta name="keywords" content="car transport to florida,ship my car to florida,car shipping companies florida,car transport companies florida,auto transport to florida" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->

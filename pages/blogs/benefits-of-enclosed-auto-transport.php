@@ -16,7 +16,7 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/benefits-of-enclosed-auto-transport" />
     <meta property="og:site_name" content="Benefits of Enclosed auto shipping  " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car carrier, open transport, automobile carrier, car shipping carriers, open auto, carrier for car, truck for car transport, get carrier auto transport, auto truck transport, auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport" />
+    <meta name="keywords" content="enclosed auto transport instant quote,enclosed vehicle,enclosed transport car shipping,enclosed vehicle shipping,enclosed carrier auto transport" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

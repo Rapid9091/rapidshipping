@@ -17,7 +17,7 @@
     <meta property="og:img" content="https://rapidautoshipping.com/assets/images/vaibhv-img.png" />
     <meta property="og:site_name" content="Open Carrier Transport Car Shipping Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car carrier, open transport, automobile carrier, car shipping carriers, open auto, carrier for car, truck for car transport, get carrier auto transport, auto truck transport, auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport">
+    <meta name="keywords" content="open transport car shipping,open car transport,open car carrier,open vehicle transport,open auto transport">
     <meta property="article:tag" content="open transport" />
     <meta property="article:tag" content="automobile carrier" />
     <meta property="article:tag" content="car shipping carriers" />

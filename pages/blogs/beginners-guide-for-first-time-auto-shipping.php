@@ -16,7 +16,7 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/beginners-guide-for-first-time-auto-shipping" />
     <meta property="og:site_name" content="Shipping your vehicle first time let us help you " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car shipping, car shipping companies, car shipping quotes, auto transport, car carriers, car shipping company, shipping a vehicle, auto transport reviews, auto transport companies, car shipping cost, car shipping rates, how to ship a car, auto transport company in us" />
+    <meta name="keywords" content="best car shipping company,biggest shipping companies,best car transport companies,largest shipping companies,best shipping company" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

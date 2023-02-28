@@ -16,7 +16,7 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/car-shipping-documents" />
     <meta property="og:site_name" content="Car shipping documents  - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="Best Auto Shipping Company USA, car transportation services, top vehicle shipping companies, American auto shipping company, best auto shipping company in the USA,  best auto shipping company ,affordable car shipping prices " />
+    <meta name="keywords" content="bill of lading car transport,bill of lading car,car shipping bill of lading,car shipping documentation" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

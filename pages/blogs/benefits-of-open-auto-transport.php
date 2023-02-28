@@ -15,7 +15,7 @@
     <meta property=" og:description" content="Rapid Auto Shipping provides the open car shipping services at very affordable price. Call  +1-833-233-4447 to know more about open auto transport in USA. " />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/benefits-of-open-auto-transport" />
     <meta property="og:site_name" content=" Top Advantages Of Open Auto Transport | Rapid Auto Shipping  " />
-    <meta name="keywords" content="car carrier, open transport, automobile carrier, car shipping carriers, open auto, carrier for car, truck for car transport, get carrier auto transport, auto truck transport, auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport">
+    <meta name="keywords" content="open auto carrier,open car transport service,open auto shipping,open auto transport companies">
     <meta property="article:tag" content="open transport" />
     <meta property="article:tag" content="automobile carrier" />
     <meta property="article:tag" content="car shipping carriers" />

@@ -17,7 +17,7 @@
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/blue-boat-clouds.png" />
     <meta property="og:site_name" content="Trustworthy International Boat Shipping Services with RAS" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="boat shipping, international boat shipping, boat transport international, shiping boat, shipping boats overseas, international boat shipping rates, international boat transport, international shipping by boat, international boat transportation, shipment boat, boat shipping services, shipping by boat international, shipping overseas by boat, boat shipping rates, boat shipping companies, boat shipping service, shipping boat shipping shipping boats, shipping boat, boat shipping prices, shipping yacht, shipping a boat cost, boat shippers, boat shipping quote, shipment by boat, boat transportation cost, boat shipping prices, yacht shipping, how to ship a boat, boat shipping costs, boat transport company, boat shipping cost, cost of shipping a boat, shipping by boat">
+    <meta name="keywords" content="boat shipping rates,boat shipping companies,boat transport cost,boat moving companies,boat transport company">
     <meta property="article:tag" content="boat shipping" />
     <meta property="article:tag" content="international boat shipping" />
     <meta property="article:tag" content="boat transport international" />

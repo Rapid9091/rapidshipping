@@ -16,7 +16,7 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/auto-shipping-calculator" />
     <meta property="og:site_name" content="Get the best and most accurate car shipping price calculator" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car shipping cost, Most affordable car shipping company in USA, car carrier, open transport, automobile carrier, car shipping carriers, open auto, carrier for car, truck for car transport, get carrier auto transport, auto truck transport, auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport" />
+    <meta name="keywords" content="car shipping calculator,car shipping cost calculator,vehicle shipping calculator,vehicle shipping cost estimator,car transport cost calculator" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

@@ -15,7 +15,7 @@
     <meta property=" og:description" content="Rapid Auto Shipping provides the San Diego car shipping services at very affordable price. Call  +1-833-233-4447 to know more about San Diego auto transport in USA. " />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/san-diego-auto-shipping" />
     <meta property="og:site_name" content="San Diego Car Shipping Services | +1-833-233-4447" />
-
+    <meta name="keywords" content="san diego auto shipping,car transport san diego,car shipping companies san diego,car shipping san diego,san diego auto transport" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

@@ -16,7 +16,7 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/comparing-auto-transport-prices" />
     <meta property="og:site_name" content="Guide to compare auto shipping prices  " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car shipping cost, Most affordable car shipping company in USA, car carrier, open transport, automobile carrier, car shipping carriers, open auto, carrier for car, truck for car transport, get carrier auto transport, auto truck transport, auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport" />
+    <meta name="keywords" content="cost to ship a car,car transport cost,average cost to ship a car,car delivery cost,car shipping rates" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->
