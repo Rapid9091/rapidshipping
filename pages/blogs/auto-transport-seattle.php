@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>How to ship vehicles in Seattle</title>
     <meta name="title" content=" How to ship vehicles in Seattle " />
-    <meta name="description" content="Rapid Auto Shipping provides the Shipping Service in Seattle at very affordable price.Call  +1-833-233-4447 to know more about vehicle shipping in Seattle USA. " />
+    <meta name="description" content="RAS provides the Shipping Service in Seattle at very affordable price. Call  +1 (833) 233-4447 to know more about vehicle shipping in Seattle USA. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content=" How to ship vehicles in Seattle " />
-    <meta property=" og:description" content="Rapid Auto Shipping provides the Shipping Service in Seattle at very affordable price. Call  +1-833-233-4447 to know more about vehicle shipping in Seattle USA. " />
+    <meta property=" og:description" content="RAS provides the Shipping Service in Seattle at very affordable price. Call  +1 (833) 233-4447 to know more about vehicle shipping in Seattle USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/auto-transport-seattle" />
     <meta property="og:site_name" content="How to ship vehicles in Seattle" />
     <meta name="keywords" content="Seattle Auto Shipping, Seattle Car Shipping, Shipping A Car To Seattle, Auto Transport Seattle, Auto Shipping Seattle, Seattle Auto Transport Services, " />

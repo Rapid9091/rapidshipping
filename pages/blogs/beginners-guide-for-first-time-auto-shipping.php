@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Shipping your vehicle first time let us help you</title>
     <meta name="title" content="Shipping your vehicle first time let us help you" />
-    <meta name="description" content="Shipping your vehicle first time let us help you, we provide auto shipping services at a very affordable price. Call +1-833-233-4447, We provide car shipping services in entire USA. " />
+    <meta name="description" content="Shipping your vehicle first time let us help you, we provide auto shipping services at a very affordable price. We provide car shipping services in entire USA. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Shipping your vehicle first time let us help you" />
-    <meta property="og:description" content="Shipping your vehicle first time let us help you, we provide auto shipping services at a very affordable price. Call +1-833-233-4447, We provide car shipping services in entire USA." />
+    <meta property="og:description" content="Shipping your vehicle first time let us help you, we provide auto shipping services at a very affordable price. We provide car shipping services in entire USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/beginners-guide-for-first-time-auto-shipping" />
     <meta property="og:site_name" content="Shipping your vehicle first time let us help you " />
     <meta name='robots' content='index' />

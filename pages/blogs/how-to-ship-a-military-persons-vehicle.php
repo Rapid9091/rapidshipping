@@ -12,7 +12,7 @@
     <meta name="description" content="How to ship a military person's vehicle safely ?, we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="How to ship a military person's vehicle safely ?" />
-    <meta property="og:description" content="How to ship a military person's vehicle safely ? , we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA." />
+    <meta property="og:description" content="How to ship a military person's vehicle safely ?, we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-to-ship-a-military-persons-vehicle" />
     <meta property="og:site_name" content="How to ship a military person's vehicle safely ?" />
     <meta name='robots' content='index' />

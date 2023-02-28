@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Benefits of Enclosed auto shipping </title>
     <meta name="title" content="Benefits of Enclosed auto shipping " />
-    <meta name="description" content="Benefits of Enclosed auto shipping , we provide Enclosed auto transport services at a very affordable price. Call +1-833-233-4447, We provide Enclosed auto shipping in entire USA. " />
+    <meta name="description" content="Benefits of Enclosed auto shipping , we provide Enclosed auto transport services at a very affordable price. We provide Enclosed auto shipping in entire USA. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Benefits of Enclosed auto shipping " />
-    <meta property="og:description" content="Benefits of Enclosed auto shipping , we provide Enclosed auto transport services at a very affordable price. Call +1-833-233-4447, We provide Enclosed auto shipping in entire USA." />
+    <meta property="og:description" content="Benefits of Enclosed auto shipping , we provide Enclosed auto transport services at a very affordable price. We provide Enclosed auto shipping in entire USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/benefits-of-enclosed-auto-transport" />
     <meta property="og:site_name" content="Benefits of Enclosed auto shipping  " />
     <meta name='robots' content='index' />
