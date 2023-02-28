@@ -11,10 +11,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
     <meta name="title" content="Auto Transport Companies in Connecticut  - Rapid Auto Shipping">
-    <meta name="description" content="Need Car Shipping service in Connecticut, you need an experienced Connecticut auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping" />
+    <meta name="description" content="Need Car Shipping in Connecticut? Rapid Auto Shipping is an experienced Connecticut auto transport company. Call+1 (833) 233-4447 For shipping vehicles" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Auto Transport Companies in Connecticut  - Rapid Auto Shipping" />
-    <meta property="og:description" content="Need Car Shipping service in Connecticut, you need an experienced Connecticut auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping" />
+    <meta property="og:description" content="Need Car Shipping in Connecticut? Rapid Auto Shipping is an experienced Connecticut auto transport company. Call+1 (833) 233-4447 For shipping vehicles" />
     <meta property="og:url" content="https://rapidautoshipping.com/states/connecticut" />
     <meta property="og:img" content="https://rapidautoshipping.com/assets/images/66178.png" />
     <link property="image" href="https://rapidautoshipping.com/assets/images/66178.png" />

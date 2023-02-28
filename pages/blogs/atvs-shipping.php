@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>ATV Transport Service Provider Company in USA </title>
     <meta name="title" content="ATV Transport Service Provider Company in USA " />
-    <meta name="description" content="Rapid Auto Shipping - ATV Transport Services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in ATV Transport Services in all states of the USA." />
+    <meta name="description" content="Planning to transport your ATV? Our professional ATV transport services offer safe, reliable transportation for your vehicle. Contact us today" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="ATV Transport Service Provider Company in USA" />
-    <meta property="og:description" content="Rapid Auto Shipping - ATV Transport Services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in ATV Transport Services in all states of the USA." />
+    <meta property="og:description" content="Planning to transport your ATV? Our professional ATV transport services offer safe, reliable transportation for your vehicle. Contact us today" />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/shipping-a-dump-truck" />
     <meta property="og:site_name" content="ATV Transport Service Provider Company in USA" />
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png" />

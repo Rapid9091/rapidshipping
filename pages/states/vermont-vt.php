@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Auto Transport company Vermont | Car shipping services</title>
     <meta name="title" content="Auto Transport company Vermont | Car shipping services" />
-    <meta name="description" content="Need to transport a Car/Vehicle to or From Vermont, You Need An Experienced Vermont auto Transport Company That Means Rapid Auto Shipping. Call +1 (833) 233-4447 For vehicle shipping." />
+    <meta name="description" content="You Require a Vermont Auto Transport Company With Rapid Auto Shipping. Call+1 (833) 233-4447 for vehicle shipping." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Auto Transport company Vermont | Car shipping services" />
-    <meta property="og:description" content="Need to transport a Car/Vehicle to or From Vermont, You Need An Experienced Vermont auto Transport Company That Means Rapid Auto Shipping. Call +1 (833) 233-4447 For vehicle shipping." />
+    <meta property="og:description" content="You Require a Vermont Auto Transport Company With Rapid Auto Shipping. Call+1 (833) 233-4447 for vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/vermont-vt" />
     <meta property="og:site_name" content="Auto Transport company Vermont | Car shipping services" />
     <meta name='robots' content='index' />
