@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title> Auto transport Company Mississippi | Car Shipping Services </title>
     <meta name="title" content="Auto transport Company Mississippi | Car Shipping Services " />
-    <meta name="description" content="Need Car Shipping service in Mississippi, you need an experienced Mississippi auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta name="description" content="Need Car Shipping Service in Mississippi? Rapid Auto Shipping is an experienced transport company. Call+1 (833) 233-4447 For shipping vehicles." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="	Auto transport Company Mississippi | Car Shipping Services " />
-    <meta property="og:description" content="Need Car Shipping service in Mississippi, you need an experienced Mississippi auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta property="og:description" content="Need Car Shipping Service in Mississippi? Rapid Auto Shipping is an experienced transport company. Call+1 (833) 233-4447 For shipping vehicles." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/mississippi" />
     <meta property="og:site_name" content="Auto Shipping Mississippi - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

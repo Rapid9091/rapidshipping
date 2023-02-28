@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Why do auto shipping costs vary dealer to dealer ?</title>
     <meta name="title" content="Why do auto shipping costs vary dealer to dealer ?" />
-    <meta name="description" content="Why do auto shipping costs vary dealer to dealer ?, we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA. " />
+    <meta name="description" content="Why do auto shipping costs differ from dealer to dealer? We offer low-cost auto transport services. Call+1 (833) 233-4447 " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Why do auto shipping costs vary dealer to dealer ?" />
-    <meta property="og:description" content="Why do auto shipping costs vary dealer to dealer ? , we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA." />
+    <meta property="og:description" content="Why do auto shipping costs differ from dealer to dealer? We offer low-cost auto transport services. Call+1 (833) 233-4447" />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/why-do-auto-shipping-quote-differ" />
     <meta property="og:site_name" content="Why do auto shipping costs vary dealer to dealer ?" />
     <meta name='robots' content='index' />

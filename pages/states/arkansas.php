@@ -8,10 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Arkansas Auto Transport Company | Car Shipping Services</title>
     <meta name="title" content="Arkansas Auto Transport Company | Car Shipping Services" />
-    <meta name="description" content="Need Car Shipping service in Arkansas, you need an experienced Arkansas auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta name="description" content="Need Car Shipping in Arkansas? Rapid Auto Shipping is an experienced auto transport company. For vehicle shipping, Call+1 (833) 233-4447." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Arkansas Auto Transport Company | Car Shipping Services" />
-    <meta property="og:description" content="Need Car Shipping service in Arkansas, you need an experienced Arkansas auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta property="og:description" content="Need Car Shipping in Arkansas? Rapid Auto Shipping is an experienced auto transport company. For vehicle shipping, Call+1 (833) 233-4447." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/arkansas" />
     <meta property="og:site_name" content="Arkansas Auto Transport Company | Car Shipping Services" />
     <meta name='robots' content='index' />

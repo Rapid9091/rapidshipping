@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Port to Port Transport Services - Rapid Auto Shipping </title>
     <meta name="title" content="Port to Port Transport Services - Rapid Auto Shipping " />
-    <meta name="description" content="Rapid Auto Shipping - Port to Port Transport Services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in Port to Port Transport in all states of the USA." />
+    <meta name="description" content="RAS offers port-to-port transportation services at a low cost. we specialize in Port to Port Transport in all 50 states  Call+1 (833) 233-4447 " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Port to Port Transport Services - Rapid Auto Shipping" />
-    <meta property="og:description" content="Rapid Auto Shipping - Port to Port Transport Services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in Port to Port Transport in all states of the USA." />
+    <meta property="og:description" content="RAS offers port-to-port transportation services at a low cost. we specialize in Port to Port Transport in all 50 states  Call+1 (833) 233-4447 " />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/port-to-port-transportation" />
     <meta property="og:site_name" content="Port to port transport services - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

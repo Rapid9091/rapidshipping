@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Dump truck transport company service provider | +1-833-233-4447</title>
     <meta name="title" content="Dump truck transport company service provider | +1-833-233-4447" />
-    <meta name="description" content="Rapid Auto Shipping - Dump truck transport services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in Dump truck transport in all states of the USA." />
+    <meta name="description" content="RAS provides dump truck transport services at a low cost. Call+1 (833) 233-4447  for Dump truck transport in all 50 states." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Dump truck transport company service provider | +1-833-233-4447" />
-    <meta property="og:description" content="Rapid Auto Shipping - Dump truck transport services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in Dump truck transport in all states of the USA." />
+    <meta property="og:description" content="RAS provides dump truck transport services at a low cost. Call+1 (833) 233-4447  for Dump truck transport in all 50 states." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/shipping-a-dump-truck" />
     <meta property="og:site_name" content="Dump truck transport company service provider | +1-833-233-4447" />
     <meta name='robots' content='index' />

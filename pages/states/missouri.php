@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Safe, Secure Enclosed Auto Transport Company in Missouri</title>
     <meta name="title" content="Safe, Secure Enclosed Auto Transport Company in Missouri" />
-    <meta name="description" content="Get your vehicle safely transported with Rapid Auto Shipping. Our experienced team of professionals will pick up and deliver your vehicle to its destination with utmost care. Contact us today" />
+    <meta name="description" content="You Need An Experienced missouri auto Transport Company That means Rapid Auto Shipping. Call+1 (833) 233-4447 For vehicle shipping." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Safe, Secure Enclosed Auto Transport Company in Missouri" />
-    <meta property="og:description" content="Get your vehicle safely transported with Rapid Auto Shipping. Our experienced team of professionals will pick up and deliver your vehicle to its destination with utmost care. Contact us today" />
+    <meta property="og:description" content="You Need An Experienced missouri auto Transport Company That means Rapid Auto Shipping. Call+1 (833) 233-4447 For vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/missouri" />
     <meta property="og:site_name" content="Safe, Secure Enclosed Auto Transport Company in Missouri" />
     <meta name='robots' content='index' />

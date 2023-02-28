@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Get Instant Car Shipping Quotes | Reliable & Affordable</title>
     <meta name="title" content="Get Instant Car Shipping Quotes | Reliable & Affordable" />
-    <meta name="description" content="Get the best car shipping quotes in the Rapid Auto Shipping. We offer hassle-free and affordable car shipping services for both short and long distances. Get a free quote today and experience fast, secure, reliable auto transport." />
+    <meta name="description" content="Get the best car shipping quotes in the RAS. We offer hassle-free and affordable car shipping service for both short and long distances. Get a free quote today." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Get Instant Car Shipping Quotes | Reliable & Affordable" />
-    <meta property="og:description" content="Get the best car shipping quotes in the Rapid Auto Shipping. We offer hassle-free and affordable car shipping services for both short and long distances. Get a free quote today and experience fast, secure, reliable auto transport." />
+    <meta property="og:description" content="Get the best car shipping quotes in the RAS. We offer hassle-free and affordable car shipping service for both short and long distances. Get a free quote today." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/car-transport-quotes" />
     <meta property="og:site_name" content="Get Instant Car Shipping Quotes | Reliable & Affordable" />
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png" />

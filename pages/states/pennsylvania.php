@@ -9,9 +9,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Car Shipping Services Pennsylvania | Auto transport Company</title>
     <meta name="title" content="Car Shipping Services | +1-833-233-4447 | Pennsylvania Auto Transport Company" />
-    <meta name="description" content="Need Car Shipping service in Pennsylvania, you need an experienced Pennsylvania auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta name="description" content="Need Car Shipping in Pennsylvania? Rapid Auto Shipping is an experienced auto transport company. Call+1 (833) 233-4447 For vehicle transport." />
     <meta property="og:title" content="Car Shipping Services | +1-833-233-4447 | Pennsylvania Auto Transport Company" />
-    <meta property="og:description" content="Need Car Shipping service in Pennsylvania, you need an experienced Pennsylvania auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta property="og:description" content="Need Car Shipping in Pennsylvania? Rapid Auto Shipping is an experienced auto transport company. Call+1 (833) 233-4447 For vehicle transport." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/pennsylvania" />
     <meta property="og:site_name" content="Auto Transport Pennsylvania - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

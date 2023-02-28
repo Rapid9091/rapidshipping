@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Car shipping in different weathers-- Rapid Auto Shipping</title>
     <meta name="title" content="Car shipping in different weathers-- Rapid Auto Shipping" />
-    <meta name="description" content="Rapid Auto Shipping - Car shipping in different weathers provided by RAS, at a very affordable price. Call +1-833-233-4447, We provide car shipping in USA in different weathers. " />
+    <meta name="description" content="RAS offers car shipping in various weather conditions at a low cost. Call+1 (833) 233-4447 for car shipping in the United States in all weather conditions. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Car shipping in different weathers-- Rapid Auto Shipping" />
-    <meta property="og:description" content="Rapid Auto Shipping - Car shipping in different weathers provided by RAS, at a very affordable price. Call +1-833-233-4447, We provide car shipping in USA in different weathers." />
+    <meta property="og:description" content="RAS offers car shipping in various weather conditions at a low cost. Call+1 (833) 233-4447 for car shipping in the United States in all weather conditions." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-the-weather-affects-auto-transport" />
     <meta property="og:site_name" content="Car shipping in different weathers-- Rapid Auto Shipping " />
     <meta name='robots' content='index' />

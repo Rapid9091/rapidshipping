@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Utah Auto Transport Company | Car Shipping Services</title>
     <meta name="Utah Auto Transport Company | Car Shipping Services" />
-    <meta name="description" content="Need to transport a Car/Vehicle to or From Utah, You Need An Experienced Utah auto Transport Company That Means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping ." />
+    <meta name="description" content="You Need An Experienced Auto Transport Company That Means Rapid Auto Shipping If You Need Auto Transport To/From Utah For vehicle shipping, Call+1 (833) 233-4447." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Utah Auto Transport Company | Car Shipping Services" />
-    <meta property="og:description" content="Need to transport a Car/Vehicle to or From Utah, You Need An Experienced Utah auto Transport Company That Means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping ." />
+    <meta property="og:description" content="You Need An Experienced Auto Transport Company That Means Rapid Auto Shipping If You Need Auto Transport To/From Utah For vehicle shipping, Call+1 (833) 233-4447." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/utah-ut" />
     <meta property="og:site_name" content="Utah Auto Transport Company | Car Shipping Services" />
     <meta name='robots' content='index' />

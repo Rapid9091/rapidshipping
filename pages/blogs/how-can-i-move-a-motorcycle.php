@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>How to move a motorcycle ? </title>
     <meta name="title" content="How to move a motorcycle " />
-    <meta name="description" content="Rapid Auto Shipping - Motorcycle shipping services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in motorcycle transportation in all states of the USA." />
+    <meta name="description" content="RAS offers motorcycle shipping services at an affordable price. Call+1 (833) 233-4447; we specialize in motorcycle transportation in all 50 states." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="How to move a motorcycle" />
-    <meta property="og:description" content="Rapid Auto Shipping - Motorcycle shipping services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in motorcycle transportation in all states of the USA." />
+    <meta property="og:description" content="RAS offers motorcycle shipping services at an affordable price. Call+1 (833) 233-4447; we specialize in motorcycle transportation in all 50 states." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-can-i-move-a-motorcycle" />
     <meta property="og:site_name" content="How can i move a motorcycle  - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

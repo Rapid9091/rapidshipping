@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Transporting cars to dealership in USA </title>
     <meta name="title" content="Transporting cars to dealership in USA " />
-    <meta name="description" content="Rapid Auto Shipping - Transporting cars to dealership in USA provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in Transporting cars to dealership in all states of the USA." />
+    <meta name="description" content="Need to transport cars to your dealership quickly and safely? Trust our experienced team for customized transport solutions that meet your specific needs." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Transporting cars to dealership in USA" />
-    <meta property="og:description" content="Rapid Auto Shipping - Transporting cars to dealership in USA provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in Transporting cars to dealership in all states of the USA." />
+    <meta property="og:description" content="Need to transport cars to your dealership quickly and safely? Trust our experienced team for customized transport solutions that meet your specific needs." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/transporting-car-to-dealership" />
     <meta property="og:site_name" content="Transporting car to dealership - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

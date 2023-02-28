@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Tips for preparing your car for Auction</title>
     <meta name="title" content="Tips for preparing your car for Auction" />
-    <meta name="description" content="Tips for preparing your car for Auction, we provide auction auto shipping services at a very affordable price. Call +1-833-233-4447, We provide Auction car shipping in entire USA. " />
+    <meta name="description" content="We offer auction auto shipping services at a very reasonable price. Call+1 (833) 233-4447 for auction car shipping throughout the United States. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Tips for preparing your car for Auction" />
-    <meta property="og:description" content="Tips for preparing your car for Auction, we provide auction auto shipping services at a very affordable price. Call +1-833-233-4447, We provide Auction car shipping in entire USA." />
+    <meta property="og:description" content="We offer auction auto shipping services at a very reasonable price. Call+1 (833) 233-4447 for auction car shipping throughout the United States." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/tips-for-preparing-your-car-for-auction" />
     <meta property="og:site_name" content="Tips for preparing your car for Auction " />
     <meta name='robots' content='index' />
