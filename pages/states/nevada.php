@@ -132,7 +132,7 @@
         <h2 class="utility_main-heading">Some famous Auto Transport in <span class="california-state-span">Nevada</span> Cities</h2>
         <img loading="lazy" src="<?= get_img() ?>nevada-state-bg-1.jpg" alt="Nevada Auto Transport company">
         <p class=" text">
-            <a href="https://www.Nevada.gov/" title="More about Nevada"><span class="california-state-span">Nevada</span></a> is a state in the United States of America with a population of over 4.8 million people. In terms of an overall area, the state is now ranked 30th out of fifty states.
+            <span>Nevada</span> is a state in the United States of America with a population of over 4.8 million people. In terms of an overall area, the state is now ranked 30th out of fifty states.
         </p>
 
         <div class="more-califrnian-cities">
