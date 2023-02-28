@@ -51,7 +51,8 @@
         <img loading="lazy" src="<?= get_img() ?>auto-transport-open.jpg" alt="Auto Transport">
       </div>
       <div class="car-transport-content car-transport-content-00">
-        <h6>OPEN AUTO TRANSPORT CARRIERS</h6>
+        <h6><a href=" <?= home_path(); ?>services/open-car-shipping"><span>Open Transport Car Shipping</span>
+        </a></h6>
         <p class="page-normal-text">
           An open auto transport carrier is the most cost-effective way to transport your automobile. Open carriers are preferred by car dealers because they can accommodate up to ten vehicles at once, lowering per-vehicle costs. Another compelling reason to employ
           open auto transport carriers is for daily-driven vehicles. Granted, your objective isn't to cross the country in your car. The car is driven regularly; it can endure the elements and will not depreciate as quickly as a collectible
@@ -68,7 +69,9 @@
     <div class="car-transport car-transport-special">
 
       <div class="car-transport-content car-transport-content-01">
-        <h6>ENCLOSED AUTO TRANSPORT CARRIERS</h6>
+        <h6><a href="<?= home_path(); ?>services/enclosed-shipping"><span>ENCLOSED AUTO TRANSPORT</span>
+          
+        </a></h6>
         <p class="page-normal-text">First and foremost, our enclosed hard and soft-sided carriers provide the safest means of transporting your vehicle. Wind, rain, sleet, ice, and wind-blown debris are all protected from your vehicle by these carriers. In addition, an enclosed
           container keeps your automobile safe and prevents it from sliding around.
         </p>
@@ -92,7 +95,8 @@
       <img loading="lazy" src="<?= get_img() ?>rail-service-img.jpg" alt=" transporter services">
 
       <div class="service-vehicle-content service-vehicle-content-01">
-        <h5 class="page-left-sub-heading">CAR SHIPPING VIA RAILS</h5>
+        <h5 class="page-left-sub-heading"><a href=" <?= home_path(); ?>services/rail-shipping"><span>Transport Car By Train</span>
+        </a></h5>
         <p>
           Although Shipping an automobile via rail isn't the most frequent technique, some dealerships and manufacturers prefer it when they have a large number of cars to deliver to a single place. Shipping by rail is generally less expensive than shipping by
           truck or any other means, especially since fuel prices fluctuate.
@@ -111,7 +115,9 @@
 
 
       <div class="service-vehicle-content service-vehicle-content-02">
-        <h5 class="page-left-sub-heading">HEAVY EQUIPMENT SHIPPING SERVICES</h5>
+        <h5 class="page-left-sub-heading"><a href="<?= home_path(); ?>services/heavy-equipment-shipping">
+          <span>HEAVY EQUIPMENT SHIPPING</span>
+        </a></h5>
 
         <p>
           We don't simply ship cars at Rapid Auto Shipping! We can also assist you with transporting any form of heavy machinery, from tractors to cranes.
@@ -130,7 +136,9 @@
       <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667643399/Recent%20Uploads/photo-1543465077-db45d34b88a5_nhwyau.jpg" alt="auction car shipping">
 
       <div class="service-vehicle-content service-vehicle-content-01">
-        <h2 class="page-left-sub-heading">TRANSPORT SERVICES FOR AUTO AUCTION</h2>
+        <h2 class="page-left-sub-heading"><a href=" <?= home_path(); ?>services/auto-auction-shipping" ><span>Auto Transport Auction</span>
+         
+        </a></h2>
         <p>
           Buying or selling a second-hand car at an auto auction may be a fascinating experience. However, once the dust has settled, the last bids have been placed, and the thrill of the auction has worn off, the practical issue of determining how to transfer the
           vehicle from the auction lot must be addressed.
@@ -150,7 +158,9 @@
 
 
       <div class="service-vehicle-content service-vehicle-content-02">
-        <h2 class="page-left-sub-heading">SHIPPING SERVICES FOR MOTORCYCLES</h2>
+        <h2 class="page-left-sub-heading"><a href=" <?= home_path(); ?>services/motor-cycle-shipping">
+          <span>Motorcycle Shipping</span>
+        </a></h2>
 
         <p>
           We've evolved into complete motorized sports equipment vehicle shipping professionals as motorcycle shippers with a motorcycle shipping technique developed to preserve the smaller vehicle. As a result, we ship your ATV, jet ski, snowmobile, or trailer
@@ -169,7 +179,9 @@
       <img loading="lazy" src="<?= get_img() ?>lowboy-service-car.jpeg" alt="auto transport">
 
       <div class="service-vehicle-content service-vehicle-content-01">
-        <h5 class="page-left-sub-heading">CARRIERS FOR LOWBOY AUTO TRANSPORT</h5>
+        <h5 class="page-left-sub-heading"><a href=" <?= home_path(); ?>services/lowboy-shipping">
+          <span>Lowboy Trucking</span>
+        </a></h5>
         <p>
           A lowboy transport carrier is the most efficient way to carry your vehicles and equipment. The lowboy is a long, flat platform that secures huge volumes of gross tonnage using specialized equipment. When heavy equipment is required, the lowboy is usually
           called upon. Lowboy transport maximizes efficiency while saving time.
@@ -191,7 +203,9 @@
 
 
       <div class="service-vehicle-content service-vehicle-content-02">
-        <h5 class="page-left-sub-heading">MILITARY CAR SHIPPING SERVICE</h5>
+        <h5 class="page-left-sub-heading"><a href="<?= home_path(); ?>services/military-shipping">
+         <span>MILITARY CAR SHIPPING</span>
+        </a></h5>
         <p>
           Serving in the military is a privilege, and it can also entail relocation. Military auto shipping firms do exactly what their name implies: they ship vehicles for military personnel. Military vehicles such as Humvee and jeeps can also be shipped. Every
           transportation company, whether a broker or a carrier, will provide military car transport services to active and former military personnel.
@@ -209,7 +223,9 @@
       <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665832014/received_594529625738657_y8wkkh.jpg" alt="rapid auto shipping services">
 
       <div class="service-vehicle-content service-vehicle-content-01">
-        <h5 class="page-left-sub-heading">SHIPPING SERVICES FOR SNOWBIRDS</h5>
+        <h5 class="page-left-sub-heading"><a href=" <?= home_path(); ?>services/snow-bird-shipping">
+         <span>SNOWBIRD SHIPPING</span>
+        </a></h5>
         <p>
           Every year, in winters, thousands of people move from the north side to the south side due to the freezing weather to specifically live in warm weather in the South in a big way. Those people are called Snowbirds.
 
@@ -226,7 +242,9 @@
     </div>
     <div class="service-vehicle">
       <div class="service-vehicle-content service-vehicle-content-02">
-        <h5 class="page-left-sub-heading">DOOR TO DOOR SERVICE</h5>
+        <h5 class="page-left-sub-heading"><a href=" <?= home_path(); ?>services/door-to-door">
+          <span>Door To Door Auto Transport</span>
+        </a></h5>
         <p>
           Door to door definitely is also known as house to house service, which kind of is fairly significant. This mostly is the most convenient service in which generally your car will particularly be essentially picked up and delivered at pretty your for all
           intents and purposes particular preferred destination without any hassle and bustle, which actually is fairly significant.
@@ -245,7 +263,9 @@
       <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667637211/Recent%20Uploads/pexels-photo-4558369_clqufj.jpg" alt="auto transports">
 
       <div class="service-vehicle-content service-vehicle-content-01">
-        <h5 class="page-left-sub-heading">SHIPPING SERVICES FOR BOATS</h5>
+        <h5 class="page-left-sub-heading"><a href=" <?= home_path(); ?>services/boat-shipping">
+          <span>BOAT SHIPPING SERVICES</span>
+        </a></h5>
         <p>
           When it comes to shipping a boat or yacht, it's essential to work with experts. Standard boat transportation methods can be used to move a boat from a residence to a lake, or from one lake to another, and your personalized boat shipping service is all
           areas of expertise for us. We ship watercraft for individuals, dealers, and businesses.

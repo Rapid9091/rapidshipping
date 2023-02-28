@@ -66,7 +66,7 @@
     <!-- new section under the first section of single line -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Snow Bird Shipping";
+        $NAME = "SNOWBIRD SHIPPING";
         $PARAGRAPH = "Every year in the winter, thousands of people travel from the north to the south to escape the cold, usually to live in the milder environment of the south. Following the end of the winter season, they returned to their northern homes to enjoy the lovely spring weather. Snowbirds are people who travel from the north to the south during the winter. Although some snowbirds prefer to drive themselves to their destination, the majority of people prefer to have their cars sent by auto shipping firms, or so they thought.";
         include small_form;
         ?>

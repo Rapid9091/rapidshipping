@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Car Shipping Services | +1-833-233-4447 | Minnesota Auto Transport Company</title>
-    <meta name="Car Shipping Services | +1-833-233-4447 | Minnesota Auto Transport Company" />
+    <title>Minnesota Auto Transport Company | Car Shipping Services </title>
+    <meta name="Minnesota Auto Transport Company | Car Shipping Services " />
     <meta name="description" content="Need Car Shipping service in Minnesota, you need an experienced Minnesota auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Car Shipping Services | +1-833-233-4447 | Minnesota Auto Transport Company" />
+    <meta property="og:title" content="Minnesota Auto Transport Company | Car Shipping Services " />
     <meta property="og:description" content="Need Car Shipping service in Minnesota, you need an experienced Minnesota auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/minnesota" />
-    <meta property="og:site_name" content="Auto Shipping Minnesota - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Minnesota Auto Transport Company | Car Shipping Services " />
     <meta name='robots' content='index' />
 
     <meta name="keywords" content="auto transport minnesota, auto transport companies minnesota, car transport companies minneapolis, car shipping companies minnesota, car shipping minnesota, auto transport minneapolis, car transport minnesota, minnesota car shipping, car transport to minnesota, minnesota car transport company, transport car to minnesota, shipping a car to minnesota, auto transport in minnesota, auto transport st paul mn, minnesota car haulers" />

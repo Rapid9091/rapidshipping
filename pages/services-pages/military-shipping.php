@@ -8,14 +8,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Best Military | Vehicle Car Shipping Services | +1 (833) 233-4447</title>
-    <meta name="title" content="Best Military | Vehicle Car Shipping Services  | +1 (833) 233-4447">
+    <meta name="title" content="Best Military | Vehicle Car Shipping Services | +1 (833) 233-4447">
     <meta name="description" content="Rapid Auto Shipping is The Best Military Vehicle Transport Service Provider for Military Members. Get Quote for Military Car Shipping services now." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Military | Vehicle Car Shipping Services  | +1 (833) 233-4447" />
+    <meta property="og:title" content="Best Military | Vehicle Car Shipping Services | +1 (833) 233-4447" />
     <meta property="og:description" content="Rapid Auto Shipping is The Best Military Vehicle Transport Service Provider for Military Members. Get Quote for Military Car Shipping services now." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/military-shipping" />
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/military-shipping-background.png" />
-    <meta property="og:site_name" content="Best Military | Vehicle Car Shipping Services  | +1 (833) 233-4447" />
+    <meta property="og:site_name" content="Best Military | Vehicle Car Shipping Services | +1 (833) 233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="military car shipping, military vehicle transport, military pcs vehicle shipping, military vehicle shipping, military auto transport, military vehicles transportation, military car shipping company, car shipping military, military car shipping companies, shipping vehicles military, car shipping for military">
     <meta property="article:tag" content="military car shipping" />
@@ -69,7 +69,7 @@
     <!-- this is the fiorst section with background image -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Military Vehicle Transport";
+        $NAME = "Millitary Car Shipping";
         $PARAGRAPH = "Active and retired military personnel can use the service known as military car shipping, also referred to as military auto transport. It's more complicated to ship to and from military locations than move from one house to another. Rapid Auto Shipping is a reputable and safe US-based auto shipping company that can meet all of your car travel requirements. Every military vehicle transportation operation runs smoothly because we know how to handle complex cargoes. Our skilled logistics team will collaborate with you to develop an effective and timely plan for your military vehicle shipping, regardless of whether the shipment is local, cross-country, or worldwide.";
         include_once small_form;
         ?>

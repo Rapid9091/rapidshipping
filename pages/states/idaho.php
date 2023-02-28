@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Car Shipping Services | +1-833-233-4447 | Idaho Auto Transport Company</title>
-    <meta name="title" content="Car Shipping Services | +1-833-233-4447 | Idaho Auto Transport Company">
+    <title>Idaho Auto Transport Company | Car Shipping Services</title>
+    <meta name="title" content="Idaho Auto Transport Company | Car Shipping Services">
     <meta name="description" content="Need Car Shipping service in Idaho, you need an experienced Idaho auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
     <meta property=" og:type" content="website" />
-    <meta property="og:title" content="Car Shipping Services | +1-833-233-4447 | Idaho Auto Transport Company" />
+    <meta property="og:title" content="Idaho Auto Transport Company | Car Shipping Services" />
     <meta property="og:description" content="Need Car Shipping service in Idaho, you need an experienced Idaho auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
     <meta property=" og:url" content="https://rapidautoshipping.com/states/idaho" />
-    <meta property="og:site_name" content=" Idaho Auto Transport - Rapid Auto Shipping " />
+    <meta property="og:site_name" content="Idaho Auto Transport Company | Car Shipping Services" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="idaho auto transport, auto transport idaho, idaho moving and transport, auto transport boise, ship car to maui, shipping a car to maui, idaho car">
     <meta property="article:tag" content="idaho auto transport" />
