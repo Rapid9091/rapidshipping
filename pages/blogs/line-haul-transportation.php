@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Top rated line haul transport services Company in USA - Rapid auto shipping</title>
-    <meta name="title" content="Top rated line haul transport services Company in USA - Rapid auto shipping" />
+    <title>Top rated line haul transport services Company in USA</title>
+    <meta name="title" content="Top rated line haul transport services Company in USA" />
     <meta name="description" content="Rapid Auto Shipping offers you a good discount on your Line Haul Transport request with our best service. Get the best Line Haul Transport services with RAS." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Top rated line haul transport services Company in USA - Rapid auto shipping" />
+    <meta property="og:title" content="Top rated line haul transport services Company in USA" />
     <meta property="og:description" content="Rapid Auto Shipping offers you a good discount on your Line Haul Transport request with our best service. Get the best Line Haul Transport services with RAS." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/line-haul-transportation" />
-    <meta property="og:site_name" content="Top rated line haul transport services Company in USA - Rapid auto shipping" />
+    <meta property="og:site_name" content="Top rated line haul transport services Company in USA" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="Line haul transportation USA,  line haul shipping, Heavy Equipment Transport, Line haul transportation " />
     <meta property="article:tag" content="Line haul transportation USA" />

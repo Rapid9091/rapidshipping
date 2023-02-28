@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Flatbed Automotive Transport Carrier | Flatbed Auto Shipping Company</title>
-    <meta name="title" content="Flatbed auto shipping Carriers" />
+    <title>Flatbed Automotive Transport Carrier | Rapid Auto Shipping</title>
+    <meta name="title" content="Flatbed Automotive Transport Carrier | Rapid Auto Shipping" />
     <meta name="description" content="Transport Flatbed, Rapid Auto Shipping provides flatbed auto Shipping services at a very affordable price in the USA. Call us at +1-833-233-4447 today." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Flatbed auto shipping Carriers" />
+    <meta property="og:title" content="Flatbed Automotive Transport Carrier | Rapid Auto Shipping" />
     <meta property="og:description" content="Flatbed auto shipping Carriers, we provide flatbed auto transport services at a very affordable price. Call +1-833-233-4447, We provide flatbed auto shipping in USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/flatbed-auto-shipping-carriers" />
-    <meta property="og:site_name" content="Flatbed auto shipping Carriers " />
+    <meta property="og:site_name" content="Flatbed Automotive Transport Carrier | Rapid Auto Shipping " />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car carrier, open transport, automobile carrier, car shipping carriers, open auto, carrier for car, truck for car transport, get carrier auto transport, auto truck transport, auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport" />
 

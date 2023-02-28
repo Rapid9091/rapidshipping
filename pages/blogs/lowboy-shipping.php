@@ -14,7 +14,7 @@
     <meta property="og:title" content="Lowboy Shipping services provider in USA - Rapid Auto Shipping - Lowboy Trucking" />
     <meta property="og:description" content="Rapid Auto Shipping - Best Lowboy Shipping services provided by RAS, at a very affordable price. Call +1-833-233-4447" />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/lowboy-shipping" />
-    <meta property="og:site_name" content="lowboy Shipping - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Lowboy Shipping services provider in USA - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="lowboy transport, lowboy trucking, lowboy hauling, lowboy trucking company, lowboy hauling near me, lowboy services, lowboy transportation, lowboy transport services, lowboy trucking companies, heavy haul lowboy, lowboy transport services, lowboy hauler, heavy haul lowboy trailers, lowboy trucking near me, lowboy services near me, heavy haul lowboys, lowboy trailer trucking companies, lowboy service, lowboy hauling companies, lowboy heavy haul trailers, lowboy loads, lowboy hauling rates, heavy haul lowboy trailers, lowboy service near me, lowboy boat trailer, lowboy cost per mile, lowboy trailer loading, lowboy trailer for hire near me" />
     <meta property="article:tag" content="lowboy transport" />

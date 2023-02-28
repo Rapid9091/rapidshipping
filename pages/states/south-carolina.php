@@ -8,12 +8,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Car Shipping Services South Carolina | Auto transport Company</title>
+    <meta name="title" content="Car Shipping Services South Carolina | Auto transport Company" />
     <meta name="description" content="Rapid Auto Shipping provides car shipping services in South Carolina. We have been in the business of auto transport fully licensed and insured." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Car Shipping Services | +1-833-233-4447 | South Carolina Auto Transport Company" />
+    <meta property="og:title" content="Car Shipping Services South Carolina | Auto transport Company" />
     <meta property="og:description" content="Rapid Auto Shipping provides car shipping services in South Carolina. We have been in the business of auto transport fully licensed and insured." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/south-carolina" />
-    <meta property="og:site_name" content="South Carolina car transport - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Car Shipping Services South Carolina | Auto transport Company" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car transport charleston sc, auto transport companies south carolina, south carolina car transport, auto transport south carolina, car shipping south carolina, sc transport, south carolina department of transportation, sc department of transportation, sc dept of transportation, south carolina dept of transportation, south carolina dot permits, scdot york county, sti trucking greer sc, aiken bus transportation, scdot website, scdot offices, sctransport, car transport columbia sc, sc dept transportation, spinx transportation, car shipping charleston sc, ship my car to south carolina, auto transport columbia sc, auto transport charleston sc, sc dot website, car transport services south carolina, car haulers in south carolina, auto transport in south carolina, car transport companies in south carolina, car transport to south carolina, car transport charleston sc, auto transport companies south carolina, south carolina car transport, auto transport south carolina" />
     <meta property="article:tag" content="car transport charleston sc" />

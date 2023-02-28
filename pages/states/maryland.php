@@ -6,14 +6,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Car Shipping Services | +1-833-233-4447 | Maryland Auto Transport Company</title>
-    <meta name="title" content="Car Shipping Services | +1-833-233-4447 | Maryland Auto Transport Company" />
+    <title>Car Shipping Services | Maryland Auto Transport Company</title>
+    <meta name="title" content="Car Shipping Services | Maryland Auto Transport Company" />
     <meta name="description" content="Need Car Shipping service in Maryland, you need an experienced Maryland auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Best Car Shipping Companies in Maryland,  MD Auto Transport" />
+    <meta property="og:title" content="Car Shipping Services | Maryland Auto Transport Company" />
     <meta property="og:description" content="Need Car Shipping service in Maryland, you need an experienced Maryland auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/maryland" />
-    <meta property="og:site_name" content="Car Shipping Companies in Maryland - Rapid Auto Shipping " />
+    <meta property="og:site_name" content="Car Shipping Services | Maryland Auto Transport Company " />
     <meta name='robots' content='index' />
     <meta name="keywords" content="maryland car shipping companies , auto transport companies maryland, car shipping companies maryland, car shipping companies in maryland, maryland car shipping companies, maryland auto transport, auto transporters maryland, auto transport maryland, auto transport companies maryland, auto transporters maryland, transport companies in maryland, car transport company maryland, car transport companies maryland, car carrier companies near me, auto transport companies in maryland, transport companies in maryland, auto transport companies in maryland, maryland auto,maryland cars, auto maryland, transportation services in maryland, maryland autos, eastern auto frederick md, national car transport reviews, shipping companies in baltimore md" />
     <meta property="article:tag" content="maryland car shipping companies" />

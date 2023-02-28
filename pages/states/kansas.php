@@ -7,14 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Car Shipping Services | +1-833-233-4447 | Kansas Auto Transport Company</title>
-    <meta name="title" content="Car Shipping Services | +1-833-233-4447 | Kansas Auto Transport Company" />
+    <title>Kansas Auto Transport Company | Car Shipping Services</title>
+    <meta name="title" content="Kansas Auto Transport Company | Car Shipping Services" />
     <meta name="description" content="Need Car Shipping service in Kansas, you need an experienced Kansas auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Car Shipping Services | +1-833-233-4447 | Kansas Auto Transport Company" />
+    <meta property="og:title" content="Kansas Auto Transport Company | Car Shipping Services" />
     <meta property="og:description" content="Need Car Shipping service in Kansas, you need an experienced Kansas auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/kansas" />
-    <meta property="og:site_name" content="kansas city auto transport - Rapid Auto Shipping " />
+    <meta property="og:site_name" content="Kansas Auto Transport Company | Car Shipping Services " />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car shipping services kansas, car shipping kansas, kansas city auto transport, kansas city auto transport, auto transport kansas city, car transporters kansas city, car transport companies kansas city, car transporters kansas city, car transport kansas city, shipping kansas city, kansas city car services, car services kansas city, kansas city shipping companies, midwestern car carriers, kansas city auto">
     <meta property="article:tag" content="car shipping services kansas" />

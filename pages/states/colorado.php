@@ -6,13 +6,14 @@
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1">
-     <title>Car Shipping Services | +1-833-233-4447 | Colorado Auto Transport Company</title>
+     <title>Colorado Auto Transport Company | +1 (833) 233-4447</title>
      <meta name="description" content="Need Car Shipping service in Colorado, you need an experienced Colorado auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+     <meta name="title" content="Colorado Auto Transport Company | +1 (833) 233-4447" />
      <meta property="og:type" content="website" />
-     <meta property="og:title" content="Car Shipping Services | +1-833-233-4447 | Colorado Auto Transport Company" />
+     <meta property="og:title" content="Colorado Auto Transport Company | +1 (833) 233-4447" />
      <meta property="og:description" content="Need to transport a car to or from Colorado, you need an experienced Colorado auto transport company means rapid auto shipping..." />
      <meta property="og:url" content="https://rapidautoshipping.com/states/colorado" />
-     <meta property="og:site_name" content="colorado Auto Transport - Rapid Auto Shipping " />
+     <meta property="og:site_name" content="Colorado Auto Transport Company | +1 (833) 233-4447 " />
      <meta name='robots' content='index' />
      <meta name="keywords" content="Colorado car shipping, Colorado car shipping companies, Colorado car shipping quotes, Colorado auto transport, Colorado car carriers, Colorado car shipping company, Colorado shipping a vehicle, Colorado auto transport reviews, Colorado auto transport companies, Colorado car shipping cost, Colorado car shipping rates, how to ship a car Colorado">
      <meta property="article:tag" content="Colorado car shipping companies" />

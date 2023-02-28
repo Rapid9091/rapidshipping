@@ -7,13 +7,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Car Shipping Services | +1-833-233-4447 | Oregon Auto Transport Company</title>
+    <title>Car Shipping Services | Oregon Auto Transport Company</title>
     <meta name="description" content="Need Car Shipping service in Oregon, you need an experienced Oregon auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta name="title" content="Car Shipping Services | Oregon Auto Transport Company" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Car Shipping Services | +1-833-233-4447 | Oregon Auto Transport Company" />
+    <meta property="og:title" content="Car Shipping Services | Oregon Auto Transport Company" />
     <meta property="og:description" content="Need Car Shipping service in Oregon, you need an ex  perienced Oregon auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/oregon" />
-    <meta property="og:site_name" content="Oregon Car Shipping - Rapid Auto Shipping" />
+    <meta property="og:site_name" content="Car Shipping Services | Oregon Auto Transport Company" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car transport medford oregon, auto transport portland oregon, car shipping portland oregon, car transport oregon, car transport portland oregon, oregon car shipping, auto transport oregon, car hauler service portland oregon, car shipping companies oregon, car shipping oregon, shipping a car to hawaii from portland oregon, shipping car from hawaii to portland oregon, auto shipping portland oregon, auto transport companies portland oregon, car shipping companies portland oregon, car transport companies portland oregon, car transport eugene oregon, eugene car transport, oregon car transport, oregon car transport companies, ship my car to oregon, auto transport medford oregon, portland oregon car transport, professional auto transport portland oregon, auto transport in oregon, auto transport companies oregon, car transport to oregon" />
     <meta property="article:tag" content="car transport medford oregon" />
