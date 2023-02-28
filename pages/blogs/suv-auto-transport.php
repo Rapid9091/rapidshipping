@@ -15,7 +15,7 @@
     <meta property=" og:description" content="Rapid Auto Shipping provides the SUV Auto shipping services at very affordable price. Call  +1-833-233-4447 to know more about SUV auto transport in USA. " />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/suv-auto-transport" />
     <meta property="og:site_name" content="Best SUV Auto shipping company in USA" />
-
+    <meta name="keywords" content="car transport,car shipping,car transport service,car shipping companies,auto transport companies" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->

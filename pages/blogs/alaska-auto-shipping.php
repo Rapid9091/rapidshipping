@@ -15,7 +15,7 @@
     <meta property=" og:description" content="How to choose the best Alaska auto transport compnay for shipping your vehicle in entire USA. Call +1-833-233-4447 to know more about best vehicle shipping for Alaska. " />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/alaska-auto-shipping" />
     <meta property="og:site_name" content="Alaska Auto transport using Rapid Auto Shipping" />
-
+    <meta name="keywords" content="alaska car transport,alaska vehicle transport,ship car to alaska,vehicle shipping to alaska,ship my car to alaska" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->

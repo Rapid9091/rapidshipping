@@ -15,6 +15,7 @@
     <meta property="og:description" content="Check the USDOT number and find the cheapest car shipping rates with Rapid Auto Shipping. Call us today +1-833-233-4447 for the fast transport services in The USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/what-is-usdot-how-to-check-usdot" />
     <meta property="og:site_name" content="What is USDOT number and How to check it ? " />
+    <meta name="keywords" content="check status of dot number,check dot number,usdot check,check my usdot number,check usdot number status" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->

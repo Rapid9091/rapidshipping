@@ -16,7 +16,7 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/five-mistakes-to-avoid-while-shipping" />
     <meta property="og:site_name" content="5 mistakes to avoid when shipping a vehicle " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car delivery service, vehicle transportation services, transport, transportation, car pick up service, transporting services, vehicle delivery service, car pickup service, cars transportation services, car carrier service, auto transport, car transporting service, transport services, car delivery service near me, car shipping, car courier services, vehicle shipping, car carrier services near me, car pick up services, car service, service transportation, car pickup and delivery, vehicle pickup and delivery, Disadvantages of auto transport, Disadvantages of auto shipping, Disadvantages of car shipping services, Disadvantages of car shipping" />
+    <meta name="keywords" content="car transport,car shipping,car transport service,car transport companies,vehicle transport" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

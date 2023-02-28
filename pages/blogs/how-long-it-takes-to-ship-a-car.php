@@ -15,6 +15,7 @@
     <meta property="og:description" content="Find out how long it takes to ship a car from your location with Rapid Auto Shipping. Call us today +1-833-233-4447 for the fastest and most reliable car shipping service." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-long-it-takes-to-ship-a-car" />
     <meta property="og:site_name" content="Complete guide for how much time it takes to ship a car ? " />
+    <meta name="keywords" content="car transport,car transport service,ship my car,ship a car direct,ship car to another state" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->

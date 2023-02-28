@@ -16,7 +16,7 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/flatbed-auto-shipping-carriers" />
     <meta property="og:site_name" content="Flatbed Automotive Transport Carrier | Rapid Auto Shipping " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car carrier, open transport, automobile carrier, car shipping carriers, open auto, carrier for car, truck for car transport, get carrier auto transport, auto truck transport, auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport" />
+    <meta name="keywords" content="flat bed car carrier,flatbed auto shipping carriers" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

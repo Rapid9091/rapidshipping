@@ -18,7 +18,7 @@
     <meta property="og:url" content="https://rapidautoshipping.com" />
     <meta property="og:site_name" content="Rapid Auto Shipping | Best Auto Transport Company in US " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car shipping, car shipping companies, car shipping quotes, auto transport, car carriers, car shipping company, shipping a vehicle, auto transport reviews, auto transport companies, car shipping cost, car shipping rates, how to ship a car, auto transport company in us">
+    <meta name="keywords" content="best car shipping company,best car transport companies,reliable car transport,top car shipping companies,top car transport companies">
     <meta property="article:tag" content="car shipping companies" />
     <meta property="article:tag" content="car shipping quotes" />
     <meta property="article:tag" content="auto transport" />

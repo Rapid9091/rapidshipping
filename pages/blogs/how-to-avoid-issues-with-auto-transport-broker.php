@@ -15,7 +15,7 @@
     <meta property=" og:description" content="Do you want to ship your vehicle? Avoid common pitfalls with auto transport brokers. Continue reading to learn more." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-to-avoid-issues-with-auto-transport-broker" />
     <meta property="og:site_name" content="How To Avoid Issues with the auto transport broker" />
-
+    <meta name="keywords" content="auto transport broker,car shipping broker,car hauler broker,auto shipping broker,best auto transport brokers" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->
