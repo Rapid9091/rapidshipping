@@ -12,7 +12,7 @@
     <meta name="description" content="Rapid Auto Shipping - car shipping provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in a car shipping in all states of the USA." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Benefits of car shipping" />
-    <meta property="og:description" content="Rapid Auto Shipping - car shipping provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in  a car shipping in all states of the USA." />
+    <meta property="og:description" content="Rapid Auto Shipping - car shipping provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in a car shipping in all states of the USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/benefits-of-car-shipping" />
     <meta property="og:site_name" content="Benefits of car shipping  - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

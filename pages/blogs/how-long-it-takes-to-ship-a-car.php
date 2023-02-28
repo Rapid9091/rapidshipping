@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Complete guide for how much time it takes to ship a car ?</title>
     <meta name="title" content="Complete guide for how much time it takes to ship a car ? " />
-    <meta name="description" content="Find out how long it takes to ship a car from your location with Rapid Auto Shipping. Call us today +1-833-233-4447 for the fastest and most reliable car shipping service. " />
+    <meta name="description" content="Find out how long it takes to ship a car from your location with RAS. Call us today +1 (833) 233-4447 for the fastest and most reliable car shipping service. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Complete guide for how much time it takes to ship a car ?" />
-    <meta property="og:description" content="Find out how long it takes to ship a car from your location with Rapid Auto Shipping. Call us today +1-833-233-4447 for the fastest and most reliable car shipping service." />
+    <meta property="og:description" content="Find out how long it takes to ship a car from your location with RAS. Call us today +1 (833) 233-4447 for the fastest and most reliable car shipping service." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-long-it-takes-to-ship-a-car" />
     <meta property="og:site_name" content="Complete guide for how much time it takes to ship a car ? " />
     <meta name="keywords" content="car transport,car transport service,ship my car,ship a car direct,ship car to another state" />

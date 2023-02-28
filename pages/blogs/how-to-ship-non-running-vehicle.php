@@ -12,7 +12,7 @@
     <meta name="description" content="Rapid Auto Shipping provides the Services for non running vehicles at very affordable price. Call  +1-833-233-4447 to know more about non running vehicle shipping " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content=" How to ship a non working vehicle in USA " />
-    <meta property=" og:description" content="Rapid Auto Shipping provides the Services for non running vehicles at very affordable price.  Call  +1-833-233-4447 to know more about non running vehicle shipping " />
+    <meta property=" og:description" content="Rapid Auto Shipping provides the Services for non running vehicles at very affordable price. Call  +1-833-233-4447 to know more about non running vehicle shipping" />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-to-ship-non-running-vehicle" />
     <meta property="og:site_name" content="How to ship a non working vehicle in USA" />
     <meta name="keywords" content="non running car transport,shipping a non running car,auto transport non running car,shipping non running cars,non running auto transport" />

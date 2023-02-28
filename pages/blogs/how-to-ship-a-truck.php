@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>How to ship a truck</title>
     <meta name="title" content="How to ship a truck" />
-    <meta name="description" content="Rapid Auto Shipping - Truck shipping services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in truck shipping in all states of the USA." />
+    <meta name="description" content="RAS - Truck shipping services provided by RAS, at a very affordable price. Call +1 (833) 233-4447, We are expert in truck shipping in all states of the USA." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="How to ship a truck" />
-    <meta property="og:description" content="Rapid Auto Shipping - Truck shipping services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in truck shipping in all states of the USA." />
+    <meta property="og:description" content="RAS - Truck shipping services provided by RAS, at a very affordable price. Call +1 (833) 233-4447, We are expert in truck shipping in all states of the USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-to-ship-a-truck" />
     <meta property="og:site_name" content="Truck Shipping services  - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

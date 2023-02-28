@@ -99,7 +99,7 @@
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span> WHAT IS AN AUTO AUCTION TRANSPORT SERVICE?</span></h2>
-                    <p> Auto auctions are a fantastic method to get a good deal on a secondhand car. Many times, online auto auction services such as Copart and Manheim can help you find cars for dirt cheap. The majority of <a href="<?= home_path() ?>" title="Auto Transport Carriers">auto transport carriers</a> on the road transport autos to and from auctions, and we can assist you by providing excellent auto auction shipping services!
+                    <p> Auto auctions are a fantastic method to get a good deal on a secondhand car. Many times, online auto auction services such as Copart and Manheim can help you find cars for dirt cheap. The majority of auto transport carriers on the road transport autos to and from auctions, and we can assist you by providing excellent auto auction shipping services!
 
                         When purchasing a vehicle at an auction, save all of the information they give you since we and your carrier will need it to pick up a vehicle from an auction site. Please also specify that your vehicle is being shipped from an auction!
                     </p>

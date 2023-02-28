@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Discounts for car shipping -- Rapid Auto Shipping</title>
     <meta name="title" content="Discounts for car shipping -- Rapid Auto Shipping" />
-    <meta name="description" content="Rapid Auto Shipping - car shipping provided by RAS, at a very affordable price. Call +1-833-233-4447, We provide bests offers and discounts for your car shipping in USA. " />
+    <meta name="description" content="RAS - car shipping provided by RAS, at a very affordable price. Call +1 (833) 233-4447, We provide bests offers and discounts for your car shipping in USA. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Discounts for car shipping -- Rapid Auto Shipping" />
-    <meta property="og:description" content="Rapid Auto Shipping - car shipping provided by RAS, at a very affordable price. Call +1-833-233-4447, We provide bests offers and discounts for your car shipping in USA." />
+    <meta property="og:description" content="RAS - car shipping provided by RAS, at a very affordable price. Call +1 (833) 233-4447, We provide bests offers and discounts for your car shipping in USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/special-discounts" />
     <meta property="og:site_name" content="Discounts for car shipping -- Rapid Auto Shipping " />
     <meta name='robots' content='index' />
