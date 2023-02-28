@@ -12,7 +12,7 @@
     <meta name="description" content="Get the best and most accurate car shipping price calculator, we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Get the best and most accurate car shipping price calculator" />
-    <meta property="og:description" content="Get the best and most accurate car shipping price calculator , we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA." />
+    <meta property="og:description" content="Get the best and most accurate car shipping price calculator, we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/auto-shipping-calculator" />
     <meta property="og:site_name" content="Get the best and most accurate car shipping price calculator" />
     <meta name='robots' content='index' />

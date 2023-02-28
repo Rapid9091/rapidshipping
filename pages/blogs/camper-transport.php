@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Camper transport Services in California </title>
     <meta name="title" content="Camper transport Services in California " />
-    <meta name="description" content="Rapid Auto Shipping - Camper transport Services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in Camper transport Services in all states of the USA." />
+    <meta name="description" content="RAS offers camper transport services at a very reasonable price. Call+1 (833) 233-4447; we specialize in Camper transport services in all 50 states." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Camper transport Services in California" />
-    <meta property="og:description" content="Rapid Auto Shipping - Camper transport Services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in Camper transport Services in all states of the USA." />
+    <meta property="og:description" content="RAS offers camper transport services at a very reasonable price. Call+1 (833) 233-4447; we specialize in Camper transport services in all 50 states." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/camper-transport" />
     <meta property="og:site_name" content="Camper Transport - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
