@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Complete guide for getting best auto shipping discounts </title>
     <meta name="title" content="Complete guide for getting best auto shipping discounts" />
-    <meta name="description" content="Complete guide for getting best auto shipping discounts, we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA. " />
+    <meta name="description" content="We provide auto transport services at a very affordable price and have a complete guide for getting the best auto shipping discounts. Call+1 (833) 233-4447 " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Complete guide for getting best auto shipping discounts" />
-    <meta property="og:description" content="Complete guide for getting best auto shipping discounts , we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA." />
+    <meta property="og:description" content="We provide auto transport services at a very affordable price and have a complete guide for getting the best auto shipping discounts. Call+1 (833) 233-4447" />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/tips-for-auto-shipping-discount" />
     <meta property="og:site_name" content="Complete guide for getting best auto shipping discounts  " />
     <meta name='robots' content='index' />

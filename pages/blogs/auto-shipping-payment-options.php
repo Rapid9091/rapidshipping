@@ -12,7 +12,7 @@
     <meta name="description" content="Get the latest and complete auto shipping payment guide, we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Get the latest and complete auto shipping payment guide" />
-    <meta property="og:description" content="Get the latest and complete auto shipping payment guide , we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA." />
+    <meta property="og:description" content="Get the latest and complete auto shipping payment guide, we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/auto-shipping-payment-options" />
     <meta property="og:site_name" content="Get the latest and complete auto shipping payment guide  " />
     <meta name='robots' content='index' />

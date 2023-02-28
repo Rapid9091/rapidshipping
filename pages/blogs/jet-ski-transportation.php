@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>JET SKI TRANSPORTATION Company in USA </title>
     <meta name="title" content="JET SKI TRANSPORTATION Company in USA " />
-    <meta name="description" content="Rapid Auto Shipping - JET SKI TRANSPORTATION services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in JET SKI TRANSPORTATION in all states of the USA." />
+    <meta name="description" content="RAS - JET SKI TRANSPORTATION services provided by RAS, at a very affordable price. Call +1 (833) 233-4447, We are expert in JST in all states of the USA." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="JET SKI TRANSPORTATION Company in USA" />
-    <meta property="og:description" content="Rapid Auto Shipping - JET SKI TRANSPORTATION services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in JET SKI TRANSPORTATION in all states of the USA." />
+    <meta property="og:description" content="RAS - JET SKI TRANSPORTATION services provided by RAS, at a very affordable price. Call +1 (833) 233-4447, We are expert in JST in all states of the USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/jet-ski-transportation" />
     <meta property="og:site_name" content="Jet Ski Transportation - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

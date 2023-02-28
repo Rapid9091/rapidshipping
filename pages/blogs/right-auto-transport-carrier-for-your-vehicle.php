@@ -12,7 +12,7 @@
     <meta name="description" content="How to choose the best auto transport compnay for shipping your vehicle in entire USA. Call  +1-833-233-4447 to know more about best vehicle shipping in USA. " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Which Type Of Auto Transport Carrier Is Right For Your Vehicle ? " />
-    <meta property=" og:description" content="How to choose the best auto transport compnay for shipping your vehicle in entire USA.  Call  +1-833-233-4447 to know more about best vehicle shipping in USA. " />
+    <meta property=" og:description" content="How to choose the best auto transport compnay for shipping your vehicle in entire USA. Call  +1-833-233-4447 to know more about best vehicle shipping in USA. " />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/right-auto-transport-carrier-for-your-vehicle" />
     <meta property="og:site_name" content="Which Type Of Auto Transport Carrier Is Right For Your Vehicle ?" />
     <meta name="keywords" content="car shippers,auto carrier,car carrier service,car carrier transport,professional car carriers" />
