@@ -8,10 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Car Shipping Services | Maryland Auto Transport Company</title>
     <meta name="title" content="Car Shipping Services | Maryland Auto Transport Company" />
-    <meta name="description" content="Need Car Shipping service in Maryland, you need an experienced Maryland auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta name="description" content="Need Car Shipping in Maryland? Rapid Auto Shipping is an experienced Maryland auto transport company. Call+1 (833) 233-4447 to arrange vehicle shipping." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Car Shipping Services | Maryland Auto Transport Company" />
-    <meta property="og:description" content="Need Car Shipping service in Maryland, you need an experienced Maryland auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta property="og:description" content="Need Car Shipping in Maryland? Rapid Auto Shipping is an experienced Maryland auto transport company. Call+1 (833) 233-4447 to arrange vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/maryland" />
     <meta property="og:site_name" content="Car Shipping Services | Maryland Auto Transport Company " />
     <meta name='robots' content='index' />

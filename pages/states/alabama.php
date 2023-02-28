@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Auto Transport Shipping Company in Alabama | +1-833-233-4447</title>
     <meta name="title" content="Auto Transport Shipping Company in Alabama | +1-833-233-4447" />
-    <meta name="description" content="Need to transport a Car/Vehicle to or From Alabama, You Need An Experienced Alabama auto Transport Company That Means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta name="description" content="You Need An Experienced Alabama auto Transport Company That means Rapid Auto Shipping. Call+1 (833) 233-4447 For vehicle shipping." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Auto Transport Shipping Company in Alabama | +1-833-233-4447" />
-    <meta property="og:description" content="Need to transport a Car/Vehicle to or From Alabama, You Need An Experienced Alabama auto Transport Company That Means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta property="og:description" content="You Need An Experienced Alabama auto Transport Company That means Rapid Auto Shipping. Call+1 (833) 233-4447 For vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/alabama" />
     <meta property="og:site_name" content="auto transport alabama - Rapid Auto Shipping " />
     <meta name='robots' content='index' />

@@ -11,10 +11,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Top classic car shipping services provider - Rapid Auto Shipping</title>
     <meta name="title" content="Top classic car shipping services provider - Rapid Auto Shipping">
-    <meta name="description" content="Rapid Auto Shipping - Classic car shipping services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in car service transport in all states of the USA." />
+    <meta name="description" content="RAS offers classic car shipping services at an affordable price. Call+1 (833) 233-4447; we specialize in car service transport in all 50 states." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Top classic car shipping services provider - Rapid Auto Shipping" />
-    <meta property="og:description" content="Rapid Auto Shipping - Classic car shipping services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in car service transport in all states of the USA." />
+    <meta property="og:description" content="RAS offers classic car shipping services at an affordable price. Call+1 (833) 233-4447; we specialize in car service transport in all 50 states." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/classic-car-shipping-services-provider" />
     <meta property="og:site_name" content="Classic Car Transport - Rapid Auto Shipping " />
     <meta name='robots' content='index' />

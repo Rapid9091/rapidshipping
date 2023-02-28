@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Florida Auto Transport Company | +1 (833) 233-4447</title>
     <meta name="title" content="Florida Auto Transport Company | +1 (833) 233-4447" />
-    <meta name="description" content="Need Car Shipping service in Florida, you need an experienced Florida auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta name="description" content="Need Car Shipping in Florida? Rapid Auto Shipping is an experienced Florida auto transport company. Call+1 (833) 233-4447 to arrange vehicle shipping." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Florida Auto Transport Company | +1 (833) 233-4447" />
-    <meta property="og:description" content="Need Car Shipping service in Florida, you need an experienced Florida auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta property="og:description" content="Need Car Shipping in Florida? Rapid Auto Shipping is an experienced Florida auto transport company. Call+1 (833) 233-4447 to arrange vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/florida" />
     <meta property="og:site_name" content="Florida Auto Transport Company | +1 (833) 233-4447" />
     <meta name='robots' content='index' />

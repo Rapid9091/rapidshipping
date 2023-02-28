@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>International car shipping tips </title>
     <meta name="title" content="International car shipping tips " />
-    <meta name="description" content="Rapid Auto Shipping - International car shipping tips provided by RAS. Call +1-833-233-4447, We are expert in car shipping tips or transportation in all states of the USA." />
+    <meta name="description" content="International car shipping tips provided by RAS. Call+1 (833) 233-4447, We are expert in car shipping tips or transportation in all states of the USA." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="International car shipping tips" />
-    <meta property="og:description" content="Rapid Auto Shipping - International car shipping tips provided by RAS. Call +1-833-233-4447, We are expert in car shipping tips or transportation in all states of the USA." />
+    <meta property="og:description" content="International car shipping tips provided by RAS. Call+1 (833) 233-4447, We are expert in car shipping tips or transportation in all states of the USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/international-car-shipping-tips" />
     <meta property="og:site_name" content="International car shipping tips  - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

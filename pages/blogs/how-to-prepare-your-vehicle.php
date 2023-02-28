@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>How to prepare a car to ship ?</title>
     <meta name="title" content="How to prepare a car to ship ?" />
-    <meta name="description" content="Rapid Auto Shipping - Tips to prepare a car for shipping provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in car shipping in all states of the USA." />
+    <meta name="description" content="RAS offers tips on how to prepare a car for shipping at a very low cost. Call+1 (833) 233-4447; we specialize in car shipping in all 50 states." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="How to prepare a car to ship ?" />
-    <meta property="og:description" content="Rapid Auto Shipping - Tips to prepare a car for shipping provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in car shipping in all states of the USA." />
+    <meta property="og:description" content="RAS offers tips on how to prepare a car for shipping at a very low cost. Call+1 (833) 233-4447; we specialize in car shipping in all 50 states." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-to-prepare-your-vehicle" />
     <meta property="og:site_name" content="How to prepeare your vehicle - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

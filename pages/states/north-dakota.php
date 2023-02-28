@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Auto transport Company North Dakota | Car Shipping Services</title>
     <meta name="Auto transport Company North Dakota | Car Shipping Services" />
-    <meta name="description" content="Need Car Shipping service in North Dakota, you need an experienced North Dakota auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta name="description" content="Need Car Shipping in North Dakota? You need Rapid Auto Shipping, an experienced North Dakota auto transport company. Call+1 (833) 233-4447 for vehicle shipping." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="North Dakota car shipping company | Rapid Auto Shipping" />
-    <meta property="og:description" content="Rapid Auto Shipping is in one of the top budget friendly in nd car transport companies. Know about Dakota auto shipping Cost!" />
+    <meta property="og:description" content="Need Car Shipping in North Dakota? You need Rapid Auto Shipping, an experienced North Dakota auto transport company. Call+1 (833) 233-4447 for vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/north-dakota" />
     <meta property="og:site_name" content="North Dakota Auto Shipping - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

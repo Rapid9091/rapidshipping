@@ -12,10 +12,10 @@
   <?php include head; ?>
   <title>Safe & Reliable Car Transport Company in California</title>
   <meta name="title" content="Safe & Reliable Car Transport Company in California">
-  <meta name="description" content="Get the best auto transport services in California. We offer reliable and affordable shipping solutions for your car. Get your car moved safely, quickly, and at a great price with our experienced and professional team of transport experts." />
+  <meta name="description" content="Get the best auto transport services in California. Our experienced and professional team of transport experts will move your car safely, quickly, and affordably." />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Safe & Reliable Car Transport Company in California" />
-  <meta property="og:description" content="Get the best auto transport services in California. We offer reliable and affordable shipping solutions for your car. Get your car moved safely, quickly, and at a great price with our experienced and professional team of transport experts." />
+  <meta property="og:description" content="Get the best auto transport services in California. Our experienced and professional team of transport experts will move your car safely, quickly, and affordably." />
   <meta property="og:url" content="https://rapidautoshipping.com/states/california" />
   <meta property="og:img" content="https://rapidautoshipping.com/assets/images/66178.png" />
   <meta property="og:site_name" content="Safe & Reliable Car Transport Company in California" />

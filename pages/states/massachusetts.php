@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title> Car Shipping Services Massachusetts | Auto transport Company</title>
     <meta name="title" content="Car Shipping Services Massachusetts | Auto transport Company" />
-    <meta name="description" content="Need Car Shipping service in Massachusetts, you need an experienced Massachusetts auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta name="description" content="Looking for a reliable car shipping service in Massachusetts? Look no further! Our top-rated company provides safe and affordable transport for your vehicle." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="	Car Shipping Services Massachusetts | Auto transport Company" />
-    <meta property="og:description" content="Need Car Shipping service in Massachusetts, you need an experienced Massachusetts auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta property="og:description" content="Trust our experienced team for all your auto shipping needs in Michigan. We ensure your vehicle arrives at its destination safely and securely." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/massachusetts" />
     <meta property="og:site_name" content="	Car Shipping Services Massachusetts | Auto transport Company" />
     <meta name='robots' content='index' />

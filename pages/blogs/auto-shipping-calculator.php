@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Get the best and most accurate car shipping price calculator</title>
     <meta name="title" content="Get the best and most accurate car shipping price calculator" />
-    <meta name="description" content="Get the best and most accurate car shipping price calculator, we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA. " />
+    <meta name="description" content="Get the most accurate car shipping price calculator; we offer auto transport services at a low cost. Call+1 (833) 233-4447 " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Get the best and most accurate car shipping price calculator" />
-    <meta property="og:description" content="Get the best and most accurate car shipping price calculator, we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA." />
+    <meta property="og:description" content="Get the most accurate car shipping price calculator; we offer auto transport services at a low cost. Call+1 (833) 233-4447" />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/auto-shipping-calculator" />
     <meta property="og:site_name" content="Get the best and most accurate car shipping price calculator" />
     <meta name='robots' content='index' />

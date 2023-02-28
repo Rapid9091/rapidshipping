@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Auto transport Company South Dakota | Car Shipping Services</title>
     <meta name="title" content="Car Shipping Services | +1-833-233-4447 | South Dakota Auto Transport Company" />
-    <meta name="description" content="Need Car Shipping service in South Dakota, you need an experienced South Dakota auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta name="description" content="Do you need to transport your vehicle to or from South Dakota? Get expert advice on safe and dependable car shipping in South Dakota." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Car Shipping Services | +1-833-233-4447 | South Dakota Auto Transport Company" />
-    <meta property="og:description" content="Need Car Shipping service in South Dakota, you need an experienced South Dakota auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta property="og:description" content="Do you need to transport your vehicle to or from South Dakota? Get expert advice on safe and dependable car shipping in South Dakota." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/south-dakota" />
     <meta property="og:site_name" content="Auto Transport South Dakota - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

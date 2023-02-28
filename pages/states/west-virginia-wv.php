@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Car Shipping Services West-Virginia | Auto transport Company</title>
     <meta name="Auto Transport company | Car shipping services West-Virginia | +1-833-233-4447" />
-    <meta name="description" content="Need Car Shipping service in West-Virginia, you need an experienced West-Virginia auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta name="description" content="Need Car Shipping in West-Virginia? You need an experienced West-Virginia auto transport company like RAS. For vehicle shipping, Call+1 (833) 233-4447" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Auto Transport company | Car shipping services West-Virginia | +1-833-233-4447" />
-    <meta property="og:description" content="Need Car Shipping service in West-Virginia, you need an experienced West-Virginia auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta property="og:description" content="Need Car Shipping in West-Virginia? You need an experienced West-Virginia auto transport company like RAS. For vehicle shipping, Call+1 (833) 233-4447" />
     <meta property="og:url" content="https://rapidautoshipping.com/states/West-Virginia-wv" />
     <meta property="og:site_name" content="Auto Transport West West-Virginia - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

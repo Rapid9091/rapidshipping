@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Virginia Auto Transport Services</title>
     <meta name="Virginia Auto Transport Services" />
-    <meta name="description" content="Do you require car shipping in Virginia? Rapid Auto Shipping is here to help you with your Virginia auto transport needs. Call +1 (833) 233-4447 to get an instant online quote." />
+    <meta name="description" content="Do you need car shipping in Virginia? Rapid Auto Shipping is available to assist you with your Virginia auto transport requirements. Call+1 (833) 233-4447" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Virginia Auto Transport Services" />
-    <meta property="og:description" content="Do you require car shipping in Virginia? Rapid Auto Shipping is here to help you with your Virginia auto transport needs. Call +1 (833) 233-4447 to get an instant online quote." />
+    <meta property="og:description" content="Do you need car shipping in Virginia? Rapid Auto Shipping is available to assist you with your Virginia auto transport requirements. Call+1 (833) 233-4447" />
     <meta property="og:url" content="https://rapidautoshipping.com/states/virginia-va" />
     <meta property="og:site_name" content="Virginia Auto Transport Services" />
     <meta name='robots' content='index' />

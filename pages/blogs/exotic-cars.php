@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Exotic car shipping -- Rapid Auto Shipping</title>
     <meta name="title" content="Exotic car shipping -- Rapid Auto Shipping" />
-    <meta name="description" content="Rapid Auto Shipping -Exotic car shipping provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a exotic car shipping in all states of the USA." />
+    <meta name="description" content="RAS offers exotic car shipping at an affordable price. Call+1 (833) 233-4447; we specialize in shipping exotic cars to all US states." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Exotic car shipping -- Rapid Auto Shipping" />
-    <meta property="og:description" content="Rapid Auto Shipping - car shipping provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in shipping a exotic car shipping in all states of the USA." />
+    <meta property="og:description" content="RAS offers exotic car shipping at an affordable price. Call+1 (833) 233-4447; we specialize in shipping exotic cars to all US states." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/exotic-cars" />
     <meta property="og:site_name" content="Exotic car shipping -- Rapid Auto Shipping " />
     <meta name='robots' content='index' />

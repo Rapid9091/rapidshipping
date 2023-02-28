@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Auto transport Company Rhode Island | Car Shipping Services</title>
     <meta name="title" content="Car Shipping Services | +1 (833) 233-4447 | Rhode Island Auto Transport Company" />
-    <meta name="description" content="Need Car Shipping service in Rhode Island, you need an experienced Rhode Island auto transport company means Rapid Auto Shipping. Call +1 (833) 233-4447 For vehicle shipping." />
+    <meta name="description" content="Need Car Shipping in Rhode Island? Rapid Auto Shipping is an experienced auto transport company. Call+1 (833) 233-4447 for vehicle shipping." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Car Shipping Services | +1 (833) 233-4447 | Rhode Island Auto Transport Company" />
-    <meta property="og:description" content="Need Car Shipping service in Rhode Island, you need an experienced Rhode Island auto transport company means Rapid Auto Shipping. Call +1 (833) 233-4447 For vehicle shipping." />
+    <meta property="og:description" content="Need Car Shipping in Rhode Island? Rapid Auto Shipping is an experienced auto transport company. Call+1 (833) 233-4447 for vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/rhode-island" />
     <meta property="og:site_name" content="Rhode Island Car Transport - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

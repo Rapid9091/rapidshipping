@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>AUCTION CAR TRANSPORT services by Rapid Auto Shipping</title>
     <meta name="title" content="AUCTION CAR TRANSPORT services by Rapid Auto Shipping" />
-    <meta name="description" content="Rapid Auto Shipping - AUCTION CAR TRANSPORT services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in AUCTION CAR TRANSPORT services in all states of the USA." />
+    <meta name="description" content="RAS offered very cost-effective Auction Vehicle Transport services. In every state in the USA, we are experts in providing Auction Car Transport services." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="AUCTION CAR TRANSPORT services" />
-    <meta property="og:description" content="Rapid Auto Shipping - AUCTION CAR TRANSPORT services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in AUCTION CAR TRANSPORT services in all states of the USA." />
+    <meta property="og:description" content="RAS offered very cost-effective Auction Vehicle Transport services. In every state in the USA, we are experts in providing Auction Car Transport services." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/auction-auto-transport-services" />
     <meta property="og:site_name" content="AUCTION CAR TRANSPORT services" />
     <meta name='robots' content='index' />

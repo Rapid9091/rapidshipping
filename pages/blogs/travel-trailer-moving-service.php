@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Trailer transport Services </title>
     <meta name="title" content="Trailer transport Services " />
-    <meta name="description" content="Rapid Auto Shipping - Trailer transport Services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in Trailer transport Services in all states of the USA." />
+    <meta name="description" content="RAS offers Trailer Transport Services at an affordable price. Call+1 (833) 233-4447 for Trailer transport services in all states of the United States." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Trailer transport Services" />
-    <meta property="og:description" content="Rapid Auto Shipping - Trailer transport Services provided by RAS, at a very affordable price. Call +1-833-233-4447, We are expert in Trailer transport Services in all states of the USA." />
+    <meta property="og:description" content="RAS offers Trailer Transport Services at an affordable price. Call+1 (833) 233-4447 for Trailer transport services in all states of the United States." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/travel-trailer-moving-service" />
     <meta property="og:site_name" content="Travel Trailer Transport  - Rapid Auto Shipping" />
     <meta name='robots' content='index' />

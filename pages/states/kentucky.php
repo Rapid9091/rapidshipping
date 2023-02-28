@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Kentucky Auto Transport Company | +1-833-233-4447</title>
     <meta name="title" content="Kentucky Auto Transport Company | +1-833-233-4447" />
-    <meta name="description" content="Need Car Shipping service in Kentucky, you need an experienced Kentucky auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta name="description" content="Need Car Shipping in Kentucky? Rapid Auto Shipping is an experienced Kentucky auto transport company. Call+1 (833) 233-4447 to arrange vehicle shipping." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Kentucky Auto Transport Company | +1-833-233-4447" />
-    <meta property="og:description" content="Need Car Shipping service in Kentucky, you need an experienced Kentucky auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta property="og:description" content="Need Car Shipping in Kentucky? Rapid Auto Shipping is an experienced Kentucky auto transport company. Call+1 (833) 233-4447 to arrange vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/states/kentucky" />
     <meta property="og:site_name" content="auto transport Kentucky - Rapid Auto Shipping " />
     <meta name='robots' content='index' />

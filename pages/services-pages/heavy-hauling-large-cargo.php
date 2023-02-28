@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Reliable Heavy Hauling Services for Large Cargo Transportation</title>
     <meta name="title" content="Reliable Heavy Hauling Services for Large Cargo Transportation." />
-    <meta name="description" content="Heavy Hauling is your go-to source for large cargo transportation. We provide reliable, high-quality service to move heavy loads quickly and safely. Our team of experts is dedicated to helping you get your cargo where it needs to go on time." />
+    <meta name="description" content="Need heavy hauling for your large cargo transportation? Our expert team provides safe and secure transportation for oversized items. Contact us today" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Reliable Heavy Hauling Services for Large Cargo Transportation." />
-    <meta property="og:description" content="Heavy Hauling is your go-to source for large cargo transportation. We provide reliable, high-quality service to move heavy loads quickly and safely. Our team of experts is dedicated to helping you get your cargo where it needs to go on time." />
+    <meta property="og:description" content="Need heavy hauling for your large cargo transportation? Our expert team provides safe and secure transportation for oversized items. Contact us today" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/heavy-hauling-large-cargo" />
     <meta property="og:site_name" content="Reliable Heavy Hauling Services for Large Cargo Transportation" />
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png" />
