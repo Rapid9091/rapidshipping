@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Enclosed auto transport Company in Chicago | +1-833-233-4447</title>
     <meta name="title" content=" Enclosed auto transport Company in Chicago | +1-833-233-4447">
-    <meta name="description" content="Need Car Shipping service in Chicago, you need an experienced Chicago auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta name="description" content="Need Car Shipping in Chicago? Rapid Auto Shipping is an experienced Chicago auto transport company. Call+1 (833) 233-4447 to arrange vehicle shipping." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content=" Enclosed auto transport Company in Chicago | +1-833-233-4447" />
-    <meta property="og:description" content="Need Car Shipping service in Chicago, you need an experienced Chicago auto transport company means Rapid Auto Shipping. Call +1-833-233-4447 For vehicle shipping." />
+    <meta property="og:description" content="Need Car Shipping in Chicago? Rapid Auto Shipping is an experienced Chicago auto transport company. Call+1 (833) 233-4447 to arrange vehicle shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/enclosed-auto-transport-chicago" />
     <meta property="og:site_name" content="Enclosed auto transport Company in Chicago | +1-833-233-4447" />
     <meta name='robots' content='index' />
