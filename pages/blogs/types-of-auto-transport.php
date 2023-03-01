@@ -16,7 +16,10 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/types-of-auto-transport" />
     <meta property="og:site_name" content="Guide for types of auto transports available in market  " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car shipping cost, Most affordable car shipping company in USA, car carrier, open transport, automobile carrier, car shipping carriers, open auto, carrier for car, truck for car transport, get carrier auto transport, auto truck transport, auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport" />
+    <meta name="keywords" content="types of car haulers, types of car carriers, types of auto transports" />
+    <meta property="article:tag" content=" types of car haulers" />
+<meta property="article:tag" content=" types of car carriers" />
+<meta property="article:tag" content=" types of auto transports" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

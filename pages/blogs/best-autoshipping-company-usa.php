@@ -16,32 +16,12 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/best-autoshipping-company-us" />
     <meta property="og:site_name" content="Best auto or car shipping company in USA" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="best car shipping companies in usa,best car movers in usa,best car movers usa,best car shippers in usa,top car shipping companies in usa" />
-    <meta property="article:tag" content="Best Auto Shipping Company USA" />
-    <meta property="article:tag" content="car transportation services" />
-    <meta property="article:tag" content="top vehicle shipping companies" />
-    <meta property="article:tag" content="American auto shipping company" />
-    <meta property="article:tag" content="best auto shipping company in the USA" />
-    <meta property="article:tag" content="affordable car shipping prices" />
-    <meta property="article:tag" content="best auto shipping company" />
-    <meta property="article:tag" content="enclosed car transport companies" />
-    <meta property="article:tag" content="auto shipping company" />
-    <meta property="article:tag" content="USA car transport companies" />
-    <meta property="article:tag" content="car transport companies USA" />
-    <meta property="article:tag" content="car transport companies USA" />
-    <meta property="article:tag" content="car transport companies in USA" />
-    <meta property="article:tag" content="USA car shipping" />
-    <meta property="article:tag" content="USA car transport companies" />
-    <meta property="article:tag" content="USA auto transport" />
-    <meta property="article:tag" content="car shipping service near me" />
-    <meta property="article:tag" content="vehicles transport USA" />
-    <meta property="article:tag" content="auto transport company USA" />
-    <meta property="article:tag" content="car transport Comapny USA" />
-    <meta property="article:tag" content="auto tranporters" />
-    <meta property="article:tag" content="ship car to USA" />
-    <meta property="article:tag" content="car shipping companies USA" />
-    <meta property="article:tag" content="door-to-door auto transport USA" />
-    <meta property="article:tag" content="car shipping companies in USA" />
+    <meta name="keywords" content="best car shipping companies in usa,best car movers in usa,best car movers usa,best car shippers in usa,top car shipping companies in usa">
+    <meta property="article:tag" content="best car shipping companies in usa" />
+    <meta property="article:tag" content="best car movers in usa" />
+    <meta property="article:tag" content="best car movers usa" />
+    <meta property="article:tag" content="best car shippers in usa" />
+    <meta property="article:tag" content="top car shipping companies in usa" />
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->
     <?php include head; ?>

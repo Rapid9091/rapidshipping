@@ -16,7 +16,11 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/car-shipping-documents" />
     <meta property="og:site_name" content="Car shipping documents  - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="bill of lading car transport,bill of lading car,car shipping bill of lading,car shipping documentation" />
+    <meta name="keywords" content="bill of lading car transport,bill of lading car,car shipping bill of lading,car shipping documentation">
+    <meta property="article:tag" content="bill of lading car transport" />
+    <meta property="article:tag" content="bill of lading car" />
+    <meta property="article:tag" content="car shipping bill of lading" />
+    <meta property="article:tag" content="car shipping documentation" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

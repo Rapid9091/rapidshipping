@@ -16,7 +16,12 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/why-do-auto-shipping-quote-differ" />
     <meta property="og:site_name" content="Why do auto shipping costs vary dealer to dealer ?" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car shipping quotes,car transport quote,auto shipping quotes,auto transport quotes,vehicle transport quote" />
+    <meta name="keywords" content="car shipping quotes, car transport quote, auto shipping quotes, auto transport quotes, vehicle transport quote" />
+    <meta property="article:tag" content="car shipping quotes" />
+    <meta property="article:tag" content=" car transport quote" />
+    <meta property="article:tag" content=" auto shipping quotes" />
+    <meta property="article:tag" content=" auto transport quotes" />
+    <meta property="article:tag" content=" vehicle transport quote" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

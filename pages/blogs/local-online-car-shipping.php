@@ -16,7 +16,12 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/local-online-car-shipping" />
     <meta property="og:site_name" content="How to choose between best local or online car shipping in USA  " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car shipping cost, Most affordable car shipping company in USA, car carrier, open transport, automobile carrier, car shipping carriers, open auto, carrier for car, truck for car transport, get carrier auto transport, auto truck transport, auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport" />
+    <meta name="keywords" content="car shipping quotes online, car transport online quote, auto transporters online, auto transport quotes online, car moving quotes online" />
+    <meta property="article:tag" content=" car shipping quotes online" />
+<meta property="article:tag" content=" car transport online quote " />
+<meta property="article:tag" content=" auto transporters online" />
+<meta property="article:tag" content=" auto transport quotes online" />
+<meta property="article:tag" content=" car moving quotes online" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

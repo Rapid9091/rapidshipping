@@ -16,19 +16,10 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/benefits-of-open-auto-transport" />
     <meta property="og:site_name" content=" Top Advantages Of Open Auto Transport | Rapid Auto Shipping  " />
     <meta name="keywords" content="open auto carrier,open car transport service,open auto shipping,open auto transport companies">
-    <meta property="article:tag" content="open transport" />
-    <meta property="article:tag" content="automobile carrier" />
-    <meta property="article:tag" content="car shipping carriers" />
-    <meta property="article:tag" content="open auto, carrier for car" />
-    <meta property="article:tag" content="truck for car transport" />
-    <meta property="article:tag" content="get carrier auto transport" />
-    <meta property="article:tag" content="auto truck transport" />
-    <meta property="article:tag" content="auto transport carriers" />
-    <meta property="article:tag" content="open transport car shipping" />
-    <meta property="article:tag" content="open transport car shipping" />
-    <meta property="article:tag" content="auto transporters carriers" />
-    <meta property="article:tag" content="open carrier car shipping" />
-    <meta property="article:tag" content="open auto transport" />
+    <meta property="article:tag" content="open auto carrier" />
+    <meta property="article:tag" content="open car transport service" />
+    <meta property="article:tag" content="open auto shipping" />
+    <meta property="article:tag" content="open auto transport companies" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->

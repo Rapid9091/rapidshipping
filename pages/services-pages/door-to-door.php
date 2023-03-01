@@ -16,30 +16,12 @@
     <meta property="og:url" content="https://rapidautoshipping.com/services/door to door" />
     <meta property="og:site_name" content="Best Auto Transport Services Door to Door | Rapid Auto Shipping" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="door to door vehicle transport,best door to door car shipping,car shipping door to door,door to door car delivery,door to door car carrying" />
-    <meta property="article:tag" content="car delivery service" />
-    <meta property="article:tag" content="vehicle transportation services" />
-    <meta property="article:tag" content="door to door transport" />
-    <meta property="article:tag" content="door to door transportation" />
-    <meta property="article:tag" content="car pick up service" />
-    <meta property="article:tag" content="transporting services" />
-    <meta property="article:tag" content="vehicle delivery service" />
-    <meta property="article:tag" content="car pickup service" />
-    <meta property="article:tag" content="cars transportation services" />
-    <meta property="article:tag" content="car carrier service" />
-    <meta property="article:tag" content="door to door auto transport" />
-    <meta property="article:tag" content="car transporting service" />
-    <meta property="article:tag" content="door to door transport services" />
-    <meta property="article:tag" content="car delivery service near me" />
-    <meta property="article:tag" content="door to door car shipping" />
-    <meta property="article:tag" content="car courier services" />
-    <meta property="article:tag" content="door to door vehicle shipping" />
-    <meta property="article:tag" content="car carrier services near me" />
-    <meta property="article:tag" content="car pick up services" />
-    <meta property="article:tag" content="door to door car service" />
-    <meta property="article:tag" content="door to door service transportation" />
-    <meta property="article:tag" content="car pickup and delivery" />
-    <meta property="article:tag" content="vehicle pickup and delivery" />
+    <meta name="keywords" content="door to door vehicle transport,best door to door car shipping,car shipping door to door,door to door car delivery,door to door car carrying">
+    <meta property="article:tag" content="door to door vehicle transport" />
+    <meta property="article:tag" content="best door to door car shipping" />
+    <meta property="article:tag" content="car shipping door to door" />
+    <meta property="article:tag" content="door to door car delivery" />
+    <meta property="article:tag" content="door to door car carrying" />
 
     <!--     Google Analytics Code Start -->
 

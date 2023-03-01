@@ -18,39 +18,11 @@
     <meta property="og:site_name" content="International Boat Shipping - Rapid Auto Shipping " />
     <meta name='robots' content='index' />
     <meta name="keywords" content="boat shipping companies,boat moving companies,boat moving service,best boat transport companies,boat hauling companies">
-    <meta property="article:tag" content="boat shipping" />
-    <meta property="article:tag" content="international boat shipping" />
-    <meta property="article:tag" content="boat transport international" />
-    <meta property="article:tag" content="shiping boat" />
-    <meta property="article:tag" content="shipping boats overseas" />
-    <meta property="article:tag" content="international boat shipping rates" />
-    <meta property="article:tag" content="international boat transport" />
-    <meta property="article:tag" content="international shipping by boat" />
-    <meta property="article:tag" content="international boat transportation" />
-    <meta property="article:tag" content="shipment boat" />
-    <meta property="article:tag" content="boat shipping services" />
-    <meta property="article:tag" content="shipping by boat international" />
-    <meta property="article:tag" content="shipping overseas by boat" />
-    <meta property="article:tag" content="boat shipping rates" />
     <meta property="article:tag" content="boat shipping companies" />
-    <meta property="article:tag" content="boat shipping service" />
-    <meta property="article:tag" content="shipping boat shipping shipping boats" />
-    <meta property="article:tag" content="shipping boat" />
-    <meta property="article:tag" content="boat shipping prices" />
-    <meta property="article:tag" content="shipping yacht" />
-    <meta property="article:tag" content="shipping a boat cost" />
-    <meta property="article:tag" content="boat shippers" />
-    <meta property="article:tag" content="boat shipping quote" />
-    <meta property="article:tag" content="shipment by boat" />
-    <meta property="article:tag" content="boat transportation cost" />
-    <meta property="article:tag" content="boat shipping prices" />
-    <meta property="article:tag" content="yacht shipping" />
-    <meta property="article:tag" content="how to ship a boat" />
-    <meta property="article:tag" content="boat shipping costs" />
-    <meta property="article:tag" content="boat transport company" />
-    <meta property="article:tag" content="boat shipping cost" />
-    <meta property="article:tag" content="cost of shipping a boat" />
-    <meta property="article:tag" content="shipping by boat" />
+    <meta property="article:tag" content="boat moving companies" />
+    <meta property="article:tag" content="boat moving service" />
+    <meta property="article:tag" content="best boat transport companies" />
+    <meta property="article:tag" content="boat hauling companies" />
 
     <!--     Google Analytics Code Start -->
 

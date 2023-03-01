@@ -16,7 +16,11 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/tips-for-auto-shipping-discount" />
     <meta property="og:site_name" content="Complete guide for getting best auto shipping discounts  " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="shipping discount Tips,auto shipping discounts tips,free shipping Tips,Tips free shipping" />
+    <meta name="keywords" content="shipping discount Tips, auto shipping discounts tips, free shipping Tips, Tips free shipping" />
+    <meta property="article:tag" content="shipping discount Tips" />
+<meta property="article:tag" content="auto shipping discounts tips" />
+<meta property="article:tag" content=" free shipping Tips" />
+<meta property="article:tag" content="Tips free shipping" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

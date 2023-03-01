@@ -18,19 +18,19 @@
     <meta property="og:url" content="https://rapidautoshipping.com" />
     <meta property="og:site_name" content="Rapid Auto Shipping | Best Auto Transport Company in US " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="best car shipping company,best car transport companies,reliable car transport,top car shipping companies,top car transport companies">
+    <meta name="keywords" content="best car shipping company, best car transport companies, reliable car transport, top car shipping companies, top car transport companies, car shipping companies, car shipping quotes, auto transport, car carriers, car shipping company" />
+    <meta property="article:tag" content="best car shipping company" />
+<meta property="article:tag" content="best car transport companies" />
+<meta property="article:tag" content="reliable car transport" />
+<meta property="article:tag" content="top car shipping companies" />
+<meta property="article:tag" content="top car transport companies" />
     <meta property="article:tag" content="car shipping companies" />
     <meta property="article:tag" content="car shipping quotes" />
     <meta property="article:tag" content="auto transport" />
     <meta property="article:tag" content="car carriers" />
     <meta property="article:tag" content="car shipping company" />
-    <meta property="article:tag" content="shipping a vehicle" />
-    <meta property="article:tag" content="auto transport reviews" />
-    <meta property="article:tag" content="auto transport companies" />
-    <meta property="article:tag" content="car shipping cost" />
-    <meta property="article:tag" content="car shipping rates" />
-    <meta property="article:tag" content="how to ship a car" />
-    <meta property="article:tag" content="auto transport company in us" />
+    
+    
 
     <meta name="twitter:image" property="og:image" content="<?= get_img(); ?>home_page_featured_img.jpeg" /> <!-- invalid, but expected -->
     <link property="image" href="<?= get_img(); ?>home_page_featured_img.jpeg" />

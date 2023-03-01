@@ -15,7 +15,15 @@
     <meta property=" og:description" content="Rapid Auto Shipping provides the Pittsburgh car shipping services at very affordable price. Call  +1-833-233-4447 to know more about Pittsburgh auto transport in USA. " />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/pittsburgh-car-shipping" />
     <meta property="og:site_name" content="Best Pittsburgh car shipping company in USA" />
-    <meta name="keywords" content="pittsburgh car shipping, shipping car pittsburgh, shipping pittsburgh, car shipping services pittsburgh, shipping services pittsburgh, shipping car pittsburgh, pittsburgh shipping car, pittsburgh shipping car services." />
+    <meta name="keywords" content=" Pittsburgh car shipping, shipping car Pittsburgh, shipping Pittsburgh, car shipping services Pittsburgh, shipping services Pittsburgh, shipping car Pittsburgh, Pittsburgh shipping car, Pittsburgh shipping car services" />
+    <meta property="article:tag" content="Pittsburgh car shipping" />
+<meta property="article:tag" content="shipping car Pittsburgh" />
+<meta property="article:tag" content="shipping Pittsburgh" />
+<meta property="article:tag" content="car shipping services Pittsburgh" />
+<meta property="article:tag" content="shipping services Pittsburgh" />
+<meta property="article:tag" content="shipping car Pittsburgh" />
+<meta property="article:tag" content="Pittsburgh shipping car" />
+<meta property="article:tag" content="Pittsburgh shipping car services​​​​​​​" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->

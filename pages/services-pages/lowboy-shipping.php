@@ -17,35 +17,12 @@
     <meta property="og:site_name" content="Lowboy Trucking company | Lowboy Hauling Services" />
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="lowboy transport, lowboy trucking, lowboy hauling, lowboy trucking company, lowboy hauling near me, lowboy services, lowboy transportation, lowboy transport services, lowboy trucking companies, heavy haul lowboy, lowboy transport services, lowboy hauler, heavy haul lowboy trailers, lowboy trucking near me, lowboy services near me, heavy haul lowboys, lowboy trailer trucking companies, lowboy service, lowboy hauling companies, lowboy heavy haul trailers, lowboy loads, lowboy hauling rates, heavy haul lowboy trailers, lowboy service near me, lowboy boat trailer, lowboy cost per mile, lowboy trailer loading, lowboy trailer for hire near me" />
-    <meta property="article:tag" content="lowboy transport" />
-    <meta property="article:tag" content="lowboy trucking" />
-    <meta property="article:tag" content="lowboy hauling" />
-    <meta property="article:tag" content="lowboy trucking company" />
-    <meta property="article:tag" content="lowboy hauling near me" />
-    <meta property="article:tag" content="lowboy services" />
+    <meta name="keywords" content="lowboy transportation, lowboy transport services, lowboy trucking companies, lowboy transport services, lowboy hauling" />
     <meta property="article:tag" content="lowboy transportation" />
-    <meta property="article:tag" content="lowboy transport services" />
-    <meta property="article:tag" content="lowboy trucking companies" />
-    <meta property="article:tag" content="heavy haul lowboy" />
-    <meta property="article:tag" content="lowboy transport services" />
-    <meta property="article:tag" content="lowboy hauler" />
-    <meta property="article:tag" content="heavy haul lowboy trailers" />
-    <meta property="article:tag" content="lowboy trucking near me" />
-    <meta property="article:tag" content="lowboy services near me" />
-    <meta property="article:tag" content="heavy haul lowboys" />
-    <meta property="article:tag" content="lowboy trailer trucking companies" />
-    <meta property="article:tag" content="lowboy service" />
-    <meta property="article:tag" content="lowboy hauling companies" />
-    <meta property="article:tag" content="lowboy heavy haul trailers" />
-    <meta property="article:tag" content="lowboy loads" />
-    <meta property="article:tag" content="lowboy hauling rates" />
-    <meta property="article:tag" content="heavy haul lowboy trailers" />
-    <meta property="article:tag" content="lowboy service near me" />
-    <meta property="article:tag" content="lowboy boat trailer" />
-    <meta property="article:tag" content="lowboy cost per mile" />
-    <meta property="article:tag" content="lowboy trailer loading" />
-    <meta property="article:tag" content="lowboy trailer for hire near me" />
+<meta property="article:tag" content="lowboy transport services" />
+<meta property="article:tag" content="lowboy trucking companies" />
+<meta property="article:tag" content="lowboy transport services" />
+<meta property="article:tag" content="lowboy hauling​​​​​​​" />
 
     <!--     Google Analytics Code Start -->
 

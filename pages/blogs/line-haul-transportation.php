@@ -16,11 +16,11 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/line-haul-transportation" />
     <meta property="og:site_name" content="Top rated line haul transport services Company in USA" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="Line haul transportation USA,  line haul shipping, Heavy Equipment Transport, Line haul transportation " />
-    <meta property="article:tag" content="Line haul transportation USA" />
+    <meta name="keywords" content="line haul shipping, trucking line haul, line haul transport companies, line haul transportation" />
     <meta property="article:tag" content="line haul shipping" />
-    <meta property="article:tag" content="Heavy Equipment Transport" />
-    <meta property="article:tag" content="Line haul transportation " />
+<meta property="article:tag" content="trucking line haul" />
+<meta property="article:tag" content="line haul transport companies" />
+<meta property="article:tag" content="line haul transportation​​​​​​​" />
 
     <!--     Google Analytics Code Start -->
 

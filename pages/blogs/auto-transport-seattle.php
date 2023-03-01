@@ -16,6 +16,12 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/auto-transport-seattle" />
     <meta property="og:site_name" content="How to ship vehicles in Seattle" />
     <meta name="keywords" content="Seattle Auto Shipping, Seattle Car Shipping, Shipping A Car To Seattle, Auto Transport Seattle, Auto Shipping Seattle, Seattle Auto Transport Services, " />
+    <meta property="article:tag" content="Seattle Auto Shipping" />
+<meta property="article:tag" content="Seattle Car Shipping" />
+<meta property="article:tag" content="Shipping A Car To Seattle" />
+<meta property="article:tag" content="Auto Transport Seattle" />
+<meta property="article:tag" content="Auto Shipping Seattle" />
+<meta property="article:tag" content="Seattle Auto Transport Services​​​​​​​" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->

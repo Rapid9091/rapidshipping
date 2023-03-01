@@ -16,7 +16,12 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/advantages-of-line-haul-transportation" />
     <meta property="og:site_name" content="Advantages of Line Haul transportation " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="linehaul transportation, linehaul transportation, linehaul logistics, line haul, line haul trucking, linehaul trucking, line haul carrier, line haul transportation, line-haul, line haul trucking companies, line haul tracking, what is linehaul, what is linehaul transportation, line haul carrier, what is linehaul trucking, what is line haul transportation, what is line haul, what is linehaul trucking, what is line haul transportation, what is line haul trucking, line haul rate, line haul rates, what is a line haul, loads on line, line haul rates" />
+    <meta name="keywords" content="line haul shipping advantages, line haul rates calculated, trucking line haul, line haul trucking definition, line haul transport companies" />
+    <meta property="article:tag" content="line haul shipping advantages" />
+<meta property="article:tag" content="line haul rates calculated" />
+<meta property="article:tag" content="trucking line haul" />
+<meta property="article:tag" content="line haul trucking definition" />
+<meta property="article:tag" content="line haul transport companies​​​​​​​" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

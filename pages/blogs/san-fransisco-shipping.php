@@ -15,7 +15,14 @@
     <meta property=" og:description" content="Rapid Auto Shipping provides the San Fransisco Auto shipping services at very affordable price. Call  +1-833-233-4447 to know more about San Fransisco auto transport. " />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/san-fransisco-shipping" />
     <meta property="og:site_name" content="5 THINGS YOU NEED TO KNOW  BEFORE SAN FRANSISCO SHIPPING" />
-    <meta name="keywords" content="san fransisco shipping, san fransisco auto shipping, car transport san fransisco, car shipping companies san fransisco, san fransisco auto transport, auto shipping san fransisco, aut transport services san fransisco." />
+    <meta name="keywords" content=" san fransisco shipping, san fransisco auto shipping, car transport san fransisco, car shipping companies san fransisco, san fransisco auto transport, auto shipping san fransisco, auto transport services san fransisco" />
+    <meta property="article:tag" content="san Fransisco shipping" />
+<meta property="article:tag" content="san Fransisco auto shipping" />
+<meta property="article:tag" content="car transport san Fransisco" />
+<meta property="article:tag" content="car shipping companies san Fransisco" />
+<meta property="article:tag" content="san Fransisco auto transport" />
+<meta property="article:tag" content="auto shipping san Fransisco" />
+<meta property="article:tag" content="auto transport services san fransisco" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->

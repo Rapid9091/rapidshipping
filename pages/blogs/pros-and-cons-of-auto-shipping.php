@@ -16,7 +16,12 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/pros-and-cons-of-auto-shipping" />
     <meta property="og:site_name" content="Pros And Cons Of auto transport " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car transport quote,vehicle transport services,auto transport carriers,vehicle shipping companies,vehicle shipping quote" />
+    <meta name="keywords" content="car transport quote,vehicle transport services,auto transport carriers,vehicle shipping companies,vehicle shipping quote">
+    <meta property="article:tag" content="car transport quote" />
+    <meta property="article:tag" content="vehicle transport services" />
+    <meta property="article:tag" content="auto transport carriers" />
+    <meta property="article:tag" content="vehicle shipping companies" />
+    <meta property="article:tag" content="vehicle shipping quote" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

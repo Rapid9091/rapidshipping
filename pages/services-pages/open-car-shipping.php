@@ -18,18 +18,11 @@
     <meta property="og:site_name" content="Open Carrier Transport Car Shipping Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="open transport car shipping,open car transport,open car carrier,open vehicle transport,open auto transport">
-    <meta property="article:tag" content="open transport" />
-    <meta property="article:tag" content="automobile carrier" />
-    <meta property="article:tag" content="car shipping carriers" />
-    <meta property="article:tag" content="open auto, carrier for car" />
-    <meta property="article:tag" content="truck for car transport" />
-    <meta property="article:tag" content="get carrier auto transport" />
-    <meta property="article:tag" content="auto truck transport" />
-    <meta property="article:tag" content="auto transport carriers" />
     <meta property="article:tag" content="open transport car shipping" />
-    <meta property="article:tag" content="open transport car shipping" />
-    <meta property="article:tag" content="auto transporters carriers" />
-    <meta property="article:tag" content="open carrier car shipping" />
+    <meta property="article:tag" content="transport auction" />
+    <meta property="article:tag" content="open car transport" />
+    <meta property="article:tag" content="open car carrier" />
+    <meta property="article:tag" content="open vehicle transport" />
     <meta property="article:tag" content="open auto transport" />
 
     <!--     Google Analytics Code Start -->

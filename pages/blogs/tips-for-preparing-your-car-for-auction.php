@@ -16,7 +16,13 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/tips-for-preparing-your-car-for-auction" />
     <meta property="og:site_name" content="Tips for preparing your car for Auction " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car transport auction, transport auction, auto transport auction, auction auto transport, car auction transport, auction car transport, car transporter auction, car auction transportation, auction transportation services, auto auction transport, transportation auction, car shipping auction, auto transport bidding, car shipping bid site, car shipping bids, transport auction sites, auto shipping bid, auction transport, auto transport bids, transport auction sites, car shipping bidding sites, hauling cars for auctions, car transport bidding, hauling cars from auctions, auto transport bidding sites, car hauling bidding, online auction with shipping, auction shipping services, auction shipping, online auction shipping, shipping auction" />
+    <meta name="keywords" content="car auction tips, car auction tips and tricks, tips for buying cars at auction, auto auction tips " />
+    <meta property="article:tag" content="car auction tips" />
+<meta property="article:tag" content="car auction tips and tricks" />
+<meta property="article:tag" content="tips for buying cars at auction" />
+<meta property="article:tag" content="auction car transport" />
+<meta property="article:tag" content="auction vehicle transport" />
+<meta property="article:tag" content="auto auction tips​​​​​​​" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

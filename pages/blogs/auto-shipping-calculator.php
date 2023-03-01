@@ -16,7 +16,12 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/auto-shipping-calculator" />
     <meta property="og:site_name" content="Get the best and most accurate car shipping price calculator" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car shipping calculator,car shipping cost calculator,vehicle shipping calculator,vehicle shipping cost estimator,car transport cost calculator" />
+    <meta name="keywords" content="car shipping calculator, car shipping cost calculator, vehicle shipping calculator, vehicle shipping cost estimator, car transport cost calculator" />
+    <meta property="article:tag" content="car shipping calculator" />
+<meta property="article:tag" content="car shipping cost calculator" />
+<meta property="article:tag" content="vehicle shipping calculator" />
+<meta property="article:tag" content="vehicle shipping cost estimator" />
+<meta property="article:tag" content="car transport cost calculator" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

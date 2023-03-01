@@ -19,46 +19,13 @@
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/chrysler-bg-img.jpeg" />
     <meta property="og:site_name" content="Best Antique Car Transportation Services | +1-(833) 233-4447" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="classic car transport, antique car transportation, classic car shipping, old car haulers, antique car transporter, antique car transportation, classic car transportation, old car haulers, antique car transport, antique car transporter, classic car transport near me, classic car carriers, classic car shipping quotes, antique car transport companies, classic auto transport, vintage car transportation, classic car transport companies, classic car movers, classic car enclosed transport, classic car auto transport, classic car transport services, vintage car transporter, classic car shipping cost, vintage car haulers, ship classic car">
+    <meta name="keywords" content="classic car transport, classic auto transport, antique car transport, classic car transport companies, classic car movers " />
+
     <meta property="article:tag" content="classic car transport" />
-    <meta property="article:tag" content="antique car transportation" />
-    <meta property="article:tag" content="classic car shipping" />
-    <meta property="article:tag" content="old car haulers" />
-    <meta property="article:tag" content="antique car transporter" />
-    <meta property="article:tag" content="antique car transportation" />
-    <meta property="article:tag" content="classic car transportation" />
-    <meta property="article:tag" content="old car haulers" />
-    <meta property="article:tag" content="antique car transport" />
-    <meta property="article:tag" content="antique car transporter" />
-    <meta property="article:tag" content="classic car transport near me" />
-    <meta property="article:tag" content="classic car carriers" />
-    <meta property="article:tag" content="classic car shipping quotes" />
-    <meta property="article:tag" content="antique car transport companies" />
-    <meta property="article:tag" content="classic auto transport" />
-    <meta property="article:tag" content="vintage car transportation" />
-    <meta property="article:tag" content="classic car transport companies" />
-    <meta property="article:tag" content="classic car movers" />
-    <meta property="article:tag" content="classic car enclosed transport" />
-    <meta property="article:tag" content="classic car auto transport" />
-    <meta property="article:tag" content="classic car transport services" />
-    <meta property="article:tag" content="vintage car transporter" />
-    <meta property="article:tag" content="classic car shipping cost" />
-    <meta property="article:tag" content="vintage car haulers" />
-    <meta property="article:tag" content="ship classic car" />
-    <meta property="article:tag" content="classic car haulers" />
-    <meta property="article:tag" content="classic cars transport" />
-    <meta property="article:tag" content="moving classic cars" />
-    <meta property="article:tag" content="moving classic cars" />
-    <meta property="article:tag" content="reliable classic car transport" />
-    <meta property="article:tag" content="classic car transporters" />
-    <meta property="article:tag" content="vintage car carrier" />
-    <meta property="article:tag" content="collector car transport" />
-    <meta property="article:tag" content="classic car shipping companies" />
-    <meta property="article:tag" content="antique car shipping" />
-    <meta property="article:tag" content="classic car shipping cost" />
-    <meta property="article:tag" content="antique car haulers" />
-    <meta property="article:tag" content="enclosed classic car transport" />
-    <meta property="article:tag" content="classic car auto transport" />
+<meta property="article:tag" content="classic auto transport" />
+<meta property="article:tag" content="antique car transport" />
+<meta property="article:tag" content="classic car transport companies" />
+<meta property="article:tag" content="classic car movers​​​​​​​" />
 
     <!--     Google Analytics Code Start -->
 

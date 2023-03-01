@@ -15,7 +15,12 @@
     <meta property=" og:description" content="Rapid Auto Shipping provides the Services in Indianapolis at very affordable price.  Call  +1-833-233-4447 to know more about Indianapolis auto transport " />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/indianapolis-auto-transport-guide" />
     <meta property="og:site_name" content="Guide for Indianapolis auto transport" />
-    <meta name="keywords" content="indianapolis car transport,car transport companies indianapolis,car shipping indianapolis,auto transport companies indianapolis,car transport service indianapolis"/>
+    <meta name="keywords" content="indianapolis car transport, car transport companies indianapolis,car shipping indianapolis, auto transport companies indianapolis, car transport service indianapolis" />
+    <meta property="article:tag" content="indianapolis car transport" />
+    <meta property="article:tag" content="car transport companies indianapolis" />
+    <meta property="article:tag" content="car shipping indianapolis" />
+    <meta property="article:tag" content="auto transport companies indianapolis" />
+    <meta property="article:tag" content="car transport service indianapolis" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->

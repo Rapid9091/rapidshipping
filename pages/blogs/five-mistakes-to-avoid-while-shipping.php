@@ -17,6 +17,11 @@
     <meta property="og:site_name" content="5 mistakes to avoid when shipping a vehicle " />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car transport,car shipping,car transport service,car transport companies,vehicle transport" />
+    <meta property="article:tag" content="car transport" />
+<meta property="article:tag" content="car shipping" />
+<meta property="article:tag" content="car transport service" />
+<meta property="article:tag" content="car transport companies" />
+<meta property="article:tag" content="vehicle transport" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

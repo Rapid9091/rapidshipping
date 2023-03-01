@@ -15,7 +15,13 @@
     <meta property=" og:description" content="Rapid Auto Shipping provides the Dallas car shipping services at very affordable price. Call  +1-833-233-4447 to know more about Dallas auto transport in USA. " />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/find-the-right-dallas-car-shipping-company" />
     <meta property="og:site_name" content=" Find the best Dallas Car shipping company   " />
-    <meta name="keywords" content="car shipping companies dallas,shipping companies in dallas texas,evergreen shipping dallas,car shipping companies dallas tx,car transport service dallas" />
+    <meta name="keywords" content="car shipping companies Dallas, shipping companies in Dallas texas, evergreen shipping Dallas, car shipping companies Dallas tx, car transport service Dallas" />
+    <meta property="article:tag" content="car shipping companies Dallas" />
+<meta property="article:tag" content="shipping companies in Dallas texas" />
+<meta property="article:tag" content="evergreen shipping Dallas" />
+<meta property="article:tag" content="car shipping companies san Fransisco" />
+<meta property="article:tag" content="car shipping companies Dallas tx" />
+<meta property="article:tag" content="car transport service Dallas" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->

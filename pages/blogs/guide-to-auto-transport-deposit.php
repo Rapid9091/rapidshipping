@@ -16,7 +16,12 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/guide-to-auto-transport-deposit" />
     <meta property="og:site_name" content="Complete auto transport deposit guide with Rapid Auto Shipping  " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car shipping cost, Most affordable car shipping company in USA, car carrier, open transport, automobile carrier, car shipping carriers, open auto, carrier for car, truck for car transport, get carrier auto transport, auto truck transport, auto transport carriers, open transport car shipping, open transport car shipping, auto transporters carriers, open carrier car shipping, open auto transport" />
+    <meta name="keywords" content="cost to ship a car, ship my car, move car, auto shipping, vehicle shipping" />
+    <meta property="article:tag" content="cost to ship a car" />
+<meta property="article:tag" content=" ship my car" />
+<meta property="article:tag" content=" move car" />
+<meta property="article:tag" content="auto shipping" />
+<meta property="article:tag" content="vehicle shipping" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

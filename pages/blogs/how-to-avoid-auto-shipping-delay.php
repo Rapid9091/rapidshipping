@@ -15,8 +15,12 @@
     <meta property=" og:description" content="How to avoid while shipping your vehicle from a location to another.  Call  +1-833-233-4447 to know more about best vehicle shipping company in USA." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-to-avoid-auto-shipping-delay" />
     <meta property="og:site_name" content="How to Avoid Auto Shipping Delays While shipping a Car" />
-    <meta name="keywords" content="car transport quote,car shipping quote,vehicle transport quote,best auto shipping companies"/>
     <meta name='robots' content='index' />
+    <meta name="keywords" content="car transport quote,car shipping quote,vehicle transport quote,best auto shipping companies">
+    <meta property="article:tag" content="car transport quote" />
+    <meta property="article:tag" content="car shipping quote" />
+    <meta property="article:tag" content="vehicle transport quote" />
+    <meta property="article:tag" content="best auto shipping companies" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

@@ -17,38 +17,13 @@
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/GettyImages-0-1.png" />
     <meta property="og:site_name" content="Auction Auto Shipping - Rapid Auto Shipping " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car transport auction, transport auction, auto transport auction, auction auto transport, car auction transport, auction car transport, car transporter auction, car auction transportation, auction transportation services, auto auction transport, transportation auction, car shipping auction, auto transport bidding, car shipping bid site, car shipping bids, transport auction sites, auto shipping bid, auction transport, auto transport bids, transport auction sites, car shipping bidding sites, hauling cars for auctions, car transport bidding, hauling cars from auctions, auto transport bidding sites, car hauling bidding, online auction with shipping, auction shipping services, auction shipping, online auction shipping, shipping auction">
-    <meta property="article:tag" content="car transport auction" />
-    <meta property="article:tag" content="transport auction" />
-    <meta property="article:tag" content="auto transport auction" />
-    <meta property="article:tag" content="auction auto transport" />
-    <meta property="article:tag" content="car auction transport" />
-    <meta property="article:tag" content="auction car transport" />
-    <meta property="article:tag" content="car transporter auction" />
-    <meta property="article:tag" content="car auction transportation" />
-    <meta property="article:tag" content="auction transportation services" />
-    <meta property="article:tag" content="auto auction transport" />
-    <meta property="article:tag" content="transportation auction" />
+    <meta name="keywords" content="car shipping auction, auction car shipping, auction car shipping service, auction car transport, auction vehicle transport " />
     <meta property="article:tag" content="car shipping auction" />
-    <meta property="article:tag" content="auto transport bidding" />
-    <meta property="article:tag" content="car shipping bid site" />
-    <meta property="article:tag" content="car shipping bids" />
-    <meta property="article:tag" content="transport auction sites" />
-    <meta property="article:tag" content="auto shipping bid" />
-    <meta property="article:tag" content="auction transport" />
-    <meta property="article:tag" content="auto transport bids" />
-    <meta property="article:tag" content="transport auction sites" />
-    <meta property="article:tag" content="car shipping bidding sites" />
-    <meta property="article:tag" content="hauling cars for auctions" />
-    <meta property="article:tag" content="car transport bidding" />
-    <meta property="article:tag" content="hauling cars from auctions" />
-    <meta property="article:tag" content="auto transport bidding sites" />
-    <meta property="article:tag" content="car hauling bidding" />
-    <meta property="article:tag" content="online auction with shipping" />
-    <meta property="article:tag" content="auction shipping services" />
-    <meta property="article:tag" content="auction shipping" />
-    <meta property="article:tag" content="online auction shipping" />
-    <meta property="article:tag" content="shipping auction" />
+<meta property="article:tag" content="auction car shipping" />
+<meta property="article:tag" content="auction car shipping service" />
+<meta property="article:tag" content="auction car transport" />
+<meta property="article:tag" content="auction vehicle transport​​​​​​​" />
+    
 
     <!--     Google Analytics Code Start -->
 

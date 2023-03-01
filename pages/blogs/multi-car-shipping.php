@@ -16,17 +16,12 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/multi-car-shipping" />
     <meta property="og:site_name" content="Multi Car shipping - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="multi car transport, multiple car shipping quotes, multiple vehicle transport, shipping multiple cars, multi car shipping, multiple auto transport quotes, multiple car transport quotes, multi car transport companies, multiple auto shipping quotes, multiple car carrier" />
-    <meta property="article:tag" content="multi car transport" />
-    <meta property="article:tag" content="multiple car shipping quotes" />
-    <meta property="article:tag" content="multiple vehicle transport" />
-    <meta property="article:tag" content="shipping multiple cars" />
-    <meta property="article:tag" content="multi car shipping" />
-    <meta property="article:tag" content="multiple auto transport quotes" />
+    <meta name="keywords" content="multiple car transport quotes, multiple vehicle transport quotes, multi-car transport companies, multiple car carrier, multiple car shipping quotes" />
     <meta property="article:tag" content="multiple car transport quotes" />
-    <meta property="article:tag" content="multi car transport companies" />
-    <meta property="article:tag" content="multiple auto shipping quotes" />
-    <meta property="article:tag" content="multiple car carrier" />
+<meta property="article:tag" content="multiple vehicle transport quotes" />
+<meta property="article:tag" content="multi-car transport companies" />
+<meta property="article:tag" content="multiple car carrier" />
+<meta property="article:tag" content="multiple car shipping quotes​​​​​​​" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

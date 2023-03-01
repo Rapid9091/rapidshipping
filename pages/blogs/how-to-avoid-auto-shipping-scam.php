@@ -16,7 +16,10 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/pros-and-cons-of-auto-shipping" />
     <meta property="og:site_name" content="How to avoid Auto Shipping Scams  " />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car shipping scams,car transport scams,auto transport scams" />
+    <meta name="keywords" content="car shipping scams,car transport scams,auto transport scams">
+    <meta property="article:tag" content="car shipping scams" />
+    <meta property="article:tag" content="car transport scams" />
+    <meta property="article:tag" content="auto transport scams" />   
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

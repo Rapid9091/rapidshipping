@@ -15,7 +15,12 @@
     <meta property=" og:description" content="At affordable prices, Los Angeles Auto Shipping provides excellent auto transportation services. Count on our knowledgeable team to make sure your vehicle arrives promptly and safely." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/los-angeles-auto-transport" />
     <meta property="og:site_name" content="Los Angeles Auto Transport using Rapid Auto Shipping" />
-    <meta name="keywords" content="car transport los angeles,car shipping los angeles,car transport services los angeles,car transport companies in los angeles,vehicle shipping los angeles" />
+    <meta name="keywords" content="car transport los angeles,car shipping los angeles,car transport services los angeles,car transport companies in los angeles, vehicle shipping los angeles" />
+    <meta property="article:tag" content="car transport los angeles" />
+    <meta property="article:tag" content="car shipping los angeles" />
+    <meta property="article:tag" content="car transport services los angeles" />
+    <meta property="article:tag" content="car transport companies in los angeles" />
+    <meta property="article:tag" content="vehicle shipping los angeles" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->

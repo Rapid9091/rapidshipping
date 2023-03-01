@@ -15,7 +15,13 @@
     <meta property="og:description" content="Rapid Auto Shipping provides the cross-country car shipping service at very affordable price. Call  +1-833-233-4447 to know more about cross-country car shipping." />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/cross-country-car-shipping" />
     <meta property="og:site_name" content="Cross-Country Car Shipping Service| Rapid Auto Shipping " />
-    <meta name="keywords" content="transport car across country,cost to ship a car cross country,move car across country,cross country auto transport,cross country vehicle transport" />
+    <meta name='robots' content='index' />
+    <meta name="keywords" content="transport car across country,cost to ship a car cross country,move car across country,cross country auto transport,cross country vehicle transport">
+    <meta property="article:tag" content="transport car across country" />
+    <meta property="article:tag" content="cost to ship a car cross country" />
+    <meta property="article:tag" content="move car across country" />
+    <meta property="article:tag" content="cross country auto transport" />
+    <meta property="article:tag" content="cross country vehicle transport" />
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->
 

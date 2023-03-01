@@ -16,6 +16,11 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-long-it-takes-to-ship-a-car" />
     <meta property="og:site_name" content="Complete guide for how much time it takes to ship a car ? " />
     <meta name="keywords" content="car transport,car transport service,ship my car,ship a car direct,ship car to another state" />
+    <meta property="article:tag" content="car transport" />
+<meta property="article:tag" content="car transport service" />
+<meta property="article:tag" content="ship my car" />
+<meta property="article:tag" content="ship a car direct" />
+<meta property="article:tag" content="ship car to another state" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->

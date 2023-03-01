@@ -17,6 +17,11 @@
     <meta property="og:site_name" content="Guide to compare auto shipping prices  " />
     <meta name='robots' content='index' />
     <meta name="keywords" content="cost to ship a car,car transport cost,average cost to ship a car,car delivery cost,car shipping rates" />
+    <meta property="article:tag" content="cost to ship a car" />
+<meta property="article:tag" content="car transport cost" />
+<meta property="article:tag" content="average cost to ship a car" />
+<meta property="article:tag" content="car delivery cost" />
+<meta property="article:tag" content="car shipping rates" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

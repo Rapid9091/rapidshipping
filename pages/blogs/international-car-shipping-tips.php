@@ -16,7 +16,12 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/international-car-shipping-tips" />
     <meta property="og:site_name" content="International car shipping tips  - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="international car shipping,international car transport,international vehicle shipping,international car shipping companies,international auto shipping" />
+    <meta name="keywords" content="international car shipping,international car transport,international vehicle shipping,international car shipping companies,international auto shipping">
+    <meta property="article:tag" content="international car shipping" />
+    <meta property="article:tag" content="international car transport" />
+    <meta property="article:tag" content="international vehicle shipping" />
+    <meta property="article:tag" content="international car shipping companies" />
+    <meta property="article:tag" content="international auto shipping" />
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->

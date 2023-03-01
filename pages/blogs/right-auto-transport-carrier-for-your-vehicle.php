@@ -16,6 +16,11 @@
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/right-auto-transport-carrier-for-your-vehicle" />
     <meta property="og:site_name" content="Which Type Of Auto Transport Carrier Is Right For Your Vehicle ?" />
     <meta name="keywords" content="car shippers,auto carrier,car carrier service,car carrier transport,professional car carriers" />
+    <meta property="article:tag" content="car shippers" />
+<meta property="article:tag" content="auto carriers" />
+<meta property="article:tag" content="car carrier service" />
+<meta property="article:tag" content="car carrier transport" />
+<meta property="article:tag" content="professional car carriers" />
     <meta name='robots' content='index' />
 
     <!--     Google Analytics Code Start -->
