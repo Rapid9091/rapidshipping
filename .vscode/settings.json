@@ -1,3 +1,4 @@
 {
-    "workbench.editor.mouseBackForwardToNavigate": false
+    "workbench.editor.mouseBackForwardToNavigate": false,
+    "liveServer.settings.port": 5501
 }
