@@ -10,6 +10,9 @@ define('page_bottom', COMPONENT . '../page_bottom.php');
 
 
 define('small_form', COMPONENT . "small-form.php");
+define('small_form_new', COMPONENT . "small-form-new.php");
+define('review2', COMPONENT . "review2.php");
+define('how_it_works', COMPONENT . "how_it_works.php");
 define('car_key_section', COMPONENT . "car-key-section.php");
 define('reviews', COMPONENT . "review-section.php");
 define('side_form', COMPONENT . "side-form.php");

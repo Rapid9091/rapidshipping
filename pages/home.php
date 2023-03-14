@@ -89,7 +89,7 @@
     <?php include header; ?>
 
     <!-- this is the fiorst section with background image -->
-    <div class="contact-us-header-page">
+    <div class="contact-us-header-page" id="banner_form">
         <?php
 
         $NAME = "Best Auto Shipping Company In USA";
