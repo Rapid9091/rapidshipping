@@ -619,7 +619,8 @@ if (isset($_GET['page_id'])) {
     <script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
     <script
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&callback=initMap&libraries=places"></script>
-    <script src="./form.js"></script>
+
+    
     
     <!-- owl curosel -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
