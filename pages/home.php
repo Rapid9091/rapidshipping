@@ -40,6 +40,8 @@
     <!-- <link rel="stylesheet" href="<?= get_css(); ?>PAGE_contactus.css"> -->
     <link rel="stylesheet" href="<?= get_css(); ?>strip-under-header.css">
 
+    <!-- ahref site verification -->
+    <meta name="ahrefs-site-verification" content="330dc55c94b30c3d9aede0931e04fc0233e25931c29b861598bb9d218078676f">
 
     <style>
         .third-section>p>b>a {
