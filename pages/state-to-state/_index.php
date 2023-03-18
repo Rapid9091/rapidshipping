@@ -63,15 +63,22 @@ if (isset($_GET['page_id'])) {
         }
         .key-holding {
     margin: 2% 0;
-    background-image: url("<?= get_img();?>/car-key-2.png");
+    background-image: url("<?= get_img();?>/car-key-22.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 @media screen and (max-width: 600px) {
     .key-holding {
-        background-image: url("<?=get_img();?>car-key-2-mobile-view.png");
+        background-image: url("<?=get_img();?>car-key-22.jpg");
     }
+}
+.shipping-form-state-content p span{
+    font-size: 18px;
+    word-spacing: 1.5px;
+    letter-spacing: 0.5px;
+    margin: 2% 0;
+    line-height: 1.8;
 }
     </style>
 </head>

@@ -2,7 +2,7 @@
 
 .key-holding {
     margin: 2% 0;
-    background-image: url("../images/car-key-2.png");
+    background-image: url("../images/car-key-22.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -73,7 +73,7 @@
         padding: 10% 5%;
     }
     .key-holding {
-        background-image: url("../images/car-key-2-mobile-view.png");
+        background-image: url("../images/car-key-22.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
