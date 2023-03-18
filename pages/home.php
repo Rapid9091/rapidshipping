@@ -40,6 +40,8 @@
     <!-- <link rel="stylesheet" href="<?= get_css(); ?>PAGE_contactus.css"> -->
     <link rel="stylesheet" href="<?= get_css(); ?>strip-under-header.css">
 
+    <!-- ahref site verification -->
+    <meta name="ahrefs-site-verification" content="330dc55c94b30c3d9aede0931e04fc0233e25931c29b861598bb9d218078676f">
 
     <style>
         .third-section>p>b>a {
@@ -133,7 +135,7 @@
         <h2 class="main-heading-for-big-screen">Why <span>Rapid Auto Shipping</span></h2>
         <div class="line--div"></div>
         <p>
-            On TransportReviews, TrustPilot, Facebook, the Better Business Bureau, and Google, Rapid Auto Shipping consistently obtains five-star ratings. Some reviewers are given a little deposit reimbursement that is unrelated to their rating score or pricing as an incentive to share their experience. We've delivered over 20,000 new and used cars, and while we're not perfect, we've built a solid reputation in the process. </p>
+            On TransportReviews, TrustPilot, Facebook, the Better Business Bureau, and Google, Rapid Auto Shipping consistently obtains five-star ratings. Some reviewers are given a little deposit reimbursement that is unrelated to their rating score or pricing as an incentive to share their experience. We've delivered over 20,000 new and used cars, and while we're not perfect, we've built a solid reputation in the process.</p>
         <div class="trustbadge-container">
             <div class="trustbadeg-1">
                 <img loading="lazy" src="<?= get_img() ?>bbb-rating-img.png" alt="review rapid auto shipping" />

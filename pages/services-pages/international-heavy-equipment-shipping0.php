@@ -15,7 +15,8 @@
     <meta property="og:description" content="We provide services for heavy machinery transport and shipping to anyplace in the USA, We are heavy equipment transport professionals. Get us by a  call!" />
     <meta property="og:url" content="https://rapidautoshipping.com/services/international-heavy-equipment-shipping" />
     <meta property="og:site_name" content="Heavy Equipment Shipping | Heavy Equipment Transport" />
-    <meta name='robots' content='index' />
+    <meta name='robots' content='noindex'/>
+    <meta name='robots' content='nofollow'/>
     <meta name="keywords" content="shipping heavy machinery, equipment shipping company, international heavy equipment, heavy equipment shipping overseas, shipping equipment overseas, heavy equipment shipping, heavy equipment haulers, heavy equipment shipping companies, shipping heavy equipment overseas, best international shipping companies, international shipping large items, specialized overseas shipping, cargo shipping overseas, international transport services, international transport carriers, overseas shipping company, international machinery, shipping companies international" />
     <meta property="article:tag" content="shipping heavy machinery" />
     <meta property="article:tag" content="equipment shipping company" />

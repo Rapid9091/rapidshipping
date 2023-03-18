@@ -15,7 +15,8 @@
     <meta property="og:description" content="Do you require heavy hauling trucks to transport significant cargo? Then you've come to the correct spot, Rapid auto shipping is an expert in hauling services." />
     <meta property="og:url" content="https://rapidautoshipping.com/services/heavy-hauling-truck" />
     <meta property="og:site_name" content="heavy hauling truck - Rapid Auto Shipping" />
-    <meta name='robots' content='index' />
+    <meta name='robots' content='noindex' />
+    <meta name="robots" content="nofollow">
     <meta name="keywords" content="heavy hauling trucking companies, heavy haul service, heavy haulage company, trucking heavy hauling, heavy haul transport companies, heavy haul services, heavy hauling services, heavy haul trucking company, heavy haulers, heavy haul carriers, heavy hauling companies, heavy hauling trucking, heavy haul transport companies, heavy hauling trucks, best heavy haul companies, heavy trucking companies, haul trucking company, super heavy haul trucking companies, heavy haul trucks, heavy haul companies, hauling services, haul service, heavy haulers trucking, heavy haul trucking companies near me, heavy haul transport, heavy haul transportation companies, heavy trucking companies, hauling and trucking services" />
     <meta property="article:tag" content="heavy hauling trucking companies" />
     <meta property=" article:tag" content="heavy haul service" />
