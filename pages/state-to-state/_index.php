@@ -73,6 +73,13 @@ if (isset($_GET['page_id'])) {
         background-image: url("<?=get_img();?>car-key-22.jpg");
     }
 }
+.shipping-form-state-content p{
+    font-size: 18px;
+    word-spacing: 1.5px;
+    letter-spacing: 0.5px;
+    margin: 2% 0;
+    line-height: 1.8;
+}
 .shipping-form-state-content p span{
     font-size: 18px;
     word-spacing: 1.5px;
