@@ -254,8 +254,7 @@
                         safeguard your boat. Even if the shipper has this security, you are still liable for securing
                         your boat ahead of time to avoid any possible harm.</p>
                     <p class="new-blog-section-one-para"><span>Communication</span></p>
-                    <p>Tracking is a form of communication in many ways, but it is more than just telling you where your
-                        boat is. A good shipping business will also be ready to answer your inquiries and notify you
+                    <p>Tracking is a form of communication in many ways, but it is more than just telling you where your boat is. A good shipping business will also be ready to answer your inquiries and notify you
                         when potential problems arise. However, should you trust a transporter with your boat if you
                         can't trust them regarding payment, covering, and timelines?</p>
                 </div>
