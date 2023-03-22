@@ -201,7 +201,7 @@
                 <img loading="lazy" src=" <?= get_img() ?>home-delivering-vehicle.png" alt="Auto Shipping Services">
 
                 <div class="about-step">
-                    <h2>3. Delivering your vehicle.</h2>
+                    <h2>3. Delivering your vehicle</h2>
                     <p>Most shipping carriers call you ahead of schedule and they narrowed down the delivery window. We make the arrangements with you as per the time and location close to your house.
                         We will unload your vehicle from the vehicle shipping truck or trailer. Post this we do the delivery inspection of your vehicle.<br><br> You are advised to go around the vehicle again and take pictures, check the interior and exterior for damages, and ensure that there are no fluctuations in mileage or any other abnormalities. You must note all the damages to file a claim for damages with our insurance. After all the formalities, we will hand over your vehicle to you.
                     </p>
