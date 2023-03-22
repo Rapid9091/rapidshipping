@@ -128,7 +128,7 @@
                         overland or by sea. Boat transportation relieves the proprietor of time-consuming obligations
                         and the problematic physical tasks of transporting a large watercraft over long distances.
                         Overland costs for a 200-mile transport can cost between $450 and $500 at an average rate of
-                        $2.25 per mile for small vessels. This thorough handbook will explain how boat shipping works...
+                        $2.25 per mile for small vessels. This thorough handbook will explain how boat shipping works.
                     </p>
                     <img loading="lazy" style="width:100%"
                         src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/verification_qtasyq.jpg"
