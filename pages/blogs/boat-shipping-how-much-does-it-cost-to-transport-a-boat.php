@@ -182,7 +182,7 @@
 
                 <div class="new-blog-section-one">
                     <h3><span>How to Get a Boat Ready for Shipping?</span></h3>
-                    <p>Depending on the degree of service the boat transportation company provides, you may need to
+                    <p>Depending on the degree of service the <a href="https://rapidautoshipping.com/services/boat-shipping">boat transportation company</a> provides, you may need to
                         prepare your boat thoroughly, or the company may do the work for you.
                     </p>
                     <ul>
