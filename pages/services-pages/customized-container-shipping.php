@@ -16,29 +16,24 @@
     <meta property="og:url" content="https://rapidautoshipping.com/services/cutomized-container-shipping" />
     <meta property="og:site_name" content="Shipping Car In Container | shipping Container For Cars" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="shipping container garage, container modifications, customised shipping containers, how much does a 40ft shipping container weigh, containers for sale, shipping containers for sale in ga, 40'hc container, modified shipping containers, 40 shipping container weight, shipping container workshop, custom shipping containers, 40 foot shipping container weight, 40hc container, 53 containers, 53 container, shipping container modifications, 53 shipping container for sale, 53 high cube shipping container for sale, 40ft shipping container weight, 40 ft shipping container weight, shipping container garage, custom storage containers, shipping container roll up doors, custom containers" />
+    <meta name="keywords" content="shipping container garage, container modifications, customised shipping containers, how much does a 40ft shipping container weigh, containers for sale, shipping containers for sale in ga, modified shipping containers, shipping container workshop, custom shipping containers,  shipping container modifications,  shipping container garage, custom storage containers, shipping container roll up doors, custom containers" />
     <meta property="article:tag" content="shipping container garage" />
-    <meta property="article:tag" content="shipping container garage" />
-    <meta property="article:tag" content="shipping container garage" />
+    
     <meta property="article:tag" content="container modifications" />
     <meta property="article:tag" content="customised shipping containers" />
     <meta property="article:tag" content="how much does a 40ft shipping container weigh" />
     <meta property="article:tag" content="containers for sale" />
     <meta property="article:tag" content="shipping containers for sale in ga" />
-    <meta property="article:tag" content="40'hc container" />
+    
     <meta property="article:tag" content="modified shipping containers" />
-    <meta property="article:tag" content="40 shipping container weight" />
+    
     <meta property="article:tag" content="shipping container workshop" />
     <meta property="article:tag" content="custom shipping containers" />
-    <meta property="article:tag" content="40 foot shipping container weight" />
-    <meta property="article:tag" content="40hc container" />
-    <meta property="article:tag" content="53 containers" />
-    <meta property="article:tag" content="53 container" />
+    
+    
+   
     <meta property="article:tag" content="shipping container modifications" />
-    <meta property="article:tag" content="53 shipping container for sale" />
-    <meta property="article:tag" content="53 high cube shipping container for sale" />
-    <meta property="article:tag" content="40ft shipping container weight" />
-    <meta property="article:tag" content="40 ft shipping container weight" />
+    
     <meta property="article:tag" content="shipping container garage" />
     <meta property="article:tag" content="custom storage containers" />
     <meta property="article:tag" content="shipping container roll up doors" />
