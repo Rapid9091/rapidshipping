@@ -110,7 +110,7 @@
 
         <div class="line--div"></div>
 
-        <p>Choose the top-rated <b>vehicle shipping</b> and <b>car shipping</b> company in United States (USA). We are known for our excellent services for individuals or businesses. we provide services in all the states of America. You can check the <b><a href="<?= get_state() ?>">list of auto shipping states</a></b> we serve . If you are looking for car shipping services, we provide cheap and Affordable auto shipping services our services include instant auto shipping, door-to-door auto transport, open auto shipping, enclosed auto shipping and other<b><a href="<?= home_path() ?>services"> transport services</a></b>. Contact us for any kind of auto shipping services.
+        <p>Choose the top-rated <b>vehicle shipping</b> and <b>car shipping</b> company in United States (USA). We are known for our excellent services for individuals or businesses. we provide services in all the states of America. You can check the <b><a href="<?= get_state() ?>">list of auto shipping states</a></b> we serve . If you are looking for car shipping services, we provide cheap and Affordable auto shipping services our services include instant auto shipping, door-to-door auto transport, open auto shipping, enclosed auto shipping and other<b><a href="<?= home_path() ?>services"> transport services</a></b>. Contact us for any kind of auto shipping services.....
         </p>
 
         <div class="data-data" id="main-count">
