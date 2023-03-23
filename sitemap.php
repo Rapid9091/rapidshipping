@@ -81,7 +81,17 @@ echo '<?xml version="1.0" encoding="UTF-8" ?>';
 
         foreach ($state_page_list as $item) {
             $url = home_path() . "state-to-state" . "/" . $item['slug'];
-            get_row($url, "0.6");
+            $page_date = "2022-04-13T06:42:46+00:00";
+            if($item['state_id'] > 244){
+                $page_database = $item['add_on'];
+                $timeDateString = strtotime($page_database);
+                $year = date("Y-m-d", $timeDateString);
+                $time = date("H:i:s", $timeDateString);
+                $page_date = $year."T".$time."+00:00";
+            }
+            
+            // get_row($url, "0.6");
+            get_state_row($url, $page_date, "0.6");
         }
     }
 
@@ -101,6 +111,19 @@ function get_row($url, $priority)
     <url>
         <loc><?= $url ?></loc>
         <lastmod>2022-04-13T06:42:46+00:00</lastmod>
+        <priority><?= $priority ?></priority>
+    </url>
+
+<?php
+}
+
+function get_state_row($url, $lastmod, $priority)
+{
+?>
+
+    <url>
+        <loc><?= $url ?></loc>
+        <lastmod><?=$lastmod ?></lastmod>
         <priority><?= $priority ?></priority>
     </url>
 
