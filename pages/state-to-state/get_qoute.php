@@ -1,37 +1,24 @@
+<?php include_once "../../init.php"; ?>
 <?php
-// echo $ship_from = $_POST['ship_from'];
-// echo "<br>";
-// echo $ship_to = $_POST['ship_to'];
-// echo "<br>";
-// echo $transporttype = $_POST['transporttype'];
-// echo "<br>";
-
-// echo $year = $_POST['year'];
-// echo "<br>";
-// echo $make = $_POST['make'];
-// echo "<br>";
-// echo $models = $_POST['models'];
-// echo "<br>";
-// echo $vehicle_type = $_POST['vehicle_type'];
-// echo "<br>";
-
-// echo $username = $_POST['username'];
-// echo "<br>";
-// echo $user_email = $_POST['user_email'];
-// echo "<br>";
-// echo $pick_up_date = $_POST['pick_up_date'];
-// echo "<br>";
-// echo $phone_number = $_POST['phone_number'];
-// echo "<br>";
-// $qoute_id = rand(1,100000);
-// echo $qoute_id;
-// echo "<br>";
-// echo $route_distance = $_POST['path_distance'];
-
-?>
-
-<?php include_once "../../init.php";
-
+    if(isset($_POST['submit'])){
+        $ship_from = $_POST['ship_from'];
+        $ship_to = $_POST['ship_to'];
+        $transporttype = $_POST['transporttype'];
+        $year = $_POST['year'];
+        $make = $_POST['make'];
+        $models = $_POST['models'];
+        $vehicle_type = $_POST['vehicle_type'];
+        $username = $_POST['username'];
+        $user_email = $_POST['user_email'];
+        $pick_up_date = $_POST['pick_up_date'];
+        $phone_number = $_POST['phone_number'];
+        $qoute_id = rand(1,1000000);
+        $route_distance = $_POST['path_distance'];
+        
+    }
+    else{
+        header('LOCATION:'.home_path().'');
+    }
 ?>
 
 <!DOCTYPE html>
@@ -98,7 +85,7 @@
                         <td style="padding: 30px 30px 15px 30px" class="quote-cell">
                             <table border="0" cellpadding="0" cellspacing="0" width="100%" style="text-align: left">
                                 <tr>
-                                    <td style="padding: 0px 0 15px 0">Hi there,</td>
+                                    <td style="padding: 0px 0 15px 0">Hi <?= $username ?>,</td>
                                 </tr>
                                 <tr>
                                     <td style="padding: 0px 0 15px 0">
@@ -182,7 +169,7 @@
                         background-color: #ff5227;
                         color: #fff;
                       ">
-                                        Quote ID:<b>29122576</b>
+                                        Quote ID: <b><?= $qoute_id;?></b>
                                     </td>
                                 </tr>
                                 <tr>
@@ -202,7 +189,7 @@
                         width: 50%;
                         padding: 15px 15px 15px 0;
                       ">
-                                        <b> 01-30-2023 </b>
+                                        <b><?= $pick_up_date; ?></b>
                                     </td>
                                 </tr>
                                 <tr>
@@ -220,7 +207,7 @@
                         width: 60%;
                         padding: 15px 15px 15px 0;
                       ">
-                                        <b> 601 miles </b>
+                                        <b><?= $route_distance;?> </b>
                                     </td>
                                 </tr>
                                 <tr>
@@ -258,7 +245,7 @@
                         width: 60%;
                         padding: 15px 15px 15px 0;
                       ">
-                                        <b> 2013 Acura MDX (running) </b>
+                                        <b><?= $year." ".$make." ".$models; ?></b>
                                     </td>
                                 </tr>
 
@@ -279,7 +266,7 @@
                         width: 60%;
                         padding: 15px 15px 15px 0;
                       ">
-                                        <b> Washington, DC (20030) </b>
+                                        <b> <?= $ship_from;?> </b>
                                     </td>
                                 </tr>
                                 <tr>
@@ -297,7 +284,7 @@
                         width: 60%;
                         padding: 15px 15px 15px 0;
                       ">
-                                        <b> Loretto, KY (40037) </b>
+                                        <b> <?= $ship_to;?> </b>
                                     </td>
                                 </tr>
                                 <tr>
@@ -317,7 +304,7 @@
                         width: 60%;
                         padding: 15px 15px 15px 0;
                       ">
-                                        <b> Enclosed </b>
+                                        <b> <?= $transporttype ;?> </b>
                                     </td>
                                 </tr>
                                 <tr>
@@ -415,7 +402,7 @@
                         color: #ff5227;
                         font-size: 18px;
                         width: 60%;
-                        filter:blur(10px);
+                        
                         padding: 0 15px 0 0;
                         font-size: 28px;
                       ">

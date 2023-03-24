@@ -38,6 +38,7 @@ if (isset($_GET['page_id'])) {
     <link rel="stylesheet" href="<?= get_css(); ?>utility.css">
     <link rel="stylesheet" href="<?= get_css(); ?>car-key-section.css">
     <link rel="stylesheet" href="<?= get_css();?>new_state-to-state.css">
+    <link rel="stylesheet" href="<?= get_css();?>new-side-form.css">
     <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <!-- owl courosel -->
@@ -348,7 +349,7 @@ if (isset($_GET['page_id'])) {
         <div class="right-state-to-state-child" id="right-state-to-state-child">
            <div class="form_div">
              <?php
-                include small_form_new ;
+                include side_form_new ;
                 // include side_form;
              ?>
             </div>

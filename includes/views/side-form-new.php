@@ -3,22 +3,22 @@
     <img class="bb-img" src="<?= get_img()?>state-to-state/bb.png" alt="">
 
 
-    <div class="form-section-group active-form">
+    <div class="form-section-group_side active_form_side">
         <p>Get a Free</p>
         <p class="form-bold-heading"><span>Instant Quote</span></p>
 
 
         <div>
-            <label class="label-ship" for="form">Ship From</label>
+            <label class="label-ship" for="from">Ship From</label>
             <div>
-                <input type="text" id="form_des" class="input-ship" placeholder="Address or City" name="ship_from">
+                <input type="text" id="from" class="input-ship" placeholder="Address or City" name="ship_from">
             </div>
         </div>
 
         <div>
             <label for="to" class="label-ship">Ship To</label>
             <div>
-                <input type="text" class="input-ship" id="to_des" placeholder="Address or City" name="ship_to">
+                <input type="text" class="input-ship" id="to" placeholder="Address or City" name="ship_to">
 
             </div>
         </div>
@@ -27,13 +27,13 @@
             <label for="" class="label-ship">Transport Method</label>
             <div class="wrapper">
 
-                <input type="radio" name="transporttype" id="option-1" checked value="Open">
-                <input type="radio" name="transporttype" id="option-2" value="Enclosed">
-                <label for="option-1" class="option option-1">
+                <input type="radio" name="transporttype" id="open" checked value="Open">
+                <input type="radio" name="transporttype" id="enclosed" value="Enclosed">
+                <label for="open" class="option open">
                     <div class="dot"></div>
                     <span>Open</span>
                 </label>
-                <label for="option-2" class="option option-2">
+                <label for="enclosed" class="option enclosed">
                     <div class="dot"></div>
                     <span>Enclosed</span>
                 </label>
@@ -41,24 +41,24 @@
         </div>
 
         <div class="button-parent">
-            <input type="button" class="input-button" value="Get A Quote" onclick="steps(1)">
+            <input type="button" class="input-button" value="Get A Quote" onclick="steps_side(1)">
         </div>
 
     </div>
 
 
 
-    <div class="form-section-group">
+    <div class="form-section-group_side">
         <p>Get a Free</p>
         <p class="form-bold-heading">
             <span>Instant Quote</span>
         </p>
 
         <div>
-            <label class="label-ship" for="myInput">YEAR</label>
+            <label class="label-ship" for="year_side">YEAR</label>
             <div>
-                <input type="text" id="myInput3" class="input-ship" name="year" placeholder="Select an option"/>
-                <div id="myList3">
+                <input type="text" id="year_side" class="input-ship" name="year" placeholder="Select an option"/>
+                <div id="year_side">
                     <?php
                     $end_year = 1985;
                     $current_year = date("Y");
@@ -118,12 +118,12 @@
         </div>
 
         <div class="button-parent">
-            <input type="button" class="input-button" value="Last Step" onclick="steps(2)">
+            <input type="button" class="input-button" value="Last Step" onclick="steps_side(2)">
         </div>
 
     </div>
 
-    <div class="form-section-group">
+    <div class="form-section-group_side">
         <p class="form-bold-heading"><span>Shipping Details</span></p>
 
         <div>
