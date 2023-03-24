@@ -64,7 +64,7 @@ if (isset($_GET['page_id'])) {
         }
         .key-holding {
     margin: 2% 0;
-    background-image: url("<?= get_img();?>/car-key-22.jpg");
+    background-image: url("<?= get_img();?>/car-key-new1.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
