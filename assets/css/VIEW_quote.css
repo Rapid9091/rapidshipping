@@ -1,0 +1,100 @@
+@media all and (max-width: 599.99px) {
+    table[class="email"],
+    table[class="wrap-table"],
+    table[class="email-content"] {
+      clear: both;
+      width: 100% !important;
+    }
+    table td[class="quote-cell"] {
+      padding: 15px 15px 15px 15px !important;
+    }
+    .quote-cell {
+      padding: 15px 0 15px 0 !important;
+    }
+    .mobile-block {
+      display: block !important;
+    }
+  }
+  @media all and (min-width: 360px) {
+    .desktop-logo {
+      display: inline !important;
+    }
+  }
+  @media all and (max-width: 330px) {
+    .reviews-stars {
+      display: none !important;
+    }
+    .rating-cell {
+      font-size: 20px !important;
+    }
+    .reviews-count-cell {
+      font-size: 12px !important;
+    }
+  }
+  @media all and (max-width: 359.99px) {
+    .desktop-logo {
+      display: none !important;
+    }
+  }
+
+  h4 {
+    text-align: left;
+  }
+
+  @media screen {
+    .headerLineTitle {
+      width: 1.5in;
+      display: inline-block;
+      margin: 0in;
+      margin-bottom: 0.0001pt;
+      font-size: 11pt;
+      font-family: "Calibri", "sans-serif";
+      font-weight: bold;
+    }
+
+    .headerLineText {
+      display: inline;
+      margin: 0in;
+      margin-bottom: 0.0001pt;
+      font-size: 11pt;
+      font-family: "Calibri", "sans-serif";
+      font-weight: normal;
+    }
+
+    .pageHeader {
+      font-size: 14pt;
+      font-family: "Calibri", "sans-serif";
+      font-weight: bold;
+      visibility: hidden;
+      display: none;
+    }
+  }
+
+  @media print {
+    .headerLineTitle {
+      width: 1.5in;
+      display: inline-block;
+      margin: 0in;
+      margin-bottom: 0.0001pt;
+      font-size: 11pt;
+      font-family: "Calibri", "sans-serif";
+      font-weight: bold;
+    }
+
+    .headerLineText {
+      display: inline;
+      margin: 0in;
+      margin-bottom: 0.0001pt;
+      font-size: 11pt;
+      font-family: "Calibri", "sans-serif";
+      font-weight: normal;
+    }
+
+    .pageHeader {
+      font-size: 14pt;
+      font-family: "Calibri", "sans-serif";
+      font-weight: bold;
+      visibility: visible;
+      display: block;
+    }
+  }
