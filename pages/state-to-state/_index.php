@@ -521,7 +521,7 @@ if (isset($_GET['page_id'])) {
     <section class="all-state-name-page-mains" style="margin:4%;">
         <section class="all-state-name-pages">
             <h2 class="heading-1">
-                Autoshipping <span>States</span> in USA </h2>
+                Auto shipping <span>States</span> in USA </h2>
             <section class="all-state-name-grids-section">
                 <div class="all-state-name-grids">
                     <a href="<?= get_state() ?>/alabama" rel="dofollow">Alabama</a><br>
