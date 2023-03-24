@@ -53,10 +53,10 @@
                             <a href="https://twitter.com/ShippingRapid" target="_blank"><img loading="lazy" height="30" width="30" src="<?= get_img() ?>twitter-icon.png" alt="rapid auto shipping links"></a>
                         </div>
                         <div class="icon-holder-grid-1">
-                            <a href=" https://www.linkedin.com/in/rapid-auto-shipping-ba4593232/" target="_blank"><img loading="lazy" height="30" width="30" src="<?= get_img() ?>linkedin-icon.png" alt="rapid auto shipping links"></a>
+                            <a href="https://www.linkedin.com/in/rapid-auto-shipping-909217261/" target="_blank"><img loading="lazy" height="30" width="30" src="<?= get_img() ?>linkedin-icon.png" alt="rapid auto shipping links"></a>
                         </div>
                         <div class="icon-holder-grid-1">
-                            <a href="https://www.youtube.com/" target="_blank"><img loading="lazy" height="30" width="30" src="<?= get_img() ?>yt.png" alt="rapid auto shipping links"></a>
+                            <a href="https://www.youtube.com/@rapidautoshipping7218" target="_blank"><img loading="lazy" height="30" width="30" src="<?= get_img() ?>yt.png" alt="rapid auto shipping links"></a>
                         </div>
 
                     </div>
