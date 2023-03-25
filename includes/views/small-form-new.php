@@ -314,7 +314,7 @@
         </div>
         <input type="hidden" id="path_distance" name="path_distance" value="">
         <div class="button-parent">
-            <input type="submit" class="input-button" value="Last Step">
+            <input type="submit" class="input-button" value="Last Step" name="submit">
         </div>
 
     </div>
