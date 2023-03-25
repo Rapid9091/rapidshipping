@@ -71,7 +71,7 @@ if (isset($_GET['page_id'])) {
 }
 @media screen and (max-width: 600px) {
     .key-holding {
-        background-image: url("<?=get_img();?>car-key-22.jpg");
+        background-image: url("<?=get_img();?>car-key-new1.jpeg");
     }
 }
 .shipping-form-state-content p{
