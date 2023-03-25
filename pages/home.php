@@ -47,6 +47,18 @@
         .third-section>p>b>a {
             color: var(--nav-color) !important;
         }
+        .key-holding {
+    margin: 2% 0;
+    background-image: url("<?= get_img();?>/car-key-new1.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media screen and (max-width: 600px) {
+    .key-holding {
+        background-image: url("<?=get_img();?>car-key-new1.jpeg");
+    }
+}
     </style>
 
     <!-- schema sent by aniket -->
