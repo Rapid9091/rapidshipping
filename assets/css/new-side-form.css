@@ -257,7 +257,7 @@
     
     #myInput1,
     #myInput2,
-    #myInput3 {
+    #year_side_input {
       padding: 10px;
       border: 1px solid #ccc;
       cursor: pointer;
@@ -265,7 +265,7 @@
     
     #myList1,
     #myList2,
-    #year_side {
+    #yearList {
       display: none;
       position: absolute;
       width: 280px;
@@ -278,14 +278,14 @@
     
     #myList1 div,
     #myList2 div,
-    #year_side div {
+    #yearList div {
       padding: 10px;
       cursor: pointer;
     }
     
     #myList1 div:hover,
     #myList2 div:hover,
-    #year_side div:hover {
+    #yearList div:hover {
       background-color: #f2f2f2;
     }
     

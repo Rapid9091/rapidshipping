@@ -57,8 +57,8 @@
         <div>
             <label class="label-ship" for="year_side">YEAR</label>
             <div>
-                <input type="text" id="year_side" class="input-ship" name="year" placeholder="Select an option"/>
-                <div id="year_side">
+                <input type="text" id="year_side_input" class="input-ship" name="year" placeholder="Select an option"/>
+                <div id="yearList">
                     <?php
                     $end_year = 1985;
                     $current_year = date("Y");

@@ -210,9 +210,9 @@ var step_btn_parent_side = document.querySelectorAll(".form-section-group_side")
 
 // var models = document.getElementById("myInput2");
 
-// var input3 = document.getElementById("myInput3");
-// var list3 = document.getElementById("myList3");
-// var options3 = list3.getElementsByTagName("div");
+var year_side_input = document.getElementById("year_side_input");
+var yearList = document.getElementById("yearList");
+var year_options = yearList.getElementsByTagName("div");
 
 // var pathInMiles = document.getElementById("path_distance");
 
@@ -220,9 +220,9 @@ var step_btn_parent_side = document.querySelectorAll(".form-section-group_side")
 // list.style.display = "block";
 // });
 
-// input3.addEventListener("click", function () {
-// list3.style.display = "block";
-// });
+year_side_input.addEventListener("click", function () {
+  yearList.style.display = "block";
+});
 
 // input.addEventListener("input", function () {
 // var filter = input.value.toUpperCase();
@@ -238,19 +238,19 @@ var step_btn_parent_side = document.querySelectorAll(".form-section-group_side")
 // // list.style.display = "block";
 // });
 
-// input3.addEventListener("input", function () {
-// var filter = input3.value;
-// for (var i = 0; i < options3.length; i++) {
-// var option = options3[i];
-// var value = option.getAttribute("data-value");
-// if (value.indexOf(filter) > -1) {
-// option.style.display = "";
-// } else {
-// option.style.display = "none";
-// }
-// }
-// // list3.style.display = "block";
-// });
+year_side_input.addEventListener("input", function () {
+var filter = year_side_input.value;
+for (var i = 0; i < year_options.length; i++) {
+var option = year_options[i];
+var value = option.getAttribute("data-value");
+if (value.indexOf(filter) > -1) {
+option.style.display = "";
+} else {
+option.style.display = "none";
+}
+}
+// list3.style.display = "block";
+});
 
 // document.addEventListener("click", function (e) {
 // if (e.target != input && e.target.parentNode != list) {
@@ -258,11 +258,11 @@ var step_btn_parent_side = document.querySelectorAll(".form-section-group_side")
 // }
 // });
 
-// document.addEventListener("click", function (e) {
-// if (e.target != input3 && e.target.parentNode != list3) {
-// list3.style.display = "none";
-// }
-// });
+document.addEventListener("click", function (e) {
+if (e.target != year_side_input && e.target.parentNode != yearList) {
+  yearList.style.display = "none";
+}
+});
 
 // for (var i = 0; i < options.length; i++) {
 // var option = options[i];
@@ -273,13 +273,13 @@ var step_btn_parent_side = document.querySelectorAll(".form-section-group_side")
 // });
 // }
 
-// for (var i = 0; i < options3.length; i++) {
-// var option = options3[i];
-// option.addEventListener("click", function () {
-// input3.value = this.getAttribute("data-value");
-// list3.style.display = "none";
-// });
-// }
+for (var i = 0; i < year_options.length; i++) {
+var option = year_options[i];
+option.addEventListener("click", function () {
+  year_options.value = this.getAttribute("data-value");
+  yearList.style.display = "none";
+});
+}
 
 // // map direction service object
 // var directionsService = new google.maps.DirectionsService();
