@@ -214,6 +214,7 @@ div[class*="-data"]>p:nth-child(2) {
 }
 
 .trustbadeg-1 {
+    width: 100%;
     border-radius: 5px;
     padding: 10%;
     display: grid;
@@ -227,7 +228,8 @@ div[class*="-data"]>p:nth-child(2) {
 }
 
 .trustbadeg-1>img {
-    width: 80%
+    width: 80%;
+    height: auto;
 }
 
 .s-t-s-transport-quote-container-home {
