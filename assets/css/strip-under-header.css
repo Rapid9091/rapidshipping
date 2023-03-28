@@ -22,12 +22,9 @@
   font-size: 15px;
   letter-spacing: 0.4px;
 }
-.review-bar-under-header-grid-1-image{
-  max-width: 100%;
-}
-.review-bar-under-header-grid-1-image > img {
+
+.review-bar-under-header-grid-1 > img {
   height: 60px;
-  width: 60px;
 }
 
 @media screen and (max-width: 1000px) {
