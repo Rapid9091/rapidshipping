@@ -19,7 +19,7 @@
         $insert_query = "INSERT INTO form_qoute (username, email, phone, ship_from, ship_to, t_method, year, make, model, vehicle_size, vehicle_type, pickup_date, distance, qoute_id) values ('$username','$user_email', '$phone_number', '$ship_from', '$ship_to', '$transporttype', '$year', '$make', '$models', '$vehicle_size', '$vehicle_type', '$pick_up_date', '$route_distance', '$qoute_id')";
         $insert_qoute = mysqli_query($con, $insert_query) or die("insert_query_failed");
         if($insert_qoute){
-            $to = "harry.pksolution13@gmail.com";
+            $to = "info@rapidautoshipping.com , amankeshari5937@gmail.com, ".$user_email;
             $subject = "Qoute from Rapid";
             
             $message = '
@@ -255,7 +255,7 @@
                         width: 60%;
                         padding: 15px 15px 15px 0;
                       ">
-                                        <b> <?= $ship_from;?> </b>
+                                        <b>'.$ship_from.'</b>
                                     </td>
                                 </tr>
                                 <tr>
