@@ -125,6 +125,7 @@ $('#myList1 div').on('click', function(){
   list.style.display = "none";
   var specialCategories = ['MotorCycle', 'ATV'];
   if($.inArray(input.value, specialCategories) > -1){
+    vehicle_size_input.value = input.value;
     $('#vehicle_size_div').css('display', 'none');
   }else{
     $('#vehicle_size_div').css('display', 'block');
