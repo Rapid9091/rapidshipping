@@ -153,7 +153,7 @@
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>Vehicle Transportation Services When Moving</span></h2>
+                    <h3><span>Vehicle Transportation Services When Moving</span></h3>
                     <p>Rapid Auto Shipping is dedicated to giving our customers a highly competent and personalized standard of service. We have a reputation for providing on-time and excellent client service, and we promise that our chauffeurs will be capable, courteous, and well-trained.
                         <br><br>
                         Rapid Shipping Auto is an excellent choice for first-rate service seven days a week, 24 hours a day, 365 days a year, and it will be at the top of the results when you look for transport services close to me.
@@ -162,7 +162,7 @@
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>About The Transport Services Offered To Luxury Vehicle Owners</span></h2>
+                    <h3><span>About The Transport Services Offered To Luxury Vehicle Owners</span></h3>
                     <p>Rapid Auto Shipping specializes in vehicle shipping for luxury cars, trucks, and SUVs, but we can handle much more. Always contact us first because we can arrange car shipping services for vehicles such as trailers, luxury cars, dual-wheel trucks, cargo trucks, and oversized cars needing flatbed or lowboy shipping.
                         <br><br>
                         Ensure you have the measurements of any large vehicle you want to send on hand, as we will need them before we can give you a transportation car services estimate. For bigger cars, the vehicle's length, breadth, height, and weight are usually required for an accurate auto transport estimate. Then, call us immediately to receive a vehicle shipping estimate or to book your transportation car services.
@@ -171,7 +171,7 @@
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>The Advantages Of Using Rapid Auto Shipping To Ship Your Car</span></h2>
+                    <h3><span>The Advantages Of Using Rapid Auto Shipping To Ship Your Car</span></h3>
                     <p>
                         <b>LONG DISTANCE TRAVEL:</b> Pick up in one of the towns mentioned below and transport to any location. In addition, we can take you to neighboring cities, airports, and tourist attractions if your pickup location is in one of the places we serve.
                         <br><br>
@@ -184,14 +184,14 @@
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>How Much Does It Cost?</span></h2>
+                    <h3><span>How Much Does It Cost?</span></h3>
                     <p>Due to the numerous variables that influence the cost of car transportation, even an in-state trip of fewer than 500 miles using the cheapest choice can cost more than $700. However, as the distance traveled rises, car transportation costs decline (from around $3 per mile to $0.35 per mile if you travel more than 1,500 miles).
                     </p>
                 </div>
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>Transportation Car Services Quotes</span></h2>
+                    <h3><span>Transportation Car Services Quotes</span></h3>
                     <p>
                         Fill out the vehicle transport price form above or phone (833) 233-4447 to get an immediate shipping cost to send a car or any other vehicle.
                         <br><br>
@@ -202,7 +202,7 @@
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span> Excellent Customer Service</span></h2>
+                    <h3><span> Excellent Customer Service</span></h3>
                     <p>
                         Rapid Auto Shipping has cared for some of the world's most valuable automobiles for over a decade. If you need your vehicle transported, we have the knowledge and experience to ensure it comes in perfect shape, on time, and with no hidden fees.
                         <br><br>
@@ -213,7 +213,7 @@
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span> Get The Car Ready For Take Off</span></h2>
+                    <h4><span> Get The Car Ready For Take Off</span></h4>
                     <p>
                         Get free instant vehicle shipping estimates at the top of this website. You can be confident that every auto transport business we work with is licensed, insured, and ready to meet your vehicle transportation requirements. 
                         <br><br>
@@ -228,7 +228,7 @@
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>Tracking Auto Transportation</span></h2>
+                    <h4><span>Tracking Auto Transportation</span></h4>
                     <p>
                         We have an easy-to-use web monitoring system accessible 24 hours a day, seven days a week. This real-time monitoring update is given to you, displaying the vehicle's current location. Input your distinctive booking number, which was given to you during scheduling when asked. You can also monitor your cargo by phone.
                         <br><br>
@@ -239,7 +239,7 @@
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>Can I transport items in my vehicle?</span></h2>
+                    <h4><span>Can I transport items in my vehicle?</span></h4>
                     <p>Most car shipping firms will enable you to place a single piece of luggage with personal items carrying no more than 100 pounds in your vehicle's trunk. Because many car trailers have a stringent maximum weight restriction, whether or not you are permitted to add more weight relies on the carrier transporting your vehicle. The shipper's insurance does not cover items inside your vehicle.
                    
                     </p>
