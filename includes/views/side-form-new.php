@@ -72,10 +72,10 @@
         </div>
 
         <div>
-            <label class="label-ship" for="myInput">MAKE</label>
+            <label class="label-ship" for="make_side_input">MAKE</label>
             <div>
-                <input type="text" id="myInput1" class="input-ship" name="make" placeholder="Select an option" />
-                <div id="myList1">
+                <input type="text" id="make_side_input" class="input-ship" name="make" placeholder="Select an option" />
+                <div id="make_side_list">
                     <div data-value="Abarth">Abarth</div>
                     <div data-value="Ac">Ac</div>
                     <div data-value="Ace">Ace</div>
@@ -94,7 +94,7 @@
         <div>
             <label class="label-ship" for="myInput">MODELS</label>
             <div>
-                <input type="text" id="myInput2" name="models" class="input-ship" placeholder="Type Manually"/>
+                <input type="text" id="models" name="models" class="input-ship" placeholder="Type Manually"/>
             </div>
         </div>
 
@@ -103,14 +103,14 @@
         <div>
             <label for="" class="label-ship">Vehicle Type</label>
             <div class="wrapper">
-                <input type="radio" name="vehicle_type" id="option-3" checked value="Running">
-                <input type="radio" name="vehicle_type" id="option-4" value="Not Running">
+                <input type="radio" name="vehicle_type" id="running" checked value="Running">
+                <input type="radio" name="vehicle_type" id="not_running" value="Not Running">
 
-                <label for="option-3" class="option option-3">
+                <label for="running" class="option running">
                     <div class="dot"></div>
                     <span>Running</span>
                 </label>
-                <label for="option-4" class="option option-4">
+                <label for="not_running" class="option not_running">
                     <div class="dot"></div>
                     <span>Not Running</span>
                 </label>
@@ -152,11 +152,11 @@
             <div>
                 <label class="label-ship" for="phone">PHONE NUMBER</label>
 
-                <input class="input-ship" id="phone" type="text" name="phone_number" pattern="\(\d{3}\)\s\d{3}-\d{4}" inputmode="decimal" title="Enter a valid phone number." placeholder="( _ _ _ ) _ _ _ - _ _ _ _"   maxlength="15" onkeydown="phoneNumberformatter()">
+                <input class="input-ship" id="phone_side" type="text" name="phone_number" pattern="\(\d{3}\)\s\d{3}-\d{4}" inputmode="decimal" title="Enter a valid phone number." placeholder="( _ _ _ ) _ _ _ - _ _ _ _"   maxlength="15" onkeydown="phoneNumberformatterSide()">
 
             </div>
         </div>
-        <input type="hidden" id="path_distance" name="path_distance" value="">
+        <input type="hidden" id="path_distance_side" name="path_distance" value="">
         <div class="button-parent">
             <input type="submit" class="input-button" value="Last Step" name="submit">
         </div>

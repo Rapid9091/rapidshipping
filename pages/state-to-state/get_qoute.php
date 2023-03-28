@@ -7,6 +7,7 @@
         $year = $_POST['year'];
         $make = $_POST['make'];
         $models = $_POST['models'];
+        $vehicle_size = $_POST['vehicle_size'];
         $vehicle_type = $_POST['vehicle_type'];
         $username = $_POST['username'];
         $user_email = $_POST['user_email'];
@@ -14,6 +15,12 @@
         $phone_number = $_POST['phone_number'];
         $qoute_id = rand(1,1000000);
         $route_distance = $_POST['path_distance'];
+        
+        $insert_query = "INSERT INTO form_qoute (username, email, phone, ship_from, ship_to, t_method, year, make, model, vehicle_size, vehicle_type, pickup_date, distance, qoute_id) values ('$username','$user_email', '$phone_number', '$ship_from', '$ship_to', '$transporttype', '$year', '$make', '$models', '$vehicle_size', '$vehicle_type', '$pick_up_date', '$route_distance', '$qoute_id')";
+        $insert_qoute = mysqli_query($con, $insert_query) or die("insert_query_failed");
+        if($insert_qoute){
+            echo "inserted";
+        }
         
     }
     else{
@@ -230,6 +237,7 @@
                                         <b> 3-5 calendar days </b>
                                     </td>
                                 </tr>
+                                
                                 <tr>
                                     <td width="40%" align="left" style="
                         text-align: left;
@@ -245,7 +253,25 @@
                         width: 60%;
                         padding: 15px 15px 15px 0;
                       ">
-                                        <b><?= $year." ".$make." ".$models; ?></b>
+                                        <b><?= $year." ".$make." ".$models;?></b>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="40%" align="left" style="
+                        text-align: left;
+                        text-transform: uppercase;
+                        width: 40%;
+                        padding: 15px 0 15px 15px;
+                      ">
+                                        Vehicle Size / Vehicle Type :
+                                    </td>
+                                    <td width="60%" align="right" style="
+                        text-align: right;
+                        font-size: 18px;
+                        width: 60%;
+                        padding: 15px 15px 15px 0;
+                      ">
+                                        <b><?= $vehicle_size." ". $vehicle_type;?></b>
                                     </td>
                                 </tr>
 

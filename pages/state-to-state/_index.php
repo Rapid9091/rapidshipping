@@ -684,6 +684,7 @@ if (isset($_GET['page_id'])) {
 
         const domain = "https://rapidautoshipping.com/";
     </script> -->
+   <script src="<?= get_js("small_form_new.js") ?>"></script>
    <script src="<?= get_js("side_form_new.js") ?>"></script>
 
 
