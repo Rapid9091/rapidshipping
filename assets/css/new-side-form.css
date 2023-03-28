@@ -136,21 +136,21 @@
     }
     #open:checked:checked ~ .open,
     #enclosed:checked:checked ~ .enclosed,
-    #option-3:checked:checked ~ .option-3,
-    #option-4:checked:checked ~ .option-4 {
+    #running:checked:checked ~ .running,
+    #not_running:checked:checked ~ .not_running {
       border-color: #ff5227;
       background: #ff5227;
     }
     #open:checked:checked ~ .open .dot,
     #enclosed:checked:checked ~ .enclosed .dot,
-    #option-3:checked:checked ~ .option-3 .dot,
-    #option-4:checked:checked ~ .option-4 .dot {
+    #running:checked:checked ~ .running .dot,
+    #not_running:checked:checked ~ .not_running .dot {
       background: #fff;
     }
     #open:checked:checked ~ .open .dot::before,
     #enclosed:checked:checked ~ .enclosed .dot::before,
-    #option-3:checked:checked ~ .option-3 .dot::before,
-    #option-4:checked:checked ~ .option-4 .dot::before {
+    #running:checked:checked ~ .running .dot::before,
+    #not_running:checked:checked ~ .not_running .dot::before {
       opacity: 1;
       transform: scale(1);
     }
@@ -160,8 +160,8 @@
     }
     #open:checked:checked ~ .open span,
     #enclosed:checked:checked ~ .enclosed span,
-    #option-3:checked:checked ~ .option-3 span,
-    #option-4:checked:checked ~ .option-4 span {
+    #running:checked:checked ~ .running span,
+    #not_running:checked:checked ~ .not_running span {
       color: #fff;
     }
     
@@ -255,7 +255,7 @@
       margin: 0 auto;
     }
     
-    #myInput1,
+    #make_side_input,
     #myInput2,
     #year_side_input {
       padding: 10px;
@@ -263,7 +263,7 @@
       cursor: pointer;
     }
     
-    #myList1,
+    #make_side_list,
     #myList2,
     #yearList {
       display: none;
@@ -276,14 +276,14 @@
       z-index: 1;
     }
     
-    #myList1 div,
+    #make_side_list div,
     #myList2 div,
     #yearList div {
       padding: 10px;
       cursor: pointer;
     }
     
-    #myList1 div:hover,
+    #make_side_list div:hover,
     #myList2 div:hover,
     #yearList div:hover {
       background-color: #f2f2f2;
