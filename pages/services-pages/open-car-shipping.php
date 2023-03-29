@@ -87,7 +87,7 @@
                     What's in this article?
                 </h2>
                 <ul class="points-div-ul">
-                    <li><a href="#1">Is open auto transport a <strong><a href="<?= home_path() ?>blogs/cheapest-way-to-ship-a-car">cheapest way to ship a car </a></strong>?</a></li>
+                    <li><a href="#1">Is open auto transport a cheapest way to ship a car</a></li>
                     <li><a href="#2">What is the distinction between open and enclosed trailers?</a></li>
                     <li><a href="#3">What is the cost of open auto transport?</a></li>
                     <li><a href="#4">What are the benefits of using an open auto carrier?</a></li>
@@ -106,7 +106,7 @@
                     <li id="1">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Is <span>Open Auto Transport</span> A Cheapest Way To Ship A Car?</h2>
-                            <p class="para-2"> Open car shipping is by far the most cheapest way to ship a car. This will be confirmed by our car transportation calculator.
+                            <p class="para-2"> Open car shipping is by far the most <a href="<?= home_path() ?>blogs/cheapest-way-to-ship-a-car">cheapest way to ship a car</a>. This will be confirmed by our car transportation calculator.  
                                 <br>
                                 Because car transporters can fit more cars at a time, open transport car shipping is less expensive than enclosed auto transport. This means that a vehicle's expense is shared by a larger number of shippers, resulting in a lower cost. Furthermore, because the majority of car transporters are open carriers, there are more of them on the road, making booking considerably easier and faster. At Nationwide Auto Transportation, we do everything we can to assist carriers in filling their trucks, ensuring that our loyal customers receive the best available pricing.
                             </p>
