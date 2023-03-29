@@ -149,6 +149,7 @@
                         anticipate paying more if you're moving during the summer. -->
                         You can get an estimate for transporting your vehicle by using the quick online car shipping rate calculator above or by calling car transport cost experts. They will need to know the place you are shipping from and to, the sort of car you want to ship, and the date your vehicle will be available to compute your quote.
                     </p>
+                    <img style="width:100%" src="..//assets/images/Shipping-Car-to-Alaska.jpeg" alt="Shipping Car to Alaska">
                 </div>
             </div>
 
@@ -169,7 +170,7 @@
                         <br><br>
                         Some auto shipping companies offer door-to-door vehicle transportation for those who do not have the opportunity to drive down to the harbor. This will be the most expensive and rugged choice for shipping your vehicle to Alaska. Third-party Alaskan transportation firms are frequently used to move your vehicle from the port to your new residence. Always read the small print in any contract to find out who is liable for relocating your car if absent.
                     </p>
-
+                    <img style="width:100%" src="..//assets/images/Shipping Car to Alaska Services.jpeg" alt="Shipping Car to Alaska Services">
                 </div>
             </div>
             <div class="affordable-ways-page-grid-content-1">
