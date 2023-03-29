@@ -134,7 +134,7 @@
                     <br>
                     <p>Large buses are transported from the United States using roll on roll off shipping vehicles. Buses, in many instances, will not fit inside a  cargo container. Buses can also be carried onto ships and transported abroad in large containers for safety.</p>
                     <br>
-                    <p>Individuals can move big cars from one place to another using heavy equipment carriers and oversized transit services. In addition, the auto shipping company has years of experience transporting buses for customers throughout the United States and  Canada.</p>
+                    <p>Individuals can move big cars from one place to another using <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping">heavy equipment carriers</a> and oversized transit services. In addition, the auto shipping company has years of experience transporting buses for customers throughout the United States and  Canada.</p>
                     <br>
                     <p>To arrange bus freight transportation services, contact one of their representatives. They can assist you in developing a customized strategy with an accurate bus freight estimate. In addition, the auto shipping company will guide you through the entire mailing procedure to ensure you have the most fantastic experience possible!</p>
                     
@@ -154,7 +154,7 @@
                     <p>Standard maritime transportation can range from $1,000  to $10,000. It would help if you also considered the cost of landing fees, taxation, and other financial considerations.
                     </p>
                     <br>
-                    <p>The simplest method to determine the exact cost of shipping a bus overseas is to speak with an experienced heavy machinery international transportation expert. This is because many factors must be considered when determining the cost of overseas or nationwide shipping work.  In addition, many specialists are accessible at their shipping and hauling business to address your inquiries.</p>
+                    <p>The simplest method to determine the exact cost of shipping a bus overseas is to speak with an experienced heavy machinery <a href="https://rapidautoshipping.com/blogs/international-car-shipping-tips">international transportation</a> expert. This is because many factors must be considered when determining the cost of overseas or nationwide shipping work.  In addition, many specialists are accessible at their shipping and hauling business to address your inquiries.</p>
                    
                 </div>
 
@@ -165,7 +165,7 @@
                     </p><br>
                     <p>Car shipping companies' heavy transportation specialists can ship ambulances, trailers, trucks, buses, vehicles, flatbeds, pickups, and other large items. You may also be relieved to learn that shipping a car to Hawaii can be less costly than shipping it abroad. Transportation expenses are likely cheaper if you send a bus from somewhere in the  United States to Hawaii.</p>
                     <br>
-                    <p>Many people have recently started renovating school buses and converting them into adaptable movable residences similar to RVs. What better location than the beautiful state of Hawaii to reside in one of these rolling homes? If you have a bus that you deem a personal car, shipping it to Hawaii will be no problem for us.
+                    <p>Many people have recently started renovating school buses and converting them into adaptable movable residences similar to RVs. What better location than the beautiful state of Hawaii to reside in one of these rolling homes? If you have a bus that you deem a personal car, <a href="https://rapidautoshipping.com/states/hawaii">shipping it to Hawaii</a> will be no problem for us.
                     </p>
                     <img loading="lazy" style="width:100%"
                         src="..//assets/images/public transport bus service.jpeg"
