@@ -131,7 +131,7 @@
                     </p>
                     <img loading="lazy" style="width:100%"
                         src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831357/RapidAutoShipping/auto-transport-open_igwdt5.jpg"
-                        alt="Dallas Auto transport">
+                        alt="fifth-wheel-transport-services">
                 </div>
             </div>
 
