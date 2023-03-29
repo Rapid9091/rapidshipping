@@ -156,7 +156,7 @@
                     </p>
                     <img loading="lazy" style="width:100%"
                         src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/verification_qtasyq.jpg"
-                        alt="Best fifth-wheel-transport-services">
+                        alt="5th wheel delivery service">
 
                 </div>
             </div>
