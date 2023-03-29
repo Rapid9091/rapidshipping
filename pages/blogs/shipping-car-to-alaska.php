@@ -89,7 +89,8 @@
         <?php
         $NAME = "The Best Way Of Shipping Car To Alaska ";
         $PARAGRAPH = "It might be challenging to locate a firm that offers shipping car to Alaska, as several vehicle movers only serve the lower 48 states. To simplify things, they'll walk you through shipping car to Alaska before considering average pricing and supplier suggestions. 
-        Because it usually entails an ocean journey, car transport to Alaska is more complex than standard shipping. Your vehicle is put onto a ship on the West Coast, usually in Seattle or Tacoma, and then sailed to Anchorage.";
+        Because it usually entails an ocean journey, car transport to Alaska is more complex than standard shipping. Your vehicle is put onto a ship on the West Coast, usually in Seattle or Tacoma, and then sailed to Anchorage." 
+        ;
         include small_form;
         ?>
     </div>
@@ -101,7 +102,7 @@
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span>How Does Shipping Car To Alaska operate?</span></h2>
-                    <p>First and foremost, you should be aware that two choices are available when properly transporting your car or vehicle from the continent to Alaska: land ( <a href="https://rapidautoshipping.com/services/door-to-door">door to door</a> ) or water (port to port). But there's a problem. At some time or another, cargo bound for Alaska may have to travel by both land and water. This is done in a different sequence depending on where you are sending from and which region of Alaska you are shipping to.</p>
+                    <p>First and foremost, you should be aware that two choices are available when properly transporting your car or vehicle from the continent to Alaska: land (door to door) or water (port to port). But there's a problem. At some time or another, cargo bound for Alaska may have to travel by both land and water. This is done in a different sequence depending on where you are sending from and which region of Alaska you are shipping to.</p>
                 </div>
             </div>
             <div class="affordable-ways-page-grid-content-1">
@@ -129,7 +130,7 @@
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
                     <h2><span>How Much Does It Cost to Shipping Car to Alaska?</span></h2>
-                    <p>The <a href="https://rapidautoshipping.com/blogs/cost-to-ship-a-car">cost of shipping car</a> to Alaska will vary based on variables, including where the vehicle is shipped from, where the vehicle is going in Alaska, the type of transport (or transport) required, and the size and weight of your vehicle. Anchorage is the most frequent location for car shipping from around the United States due to the size of its port, and most companies will either only send to and from Anchorage or will broker a deal with a second transport company to get your vehicle to and from Anchorage to other areas of Alaska.
+                    <p>The cost of shipping car to Alaska will vary based on variables, including where the vehicle is shipped from, where the vehicle is going in Alaska, the type of transport (or transport) required, and the size and weight of your vehicle. Anchorage is the most frequent location for car shipping from around the United States due to the size of its port, and most companies will either only send to and from Anchorage or will broker a deal with a second transport company to get your vehicle to and from Anchorage to other areas of Alaska.
                         <br><br>
                         The biggest supplier of container transportation across the Pacific Ocean, charges between $2,000 and $3,000 for vehicle shipment from Tacoma to Anchorage. This does not include the cost of transporting your vehicle to Tacoma or Anchorage, based on where you commence.
                         <br><br>
@@ -155,7 +156,7 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h3><span>Verify Any Costs associated With The Payment Option</span></h3>
+                    <h2><span>Verify Any Costs associated With The Payment Option</span></h2>
                     <p>The majority of car transport company take all payment methods. These consist of currency, notes, and credit and debit cards. However, some companies will charge you an additional cost if you pay with a card. Make sure to find out from the business what financing methods they take. Ask if there will be an additional fee for the method of payment you choose.
                         <br><br>
                         Before they come to collect your vehicle, many auto shipping companies will charge you a deposit fee. The charge will be deducted from your final bill when bringing the vehicle. The majority of shippers provide a 100% refundable fee.                  </p>
@@ -163,7 +164,7 @@
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h3><span>Options For Vehicle Drop-Off And Pickup</span></h3>
+                    <h2><span>Options For Vehicle Drop-Off And Pickup</span></h2>
                     <p>Most shipping companies provide door to port and port to port car delivery services. The business picks up your vehicle from anywhere in the U.S. from door to port, and you collect it at the Alaska port. 
                         <br><br>
                         Port to port means delivering your vehicle to a port on the continent and collecting it at the Alaska port. Door to port shipping is typically more costly due to the greater transportation distance and more challenging logistics.
@@ -175,9 +176,9 @@
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h3><span>Ground Transportation: Enclosed vs. Open</span></h3>
+                    <h2><span>Ground Transportation: Enclosed vs. Open</span></h2>
                     <p>You will typically have two choices for ground transportation during any portion of the trip on the ground:  <br><br>
-                        Auto shipping company provides three different <a href="https://rapidautoshipping.com/services/car-transport-quotes">vehicle transportation estimate</a> levels. The
+                        Auto shipping company provides three different vehicle transportation estimate levels. The
                             standard cost is the most affordable vehicle shipping estimate, but arriving may take
                             longer. However, if you're diligent, you can use it.
                             <br><br>
@@ -189,7 +190,7 @@
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h4><span>Container Shipping vs. "Roll on, Roll off"</span></h4>
+                    <h2><span>Container Shipping vs. "Roll on, Roll off"</span></h2>
                     <p>You have two choices for ship shipping ways as well. Rolling on, rolling off, or RoRo is when you drive your vehicle straight onto the vessel and secure it to the ship deck. Although your vehicle will be inside the ship (and thus shielded from the elements), it will be open to the interior and parked among many other automobiles.
                         <br><br>
                         When the ship arrives at its location, it will be driven off the ship and into the harbor. This mode of transportation is most commonly used for smaller ferry journeys between Alaskan areas that cannot load and offload conventional cargo containers. RoRo is also less costly in general than giant container transportation.
