@@ -124,8 +124,8 @@
                     <p>Auto shipping company prioritizes the safety of their clients and consumers when they entrust them with their vehicles. They want you to feel secure knowing that a highly dependable and trustworthy business handles your bus transportation. When you travel with an auto shipping company,  you must feel safe. Their expertise over the years has given them trust in their bus shipping services. A crew of meticulously chosen professionals who excel at their jobs makes up the auto shipping company. They ensure that everything about the bus transporting procedure proceeds according to plan. The auto shipping company is dedicated to providing only the finest shipping services!
                     </p>
                     <img loading="lazy" style="width:100%"
-                        src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/verification_qtasyq.jpg"
-                        alt="Auto transport carries">
+                        src="..//assets/images/bus transportation services.jpeg"
+                        alt="bus transportation services">
                 </div>
                 <div class="new-blog-section-one">
                     <h2><span>WHAT IS THE PROCESS OF BUS SHIPPING?</span></h2>
@@ -134,7 +134,7 @@
                     <br>
                     <p>Large buses are transported from the United States using roll on roll off shipping vehicles. Buses, in many instances, will not fit inside a  cargo container. Buses can also be carried onto ships and transported abroad in large containers for safety.</p>
                     <br>
-                    <p>Individuals can move big cars from one place to another using heavy equipment carriers and oversized transit services. In addition, the auto shipping company has years of experience transporting buses for customers throughout the United States and  Canada.</p>
+                    <p>Individuals can move big cars from one place to another using <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping">heavy equipment carriers</a> and oversized transit services. In addition, the auto shipping company has years of experience transporting buses for customers throughout the United States and  Canada.</p>
                     <br>
                     <p>To arrange bus freight transportation services, contact one of their representatives. They can assist you in developing a customized strategy with an accurate bus freight estimate. In addition, the auto shipping company will guide you through the entire mailing procedure to ensure you have the most fantastic experience possible!</p>
                     
@@ -145,9 +145,7 @@
                     <p>Auto Shipping Company recognizes that bus transportation needs vary depending on the sort of bus, location, and timeframe. As a result, their bus transportation services are highly adaptable. For example, an auto shipping company can provide the necessary tools to securely load and secure your big, inoperable bus onto a suitable-sized trailer if you have one. The auto shipping company can also handle minor bus transport requests by assisting with loading and unloading, offering door to door bus shipment, and customizing their cargo monitoring so you can watch the progress of your bus transport.</p>
                     <br>
                     <p>No matter where you are, an Auto transport company can help you get a bus on the road swiftly and safely. The auto transport company will strive to ensure that all plans are reached on time, and that bus transportation services can be arranged quickly.</p>
-                    <img loading="lazy" style="width:100%"
-                        src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666090070/insurance-img_kthtmn.jpg"
-                        alt="Authorized car shipping company">
+                   
                 </div>
 
 
@@ -156,8 +154,8 @@
                     <p>Standard maritime transportation can range from $1,000  to $10,000. It would help if you also considered the cost of landing fees, taxation, and other financial considerations.
                     </p>
                     <br>
-                    <p>The simplest method to determine the exact cost of shipping a bus overseas is to speak with an experienced heavy machinery international transportation expert. This is because many factors must be considered when determining the cost of overseas or nationwide shipping work.  In addition, many specialists are accessible at their shipping and hauling business to address your inquiries.</p>
-
+                    <p>The simplest method to determine the exact cost of shipping a bus overseas is to speak with an experienced heavy machinery <a href="https://rapidautoshipping.com/blogs/international-car-shipping-tips">international transportation</a> expert. This is because many factors must be considered when determining the cost of overseas or nationwide shipping work.  In addition, many specialists are accessible at their shipping and hauling business to address your inquiries.</p>
+                   
                 </div>
 
 
@@ -167,9 +165,11 @@
                     </p><br>
                     <p>Car shipping companies' heavy transportation specialists can ship ambulances, trailers, trucks, buses, vehicles, flatbeds, pickups, and other large items. You may also be relieved to learn that shipping a car to Hawaii can be less costly than shipping it abroad. Transportation expenses are likely cheaper if you send a bus from somewhere in the  United States to Hawaii.</p>
                     <br>
-                    <p>Many people have recently started renovating school buses and converting them into adaptable movable residences similar to RVs. What better location than the beautiful state of Hawaii to reside in one of these rolling homes? If you have a bus that you deem a personal car, shipping it to Hawaii will be no problem for us.
+                    <p>Many people have recently started renovating school buses and converting them into adaptable movable residences similar to RVs. What better location than the beautiful state of Hawaii to reside in one of these rolling homes? If you have a bus that you deem a personal car, <a href="https://rapidautoshipping.com/states/hawaii">shipping it to Hawaii</a> will be no problem for us.
                     </p>
-
+                    <img loading="lazy" style="width:100%"
+                        src="..//assets/images/public transport bus service.jpeg"
+                        alt="public transport bus service">
                 </div>
 
 
@@ -177,9 +177,7 @@
                     <h4><span>CALL TODAY FOR A FREE ACCURATE QUOTE!</span></h4>
                     <p>Whether you need a bus freight estimate, information on shipping a  school bus abroad, or a walkthrough of bus freight transit procedures,  their knowledgeable agents can help. In addition, the auto shipping company will assist you in locating an effective and time-saving answer for your particular bus transportation needs!
                     </p>
-                    <img loading="lazy" style="width:100%"
-                        src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667470700/Recent%20Uploads/Document-Sign-Contract-Signing-Man-Write-Paper-5710164_shjsfq.jpg"
-                        alt="Paperwork for car shipping">
+                   
 
                 </div>
 

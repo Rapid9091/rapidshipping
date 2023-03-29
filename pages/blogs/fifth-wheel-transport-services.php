@@ -131,7 +131,7 @@
                     </p>
                     <img loading="lazy" style="width:100%"
                         src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831357/RapidAutoShipping/auto-transport-open_igwdt5.jpg"
-                        alt="Dallas Auto transport">
+                        alt="fifth-wheel-transport-services">
                 </div>
             </div>
 
@@ -156,7 +156,7 @@
                     </p>
                     <img loading="lazy" style="width:100%"
                         src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/verification_qtasyq.jpg"
-                        alt="Best Dallas auto transport company">
+                        alt="5th wheel delivery service">
 
                 </div>
             </div>
@@ -199,7 +199,7 @@
                         </span></h2>
                     <img loading="lazy" style="width:100%"
                         src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/businessman-working-with-documentation-desk_qyfwwo.jpg"
-                        alt="Dallas car shipping">
+                        alt="fifth-wheel-transport-services">
                     <br><br>
                     <p>
                         Like most other heavy hauling tasks, fifth wheel RV transfer is usually paid per mile. For the
