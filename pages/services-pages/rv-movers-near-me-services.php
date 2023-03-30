@@ -55,6 +55,15 @@
         .third-section-state {
             background-color: rgb(0, 0, 0, 0.6) !important;
         }
+        .heading-1{
+            color: #ff5722;
+        }
+        b{
+            color: #f8744c;
+        }
+        a{
+           color:rgb(82, 82, 224)
+        }
     </style>
 </head>
 
