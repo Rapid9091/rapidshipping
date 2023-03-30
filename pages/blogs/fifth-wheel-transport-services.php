@@ -108,7 +108,7 @@
                         has become synonymous with the style of the trailer rather than the type of connection. After
                         all, Hoovers are vacuum cleaners, but not all are Hoovers! A fifth wheel transport business
                         excels in providing transportation choices using the fifth wheel coupling to attach trailers and
-                        cars to cabs safely. It is more than just a business that gives RV transportation.</p>
+                        cars to cabs safely. It is more than just a business that gives <a href="https://rapidautoshipping.com/services/rv-transport">RV transportation</a>.</p>
                 </div>
             </div>
             <div class="affordable-ways-page-grid-content-1">
@@ -163,7 +163,7 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>The Most Effective 5th Wheel Shipping Options</span></h2>
+                    <h3><span>The Most Effective 5th Wheel Shipping Options</span></h3>
                     <p>
                         Shipping companies take pleasure in offering 5th wheel transportation. They make sure to locate
                         the most seasoned driver and the finest truck accessible. Fifth wheel shipping is ideal for
@@ -177,7 +177,7 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>Ask about their motor carrier number</span></h2>
+                    <h3><span>Ask about their motor carrier number</span></h3>
                     <p>
                         Companies that transport vehicles must be registered as motor carriers with the US Department of
                         Transportation in order to operate in the country. If not, they are conducting business
@@ -195,14 +195,14 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>What Is the Cost of Fifth Wheel RV Transport?
-                        </span></h2>
+                    <h4><span>What Is the Cost of Fifth Wheel RV Transport?
+                        </span></h4>
                     <img loading="lazy" style="width:100%"
                         src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/businessman-working-with-documentation-desk_qyfwwo.jpg"
                         alt="fifth-wheel-transport-services">
                     <br><br>
                     <p>
-                        Like most other heavy hauling tasks, fifth wheel RV transfer is usually paid per mile. For the
+                        Like most other <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping">heavy hauling tasks</a>, fifth wheel RV transfer is usually paid per mile. For the
                         first 100 miles, you should spend around $4 per mile, but longer trips will have a reduced
                         per-mile cost. This can range from $1 to $3 per mile for cross-country transportation.
                         <br><br> Aside from the per-mile rate and overall distance of fifth wheel transport, the
@@ -225,7 +225,7 @@
 
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>WHAT DOES EQUIPMENT SHIPMENT VIA FIFTH WHEEL TRANSPORTATION </span></h2>
+                    <h4><span>WHAT DOES EQUIPMENT SHIPMENT VIA FIFTH WHEEL TRANSPORTATION </span></h4>
                     <p>
                         Fifth wheel shipping is a flexible mode of conveyance. Whether hauling roadworthy machinery or
                         transporting a trailer. Calling one of their transportation experts is the best method to
@@ -238,7 +238,7 @@
             </div>
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
-                    <h2><span>PREMIUM FIFTH WHEEL TRANSPORTATION</span></h2>
+                    <h4><span>PREMIUM FIFTH WHEEL TRANSPORTATION</span></h4>
                     <p>
                         Auto Shipping Company has the knowledge and experience to devise the most efficient strategy for
                         transporting your fifth wheel to its location safely and on schedule. From container
