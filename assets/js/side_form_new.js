@@ -175,32 +175,32 @@ for (var i = 0; i < vehicle_side_size_options.length; i++) {
 var directionsService_side = new google.maps.DirectionsService();
 
 /////////define calcRoute function
-function calcRoute_side() {
- var route_status_side;
- var path_distance_side;
-//create request
+// function calcRoute_side() {
+//  var route_status_side;
+//  var path_distance_side;
+// //create request
 
-var request_side = {
-origin: document.getElementById("from").value,
-destination: document.getElementById("to").value,
-travelMode: google.maps.TravelMode.DRIVING, //WALKING, BYCYCLING, TRANSIT
-unitSystem: google.maps.UnitSystem.IMPERIAL,
-};
+// var request_side = {
+// origin: document.getElementById("from").value,
+// destination: document.getElementById("to").value,
+// travelMode: google.maps.TravelMode.DRIVING, //WALKING, BYCYCLING, TRANSIT
+// unitSystem: google.maps.UnitSystem.IMPERIAL,
+// };
 
-//pass the request to the route method
-directionsService_side.route(request_side, function (result, status) {
-if (status == google.maps.DirectionsStatus.OK) {
-  path_distance_side = result.routes[0].legs[0].distance.text;
-  console.log(path_distance_side);
-  pathInMiles_side.value = path_distance_side;
-  route_status_side = true;
-} else {
-  console.log('not ok');
-  route_status = false;
- }
-});
-console.log(route_status);
-}
+// //pass the request to the route method
+// directionsService_side.route(request_side, function (result, status) {
+// if (status == google.maps.DirectionsStatus.OK) {
+//   path_distance_side = result.routes[0].legs[0].distance.text;
+//   console.log(path_distance_side);
+//   pathInMiles_side.value = path_distance_side;
+//   route_status_side = true;
+// } else {
+//   console.log('not ok');
+//   route_status = false;
+//  }
+// });
+// console.log(route_status);
+// }
 
 function form_validation_side(step) {
 var status = false;
@@ -236,9 +236,24 @@ if (form_validation_side(step) != true) {
   toast.error("Please Fill Destination");
    }
    else{
-     remove_active_side();
-     step_btn_parent_side[step].classList.add("active_form_side");         
-    //  calcRoute_side();
+    step_one_btn_side.value = "Wait..";
+    var request = {
+      origin: document.getElementById("from").value,
+      destination: document.getElementById("to").value,
+      travelMode: google.maps.TravelMode.DRIVING, //WALKING, BYCYCLING, TRANSIT
+      unitSystem: google.maps.UnitSystem.IMPERIAL,
+      };
+      directionsService_side.route(request, function (result, status) {
+      if (status == google.maps.DirectionsStatus.OK) {
+        pathInMiles_side.value = result.routes[0].legs[0].distance.text;
+        step_one_btn_side.value = "Get A Quote";
+        remove_active_side();
+        step_btn_parent_side[step].classList.add("active_form_side");
+      } else {
+        toast.error("Destination not found");
+        step_one_btn_side.value = "Get A Quote";
+       }
+      });
   }
 
 }
