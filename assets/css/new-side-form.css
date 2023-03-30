@@ -313,6 +313,35 @@
       background-color: #f2f2f2;
     }
     
+  .side_form_new_call_btn_div{
+    margin: 15px 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .side_form_new_call_btn{
+    padding: 10px 10px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+    outline: none;
+    font-weight: 500;
+    color: #fff;
+    /* background-color: #ff5227; */
+    background-color: transparent;
+    transition: 0.4s;
+    /* border: 0.5px solid #d0d0d0; */
+    border: 2px solid #ff5227;
+    border-radius: 25px;
+    width: 80%;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  .side_form_new_call_btn a{
+    color: #ff5227;
+  }
+
     @media screen and (max-width: 1350px) {
       .form-section > .form-section-group_side {
         width: 100%;

@@ -56,7 +56,7 @@
                             <td style="padding: 30px 30px 15px 30px" class="quote-cell">
                                 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="text-align: left">
                                     <tr>
-                                        <td style="padding: 0px 0 15px 0">Hi, '.$username.'<br>Thank you for your interest in shipping your vehicle
+                                        <td style="padding: 0px 0 15px 0">Hi, <b>'.$username.'</b><br>Thank you for your interest in shipping your vehicle
                                             with
                                             <b style="color: #ff5527">Rapid Auto Shipping</b>.
                                         </td>
@@ -213,28 +213,7 @@
                                             </b>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td width="50%" align="left" style="
-                        background: #f2f2f2;
-                        text-align: left;
-                        text-transform: uppercase;
-                        width: 50%;
-                        padding: 15px 0 15px 15px;
-                      ">
-                                            Phone Number:
-                                        </td>
-                                        <td width="50%" align="right" style="
-                        background: #f2f2f2;
-                        text-align: right;
-                        font-size: 18px;
-                        width: 50%;
-                        padding: 15px 15px 15px 0;
-                      ">
-                                            <b>
-                                                '.$phone_number.'
-                                            </b>
-                                        </td>
-                                    </tr>
+                                    
                                     <tr>
                                         <td width="40%" align="left" style="
                         text-align: left;

@@ -205,5 +205,15 @@
         </div>
 
     </div>
+    <div class="customer-face-section" style="display:flex;justify-content:center;align-items:center;">
+                    <img src="<?= get_img() ?>customer-faces.png" style="height:40px;" loading="lazy" alt="Rapid Auto Shipping" />
+                    <p style="color:#808080; font-size:12px; text-align:center;">
+                        <span style="color:#ff5722;font-weight:bold;"> 2035</span>
+                        people shipped using<br>
+                        <span style="color:#ff5722;font-weight:bold;"> Rapid Auto Shipping</span>
+                        last week
+                    </p>
+
+                </div>
 
 </form>
