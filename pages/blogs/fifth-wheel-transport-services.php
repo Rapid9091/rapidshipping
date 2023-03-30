@@ -108,7 +108,7 @@
                         has become synonymous with the style of the trailer rather than the type of connection. After
                         all, Hoovers are vacuum cleaners, but not all are Hoovers! A fifth wheel transport business
                         excels in providing transportation choices using the fifth wheel coupling to attach trailers and
-                        cars to cabs safely. It is more than just a business that gives <a href="https://rapidautoshipping.com/services/rv-transport">RV transportation</a>.</p>
+                        cars to cabs safely. It is more than just a business that gives <a href="https://rapidautoshipping.com/services/rv-transport" target="_blank">RV transportation</a>.</p>
                 </div>
             </div>
             <div class="affordable-ways-page-grid-content-1">
@@ -202,7 +202,7 @@
                         alt="fifth-wheel-transport-services">
                     <br><br>
                     <p>
-                        Like most other <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping">heavy hauling tasks</a>, fifth wheel RV transfer is usually paid per mile. For the
+                        Like most other <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping" target="_blank">heavy hauling tasks</a>, fifth wheel RV transfer is usually paid per mile. For the
                         first 100 miles, you should spend around $4 per mile, but longer trips will have a reduced
                         per-mile cost. This can range from $1 to $3 per mile for cross-country transportation.
                         <br><br> Aside from the per-mile rate and overall distance of fifth wheel transport, the
