@@ -99,34 +99,39 @@
             </div>
         </div>
         <div id="vehicle_size_div">
-            <label class="label-ship" for="vehicle_size">Vehicle Size</label>
+            <label class="label-ship" for="vehicle_size_input">Vehicle Size</label>
             <div>
                 <input type="text" id="vehicle_size_input" class="input-ship" name="vehicle_size"
                     placeholder="Select an option" />
                 <div id="vehicle_size_list">
                     <div style="display:flex; flex-wrap:wrap;" id="vehicle_list_div">
-                        <div data-value="Small Car"><img src="<?=get_img()?>cars_icon/small_car.png" alt="small car">Small Car
+                    <div data-value="Small Car"><img src="<?=get_img()?>cars_icon/small-car.png" alt="small car">Small Car
                         </div>
-                        <div data-value="Midsize Car"><img src="<?=get_img()?>cars_icon/small_car.png" alt="small car">Midsize Car
+                        <div data-value="Midsize Car"><img src="<?=get_img()?>cars_icon/midsize-car.png" alt="midsize-car">Midsize Car
                         </div>
-                        <div data-value="Large Car"><img src="<?=get_img()?>cars_icon/small_car.png" alt="small car">Large Car
+                        <div data-value="Large Car"><img src="<?=get_img()?>cars_icon/large-car.png" alt="large-car">Large Car
                         </div>
-                        <div data-value="Sports Car"><img src="<?=get_img()?>cars_icon/small_car.png" alt="small car">Sports Car
+                        <div data-value="Sports Car"><img src="<?=get_img()?>cars_icon/sports-car.png" alt="sports-car">Sports Car
                         </div>
-                        <div data-value="Small SUV"><img src="<?=get_img()?>cars_icon/small_car.png" alt="small car">Small SUV
+                        <div data-value="Small SUV"><img src="<?=get_img()?>cars_icon/small-suv.png" alt="small-suv">Small SUV
                         </div>
-                        <div data-value="Midsize SUV"><img src="<?=get_img()?>cars_icon/small_car.png" alt="small car">Midsize SUV
+                        <div data-value="Midsize SUV"><img src="<?=get_img()?>cars_icon/midsize-suv.png" alt="midsize-suv">Midsize SUV
                         </div>
-                        <div data-value="Large SUV"><img src="<?=get_img()?>cars_icon/small_car.png" alt="small car">Large SUV
+                        <div data-value="Large SUV"><img src="<?=get_img()?>cars_icon/large-suv.png" alt="large-suv">Large SUV
                         </div>
-                        <div data-value="HyperCar"><img src="<?=get_img()?>cars_icon/small_car.png" alt="small car">HyperCar
+                        <div data-value="HyperCar"><img src="<?=get_img()?>cars_icon/hypercar.png" alt="hypercar">HyperCar
                         </div>
-                        <div data-value="Mini-van"><img src="<?=get_img()?>cars_icon/small_car.png" alt="small car">Mini-van
+                        <div data-value="Mini-van"><img src="<?=get_img()?>cars_icon/mini-van.png" alt="mini-van">Mini-van
                         </div>
-                        <div data-value="Medium Pickup"><img src="<?=get_img()?>cars_icon/small_car.png"
-                                alt="small car">Medium Pickup</div>
-                        <div data-value="Medium Pickup"><img src="<?=get_img()?>cars_icon/small_car.png"
-                                alt="small car">Medium Pickup</div>
+                        <div data-value="Medium Pickup"><img src="<?=get_img()?>cars_icon/medium-pickup.png" alt="medium-pickup">Medium Pickup</div>
+                        <div data-value="Large Pickup"><img src="<?=get_img()?>cars_icon/large-pickup.png" alt="Large Pickup">Large Pickup</div>
+                        <div data-value="FullSize Van"><img src="<?=get_img()?>cars_icon/fullsize-van.png" alt="FullSize Van">FullSize Van</div>
+                        <div data-value="Travel Trailer"><img src="<?=get_img()?>cars_icon/travel-trailer.png" alt="Travel Trailer">Travel Trailer</div>
+                        <div data-value="Boat Trailer"><img src="<?=get_img()?>cars_icon/boat-trailer.png" alt="Boat Trailer">Boat Trailer</div>
+                        <div data-value="Golf Cart"><img src="<?=get_img()?>cars_icon/golf-cart.png" alt="Golf Cart">Golf Cart</div>
+                        <div data-value="Dually Pickup"><img src="<?=get_img()?>cars_icon/dually-pickup.png" alt="Dually Pickup">Dually Pickup</div>
+                        <div data-value="MotorCycle"><img src="<?=get_img()?>cars_icon/motorcycle.png" alt="MotorCycle">MotorCycle</div>
+                        <div data-value="Other"><img src="<?=get_img()?>cars_icon/others.png" alt="other">Other</div>
                     </div>
                 </div>
             </div>
@@ -163,21 +168,21 @@
         <p class="form-bold-heading"><span>Shipping Details</span></p>
 
         <div>
-            <label class=" label-ship" for="myInput">NAME</label>
+            <label class=" label-ship" for="username_small">NAME</label>
             <div>
                 <input type="text" id="username_small" name="username" class="input-ship" placeholder="Your Name" />
 
             </div>
         </div>
         <div>
-            <label class=" label-ship" for="myInput">SEND A QUOTE TO THIS EMAIL</label>
+            <label class=" label-ship" for="usermail_small">SEND A QUOTE TO THIS EMAIL</label>
             <div>
                 <input type="email" id="usermail_small" name="user_email" class="input-ship" placeholder="Your Email" />
 
             </div>
         </div>
         <div>
-            <label class="label-ship" for="myInput">FIRST AVAILABLE PICK-UP DATE</label>
+            <label class="label-ship" for="pick_up_date_small">FIRST AVAILABLE PICK-UP DATE</label>
             <div>
                 <input type="date" id="pick_up_date_small" name="pick_up_date" class="input-ship" min="<?php echo date('Y-m-d');?>" placeholder="Select Date" />
 
@@ -188,7 +193,7 @@
             <div>
                 <label class="label-ship" for="phone">PHONE NUMBER</label>
 
-                <input class="input-ship" id="phone" type="text" name="phone_number" pattern="\(\d{3}\)\s\d{3}-\d{4}"
+                <input class="input-ship" id="phone_small" type="text" name="phone_number" pattern="\(\d{3}\)\s\d{3}-\d{4}"
                     inputmode="decimal" title="Enter a valid phone number." placeholder="( _ _ _ ) _ _ _ - _ _ _ _"
                     maxlength="15" onkeydown="phoneNumberformatter()" required>
 
@@ -200,5 +205,15 @@
         </div>
 
     </div>
+    <div class="customer-face-section" style="display:flex;justify-content:center;align-items:center;">
+                    <img src="<?= get_img() ?>customer-faces.png" style="height:40px;" loading="lazy" alt="Rapid Auto Shipping" />
+                    <p style="color:#808080; font-size:12px; text-align:center;">
+                        <span style="color:#ff5722;font-weight:bold;"> 2035</span>
+                        people shipped using<br>
+                        <span style="color:#ff5722;font-weight:bold;"> Rapid Auto Shipping</span>
+                        last week
+                    </p>
+
+                </div>
 
 </form>

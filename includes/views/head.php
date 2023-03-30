@@ -22,7 +22,7 @@
 
 <link rel="stylesheet" href="<?= get_css(); ?>VIEW_review-section.css">
 
-<link rel="shortcut icon" href="<?= get_img('favicon-orange.png') ?>" />
+<link rel="shortcut icon" href="<?= get_img('favicon_rapid.ico') ?>" />
 <!-- meta link -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 

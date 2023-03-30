@@ -175,6 +175,7 @@ for (var i = 0; i < vehicle_size_options_small.length; i++) {
   //   });
   //   }  
 
+
 // map direction service object
 var directionsService = new google.maps.DirectionsService();
 
@@ -293,13 +294,13 @@ return `(${phone_number.slice(0, 3)}) ${phone_number.slice(3, 6)}-${phone_number
 }
 
 function phoneNumberformatter(){
-var input_phone_number = document.getElementById("phone");
+var input_phone_number = document.getElementById("phone_small");
 var formatted_input_value = format_phone_value(input_phone_number.value);
 return input_phone_number.value = formatted_input_value;
 }
 
 function final_validation(){
-  if(username_small.value.length !=0 && usermail.value.length !=0 && pick_up_date_small.value.length !=0 && phone.value.length !=0){
+  if(username_small.value.length !=0 && usermail_small.value.length !=0 && pick_up_date_small.value.length !=0 && phone_small.value.length !=0){
     return true;
   }
   else{
