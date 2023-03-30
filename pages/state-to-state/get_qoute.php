@@ -35,7 +35,7 @@
                     <tr>
                         <td align="center" style="padding: 0 15px 10px 15px">
                             <img src="https://rapidautoshipping.com/assets/images/coloured-logo.jpg"
-                                alt="SGT Auto. Transport" width="auto" height="50" style="display: block" />
+                                alt="Rapid Auto Transport" width="auto" height="50" style="display: block" />
                         </td>
                     </tr>
                     <tr>
@@ -53,22 +53,74 @@
                     </tr>
                     <tr>
                         <td style="padding: 30px 30px 15px 30px" class="quote-cell">
-                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="text-align: left">
-                                <tr>
-                                    <td style="padding: 0px 0 15px 0">Hi '.$username.',</td>
-                                </tr>
-                                <tr>
-                                    <td style="padding: 0px 0 15px 0">
-                                        Thank you for your interest in shipping your vehicle with
-                                        <b style="color: #ff5527">Rapid Auto Shipping</b>.
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td style="">
-                                        Please, find your personalized quote below which includes:
-                                    </td>
-                                </tr>
-                            </table>
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="text-align: left">
+                        <tr>
+                            <td style="padding: 0px 0 15px 0">Hi '.$username.' , <br>Thank you for your interest in shipping your vehicle with
+                                <b style="color: #ff5527">Rapid Auto Shipping</b>.</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="
+                background: #f2f2f2;
+                font-size: 22px;
+                text-align: center;
+                padding: 30px 15px;
+              ">
+                                <span style="font-weight: bold; color: #000000 !important">A Dedicated Agent have been appointed with the Expertise of Several Years in this Specific Route. <br> Please Call or Chat Now for the Exact Quote.</span> <br><br>
+                                    <div style="
+                  display: inline-block;
+                  width: 220px;
+                  text-align: center;
+                ">
+                                    <a href="tel:+1-833-233-4447" style="
+                    background: #fff;
+                    width: fit-content;
+                    border: 2px solid #ff5227;
+                    font-size: 18px;
+                    border-radius: 4px;
+                    padding: 10px 16px;
+                    display: inline-block;
+                    color: #ff5227 !important;
+                    cursor: pointer;
+                    text-decoration: none;
+                    box-sizing: border-box;
+                    white-space: nowrap;
+                  ">
+                                        <span style="color: #ff5227 !important"><b>Call</b> +1 (833)
+                                            233-4447</span>
+                                    </a>
+                                </div> <br><br>
+                                <div style="
+                  display: inline-block;
+                  width: fit-content;
+                  text-align: center;
+                ">
+                                    <a href="https://tawk.to/chat/61cd6c5dc82c976b71c415f2/1fo56ukbg"
+                                        target="_blank" style="
+                    background: #fff;
+                    width: fit-content;
+                    border: 2px solid #ff5227;
+                    font-size: 18px;
+                    border-radius: 4px;
+                    padding: 10px 16px;
+                    display: inline-block;
+                    color: #ff5227 !important;
+                    cursor: pointer;
+                    text-decoration: none;
+                    box-sizing: border-box;
+                  ">
+                                        <span style="color: #ff5227 !important"><b>Chat</b> with us</span>
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style=""> <br>
+                                Please, find your personalized quote below which includes:
+                            </td>
+                            
+                        </tr>
+                        
+                    </table>
                         </td>
                     </tr>
                     <tr>
@@ -719,7 +771,11 @@
 
     <?php include head; ?>
     
+    <link rel="stylesheet" href="<?= get_css(); ?>VIEW_header.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
     <link rel="stylesheet" href="<?= get_css(); ?>VIEW_quote.css">
+    
     <!-- animation css link   -->
 
 
@@ -727,7 +783,7 @@
 
 <body>
     <!-- this is header -->
-    
+    <?php include header; ?>
 
 <section style="
       
@@ -744,7 +800,7 @@
                     <tr>
                         <td align="center" style="padding: 0 15px 10px 15px">
                             <img src="https://rapidautoshipping.com/assets/images/coloured-logo.jpg"
-                                alt="SGT Auto. Transport" width="auto" height="50" style="display: block" />
+                                alt="Rapid Auto Shipping" width="auto" height="50" style="display: block" />
                         </td>
                     </tr>
                     <tr>
@@ -764,19 +820,71 @@
                         <td style="padding: 30px 30px 15px 30px" class="quote-cell">
                             <table border="0" cellpadding="0" cellspacing="0" width="100%" style="text-align: left">
                                 <tr>
-                                    <td style="padding: 0px 0 15px 0">Hi <?= $username ?>,</td>
+                                    <td style="padding: 0px 0 15px 0">Hi <?= $username ?>, <br>Thank you for your interest in shipping your vehicle with
+                                        <b style="color: #ff5527">Rapid Auto Shipping</b>.</td>
                                 </tr>
                                 <tr>
-                                    <td style="padding: 0px 0 15px 0">
-                                        Thank you for your interest in shipping your vehicle with
-                                        <b style="color: #ff5527">Rapid Auto Shipping</b>.
+                                    <td colspan="2" style="
+                        background: #f2f2f2;
+                        font-size: 22px;
+                        text-align: center;
+                        padding: 30px 15px;
+                      ">
+                                        <span style="font-weight: bold; color: #000000 !important">A Dedicated Agent have been appointed with the Expertise of Several Years in this Specific Route. <br> Please Call or Chat Now for the Exact Quote.</span> <br><br>
+                                            <div style="
+                          display: inline-block;
+                          width: 220px;
+                          text-align: center;
+                        ">
+                                            <a href="tel:+1-833-233-4447" style="
+                            background: #fff;
+                            width: fit-content;
+                            border: 2px solid #ff5227;
+                            font-size: 18px;
+                            border-radius: 4px;
+                            padding: 10px 16px;
+                            display: inline-block;
+                            color: #ff5227 !important;
+                            cursor: pointer;
+                            text-decoration: none;
+                            box-sizing: border-box;
+                            white-space: nowrap;
+                          ">
+                                                <span style="color: #ff5227 !important"><b>Call</b> +1 (833)
+                                                    233-4447</span>
+                                            </a>
+                                        </div> <br><br>
+                                        <div style="
+                          display: inline-block;
+                          width: fit-content;
+                          text-align: center;
+                        ">
+                                            <a href="https://tawk.to/chat/61cd6c5dc82c976b71c415f2/1fo56ukbg"
+                                                target="_blank" style="
+                            background: #fff;
+                            width: fit-content;
+                            border: 2px solid #ff5227;
+                            font-size: 18px;
+                            border-radius: 4px;
+                            padding: 10px 16px;
+                            display: inline-block;
+                            color: #ff5227 !important;
+                            cursor: pointer;
+                            text-decoration: none;
+                            box-sizing: border-box;
+                          ">
+                                                <span style="color: #ff5227 !important"><b>Chat</b> with us</span>
+                                            </a>
+                                        </div>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td style="">
+                                    <td style=""> <br>
                                         Please, find your personalized quote below which includes:
                                     </td>
+                                    
                                 </tr>
+                                
                             </table>
                         </td>
                     </tr>
@@ -830,9 +938,13 @@
                                         </span>
                                         <span style="color: #ff5227; font-weight: bold">Door-to-door transport</span>
                                     </td>
+                                    
                                 </tr>
+                               
+                                
                             </table>
                         </td>
+                        
                     </tr>
                     <tr>
                         <td style="background-color: #ffffff; padding: 0 30px 0 30px" class="quote-cell">
@@ -1043,46 +1155,7 @@
                                         <b> Already Included </b>
                                     </td>
                                 </tr>
-                                <tr>
-                                    <td width="40%" align="left" style="
-                        text-align: left;
-                        text-transform: uppercase;
-                        width: 40%;
-                        padding: 15px 0 15px 15px;
-                      ">
-                                        Regular Price:
-                                    </td>
-                                    <td width="60%" align="right" style="
-                        text-align: right;
-                        font-size: 18px;
-                        width: 60%;
-                        filter:blur(10px);
-                        padding: 15px 15px 15px 0;
-                      ">
-                                        <b> $1255 </b>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td width="40%" align="left" style="
-                        background: #f2f2f2;
-                        text-align: left;
-                        text-transform: uppercase;
-                        width: 40%;
-                        padding: 15px 0 15px 15px;
-                      ">
-                                        Discounted Price:
-                                    </td>
-                                    <td width="60%" align="right" style="
-                        background: #f2f2f2;
-                        text-align: right;
-                        font-size: 18px;
-                        width: 60%;
-                        filter:blur(10px);
-                        padding: 15px 15px 15px 0;
-                      ">
-                                        <b> $1185 </b>
-                                    </td>
-                                </tr>
+                                
 
                                 <tr>
                                     <td width="40%" align="left" style="
@@ -1175,6 +1248,7 @@
                         font-size: 24px;
                         text-align: center;
                         padding: 5px 0 5px 0;
+                        text-align: center;
                       ">
                                         <div style="
                           display: inline-block;
@@ -1183,7 +1257,7 @@
                         ">
                                             <a href="tel:+1-833-233-4447" style="
                             background: #fff;
-                            width: 220px;
+                            width: fit-content;
                             border: 2px solid #ff5227;
                             font-size: 18px;
                             border-radius: 4px;
@@ -1193,6 +1267,7 @@
                             cursor: pointer;
                             text-decoration: none;
                             box-sizing: border-box;
+                            white-space: nowrap;
                           ">
                                                 <span style="color: #ff5227 !important"><b>Call</b> +1 (833)
                                                     233-4447</span>
@@ -1209,13 +1284,13 @@
                       ">
                                         <div style="
                           display: inline-block;
-                          width: 220px;
+                          width: fit-content;
                           text-align: center;
                         ">
-                                            <a href="https://rapidautoshipping.com/quote/29122576?action=chat"
+                                            <a href="https://tawk.to/chat/61cd6c5dc82c976b71c415f2/1fo56ukbg"
                                                 target="_blank" style="
                             background: #fff;
-                            width: 220px;
+                            width: fit-content;
                             border: 2px solid #ff5227;
                             font-size: 18px;
                             border-radius: 4px;
@@ -1431,11 +1506,7 @@
                                         This email was sent to you from Rapid Auto Shipping.
                                     </td>
                                 </tr>
-                                <tr>
-                                    <td>
-                                        © 2016 - 2023 Copyright: <b>Rapid Auto Shipping Corp.</b>
-                                    </td>
-                                </tr>
+                                
                             </table>
                         </td>
                     </tr>
@@ -1445,11 +1516,26 @@
     </table>
 </section>
    
+<script src="<?= get_assets(); ?>/js/header.js"></script>
+<!-- for fonts link   -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-
-    <script>
-
-    </script>
+   <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/61cd6c5dc82c976b71c415f2/1fo56ukbg';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+</script>
+<!--End of Tawk.to Script-->
 
 
 </body>

@@ -99,7 +99,7 @@
             </div>
         </div>
         <div id="vehicle_size_div">
-            <label class="label-ship" for="vehicle_size">Vehicle Size</label>
+            <label class="label-ship" for="vehicle_size_input">Vehicle Size</label>
             <div>
                 <input type="text" id="vehicle_size_input" class="input-ship" name="vehicle_size"
                     placeholder="Select an option" />
@@ -163,21 +163,21 @@
         <p class="form-bold-heading"><span>Shipping Details</span></p>
 
         <div>
-            <label class=" label-ship" for="myInput">NAME</label>
+            <label class=" label-ship" for="username_small">NAME</label>
             <div>
                 <input type="text" id="username_small" name="username" class="input-ship" placeholder="Your Name" />
 
             </div>
         </div>
         <div>
-            <label class=" label-ship" for="myInput">SEND A QUOTE TO THIS EMAIL</label>
+            <label class=" label-ship" for="usermail_small">SEND A QUOTE TO THIS EMAIL</label>
             <div>
                 <input type="email" id="usermail_small" name="user_email" class="input-ship" placeholder="Your Email" />
 
             </div>
         </div>
         <div>
-            <label class="label-ship" for="myInput">FIRST AVAILABLE PICK-UP DATE</label>
+            <label class="label-ship" for="pick_up_date_small">FIRST AVAILABLE PICK-UP DATE</label>
             <div>
                 <input type="date" id="pick_up_date_small" name="pick_up_date" class="input-ship" min="<?php echo date('Y-m-d');?>" placeholder="Select Date" />
 
@@ -188,7 +188,7 @@
             <div>
                 <label class="label-ship" for="phone">PHONE NUMBER</label>
 
-                <input class="input-ship" id="phone" type="text" name="phone_number" pattern="\(\d{3}\)\s\d{3}-\d{4}"
+                <input class="input-ship" id="phone_small" type="text" name="phone_number" pattern="\(\d{3}\)\s\d{3}-\d{4}"
                     inputmode="decimal" title="Enter a valid phone number." placeholder="( _ _ _ ) _ _ _ - _ _ _ _"
                     maxlength="15" onkeydown="phoneNumberformatter()" required>
 

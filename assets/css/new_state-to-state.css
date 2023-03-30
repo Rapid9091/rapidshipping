@@ -414,10 +414,12 @@
     padding: 10px;
     cursor: pointer;
   }
-  #vehicle_size_list div div{
+  #vehicle_list_div div{
     display: flex;
     max-width: 100px;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     font-size: 12px;
     color: var(--nav-color);
     padding: 10px 20px;
@@ -427,7 +429,7 @@
   #myList1 div:hover,
   #models_list_small div:hover,
   #myList3 div:hover,
-  #vehicle_size_list div div:hover {
+  #vehicle_list_div div:hover {
     background-color: #f2f2f2;
   }
   
