@@ -115,7 +115,7 @@
                     <li><a href="#7">Trucking Companies Near Me Services</a></li>
                     <li><a href="#8">About the trucking company's services Offered to Luxury Vehicle Owners</a></li>
                     <li><a href="#9">The Advantages of Using Trucking Companies Near Me</a></li>
-                    <li><a href="#10">How Much Does It Cost From Best Trucking Companies Near ME?</a></li>
+                    <li><a href="#10">How Much Does It Cost From Best Trucking Companies Near Me?</a></li>
 
                 </ul>
             </div>
@@ -131,7 +131,7 @@
                                 are prepared to assist in getting this critical freight transported to locations across
                                 the country.
                                 <br><br>
-                                <b></b>Refrigerated Shipping: The requirement to keep temperature-sensitive freight
+                                <b>Refrigerated Shipping:</b> The requirement to keep temperature-sensitive freight
                                 chilled while in transportation. It makes a difference, and our team works hard to
                                 maintain this sensitive equilibrium during shipping.
                                 <br><br>
@@ -155,7 +155,7 @@
                         </div>
                         <div class="shipping-form-state-image">
                             <img loading="lazy"
-                                src="..//assets/images/trucking-company-near-me.jpg"
+                                src="<?=get_img();?>trucking-company-near-me.jpg"
                                 alt="trucking company near me" />
 
                         </div>
@@ -319,7 +319,7 @@
                     </li>
                     <li id="10">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">How Much Does It Cost From Best Trucking Companies Near ME?</h2>
+                            <h2 class="heading-1">How Much Does It Cost From Best Trucking Companies Near Me?</h2>
                             <p class="para-2">The truck's size, distance, timeframe, and delivery service that best
                                 suits your needs determine the expense of shipping a vehicle. On average, shipping your
                                 vehicle less than 100 miles costs $4.15 per mile, but transporting your truck less than
