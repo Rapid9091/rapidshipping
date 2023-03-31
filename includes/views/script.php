@@ -12,6 +12,9 @@
 <script src="<?= get_js("VIEW_side-form.js"); ?>"></script>
 <script src="<?= get_js("review-home.js"); ?>"></script>
 
+<script src="<?= get_js("small_form_new.js") ?>"></script>
+   <script src="<?= get_js("side_form_new.js") ?>"></script>
+
 
 
 
