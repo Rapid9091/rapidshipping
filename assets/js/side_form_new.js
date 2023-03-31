@@ -142,7 +142,7 @@ $('#make_side_list div').on('click', function(){
     method:"GET",
     data: {make_id:make_side_id},
     success:function(res){
-      console.log(res);
+      
       $('#models_list_side').html(res);
     }
 
