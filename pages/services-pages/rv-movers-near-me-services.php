@@ -138,6 +138,7 @@
                         </div>
                         <div class="shipping-form-state-image">
                             <img loading="lazy" src="https://rapidautoshipping.com/assets/images/rv moving services near me.jpg" alt="rv moving services near me" />
+    </div>
                     </li>
                     <li id="2">
                         <div class="shipping-form-state-content">
