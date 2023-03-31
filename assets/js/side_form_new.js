@@ -249,6 +249,7 @@ if (form_validation_side(step) != true) {
         step_one_btn_side.value = "Get A Quote";
         remove_active_side();
         step_btn_parent_side[step].classList.add("active_form_side");
+        console.log(pathInMiles_side.value);
       } else {
         toast.error("Destination not found");
         step_one_btn_side.value = "Get A Quote";

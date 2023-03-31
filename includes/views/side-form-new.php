@@ -199,6 +199,23 @@
 
 </form>
 
-           <div class="side_form_new_call_btn_div">
-             <button class="side_form_new_call_btn"><a href="tel:+1 833-233-4447"> Call us : +1 833-233-4447</a></button>
+           <div class="side_form_new_call_btn_div" style="margin: 15px 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;">
+             <button class="side_form_new_call_btn" style="padding: 10px 10px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+    outline: none;
+    font-weight: 500;
+    color: #fff;
+    background-color: transparent;
+    transition: 0.4s;
+    border: 2px solid #ff5227;
+    border-radius: 25px;
+    width: 80%;
+    text-transform: uppercase;
+    cursor: pointer;"><a style=" color: #ff5227;" href="tel:+1 833-233-4447"> Call us : +1 833-233-4447</a></button>
              </div>
