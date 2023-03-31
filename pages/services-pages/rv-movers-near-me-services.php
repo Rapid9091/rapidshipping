@@ -43,7 +43,7 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: repeat, no-repeat;
-            background-image: url('..//assets/images/title.jpg');
+            background-image: url('https://rapidautoshipping.com/assets/images/title.jpg');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
@@ -91,7 +91,7 @@
                 </p>
             </div>
             <div class="shipping-form-state-image">
-                <img loading="lazy" src="..//assets/images/rv movers near me (1).jpg" alt="rv movers near me" />
+                <img loading="lazy" src="https://rapidautoshipping.com/assets/images/rv movers near me (1).jpg" alt="rv movers near me" />
 
             </div>
 
@@ -119,7 +119,7 @@
                     <li id="1">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Types of RV movers near me services</h2>
-                            <p class="para-2">DO keep your RV movers near me needs in mind. When it comes to it, keep going, and keep the agency from persuading you that something else is better than your proposal. If you want an enclosed container, but your chosen business doesn't provide it or tries to convince you that you don't need it, skip them.
+                            <p class="para-2">Do keep your RV movers near me needs in mind. When it comes to it, keep going, and keep the agency from persuading you that something else is better than your proposal. If you want an enclosed container, but your chosen business doesn't provide it or tries to convince you that you don't need it, skip them.
                                 <br><br>
                                 Rapid Auto Shipping provides various 5th wheel moving service in all 50 states, from land transportation using trailer vehicles to foreign freight vessels or airplane exports. However, the most common method of vehicle transportation in the US is via trailer truck.
                                 <br><br>
@@ -137,7 +137,7 @@
 
                         </div>
                         <div class="shipping-form-state-image">
-                            <img loading="lazy" src="..//assets/images/rv moving services near me.jpg" alt="rv moving services near me" />
+                            <img loading="lazy" src="https://rapidautoshipping.com/assets/images/rv moving services near me.jpg" alt="rv moving services near me" />
                     </li>
                     <li id="2">
                         <div class="shipping-form-state-content">
@@ -188,7 +188,7 @@
                             
                         </div>
                         <div class="shipping-form-state-image">
-                            <img loading="lazy" src="..//assets/images/Types of RV movers near me services.jpeg" alt="Types of RV movers near me services" />
+                            <img loading="lazy" src="https://rapidautoshipping.com/assets/images/Types of RV movers near me services.jpeg" alt="Types of RV movers near me services" />
             
                         </div>
                     </li>
@@ -226,7 +226,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="..//assets/images/5th wheel moving service near me.jpg" alt="5th wheel moving service near me"/>
+                        <img loading="lazy" src="https://rapidautoshipping.com/assets/images/5th wheel moving service near me.jpg" alt="5th wheel moving service near me"/>
         
                     </div>
                      
