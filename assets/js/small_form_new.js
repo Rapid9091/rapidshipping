@@ -179,33 +179,6 @@ for (var i = 0; i < vehicle_size_options_small.length; i++) {
 // map direction service object
 var directionsService = new google.maps.DirectionsService();
 
-/////////define calcRoute function
-// function calcRoute() {
-//  var route_status;
-//  var path_distance;
-//create request
-
-// var request = {
-// origin: document.getElementById("form_des").value,
-// destination: document.getElementById("to_des").value,
-// travelMode: google.maps.TravelMode.DRIVING, //WALKING, BYCYCLING, TRANSIT
-// unitSystem: google.maps.UnitSystem.IMPERIAL,
-// };
-
-//pass the request to the route method
-// directionsService.route(request, function (result, status) {
-// if (status == google.maps.DirectionsStatus.OK) {
-//   path_distance = result.routes[0].legs[0].distance.text;
-//   console.log(path_distance);
-//   pathInMiles.value = path_distance;
-//   route_status = true;
-// } else {
-//   console.log('not ok');
-//   route_status = false;
-//  }
-// });
-// console.log(route_status);
-// }
 
 function form_validation(step) {
 var status = false;
@@ -236,9 +209,7 @@ step_btn_parent[i].classList.remove("active-form");
 }
 
 function steps(step) {
-if(step == 1){ 
-  // remove_active();
-  //       step_btn_parent[step].classList.add("active-form");        
+if(step == 1){        
 if (form_validation(step) != true) {
   toast.error("Please Fill Destination");
    }
@@ -266,8 +237,6 @@ if (form_validation(step) != true) {
 }
 
 if(step == 2){
-  // remove_active();
-  //       step_btn_parent[step].classList.add("active-form");
 if(form_validation(step)){
   remove_active();
   step_btn_parent[step].classList.add("active-form");
