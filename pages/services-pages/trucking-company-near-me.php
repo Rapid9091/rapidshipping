@@ -116,6 +116,7 @@
                     <li><a href="#8">About the trucking company's services Offered to Luxury Vehicle Owners</a></li>
                     <li><a href="#9">The Advantages of Using Trucking Companies Near Me</a></li>
                     <li><a href="#10">How Much Does It Cost From Best Trucking Companies Near Me?</a></li>
+                    <li><a href="#11">Plan a Pickup</a></li>
 
                 </ul>
             </div>
@@ -154,8 +155,7 @@
 
                         </div>
                         <div class="shipping-form-state-image">
-                            <img loading="lazy"
-                                src="<?=get_img();?>trucking-company-near-me.jpg"
+                            <img loading="lazy" src="<?=get_img();?>trucking-company-near-me.jpg"
                                 alt="trucking company near me" />
 
                         </div>
@@ -207,8 +207,7 @@
                         </div>
 
                         <div class="shipping-form-state-image">
-                            <img loading="lazy"
-                                src="<?=get_img();?>trucking-companies-near-me.jpg"
+                            <img loading="lazy" src="<?=get_img();?>trucking-companies-near-me.jpg"
                                 alt="trucking companies near me" />
 
                         </div>
@@ -260,8 +259,7 @@
                             </p>
 
                             <div class="shipping-form-state-image">
-                                <img loading="lazy"
-                                    src="<?=get_img();?>truck-companies-near-me.jpg"
+                                <img loading="lazy" src="<?=get_img();?>truck-companies-near-me.jpg"
                                     alt="truck companies near me" />
                             </div>
 
@@ -342,21 +340,24 @@
                                 <br><br>
                                 Call us right away to move your vehicle! (833) 233-4447
                                 <br><br>
-                            
+                            </p>
                             <div class="shipping-form-state-image">
-                                <img loading="lazy"
-                                    src="<?=get_img();?>truck-company-near-me.jpg"
+                                <img loading="lazy" src="<?=get_img();?>truck-company-near-me.jpg"
                                     alt="truck company near me" />
                             </div>
-                            <br><br>
-                            <b>Plan a Pickup</b>
-                            <br><br>
-                            We provide various custom pickup and delivery choices to accommodate any budget. You can
-                            also send things off at one of our nationwide warehouse sites. We offer full-service,
-                            white-glove, inside pickup and transport for high-value goods. Rapid Auto Shipping can also
-                            handle time-sensitive goods. In addition, there are same day, next day, and guaranteed
-                            dispatch options accessible.
+
+
+                        </div>
+                    </li>
+                    <li id="11">
+                        <div class="shipping-form-state-content">
+                            <h2 class="heading-1">Plan a Pickup</h2>
+                            <p class="para-2">Check out our website for more information on how much your truck shipping
+                                services may cost. In addition, you'll understand how we operate by seeing hundreds of
+                                vehicle dispatches finished through Rapid Auto Shipping.
                             </p>
+
+
                         </div>
                     </li>
                 </ul>
