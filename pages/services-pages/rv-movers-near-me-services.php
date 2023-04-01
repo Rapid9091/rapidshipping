@@ -91,7 +91,7 @@
                 </p>
             </div>
             <div class="shipping-form-state-image">
-                <img loading="lazy" src="https://rapidautoshipping.com/assets/images/rv movers near me (1).jpg" alt="rv movers near me" />
+                <img loading="lazy" src="<?=get_img();?>rv-movers-near-me-(1).jpg" alt="rv movers near me" />
 
             </div>
 
@@ -103,12 +103,15 @@
                     <li><a href="#1">Types of RV movers near me services</a></li>
                     <li><a href="#2">Door to Door Auto Transport</a></li>
                     <li><a href="#3">Terminal to Terminal RV Transfer Service</a></li>
-                    <li><a href="#4">how does 5th wheel moving work</a></li>
+                    <li><a href="#4">How does 5th wheel moving work</a></li>
                     <li><a href="#5">RV Moving Services When Moving</a></li>
-                    <li><a href="#6">The Advantages of Using Rapid Auto Shipping to Ship Your RV</a></li>
+                    <li><a href="#6">About the Transport Services Offered to Luxury Vehicle Owners</a></li>
                     <li><a href="#7">RV movers near me</a></li>
-                    <li><a href="#8">How Much Does It Cost?</a></li>
-                    <li><a href="#9">Transportation RV Services Quotes</a></li>
+                    <li><a href="#8">The Advantages of Using Rapid Auto Shipping to Ship Your RV</a></li>
+                    <li><a href="#9">RV movers near me</a></li>
+                    <li><a href="#10">How Much Does It Cost?</a></li>
+                    <li><a href="#11">Transportation RV Services Quotes</a></li>
+                    
 
                 </ul>
             </div>
@@ -129,7 +132,7 @@
                                 <br><br>
                                 The main benefit of open vehicle transportation is its low expense. In addition, because your vehicle will be sharing a space with other vehicles, the carrier will be able to charge you a lower rate, making it a feasible option for long-distance auto transportation.
                                 <br><br>
-                                <b>Enclosed air shipping:</b> Enclosed RV delivery means your automobile will be transported in an enclosed trailer, protected from the elements and road debris. Although you will still share a space with other vehicles, a covered trailer usually only holds seven.
+                                <b>Enclosed Air Shipping:</b> Enclosed RV delivery means your automobile will be transported in an enclosed trailer, protected from the elements and road debris. Although you will still share a space with other vehicles, a covered trailer usually only holds seven.
                                 <br><br>
                                 This option is considerably more expensive, potentially adding $400 to your transportation costs, but it provides a more significant piece of mind during RV shipping. Furthermore, exotic, expensive, uncommon automobiles are more frequently carried in enclosed vehicles.
                                
@@ -137,7 +140,8 @@
 
                         </div>
                         <div class="shipping-form-state-image">
-                            <img loading="lazy" src="https://rapidautoshipping.com/assets/images/rv moving services near me.jpg" alt="rv moving services near me" />
+                            <img loading="lazy" src="<?=get_img();?>rv-moving-services-near-me.jpg" alt="rv moving services near me" />
+    </div>
                     </li>
                     <li id="2">
                         <div class="shipping-form-state-content">
@@ -158,7 +162,7 @@
 
                     <li id="4">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">how does 5th wheel moving work</h2>
+                            <h2 class="heading-1">How does 5th wheel moving work</h2>
                             <p class="para-2">If you're moving and need 5th wheel moving service near me to your new home, or if you've just bought a new (or new to you) vehicle, Rapid Auto Shipping can help reduce stress and shed some light on the rv moving process.</p>
                             <p class="para-2">We'll help you get 5th wheel moving service prices from rv transporters and guide you on how to dispatch a truck by road. Please get in touch with us if you need assistance, and we'll get you back on the road to your vehicle delivery.</p>
                             <p class="para-2">The community of Rapid Auto Shipping is excellent for finding the top rv transporters at the most affordable shipping costs. Create a shipment summary first, detailing your preferences, the make and type of the RV, and any special needs. Then, rv movers will provide you with shipment estimates to consider. To ensure you work with the finest, you can also directly talk with the service providers and review their business profiles.</p>
@@ -177,33 +181,25 @@
                                 <b>Flatbed RV service:</b> In this case, the RV transport company will use a trailer vehicle to deliver your RV to its final destination. Your automobile will typically travel on the flatbed with other vehicles and RVs.
                                  <br><br>
                                 <b>Driver RV service:</b> This strategy involves hiring a driver to deliver your RV to its destination. Although it is frequently the least costly option, it decreases the efficiency of your RV.
-                                <br><br>
-                                About the Transport Services Offered to Luxury Vehicle Owners
-                                <br><br>
-                                Most owners know owning and keeping a luxury is a duty. This necessitates paying close attention to every detail, including delivery when required.
-                                <br><br>
-                                Most luxury RV owners take their wheels with them when they move or merely go on holiday. This is the time to arrange for premium vehicle shipping.
+                                
+                                
                                
                             </p>
                             
                         </div>
                         <div class="shipping-form-state-image">
-                            <img loading="lazy" src="https://rapidautoshipping.com/assets/images/Types of RV movers near me services.jpeg" alt="Types of RV movers near me services" />
+                            <img loading="lazy" src="<?=get_img();?>Types-of-RV-movers-near-me-services.jpeg" alt="Types of RV movers near me services" />
             
                         </div>
                     </li>
-                    <!-- <div class="shipping-form-state-image">
-                        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676278088/Recent%20Uploads/ambulance-service_cwc5jf.jpg" alt=" Most Appropriate Shipping Ambulance Services" /> -->
-                        <li id="6">
+                    <li id="6">
                             <div class="shipping-form-state-content">
-                                <h2 class="heading-1">The Advantages of Using Rapid Auto Shipping to Ship Your RV</h2>
-                                <p class="para-2"><b>LONG DISTANCE TRAVEL:</b> Pickup in any of the cities listed below, then transportation to the desired destination. In addition, if your pickup spot is one of the locations we service, we can transport you to nearby towns, airports, and tourist destinations.
+                                <h2 class="heading-1">About the Transport Services Offered to Luxury Vehicle Owners</h2>
+                                <p class="para-2">Most owners know owning and keeping a luxury is a duty. This necessitates paying close attention to every detail, including delivery when required.
                                     <br><br>
                                     
-                                    <b>Drivers with professional licenses:</b> Our chauffeurs have the training to deliver top-notch support. Our knowledgeable drivers and comfortable sedans provide a delightful experience for longer journeys.
-                                    <br><br>
-                                    <b>PRICES ARE FIXED:</b> We use a fixed-price approach for pre-arranged travel. You will therefore be aware of the entire cost of your trip before completing your ticket. Consequently, the price of your journey stays the same even if you experience traffic or are otherwise delayed.
-                                </p>
+                                    Most luxury RV owners take their wheels with them when they move or merely go on holiday. This is the time to arrange for premium vehicle shipping.
+                                    </p>
     
                             </div>
                         </li>
@@ -216,7 +212,31 @@
 
                         </div>
                     </li>
-                    <li id="8">
+                    <!-- <div class="shipping-form-state-image">
+                        <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676278088/Recent%20Uploads/ambulance-service_cwc5jf.jpg" alt=" Most Appropriate Shipping Ambulance Services" /> -->
+                        <li id="8">
+                            <div class="shipping-form-state-content">
+                                <h2 class="heading-1">The Advantages of Using Rapid Auto Shipping to Ship Your RV</h2>
+                                <p class="para-2"><b>LONG DISTANCE TRAVEL:</b> Pickup in any of the cities listed below, then transportation to the desired destination. In addition, if your pickup spot is one of the locations we service, we can transport you to nearby towns, airports, and tourist destinations.
+                                    <br><br>
+                                    
+                                    <b>Drivers with professional licenses:</b> Our chauffeurs have the training to deliver top-notch support. Our knowledgeable drivers and comfortable sedans provide a delightful experience for longer journeys.
+                                    <br><br>
+                                    <b>PRICES ARE FIXED:</b> We use a fixed-price approach for pre-arranged travel. You will therefore be aware of the entire cost of your trip before completing your ticket. Consequently, the price of your journey stays the same even if you experience traffic or are otherwise delayed.
+                                </p>
+    
+                            </div>
+                        </li>
+                        <li id="9">
+                        <div class="shipping-form-state-content">
+                            <h2 class="heading-1">RV movers near me</h2>
+                            <p class="para-2">When you need an expert rv movers near me, contact us ahead of time rather than waiting until the last minute, and have your RV model available to give to the agent.</p>
+                            <p class="para-2">Drivers are on the road 24 hours a day, seven days a week, and they like to organize their routes to have something to eat when they drop off. The delivery cost can differ based on how much time you give the company, but remember that it must be reasonable because we, like any other company, have expenses. When looking for an RV hauler, remember that you get what you pay for if you live in your RV and want it done safely and securely.</p>
+                            
+
+                        </div>
+                    </li>
+                    <li id="10">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">How Much Does It Cost?</h2>
                             <p class="para-2">Given the wide variety of factors that can influence the cost, it can be challenging to provide a precise quote for RV transport; however, transfers under a hundred miles will cost approximately $3.32 per mile, while those under 1,000 miles will cost roughly $1.05 per mile.</p>
@@ -226,11 +246,11 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="https://rapidautoshipping.com/assets/images/5th wheel moving service near me.jpg" alt="5th wheel moving service near me"/>
+                        <img loading="lazy" src="<?=get_img();?>5th-wheel-moving-service-near-me.jpg" alt="5th wheel moving service near me"/>
         
                     </div>
                      
-                    <li id="9">
+                    <li id="11">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Transportation RV Services Quotes</h2>
                             <p class="para-2">Fill out the vehicle transport price form above or phone (833) 233-4447 to receive an immediate shipping quote to send a RV or any other vehicle.</p>
