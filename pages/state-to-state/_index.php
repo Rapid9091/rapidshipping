@@ -632,7 +632,7 @@ if (isset($_GET['page_id'])) {
     </script>
 
     <script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&sensor=false&libraries=places"></script>
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&sensor=false&libraries=places"></script> -->
 
     
     
@@ -684,8 +684,7 @@ if (isset($_GET['page_id'])) {
 
         const domain = "https://rapidautoshipping.com/";
     </script> -->
-   <script src="<?= get_js("small_form_new.js") ?>"></script>
-   <script src="<?= get_js("side_form_new.js") ?>"></script>
+   
 
 
 

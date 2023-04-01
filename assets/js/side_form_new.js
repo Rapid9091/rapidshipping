@@ -142,7 +142,7 @@ $('#make_side_list div').on('click', function(){
     method:"GET",
     data: {make_id:make_side_id},
     success:function(res){
-      console.log(res);
+      
       $('#models_list_side').html(res);
     }
 
@@ -172,7 +172,7 @@ for (var i = 0; i < vehicle_side_size_options.length; i++) {
   }
 
 // // map direction service object
-var directionsService_side = new google.maps.DirectionsService();
+var directionsService = new google.maps.DirectionsService();
 
 /////////define calcRoute function
 // function calcRoute_side() {
@@ -243,12 +243,13 @@ if (form_validation_side(step) != true) {
       travelMode: google.maps.TravelMode.DRIVING, //WALKING, BYCYCLING, TRANSIT
       unitSystem: google.maps.UnitSystem.IMPERIAL,
       };
-      directionsService_side.route(request, function (result, status) {
+      directionsService.route(request, function (result, status) {
       if (status == google.maps.DirectionsStatus.OK) {
         pathInMiles_side.value = result.routes[0].legs[0].distance.text;
         step_one_btn_side.value = "Get A Quote";
         remove_active_side();
         step_btn_parent_side[step].classList.add("active_form_side");
+        console.log(pathInMiles_side.value);
       } else {
         toast.error("Destination not found");
         step_one_btn_side.value = "Get A Quote";

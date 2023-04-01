@@ -138,7 +138,6 @@ $('#myList1 div').on('click', function(){
     method:"GET",
     data: {make_id:make_id},
     success:function(res){
-      console.log(res);
       $('#models_list_small').html(res);
     }
 
