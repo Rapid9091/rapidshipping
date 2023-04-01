@@ -94,7 +94,7 @@
                 </p>
             </div>
             <div class="shipping-form-state-image">
-                <img loading="lazy" src="..//assets/images/car-transport-service.jpeg" alt="car transport service" />
+            <img loading="lazy" src="<?=get_img();?>car-transport-service.jpeg" alt="car transport service"/>
 
             </div>
 
@@ -140,7 +140,8 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                            <img loading="lazy" src="..//assets/images/car-shipping.jpeg" alt="rv moving services near me" /></div>
+                    <img loading="lazy" src="<?=get_img();?>car-shipping.jpeg"
+                                alt="car shipping" /></div>
                     
                     <li id="3">
                         <div class="shipping-form-state-content">
@@ -166,7 +167,8 @@
 
                         </div>
                         <div class="shipping-form-state-image">
-                            <img loading="lazy" src="..//assets/images/auto-transport.jpeg" alt="auto transport" />
+                        <img loading="lazy" src="<?=get_img();?>auto-transport.jpeg"
+                                alt="auto transport" />
             
                         </div>
                     </li>
@@ -215,7 +217,8 @@
 
                         </div>
                         <div class="shipping-form-state-image">
-                        <img loading="lazy" src="..//assets/images/vehicle-transport-services.jpeg" alt="vehicle transport services"/>
+                        <img loading="lazy" src="<?=get_img();?>vehicle-transport-services.jpeg"
+                                alt="vehicle transport services" />
                     </div>
                     </li>
                     <li id="8">
