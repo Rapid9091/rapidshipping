@@ -14,7 +14,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Cheap Transporters services In The USA" />
 <meta property="og:description" content="If you're searching for cheap transporters, Rapid Auto Shipping is the car shipment & cheap transport service for you." />
-<meta property="og:url" content="https://rapidautoshipping.com/services/Cheap-transporters-services-in-the-usa" />
+<meta property="og:url" content="https://rapidautoshipping.com/services/cheap-transporters-services-in-the-usa" />
 <meta property="og:site_name" content="Cheap Transporters services In The USA"/>
 <meta name='robots' content='index'/>
 <meta name="keywords" content="cheap transporters, cheap transport, cheap transporter, cheap transportation vehicle ,cheapest car shipping." />
@@ -47,7 +47,7 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: repeat, no-repeat;
-            background-image: url('https://rapidautoshipping.com/assets/images/title.jpg');
+            background-image: url('..//assets/images/cheap-transport-title.jpeg');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
@@ -150,7 +150,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>cheap-transporters.jpeg"
-                                alt="trucking company near me" />
+                                alt="cheap transporters" />
 
                         </div>
 
@@ -187,13 +187,13 @@
                     </li>
                     <div class="shipping-form-state-image">
                         <img loading="lazy" src="<?=get_img();?>cheap-transportation-vehicle.jpeg"
-                            alt="cheap-transportation-vehicle" />
+                            alt="cheap transportation vehicle" />
 
                     </div>
                     <li id="4">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Rapid Auto Shipping And Cheapest Car Shipping Services</h2>
-                            <p class="para-2">The first step is to gather information to estimate the "<a href="https://rapidautoshipping.com/blogs/terminal-to-terminal-auto-transport" target="_blank">cost of shipping your car.</a>" Several variables are considered when calculating the percentage. The distance traveled, the year, make, and model of the vehicle, whether it functions and drives, and closeness to major towns are just a few factors that influence car shipping costs.</p>
+                            <p class="para-2">The first step is to gather information to estimate the "<a href="https://rapidautoshipping.com/services/car-transport-quotes" target="_blank">cost of shipping your car.</a>" Several variables are considered when calculating the percentage. The distance traveled, the year, make, and model of the vehicle, whether it functions and drives, and closeness to major towns are just a few factors that influence car shipping costs.</p>
                             <p class="para-2">Our car shipping estimate calculator will consider these variables when calculating the shipping rate to reach the cheapest car shipping cost possible. Use the Quote Request tool on the right side of each screen. This is the fundamental information we will use to give you the best price for moving your car. The amount you are quoted is the price you will pay! Nothing else!</p>
 
                         </div>
@@ -233,12 +233,12 @@
                     </li>
                     <div class="shipping-form-state-image">
                         <img loading="lazy" src="<?=get_img();?>cheap-transport.jpeg"
-                            alt="cheap-transport" />
+                            alt="cheap transport" />
                     </div>
                     <li id="7">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">About the Cheap Transport Services Offered to Luxury Vehicle Owners</h2>
-                            <p class="para-2">"<a href="https://rapidautoshipping.com/blogs/terminal-to-terminal-auto-transport" target="_blank">Open car shipping services</a>"are the cheapest car shipping way to send a vintage or luxury vehicle. However, there are more secure ways to ship a vehicle than open shipping. Enclosed car carriers are far more secure than exposed car movers. Therefore, Roll-on/roll-off auto transport services with a covered car transport trailer are suggested if transporting from the harbor.</p>
+                            <p class="para-2">"<a href="https://rapidautoshipping.com/services/car-transport-quotes" target="_blank">Open car shipping services</a>"are the cheapest car shipping way to send a vintage or luxury vehicle. However, there are more secure ways to ship a vehicle than open shipping. Enclosed car carriers are far more secure than exposed car movers. Therefore, Roll-on/roll-off auto transport services with a covered car transport trailer are suggested if transporting from the harbor.</p>
                             <p class="para-2">Most clients prefer enclosed auto shipment over open auto delivery. Why? It's simple: enclosed car movers give their vehicles the most security and safety against the weather. Enclosed auto transport costs approximately 60% more than open car transport, but it safeguards cars much better and is highly suggested for prestige or antique vehicles. While it is not the cheapest car shipping way of moving vehicles, it is far more secure.</p>
 
 
@@ -283,7 +283,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                         <img loading="lazy" src="<?=get_img();?>cheapest-car-shipping.jpeg"
-                            alt="cheapest-car-shipping" />
+                            alt="cheapest car shipping" />
                     </div>
 
                     <li id="11">
