@@ -238,7 +238,7 @@
                     <li id="7">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">About the Cheap Transport Services Offered to Luxury Vehicle Owners</h2>
-                            <p class="para-2">"<a href="https://rapidautoshipping.com/services/car-transport-quotes" target="_blank">Open car shipping services</a>"are the cheapest car shipping way to send a vintage or luxury vehicle. However, there are more secure ways to ship a vehicle than open shipping. Enclosed car carriers are far more secure than exposed car movers. Therefore, Roll-on/roll-off auto transport services with a covered car transport trailer are suggested if transporting from the harbor.</p>
+                            <p class="para-2">"<a href="https://rapidautoshipping.com/services/open-car-shipping" target="_blank">Open car shipping services</a>"are the cheapest car shipping way to send a vintage or luxury vehicle. However, there are more secure ways to ship a vehicle than open shipping. Enclosed car carriers are far more secure than exposed car movers. Therefore, Roll-on/roll-off auto transport services with a covered car transport trailer are suggested if transporting from the harbor.</p>
                             <p class="para-2">Most clients prefer enclosed auto shipment over open auto delivery. Why? It's simple: enclosed car movers give their vehicles the most security and safety against the weather. Enclosed auto transport costs approximately 60% more than open car transport, but it safeguards cars much better and is highly suggested for prestige or antique vehicles. While it is not the cheapest car shipping way of moving vehicles, it is far more secure.</p>
 
 
