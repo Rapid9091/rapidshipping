@@ -151,7 +151,7 @@
                     <li id="3">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">What Exactly Is Enclosed Auto Transport?</h2>
-                            <p class="para-2"><a href="https://rapidautoshipping.com/services/enclosed-shipping">Enclosed auto transport</a>, also known as enclosed car shipping, refers to the transportation of your automobile on a fully contained and secured trailer. The walls, roof, and floor are all substantial. These trailers provide more security and safety than uncovered trailers. Here's an illustration of a covered cargo trailer.
+                            <p class="para-2"><a href="https://rapidautoshipping.com/services/enclosed-shipping"   target="_blank">Enclosed auto transport</a>, also known as enclosed car shipping, refers to the transportation of your automobile on a fully contained and secured trailer. The walls, roof, and floor are all substantial. These trailers provide more security and safety than uncovered trailers. Here's an illustration of a covered cargo trailer.
                             </p>
                         </div>
                     </li>
@@ -183,7 +183,7 @@
                         <li id="6">
                             <div class="shipping-form-state-content">
                                 <h2 class="heading-1">About The Car Transport Services Offered to Luxury Vehicle Owners.</h2>
-                                <p class="para-2">The <a href="https://rapidautoshipping.com/blogs/exotic-cars">luxury car shipping company</a> has developed into a highly competitive industry with complex procedures. Indeed, the majority of customers need to comprehend the process.
+                                <p class="para-2">The <a href="https://rapidautoshipping.com/blogs/exotic-cars" target="_blank">luxury car shipping company</a> has developed into a highly competitive industry with complex procedures. Indeed, the majority of customers need to comprehend the process.
                                     <br><br>
                                     The problem is that there are numerous luxury transportation firms, each with its regulations to ensure that its customers are not injured. Here are some of the advantages of luxury car shipping in the USA.
                                 </p>
@@ -198,7 +198,7 @@
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Car Transport Services Quotes</h2>
                             <p class="para-2">By completing the form above or calling (833) 233-4447, you can receive an immediate shipping estimate to send an automobile or any other type of vehicle.</p>
-                            <p class="para-2">If you're searching for vehicle transportation, you should get quotes on car shipping before deciding. Our <a href="https://rapidautoshipping.com/">auto transport company</a> takes great pride in offering quick and accurate vehicle transport quotes for our car transport service. No matter where you need to relocate your car, we are here to help.</p>
+                            <p class="para-2">If you're searching for vehicle transportation, you should get quotes on car shipping before deciding. Our <a href="https://rapidautoshipping.com/" target="_blank">auto transport company</a> takes great pride in offering quick and accurate vehicle transport quotes for our car transport service. No matter where you need to relocate your car, we are here to help.</p>
                             
 
                         </div>
