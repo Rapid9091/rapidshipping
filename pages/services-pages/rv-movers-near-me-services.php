@@ -188,7 +188,7 @@
                             
                         </div>
                         <div class="shipping-form-state-image">
-                            <img loading="lazy" src="<?=get_img();?>Types-of-RV-movers-near-me-services.jpeg" alt="Types of RV movers near me services" />
+                            <img loading="lazy" src="<?=get_img();?>Types-of-RV-movers-near-me-services.jpeg" alt="5th wheel moving service near me" />
             
                         </div>
                     </li>
@@ -246,7 +246,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>5th-wheel-moving-service-near-me.jpg" alt="5th wheel moving service near me"/>
+                        <img loading="lazy" src="<?=get_img();?>5th-wheel-moving-service-near-me.jpg" alt="rv transporters near me"/>
         
                     </div>
                      
