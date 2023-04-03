@@ -347,7 +347,7 @@
                 <img loading="lazy" src="<?= get_img() ?>snowbird-shipping-2.jpeg" alt="Auto Transport in Alabama">
             </div>
             <div class="seventh-california-state-box-content">
-                <h2 class="utility_sub-heading">SNOWBIRD SHIPPING</h2>
+                <h2 class="utility_sub-heading">SNOWBIRD SHIPPING</h2><br>
                 <p class="text">
                     The major leading snowbird <a href="https://rapidautoshipping.com/states" target="_blank"><span class="california-state-span">States</span></a> in the USA are Texas, California, Florida, and other states. Generally, all paths that go from north to south are called Snowbird routes. In addition, prices usually start soaring during the snowbird season because during that time the drivers have so many options, so they always go with the highest amount.
                     <br><br>
