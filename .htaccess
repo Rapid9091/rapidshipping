@@ -100,7 +100,7 @@ RewriteRule ^sitemap\.xml/?$ sitemap.php
 
 ReWriteRule ^state-to-state([/]?)$ pages/state-to-state/state-to-state-list.php [NC,L]
 ; ReWriteRule ^state-to-state/alabama-to-alaska([/]?)$ pages/state-to-state/alabama-to-alaska.php [NC,L]
-ReWriteRule ^state-to-state/alabama-to-arizona([/]?)$ pages/state-to-state/alabama-to-arizona.php [NC,L]
+; ReWriteRule ^state-to-state/alabama-to-arizona([/]?)$ pages/state-to-state/alabama-to-arizona.php [NC,L]
 ReWriteRule ^state-to-state/texas-to-california([/]?)$ pages/state-to-state/texas-to-california.php [NC,L]
 ReWriteRule ^get_qoute([/]?)$ pages/state-to-state/get_qoute.php [NC,L]
 
