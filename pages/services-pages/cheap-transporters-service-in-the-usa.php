@@ -14,7 +14,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Cheap Transporters services In The USA" />
 <meta property="og:description" content="If you're searching for cheap transporters, Rapid Auto Shipping is the car shipment & cheap transport service for you." />
-<meta property="og:url" content="https://rapidautoshipping.com/services/cheap-transporters-services-in-the-usa" />
+<meta property="og:url" content="https://rapidautoshipping.com/services/cheap-transporters-service-in-the-usa" />
 <meta property="og:site_name" content="Cheap Transporters services In The USA"/>
 <meta name='robots' content='index'/>
 <meta name="keywords" content="cheap transporters, cheap transport, cheap transporter, cheap transportation vehicle ,cheapest car shipping." />

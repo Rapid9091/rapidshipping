@@ -14,7 +14,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Shelby Car Transport Service | +1-833-233-4447" />
     <meta property="og:description" content="Rapid Auto Shipping is the industry's leading vehicle delivery business. We provide industrial and Shelby car transport service." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/best-shelby-car-transport-service" />
+    <meta property="og:url" content="https://rapidautoshipping.com/services/shelby-car-transport-service" />
     <meta property="og:site_name" content="Best Shelby Car Transport Service | +1-833-233-4447 />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car transport service, car shipping, car shipping cost, auto transport , vehicle transport services />

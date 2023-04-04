@@ -14,7 +14,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Porsche Car Transport Services" />
     <meta property="og:description" content="RAS provides the finest Porsche car transport service. We have shipped many remarkable luxury racing cars, including the Porsche Boxster, Porsche Cayenne & others." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/best-porsche-car-transport-services" />
+    <meta property="og:url" content="https://rapidautoshipping.com/services/porsche-car-transport-services" />
     <meta property="og:site_name" content="Best Porsche Car Transport Services" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car transport service, car shipping, car shipping cost, auto transport , vehicle transport services />
