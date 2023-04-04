@@ -92,13 +92,13 @@
                 The auto transport company provides various vehicle transport methods, from ground transportation via trailer trucks to international cargo boats or aircraft shipments. However, trailer auto transport is the most prevalent mode of car delivery in the United States. Land-based car shipping is classified into two types: open transport and confined transport.
                     <br><br>
                     <b>Open car transport service:</b> The cheapest choice is open vehicle delivery, also known as open carrier shipping. This is the same mode of transportation used by car dealerships to send new vehicles, so if you've ever seen a trailer loaded with numerous vehicles on the freeway, you've seen how <a href="https://rapidautoshipping.com/services/open-car-shipping" target="_blank">open auto transports</a> operate.
-                    <br>
+                    <br><br>
                     The primary advantage of open auto transport is its cheap cost. Because your vehicle will be sharing a room with other vehicles, the carrier can charge you a reduced price, making it a viable choice for long-distance car shipping.
-                    <br>
+                    <br><br>
                     The disadvantage of open carrier shipping is that it exposes your vehicle to the elements. If you prefer to avoid having your car collect dirt or be exposed to debris, there may be better solutions than this.
                     <br><br>
                     <b>Enclosed car transport service:</b> <a href="https://rapidautoshipping.com/services/enclosed-shipping" target="_blank">Enclosed car transport service</a> means your vehicle will be shipped in an enclosed trailer, shielded from the weather and possible road detritus. Although you will still be sharing a room with other cars, an enclosed trailer typically only accommodates seven.
-                    <br>
+                    <br><br>
                     This choice is significantly more expensive, adding up to $400 to your transportation expenses, but it offers greater peace of mind during the vehicle transport service. In addition, exotic, luxury, or rare cars are more frequently transported in enclosed vehicles.
                 </p>
             </div>
@@ -151,7 +151,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                            <img loading="lazy" src="<?=get_img();?>car-transport-service.jpeg" alt="Car Transport Service" />
+                            <img loading="lazy" src="<?=get_img();?>car-transport-service-4.jpeg" alt="car transport service" />
                         </div>
 
                     <li id="3">
