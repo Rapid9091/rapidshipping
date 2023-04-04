@@ -14,7 +14,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Mercedes Benz Car Transport Service" />
     <meta property="og:description" content="International car transport service involve car shipping your car from one nation to another. Airway or maritime transport is used to provide this kind of service." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/best-mercedes-benz-car-transport-service" />
+    <meta property="og:url" content="https://rapidautoshipping.com/services/mercedes-benz-car-transport-service" />
     <meta property="og:site_name" content="Best Mercedes Benz Car Transport Service" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car transport service, car shipping, car shipping cost, auto transport , vehicle transport services "/>
@@ -82,7 +82,7 @@
     <!-- this is the fiorst section with background image -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Best Mercedes Benz Car Transport Service";
+        $NAME = "Mercedes Benz Car Transport Service";
         $PARAGRAPH = "Your auto transport alone can be problematic and exhausting, regardless of whether you will move or change for a short while. Therefore, numerous variables must be considered when arranging for the car transport service of a car across the nation or abroad.<br><br>
         In addition, the law prerequisite may change from person to person depending on the need for transportation and the vehicle's location. Keeping track of this can be challenging, and fulfilling it without legal information can be even more difficult.";
         include small_form;
