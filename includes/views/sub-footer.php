@@ -1,9 +1,9 @@
 <section class="footer-map-section">
     <div class="footer-map-grid">
-        <div class="footer-map-grid-1">
+        <!-- <div class="footer-map-grid-1">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3404903.6195839215!2d-104.04787384413115!3d33.55074711107423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87004d8702dc4ac7%3A0x9f3bfd5545d14ae8!2sRAPID%20AUTO%20SHIPPING!5e0!3m2!1sen!2sus!4v1642075843595!5m2!1sen!2sus" width="80%" height="80%" style="border:0;" allowfullscreen="" loading="lazy" title="map">
             </iframe>
-        </div>
+        </div> -->
         <div class="footer-map-grid-2">
             <div class="comapny-info">
                 <div class="under-map-design">
