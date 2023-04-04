@@ -14,7 +14,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Cheap Transporters services In The USA" />
 <meta property="og:description" content="If you're searching for cheap transporters, Rapid Auto Shipping is the car shipment & cheap transport service for you." />
-<meta property="og:url" content="https://rapidautoshipping.com/services/cheap-transporters-services-in-the-usa" />
+<meta property="og:url" content="https://rapidautoshipping.com/services/cheap-transporters-service-in-the-usa" />
 <meta property="og:site_name" content="Cheap Transporters services In The USA"/>
 <meta name='robots' content='index'/>
 <meta name="keywords" content="cheap transporters, cheap transport, cheap transporter, cheap transportation vehicle ,cheapest car shipping." />
@@ -80,7 +80,7 @@
     <!-- this is the fiorst section with background image -->
     <div class="contact-us-header-page">
         <?php
-        $NAME = "Cheap Transporters services In The USA";
+        $NAME = "Cheap Transporters service In The USA";
         $PARAGRAPH = "To find cheap transporters for the cheapest car shipping, choose the business that best meets your requirements. Costs often differ based on how far you're traveling, where you're staying, and what mode of transportation you require. When determining the cheapest car shipping businesses in the country, we considered all of these variables.";
         include small_form;
         ?>
