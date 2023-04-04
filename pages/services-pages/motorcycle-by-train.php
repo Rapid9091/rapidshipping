@@ -138,7 +138,7 @@
                             <b>1.</b> <b>Open Motorcycle on Train:</b> There is a distinction between open and enclosed motorcycle by train, just as between transporting your motorcycle by transportation. However, in theory, it is almost identical to a normal car transport <a href="https://rapidautoshipping.com/services/heavy-hauling-truck" target="_blank">truck</a>.
                             <br>
                              Open train transportation subjects your car to adverse weather and the odd insect on the windscreen or grime on the side panelling, but it is generally a safe and secure mode of transportation.
-                            <br>
+                            <br><br>
                             <b>2.</b> <b>Enclosed Motorcycle on Train:</b> Enclosed rail transport puts your vehicle in an enclosed train compartment, protecting it from all of the pests, grime, and residue that come with being outside, and it is usually more costly than open transport.
                             <br><br>
                             Enclosed auto shipment by train is recommended for customers who must send uncommon, costly,
