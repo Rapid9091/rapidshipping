@@ -32,6 +32,7 @@
             background-color: #f3eeec;
             color: #ff5722;
             font-weight: bold;
+            cursor: pointer;
         }
          .box:hover{
             background-color: #dddada;
