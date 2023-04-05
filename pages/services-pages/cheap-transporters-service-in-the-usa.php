@@ -301,7 +301,15 @@
             </section>
         </div>
 
-        <div class="body">
+
+        <div class="right-state-to-state-child" id="right-state-to-state-child">
+            <?php
+            include side_form;
+            ?>
+        </div>
+    </div>
+
+    <div class="body">
 
 
         <div class="faq">FACTS & QUESTIONS</div>
@@ -417,13 +425,6 @@
             </p>
             
             
-        </div>
-    </div>
-
-        <div class="right-state-to-state-child" id="right-state-to-state-child">
-            <?php
-            include side_form;
-            ?>
         </div>
     </div>
 
