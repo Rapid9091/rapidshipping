@@ -10,6 +10,7 @@
         }
         .body{
              /* overflow: hidden; */
+             /* margin-top: 60px; */
             display: grid;
             align-items: center;
            text-align: center;
