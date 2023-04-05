@@ -39,6 +39,8 @@
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_all-service-page.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <style>
         .contact-us-header-page {
             width: 100%;
@@ -224,6 +226,50 @@
         </div>
     </div>
 
+    <div class="body">
+
+
+        <div class="faq">FACTS & QUESTIONS</div>
+
+        <div class="container">
+            <div class="box">
+                <span>Is Transporting An Open Vehicle Secure?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Open car shipping is the most popular service and is typically a secure method to send your car. Open air carriers use trucks and trailers to move your vehicle as firmly and safely as possible. Many reputable auto transport companies also carry insurance to pay for any potential damages that may occur.
+            </p>
+            <div class="box">
+                <span>What's The Process For A Car Pickup Service?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">You can return home securely with your vehicle and yourself by using a car pickup service. It's ideal for short routes, but an auto transport service is more practical and cheaper if you need to move your vehicle nationwide. Within a 24-hour timeframe, you can plan to collect your car.
+            </p>
+            <div class="box">
+                <span>What Is The Door Door car Transport service?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">In our company, this phrase can be deceptive. Door to door auto transport refers to the driver arriving as close to your door as possible with a van that could be up to 75' long and weigh up to 80,000 pounds with all the cars on it.
+                <br><br>
+                These trucks cannot maneuver through narrow streets or areas where low-hanging tree branches could harm vehicles on their lorry.
+                <br><br>
+                Additionally, stopping these trailers on public roadways while loading and offloading cars is prohibited, and weight restrictions exist. The day before pickup and delivery, the driver will contact you to schedule a meeting place to load or offload your vehicle securely.
+            </p>
+            <div class="box">
+                <span>Is My Vehicle Covered During Shipping?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Auto shipping safeguards your car by serving as the Certificate Holder on each carrier we deal with. In addition, in the unlikely event that a carrier's policy is terminated while your vehicle is on their van, we also hold contingent cargo insurance worth $500,000 on our books.
+            </p>
+            <div class="box">
+                <span>Can I Load Personal Stuff In My Vehicle During Transit?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">One of the most frequently asked queries on our auto transport FAQ is this one. Anything you put in your car should be secured safely in the trunk and not weigh more than 75 pounds overall. Remember that everything you have in your vehicle, including any insurance coverage, is your responsibility.
+            </p>
+          
+        </div>
+    </div>
+
 
 
     <!-- top scroll button start -->
@@ -245,7 +291,7 @@
 
     <?php include_once page_bottom ?>
 
-
+    <script src="..//assets/js/faq.js"></script>
     <script>
         window.onscroll = function() {
 
