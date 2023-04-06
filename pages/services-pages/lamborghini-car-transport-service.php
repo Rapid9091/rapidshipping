@@ -224,6 +224,10 @@
                             </p>
                         </div>
                     </li>
+                    <div class="shipping-form-state-image">
+                            <img loading="lazy" src="<?=get_img();?>Lamborghini-3.webp" alt="car shipping" />
+
+                        </div>
 
                     <li id="4">
                         <div class="shipping-form-state-content">
@@ -243,10 +247,7 @@
                             </p>
 
                         </div>
-                        <div class="shipping-form-state-image">
-                            <img loading="lazy" src="<?=get_img();?>Lamborghini-3.webp" alt="car shipping" />
-
-                        </div>
+                        
                     </li>
                     <li id="5">
                         <div class="shipping-form-state-content">
@@ -260,6 +261,10 @@
                         </div>
 
                     </li>
+                    <div class="shipping-form-state-image">
+                            <img loading="lazy" src="<?=get_img();?>Best-Lamborghini-Car-Transport-Services.webp"
+                                alt="vehicle transport services" />
+                        </div>
                     <!-- <div class="shipping-form-state-image">
                         <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676278088/Recent%20Uploads/ambulance-service_cwc5jf.jpg" alt=" Most Appropriate Shipping Ambulance Services" /> -->
                     <li id="6">
@@ -273,10 +278,7 @@
                             </p>
 
                         </div>
-                        <div class="shipping-form-state-image">
-                            <img loading="lazy" src="<?=get_img();?>Best-Lamborghini-Car-Transport-Services.webp"
-                                alt="vehicle transport services" />
-                        </div>
+                        
                     </li>
                 </ul>
 
