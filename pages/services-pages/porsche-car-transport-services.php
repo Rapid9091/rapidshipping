@@ -17,7 +17,7 @@
     <meta property="og:url" content="https://rapidautoshipping.com/services/porsche-car-transport-services" />
     <meta property="og:site_name" content="Best Porsche Car Transport Services" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car transport service, car shipping, car shipping cost, auto transport , vehicle transport services />
+    <meta name="keywords" content="car transport service, car shipping, car shipping cost, auto transport , vehicle transport services" />
     <meta property="article:tag" content="car transport service" />
     <meta property="article:tag" content="car shipping" />
     <meta property="article:tag" content="car shipping cost" />
