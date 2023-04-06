@@ -17,7 +17,7 @@
     <meta property="og:url" content="https://rapidautoshipping.com/services/shelby-car-transport-service" />
     <meta property="og:site_name" content="Best Shelby Car Transport Service | +1-833-233-4447 />
     <meta name='robots' content='index'" />
-    <meta name="keywords" content="Best Shelby Car Transport Service,car transport service, car shipping, car shipping cost, auto transport , vehicle transport services"/>
+    <meta name="keywords" content="Best Shelby Car Transport Service, car transport service, car shipping, car shipping cost, auto transport , vehicle transport services"/>
     <meta property="article:tag" content="Best Shelby Car Transport Service" />
     <meta property="article:tag" content="car transport service" />
     <meta property="article:tag" content="car shipping" />
@@ -97,7 +97,7 @@
                 </p>
             </div>
             <div class="shipping-form-state-image">
-            <img loading="lazy" src="<?=get_img();?>car-transport-service-3.jpeg" alt="car transport service"/>
+            <img loading="lazy" src="<?=get_img();?>car-transport-service-3.jpeg" alt="Best Shelby Car Transport Service"/>
 
             </div>
 
@@ -144,7 +144,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                     <img loading="lazy" src="<?=get_img();?>car-shipping-3.jpeg"
-                                alt="car shipping" /></div>
+                                alt="car transport service" /></div>
                     
                     <li id="3">
                         <div class="shipping-form-state-content">
