@@ -140,7 +140,7 @@
                         </div>
                         <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>maserati-1.jpeg"
-                                alt="car transport service" />
+                                alt="Best Maserati Car Transport Services" />
 
                         </div>
 
@@ -191,7 +191,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                         <img loading="lazy" src="<?=get_img();?>maserati-2.jpeg"
-                            alt="car shipping" />
+                            alt="car transport service" />
 
                     </div>
 
@@ -212,7 +212,7 @@
                         </div>
                         <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>maserati-3.jpeg"
-                                alt="vehicle transport services" />
+                                alt="car shipping" />
                         </div>
                         
                     </li>
