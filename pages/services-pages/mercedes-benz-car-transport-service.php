@@ -19,7 +19,8 @@
     <meta property="og:url" content="https://rapidautoshipping.com/services/mercedes-benz-car-transport-service" />
     <meta property="og:site_name" content="Best Mercedes Benz Car Transport Service" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="car transport service, car shipping, car shipping cost, auto transport , vehicle transport services "/>
+    <meta name="keywords" content="Best Mercedes Benz Car Transport Service, car transport service, car shipping, car shipping cost, auto transport , vehicle transport services "/>
+    <meta property="article:tag" content="Best Mercedes Benz Car Transport Service" />
     <meta property="article:tag" content="car transport service" />
     <meta property="article:tag" content="car shipping" />
     <meta property="article:tag" content="car shipping cost" />
