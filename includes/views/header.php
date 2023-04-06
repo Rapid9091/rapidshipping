@@ -142,7 +142,7 @@
                 </li>
 
                 <li>
-                    <a href="<?= get_state() ?>">Shipping States</a>
+                    <a href="<?= get_state() ?>">States</a>
                     <div class="sub-menu">
                         <div class="sub-menu-child">
                             <ul>
