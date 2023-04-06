@@ -160,7 +160,7 @@
                             <h2 class="heading-1">What to Know About Using a Car Shipping Company</h2>
                             <p class="para-2">Most individuals don't need to hire a vehicle shipping company very often. The following considerations should be made when a car transport.
                                 <br><br>
-                            <b>Quotes Can Change:</b> Quotes for car shipping rarely match the actual <a href="https://rapidautoshipping.com/blogs/cost-to-ship-a-car">cost of shipping</a> an automobile. The majority of the time, your auto shipper will provide you with an estimate, and once the vehicle arrives at its location, you will be made aware of the exact amount owed.
+                            <b>Quotes Can Change:</b> Quotes for car shipping rarely match the actual <a href="https://rapidautoshipping.com/blogs/cost-to-ship-a-car" target="_blank">cost of shipping</a> an automobile. The majority of the time, your auto shipper will provide you with an estimate, and once the vehicle arrives at its location, you will be made aware of the exact amount owed.
                             <br><br>
                             Giving the delivery company as much information as you can reduce if not completely eradicate, unpleasant final bill surprises.
                         <br><br>
