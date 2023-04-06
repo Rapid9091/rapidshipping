@@ -42,6 +42,8 @@
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_all-service-page.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <style>
         .contact-us-header-page {
             width: 100%;
@@ -340,6 +342,87 @@
 
     </div>
 
+    <div class="body">
+
+
+        <div class="faq">FACTS & QUESTIONS</div>
+
+        <div class="container">
+            <div class="box">
+                <span>How Can I Transport My  Motorcycle On Train?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">To transport your motorcycle on train via Amtrak car shipment, you must first purchase a ticket on the Auto Train. Pack your belongings before traveling to the Amtrak station, where your automobile will be loaded onto the train. You'll then board the train and travel it until it arrives at your location.
+            </p>
+            <div class="box">
+                <span> Can I Ship motorcycle by Train to Florida?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Yes, you can ship motorcycle by train to Florida. We suggest using Amtrak to transport your car to Florida by train.
+            </p>
+            <div class="box">
+                <span>How long does it take for a vehicle to be shipped by train?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Amtrak's Auto Train takes about 17 hours to transport your car from Washington, D.C. to Orlando, Florida. Trains leave both terminals at 4 p.m. and reach their locations around 9 a.m. the next day.
+            </p>
+            <div class="box">
+                <span>Does Amtrak Transport Cars?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The Auto Train service is provided by Amtrak between Washington, D.C., and Orlando, Florida. In the United States, Union Pacific and CSX do not offer railway routes that provide comparable car transport.
+            </p>
+            <div class="box">
+                <span>What is the Most Cost Effective Method to Move a Motorcycle?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">If your start and destination coincide with Amtrak's Auto Train path, the Auto Train is almost certainly the most affordable choice if you ride in the coach portion. If not, then free transit is the solution.
+            </p>
+            <div class="box">
+                <span> What is the Most Cost Effective Method to Ship Motorcycle by Train across the Country?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">As long as the journey is along the Eastern Seaboard, Amtrak's Auto Train is one of the cheapest methods to transport a vehicle across the nation. Otherwise, an open semi trailer is typically the simplest way to move it.
+            </p>
+            <div class="box">
+                <span>Can I Ship Motorcycle by train?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Yes! If you reside near Washington, D.C., or Orlando, Florida, Amtrak's Auto Train service will transport you and your motorcycle between the two cities. You cannot ship by rail if you are not traveling to those two locations.
+            </p>
+            <div class="box">
+                <span>How does motorbike delivery work?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Motorcycles can be shipped by rail, truck, aircraft, or boat. They can be transported by a vehicle on either an open or covered trailer. The motorcycle will be strapped down in all instances to keep it securely in position.
+            </p>
+            <div class="box">
+                <span>Can a motorbike be shipped via FedEx, USPS, or UPS?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">No, a motorcycle weighs more than the utmost permitted by customer shipping firms or the post office. This technique, however, can be used to send motorcycle parts.
+            </p>
+            <div class="box">
+                <span>What should I keep an eye out for when transporting a motorbike across the country?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">When shipping a motorbike across the nation, look for cheap rates, a track record of on-time delivery, and favorable customer evaluations. Make certain that your broker confirms the driver's national transit power.
+            </p>
+            <div class="box">
+                <span>Is it possible to move a motorbike on its side?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">No, because of the battery, it is critical to move a motorbike upright. Because these batteries are not usually sealed to prevent overpressurization, the motorbike may discharge battery acid if it is flipped on its side. Furthermore, putting it on its side for an extended period may cause a hydro lock, which occurs when oil leaks into the combustion chamber, preventing your spark plug from igniting the gas due to a lack of oxygen.
+            </p>
+            <div class="box">
+                <span>Is it possible to transport a motorbike by plane?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Sure, sending the bike by plane isn't as common as land transit, but if speed is the most important factor, this may be the best option in some cases!
+            </p>
+        </div>
+    </div>
+
     <!-- top scroll button end -->
 
     <!-- parent grid section end  -->
@@ -349,7 +432,7 @@
 
     <?php include_once page_bottom ?>
 
-
+    <script src="..//assets/js/faq.js"></script>
     <script>
         window.onscroll = function () {
 

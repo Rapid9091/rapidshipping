@@ -81,7 +81,7 @@
 <section class="main-footer">
     <div class="footer-urls-grid">
         <div class="footer-urls-grid-1">
-            <h3 class="footer-grid-headings">Quick Links</h3>
+        <p class="footer-grid-headings">Quick Links</p>
             <ul>
                 <li><a href="<?= home_path(); ?>">Home</a></li>
                 <li><a href="<?= home_path(); ?>about-us">About Us</a></li>
@@ -97,7 +97,7 @@
             </ul>
         </div>
         <div class="footer-urls-grid-1">
-            <h3>Blogs </h3>
+        <p class="footer-grid-headings">Blogs</p>
             <ul>
                 <li><a href="<?= home_path(); ?>blogs">Blogs</a></li>
                 <li><a href="<?= home_path(); ?>blogs/autoshipping-companies-in-arkansas-2022">Top companies Arkansas</a></li>
@@ -168,7 +168,7 @@
         </div>
 
         <div class="footer-urls-grid-1">
-            <h3>Important Links</h3>
+        <p class="footer-grid-headings">Important Links</p>
             <ul>
                 <li><a href="<?= home_path(); ?>services/multi-car-shipping">multi car shipping</a></li>
                 <li><a href="<?= home_path(); ?>services/heavy-hauling-truck">heavy hauling truck</a></li>
@@ -185,7 +185,7 @@
             </ul>
         </div>
         <div class="footer-urls-grid-1">
-            <h3>Quick Links</h3>
+            <p class="footer-grid-headings">Quick Links</p>
             <ul>
                 <li><a href="<?= home_path(); ?>services/hauling-oversize-load">hauling oversize load</a></li>
                 <li><a href="<?= home_path(); ?>services/line-haul-transport">line haul transport</a></li>
@@ -203,7 +203,7 @@
             </ul>
         </div>
         <div class="footer-urls-grid-1">
-            <h3>Services</h3>
+            <p class="footer-grid-headings">Services</p>
             <ul>
                 <li><a href="<?= home_path(); ?>services/yacht-shipping-services">yacht shipping services</a></li>
                 <li><a href="<?= home_path(); ?>services/international-boat-transport">international boat transport</a></li>

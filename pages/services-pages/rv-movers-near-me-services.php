@@ -39,6 +39,8 @@
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_all-service-page.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <style>
         .contact-us-header-page {
             width: 100%;
@@ -290,6 +292,122 @@
 
     </div>
 
+    <div class="body">
+
+
+        <div class="faq">FACTS & QUESTIONS</div>
+
+        <div class="container">
+            <div class="box">
+                <span>How Long Will It Take to Ship My RV?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The average period to transport a RV within the continental United States is one to two weeks. However, transporting a vehicle to Hawaii or Alaska can take up to eight weeks. In contrast, these are general limits; variables such as delivery truck bandwidth, traffic, weather, and other factors will impact your particular timings.
+            </p>
+            <div class="box">
+                <span>How Much Should I Expect to Spend on Shipping My RV?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Moving a vehicle costs between 40 cents and $2.00 per mile. Short-distance movements using open transportation have lower overall costs but higher average costs per mile than long-distance and cross-country shipping. You can negotiate reduced fees if you are more flexible with your drop-off and pickup times.
+            </p>
+            <div class="box">
+                <span>What Kind of Paperwork Will I Need?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">You must deliver the vehicle to the shipper when transporting a RV from Alabama to Arizona or arrange for someone else to do it.
+                <br><br>
+                The individual must also sign a Bill of Lading in control of retrieval. (BOL). A ticket and inspection summary are also included in the BOL. Verify that any visible damage has been recorded during the carrier's vehicle examination before writing.
+            </p>
+            <div class="box">
+                <span>Who Will Be Transporting My RV?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">In addition to local shipping with trailer trucks and foreign shipping with go ships or aircraft, the auto transport company offers a variety of auto shipping choices. However, the most common way to transport a RV in the US is with a trailer van. The two types of land-based RV transit are open transport and enclosed transport.
+            </p>
+            <div class="box">
+                <span>Where Will My RV Be Picked Up/Dropped Off?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">You must specify the state, city, and time you want your vehicle brought up and the day and time it will be available. It would help if you ensured that commercial vehicles could reach the collection location.
+                <br><br>
+                The carrier will contact you when they are only a few hours away from the delivery spot. Additionally, they're informing you so you can make plans to pick up your RV.
+            </p>
+            <div class="box">
+                <span>Should I Book RV Transportation Service Near Me?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The first thing that comes to mind when moving to a new place is the vehicle transportation service nearby. No, it is not a brilliant plan for you or your gorgeous RV to drive there yourself. Instead, rely on the simplicity of local vehicle transport to easily transport your automobile to your new home.
+                <br><br>
+                You only need to look for shippers and movers if you hire national vehicle haulers. You can contact the best vehicle carrier in the nation using the top American online directories. You can search  RV movers near me to get my company detail.
+            </p>
+            <div class="box">
+                <span>What Kind of Tracking Services Do You Offer?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Online tracking is available around-the-clock and is constantly updated. For example, when you reserve a shipment, you'll receive a unique booking number that enables you to follow the status of your freight online. You can also keep tabs on your vehicle by calling, emailing, or using Live Chat.
+            </p>
+            <div class="box">
+                <span>How Will I Know When My RV is Being Delivered?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The carrier will contact you when they are only a few hours away from the delivery spot. Just a polite warning, thank you. However, they're notifying you so you can make sure you're available to receive your RV. Therefore, if you anticipate being busy, don't worry; other plans can be arranged.
+            </p>
+            <div class="box">
+                <span>My RV Still Needs to arrive. Should I Be Worried?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Although most RV shippers make every effort to meet delivery deadlines, there will always be disruptions in the auto shipping business. However, you can always contact a RV carrier and auto shipping company's employees and monitor your go online, by phone, email, or Live Chat, so you don't have to stress about the delay. You can search RV movers near me to get my company detail.
+            </p>
+            <div class="box">
+                <span>Will My Exotic/Luxury RV Be Safe?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The driver must ensure that every unusual RV is safe while being transported. Drivers receive expert lifting techniques for low-profile, high-horsepower vehicles onto specialized transporters. They are skilled at safely securing them and releasing them for transport. No step of the process is rushed, and no aspect is overlooked.
+            </p>
+            <div class="box">
+                <span>How Do I Pay for Shipping My RV?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">We take bank/certified checks, all major credit cards, electronic transfers, mail money orders, and other evaluations for the deposit or complete pre-payment of your merchandise. At the time of delivery, any outstanding amount can be settled in cash, bank/certified check, or postal money order made directly to the driver.
+            </p>
+            <div class="box">
+                <span>Do You Ship RVs Internationally?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The basic process for foreign RV exports is the same, though more documentation exists. But, again, because you'll be exporting to a country with different laws, you'll frequently be asked to provide paperwork.
+            </p>
+            <div class="box">
+                <span>Should I Expect Any Extra Charges Once My RV is Delivered?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The distance heavily influences the price you ship your RV. However, if you are shipping your vehicle from or to a remote location, you may be assessed extra fees. For example, auto carriers may charge an additional price to drive your vehicle to a less populated area because it takes more time and is typically much farther away from the carrier's following location.
+            </p>
+            <div class="box">
+                <span>RV transporters near me | Will You Pick Up RVs that Don't Run?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Shipping a non-running RV is more challenging than transporting one that is functioning. To transfer and retrieve your automobile, your carrier must use specialized equipment. As a result, you must find a r v movers near me carrier with the required expertise to complete the job correctly.
+            </p>
+            <div class="box">
+                <span>Is Rapid Auto Shipping a Reliable Transportation Company?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Rapid Auto Shipping has decades of RV shipping experience. Our team is prepared to provide you with the best RV shipping service. We are a top-rated auto shipping company in the United States.
+                <br><br>
+                Rapid Auto Shipping can assist you with RV transportation! We can transport your RV anywhere in the United States or abroad.Our representatives will answer your questions and help you schedule vehicle transfer services immediately. Please call us at +1 (833) 233-4447 for a free quote.
+                <br><br>
+                You can create a quote using our online quotation application if you prefer another method. Requesting a free, immediate quote is straightforward. There are only four required fields: vehicle type, pickup location, and delivery address. There is no need for any private information. We look forward to hearing from you. You can search RV movers near me to get my company detail.
+            </p>
+            <div class="box">
+                <span>Who is Vehicle Shipping Intended For?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Auto transport companies help people transfer their automobiles from one location to another on a truck designed to move vehicles. This service is also known as vehicle shipment or RV shipping.
+            </p>
+            
+        </div>
+    </div>
+
     <!-- top scroll button end -->
 
     <!-- parent grid section end  -->
@@ -299,7 +417,7 @@
 
     <?php include_once page_bottom ?>
 
-
+    <script src="..//assets/js/faq.js"></script>
     <script>
         window.onscroll = function() {
 

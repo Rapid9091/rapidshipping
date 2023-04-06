@@ -40,6 +40,8 @@
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_all-service-page.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <style>
         .contact-us-header-page {
             width: 100%;
@@ -250,6 +252,94 @@
         </div>
     </div>
 
+    <div class="body">
+
+
+        <div class="faq">FACTS & QUESTIONS</div>
+
+        <div class="container">
+            <div class="box">
+                <span>How long does it take for car shipping?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The time it takes to transport your vehicle is determined by the location and the mode of transportation you select. For example, you can anticipate your car to be delivered less than 24 hours after pickup if you're moving it a few cities away and have it transported in a designated trailer.
+                <br><br>
+                However, if you're transporting it across multiple states in a standard trailer, transportation could take up to two weeks. (or more).
+            </p>
+            <div class="box">
+                <span>How does an auto shipping company function?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The car transport service company works only you plan a desired collection date and a spot for pickup and delivery.
+            </p>
+            <div class="box">
+                <span>Can I transport items in my vehicle?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Most car shipping firms will enable you to place a single piece of luggage with personal items carrying no more than 100 pounds in your vehicle's trunk.
+                <br><br>
+                Because many car trailers have a stringent maximum weight restriction, whether or not you are permitted to add more weight relies on the carrier transporting your vehicle. The shipper's insurance does not cover items in your vehicle.
+            </p>
+            <div class="box">
+                <span>When will you arrive to pick up my car?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Your assigned vehicle shipping company will call you a few hours before your pickup. They will clarify your pickup information. The driver must also determine whether the area is secure and legal for a big commercial car.
+                <br><br>
+                Only be concerned if it is because substitute accommodations, such as a parking lot, a more comprehensive street close, or where you work, can be arranged. The contact is also intended to ensure that someone is accessible to release the car.
+                <br><br>
+                If you cannot attend the pickup, you can appoint a third party, such as a neighbor, acquaintance, cousin, or co-worker, to act on your behalf.
+            </p>
+            <div class="box">
+                <span>When Car is Being Delivered?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The vehicle transfer company will contact you a few hours before they arrive. They usually offer you a few hours' warning so you can confirm your availability.
+                <br><br>
+                It's not an issue if you aren't. Designate a neighbor, friend, associate, or co-worker to receive delivery in your place. They must, however, be over the age of 18.
+                <br><br>
+                After a thorough examination of your car to ensure that everything is in working order, you must sign the Bill of Lading as approval of your arrival. If you choose the Discounted Price, this is when you make your final payment, which can be made in cash, money order, or teller check.
+            </p>
+            <div class="box">
+                <span>Who is Vehicle Shipping Intended For?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Auto transport businesses help people transfer their automobiles from one location to another on a truck designed to move vehicles. This service is also known as vehicle shipment or car shipping.
+            </p>
+            <div class="box">
+                <span>How Do I Pay for Shipping My Car?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">We take bank/certified checks, all major credit cards, electronic transfers, mail money orders, and other evaluations for the deposit or complete pre-payment of your merchandise. Cash, bank/certified check, or postal money order made directly to the courier may be used to settle any outstanding amount at delivery.
+            </p>
+            <div class="box">
+                <span>Do You Ship Cars Internationally?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Despite the additional documentation, the general procedure for exporting vehicles abroad is the same.
+                <br><br>
+                Because you'll be exporting to a country with different laws, you'll frequently be asked for the paperwork.
+            </p>
+            <div class="box">
+                <span>What Is The Door Door car Transport service?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">In our business, this expression can be deceptive. When a driver uses door to door car transport service, they will get as near your door as they can with a van that could be up to 75' long and 80,000 pounds when loaded with all the automobiles.
+                <br><br>
+                These trucks can't fit through tight spaces like alleyways or places where low-hanging tree limbs might damage nearby vehicles like lorries.
+                <br><br>
+                Additionally, there are weight limits, and it is forbidden to halt these trucks on public roads to load or unload automobiles. The driver will contact you the day before pickup and delivery to arrange a time and location to meet up and safely load or unload your car.
+            </p>
+            <div class="box">
+                <span>Is Transporting An Open Vehicle Secure?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Open car shipping is the most common and usually secure way to transport your vehicle. Your automobile will be fascinated by open air carriers using vehicles and trailers as securely and carefully as possible. Many reputable vehicle transport businesses also bring insurance to cover any potential damages.
+            </p>
+            
+        </div>
+    </div>
+
 
 
     <!-- top scroll button start -->
@@ -271,7 +361,7 @@
 
     <?php include_once page_bottom ?>
 
-
+    <script src="..//assets/js/faq.js"></script>
     <script>
         window.onscroll = function () {
 

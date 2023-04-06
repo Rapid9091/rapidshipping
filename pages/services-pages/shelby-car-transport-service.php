@@ -14,10 +14,11 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Shelby Car Transport Service | +1-833-233-4447" />
     <meta property="og:description" content="Rapid Auto Shipping is the industry's leading vehicle delivery business. We provide industrial and Shelby car transport service." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/best-shelby-car-transport-service" />
+    <meta property="og:url" content="https://rapidautoshipping.com/services/shelby-car-transport-service" />
     <meta property="og:site_name" content="Best Shelby Car Transport Service | +1-833-233-4447 />
-    <meta name='robots' content='index' />
-    <meta name="keywords" content="car transport service, car shipping, car shipping cost, auto transport , vehicle transport services />
+    <meta name='robots' content='index'" />
+    <meta name="keywords" content="Best Shelby Car Transport Service, car transport service, car shipping, car shipping cost, auto transport , vehicle transport services"/>
+    <meta property="article:tag" content="Best Shelby Car Transport Service" />
     <meta property="article:tag" content="car transport service" />
     <meta property="article:tag" content="car shipping" />
     <meta property="article:tag" content="car shipping cost" />
@@ -39,6 +40,8 @@
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_all-service-page.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <style>
         .contact-us-header-page {
             width: 100%;
@@ -94,7 +97,7 @@
                 </p>
             </div>
             <div class="shipping-form-state-image">
-            <img loading="lazy" src="<?=get_img();?>car-transport-service-3.jpeg" alt="car transport service"/>
+            <img loading="lazy" src="<?=get_img();?>car-transport-service-3.jpeg" alt="Best Shelby Car Transport Service"/>
 
             </div>
 
@@ -141,7 +144,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                     <img loading="lazy" src="<?=get_img();?>car-shipping-3.jpeg"
-                                alt="car shipping" /></div>
+                                alt="car transport service" /></div>
                     
                     <li id="3">
                         <div class="shipping-form-state-content">
@@ -247,6 +250,51 @@
         </div>
     </div>
 
+    <div class="body">
+
+
+        <div class="faq">FACTS & QUESTIONS</div>
+
+        <div class="container">
+            <div class="box">
+                <span>Is Your Auto Transport Team Licensed And Insured?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Our complete network of auto transport workers is fully insured and certified, with most of them having decades of experience.
+            </p>
+            <div class="box">
+                <span>What If My Vehicle Is Harmed During Transport?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">All of our chauffeurs undergo a comprehensive pre-transport examination to look for any previous damage, which must be signed by the individual releasing the vehicle and the transporter before moving the car. The transport insurance will cover any harm to the vehicle while it is in transit.
+            </p>
+            <div class="box">
+                <span>What Types of Car Delivery Do You Provide, And What Are The Distinctions?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">We have an extensive network of car haulers who can manage open, enclosed, or specialized transport. Enclosed transit is typically reserved for more costly or specialized vehicles, such as show cars, exotics, and expensive luxury vehicles.
+                <br><br>
+                On the other hand, open transport is the most prevalent type of car transport used for any vehicle that does not need to be protected from the elements.
+            </p>
+            <div class="box">
+                <span>Do You Offer Car Delivery In My State or City?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Our extensive provider network transports vehicles to every state and location nationwide. Jrop is a network that operates on a national scale.
+                <br><br>
+                <b>Receive Estimates for car shipping:</b>
+                <br>
+                Get FREE, no-obligation estimates from licensed and protected expert vehicle movers in our network who can service your relocation.
+                <br><br>
+                <b>Read Rapid Auto Shipping Guides:</b>
+                <br>
+                Use our FREE online vehicle transportation tools (guides, tips, and videos) for Rapid Auto Shipping suggestions.
+            </p>
+            
+            
+            
+        </div>
+    </div>
 
 
     <!-- top scroll button start -->
@@ -268,7 +316,7 @@
 
     <?php include_once page_bottom ?>
 
-
+    <script src="..//assets/js/faq.js"></script>
     <script>
         window.onscroll = function() {
 
