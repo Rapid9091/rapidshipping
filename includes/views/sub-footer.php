@@ -15,7 +15,7 @@
                             <div class="address-1">
                                 <img loading="lazy" height="20" width="20" alt="rapid auto shipping" src="<?= get_img() ?>location-pin.png" />
                             </div>
-                            <!-- <div class="address-2">
+                            <div class="address-2">
                                 <a href="https://www.google.com/maps?ll=34.468384,-101.304284&z=5&t=m&hl=en&gl=US&mapclient=embed&cid=11474043018341862120">
                                     906 S Main Street
                                     <br>
@@ -23,7 +23,7 @@
 
                                     USA-79257
                                 </a>
-                            </div> -->
+                            </div>
                         </div>
                     </div>
                     <div class="under-map-design-1">
