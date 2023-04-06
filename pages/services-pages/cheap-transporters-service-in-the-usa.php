@@ -43,6 +43,8 @@
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_all-service-page.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <style>
         .contact-us-header-page {
             width: 100%;
@@ -297,14 +299,132 @@
                     </li>
                 </ul>
             </section>
-
-
         </div>
+
 
         <div class="right-state-to-state-child" id="right-state-to-state-child">
             <?php
             include side_form;
             ?>
+        </div>
+    </div>
+
+    <div class="body">
+
+
+        <div class="faq">FACTS & QUESTIONS</div>
+
+        <div class="container">
+            <div class="box">
+                <span>How Long Does a Cheap Transportation Vehicle Take?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">A car will be picked up for shipping within 3-7 days, and delivery time can be predicted based on typical driving time, distance, weather, and time of year.
+            </p>
+            <div class="box">
+                <span>How Much Should I Expect to Spend on Cheapest Car Shipping?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The vehicle's size and weight determine the cost of the cheapest car shipping services, the time of year, the cost of petrol, and the distance traveled. The price of your automobile transportation will be affected by whether you use an enclosed car carrier or open car transport, the door to door car transportation option, and whether or not the car is inoperable.
+            </p>
+            <div class="box">
+                <span>What Paperwork Do I Need To Cheap Transport?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">A bill of lading and your insurance terms and conditions are required documents for automobile transfer. A lienholder and absent owner authorization are also needed for shipments to or from Hawaii.
+            </p>
+            <div class="box">
+                <span>Who Will Be Transporting My Car?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The cheap transporters offer a variety of automotive shipping alternatives, including local shipping by trailer trucks and international shipping through cargo ships or planes.
+                <br><br>
+                Nonetheless, the trailer truck is the most common mode of automobile shipment in the United States. The two types of land-based vehicle transportation are open transport and enclosed transport.
+            </p>
+            <div class="box">
+                <span>Where Will My Car Be Picked Up/Dropped Off?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">You must specify where you want your car picked up and the day and hour it will be ready for pickup. You must also guarantee that commercial vehicles have access to the pickup location.
+                <br><br>
+                When the courier is only a few hours from the delivery location, they will notify you. They're also informing you so you can arrange to pick up your car.
+            </p>
+            <div class="box">
+                <span>What Kind of Tracking Services Do Cheap Transporters Offer?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Online monitoring is available at any time of day or night and is always up to date. When you plan a shipment, you will be given a unique booking number that will allow you to track the status of your cargo online, and you will be able to monitor your vehicle through phone, email, or Live Chat.
+            </p>
+            <div class="box">
+                <span>What Is The Cheapest Car Shipping Way to Ship a Car That Does Not Run?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Yes, you can; we transport several broken down cars. However, inoperable cars and vehicles typically take longer to gather up and cost more because not all truckers can or are willing to carry them.
+            </p>
+            <div class="box">
+                <span>Can I transport my personal belongings in the car?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">In most cases, you can store up to 100 pounds of personal items in the trunk or storage section of your vehicle, truck, or SUV. Otherwise, your car must be vacant. This is because those cheap transporters do not have a license or insurance to move household goods across state borders.
+            </p>
+            <div class="box">
+                <span>How do I pay for my cheap transportation vehicle?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">You make a small deposit to secure a deal. We will provide the truck driver's name, phone number, and collection and delivery times when we plan and send you to a carrier. The truck driver receives the excess amount in certified money upon arrival.
+            </p>
+            <div class="box">
+                <span>Do You Ship Cars Internationally?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The basic process for foreign car exports is the same, though more documentation exists. But, again, because you'll be exporting to a country with different laws, you'll frequently be asked to provide paperwork.
+            </p>
+            <div class="box">
+                <span>Should I Expect Any Extra Charges Once My Car is Delivered?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The price is heavily influenced by the distance you ship your car. However, if you are shipping your car from or to a remote location, you may be assessed extra fees.
+                <br><br>
+                For example, auto carriers may charge an additional price to drive your vehicle to a less populated area because it takes more time and is typically much farther away from the carrier's following location.
+            </p>
+            <div class="box">
+                <span>Is it worthwhile to ship a vehicle?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">According to our research, it is always more cost-effective to ship your vehicle rather than buy a new one. However, before settling on this decision, you’ll want to take stock of how much it will cost to sell your vehicle, ship it, and buy a new one.
+            </p>
+            <div class="box">
+                <span>How can I cut costs on car shipping?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">There are several ways to save money on car shipping, including using open transport rather than enclosed transport and shipping from terminal to terminal. You can also save money on vehicle shipping by selecting flexible arrival dates.
+            </p>
+            <div class="box">
+                <span>What is the cheapest car shipping service?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Open vehicle shipping is the cheapest method to send your automobile. The only disadvantage of this choice is that your car will be exposed to the elements while being transported.
+            </p>
+            <div class="box">
+                <span>What kinds of cars can be transported?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Cheap transporters can usually carry any vehicle to your transportation location, including sedans, SUVs, premium cars, and motorbikes. Automobiles that are not operable or are in poor shape can also be transported for a charge.
+            </p>
+            <div class="box">
+                <span>What Is The Expense Of Cheap Car Shipping 1,000 Miles?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Depending on the provider, the usual cost for a 1,000-mile shipping task could vary from $750 to $1,000 or more. Other variables to consider include the time of year, the sort of vehicle being transported, and the mode of transportation.
+            </p>
+            <div class="box">
+                <span>Is Rapid Auto Shipping Reliable Transportation Company?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Rapid Auto Shipping can help you with vehicle shipping! We can transport your car anywhere in the United States or abroad. Our representatives will answer your questions and help you schedule vehicle transfer services immediately.
+            </p>
+            
+            
         </div>
     </div>
 
@@ -329,7 +449,7 @@
 
     <?php include_once page_bottom ?>
 
-
+    <script src="..//assets/js/faq.js"></script>
     <script>
         window.onscroll = function () {
 

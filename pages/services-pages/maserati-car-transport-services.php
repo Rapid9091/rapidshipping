@@ -47,6 +47,8 @@
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_all-service-page.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <style>
         .contact-us-header-page {
             width: 100%;
@@ -288,6 +290,84 @@
         </div>
     </div>
 
+    <div class="body">
+
+
+        <div class="faq">FACTS & QUESTIONS</div>
+
+        <div class="container">
+            <div class="box">
+                <span>What is the most affordable shipping option for a car?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The least expensive car transport service company is usually Rapid Auto Shipping, with a car shipping cost of just over $1,000. However, your quote might vary based on your requirements, where you reside, and your car. Before making a choice, it is always a good idea to evaluate prices from different suppliers.
+            </p>
+            <div class="box">
+                <span>What distinguishes a delivery provider from a carrier?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">A carrier is an organization or person who transports your automobile, whereas an auto transport broker links clients with carriers and coordinates their interactions.
+            </p>
+            <div class="box">
+                <span>How can I get a delivery quote for a car?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">You can get in touch with a vehicle delivery firm to request an estimate for car shipping You'll have to give some information about your car, as well as where and how you want to send it.
+                <br><br>
+                Following receipt of this data, the car shipping company will contact you with an estimate and a proposal to put you in contact with a carrier.
+            </p>
+            <div class="box">
+                <span>How Long Will It Take to Ship My Car?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">In the continental United States, auto transport usually takes one to two weeks. On the other hand, shipping a vehicle to Hawaii or Alaska can take up to eight weeks or longer.
+                <br><br>
+                These are wide ranges in contrast; your precise timeframes will be affected by factors like traffic, weather, and delivery vehicle bandwidth.
+            </p>
+            <div class="box">
+                <span>What Kind of Tracking Services Do You Offer?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Online monitoring is always up to date and accessible at all hours of the day or night. You will be provided with a special registration number when you send it so that you can track the status of your items online. You can also track your car by calling, emailing, or using Live Chat.
+            </p>
+            <div class="box">
+                <span>How Will I Know When My Car is Being Delivered?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">They will notify you when the courier is just a few hours away. This is merely a friendly prod. However, they're telling you this so you can make sure you're accessible to pick up your car. Therefore, if you are aware that you will be busy, don't fret; other plans can be made.
+            </p>
+            <div class="box">
+                <span>Will My Exotic/Luxury Car Be Safe?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The driver must make sure that each unusual vehicle is secure during the transfer. Drivers are instructed in the proper techniques for transferring low-profile, high-horsepower cars onto specialized carriers.
+                <br><br>
+                They are aware of safe methods for securing them and releasing them so they can give delivery. No step of the procedure is skipped, and it is not rushed.
+            </p>
+            <div class="box">
+                <span>Will You Pick Up Cars that Don't Run?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Transporting a vehicle that isn't operating is more difficult than one that is. Your carrier needs to use specialized tools to move and recover your vehicle. You must therefore locate a page with the necessary knowledge to carry out the task properly.
+            </p>
+            <div class="box">
+                <span>What Trustworthy Businesses Offer Exotic Car Transportation?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Yes, enclosed transit is commonly used by vintage car transporters. High-value vehicles can be transported in an open transport container, but because it shields them from the elements and road detritus, enclosed car transport is typically advised.
+            </p>
+            <div class="box">
+                <span>What Kind of Paperwork Will I Need?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">You must either give the car over to the transporter or arrange to have it done for you when having a car transported from Alabama to Arizona.
+                <br><br>
+                Additionally, the person in charge of recovery must execute a Bill of Lading. (BOL). The BOL also contains a summary of the citation and examination. Make sure that any obvious harm was noted during the carrier's vehicle inspection before writing. The only papers with content are signature ones.
+            </p>
+            
+        </div>
+    </div>
+
 
 
     <!-- top scroll button start -->
@@ -309,7 +389,7 @@
 
     <?php include_once page_bottom ?>
 
-
+    <script src="..//assets/js/faq.js"></script>
     <script>
         window.onscroll = function () {
 

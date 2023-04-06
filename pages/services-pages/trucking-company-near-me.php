@@ -44,6 +44,8 @@
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_all-service-page.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <style>
         .contact-us-header-page {
             width: 100%;
@@ -373,6 +375,103 @@
         </div>
     </div>
 
+    <div class="body">
+
+
+        <div class="faq">FACTS & QUESTIONS</div>
+
+        <div class="container">
+            <div class="box">
+                <span>How Long Will It Take to Ship My Truck?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The distance between the pickup and delivery sites will determine the length of the truck transportation. We only deal with reputable trucking companies that use road transport, so your transfer will be made by truck or van. High-end car transport services within Rapid Auto Shipping using the specialized service may take between.
+            </p>
+            <div class="box">
+                <span>How Much Should I Expect to Spend on Transportation Trucking?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Moving a vehicle costs between 40 cents and $2.00 per mile.
+                <br><br>
+                Compared to long-distance and cross-country shipping, short-distance Open transit movements have lower total costs but higher average expenses per mile. You might obtain lower charges if you are more flexible with your drop-off and pickup dates.
+            </p>
+            <div class="box">
+                <span>What Kind of Paperwork Will I Need?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The law requires us to validate the ownership of the vehicle we're shipping and have duplicates on hand in case the transport is halted for a regular check. Therefore, before accepting the shipping pledge, you must provide evidence of ownership and legitimate insurance for the car.
+            </p>
+            <div class="box">
+                <span>Who Will Be Transport the Truck?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The truck is the most prevalent method of transportation in the United States. It can transport almost anywhere and offers quick dispatch of shipments traveling small distances. It is frequently used in conjunction with other forms of transit for first- and last-mile shipping.
+            </p>
+            <div class="box">
+                <span>Where Be Will the Transportation truck Picked Up/Dropped Off?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">If your collection site is distant or difficult to reach the region, the cost of your truckload freight cargo may also be affected. Cities and highly populated areas are more likely to be closer to the company and require less of an early trip.
+            </p>
+            <div class="box">
+                <span>Should I Book a Truck Company Service Near Me?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The first thing that comes to mind when moving to a new place is the trucking company near me. No, it is not a bright plan for you or your truck to drive there yourself. Instead, rely on the simplicity of trucking company near me to easily transport your truck to your new home. You only need to look for shippers and movers if you hire trucking company. Then, you can reach the top vehicle carrier in the country.
+            </p>
+            <div class="box">
+                <span>What Kind of Tracking Services Do You Offer?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">You can view the continuously updated web monitoring at any time of day or night. A unique booking number enabling online tracking of your goods will be provided when you plan to ship. Additionally, a shipping agent will be available via live Chat through your monitoring site to answer any questions you may have regarding the status of your parcel.
+            </p>
+            <div class="box">
+                <span>How Will I Know When My Car is Being Delivered?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">When the carrier is only a few hours from arrival, they will call you. Thank you for your courtesy. They're notifying you, however, so you can ensure you're accessible to receive your vehicle. Don't worry if you foresee being occupied; alternative arrangements can be made.
+            </p>
+            <div class="box">
+                <span>Will My Exotic/Luxury Car Be Safe?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">When moving, the driver must ensure that every exotic car is secure during transit. Drivers receive expert lifting techniques for low-profile, high-horsepower vehicles onto specialized transporters. They are skilled at protecting them without harming them and safely releasing them for transport. No step of the process is rushed, and no aspect is overlooked.
+            </p>
+            <div class="box">
+                <span>How Do I Pay for Shipping My Car?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Payroll and a Wisely Direct debit card are additional payment options direct payment for workers. In addition, paychecks with sophisticated scam protection tools, such as check signing and stuffing services, are available to paid payroll package subscribers—a feature that none of the other service providers in this comparison offer.
+            </p>
+            <div class="box">
+                <span>Will You Pick Up Cars that Don't Run?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Shipping a non-running vehicle is more difficult than shipping an operating car. Your carrier must use specialized tools to move and recover your vehicle. As a result, you must locate a carrier who possesses the necessary knowledge to complete the task properly.
+            </p>
+            <div class="box">
+                <span>My Car Still Needs to Arrive. Should I Be Worried?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Delays are a daily reality in the auto shipping industry. Still, you don't have to worry about them because you can always contact a car transporter and auto shipping company's staff and track your shipment online, by phone, email, or Live Chat.
+            </p>
+            <div class="box">
+                <span>Should I Expect Any Extra Charges Once My Car is Delivered?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The distance will significantly impact the cost of your car sent. However, if you are transporting your car from or to a distant location, you might have to pay more. Because it takes longer and is typically much farther from the carrier's following site, auto transporters occasionally charge extra to drive your car to a less populated area.
+            </p>
+            <div class="box">
+                <span>Do You Ship Cars Internationally?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Although there is more documentation, the general process is the same for exports of automobiles internationally. You'll frequently be asked for documentation because you'll be exporting to a country with different legal requirements.
+            </p>
+            
+            
+        </div>
+    </div>
+
 
 
     <!-- top scroll button start -->
@@ -394,7 +493,7 @@
 
     <?php include_once page_bottom ?>
 
-
+    <script src="..//assets/js/faq.js"></script>
     <script>
         window.onscroll = function () {
 
