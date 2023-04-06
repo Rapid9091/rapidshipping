@@ -168,7 +168,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                         <img loading="lazy" src="<?=get_img();?>car-transport-service.jpeg"
-                            alt="car transport service" />
+                            alt="Best Mercedes Benz Car Transport Service" />
 
                     </div>
 
@@ -204,7 +204,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>car-shipping.jpeg" alt="car shipping" />
+                        <img loading="lazy" src="<?=get_img();?>car-shipping.jpeg" alt="car transport service" />
 
                     </div>
                     <li id="4">
@@ -248,7 +248,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                         <img loading="lazy" src="<?=get_img();?>vehicle-transport-services.jpeg"
-                            alt="vehicle transport services" />
+                            alt="car shipping" />
 
                     </div>
                     <!-- <div class="shipping-form-state-image">
@@ -278,7 +278,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>auto-transport.jpeg" alt="auto transport" />
+                        <img loading="lazy" src="<?=get_img();?>auto-transport.jpeg" alt="car shipping cost" />
                     </div>
                     <li id="7">
                         <div class="shipping-form-state-content">
