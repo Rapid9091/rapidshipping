@@ -568,11 +568,7 @@ div[class*="special-red-btn"] {
   box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.15) !important;
 }
 
-.all-state-name-grids-section {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  padding: 2% 5%;
-}
+
 
 .all-state-name-grids {
   margin: 2% 0;

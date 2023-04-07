@@ -77,6 +77,11 @@ include_once "../../init.php";
     margin: 2% 0;
     line-height: 1.8;
 }
+.all-state-name-grids-section {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  padding: 2% 5%;
+}
     </style>
 </head>
 
