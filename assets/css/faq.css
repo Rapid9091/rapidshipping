@@ -42,6 +42,7 @@
             transition: all 0.1s linear;
             text-align: left;
             font-weight: 500;
+            padding: 0 15px;
             /* transition: max-height 0.5s, padding 0.5s; */
            
         }

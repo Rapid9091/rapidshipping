@@ -77,6 +77,28 @@ include_once "../../init.php";
     margin: 2% 0;
     line-height: 1.8;
 }
+.all-state-name-grids-section {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  padding: 2% 5%;
+}
+.rapid-advantages-grid-container {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  padding: 2% 2%;
+}
+.rapid-advantages-section {
+  padding: 0 5%;
+}
+.all-state-name-page-mains {
+  padding: 0 2% 0% 2%;
+}
+.all-state-name-pages {
+  background-color: var(--section-background);
+  padding: 1% 0;
+  border-radius: 14px;
+  border: 1px solid var(--nav-color);
+  box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.15) !important;
+}
     </style>
 </head>
 
@@ -108,7 +130,9 @@ include_once "../../init.php";
                 </div>
                 <div style="display:grid;
                 place-items:center;">
-                    <?php include small_form_new ;?>
+                    <?php 
+                    include small_form_new ;
+                    ?>
                 </div>
 
 
@@ -627,20 +651,20 @@ include_once "../../init.php";
 
  <!---------------- Advantages section--------- -->
     <!-- ------------------------ -->
-    <section class="rapid-advantages-section" style="margin-top:5%">
+    <section class="rapid-advantages-section" style="margin-top:3%">
         <div class="rapid-advantages-grid-container">
             <h2 class="heading-1">Advantages using <span>Rapid Auto Shipping</span></h2>
-            <div class="rapid-advantages-grid utility_grid utility_grid-3">
+            <div class="rapid-advantages-grid utility_grid utility_grid-4">
                 <div class="rapid-advantages-grid-1 ">
                     <img src="<?= get_img() ?>icons/rating.png" alt="best car shipping in USA">
                     <h3>Top Rated Auto Shipping Company</h3>
                     <p>We have thousands of 5-star reviews for exceptional vehicle shipping services.</p>
                 </div>
-                <div class="rapid-advantages-grid-1 ">
+                <!-- <div class="rapid-advantages-grid-1 ">
                     <img src="<?= get_img() ?>icons/route-2.png" alt="best car shipping in USA">
                     <h3>Nationwide Door to Door Shipping</h3>
                     <p>We provide direct service to and from any residential or business location in the US.</p>
-                </div>
+                </div> -->
                 <div class="rapid-advantages-grid-1 ">
                     <img src="<?= get_img() ?>icons/auto-insurance-icon.png" alt="best car shipping in USA">
                     <h3>Complete Vehicle Coverage</h3>
@@ -651,11 +675,11 @@ include_once "../../init.php";
                     <h3>No Up-Front Deposit Required</h3>
                     <p>You don't pay a penny until the day your shipment is scheduled for pickup.</p>
                 </div>
-                <div class="rapid-advantages-grid-1 ">
+                <!-- <div class="rapid-advantages-grid-1 ">
                     <img src="<?= get_img() ?>icons/support.png" alt="Albama to alaska shipping">
                     <h3>Extended Office Hours</h3>
                     <p>We're available past normal business hours in every timezone in the country.</p>
-                </div>
+                </div> -->
                 <div class="rapid-advantages-grid-1 ">
                     <img src="<?= get_img() ?>icons/online-tracking.png" alt="Albama to alaska shipping">
                     <h3>24/7 Online Shipment Tracking</h3>
@@ -673,7 +697,7 @@ include_once "../../init.php";
 
 
 <!---------------- state names for all the states ---------->
-    <section class="all-state-name-page-mains" style="margin:4%;">
+    <section class="all-state-name-page-mains" style="margin:3%;">
         <section class="all-state-name-pages">
             <h2 class="heading-1">
                 Auto shipping <span>States</span> in USA </h2>
@@ -687,8 +711,6 @@ include_once "../../init.php";
                     <a href="<?= get_state() ?>/alabama" rel="dofollow">Alabama</a><br>
                     <a href="<?= get_state() ?>/connecticut" rel="dofollow">Connecticut</a><br>
                     <a href="<?= get_state() ?>/delaware" rel="dofollow">Delaware</a><br>
-                    <a href="<?= get_state() ?>/florida" rel="dofollow">Florida</a><br>
-                    <a href="<?= get_state() ?>/georgia" rel="dofollow">Georgia</a><br>
                 </div>
                 <div class="all-state-name-grids">
                     <a href="<?= get_state() ?>/hawaii" rel="dofollow">Hawaii</a><br>
@@ -699,8 +721,7 @@ include_once "../../init.php";
                     <a href="<?= get_state() ?>/kansas" rel="dofollow">Kansas</a><br>
                     <a href="<?= get_state() ?>/kentucky" rel="dofollow">Kentucky</a><br>
                     <a href="<?= get_state() ?>/louisiana" rel="dofollow">Louisiana</a><br>
-                    <a href="<?= get_state() ?>/maine" rel="dofollow">Maine</a><br>
-                    <a href="<?= get_state() ?>/maryland" rel="dofollow">Maryland</a><br>
+                   
 
                 </div>
                 <div class="all-state-name-grids">
@@ -712,8 +733,7 @@ include_once "../../init.php";
                     <a href="<?= get_state() ?>/montana" rel="dofollow">Montana</a><br>
                     <a href="<?= get_state() ?>/nebraska" rel="dofollow">Nebraska</a><br>
                     <a href="<?= get_state() ?>/nevada" rel="dofollow">Nevada</a><br>
-                    <a href="<?= get_state() ?>/new-hampshire" rel="dofollow">New Hampshire</a><br>
-                    <a href="<?= get_state() ?>/new-jersey" rel="dofollow">New Jersey</a><br>
+                    
 
                 </div>
                 <div class="all-state-name-grids">
@@ -725,8 +745,7 @@ include_once "../../init.php";
                     <a href="<?= get_state() ?>/oklahoma" rel="dofollow">Oklahoma</a><br>
                     <a href="<?= get_state() ?>/oregon" rel="dofollow">Oregon</a><br>
                     <a href="<?= get_state() ?>/pennsylvania" rel="dofollow">Pennsylvania</a><br>
-                    <a href="<?= get_state() ?>/rhode-island" rel="dofollow">Rhode Island</a><br>
-                    <a href="<?= get_state() ?>/south-carolina" rel="dofollow">South Carolina</a><br>
+                    
 
                 </div>
                 <div class="all-state-name-grids">
@@ -739,7 +758,20 @@ include_once "../../init.php";
                     <a href="<?= get_state() ?>/washington-wa" rel="dofollow">Washington</a><br>
                     <a href="<?= get_state() ?>/west-virginia-wv" rel="dofollow">West Virginia</a><br>
                     <a href="<?= get_state() ?>/wisconsin-wi" rel="dofollow">Wisconsin</a><br>
+                    
+                </div>
+                <div class="all-state-name-grids">
+                <a href="<?= get_state() ?>/florida" rel="dofollow">Florida</a><br>
+                    <a href="<?= get_state() ?>/georgia" rel="dofollow">Georgia</a><br>
+                    <a href="<?= get_state() ?>/maine" rel="dofollow">Maine</a><br>
+                    <a href="<?= get_state() ?>/maryland" rel="dofollow">Maryland</a><br>
+                    <a href="<?= get_state() ?>/new-hampshire" rel="dofollow">New Hampshire</a><br>
+                    <a href="<?= get_state() ?>/new-jersey" rel="dofollow">New Jersey</a><br>
                     <a href="<?= get_state() ?>/wyoming-wy" rel="dofollow">Wyoming</a><br>
+                    <a href="<?= get_state() ?>/rhode-island" rel="dofollow">Rhode Island</a><br>
+                    <a href="<?= get_state() ?>/south-carolina" rel="dofollow">South Carolina</a><br>
+                    
+
                 </div>
             </section>
         </section>
