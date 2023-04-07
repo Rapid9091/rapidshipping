@@ -114,17 +114,17 @@
 
         <div class="footer-urls-grid-1">
             <p class="footer-grid-headings">State to state</p>
-            <ul>
+            <ul> 
                 <li><a href="<?= home_path(); ?>state-to-state">State to state</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state/alabama-to-alaska">Alabama to Alaska</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/texas-to-arizona">texas to arizona</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/texas-to-arkansas">texas to arkansas</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/alabama-to-alaska">alabama to alaska</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/texas-to-california">texas to california</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/alabama-to-arizona">Alabama to Arizona</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state/texas-to-california">Texas to California</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state/texas-to-california">Texas to California</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state/alabama-to-arizona">Alabama to Arizona</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state/alabama-to-alaska">Alabama to Alaska</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state/new-jersey-to-california">New Jersey to California</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state/california-to-texas">California to Texas</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/california-to-texas">california to texas</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/california-to-arizona">California to Arizona</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/mexico-to-arizona">mexico-to-arizona</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/texas-to-colorado">texas-to-colorado</a></li>
             </ul>
         </div>
         <div class="footer-urls-grid-1">
@@ -148,14 +148,14 @@
         <div class="footer-urls-grid-1">
             <p class="footer-grid-headings">Our Latest Blogs</p>
             <ul>
-                <li><a href="<?= home_path(); ?>blogs/port-to-port-transportation">Port to port auto transport</a></li>
-                <li><a href="<?= home_path(); ?>blogs/shipping-a-dump-truck">Dump truck transport in USA</a></li>
-                <li><a href="<?= home_path(); ?>blogs/auction-auto-transport-services">Auction car auto transport In USA</a></li>
-                <li><a href="<?= home_path(); ?>blogs/atvs-shipping">ATV shipping services In USA</a></li>
-                <li><a href="<?= home_path(); ?>blogs/how-to-prepare-your-vehicle">How to prepare your vehicle for shipping</a></li>
-                <li><a href="<?= home_path(); ?>blogs/transporting-car-to-dealership">Transporting car to dealership</a></li>
-                <li><a href="<?= home_path(); ?>blogs/camper-transport">Camper Transport with RSA</a></li>
-                <li><a href="<?= home_path(); ?>blogs/travel-trailer-moving-service">Trailer Moving Services</a></li>
+                <li><a href="<?= home_path(); ?>blogs/boat-shipping-how-much-does-it-cost-to-transport-a-boat">boat shipping how much does it cost to transport a boat</a></li>
+                <li><a href="<?= home_path(); ?>blogs/enclosed-vs-open-car-transport">enclosed vs open car transport</a></li>
+                <li><a href="<?= home_path(); ?>blogs/cheapest-way-to-ship-a-car-to-hawaii">cheapest way to ship a car to hawaii</a></li>
+                <li><a href="<?= home_path(); ?>blogs/what-is-it-snowbird-auto-transport">what is it snowbird auto transport</a></li>
+                <li><a href="<?= home_path(); ?>blogs/transporting-my-car-to-another-state">transporting my car to another state</a></li>
+                <li><a href="<?= home_path(); ?>blogs/cost-from-california-to-texas">cost from california to texas</a></li>
+                <li><a href="<?= home_path(); ?>blogs/bus-transportation-services">bus transportation services</a></li>
+                <li><a href="<?= home_path(); ?>blogs/fifth-wheel-transport-services">fifth wheel transport services</a></li>
                 <li><a href="<?= home_path(); ?>blogs/how-can-i-move-a-motorcycle">How to ship a motorcycle</a></li>
                 <li><a href="<?= home_path(); ?>blogs/international-car-shipping-tips">Tips for international car shipping</a></li>
 
