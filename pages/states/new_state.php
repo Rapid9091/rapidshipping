@@ -92,6 +92,13 @@ include_once "../../init.php";
 .all-state-name-page-mains {
   padding: 0 2% 0% 2%;
 }
+.all-state-name-pages {
+  background-color: var(--section-background);
+  padding: 1% 0;
+  border-radius: 14px;
+  border: 1px solid var(--nav-color);
+  box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.15) !important;
+}
     </style>
 </head>
 
