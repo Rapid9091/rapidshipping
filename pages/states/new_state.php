@@ -745,7 +745,6 @@ include_once "../../init.php";
                     <a href="<?= get_state() ?>/oklahoma" rel="dofollow">Oklahoma</a><br>
                     <a href="<?= get_state() ?>/oregon" rel="dofollow">Oregon</a><br>
                     <a href="<?= get_state() ?>/pennsylvania" rel="dofollow">Pennsylvania</a><br>
-                    <a href="<?= get_state() ?>/wyoming-wy" rel="dofollow">Wyoming</a><br>
                     
 
                 </div>
@@ -764,11 +763,11 @@ include_once "../../init.php";
                 <div class="all-state-name-grids">
                 <a href="<?= get_state() ?>/florida" rel="dofollow">Florida</a><br>
                     <a href="<?= get_state() ?>/georgia" rel="dofollow">Georgia</a><br>
-                    <a href="<?= get_state() ?>/minnesota" rel="dofollow">Minnesota</a><br>
                     <a href="<?= get_state() ?>/maine" rel="dofollow">Maine</a><br>
                     <a href="<?= get_state() ?>/maryland" rel="dofollow">Maryland</a><br>
                     <a href="<?= get_state() ?>/new-hampshire" rel="dofollow">New Hampshire</a><br>
                     <a href="<?= get_state() ?>/new-jersey" rel="dofollow">New Jersey</a><br>
+                    <a href="<?= get_state() ?>/wyoming-wy" rel="dofollow">Wyoming</a><br>
                     <a href="<?= get_state() ?>/rhode-island" rel="dofollow">Rhode Island</a><br>
                     <a href="<?= get_state() ?>/south-carolina" rel="dofollow">South Carolina</a><br>
                     
