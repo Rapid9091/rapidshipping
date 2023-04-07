@@ -161,7 +161,7 @@ h6 > span,
 /* -------------------- */
 
 .rapid-advantages-section {
-  padding: 0 10%;
+  padding: 0 5%;
 }
 
 .rapid-advantages-grid-container > h2 {
@@ -172,7 +172,7 @@ h6 > span,
 
 .rapid-advantages-grid-container {
   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
-  padding: 5% 2%;
+  padding: 2% 2%;
 }
 
 .rapid-advantages-grid-1 {
@@ -551,7 +551,7 @@ div[class*="special-red-btn"] {
 /* all state name extra css */
 
 .all-state-name-page-mains {
-  padding: 0 10% 0% 10%;
+  padding: 0 2% 0% 2%;
 }
 
 .all-state-name-pages > h2,
@@ -562,7 +562,7 @@ div[class*="special-red-btn"] {
 
 .all-state-name-pages {
   background-color: var(--section-background);
-  padding: 2% 0;
+  padding: 1% 0;
   border-radius: 14px;
   border: 1px solid var(--nav-color);
   box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.15) !important;
@@ -570,8 +570,8 @@ div[class*="special-red-btn"] {
 
 .all-state-name-grids-section {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  padding: 4% 5%;
+  grid-template-columns: repeat(6, 1fr);
+  padding: 2% 5%;
 }
 
 .all-state-name-grids {
