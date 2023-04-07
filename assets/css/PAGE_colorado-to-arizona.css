@@ -170,10 +170,7 @@ h6 > span,
   margin-bottom: 3%;
 }
 
-.rapid-advantages-grid-container {
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
-  padding: 2% 2%;
-}
+
 
 .rapid-advantages-grid-1 {
   height: 250px;
@@ -567,8 +564,6 @@ div[class*="special-red-btn"] {
   border: 1px solid var(--nav-color);
   box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.15) !important;
 }
-
-
 
 .all-state-name-grids {
   margin: 2% 0;

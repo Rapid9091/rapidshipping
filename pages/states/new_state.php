@@ -82,6 +82,10 @@ include_once "../../init.php";
   grid-template-columns: repeat(6, 1fr);
   padding: 2% 5%;
 }
+.rapid-advantages-grid-container {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  padding: 2% 2%;
+}
     </style>
 </head>
 
