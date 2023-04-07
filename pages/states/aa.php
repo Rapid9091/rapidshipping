@@ -1,6 +1,6 @@
 <?php
 include_once "../../init.php";
-$sql ="SELECT * FROM states where id = 2";
+$sql ="SELECT * FROM states where id = 5";
 $result = mysqli_query($con, $sql) or die('failed to fetch data');
 $data = mysqli_fetch_assoc($result);
 
@@ -13,10 +13,7 @@ $data = mysqli_fetch_assoc($result);
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?= $data['title'];?></title>
-    <?php
-    
-    echo $data['meta'];
-    ?>
+    <?= htmlspecialchars_decode($data['meta']); ?>
 
 
     
