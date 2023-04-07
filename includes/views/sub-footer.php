@@ -156,8 +156,8 @@
                 <li><a href="<?= home_path(); ?>blogs/cost-from-california-to-texas">Ship Car From California To Texas</a></li>
                 <li><a href="<?= home_path(); ?>blogs/bus-transportation-services">Benefits Of Using Bus Transport Services</a></li>
                 <li><a href="<?= home_path(); ?>blogs/fifth-wheel-transport-services">Fifth Wheel Transport Services</a></li>
-                <li><a href="<?= home_path(); ?>blogs/how-can-i-move-a-motorcycle">How To Move My Motorcycle</a></li>
-                <li><a href="<?= home_path(); ?>blogs/international-car-shipping-tips">Tips For International Car Shipping</a></li>
+                <!-- <li><a href="<?= home_path(); ?>blogs/how-can-i-move-a-motorcycle">How To Move My Motorcycle</a></li> -->
+                <!-- <li><a href="<?= home_path(); ?>blogs/international-car-shipping-tips">Tips For International Car Shipping</a></li> -->
 
             </ul>
         </div>
