@@ -50,7 +50,7 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: repeat, no-repeat;
-            background-image: url('https://rapidautoshipping.com/assets/images/truck-title.webp');
+            background-image: url('..//assets/images/truck-title.webp');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
