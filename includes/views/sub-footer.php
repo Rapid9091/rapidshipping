@@ -123,8 +123,8 @@
                 <li><a href="<?= home_path(); ?>state-to-state/alabama-to-arizona">Alabama to Arizona</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/california-to-texas">california to texas</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/california-to-arizona">California to Arizona</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state/mexico-to-arizona">mexico-to-arizona</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state/texas-to-colorado">texas-to-colorado</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/mexico-to-arizona">mexico to arizona</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/texas-to-colorado">texas to colorado</a></li>
             </ul>
         </div>
         <div class="footer-urls-grid-1">
@@ -148,16 +148,16 @@
         <div class="footer-urls-grid-1">
             <p class="footer-grid-headings">Our Latest Blogs</p>
             <ul>
-                <li><a href="<?= home_path(); ?>blogs/boat-shipping-how-much-does-it-cost-to-transport-a-boat">boat shipping how much does it cost to transport a boat</a></li>
+                <li><a href="<?= home_path(); ?>blogs/boat-shipping-how-much-does-it-cost-to-transport-a-boat">What You Should Know About Boat Shipping?</a></li>
                 <li><a href="<?= home_path(); ?>blogs/enclosed-vs-open-car-transport">enclosed vs open car transport</a></li>
-                <li><a href="<?= home_path(); ?>blogs/cheapest-way-to-ship-a-car-to-hawaii">cheapest way to ship a car to hawaii</a></li>
-                <li><a href="<?= home_path(); ?>blogs/what-is-it-snowbird-auto-transport">what is it snowbird auto transport</a></li>
-                <li><a href="<?= home_path(); ?>blogs/transporting-my-car-to-another-state">transporting my car to another state</a></li>
-                <li><a href="<?= home_path(); ?>blogs/cost-from-california-to-texas">cost from california to texas</a></li>
-                <li><a href="<?= home_path(); ?>blogs/bus-transportation-services">bus transportation services</a></li>
-                <li><a href="<?= home_path(); ?>blogs/fifth-wheel-transport-services">fifth wheel transport services</a></li>
-                <li><a href="<?= home_path(); ?>blogs/how-can-i-move-a-motorcycle">How to ship a motorcycle</a></li>
-                <li><a href="<?= home_path(); ?>blogs/international-car-shipping-tips">Tips for international car shipping</a></li>
+                <li><a href="<?= home_path(); ?>blogs/cheapest-way-to-ship-a-car-to-hawaii">Searching For The Cheapest Way To Ship A Car To Hawaii?</a></li>
+                <li><a href="<?= home_path(); ?>blogs/what-is-it-snowbird-auto-transport">Looking For The Best Snowbird Auto Transport</a></li>
+                <li><a href="<?= home_path(); ?>blogs/transporting-my-car-to-another-state">The Best Way For Transporting My Car To Another State</a></li>
+                <li><a href="<?= home_path(); ?>blogs/cost-from-california-to-texas">Ship Car From California To Texas</a></li>
+                <li><a href="<?= home_path(); ?>blogs/bus-transportation-services">Benefits Of Using Bus Transport Services</a></li>
+                <li><a href="<?= home_path(); ?>blogs/fifth-wheel-transport-services">Fifth Wheel Transport Services</a></li>
+                <li><a href="<?= home_path(); ?>blogs/how-can-i-move-a-motorcycle">How To Move My Motorcycle</a></li>
+                <li><a href="<?= home_path(); ?>blogs/international-car-shipping-tips">Tips For International Car Shipping</a></li>
 
             </ul>
         </div>
