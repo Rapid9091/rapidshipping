@@ -160,9 +160,7 @@ h6 > span,
 /* Advantages section */
 /* -------------------- */
 
-.rapid-advantages-section {
-  padding: 0 5%;
-}
+
 
 .rapid-advantages-grid-container > h2 {
   text-align: center;
@@ -547,9 +545,7 @@ div[class*="special-red-btn"] {
 
 /* all state name extra css */
 
-.all-state-name-page-mains {
-  padding: 0 2% 0% 2%;
-}
+
 
 .all-state-name-pages > h2,
 .all-state-name-pages > h6 {

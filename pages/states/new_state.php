@@ -86,6 +86,12 @@ include_once "../../init.php";
   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   padding: 2% 2%;
 }
+.rapid-advantages-section {
+  padding: 0 5%;
+}
+.all-state-name-page-mains {
+  padding: 0 2% 0% 2%;
+}
     </style>
 </head>
 
