@@ -96,7 +96,7 @@
 
             </ul>
         </div>
-        <div class="footer-urls-grid-1">
+        <!-- <div class="footer-urls-grid-1">
         <p class="footer-grid-headings">Blogs</p>
             <ul>
                 <li><a href="<?= home_path(); ?>blogs">Blogs</a></li>
@@ -110,7 +110,7 @@
                 <li><a href="<?= home_path(); ?>blogs/enclosed-auto-transport-chicago">Enclosed Auto transport Chicago</a></li>
 
             </ul>
-        </div>
+        </div> -->
 
         <div class="footer-urls-grid-1">
             <p class="footer-grid-headings">State to state</p>
@@ -125,6 +125,21 @@
                 <li><a href="<?= home_path(); ?>state-to-state/new-jersey-to-california">New Jersey to California</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/california-to-texas">California to Texas</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/california-to-arizona">California to Arizona</a></li>
+            </ul>
+        </div>
+        <div class="footer-urls-grid-1">
+            <p class="footer-grid-headings">States</p>
+            <ul>
+                <li><a href="<?= home_path(); ?>states">States</a></li>
+                <li><a href="<?= home_path(); ?>states/alaska">Alaska</a></li>
+                <li><a href="<?= home_path(); ?>states/california">California</a></li>
+                <li><a href="<?= home_path(); ?>states/florida">Florida</a></li>
+                <li><a href="<?= home_path(); ?>states/hawaii">Hawaii</a></li>
+                <li><a href="<?= home_path(); ?>states/indiana">Indiana</a></li>
+                <li><a href="<?= home_path(); ?>states/new-york">New York</a></li>
+                <li><a href="<?= home_path(); ?>states/new-mexico">New Mexico</a></li>
+                <li><a href="<?= home_path(); ?>states/texas-tx">Texas</a></li>
+                <li><a href="<?= home_path(); ?>states/washington-wa">Washington</a></li>
             </ul>
         </div>
 
@@ -149,7 +164,7 @@
 
 
 
-        <div class="footer-urls-grid-1">
+        <!-- <div class="footer-urls-grid-1">
             <p class="footer-grid-headings">Services we offer</p>
             <ul>
                 <li><a href="<?= home_path(); ?>services/rail-shipping">rail shipping</a></li>
@@ -165,9 +180,9 @@
                 <li><a href="<?= home_path(); ?>services/car-shipping-companies">car shipping companies</a></li>
 
             </ul>
-        </div>
+        </div> -->
 
-        <div class="footer-urls-grid-1">
+        <!-- <div class="footer-urls-grid-1">
         <p class="footer-grid-headings">Important Links</p>
             <ul>
                 <li><a href="<?= home_path(); ?>services/multi-car-shipping">multi car shipping</a></li>
@@ -183,8 +198,8 @@
                 <li><a href="<?= home_path(); ?>services/car-transport-in-continental-us">car transport in continental us</a></li>
                 <li><a href="<?= home_path(); ?>services/car-transport-quotes">car transport quotes</a></li>
             </ul>
-        </div>
-        <div class="footer-urls-grid-1">
+        </div> -->
+        <!-- <div class="footer-urls-grid-1">
             <p class="footer-grid-headings">Quick Links</p>
             <ul>
                 <li><a href="<?= home_path(); ?>services/hauling-oversize-load">hauling oversize load</a></li>
@@ -201,7 +216,60 @@
                 <li><a href="<?= home_path(); ?>services/caterpillar-equipment-shipping">caterpillar equipment shipping</a></li>
                 <li><a href="<?= home_path(); ?>services/containerized-freight-hauling">containerized freight hauling</a></li>
             </ul>
+        </div> -->
+
+
+
+        <div class="footer-urls-grid-1">
+            <p class="footer-grid-headings">Reviews</p>
+            <ul>
+                <li><a href="<?= home_path(); ?>auto-transport-carriers/we-move-for-you-inc">We Move For You Inc</a></li>
+                <li><a href="<?= home_path(); ?>auto-transport-carriers/xtreem-auto-carrier-inc">Xtreem Auto Carrier Inc</a></li>
+                <li><a href="<?= home_path(); ?>auto-transport-carriers/volk-transport-llc">Volk Transport LLC</a></li>
+                <li><a href="<?= home_path(); ?>auto-transport-carriers/extreme-movers">Extreme Movers</a></li>
+                <li><a href="<?= home_path(); ?>auto-transport-carriers/way-to-go-auto-transport-llc">Way To Go Auto Transport LLC</a></li>
+                <li><a href="<?= home_path(); ?>auto-transport-carriers/we-haul-it-all-llc">We Haul It All LLC</a></li>
+                <li><a href="<?= home_path(); ?>auto-transport-carriers/we-move-u-inc">We Move U Inc</a></li>
+                <li><a href="<?= home_path(); ?>auto-transport-carriers/west-coast-transport-inc">West Coast Transport Inc</a></li>
+                <li><a href="<?= home_path(); ?>auto-transport-carriers/westlake-logistics-llc">Westlake Logistics LLC</a></li>
+                <li><a href="<?= home_path(); ?>auto-transport-carriers/wheelsup-auto-transport">Wheelsup Auto Transport</a></li>
+                <li><a href="<?= home_path(); ?>auto-transport-carriers/worldwide-shipping">Worldwide Shipping</a></li>
+            </ul>
         </div>
+
+
+        <div class="footer-urls-grid-1">
+            <p class="footer-grid-headings">Cars</p>
+            <ul>
+                <li><a href="<?= home_path(); ?>cars">Cars</a></li>
+                <li><a href="<?= home_path(); ?>cars/nissan">Nissan</a></li>
+                <li><a href="<?= home_path(); ?>cars/chrysler">Chrysler</a></li>
+                <li><a href="<?= home_path(); ?>cars/dodge">Dodge</a></li>
+                <li><a href="<?= home_path(); ?>cars/toyota">Toyota</a></li>
+                <li><a href="<?= home_path(); ?>cars/chevrolet">Chevrolet</a></li>
+                <li><a href="<?= home_path(); ?>cars/ford">ford</a></li>
+                <li><a href="<?= home_path(); ?>cars/mazda">Mazda</a></li>
+                <li><a href="<?= home_path(); ?>cars/honda">Honda</a></li>
+            </ul>
+        </div>
+
+        <div class="footer-urls-grid-1">
+            <p class="footer-grid-headings">Contact us</p>
+            <ul>
+                <li><a href="https://www.facebook.com/people/Rapid-Auto-Shipping/100077073625103/" target="_blank">Facebook</a></li>
+                <li><a href="https://www.instagram.com/rapidautoshipping/" target="_blank">Instagram</a></li>
+                <li><a href="https://twitter.com/ShippingRapid" target="_blank">Twitter</a></li>
+                <li><a href="https://www.linkedin.com/in/rapid-auto-shipping-909217261/" target="_blank">Linkedin</a></li>
+                <li><a href="https://www.youtube.com/@rapidautoshipping7218" target="_blank">Youtube</a></li>
+                <li><a href="https://www.google.com/maps/place/RAPID+AUTO+SHIPPING/@34.468384,-101.304284,5z/data=!4m6!3m5!1s0x87004d8702dc4ac7:0x9f3bfd5545d14ae8!8m2!3d34.4676528!4d-101.3042849!16s%2Fg%2F11rn45vn7h?hl=en" target="_blank">Address</a></li>
+                
+            </ul>
+        </div>
+
+        
+
+
+
         <div class="footer-urls-grid-1">
             <p class="footer-grid-headings">Services</p>
             <ul>
@@ -218,6 +286,8 @@
                 <li><a href="<?= home_path(); ?>services/international-motorcycle-shipping">international motorcycle shipping</a></li>
             </ul>
         </div>
+
+        
 
     </div>
 
