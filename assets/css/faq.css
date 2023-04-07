@@ -1,13 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-        * {
-            padding: 0%;
-            margin: 0%;
-            box-sizing: border-box;
-            font-family: 'Open Sans', sans-serif;
-            font-family: 'Playfair Display', serif;
-            font-family: 'Poppins', sans-serif;
-        }
         .body{
              /* overflow: hidden; */
              /* margin-top: 60px; */
@@ -16,7 +7,7 @@
            text-align: center;
         }
 
-         .container {
+         .body .container {
             display: grid;
             padding: 0% 10%;
             gap: 8px;
@@ -24,7 +15,7 @@
 
         }
 
-         .box {
+        .body .box {
             padding: 15px;
             display: flex;
             justify-content: space-between;
@@ -34,17 +25,17 @@
             font-weight: bold;
             cursor: pointer;
         }
-         .box:hover{
+        .body .box:hover{
             background-color: #dddada;
         }
         
-          .bx{
+        .body .bx{
             font-size: 40px;
         }
-         .rotate{
+        .body .rotate{
             transform: rotate(44deg);
         }
-         .para-faq{
+        .body .para-faq{
             /* display: none; */
             overflow: hidden;
             max-height: 0px;
@@ -54,19 +45,19 @@
             /* transition: max-height 0.5s, padding 0.5s; */
            
         }
-         .p{
+        .body .p{
             /* display: block; */
             max-height: 100vh;
             
         }
-         .faq{
+        .body .faq{
             font-size: 40px;
             font-weight: bold;
             /* color: #ff5722; */
             padding: 10px;
         }
       @media screen and (max-width: 500px) {
-        .faq{
+        .body .faq{
             font-size: 25px;
         }
       }

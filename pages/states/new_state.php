@@ -27,6 +27,7 @@ include_once "../../init.php";
     <link rel="stylesheet" href="<?= get_css(); ?>car-key-section.css">
     <link rel="stylesheet" href="<?= get_css();?>new_state-to-state.css">
     <link rel="stylesheet" href="<?= get_css();?>new-side-form.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
     <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <!-- owl courosel -->
@@ -665,109 +666,10 @@ include_once "../../init.php";
     </section>
 
 
-    <!-- review section-->
-    <section class="state-to-state-review ">
-        <div class="state-to-state-review-grid">
-            <div class="state-to-state-review-grid-1">
-                <img src="<?= get_img() ?>happy-customer-icon.png" alt="state to state auto transport" />
-                <h3>9/10 <span>stars</span></h3>
-                <p>Based on recent dispatch reports, the carrier availability rating from Alabama to Alaska is 9/10. </p>
-                <div class="orange-strip">
-                    <h2>
-                        Road Transportation
-                    </h2>
-
-                </div>
-            </div>
-            <div class="state-to-state-review-grid-1">
-                <img src="<?= get_img() ?>starting-destination.png" alt="state to state auto transport" />
-                <h3>1000<span>miles</span></h3>
-                <p>The center of each state is used to approximate mileage between locations.</p>
-                <div class="orange-strip">
-                    <h2>
-                        Total Distance
-                    </h2>
-
-                </div>
-            </div>
-            <div class="state-to-state-review-grid-1">
-                <img src="<?= get_img() ?>timer-clock.png" alt="state to state auto transport" />
-                <h3>3-5 <span>days</span></h3>
-                <p>Estimated transit times are based on carriers traveling up to 500 miles per day.
-
-                </p>
-                <div class="orange-strip">
-                    <h2>
-                        Customer Review
-                    </h2>
-
-                </div>
-            </div>
-        </div>
-    </section>
+   
 
 
-<!---------------- steps-state-to-state ----------->
-    <section class="fifth-state-to-state">
-        <div class="fifth-state-to-state-grid">
-            <div class="fifth-state-to-state-grid-1">
-                <div class="fifth-state-to-state-grid-content">
-                    <h2 class="heading-2">
-                        <span>Rapid Auto Shipping</span> Makes Shipping a Car From your desired location as Easy as 1-2-3!
-                    </h2>
-                    <div class="steps-buttons">
-                        <button onclick="active_tab(0,this)" class="special-red-btn-1" id="btn">1</button>
-                        <button onclick="active_tab(1,this)" class="special-red-btn-2">2</button>
-                        <button onclick="active_tab(2,this)" class="special-red-btn-3">3</button>
-                    </div>
-                    <div class="text-div-parent">
-                        <div class="text_div_1">
-                            <h3 class="heading-2">
-                                Calculate your instant car shipping quote.
-                            </h3>
-                            <p class="para-2">
-                                Getting a quote is easy with our online quote form, enter your name , email and number, our executive will assist you and book your reservation online or by phone!
-                            </p>
-                        </div>
-                        <div class="text_div_1">
-                            <h3 class="heading-2">
-                                Your instant car shipping quote.
-                            </h3>
-                            <p class="para-2">
-                                Getting a quote is easy with our online quote form, enter your name , email and number, our executive will assist you and book your reservation online or by phone!
-                            </p>
-                        </div>
-                        <div class="text_div_1">
-                            <h3 class="heading-2">
-                                Instant car shipping quote.
-                            </h3>
-                            <p class="para-2">
-                                Getting a quote is easy with our online quote form, enter your name , email and number, our executive will assist you and book your reservation online or by phone!
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="divdiv">
 
-
-                    <div class="fifth-state-to-state-grid-image-parent">
-                        <div class="fifth-state-to-state-grid-image">
-                            <img src="<?= get_img() ?>/home-delivering-vehicle-1.png" alt="state to state auto transport" />
-                        </div>
-                        <div class="fifth-state-to-state-grid-image">
-                            <img src="<?= get_img() ?>/home-picking-vehicle.png" alt="state to state auto transport" />
-                        </div>
-                        <div class="fifth-state-to-state-grid-image">
-                            <img src="<?= get_img() ?>/home-shipping-vehicle.png" alt="state to state auto transport" />
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            <div class="fifth-state-to-state-grid-1"></div>
-        </div>
-
-    </section>
 
 
 <!---------------- state names for all the states ---------->
@@ -843,6 +745,52 @@ include_once "../../init.php";
         </section>
     </section>
 
+<div class="body">
+
+
+<div class="faq">FACTS & QUESTIONS</div>
+
+<div class="container">
+    <div class="box">
+        <span>Is Your Auto Transport Team Licensed And Insured?</span>
+        <i class='bx bx-plus'></i>
+    </div>
+    <p class="para-faq">Our complete network of auto transport workers is fully insured and certified, with most of them having decades of experience.
+    </p>
+    <div class="box">
+        <span>What If My Vehicle Is Harmed During Transport?</span>
+        <i class='bx bx-plus'></i>
+    </div>
+    <p class="para-faq">All of our chauffeurs undergo a comprehensive pre-transport examination to look for any previous damage, which must be signed by the individual releasing the vehicle and the transporter before moving the car. The transport insurance will cover any harm to the vehicle while it is in transit.
+    </p>
+    <div class="box">
+        <span>What Types of Car Delivery Do You Provide, And What Are The Distinctions?</span>
+        <i class='bx bx-plus'></i>
+    </div>
+    <p class="para-faq">We have an extensive network of car haulers who can manage open, enclosed, or specialized transport. Enclosed transit is typically reserved for more costly or specialized vehicles, such as show cars, exotics, and expensive luxury vehicles.
+        <br><br>
+        On the other hand, open transport is the most prevalent type of car transport used for any vehicle that does not need to be protected from the elements.
+    </p>
+    <div class="box">
+        <span>Do You Offer Car Delivery In My State or City?</span>
+        <i class='bx bx-plus'></i>
+    </div>
+    <p class="para-faq">Our extensive provider network transports vehicles to every state and location nationwide. Jrop is a network that operates on a national scale.
+        <br><br>
+        <b>Receive Estimates for car shipping:</b>
+        <br>
+        Get FREE, no-obligation estimates from licensed and protected expert vehicle movers in our network who can service your relocation.
+        <br><br>
+        <b>Read Rapid Auto Shipping Guides:</b>
+        <br>
+        Use our FREE online vehicle transportation tools (guides, tips, and videos) for Rapid Auto Shipping suggestions.
+    </p>
+    
+    
+    
+</div>
+</div>
+
 <!----------------page bottom ------------------>
         <?php include_once page_bottom ?>
 
@@ -915,6 +863,7 @@ include_once "../../init.php";
         })
         
     </script>
+    <script src="<?=get_js()?>/faq.js"></script>
 </body>
 
 </html>
