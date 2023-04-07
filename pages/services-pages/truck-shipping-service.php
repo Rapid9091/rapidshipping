@@ -74,6 +74,7 @@
         a {
             color: rgb(82, 82, 224)
         }
+        
     </style>
 </head>
 
