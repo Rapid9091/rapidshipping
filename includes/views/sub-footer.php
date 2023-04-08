@@ -17,11 +17,9 @@
                             </div>
                             <div class="address-2">
                                 <a href="https://www.google.com/maps?ll=34.468384,-101.304284&z=5&t=m&hl=en&gl=US&mapclient=embed&cid=11474043018341862120">
-                                    906 S Main Street
+                                    Texas
                                     <br>
-                                    Silverton Texas
-
-                                    USA-79257
+                                    United States Of America
                                 </a>
                             </div>
                         </div>
@@ -69,7 +67,7 @@
                         <div class="important-urls-grid-1"><a href="<?= home_path(); ?>contact-us">Contact Us</a></div>
                         <div class="important-urls-grid-1"><a href="<?= home_path(); ?>about-us">About Us</a></div>
                         <div class="important-urls-grid-1"><a href="<?= home_path(); ?>cars">Cars</a></div>
-                        <div class="important-urls-grid-1 important-urls-grid-1-special"><a href="<?= home_path(); ?>auto-transport-carriers">Review</a></div>
+                        <div class="important-urls-grid-1 important-urls-grid-1-special"><a href="<?= home_path(); ?>state-to-state">State To State</a></div>
 
                     </div>
 
