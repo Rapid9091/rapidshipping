@@ -1,8 +1,17 @@
 <?php
 include_once "../../init.php";
-$sql ="SELECT * FROM states where id = 5";
-$result = mysqli_query($con, $sql) or die('failed to fetch data');
-$data = mysqli_fetch_assoc($result);
+
+if (isset($_GET['page_id'])) {
+    $slug = $_GET['page_id'];
+
+    $data = fetch_data("SELECT * FROM states WHERE `slug` = '$slug'");
+
+    if (!$data) {
+        header("Location: " . home_path() . "404");
+    }
+} else {
+    header("Location: " . home_path() . "states");
+}
 
 ?>
 <!DOCTYPE html>
@@ -14,9 +23,6 @@ $data = mysqli_fetch_assoc($result);
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?= $data['title'];?></title>
     <?= htmlspecialchars_decode($data['meta']); ?>
-
-
-    
     
     <link rel="stylesheet" href="<?= get_css(); ?>VIEW_header.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_colorado-to-arizona.css">
@@ -87,13 +93,42 @@ $data = mysqli_fetch_assoc($result);
     margin: 2% 0;
     line-height: 1.8;
 }
-.main_content_div h4,h5,h6,h2{
+.main_content_div h4,
+.main_content_div h3,
+.main_content_div h5,
+.main_content_div h6,
+.main_content_div h2{
     font-size:30px;
     font-weight:600;
 }
-.main_content_div ul li{
-    list-style:auto;
+..main_content_div ul{
+    /* margin-left:10px; */
 }
+.main_content_div ul li{
+    list-style:disc;
+    font-size: 18px;
+    word-spacing: 1.5px;
+    letter-spacing: 0.5px;
+    margin: 2%;
+    line-height: 1.8;
+}
+#call_under_content{
+    padding: 10px 10px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+    outline: none;
+    font-weight: 500;
+    color: var(--nav-color);
+    background-color: transparent;
+    transition: 0.4s;
+    border: 2px solid #ff5227;
+    border-radius: 25px;
+    width: 80%;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
 
 
 </style>
@@ -434,27 +469,7 @@ $data = mysqli_fetch_assoc($result);
                  <p class="para-2"><?= $data['h2_about'];?></p>
             </div>
 
-            <!-- <div class="points-div " id="top-section">
-                <h2 class="heading-2">
-                    What's in this article?
-                </h2>
-                <ul class="points-div-ul">
-                    
-
-                    <li><a href="#1">Why Rapid Auto Shipping is best auto transport company in Alabama?</a></li>
-                    <li><a href="#2">What's The Cost For Alabama Auto Transportation?</a></li>
-                    <li><a href="#3">How do we handle the shipping</a></li>
-                    <li><a href="#4">Types of Shipping Services</a></li>
-                    <li><a href="#5">Vehicle Transportation Services When Moving</a></li>
-                    <li><a href="#6">Get the Car Ready for Take Off</a></li>
-                    <li><a href="#7">Car Transport Safety Measures in Alabama</a></li>
-                    <li><a href="#8">Tracking Auto Transportation</a></li>
-                    <li><a href="#9">Positive Characteristics of a Reliable Shipping Company</a></li>
-                    <li><a href="#10">Competitive rates</a></li>
             
-                </ul>
-
-            </div> -->
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <div class="main_content_div">
