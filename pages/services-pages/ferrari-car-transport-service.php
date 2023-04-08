@@ -227,7 +227,7 @@
                     </li>
                     <li id="7">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">vehicle Transport Services Quotes</h2>
+                            <h2 class="heading-1">Vehicle Transport Services Quotes</h2>
                             <p class="para-2">
 
                                 Obtaining an estimate for vehicle shipping is simple. Simply complete our quotation form to get a price quote. Once you've received your price, you can either schedule your shipping requirements immediately online or give us a call at +1 (833) 233-4447. To schedule a pickup, there is no upfront fee.</p>
