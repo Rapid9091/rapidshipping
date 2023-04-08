@@ -555,24 +555,24 @@ div[class*="special-red-btn"] {
 
 
 .rapid-advantages-section {
-  padding: 0 5%;
+  padding: 0 10%;
 }
 .rapid-advantages-grid-container {
   box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
-  padding: 2% 2%;
+  padding: 5% 2%;
 }
 .all-state-name-grids-section {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  padding: 2% 5%;
+  padding: 4% 5%;
 }
 
 .all-state-name-page-mains {
-  padding: 0 2% 0% 2%;
+  padding: 0 10% 0% 10%;
 }
 .all-state-name-pages {
   background-color: var(--section-background);
-  padding: 1% 0;
+  padding: 2% 0;
   border-radius: 14px;
   border: 1px solid var(--nav-color);
   box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.15) !important;
