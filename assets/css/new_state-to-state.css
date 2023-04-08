@@ -508,7 +508,7 @@
 .main{
     justify-content: space-around;
     align-items: center;
-    padding: 40px 5% ;
+    padding: 25px 5% ;
 }
 .heading h5{
   font-size: 18px;
@@ -775,12 +775,14 @@
 }
 .first{
     margin-bottom: 30px;
+    margin-right: 20px;
 }
 .second{
     margin-bottom: 30px;
 }
 .third{
     margin-bottom: 30px;
+    margin-right: 27px;
 } 
 }
 
