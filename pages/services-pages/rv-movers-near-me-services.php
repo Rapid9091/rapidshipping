@@ -243,7 +243,7 @@
                             <h2 class="heading-1">How Much Does It Cost?</h2>
                             <p class="para-2">Given the wide variety of factors that can influence the cost, it can be challenging to provide a precise quote for RV transport; however, transfers under a hundred miles will cost approximately $3.32 per mile, while those under 1,000 miles will cost roughly $1.05 per mile.
                                 <br><br>
-                                Calculating car shipping costs is not easy. Several factors will impact the cost of your auto transportation. To receive an estimate cost, we recommend filling out the quote form.
+                                Calculating rv shipping costs is not easy. Several factors will impact the cost of your auto transportation. To receive an estimate cost, we recommend filling out the quote form.
                             </p>
                             
                             
