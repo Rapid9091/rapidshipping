@@ -128,7 +128,27 @@ if (isset($_GET['page_id'])) {
     text-transform: uppercase;
     cursor: pointer;
 }
+.more-califrnian-cities-code {
+            background-color: #fff4f4;
+            border: 1px solid #ff5722;
+            border-radius: 14px;
+            margin: 3% 5%;
+            padding: 0% 2%;
+        }
+        .major-city-code {
+            display: grid;
+            grid-template-columns: 14fr 2fr 70fr;
+            font-size: 12px;
+            margin-bottom: 5px;
+        }
 
+        .alabama-city-code-heading {
+            text-align: center;
+            font-size: 30px;
+            font-weight: 600;
+            margin-top: 5px;
+            padding: 1% 0;
+        }
 
 
 </style>
@@ -508,6 +528,7 @@ if (isset($_GET['page_id'])) {
 
 <?php include car_key_section; ?>
 
+    
 
  <!---------------- Advantages section--------- -->
     <!-- ------------------------ -->
@@ -548,6 +569,26 @@ if (isset($_GET['page_id'])) {
             </div>
         </div>
     </section>
+
+    <div class="more-califrnian-cities-code">
+        <h2 class="alabama-city-code-heading">
+            Popular Auto Transportation <span>Cities</span> In Alabama
+        </h2>
+        <?php
+          $json = $data['city_zipcode'];
+          $json_decoded = json_decode($json);
+                    if (isset($json_decoded)) {
+                        foreach ($json_decoded as $result) {
+                            echo '<div class="major-city-code">
+                            <p class="major-city-code-para">'.$result->city.'</p>
+                            <span>-</span>
+                            <p>'.$result->zip_code.'</p>
+                        </div>';
+                        }
+                    }
+                    ?>
+       
+    </div>
 
 
    
