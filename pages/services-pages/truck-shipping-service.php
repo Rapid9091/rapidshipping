@@ -299,7 +299,7 @@
                          <br><br>
                          We provide all-inclusive business truck transportation estimates with no hidden costs. Each estimate is tailored to your specific heavy duty vehicle transportation requirements.
                          <br><br> 
-                         Calculating car shipping costs is not easy. Several factors will impact the cost of your auto transportation. To receive an estimate cost, we recommend filling out the quote form.
+                         Calculating truck shipping costs is not easy. Several factors will impact the cost of your auto transportation. To receive an estimate cost, we recommend filling out the quote form.
                          <br><br>
                          Call immediately for a no-hassle freight shipping estimate! +1 (833) 233-4447
                             </p>
