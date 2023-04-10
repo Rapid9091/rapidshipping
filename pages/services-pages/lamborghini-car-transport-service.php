@@ -169,7 +169,7 @@
                                 If you want to have an <a href="https://rapidautoshipping.com/blogs/exotic-cars"
                                     target="_blank">exotic car transport service</a> to another location without
                                 increasing its mileage or harming its present state, you should look for the most
-                                reputable and reliable car transport services near your house.
+                                reputable and reliable car transport services near your house. Calculating car shipping costs is not easy. Several factors will impact the cost of your auto transportation. To receive an estimate cost, we recommend filling out the quote form.
                             </p>
                         </div>
                     </li>

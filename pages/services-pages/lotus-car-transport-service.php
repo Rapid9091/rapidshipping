@@ -203,7 +203,7 @@
                                 car, or an unusual classic vehicle, this still holds.
                                 <br><br>
                                 Do you need a specific time for transport or pick-up? To plan for expedited lotus
-                                shipping, speak with your reps for lotus transport.
+                                shipping, speak with your reps for lotus transport. Calculating car shipping costs is not easy. Several factors will impact the cost of your auto transportation. To receive an estimate cost, we recommend filling out the quote form.
 
                             </p>
                         </div>

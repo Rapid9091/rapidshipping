@@ -184,7 +184,7 @@
                                 <br><br>
                                 Having a precious Shelby shipped off to another place is always nerve-racking. Of course, you want to ensure the vehicle is in excellent shape.
                                 <br><br>
-                                Hiring a reputable car transport service provider for Shelby's shipment procedure is the best way to ensure its health as it journeys to its new location.
+                                Hiring a reputable car transport service provider for Shelby's shipment procedure is the best way to ensure its health as it journeys to its new location. Calculating car shipping costs is not easy. Several factors will impact the cost of your auto transportation. To receive an estimate cost, we recommend filling out the quote form.
                             </p>
                             
                         </div>
