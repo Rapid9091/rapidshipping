@@ -60,29 +60,12 @@ include_once "../../init.php";
             background-size: cover;
         }
 
-        .city-code {
-            display: flex;
-            justify-content: space-between;
-            margin: 10px;
-        }
-
-        @media screen and (max-width: 600px) {
-            .key-holding {
-                background-image: url("<?=get_img();?>car-key-new1.jpeg");
-            }
-        }
-
         .shipping-form-state-content p {
             font-size: 18px;
             word-spacing: 1.5px;
             letter-spacing: 0.5px;
             margin: 2% 0;
             line-height: 1.8;
-        }
-        .more-califrnian-cities{
-            background-color: #fff4f4;
-            border: 1px solid #ff5722;
-            border-radius: 14px;
         }
 
         .shipping-form-state-content p span {
@@ -119,6 +102,98 @@ include_once "../../init.php";
             border: 1px solid var(--nav-color);
             box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.15) !important;
         }
+        .more-califrnian-cities-code {
+            background-color: #fff4f4;
+            border: 1px solid #ff5722;
+            border-radius: 14px;
+            margin: 3% 5%;
+            padding: 0% 2%;
+        }
+        .major-city-code {
+            display: grid;
+            grid-template-columns: 14fr 2fr 70fr;
+            font-size: 12px;
+            margin-bottom: 5px;
+        }
+
+        .alabama-city-code-heading {
+            text-align: center;
+            font-size: 30px;
+            font-weight: 600;
+            margin-top: 5px;
+            padding: 1% 0;
+        }
+        @media screen and (max-width: 1000px) {
+            .rapid-advantages-grid-1 {
+                height: 330px;
+            }
+        }
+
+        @media screen and (max-width: 800px) {
+            .all-state-name-grids-section {
+                grid-template-columns: repeat(3, 1fr);
+            }
+
+            .all-state-name-grids {
+                margin: 4% 0;
+            }
+
+            .rapid-advantages-grid-1 {
+                height: 320px;
+            }
+        }
+
+            @media screen and (max-width:768px) {
+                .utility_grid-4 {
+                    grid-template-columns: repeat(2, 1fr);
+                }
+
+                .major-city-code {
+                    text-align: center;
+                    grid-template-columns: 1fr;
+                    font-size: 15px;
+                    margin-bottom: 20px;
+                }
+
+                .major-city-code-para {
+                    font-weight: 700;
+                }
+
+                .major-city-code span {
+                    display: none;
+                }
+
+                .alabama-city-code-heading {
+                    font-size: 25px;
+                    margin-bottom: 15px;
+                }
+                .major-city-code-para{
+                    margin-bottom: 8px;
+                }
+            }
+
+            @media screen and (max-width: 600px) {
+                .key-holding {
+                    background-image: url("<?=get_img();?>car-key-new1.jpeg");
+                }
+                .utility_grid-4 {
+                    gap: 0;
+                }
+            }
+
+            @media screen and (max-width: 500px) {
+                .all-state-name-grids-section {
+                    grid-template-columns: repeat(2, 1fr);
+                    text-align: center;
+                }
+                .utility_grid-4 {
+                    grid-template-columns: repeat(1, 1fr);
+                    gap: 0;
+                }
+                .rapid-advantages-grid-1 {
+                height: 230px;
+            }
+            }
     </style>
 </head>
 
@@ -189,7 +264,7 @@ include_once "../../init.php";
                         <h5>GUARANTEED PICK-UP</h5>
                     </div>
                     <div class="strip_para">
-                        <p>Your chice of pick-up</p>
+                        <p>Your choice of pick-up</p>
 
                     </div>
                 </div>
@@ -771,27 +846,7 @@ include_once "../../init.php";
                     </li>
                 </ul>
 
-                <div class="more-califrnian-cities">
-                    <h2 class="utility_main-heading" style="text-align: center;">
-                        Major Cities in alabama
-                    </h2>
-                    <div class="city-code">
-                        <p>Alabama -</p>
-                        <p>125235 , 35435465, 545615</p>
-                    </div>
-                    <div class="city-code">
-                        <p>Alabama -</p>
-                        <p>125235 , 5646 , 6475164</p>
-                    </div>
-                    <div class="city-code">
-                        <p>Alabama -</p>
-                        <p>125235</p>
-                    </div>
-                    <div class="city-code">
-                        <p>Alabama -</p>
-                        <p>125235</p>
-                    </div>
-                </div>
+
 
             </section>
 
@@ -867,7 +922,116 @@ include_once "../../init.php";
 
 
 
-
+    <div class="more-califrnian-cities-code">
+        <h2 class="alabama-city-code-heading">
+            Popular Auto Transportation <span>Cities</span> In Alabama
+        </h2>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Huntsville Car Shipping</p>
+            <span>-</span>
+            <p>35613, 35649, 35671, 35741, 35748, 35749, 35756, 35757, 35758, 35759, 35763, 35773, 35801, 35802, 35803,
+                35805, 35806, 35808, 35810, 35811, 35816, 35824, 35896.</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Birmingham Vehicle Transport</p>
+            <span>-</span>
+            <p>35061, 35064, 35068, 35094, 35117, 35126, 35127, 35203, 35204, 35205, 35206, 35207, 35208, 35209, 35210,
+                35212, 35213, 35215, 35217, 35218, 35221, 35222, 35223, 35228, 35233, 35234, 35235, 35242, 35243, 35254.
+            </p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Montgomery Car Shipping</p>
+            <span>-</span>
+            <p>36043, 36064, 36104, 36105, 36106, 36107, 36108, 36109, 36110, 36111, 36112, 36113, 36115, 36116, 36117.
+            </p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Mobile Auto Transport</p>
+            <span>-</span>
+            <p>36575, 36602, 36603, 36604, 36605, 36606, 36607, 36608, 36609, 36613, 36615, 36617, 36618, 36619, 36688,
+                36693, 36695.</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Tuscaloosa</p>
+            <span>-</span>
+            <p>35405, 35446, 35456.</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Hoover</p>
+            <span>-</span>
+            <p>35405, 35446, 35456.</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Auburn</p>
+            <span>-</span>
+            <p>36801, 36804, 36830, 36832, 36849, 36879.</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Dothan</p>
+            <span>-</span>
+            <p>36305, 36345, 36350.</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Decatur</p>
+            <span>-</span>
+            <p>35601, 35603, 35640, 35673.</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Madison</p>
+            <span>-</span>
+            <p>35758</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Alexander City</p>
+            <span>-</span>
+            <p>125235 , 125235 , 35435465, 545615</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Alabama</p>
+            <span>-</span>
+            <p>125235 , 125235 , 35435465, 545615</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Alabama</p>
+            <span>-</span>
+            <p>125235 , 35435465, 545615</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Alabama</p>
+            <span>-</span>
+            <p>125235 , 5646 , 6475164</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Alabama</p>
+            <span>-</span>
+            <p>125235 , 69786154 , 4</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Alabama</p>
+            <span>-</span>
+            <p>125235 , 979665 , 334645</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Alabama</p>
+            <span>-</span>
+            <p>125235 , 35435465, 545615</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Alabama</p>
+            <span>-</span>
+            <p>125235 , 5646 , 6475164</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Alabama</p>
+            <span>-</span>
+            <p>125235 , 645684 , 465456</p>
+        </div>
+        <div class="major-city-code">
+            <p class="major-city-code-para">Alabama</p>
+            <span>-</span>
+            <p>125235 , 6687 , 2254768</p>
+        </div>
+    </div>
 
 
 

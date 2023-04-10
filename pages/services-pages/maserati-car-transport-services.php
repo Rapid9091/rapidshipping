@@ -241,6 +241,8 @@
                                 Customized cars will be a little more challenging and might cost more. However, the
                                 transport professionals will make every effort to ensure the protection of your premium
                                 car.
+                                <br><br>
+                                Calculating car shipping costs is not easy. Several factors will impact the cost of your auto transportation. To receive an estimate cost, we recommend filling out the quote form.
                             </p>
                         </div>
                     </li>

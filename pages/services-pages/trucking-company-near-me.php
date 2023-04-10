@@ -340,6 +340,8 @@
                                 your specific requirements. When you contact a Rapid Auto Shipping logistics agent, we
                                 will address your needs and concerns and provide quality transportation options.
                                 <br><br>
+                                Calculating truck shipping costs is not easy. Several factors will impact the cost of your auto transportation. To receive an estimate cost, we recommend filling out the quote form.
+                                <br><br>
                                 Call us right away to move your vehicle! (833) 233-4447
                                 <br><br>
                             </p>

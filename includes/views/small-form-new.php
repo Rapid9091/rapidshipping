@@ -1,6 +1,6 @@
 <form action="<?=home_path()?>get_qoute" class="form-section" method="post" onsubmit="return final_validation()">
 
-    <img class="bb-img" src="<?= get_img()?>state-to-state/bb.png" alt="">
+    <img class="bb-img" src="<?= get_img()?>state-to-state/Transport-Reviews.png" alt="">
 
 
     <div class="form-section-group active-form">
