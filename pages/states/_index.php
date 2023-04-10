@@ -508,6 +508,20 @@ if (isset($_GET['page_id'])) {
 
 <?php include car_key_section; ?>
 
+    <?php
+    $json = $data['city_zipcode'];
+    $json_decoded = json_decode($json);
+                    if (isset($json_decoded)) {
+                        foreach ($json_decoded as $result) {
+                            echo '<li id="' . $result->index . '">
+                            <h4 class="heading-1">' . $result->city . '</h4>
+                            <p class="para-2">
+                                ' .$result->zip_code . '
+                            </p>
+                    </li>';
+                        }
+                    }
+                    ?>
 
  <!---------------- Advantages section--------- -->
     <!-- ------------------------ -->
