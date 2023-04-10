@@ -28,6 +28,7 @@ include_once "../../init.php";
     <link rel="stylesheet" href="<?= get_css();?>new_state-to-state.css">
     <link rel="stylesheet" href="<?= get_css();?>new-side-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
+    <link rel="stylesheet" href="city-zipcode.css">
     <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <!-- owl courosel -->

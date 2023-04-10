@@ -14,7 +14,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="RV movers near me services | +1-833-233-4447" />
 <meta property="og:description" content="Don't wait until the last minute to locate Rv movers near me. Rapid Auto Shipping is one of the giant RV transporters in the United States." />
-<meta property="og:url" content="https://rapidautoshipping.com/service/rv-movers-near-me-services" />
+<meta property="og:url" content="https://rapidautoshipping.com/services/rv-movers-near-me-services" />
 <meta property="og:site_name" content="RV movers near me services | +1-833-233-4447" />
 <meta name='robots' content='index' />
 <meta name="keywords" content="rv movers near me, r v movers near me, rv transporters near me, 5th wheel moving service near me, rv moving services near me." />
