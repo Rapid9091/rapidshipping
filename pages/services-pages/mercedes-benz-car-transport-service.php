@@ -298,7 +298,9 @@
                                 We appreciate your truck-hauling skills. Every method of transportation is customized to
                                 your particular needs.</p>
                             <p class="para-2">We will address your requirements and concerns and provide quality
-                                shipping choices when you call a Rapid Auto Shipping distribution representative. Calculating car shipping costs is not easy. Several factors will impact the cost of your auto transportation. To receive an estimate cost, we recommend filling out the quote form.</p>
+                                shipping choices when you call a Rapid Auto Shipping distribution representative.
+                                <br><br>
+                                Calculating car shipping costs is not easy. Several factors will impact the cost of your auto transportation. To receive an estimate cost, we recommend filling out the quote form.</p>
                             <p class="para-2">Call us right immediately if you need your car moved! (833) 233-4447</p>
 
 
