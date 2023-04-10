@@ -1,0 +1,44 @@
+.more-califrnian-cities-code {
+    background-color: #fff4f4;
+    border: 1px solid #ff5722;
+    border-radius: 14px;
+    margin: 3% 5%;
+    padding: 0% 2%;
+}
+.major-city-code {
+    display: grid;
+    grid-template-columns: 14fr 2fr 70fr;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+.alabama-city-code-heading {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 5px;
+    padding: 1% 0;
+}
+@media screen and (max-width:768px) {
+    .major-city-code {
+        text-align: center;
+        grid-template-columns: 1fr;
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+
+    .major-city-code-para {
+        font-weight: 700;
+    }
+
+    .major-city-code span {
+        display: none;
+    }
+
+    .alabama-city-code-heading {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .major-city-code-para{
+        margin-bottom: 8px;
+    }
+}
