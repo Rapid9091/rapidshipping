@@ -78,13 +78,6 @@
     padding: 0% 2%;
 }
 
-.major-city-code {
-    display: grid;
-    grid-template-columns: 14fr 2fr 70fr;
-    font-size: 12px;
-    margin-bottom: 5px;
-}
-
 .alabama-city-code-heading {
     text-align: center;
     font-size: 30px;
