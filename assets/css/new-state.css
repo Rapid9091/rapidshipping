@@ -70,36 +70,6 @@
     cursor: pointer;
 }
 
-.more-califrnian-cities-code {
-    background-color: #fff4f4;
-    border: 1px solid #ff5722;
-    border-radius: 14px;
-    margin: 3% 5%;
-    padding: 0% 2%;
-}
-
-.alabama-city-code-heading {
-    text-align: center;
-    font-size: 30px;
-    font-weight: 600;
-    margin-top: 5px;
-    padding: 1% 0;
-}
-.shipping-form-state-content p {
-    font-size: 18px;
-    word-spacing: 1.5px;
-    letter-spacing: 0.5px;
-    margin: 2% 0;
-    line-height: 1.8;
-}
-
-.shipping-form-state-content p span {
-    font-size: 18px;
-    word-spacing: 1.5px;
-    letter-spacing: 0.5px;
-    margin: 2% 0;
-    line-height: 1.8;
-}
 /* all state name grid section */
 .all-state-name-grids-section {
     display: grid;
