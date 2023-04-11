@@ -279,7 +279,7 @@
                             </div>
                         </div>
                         <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.png" alt="google logo">
+                            <img src="<?= get_img()?>reviews/g.webp" alt="google logo">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -330,7 +330,7 @@
                             </div>
                         </div>
                         <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.png" alt="google logo">
+                            <img src="<?= get_img()?>reviews/g.webp" alt="google logo">
                         </div>
                     </div>
                     <div class="review_stars">

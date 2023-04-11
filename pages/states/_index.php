@@ -60,7 +60,7 @@ if (isset($_GET['page_id'])) {
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
-            background-image: url('<?= get_img() ?>car-shipping-header-image1.png');
+            background-image: url('<?= get_img() ?>car-shipping-header-image1.webp');
             background-blend-mode: lighten;
             position: relative;
             background-position: 100%;
@@ -125,7 +125,7 @@ if (isset($_GET['page_id'])) {
         <div class="main flex">
             <div class="first flex">
                 <div class="first-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/dollar-symbol.png" alt="">
+                    <img src="<?=get_img()?>state-to-state/dollar-symbol.webp" alt="">
                 </div>
                 <div class="first-2">
                     <div class="heading">
@@ -153,7 +153,7 @@ if (isset($_GET['page_id'])) {
             </div>
             <div class="third flex">
                 <div class="third-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/distance.png" alt="">
+                    <img src="<?=get_img()?>state-to-state/distance.webp" alt="">
                 </div>
                 <div class="third-2">
                     <div class="heading">
@@ -168,7 +168,7 @@ if (isset($_GET['page_id'])) {
             </div>
             <div class="forth flex">
                 <div class="fourt-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/shield.png" alt="">
+                    <img src="<?=get_img()?>state-to-state/shield.webp" alt="">
                 </div>
                 <div class="forth-2">
                     <div class="heading">
@@ -248,24 +248,24 @@ if (isset($_GET['page_id'])) {
             <h2 class="heading-1">Advantages using <span>Rapid Auto Shipping</span></h2>
             <div class="rapid-advantages-grid utility_grid utility_grid-4">
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/rating.png" alt="best car shipping in USA">
+                    <img src="<?= get_img() ?>icons/rating.webp" alt="best car shipping in USA">
                     <h3>Top Rated Auto Shipping Company</h3>
                     <p>We have thousands of 5-star reviews for exceptional vehicle shipping services.</p>
                 </div>
 
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/auto-insurance-icon.png" alt="best car shipping in USA">
+                    <img src="<?= get_img() ?>icons/auto-insurance-icon.webp" alt="best car shipping in USA">
                     <h3>Complete Vehicle Coverage</h3>
                     <p>We offer the most comprehensive coverage options for complete peace of mind.</p>
                 </div>
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/savings-icon.png" alt="best car shipping in USA">
+                    <img src="<?= get_img() ?>icons/savings-icon.webp" alt="best car shipping in USA">
                     <h3>No Up-Front Deposit Required</h3>
                     <p>You don't pay a penny until the day your shipment is scheduled for pickup.</p>
                 </div>
 
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/online-tracking.png" alt="Albama to alaska shipping">
+                    <img src="<?= get_img() ?>icons/online-tracking.webp" alt="Albama to alaska shipping">
                     <h3>24/7 Online Shipment Tracking</h3>
                     <p>You can track the status of your shipment online anytime at your convenience.</p>
                 </div>
