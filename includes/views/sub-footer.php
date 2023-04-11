@@ -17,9 +17,9 @@
                             </div>
                             <div class="address-2">
                                 <a href="https://www.google.com/maps?ll=34.468384,-101.304284&z=5&t=m&hl=en&gl=US&mapclient=embed&cid=11474043018341862120">
-                                    Texas
-                                    <br>
-                                    United States Of America
+                                    Texas , United States Of America
+                                    
+                                    
                                 </a>
                             </div>
                         </div>

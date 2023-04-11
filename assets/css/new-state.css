@@ -1,0 +1,128 @@
+.shipping-form-state-content p {
+    font-size: 18px;
+    word-spacing: 1.5px;
+    letter-spacing: 0.5px;
+    margin: 2% 0;
+    line-height: 1.8;
+}
+
+.shipping-form-state-content p span {
+    font-size: 18px;
+    word-spacing: 1.5px;
+    letter-spacing: 0.5px;
+    margin: 2% 0;
+    line-height: 1.8;
+}
+/* all state name grid section */
+.all-state-name-grids-section {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    padding: 2% 5%;
+}
+
+.rapid-advantages-grid-container {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    padding: 2% 2%;
+}
+
+.rapid-advantages-section {
+    padding: 0 5%;
+}
+
+.all-state-name-page-mains {
+    padding: 0 2% 0% 2%;
+}
+
+.all-state-name-pages {
+    background-color: var(--section-background);
+    padding: 1% 0;
+    border-radius: 14px;
+    border: 1px solid var(--nav-color);
+    box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.15) !important;
+}
+
+.b_top{
+    position: fixed;
+    bottom: 25px;
+    left: 20px;
+    cursor: pointer; 
+    color: #ff5722;
+    background-color: transparent;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 12px;
+    padding: 10px;
+    border: 2px solid #ff5722;
+    height: 30px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner-review-images img{
+    margin: 17px 17px 0 0;
+}
+
+.b_top a{
+    color: #ff5722;
+}
+
+
+
+@media screen and (max-width: 1000px) {
+    .rapid-advantages-grid-1 {
+        height: 330px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .all-state-name-grids-section {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .all-state-name-grids {
+        margin: 4% 0;
+    }
+
+    .rapid-advantages-grid-1 {
+        height: 320px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .utility_grid-4 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .key-holding {
+        background-image: url("<?=get_img();?>car-key-new1.jpeg");
+    }
+
+    .utility_grid-4 {
+        gap: 0;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .all-state-name-grids-section {
+        grid-template-columns: repeat(2, 1fr);
+        text-align: center;
+    }
+
+    .utility_grid-4 {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 0;
+    }
+
+    .rapid-advantages-grid-1 {
+        height: 230px;
+    }
+    .banner-review-images img{
+        width: 100px;
+    }
+    .banner-review-images{
+        text-align: center;
+    }
+}
