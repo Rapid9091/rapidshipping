@@ -104,9 +104,9 @@ if (isset($_GET['page_id'])) {
                 </p>
 
                 <div class="banner-review-images">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.png" alt="">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.png" alt="">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.png" alt="">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt="">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="">
                     </div>
 
 
