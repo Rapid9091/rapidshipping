@@ -110,8 +110,7 @@
                 </p>
             </div>
             <div class="shipping-form-state-image">
-                <img loading="lazy" src="<?=get_img();?>bmw-1.webp"
-                    alt="BMW Car Transport Services" />
+                <img loading="lazy" src="<?=get_img();?>bmw-1.webp" alt="BMW Car Transport Services" />
 
             </div>
 
@@ -187,93 +186,99 @@
                             </p>
                         </div>
                     </li>
-                    
 
 
 
 
 
-        </div>
-        <div class="shipping-form-state-image">
-            <img loading="lazy" src="<?=get_img();?>bmw-3.webp" alt="car shipping" />
 
-        </div>
 
-        <li id="3">
-            <div class="shipping-form-state-content">
-                <h2 class="heading-1">The Advantages of Using Rapid Auto Shipping to Ship Your Car</h2>
-                <p class="para-2">It is prudent to employ expert car transport services to export your automobile if you
-                    ever need to transfer the vehicle without increasing its mileage or making it prone to minor road
-                    damage.
-                    <br><br>
-                    Most owners carry their cars to auto events on their own, but hiring a professional may save time
-                    and bother. There is a shipping option for you whether you need it shipped to a future auto show or
-                    want to show off your car to a family on the other side of the nation.
-                    <br><br>
-                    For expensive automobiles, it is usually suggested that you use covered auto transport rather than
-                    open air shipping
-                </p>
+                    <div class="shipping-form-state-image">
+                        <img loading="lazy" src="<?=get_img();?>bmw-3.webp" alt="car shipping" />
 
-            </div>
+                    </div>
 
-        </li>
-        <!-- <div class="shipping-form-state-image">
+                    <li id="3">
+                        <div class="shipping-form-state-content">
+                            <h2 class="heading-1">The Advantages of Using Rapid Auto Shipping to Ship Your Car</h2>
+                            <p class="para-2">It is prudent to employ expert car transport services to export your
+                                automobile if you
+                                ever need to transfer the vehicle without increasing its mileage or making it prone to
+                                minor road
+                                damage.
+                                <br><br>
+                                Most owners carry their cars to auto events on their own, but hiring a professional may
+                                save time
+                                and bother. There is a shipping option for you whether you need it shipped to a future
+                                auto show or
+                                want to show off your car to a family on the other side of the nation.
+                                <br><br>
+                                For expensive automobiles, it is usually suggested that you use covered auto transport
+                                rather than
+                                open air shipping
+                            </p>
+
+                        </div>
+
+                    </li>
+                    <!-- <div class="shipping-form-state-image">
                         <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676278088/Recent%20Uploads/ambulance-service_cwc5jf.jpg" alt=" Most Appropriate Shipping Ambulance Services" /> -->
-        <li id="4">
-            <div class="shipping-form-state-content">
-                <h2 class="heading-1">How Much Does It Cost?</h2>
-                <p class="para-2">The <a href="https://rapidautoshipping.com/blogs/cost-to-ship-a-car"
-                        target="_blank">cost of car transporting</a> per mile varies based on the entire distance. For
-                    journeys of less than 200 miles, the industry average car shipping cost with an auto shipping firm
-                    is upwards of $2.00 per mile. For real long-distance moves surpassing 1,500 miles, the price drops
-                    to an average of $0.58 per mile.
-                    <br><br>
-                    An uncovered carrier is less secure and safer than a covered carrier. This is approximately 40% more
-                    than the rate of an open supplier.
-                    <br><br>
-                    Calculating car shipping costs is not easy. Several factors will impact the cost of your auto
-                    transportation. To receive an estimate cost, we recommend filling out the quote form.
-                </p>
+                    <li id="4">
+                        <div class="shipping-form-state-content">
+                            <h2 class="heading-1">How Much Does It Cost?</h2>
+                            <p class="para-2">The <a href="https://rapidautoshipping.com/blogs/cost-to-ship-a-car"
+                                    target="_blank">cost of car transporting</a> per mile varies based on the entire
+                                distance. For
+                                journeys of less than 200 miles, the industry average car shipping cost with an auto
+                                shipping firm
+                                is upwards of $2.00 per mile. For real long-distance moves surpassing 1,500 miles, the
+                                price drops
+                                to an average of $0.58 per mile.
+                                <br><br>
+                                An uncovered carrier is less secure and safer than a covered carrier. This is
+                                approximately 40% more
+                                than the rate of an open supplier.
+                                <br><br>
+                                Calculating car shipping costs is not easy. Several factors will impact the cost of your
+                                auto
+                                transportation. To receive an estimate cost, we recommend filling out the quote form.
+                            </p>
 
-            </div>
-        </li>
-        
-        <div class="shipping-form-state-image">
-            <img loading="lazy" src="<?=get_img();?>bmw-4.webp"
-                alt="vehicle transport services" />
+                        </div>
+                    </li>
+
+                    <div class="shipping-form-state-image">
+                        <img loading="lazy" src="<?=get_img();?>bmw-4.webp" alt="vehicle transport services" />
+                    </div>
+                    <li id="5">
+                        <div class="shipping-form-state-content">
+                            <h2 class="heading-1">Car Transport Services Quotes</h2>
+                            <p class="para-2">If you are unsure which choice to select, please contact us at +1 (833)
+                                233-4447 or
+                                write to us using the form on our website. Our customer service professionals are
+                                available around
+                                the clock, seven days a week.</p>
+                            <p class="para-2">They will not only supply you with car shipping information, but they will
+                                also
+                                present you with a free quote.</p>
+
+
+                        </div>
+
+                    </li>
+
+                </ul>
+            </section>
         </div>
-        <li id="5">
-            <div class="shipping-form-state-content">
-                <h2 class="heading-1">Car Transport Services Quotes</h2>
-                <p class="para-2">If you are unsure which choice to select, please contact us at +1 (833) 233-4447 or
-                    write to us using the form on our website. Our customer service professionals are available around
-                    the clock, seven days a week.</p>
-                <p class="para-2">They will not only supply you with car shipping information, but they will also
-                    present you with a free quote.</p>
-
-
-            </div>
-
-        </li>
-
-        </ul>
-
-
-
-
-
-
-        </section>
-
-
+        <div class="right-state-to-state-child" id="right-state-to-state-child">
+            <?php
+                include side_form;
+                ?>
+        </div>
     </div>
 
-    <div class="right-state-to-state-child" id="right-state-to-state-child">
-        <?php
-            include side_form;
-            ?>
-    </div>
-    </div>
+   
+    
 
     <div class="body">
 
