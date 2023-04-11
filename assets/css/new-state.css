@@ -119,12 +119,11 @@
     justify-content: center;
 }
 
-.banner-review-images img{
-    margin: 17px 17px 0 0;
-}
-
 .b_top a{
     color: #ff5722;
+}
+.banner-review-images img{
+    margin: 17px 17px 0 0;
 }
 
 
