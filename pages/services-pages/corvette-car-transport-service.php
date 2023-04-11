@@ -89,7 +89,7 @@
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-                <h2 class="heading-1">How Much Time does corvette car transportation takes</h2>
+                <h2 class="heading-1">How Much Time Does Corvette Car Transportation Takes</h2>
                 <p class="para-2">
                     Typically, it takes 3-6 days from state to state. The arrival time for a coast to coast shipment can range from 7 to 10 days. Check out our article on how long it takes for a detailed summary.
                 </p>
