@@ -13,6 +13,92 @@
     margin: 2% 0;
     line-height: 1.8;
 }
+
+.main_content_div p {
+    font-size: 18px;
+    word-spacing: 1.5px;
+    letter-spacing: 0.5px;
+    margin: 2% 0;
+    line-height: 1.8;
+}
+
+.main_content_div h4,
+.main_content_div h3,
+.main_content_div h5,
+.main_content_div h6,
+.main_content_div h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.main_content_div img {
+    /* margin-left:10px; */
+    width: 100%;
+}
+
+.main_content_div ul li {
+    list-style: disc;
+    font-size: 18px;
+    word-spacing: 1.5px;
+    letter-spacing: 0.5px;
+    margin: 2%;
+    line-height: 1.8;
+}
+
+#call_under_content {
+    padding: 10px 10px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+    outline: none;
+    font-weight: 500;
+    color: var(--nav-color);
+    background-color: transparent;
+    transition: 0.4s;
+    border: 2px solid #ff5227;
+    border-radius: 25px;
+    width: 80%;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.more-califrnian-cities-code {
+    background-color: #fff4f4;
+    border: 1px solid #ff5722;
+    border-radius: 14px;
+    margin: 3% 5%;
+    padding: 0% 2%;
+}
+
+.major-city-code {
+    display: grid;
+    grid-template-columns: 14fr 2fr 70fr;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.alabama-city-code-heading {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 5px;
+    padding: 1% 0;
+}
+.shipping-form-state-content p {
+    font-size: 18px;
+    word-spacing: 1.5px;
+    letter-spacing: 0.5px;
+    margin: 2% 0;
+    line-height: 1.8;
+}
+
+.shipping-form-state-content p span {
+    font-size: 18px;
+    word-spacing: 1.5px;
+    letter-spacing: 0.5px;
+    margin: 2% 0;
+    line-height: 1.8;
+}
 /* all state name grid section */
 .all-state-name-grids-section {
     display: grid;
@@ -96,9 +182,7 @@
 }
 
 @media screen and (max-width: 600px) {
-    .key-holding {
-        background-image: url("<?=get_img();?>car-key-new1.jpeg");
-    }
+    
 
     .utility_grid-4 {
         gap: 0;
@@ -124,5 +208,6 @@
     }
     .banner-review-images{
         text-align: center;
+        margin-bottom: 10px;
     }
 }
