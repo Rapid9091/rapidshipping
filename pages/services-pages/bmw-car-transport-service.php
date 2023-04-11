@@ -121,9 +121,11 @@
                 <ul class="points-div-ul">
                     <li><a href="#1">Positive Characteristics Of A Reliable Shipping Company</a></li>
                     <li><a href="#2">About the Car Transport Services Offered To Luxury Vehicle Owners</a></li>
-                    <li><a href="#3">The Advantages Of Using Rapid Auto Shipping To Ship Your Car</a></li>
-                    <li><a href="#4">How Much Does It Cost?</a></li>
-                    <li><a href="#5">Car Transport Services Quotes</a></li>
+                    <li><a href="#3">Open Car Shipping Services</a></li>
+                    <li><a href="#4">Enclosed Car Transport Service</a></li>
+                    <li><a href="#5">The Advantages Of Using Rapid Auto Shipping To Ship Your Car</a></li>
+                    <li><a href="#6">How Much Does It Cost?</a></li>
+                    <li><a href="#7">Car Transport Services Quotes</a></li>
 
 
                 </ul>
