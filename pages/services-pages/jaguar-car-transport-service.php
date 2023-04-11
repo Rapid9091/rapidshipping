@@ -98,7 +98,7 @@
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-                <h2 class="heading-1">About the Car Transport Services Offered to Luxury Vehicle Owners</h2>
+                <h2 class="heading-1">About The Car Transport Services Offered To Luxury Vehicle Owners</h2>
                 <p class="para-2">
                     We can handle all of your car shipping requirements, whether you are moving your home, relocating your company, or buying a premium automobile out of state. transporting a luxury automobile differs from transporting other kinds of cars.
                 </p>
