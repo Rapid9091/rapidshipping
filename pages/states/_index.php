@@ -22,13 +22,14 @@ if (isset($_GET['page_id'])) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?= $data['title'];?></title>
-    <?= htmlspecialchars_decode($data['meta']); ?>
+    
+    <?= $data['meta']; ?>
+
+    <?php include_once new_head; ?>
     
     <link rel="stylesheet" href="<?= get_css(); ?>VIEW_header.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_colorado-to-arizona.css">
     <link rel="stylesheet" href="<?= get_css();?>review2.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>side-form.css">
-    <link rel="stylesheet" href="<?= get_css();?>how_it_works.css">
     <link rel="stylesheet" href="<?= get_css(); ?>VIEW_new-footer.css">
     <link rel="stylesheet" href="<?= get_css(); ?>global.css">
     <link rel="stylesheet" href="<?= get_css(); ?>utility.css">
@@ -36,8 +37,10 @@ if (isset($_GET['page_id'])) {
     <link rel="stylesheet" href="<?= get_css();?>new_state-to-state.css">
     <link rel="stylesheet" href="<?= get_css();?>new-side-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
+
     <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
     <!-- owl courosel -->
     <!-- ------------------------------ -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
@@ -49,6 +52,7 @@ if (isset($_GET['page_id'])) {
         crossorigin="anonymous" referrerpolicy="no-referrer" defer />
 
     <style>
+       
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
@@ -101,8 +105,9 @@ if (isset($_GET['page_id'])) {
     font-size:30px;
     font-weight:600;
 }
-..main_content_div ul{
+.main_content_div img{
     /* margin-left:10px; */
+    width:100%;
 }
 .main_content_div ul li{
     list-style:disc;

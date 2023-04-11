@@ -219,19 +219,16 @@
 
 
         <div class="footer-urls-grid-1">
-            <p class="footer-grid-headings">Reviews</p>
+            <p class="footer-grid-headings">Policies</p>
             <ul>
-                <li><a href="<?= home_path(); ?>auto-transport-carriers/we-move-for-you-inc">We Move For You Inc</a></li>
-                <li><a href="<?= home_path(); ?>auto-transport-carriers/xtreem-auto-carrier-inc">Xtreem Auto Carrier Inc</a></li>
-                <li><a href="<?= home_path(); ?>auto-transport-carriers/volk-transport-llc">Volk Transport LLC</a></li>
-                <li><a href="<?= home_path(); ?>auto-transport-carriers/extreme-movers">Extreme Movers</a></li>
-                <li><a href="<?= home_path(); ?>auto-transport-carriers/way-to-go-auto-transport-llc">Way To Go Auto Transport LLC</a></li>
-                <li><a href="<?= home_path(); ?>auto-transport-carriers/we-haul-it-all-llc">We Haul It All LLC</a></li>
-                <li><a href="<?= home_path(); ?>auto-transport-carriers/we-move-u-inc">We Move U Inc</a></li>
-                <li><a href="<?= home_path(); ?>auto-transport-carriers/west-coast-transport-inc">West Coast Transport Inc</a></li>
-                <li><a href="<?= home_path(); ?>auto-transport-carriers/westlake-logistics-llc">Westlake Logistics LLC</a></li>
-                <li><a href="<?= home_path(); ?>auto-transport-carriers/wheelsup-auto-transport">Wheelsup Auto Transport</a></li>
-                <li><a href="<?= home_path(); ?>auto-transport-carriers/worldwide-shipping">Worldwide Shipping</a></li>
+                <li><a href="<?= home_path(); ?>sitemap.xml">Sitemap</a></li>
+                
+                <li><a href="<?= home_path(); ?>">Privacy Policy</a></li>
+                <li><a href="<?= home_path(); ?>">Terms of Use</a></li>
+                <li><a href="<?= home_path(); ?>">Terms and Conditions</a></li>
+                <li><a href="<?= home_path(); ?>">Testimonials</a></li>
+                <li><a href="<?= home_path(); ?>">FAQ</a></li>
+                
             </ul>
         </div>
 

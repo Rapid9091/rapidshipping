@@ -25,3 +25,4 @@ define('ready_to_move', COMPONENT . "ready-to-move.php");
 define('why_choose_us_section', COMPONENT . "why-choose-us-section.php");
 define('strip_under_header', COMPONENT . "strip-under-header.php");
 define('header_small_form', COMPONENT . "header_small_form.php");
+define('new_head', COMPONENT . "head_new.php");
