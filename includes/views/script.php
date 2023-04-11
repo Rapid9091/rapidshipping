@@ -103,7 +103,7 @@
 <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css">
 <!-- cdn link here -->
 <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"> -->
-<script src="https://kit.fontawesome.com/c1af740aee.js" crossorigin="anonymous"></script>
+<!-- <script src="https://kit.fontawesome.com/c1af740aee.js" crossorigin="anonymous"></script> -->
 
 <!-- for fonts link   -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
