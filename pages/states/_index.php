@@ -43,7 +43,7 @@ if (isset($_GET['page_id'])) {
     <link rel="stylesheet" href="<?= get_css(); ?>city-zipcode.css">
 
     <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css">
-    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <!-- <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'> -->
 
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
