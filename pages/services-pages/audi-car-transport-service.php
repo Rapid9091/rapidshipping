@@ -211,8 +211,8 @@
                                 <br><br>
                                 Before you choose a driver, look over everything Rapid Auto Shipping does:
                                 <br><br>
-                                <b>1.</b>Basic paperwork check:  Rapid Auto Shipping conducts a full background check on all of its drivers to ensure that they are legally licensed and registered with the US Department of Car Transport Service<br>
-                                <b>2.</b>Interstate driver verification: Some drivers are only authorized to move autos within the same state. That's an issue if you're going a long distance. Rapid Auto Shipping ensures that your driver is legally permitted to traverse state boundaries.<br>
+                                <b>Basic paperwork check:</b>  Rapid Auto Shipping conducts a full background check on all of its drivers to ensure that they are legally licensed and registered with the US Department of Car Transport Service<br>
+                                <b>Interstate driver verification:</b> Some drivers are only authorized to move autos within the same state. That's an issue if you're going a long distance. Rapid Auto Shipping ensures that your driver is legally permitted to traverse state boundaries.<br>
                             </p>
 
                         </div>
