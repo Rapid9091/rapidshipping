@@ -78,13 +78,6 @@
     padding: 0% 2%;
 }
 
-.major-city-code {
-    display: grid;
-    grid-template-columns: 14fr 2fr 70fr;
-    font-size: 12px;
-    margin-bottom: 5px;
-}
-
 .alabama-city-code-heading {
     text-align: center;
     font-size: 30px;
@@ -134,7 +127,9 @@
     border: 1px solid var(--nav-color);
     box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.15) !important;
 }
-
+.b-top-button{
+    display: none;
+}
 .b_top{
     position: fixed;
     bottom: 25px;
@@ -153,6 +148,7 @@
     align-items: center;
     justify-content: center;
 }
+
 .banner-review-images img{
     margin: 17px 17px 0 0;
 }
@@ -190,7 +186,9 @@
 }
 
 @media screen and (max-width: 600px) {
-    
+    .b-top-button{
+        display: block;
+    }
 
     .utility_grid-4 {
         gap: 0;
