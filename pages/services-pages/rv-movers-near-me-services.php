@@ -14,7 +14,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="RV movers near me services | +1-833-233-4447" />
 <meta property="og:description" content="Don't wait until the last minute to locate Rv movers near me. Rapid Auto Shipping is one of the giant RV transporters in the United States." />
-<meta property="og:url" content="https://rapidautoshipping.com/service/rv-movers-near-me-services" />
+<meta property="og:url" content="https://rapidautoshipping.com/services/rv-movers-near-me-services" />
 <meta property="og:site_name" content="RV movers near me services | +1-833-233-4447" />
 <meta name='robots' content='index' />
 <meta name="keywords" content="rv movers near me, r v movers near me, rv transporters near me, 5th wheel moving service near me, rv moving services near me." />
@@ -241,7 +241,10 @@
                     <li id="10">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">How Much Does It Cost?</h2>
-                            <p class="para-2">Given the wide variety of factors that can influence the cost, it can be challenging to provide a precise quote for RV transport; however, transfers under a hundred miles will cost approximately $3.32 per mile, while those under 1,000 miles will cost roughly $1.05 per mile.</p>
+                            <p class="para-2">Given the wide variety of factors that can influence the cost, it can be challenging to provide a precise quote for RV transport; however, transfers under a hundred miles will cost approximately $3.32 per mile, while those under 1,000 miles will cost roughly $1.05 per mile.
+                                <br><br>
+                                Calculating rv shipping costs is not easy. Several factors will impact the cost of your auto transportation. To receive an estimate cost, we recommend filling out the quote form.
+                            </p>
                             
                             
 

@@ -182,6 +182,10 @@
                                     <ion-icon name="location-sharp"></ion-icon>
                                     <a href="<?= get_state() ?>/wisconsin-wi" rel="dofollow">Wisconsin</a>
                                 </li>
+                                <li>
+                                    <ion-icon name="location-sharp"></ion-icon>
+                                    <a href="<?= get_state() ?>/south-dakota">South Dakota</a>
+                                </li>
                             </ul>
                         </div>
                         <div class="sub-menu-child">
@@ -222,6 +226,10 @@
                                     <ion-icon name="location-sharp"></ion-icon>
                                     <a href="<?= get_state() ?>/wyoming-wy" rel="dofollow">Wyoming</a>
                                 </li>
+                                <li>
+                                    <ion-icon name="location-sharp"></ion-icon>
+                                    <a href="<?= get_state() ?>/tennessee-tn">Tennessee</a>
+                                </li>
                             </ul>
                         </div>
                         <div class="sub-menu-child">
@@ -258,6 +266,14 @@
                                     <ion-icon name="location-sharp"></ion-icon>
                                     <a href="<?= get_state() ?>/mississippi" rel="dofollow">Mississippi</a>
                                 </li>
+                                <li>
+                                    <ion-icon name="location-sharp"></ion-icon>
+                                    <a href="<?= get_state() ?>/texas-tx">Texas</a>
+                                </li>
+                                <li>
+                                    <ion-icon name="location-sharp"></ion-icon>
+                                    <a href="<?= get_state() ?>/utah-ut">Utah</a>
+                                </li>
                             </ul>
                         </div>
                         <div class="sub-menu-child">
@@ -293,6 +309,14 @@
                                 <li>
                                     <ion-icon name="location-sharp"></ion-icon>
                                     <a href="<?= get_state() ?>/new-york">New York</a>
+                                </li>
+                                <li>
+                                    <ion-icon name="location-sharp"></ion-icon>
+                                    <a href="<?= get_state() ?>/vermont-vt">Vermont</a>
+                                </li>
+                                <li>
+                                    <ion-icon name="location-sharp"></ion-icon>
+                                    <a href="<?= get_state() ?>/virginia-va">Virginia</a>
                                 </li>
 
                             </ul>
@@ -331,35 +355,6 @@
                                     <ion-icon name="location-sharp"></ion-icon>
                                     <a href="<?= get_state() ?>/south-carolina">South Carolina</a>
                                 </li>
-
-                            </ul>
-                        </div>
-                        <div class="sub-menu-child">
-                            <ul>
-                                <li>
-                                    <ion-icon name="location-sharp"></ion-icon>
-                                    <a href="<?= get_state() ?>/south-dakota">South Dakota</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="location-sharp"></ion-icon>
-                                    <a href="<?= get_state() ?>/tennessee-tn">Tennessee</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="location-sharp"></ion-icon>
-                                    <a href="<?= get_state() ?>/texas-tx">Texas</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="location-sharp"></ion-icon>
-                                    <a href="<?= get_state() ?>/utah-ut">Utah</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="location-sharp"></ion-icon>
-                                    <a href="<?= get_state() ?>/vermont-vt">Vermont</a>
-                                </li>
-                                <li>
-                                    <ion-icon name="location-sharp"></ion-icon>
-                                    <a href="<?= get_state() ?>/virginia-va">Virginia</a>
-                                </li>
                                 <li>
                                     <ion-icon name="location-sharp"></ion-icon>
                                     <a href="<?= get_state() ?>/washington-wa">Washington</a>
@@ -368,8 +363,10 @@
                                     <ion-icon name="location-sharp"></ion-icon>
                                     <a href="<?= get_state() ?>/west-virginia-wv">West Virginia</a>
                                 </li>
+
                             </ul>
                         </div>
+                        
                     </div>
                 </li>
                 <li class="blog-tab-view">

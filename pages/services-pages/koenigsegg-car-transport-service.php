@@ -217,7 +217,7 @@
                                 A <a href="https://rapidautoshipping.com/services" target="_blank">car transporter
                                     service</a> is the easiest and most effective method to move a luxury vehicle to a
                                 new location without causing further damage or wear. It also guards against higher
-                                miles.
+                                miles. Calculating car shipping costs is not easy. Several factors will impact the cost of your auto transportation. To receive an estimate cost, we recommend filling out the quote form.
                             </p>
 
                         </div>

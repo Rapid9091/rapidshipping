@@ -28,8 +28,12 @@ include_once "../../init.php";
     <link rel="stylesheet" href="<?= get_css();?>new_state-to-state.css">
     <link rel="stylesheet" href="<?= get_css();?>new-side-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>city-zipcode.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>new-state.css">
     <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
     <!-- owl courosel -->
     <!-- ------------------------------ -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
@@ -40,161 +44,25 @@ include_once "../../init.php";
         integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
         crossorigin="anonymous" referrerpolicy="no-referrer" defer />
 
-    <style>
-        .contact-us-header-page {
-            width: 100%;
-            background-repeat: no-repeat, repeat;
-            background-image: url('<?= get_img() ?>car-shipping-header-image1.png');
-            background-blend-mode: lighten;
-            position: relative;
-            background-position: 100%;
-            background-repeat: no-repeat;
-            background-size: cover;
-        }
-
-        .key-holding {
-            margin: 2% 0;
-            background-image: url("<?= get_img();?>/car-key-new1.jpeg");
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
-        }
-
-        .shipping-form-state-content p {
-            font-size: 18px;
-            word-spacing: 1.5px;
-            letter-spacing: 0.5px;
-            margin: 2% 0;
-            line-height: 1.8;
-        }
-
-        .shipping-form-state-content p span {
-            font-size: 18px;
-            word-spacing: 1.5px;
-            letter-spacing: 0.5px;
-            margin: 2% 0;
-            line-height: 1.8;
-        }
-
-        .all-state-name-grids-section {
-            display: grid;
-            grid-template-columns: repeat(6, 1fr);
-            padding: 2% 5%;
-        }
-
-        .rapid-advantages-grid-container {
-            box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
-            padding: 2% 2%;
-        }
-
-        .rapid-advantages-section {
-            padding: 0 5%;
-        }
-
-        .all-state-name-page-mains {
-            padding: 0 2% 0% 2%;
-        }
-
-        .all-state-name-pages {
-            background-color: var(--section-background);
-            padding: 1% 0;
-            border-radius: 14px;
-            border: 1px solid var(--nav-color);
-            box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.15) !important;
-        }
-        .more-califrnian-cities-code {
-            background-color: #fff4f4;
-            border: 1px solid #ff5722;
-            border-radius: 14px;
-            margin: 3% 5%;
-            padding: 0% 2%;
-        }
-        .major-city-code {
-            display: grid;
-            grid-template-columns: 14fr 2fr 70fr;
-            font-size: 12px;
-            margin-bottom: 5px;
-        }
-
-        .alabama-city-code-heading {
-            text-align: center;
-            font-size: 30px;
-            font-weight: 600;
-            margin-top: 5px;
-            padding: 1% 0;
-        }
-        @media screen and (max-width: 1000px) {
-            .rapid-advantages-grid-1 {
-                height: 330px;
-            }
-        }
-
-        @media screen and (max-width: 800px) {
-            .all-state-name-grids-section {
-                grid-template-columns: repeat(3, 1fr);
-            }
-
-            .all-state-name-grids {
-                margin: 4% 0;
-            }
-
-            .rapid-advantages-grid-1 {
-                height: 320px;
-            }
-        }
-
-            @media screen and (max-width:768px) {
-                .utility_grid-4 {
-                    grid-template-columns: repeat(2, 1fr);
-                }
-
-                .major-city-code {
-                    text-align: center;
-                    grid-template-columns: 1fr;
-                    font-size: 15px;
-                    margin-bottom: 20px;
-                }
-
-                .major-city-code-para {
-                    font-weight: 700;
-                }
-
-                .major-city-code span {
-                    display: none;
-                }
-
-                .alabama-city-code-heading {
-                    font-size: 25px;
-                    margin-bottom: 15px;
-                }
-                .major-city-code-para{
-                    margin-bottom: 8px;
-                }
-            }
-
-            @media screen and (max-width: 600px) {
-                .key-holding {
-                    background-image: url("<?=get_img();?>car-key-new1.jpeg");
-                }
-                .utility_grid-4 {
-                    gap: 0;
-                }
-            }
-
-            @media screen and (max-width: 500px) {
-                .all-state-name-grids-section {
-                    grid-template-columns: repeat(2, 1fr);
-                    text-align: center;
-                }
-                .utility_grid-4 {
-                    grid-template-columns: repeat(1, 1fr);
-                    gap: 0;
-                }
-                .rapid-advantages-grid-1 {
-                height: 230px;
-            }
-            }
-    </style>
+<style>
+    .contact-us-header-page {
+    width: 100%;
+    background-repeat: no-repeat, repeat;
+    background-image: url('<?= get_img() ?>car-shipping-header-image1.png');
+    background-blend-mode: lighten;
+    position: relative;
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    .key-holding {
+    margin: 2% 0;
+    background-image: url("<?= get_img();?>/car-key-new1.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
 </head>
 
 <body>
@@ -205,7 +73,7 @@ include_once "../../init.php";
     <!------------- banner --------------------->
     <?php
         $NAME = "Best Car Transport Company In Alabama";
-        $PARAGRAPH = "Shipping your car to Alabama is an excellent choice whether you are moving to Alabama for the season, for education, or for good. Rapid Auto Shipping has years of expertise and specializes in Alabama car transport services.";
+        $PARAGRAPH = "Shipping your car to Alabama is an excellent choice whether you are moving to Alabama for the season, for education, or for good. Rapid Auto Shipping has years of expertise and specializes in Alabama car transport services.Shipping your car to Alabama is an excellent choice whether you are moving to Alabama for the season, for education, or for good. Rapid Auto Shipping has years of expertise and specializes in Alabama car transport services.";
         ?>
     <section class="contact-us-header-page" id="banner_form">
 
@@ -220,16 +88,26 @@ include_once "../../init.php";
                 </h1>
 
 
-                <p class="third-section-content-text">
-                    <?php echo $PARAGRAPH;?>
+                <p class="third-section-content-text" style=" overflow: hidden;
+                text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 5;
+           line-clamp: 5; 
+   -webkit-box-orient: vertical;
+   padding:1% 0">
+                    <?php echo $PARAGRAPH; ?>
+
                 </p>
-
-
+                <div class="banner-review-images">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.png" alt="">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.png" alt="">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.png" alt="">
+                    </div>
             </div>
             <div style="display:grid;
                 place-items:center;">
                 <?php 
-                    // include small_form_new ;
+                    //include small_form_new ;
                     ?>
             </div>
 
@@ -359,7 +237,7 @@ include_once "../../init.php";
                                 </div>
                             </div>
                             <div class="g-logo">
-                                <img src="<?= get_img()?>reviews/g.png" alt="google logo">
+                                <img src="<?= get_img()?>reviews/g.png" alt="google logo" style="margin-top:10px;">
                             </div>
                         </div>
                         <div class="review_stars">
@@ -387,9 +265,10 @@ include_once "../../init.php";
                                 </div>
                             </div>
                             <div class="" style="margin-top:10px;">
-                                <img src="https://rapidautoshipping.com/assets/images/bbb-logo-horizontal.png"
-                                    alt="google logo" style="width:70px;">
+                                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase.png" alt="user"
+                                    style="width:80px">
                             </div>
+
                         </div>
                         <div class="review_stars">
                             <p><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i
@@ -415,7 +294,7 @@ include_once "../../init.php";
                                 </div>
                             </div>
                             <div class="g-logo">
-                                <img src="<?= get_img()?>reviews/g.png" alt="google logo">
+                                <img src="<?= get_img()?>reviews/g.png" alt="google logo" style="margin-top:10px;">
                             </div>
                         </div>
                         <div class="review_stars">
@@ -500,8 +379,9 @@ include_once "../../init.php";
                                 </div>
                             </div>
                             <div class="" style="margin-top:10px;">
-                                <img src="https://rapidautoshipping.com/assets/images/bbb-logo-horizontal.png"
-                                    alt="google logo" style="width:70px;">
+                                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase.png" alt="user"
+                                    style="width:80px">
+
                             </div>
                         </div>
                         <div class="review_stars">
@@ -1170,6 +1050,15 @@ include_once "../../init.php";
 
 
         </div>
+    </div>
+
+    <!-- back to top button -->
+    <div class="b_top">
+    <span class="material-symbols-outlined">
+                    phone_in_talk
+                </span>
+            <a href="tel:+1-833-233-4447">+1-833-233-4447</a>
+        
     </div>
 
     <!----------------page bottom ------------------>
