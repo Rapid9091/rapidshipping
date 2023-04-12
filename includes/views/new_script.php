@@ -1,18 +1,16 @@
 <!-- cdn js links -->
 <script async="true" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer"></script>
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script  async="true" src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
+<!-- <script src="https://unpkg.com/aos@next/dist/aos.js"></script> -->
+<script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
 
 
 <!-- project level js links -->
 <script async="true" src="<?= get_js("function.js"); ?>"></script>
 <script async="true" src="<?= get_assets(); ?>/js/header.js"></script>
 
-<script async="true" src="<?= get_js("VIEW_small-form.js"); ?>"></script>
-<script async="true" src="<?= get_js("VIEW_side-form.js"); ?>"></script>
-<script async="true" src="<?= get_js("review-home.js"); ?>"></script>
-
-
+<script async="true" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&sensor=false&libraries=places"></script>
+<script async="true" src="<?= get_js("small_form_new.js") ?>"></script>
+   <script async="true" src="<?= get_js("side_form_new.js") ?>"></script>
 
 
 
@@ -100,11 +98,11 @@
 <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css">
 <!-- cdn link here -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
-<script src="https://kit.fontawesome.com/c1af740aee.js" crossorigin="anonymous"></script>
+<script async="true" src="https://kit.fontawesome.com/c1af740aee.js" crossorigin="anonymous"></script>
 
 <!-- for fonts link   -->
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<!-- <link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /> -->
 <!-- google fonts link here -->
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400&display=swap" rel="stylesheet" />
 <!-- animation css link   -->

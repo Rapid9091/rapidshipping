@@ -63,6 +63,9 @@ if (isset($_GET['page_id'])) {
     <link rel="preconnect" href="https://fonts.gstatic.com"  defer crossorigin  />    -->
 
     <style>
+        *{
+            font-display: swap;
+        }
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
@@ -450,7 +453,9 @@ if (isset($_GET['page_id'])) {
     </div>
 
     <!----------------page bottom ------------------>
-    <?php include_once page_bottom ?>
+    <?php include_once new_footer; ?>
+    <?php include_once new_script; ?>
+
 
 
     
@@ -486,6 +491,9 @@ if (isset($_GET['page_id'])) {
             }
         })
 
+    </script>
+    <script>
+        $('button.owl-dot').attr('aria-label', 'owl-dot');
     </script>
     <script async="true" src="<?=get_js()?>/faq.js"></script>
 </body>
