@@ -86,7 +86,7 @@
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-                <h2 class="heading-1">How to Ship a Lexus Car?</h2>
+                <h2 class="heading-1">How To Ship A Lexus Car?</h2>
                 <p class="para-2">
                 You must be certain that transportation is the best choice for you before your vehicle winds up on a flatbed, traversing the Mississippi. Although taking a week off work to go on a road trip may be more cost- and time-effective in some circumstances, many people have employment and other obligations that prohibit them from doing so. Moving older models or project vehicles are two examples of circumstances in which operating the vehicle may be difficult.
                     <br><br>
