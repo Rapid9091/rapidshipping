@@ -5,7 +5,7 @@
     <div class="flex review_row" style="align-items:start;">
         <div class="google" style="justify-content:unset; margin-top:10px;">
             <div class="google_logo" style="">
-                <img src="<?=get_img()?>satisfaction.webp" alt="custormer satisfaction" width="150px" height="61px">
+                <img src="<?=get_img()?>satisfaction.webp" alt="custormer satisfaction" width="150px" height="61px" loading="lazy">
             </div>
             <div class="rating">
                 <p><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i
@@ -22,7 +22,7 @@
                     <div class="flex" style="justify-content: space-between;">
                         <div class="user_info flex">
                             <div class="user_img">
-                                <img src="<?=get_img()?>reviews/benjamin.jpg" alt="user">
+                                <img src="<?=get_img()?>reviews/benjamin.jpg" alt="user" width="50px" height="50px" loading="lazy">
                             </div>
                             <div class="user_name">
                                 <p>Peter Mills</p>
@@ -30,7 +30,7 @@
                             </div>
                         </div>
                         <div class="" style="margin-top:10px;">
-                            <img src="<?=get_img();?>TransportReviewsLogo.webp" alt="transposrt review logo" style="width:80px;">
+                            <img src="<?=get_img();?>TransportReviewsLogo.webp" alt="transposrt review logo" width="80px" height="30px" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -47,7 +47,7 @@
                     <div class="flex" style="justify-content: space-between;">
                         <div class="user_info flex">
                             <div class="user_img">
-                                <img src="<?=get_img()?>reviews/lucas.jpg" alt="user">
+                                <img src="<?=get_img()?>reviews/lucas.jpg" alt="user" width="50px" height="50px" loading="lazy">
                             </div>
                             <div class="user_name">
                                 <p>Kiley Eckert</p>
@@ -55,7 +55,7 @@
                             </div>
                         </div>
                         <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.webp" alt="google logo">
+                            <img src="<?= get_img()?>reviews/g.webp" alt="google logo" width="20px" height="20px" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -73,7 +73,7 @@
                     <div class="flex" style="justify-content: space-between;">
                         <div class="user_info flex">
                             <div class="user_img">
-                                <img src="<?=get_img()?>reviews/james.jpg" alt="user">
+                                <img src="<?=get_img()?>reviews/james.jpg" alt="user" width="50px" height="50px" loading="lazy">
                             </div>
                             <div class="user_name">
                                 <p>James Johnson</p>
@@ -81,7 +81,7 @@
                             </div>
                         </div>
                         <div class="" style="margin-top:10px;">
-                            <img src="<?=get_img()?>rapid-auto-shipping-crunchbase.webp" alt="crunchbase logo" style="width:70px;">
+                            <img src="<?=get_img()?>rapid-auto-shipping-crunchbase.webp" alt="crunchbase logo" width="70px" height="9px" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -98,7 +98,7 @@
                     <div class="flex" style="justify-content: space-between;">
                         <div class="user_info flex">
                             <div class="user_img">
-                                <img src="<?=get_img()?>reviews/noah.jpg" alt="user">
+                                <img src="<?=get_img()?>reviews/noah.jpg" alt="user" width="50px" height="50px" loading="lazy">
                             </div>
                             <div class="user_name">
                                 <p>Tim Cripps</p>
@@ -106,7 +106,7 @@
                             </div>
                         </div>
                         <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.webp" alt="google logo">
+                            <img src="<?= get_img()?>reviews/g.webp" alt="google logo" width="20px" height="20px" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -124,7 +124,7 @@
                     <div class="flex" style="justify-content: space-between;">
                         <div class="user_info flex">
                             <div class="user_img">
-                                <img src="<?=get_img()?>reviews/emma.jpg" alt="user">
+                                <img src="<?=get_img()?>reviews/emma.jpg" alt="user" width="50px" height="50px" loading="lazy">
                             </div>
                             <div class="user_name">
                                 <p>Shirley Steele</p>
@@ -132,7 +132,7 @@
                             </div>
                         </div>
                         <div class="" style="margin-top:10px;">
-                            <img src="<?=get_img()?>Trustpilot-logo.webp" alt="trustpilot" style="width:80px">
+                            <img src="<?=get_img()?>Trustpilot-logo.webp" alt="trustpilot" width="80px" height="18px" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -149,7 +149,7 @@
                     <div class="flex" style="justify-content: space-between;">
                         <div class="user_info flex">
                             <div class="user_img">
-                                <img src="<?=get_img()?>reviews/henry.jpg" alt="user">
+                                <img src="<?=get_img()?>reviews/henry.jpg" alt="user" width="50px" height="50px" loading="lazy">
                             </div>
                             <div class="user_name">
                                 <p>Gerald Werber</p>
@@ -157,7 +157,7 @@
                             </div>
                         </div>
                         <div class="" style="margin-top:10px;">
-                            <img src="<?=get_img()?>TransportReviewsLogo.webp" alt="transport review" style="width:80px;">
+                            <img src="<?=get_img()?>TransportReviewsLogo.webp" alt="transport review" width="80px" height="30px" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -177,7 +177,7 @@
                     <div class="flex" style="justify-content: space-between;">
                         <div class="user_info flex">
                             <div class="user_img">
-                                <img src="<?=get_img()?>reviews/amelia.jpg" alt="user">
+                                <img src="<?=get_img()?>reviews/amelia.jpg" alt="user" width="50px" height="50px" loading="lazy">
                             </div>
                             <div class="user_name">
                                 <p>Margery Dimsha</p>
@@ -185,7 +185,7 @@
                             </div>
                         </div>
                         <div class="" style="margin-top:10px;">
-                            <img src="<?=get_img()?>rapid-auto-shipping-crunchbase.webp" alt="crunchbase logo" style="width:70px;">
+                            <img src="<?=get_img()?>rapid-auto-shipping-crunchbase.webp" alt="crunchbase logo" width="70px" height="9px" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -203,7 +203,7 @@
                     <div class="flex" style="justify-content: space-between;">
                         <div class="user_info flex">
                             <div class="user_img">
-                                <img src="<?=get_img()?>reviews/olivia.jpg" alt="user">
+                                <img src="<?=get_img()?>reviews/olivia.jpg" alt="user" width="50px" height="50px" loading="lazy">
                             </div>
                             <div class="user_name">
                                 <p>Jennifer Bayne</p>
@@ -211,7 +211,7 @@
                             </div>
                         </div>
                         <div class="" style="margin-top:10px;">
-                            <img src="<?= get_img();?>Trustpilot-logo.webp" alt="trustpilot" style="width:80px">
+                            <img src="<?= get_img();?>Trustpilot-logo.webp" alt="trustpilot" width="80px" height="18px" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
