@@ -108,9 +108,9 @@
                     <li><a href="#1">International Porsche Car Transport Service</a></li>
                     <li><a href="#2">What Exactly Is Open Car Shipping?</a></li>
                     <li><a href="#3">What Exactly Is Enclosed Auto Transport?</a></li>
-                    <li><a href="#4">How Much Time Does Porsche Car Transportation Takes</a></li>
+                    <li><a href="#4">How Much Time Does Porsche Car Transportation Takes?</a></li>
                     <li><a href="#5">How Much Does Porsche Car Transport Service Cost?</a></li>
-                    <li><a href="#6">About The Car Transport Services Offered To Luxury Vehicle Owners.</a></li>
+                    <li><a href="#6">About The Car Transport Services Offered To Luxury Vehicle Owners</a></li>
                     <li><a href="#7">Porsche Car Transport Service Quotes</a></li>
 
                 </ul>
