@@ -111,14 +111,14 @@
                     <li><a href="#1">Type of Trucking Company Near Me</a></li>
                     <li><a href="#2">Open Air Trucking Company Near Me</a></li>
                     <li><a href="#3">Enclosed Trucking Company Near Me</a></li>
-                    <li><a href="#4">Door to Door Trucking Company Near Me</a></li>
-                    <li><a href="#5">Terminal to Terminal Trucking Company Near Me</a></li>
-                    <li><a href="#6">Transporting trucking company near me</a></li>
+                    <li><a href="#4">Door To Door Trucking Company Near Me</a></li>
+                    <li><a href="#5">Terminal To Terminal Trucking Company Near Me</a></li>
+                    <li><a href="#6">Transporting Trucking Company Near Me</a></li>
                     <li><a href="#7">Trucking Companies Near Me Services</a></li>
-                    <li><a href="#8">About the trucking company's services Offered to Luxury Vehicle Owners</a></li>
-                    <li><a href="#9">The Advantages of Using Trucking Companies Near Me</a></li>
+                    <li><a href="#8">About The Trucking Company's Services Offered To Luxury Vehicle Owners</a></li>
+                    <li><a href="#9">The Advantages Of Using Trucking Companies Near Me</a></li>
                     <li><a href="#10">How Much Does It Cost From Best Trucking Companies Near Me?</a></li>
-                    <li><a href="#11">Plan a Pickup</a></li>
+                    <li><a href="#11">Plan A Pickup</a></li>
 
                 </ul>
             </div>
@@ -128,7 +128,7 @@
                 <ul>
                     <li id="1">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Type of Trucking Company Near Me</h2>
+                            <h2 class="heading-1">Type Of Trucking Company Near Me</h2>
                             <p class="para-2">
                                 <b>Truckload Shipping:</b> Truckload freight is freight that can occupy a container. We
                                 are prepared to assist in getting this critical freight transported to locations across
@@ -196,7 +196,7 @@
 
                     <li id="4">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Door to Door Trucking Company Near Me</h2>
+                            <h2 class="heading-1">Door To Door Trucking Company Near Me</h2>
                             <p class="para-2">There are numerous opportunities for expansion in the massive shipping and
                                 logistics industry. However, if you are about to explore your trucking company near me,
                                 you must comprehend how it works and how it can improve your supply chain and
@@ -216,7 +216,7 @@
                     </li>
                     <li id="5">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Terminal to Terminal Trucking Company Near Me</h2>
+                            <h2 class="heading-1">Terminal To Terminal Trucking Company Near Me</h2>
                             <p class="para-2">First, you take your car to a designated drop-off location, where it will
                                 stay until picked up by your carrier. Then, when your vehicle is gathered, the airline
                                 transports it to the final terminal spot, where you will collect it. Sometimes, you may
@@ -241,7 +241,7 @@
                         <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676278088/Recent%20Uploads/ambulance-service_cwc5jf.jpg" alt=" Most Appropriate Shipping Ambulance Services" /> -->
                     <li id="6">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Transporting trucking company near me</h2>
+                            <h2 class="heading-1">Transporting Trucking Company Near Me</h2>
                             <p class="para-2">Whether you've just purchased a new (or new to you) truck, or you're
                                 relocating and need to send your truck to your new home, Rapid Auto Shipping can help
                                 alleviate tension and cast some light on the truck shipment process.
@@ -283,7 +283,7 @@
                     </li>
                     <li id="8">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">About the trucking company's services Offered to Luxury Vehicle Owners
+                            <h2 class="heading-1">About The Trucking Company's Services Offered To Luxury Vehicle Owners
                             </h2>
                             <p class="para-2">Rapid Auto Shipping is a "<a
                                     href="https://rapidautoshipping.com/blogs/exotic-cars" target="_blank">luxury car
@@ -301,7 +301,7 @@
 
                     <li id="9">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">The Advantages of Using Trucking Companies Near Me</h2>
+                            <h2 class="heading-1">The Advantages Of Using Trucking Companies Near Me</h2>
                             <p class="para-2"><b>DISTANCE TRAVEL:</b> Pick up in any of the cities listed below, then be
                                 transported to your destination. If your pickup spot falls within one of our service
                                 areas, we can also transport you to nearby cities, airports, and tourism destinations.
@@ -319,7 +319,7 @@
                     </li>
                     <li id="10">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">How Much Does Trucking service cost - Trucking Companies Near Me?</h2>
+                            <h2 class="heading-1">How Much Does Trucking Service Cost - Trucking Companies Near Me?</h2>
                             <p class="para-2">The truck's size, distance, timeframe, and delivery service that best
                                 suits your needs determine the expense of shipping a vehicle. On average, shipping your
                                 vehicle less than 100 miles costs $4.15 per mile, but transporting your truck less than
@@ -355,7 +355,7 @@
                     </li>
                     <li id="11">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Plan a Pickup</h2>
+                            <h2 class="heading-1">Plan A Pickup</h2>
                             <p class="para-2">Check out our website for more information on how much your truck shipping
                                 services may cost. In addition, you'll understand how we operate by seeing hundreds of
                                 vehicle dispatches finished through Rapid Auto Shipping.
