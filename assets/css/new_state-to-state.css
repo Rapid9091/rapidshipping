@@ -7,6 +7,7 @@
     list-style: none;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
+    font-display: swap;
   }
   
   header {
