@@ -108,9 +108,9 @@
                     <li><a href="#1">International Porsche Car Transport Service</a></li>
                     <li><a href="#2">What Exactly Is Open Car Shipping?</a></li>
                     <li><a href="#3">What Exactly Is Enclosed Auto Transport?</a></li>
-                    <li><a href="#4">How Much Time Does Porsche Car Transportation Takes</a></li>
+                    <li><a href="#4">How Much Time Does Porsche Car Transportation Takes?</a></li>
                     <li><a href="#5">How Much Does Porsche Car Transport Service Cost?</a></li>
-                    <li><a href="#6">About The Car Transport Services Offered To Luxury Vehicle Owners.</a></li>
+                    <li><a href="#6">About The Car Transport Services Offered To Luxury Vehicle Owners</a></li>
                     <li><a href="#7">Porsche Car Transport Service Quotes</a></li>
 
                 </ul>
@@ -161,7 +161,7 @@
 
                     <li id="4">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">How Much Time Does Porsche Car Transportation Takes</h2>
+                            <h2 class="heading-1">How Much Time Does Porsche Car Transportation Takes?</h2>
                             <p class="para-2">Shipping a vehicle abroad usually takes 2-3 weeks, depending on the origin and destination. Most transportation companies work from port to port, and their shipment timing may differ from that of a company that transports your vehicle straight from point A to point B. It is also known as door to door delivery.</p>
                             <p class="para-2">The best way to predict how long it will take to finish your particular international auto transport requirements is to contact Rapid Auto Shipping for a quotation, as international vehicle shipment timeframes differ significantly.</p>
 
@@ -185,7 +185,7 @@
                         <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676278088/Recent%20Uploads/ambulance-service_cwc5jf.jpg" alt=" Most Appropriate Shipping Ambulance Services" /> -->
                         <li id="6">
                             <div class="shipping-form-state-content">
-                                <h2 class="heading-1">About The Car Transport Services Offered To Luxury Vehicle Owners.</h2>
+                                <h2 class="heading-1">About The Car Transport Services Offered To Luxury Vehicle Owners</h2>
                                 <p class="para-2">The <a href="https://rapidautoshipping.com/blogs/exotic-cars" target="_blank">luxury car shipping company</a> has developed into a highly competitive industry with complex procedures. Indeed, the majority of customers need to comprehend the process.
                                     <br><br>
                                     The problem is that there are numerous luxury transportation firms, each with its regulations to ensure that its customers are not injured. Here are some of the advantages of luxury car shipping in the USA.
