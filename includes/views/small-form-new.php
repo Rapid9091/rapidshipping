@@ -1,6 +1,6 @@
 <form action="<?=home_path()?>get_qoute" class="form-section" method="post" onsubmit="return final_validation()">
 
-    <img class="bb-img" src="<?= get_img()?>/Transport-Reviews.png" alt="">
+    <img class="bb-img" src="<?= get_img()?>/Transport-Reviews.webp" alt=" transport review" loading="lazy">
 
 
     <div class="form-section-group active-form">
@@ -105,33 +105,33 @@
                     placeholder="Select an option" />
                 <div id="vehicle_size_list">
                     <div style="display:flex; flex-wrap:wrap;" id="vehicle_list_div">
-                    <div data-value="Small Car"><img src="<?=get_img()?>cars_icon/small-car.png" alt="small car">Small Car
+                    <div data-value="Small Car"><img src="<?=get_img()?>cars_icon/small-car.png" alt="small car" loading="lazy">Small Car
                         </div>
-                        <div data-value="Midsize Car"><img src="<?=get_img()?>cars_icon/midsize-car.png" alt="midsize-car">Midsize Car
+                        <div data-value="Midsize Car"><img src="<?=get_img()?>cars_icon/midsize-car.png" alt="midsize-car" loading="lazy">Midsize Car
                         </div>
-                        <div data-value="Large Car"><img src="<?=get_img()?>cars_icon/large-car.png" alt="large-car">Large Car
+                        <div data-value="Large Car"><img src="<?=get_img()?>cars_icon/large-car.png" alt="large-car" loading="lazy">Large Car
                         </div>
-                        <div data-value="Sports Car"><img src="<?=get_img()?>cars_icon/sports-car.png" alt="sports-car">Sports Car
+                        <div data-value="Sports Car"><img src="<?=get_img()?>cars_icon/sports-car.png" alt="sports-car" loading="lazy">Sports Car
                         </div>
-                        <div data-value="Small SUV"><img src="<?=get_img()?>cars_icon/small-suv.png" alt="small-suv">Small SUV
+                        <div data-value="Small SUV"><img src="<?=get_img()?>cars_icon/small-suv.png" alt="small-suv" loading="lazy">Small SUV
                         </div>
-                        <div data-value="Midsize SUV"><img src="<?=get_img()?>cars_icon/midsize-suv.png" alt="midsize-suv">Midsize SUV
+                        <div data-value="Midsize SUV"><img src="<?=get_img()?>cars_icon/midsize-suv.png" alt="midsize-suv" loading="lazy">Midsize SUV
                         </div>
-                        <div data-value="Large SUV"><img src="<?=get_img()?>cars_icon/large-suv.png" alt="large-suv">Large SUV
+                        <div data-value="Large SUV"><img src="<?=get_img()?>cars_icon/large-suv.png" alt="large-suv" loading="lazy">Large SUV
                         </div>
-                        <div data-value="HyperCar"><img src="<?=get_img()?>cars_icon/hypercar.png" alt="hypercar">HyperCar
+                        <div data-value="HyperCar"><img src="<?=get_img()?>cars_icon/hypercar.png" alt="hypercar" loading="lazy">HyperCar
                         </div>
-                        <div data-value="Mini-van"><img src="<?=get_img()?>cars_icon/mini-van.png" alt="mini-van">Mini-van
+                        <div data-value="Mini-van"><img src="<?=get_img()?>cars_icon/mini-van.png" alt="mini-van" loading="lazy">Mini-van
                         </div>
-                        <div data-value="Medium Pickup"><img src="<?=get_img()?>cars_icon/medium-pickup.png" alt="medium-pickup">Medium Pickup</div>
-                        <div data-value="Large Pickup"><img src="<?=get_img()?>cars_icon/large-pickup.png" alt="Large Pickup">Large Pickup</div>
-                        <div data-value="FullSize Van"><img src="<?=get_img()?>cars_icon/fullsize-van.png" alt="FullSize Van">FullSize Van</div>
-                        <div data-value="Travel Trailer"><img src="<?=get_img()?>cars_icon/travel-trailer.png" alt="Travel Trailer">Travel Trailer</div>
-                        <div data-value="Boat Trailer"><img src="<?=get_img()?>cars_icon/boat-trailer.png" alt="Boat Trailer">Boat Trailer</div>
-                        <div data-value="Golf Cart"><img src="<?=get_img()?>cars_icon/golf-cart.png" alt="Golf Cart">Golf Cart</div>
-                        <div data-value="Dually Pickup"><img src="<?=get_img()?>cars_icon/dually-pickup.png" alt="Dually Pickup">Dually Pickup</div>
-                        <div data-value="MotorCycle"><img src="<?=get_img()?>cars_icon/motorcycle.png" alt="MotorCycle">MotorCycle</div>
-                        <div data-value="Other"><img src="<?=get_img()?>cars_icon/others.png" alt="other">Other</div>
+                        <div data-value="Medium Pickup"><img src="<?=get_img()?>cars_icon/medium-pickup.png" alt="medium-pickup" loading="lazy">Medium Pickup</div>
+                        <div data-value="Large Pickup"><img src="<?=get_img()?>cars_icon/large-pickup.png" alt="Large Pickup" loading="lazy">Large Pickup</div>
+                        <div data-value="FullSize Van"><img src="<?=get_img()?>cars_icon/fullsize-van.png" alt="FullSize Van" loading="lazy">FullSize Van</div>
+                        <div data-value="Travel Trailer"><img src="<?=get_img()?>cars_icon/travel-trailer.png" alt="Travel Trailer" loading="lazy">Travel Trailer</div>
+                        <div data-value="Boat Trailer"><img src="<?=get_img()?>cars_icon/boat-trailer.png" alt="Boat Trailer" loading="lazy">Boat Trailer</div>
+                        <div data-value="Golf Cart"><img src="<?=get_img()?>cars_icon/golf-cart.png" alt="Golf Cart" loading="lazy">Golf Cart</div>
+                        <div data-value="Dually Pickup"><img src="<?=get_img()?>cars_icon/dually-pickup.png" alt="Dually Pickup" loading="lazy">Dually Pickup</div>
+                        <div data-value="MotorCycle"><img src="<?=get_img()?>cars_icon/motorcycle.png" alt="MotorCycle" loading="lazy">MotorCycle</div>
+                        <div data-value="Other"><img src="<?=get_img()?>cars_icon/others.png" alt="other" loading="lazy">Other</div>
                     </div>
                 </div>
             </div>
@@ -206,7 +206,7 @@
 
     </div>
     <div class="customer-face-section" style="display:flex;justify-content:center;align-items:center;">
-                    <img src="<?= get_img() ?>customer-faces.png" style="height:40px;" loading="lazy" alt="Rapid Auto Shipping" />
+                    <img src="<?= get_img() ?>customer-faces.png" width="76px" height="40px" loading="lazy" alt="Rapid Auto Shipping" />
                     <p style="color:#808080; font-size:12px; text-align:center;">
                         <span style="color:#ff5722;font-weight:bold;"> 2035</span>
                         people shipped using<br>

@@ -1053,12 +1053,14 @@ include_once "../../init.php";
     </div>
 
     <!-- back to top button -->
+    <div class="b-top-button">
     <div class="b_top">
     <span class="material-symbols-outlined">
                     phone_in_talk
                 </span>
             <a href="tel:+1-833-233-4447">+1-833-233-4447</a>
         
+    </div>
     </div>
 
     <!----------------page bottom ------------------>

@@ -1,13 +1,15 @@
 <!-- Reviews Section start here -->
-<section class="reviews_section">
-    <div class="flex review_row">
-        <div class="google">
-            <div class="google_logo">
-                <img src="<?=get_img()?>reviews/google.png" alt="google">
+
+
+<section class="reviews_section" style="padding:2% 5% 0 5%; border-bottom:1px solid #ccc;">
+    <div class="flex review_row" style="align-items:start;">
+        <div class="google" style="justify-content:unset; margin-top:10px;">
+            <div class="google_logo" style="">
+                <img src="<?=get_img()?>satisfaction.webp" alt="custormer satisfaction" width="150px" height="61px">
             </div>
             <div class="rating">
                 <p><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i
-                        class='bx bxs-star'></i><i class='bx bxs-star'></i></p>
+                        class='bx bxs-star'></i><i class='bx bxs-star-half'></i></p>
             </div>
             <div class="text-center">
                 <p><b>Excellent</b></p>
@@ -27,8 +29,8 @@
                                 <span>5 Dec 2022</span>
                             </div>
                         </div>
-                        <div class="g-logo">
-                            <img src="<?=get_img()?>reviews/g.png" alt="google logo">
+                        <div class="" style="margin-top:10px;">
+                            <img src="<?=get_img();?>TransportReviewsLogo.webp" alt="transposrt review logo" style="width:80px;">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -45,6 +47,32 @@
                     <div class="flex" style="justify-content: space-between;">
                         <div class="user_info flex">
                             <div class="user_img">
+                                <img src="<?=get_img()?>reviews/lucas.jpg" alt="user">
+                            </div>
+                            <div class="user_name">
+                                <p>Kiley Eckert</p>
+                                <span>28 Feb 2022</span>
+                            </div>
+                        </div>
+                        <div class="g-logo">
+                            <img src="<?= get_img()?>reviews/g.webp" alt="google logo">
+                        </div>
+                    </div>
+                    <div class="review_stars">
+                        <p><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i
+                                class='bx bxs-star'></i></p>
+                    </div>
+                    <div class="review_content">
+                        <div class="reiview_content_box">
+                            <p>They are Excellent when it comes to look for one of the best Auto Shipping Companies in USA. Rapid Auto SHIPPING company offers the best Auto Shipping Quotes as i tried comparing with others as well.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="review-item item">
+                    <div class="flex" style="justify-content: space-between;">
+                        <div class="user_info flex">
+                            <div class="user_img">
                                 <img src="<?=get_img()?>reviews/james.jpg" alt="user">
                             </div>
                             <div class="user_name">
@@ -52,8 +80,8 @@
                                 <span>1 Jan 2022</span>
                             </div>
                         </div>
-                        <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.png" alt="google logo">
+                        <div class="" style="margin-top:10px;">
+                            <img src="<?=get_img()?>rapid-auto-shipping-crunchbase.webp" alt="crunchbase logo" style="width:70px;">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -70,6 +98,32 @@
                     <div class="flex" style="justify-content: space-between;">
                         <div class="user_info flex">
                             <div class="user_img">
+                                <img src="<?=get_img()?>reviews/noah.jpg" alt="user">
+                            </div>
+                            <div class="user_name">
+                                <p>Tim Cripps</p>
+                                <span>15 feb 2023</span>
+                            </div>
+                        </div>
+                        <div class="g-logo">
+                            <img src="<?= get_img()?>reviews/g.webp" alt="google logo">
+                        </div>
+                    </div>
+                    <div class="review_stars">
+                        <p><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i
+                                class='bx bxs-star'></i></p>
+                    </div>
+                    <div class="review_content">
+                        <div class="reiview_content_box">
+                            <p>I love the way they shipped my vehicle Volvo XC 60 . It was given back to me in the same way as i have handed it to over them.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="review-item item">
+                    <div class="flex" style="justify-content: space-between;">
+                        <div class="user_info flex">
+                            <div class="user_img">
                                 <img src="<?=get_img()?>reviews/emma.jpg" alt="user">
                             </div>
                             <div class="user_name">
@@ -77,8 +131,8 @@
                                 <span>5 Oct 2022</span>
                             </div>
                         </div>
-                        <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.png" alt="google logo">
+                        <div class="" style="margin-top:10px;">
+                            <img src="<?=get_img()?>Trustpilot-logo.webp" alt="trustpilot" style="width:80px">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -102,8 +156,8 @@
                                 <span>19 Jan 2022</span>
                             </div>
                         </div>
-                        <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.png" alt="google logo">
+                        <div class="" style="margin-top:10px;">
+                            <img src="<?=get_img()?>TransportReviewsLogo.webp" alt="transport review" style="width:80px;">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -117,56 +171,8 @@
                     </div>
                 </div>
 
-                <div class="review-item item">
-                    <div class="flex" style="justify-content: space-between;">
-                        <div class="user_info flex">
-                            <div class="user_img">
-                                <img src="<?=get_img()?>reviews/lucas.jpg" alt="user">
-                            </div>
-                            <div class="user_name">
-                                <p>Kiley Eckert</p>
-                                <span>28 Feb 2022</span>
-                            </div>
-                        </div>
-                        <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.png" alt="google logo">
-                        </div>
-                    </div>
-                    <div class="review_stars">
-                        <p><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i
-                                class='bx bxs-star'></i></p>
-                    </div>
-                    <div class="review_content">
-                        <div class="reiview_content_box">
-                            <p>They are Excellent when it comes to look for one of the best Auto Shipping Companies in USA. Rapid Auto SHIPPING company offers the best Auto Shipping Quotes as i tried comparing with others as well.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="review-item item">
-                    <div class="flex" style="justify-content: space-between;">
-                        <div class="user_info flex">
-                            <div class="user_img">
-                                <img src="<?=get_img()?>reviews/noah.jpg" alt="user">
-                            </div>
-                            <div class="user_name">
-                                <p>Tim Cripps</p>
-                                <span>15 feb 2023</span>
-                            </div>
-                        </div>
-                        <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.png" alt="google logo">
-                        </div>
-                    </div>
-                    <div class="review_stars">
-                        <p><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i
-                                class='bx bxs-star'></i></p>
-                    </div>
-                    <div class="review_content">
-                        <div class="reiview_content_box">
-                            <p>I love the way they shipped my vehicle Volvo XC 60 . It was given back to me in the same way as i have handed it to over them.</p>
-                        </div>
-                    </div>
-                </div>
+                
+                
                 <div class="review-item item">
                     <div class="flex" style="justify-content: space-between;">
                         <div class="user_info flex">
@@ -178,8 +184,8 @@
                                 <span>4 March 2022</span>
                             </div>
                         </div>
-                        <div class="g-logo">
-                            <img src="<?=get_img()?>reviews/g.png" alt="google logo">
+                        <div class="" style="margin-top:10px;">
+                            <img src="<?=get_img()?>rapid-auto-shipping-crunchbase.webp" alt="crunchbase logo" style="width:70px;">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -204,8 +210,8 @@
                                 <span>10 Nov 2022</span>
                             </div>
                         </div>
-                        <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.png" alt="google logo">
+                        <div class="" style="margin-top:10px;">
+                            <img src="<?= get_img();?>Trustpilot-logo.webp" alt="trustpilot" style="width:80px">
                         </div>
                     </div>
                     <div class="review_stars">

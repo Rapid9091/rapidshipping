@@ -13,6 +13,63 @@
     margin: 2% 0;
     line-height: 1.8;
 }
+
+.main_content_div p {
+    font-size: 18px;
+    word-spacing: 1.5px;
+    letter-spacing: 0.5px;
+    margin: 2% 0;
+    line-height: 1.8;
+}
+
+.main_content_div h4,
+.main_content_div h3,
+.main_content_div h5,
+.main_content_div h6,
+.main_content_div h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.main_content_div img {
+    /* margin-left:10px; */
+    width: 100%;
+}
+
+.main_content_div ul li {
+    list-style: disc;
+    font-size: 18px;
+    word-spacing: 1.5px;
+    letter-spacing: 0.5px;
+    margin: 2%;
+    line-height: 1.8;
+}
+.main_content_div ol li{
+    list-style: auto;
+    font-size: 18px;
+    word-spacing: 1.5px;
+    letter-spacing: 0.5px;
+    margin: 2%;
+    line-height: 1.8;
+}
+
+#call_under_content {
+    padding: 10px 10px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+    outline: none;
+    font-weight: 500;
+    color: var(--nav-color);
+    background-color: transparent;
+    transition: 0.4s;
+    border: 2px solid #ff5227;
+    border-radius: 25px;
+    width: 80%;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
 /* all state name grid section */
 .all-state-name-grids-section {
     display: grid;
@@ -40,7 +97,9 @@
     border: 1px solid var(--nav-color);
     box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.15) !important;
 }
-
+.b-top-button{
+    display: none;
+}
 .b_top{
     position: fixed;
     bottom: 25px;
@@ -59,12 +118,12 @@
     align-items: center;
     justify-content: center;
 }
-.banner-review-images img{
-    margin: 17px 17px 0 0;
-}
 
 .b_top a{
     color: #ff5722;
+}
+.banner-review-images img{
+    margin: 17px 17px 0 0;
 }
 
 
@@ -96,8 +155,8 @@
 }
 
 @media screen and (max-width: 600px) {
-    .key-holding {
-        background-image: url("<?=get_img();?>car-key-new1.jpeg");
+    .b-top-button{
+        display: block;
     }
 
     .utility_grid-4 {
@@ -119,10 +178,9 @@
     .rapid-advantages-grid-1 {
         height: 230px;
     }
-    .banner-review-images img{
-        width: 100px;
-    }
+    
     .banner-review-images{
         text-align: center;
+        margin-bottom: 10px;
     }
 }

@@ -13,7 +13,7 @@
              +1 (833) 233-4447
          </a>
          <a href="#banner_form" class="qoute_anchor_btn">
-             Get a Qoute
+             Get a Quote
          </a>
          </div>
      </div>

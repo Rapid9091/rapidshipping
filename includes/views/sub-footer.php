@@ -1,9 +1,6 @@
 <section class="footer-map-section">
     <div class="footer-map-grid">
-        <!-- <div class="footer-map-grid-1">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3404903.6195839215!2d-104.04787384413115!3d33.55074711107423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87004d8702dc4ac7%3A0x9f3bfd5545d14ae8!2sRAPID%20AUTO%20SHIPPING!5e0!3m2!1sen!2sus!4v1642075843595!5m2!1sen!2sus" width="80%" height="80%" style="border:0;" allowfullscreen="" loading="lazy" title="map">
-            </iframe>
-        </div> -->
+        
         <div class="footer-map-grid-2">
             <div class="comapny-info">
                 <div class="under-map-design">
@@ -94,22 +91,7 @@
 
             </ul>
         </div>
-        <!-- <div class="footer-urls-grid-1">
-        <p class="footer-grid-headings">Blogs</p>
-            <ul>
-                <li><a href="<?= home_path(); ?>blogs">Blogs</a></li>
-                <li><a href="<?= home_path(); ?>blogs/autoshipping-companies-in-arkansas-2022">Top companies Arkansas</a></li>
-                <li><a href="<?= home_path(); ?>blogs/cheapest-way-to-ship-a-car">Cheapest Way to ship a car</a></li>
-                <li><a href="<?= home_path(); ?>blogs/state-to-state-transport">State to state transport</a></li>
-                <li><a href="<?= home_path(); ?>blogs/terminal-to-terminal-auto-transport">Terminal to terminal auto transport</a></li>
-                <li><a href="<?= home_path(); ?>blogs/cost-from-texas-to-california">How much does it cost to ship a car from Texas to California</a></li>
-                <li><a href="<?= home_path(); ?>blogs/ship-from-new-york-to-florida">How much does it cost to ship a car from Florida to New York</a></li>
-                <li><a href="<?= home_path(); ?>blogs/cost-to-ship-a-car">Cost to ship a car </a></li>
-                <li><a href="<?= home_path(); ?>blogs/enclosed-auto-transport-chicago">Enclosed Auto transport Chicago</a></li>
-
-            </ul>
-        </div> -->
-
+        
         <div class="footer-urls-grid-1">
             <p class="footer-grid-headings">State to state</p>
             <ul> 
@@ -154,67 +136,14 @@
                 <li><a href="<?= home_path(); ?>blogs/cost-from-california-to-texas">Ship Car From California To Texas</a></li>
                 <li><a href="<?= home_path(); ?>blogs/bus-transportation-services">Benefits Of Using Bus Transport Services</a></li>
                 <li><a href="<?= home_path(); ?>blogs/fifth-wheel-transport-services">Fifth Wheel Transport Services</a></li>
-                <!-- <li><a href="<?= home_path(); ?>blogs/how-can-i-move-a-motorcycle">How To Move My Motorcycle</a></li> -->
-                <!-- <li><a href="<?= home_path(); ?>blogs/international-car-shipping-tips">Tips For International Car Shipping</a></li> -->
+               
 
             </ul>
         </div>
 
 
 
-        <!-- <div class="footer-urls-grid-1">
-            <p class="footer-grid-headings">Services we offer</p>
-            <ul>
-                <li><a href="<?= home_path(); ?>services/rail-shipping">rail shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/enclosed-shipping">enclosed shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/door-to-door">door to door</a></li>
-                <li><a href="<?= home_path(); ?>services/motor-cycle-shipping">motor cycle shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/snow-bird-shipping">snow bird shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/boat-shipping">boat shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/military-shipping">military shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/classic-car-shipping">classic car shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/heavy-equipment-shipping">heavy equipment shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/lowboy-shipping">lowboy shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/car-shipping-companies">car shipping companies</a></li>
-
-            </ul>
-        </div> -->
-
-        <!-- <div class="footer-urls-grid-1">
-        <p class="footer-grid-headings">Important Links</p>
-            <ul>
-                <li><a href="<?= home_path(); ?>services/multi-car-shipping">multi car shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/heavy-hauling-truck">heavy hauling truck</a></li>
-                <li><a href="<?= home_path(); ?>services/fifth-wheel-transport">fifth wheel transport</a></li>
-                <li><a href="<?= home_path(); ?>services/car-shipping-services">car shipping services</a></li>
-                <li><a href="<?= home_path(); ?>services/rv-transport">rv transport</a></li>
-                <li><a href="<?= home_path(); ?>services/heavy-hauling-large-cargo">heavy hauling large cargo</a></li>
-                <li><a href="<?= home_path(); ?>services/car-transport-dealership">car transport dealership</a></li>
-                <li><a href="<?= home_path(); ?>services/tractor-transport">tractor transport</a></li>
-                <li><a href="<?= home_path(); ?>services/food-truck-shipping">food truck shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/construction-equipment">construction equipment</a></li>
-                <li><a href="<?= home_path(); ?>services/car-transport-in-continental-us">car transport in continental us</a></li>
-                <li><a href="<?= home_path(); ?>services/car-transport-quotes">car transport quotes</a></li>
-            </ul>
-        </div> -->
-        <!-- <div class="footer-urls-grid-1">
-            <p class="footer-grid-headings">Quick Links</p>
-            <ul>
-                <li><a href="<?= home_path(); ?>services/hauling-oversize-load">hauling oversize load</a></li>
-                <li><a href="<?= home_path(); ?>services/line-haul-transport">line haul transport</a></li>
-                <li><a href="<?= home_path(); ?>services/cost-to-ship-a-bus">cost to ship a bus</a></li>
-                <li><a href="<?= home_path(); ?>services/open-car-shipping">open car shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/auto-auction-shipping">auto auction shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/cutomized-container-shipping">customized container shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/state-to-state-car-shipping">state to state car shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/car-transport">car transport</a></li>
-                <li><a href="<?= home_path(); ?>services/farm-equipment">farm equipment</a></li>
-                <li><a href="<?= home_path(); ?>services/cargo-vans-services">cargo vans services</a></li>
-
-                <li><a href="<?= home_path(); ?>services/caterpillar-equipment-shipping">caterpillar equipment shipping</a></li>
-                <li><a href="<?= home_path(); ?>services/containerized-freight-hauling">containerized freight hauling</a></li>
-            </ul>
-        </div> -->
+        
 
 
 
@@ -298,5 +227,5 @@
 
 <!-- ionic icons link -->
 
-<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+<script async="true" type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script async="true" nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
