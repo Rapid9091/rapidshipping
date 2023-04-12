@@ -45,8 +45,8 @@ if (isset($_GET['page_id'])) {
     <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css" defer>
     <!-- <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'> -->
 
-    <link rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" defer />
+    <!-- <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" defer /> -->
     <!-- owl courosel -->
     <!-- ------------------------------ -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
@@ -63,9 +63,7 @@ if (isset($_GET['page_id'])) {
     <link rel="preconnect" href="https://fonts.gstatic.com"  defer crossorigin  />    -->
 
     <style>
-        *{
-            font-display: swap;
-        }
+        
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
@@ -112,9 +110,9 @@ if (isset($_GET['page_id'])) {
                 </p>
 
                 <div class="banner-review-images">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo" loading="lazy" width="150px" height="71px">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy" width="150px" height="60px">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy" width="150px" height="48px">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo" loading="lazy" width="150px" height="71px" class="truspilot_logo">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy" width="150px" height="60px" class="google_logo">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy" width="150px" height="48px" class="crunchbase_logo">
                     </div>
 
 

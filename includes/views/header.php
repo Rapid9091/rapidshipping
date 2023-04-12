@@ -10,7 +10,7 @@
         <!-- onclick="window.location.href='<?php echo home_path() ?>' -->
         <!-- here logo of header-nav  -->
         <div class="header-logo">
-            <a href="<?= home_path() ?>"><img loading="lazy" src=" <?= get_img() ?>Untitled-1-Recovered.png" alt="Rapid Auto Shipping - Logo" /></a>
+            <a href="<?= home_path() ?>"><img loading="lazy" src=" <?= get_img() ?>Untitled-1-Recovered.png" alt="Rapid Auto Shipping - Logo" loading="lazy" /></a>
         </div>
         <!-- -home-service-etc -->
         <div class="header-menu" id="header-menu">
