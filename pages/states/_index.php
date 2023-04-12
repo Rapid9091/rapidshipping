@@ -104,9 +104,9 @@ if (isset($_GET['page_id'])) {
                 </p>
 
                 <div class="banner-review-images">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo" loading="lazy" width="150px">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy" width="150px">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy" width="150px">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo" loading="lazy" width="150px" height="71px">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy" width="150px" height="60px">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy" width="150px" height="48px">
                     </div>
 
 
@@ -249,24 +249,24 @@ if (isset($_GET['page_id'])) {
             <h2 class="heading-1">Advantages using <span>Rapid Auto Shipping</span></h2>
             <div class="rapid-advantages-grid utility_grid utility_grid-4">
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/rating.webp" alt="best car shipping in USA" loading="lazy">
+                    <img src="<?= get_img() ?>icons/rating.webp" alt="best car shipping in USA" loading="lazy" width="80px" height="80px">
                     <h3>Top Rated Auto Shipping Company</h3>
                     <p>We have thousands of 5-star reviews for exceptional vehicle shipping services.</p>
                 </div>
 
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/auto-insurance-icon.webp" alt="best car shipping in USA" loading="lazy">
+                    <img src="<?= get_img() ?>icons/auto-insurance-icon.webp" alt="best car shipping in USA" loading="lazy" width="80px" height="80px">
                     <h3>Complete Vehicle Coverage</h3>
                     <p>We offer the most comprehensive coverage options for complete peace of mind.</p>
                 </div>
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/savings-icon.webp" alt="best car shipping in USA" loading="lazy">
+                    <img src="<?= get_img() ?>icons/savings-icon.webp" alt="best car shipping in USA" loading="lazy" width="80px" height="80px">
                     <h3>No Up-Front Deposit Required</h3>
                     <p>You don't pay a penny until the day your shipment is scheduled for pickup.</p>
                 </div>
 
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/online-tracking.webp" alt="Albama to alaska shipping" loading="lazy">
+                    <img src="<?= get_img() ?>icons/online-tracking.webp" alt="Albama to alaska shipping" loading="lazy" width="80px" height="80px">
                     <h3>24/7 Online Shipment Tracking</h3>
                     <p>You can track the status of your shipment online anytime at your convenience.</p>
                 </div>
