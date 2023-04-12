@@ -5,7 +5,7 @@
     <div class="flex review_row" style="align-items:start;">
         <div class="google" style="justify-content:unset; margin-top:10px;">
             <div class="google_logo" style="">
-                <img src="<?=get_img()?>satisfaction.webp" alt="custormer satisfaction">
+                <img src="<?=get_img()?>satisfaction.webp" alt="custormer satisfaction" width="150px" height="61px">
             </div>
             <div class="rating">
                 <p><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i
