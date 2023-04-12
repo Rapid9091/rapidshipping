@@ -489,6 +489,9 @@ if (isset($_GET['page_id'])) {
         })
 
     </script>
+    <script>
+        $('button.owl-dot').attr('aria-label', 'owl-dot');
+    </script>
     <script async="true" src="<?=get_js()?>/faq.js"></script>
 </body>
 
