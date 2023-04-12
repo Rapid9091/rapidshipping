@@ -88,19 +88,14 @@
     <!-- parent grid section start-->
     <div class="main-state-to-state">
         <div class="left-state-to-state">
-            <div class="first-section-state-to-state">
-                <h2 class="heading-1">How Much Time Does Corvette Car Transportation Takes</h2>
+            <div class="shipping-form-state-content">
+                <h2 class="heading-1">About The Car Transport Services Offered To Luxury Vehicle Owners</h2>
                 <p class="para-2">
-                    Typically, it takes 3-6 days from state to state. The arrival time for a coast to coast shipment can range from 7 to 10 days. Check out our article on how long it takes for a detailed summary.
+                    Care and consideration must be used when providing luxury car transport services. With years of expertise in automobile logistics, we are well-versed in everything you want when setting up a premium "<a href="https://rapidautoshipping.com/services" target="_blank">vehicle shipping service.</a>"
+                    <br><br>
+                    Rapid Auto Shipping only works with shippers who have been thoroughly screened and approved to ensure that your car will arrive in immaculate condition. You can request a solution from our specialists, and we will create it just for you.
                 </p>
-                <p class="para-2">
-                    Expect the carrier to cover anywhere between 300 and 500 kilometers per day as a general guideline. Weather and traffic conditions will have an impact on how long it takes. The other recipients of the cars' accessibility are also important.
-                </p>
-                <p class="para-2">
-                    The more expensive <a href="https://rapidautoshipping.com/services/enclosed-shipping" target="_blank">enclosed car shipping</a> choice has another benefit. Whether you're searching for antique shipping, Corvette classic vehicle transport, or any other kind of car transport service, some of these carriers hold fewer automobiles and may thus arrive more quickly because there are fewer drop-offs.
-                </p>
-                
-                
+
             </div>
 
 
@@ -109,11 +104,11 @@
                     What's in this article?
                 </h2>
                 <ul class="points-div-ul">
-                    <li><a href="#1">About The Car Transport Services Offered To Luxury Vehicle Owners</a></li>
-                    <li><a href="#2">Our Open Car Transport Service For Corvette</a></li>
-                    <li><a href="#3">Our Enclosed Car Transport Service For Corvette</a></li>
-                    <li><a href="#4">Why Using A Corvette Car Transport Service Is Beneficial</a></li>
-                    <li><a href="#5">Corvette Car Transport Service Methods</a></li>
+                    <li><a href="#1">Our Open Car Transport Service For Corvette</a></li>
+                    <li><a href="#2">Our Enclosed Car Transport Service For Corvette</a></li>
+                    <li><a href="#3">Why Using A Corvette Car Transport Service Is Beneficial</a></li>
+                    <li><a href="#4">Corvette Car Transport Service Methods</a></li>
+                    <li><a href="#5">How Much Time Does Corvette Car Transportation Takes</a></li>
                     <li><a href="#6">Corvette Car Transport Services Quotes</a></li>
                 </ul>
             </div>
@@ -123,13 +118,11 @@
                 <ul>
                     <li id="1">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">About The Car Transport Services Offered To Luxury Vehicle Owners</h2>
-                            <p class="para-2">
-                                Care and consideration must be used when providing luxury car transport services. With years of expertise in automobile logistics, we are well-versed in everything you want when setting up a premium "<a href="https://rapidautoshipping.com/services" target="_blank">vehicle shipping service.</a>"
+                            <h2 class="heading-1">Our Open Car Transport Service For Corvette</h2>
+                            <p class="para-2">The most common and most cheap way to transport cars is via <a href="https://rapidautoshipping.com/services/open-car-shipping" target="_blank">open auto shipping.</a> The lack of a canopy and sidewall on these carriers means that your machine will be exposed to the weather the entire way. However, don't let the possibility of your four-wheeler being exposed to rain, sun, snow, or dust deter you.
                                 <br><br>
-                                Rapid Auto Shipping only works with shippers who have been thoroughly screened and approved to ensure that your car will arrive in immaculate condition. You can request a solution from our specialists, and we will create it just for you.
+                                A firm that provides great cargo care is Rapid Auto Shipping. Our skilled and knowledgeable drivers will make sure that the delivery gets to its destination safely and on schedule.
                             </p>
-
                         </div>
                         <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>corvette-1.webp"
@@ -139,20 +132,6 @@
 
                     </li>
                     <li id="2">
-                        <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Our Open Car Transport Service For Corvette</h2>
-                            <p class="para-2">The most common and most cheap way to transport cars is via <a href="https://rapidautoshipping.com/services/open-car-shipping" target="_blank">open auto shipping.</a> The lack of a canopy and sidewall on these carriers means that your machine will be exposed to the weather the entire way. However, don't let the possibility of your four-wheeler being exposed to rain, sun, snow, or dust deter you.
-                                <br><br>
-                                A firm that provides great cargo care is Rapid Auto Shipping. Our skilled and knowledgeable drivers will make sure that the delivery gets to its destination safely and on schedule.
-                            </p>
-                        </div>
-                    </li>
-                    <div class="shipping-form-state-image">
-                            <img loading="lazy" src="<?=get_img();?>corvette-2.webp"
-                                alt="car transport service" />
-
-                        </div>
-                    <li id="3">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Our Enclosed Car Transport Service For Corvette</h2>
                             <p class="para-2">A method of shipping a vehicle that offers additional protection is enclosed auto transport, also known as enclosed vehicle transport services or enclosed carrier auto transport.
@@ -164,8 +143,12 @@
                             </p>
                         </div>
                     </li>
+                    <div class="shipping-form-state-image">
+                            <img loading="lazy" src="<?=get_img();?>corvette-2.webp"
+                                alt="car transport service" />
 
-                    <li id="4">
+                        </div>
+                    <li id="3">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Why Using A Corvette Car Transport Service Is Beneficial</h2>
                             <p class="para-2">There are several factors to consider before shipping your automobile, which may be very stressful. But working with a reliable auto shipping company might ease some of that pressure. They can assist you by:
@@ -175,17 +158,10 @@
                                 <b>3.</b>You can deliver the vehicles you sell.<br>
                                 <b>4.</b>Your kid's automobile can be transported to college.<br>
                             </p>
-                        
-                                
-                            </p>
                         </div>
-
-                        <div class="shipping-form-state-image">
-                                <img loading="lazy" src="<?=get_img();?>corvette-3.webp"
-                                    alt="car shipping" />
-                            </div>
                     </li>
-                    <li id="5">
+
+                    <li id="4">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Corvette Car Transport Service Methods</h2>
                             <p class="para-2">There are various ways to transport your car when it comes to car shipping. Auto transport carriers are a whole other topic from what we're discussing here. In the next part, we go into greater detail on the modes of transportation utilized for <a href="https://rapidautoshipping.com/cars" target="_blank">transporting cars.</a>
@@ -197,6 +173,27 @@
 
                         </div>
 
+                        <div class="shipping-form-state-image">
+                                <img loading="lazy" src="<?=get_img();?>corvette-3.webp"
+                                    alt="car shipping" />
+                            </div>
+                    </li>
+                    <li id="5">
+                        
+                        <div class="first-section-state-to-state">
+                            <h2 class="heading-1">How Much Time Does Corvette Car Transportation Takes</h2>
+                            <p class="para-2">
+                                Typically, it takes 3-6 days from state to state. The arrival time for a coast to coast shipment can range from 7 to 10 days. Check out our article on how long it takes for a detailed summary.
+                            </p>
+                            <p class="para-2">
+                                Expect the carrier to cover anywhere between 300 and 500 kilometers per day as a general guideline. Weather and traffic conditions will have an impact on how long it takes. The other recipients of the cars' accessibility are also important.
+                            </p>
+                            <p class="para-2">
+                                The more expensive <a href="https://rapidautoshipping.com/services/enclosed-shipping" target="_blank">enclosed car shipping</a> choice has another benefit. Whether you're searching for antique shipping, Corvette classic vehicle transport, or any other kind of car transport service, some of these carriers hold fewer automobiles and may thus arrive more quickly because there are fewer drop-offs.
+                            </p>
+                            
+                            
+                        </div>
                     </li>
                         <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>corvette-4.webp"
