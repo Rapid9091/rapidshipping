@@ -1,18 +1,16 @@
 <!-- cdn js links -->
 <script async="true" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer"></script>
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script  async="true" src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
+<!-- <script src="https://unpkg.com/aos@next/dist/aos.js"></script> -->
+<script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
 
 
 <!-- project level js links -->
 <script async="true" src="<?= get_js("function.js"); ?>"></script>
 <script async="true" src="<?= get_assets(); ?>/js/header.js"></script>
 
-<script async="true" src="<?= get_js("VIEW_small-form.js"); ?>"></script>
-<script async="true" src="<?= get_js("VIEW_side-form.js"); ?>"></script>
-<script async="true" src="<?= get_js("review-home.js"); ?>"></script>
-
-
+<script async="true" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&sensor=false&libraries=places"></script>
+<script async="true" src="<?= get_js("small_form_new.js") ?>"></script>
+   <script async="true" src="<?= get_js("side_form_new.js") ?>"></script>
 
 
 
