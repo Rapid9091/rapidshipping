@@ -120,7 +120,7 @@
                     <li><a href="#3">How Much Does Ferrari Car Transport Service Cost?</a></li>
                     <li><a href="#4">How Payments For Ferrari Car Shipping Operate</a></li>
                     <li><a href="#5">International Ferrari Car Transport Services</a></li>
-                    <li><a href="#6">What should I Do To Get My Car Ready For Transport?</a></li>
+                    <li><a href="#6">What Should I Do To Get My Car Ready For Transport?</a></li>
                     <li><a href="#7">Vehicle Transport Services Quotes</a></li>
                 </ul>
             </div>
@@ -204,7 +204,7 @@
                         <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676278088/Recent%20Uploads/ambulance-service_cwc5jf.jpg" alt=" Most Appropriate Shipping Ambulance Services" /> -->
                     <li id="6">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">What should I Do To Get My Car Ready For Transport?</h2>
+                            <h2 class="heading-1">What Should I Do To Get My Car Ready For Transport?</h2>
                             <p class="para-2">Here are some tips on how to get your vintage automobile ready for enclosed auto shipment with us while we take care of the majority of the work for you:
                                 <br><br>
                                 <b>Examine your vehicle:</b> Check your car's inside and exterior for any existing damage. Take note of any dings, scratches, or flaws. It will be simpler to establish whether your historic automobile was damaged during shipping if you are aware of its precise condition.
