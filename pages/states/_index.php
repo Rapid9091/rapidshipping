@@ -104,9 +104,9 @@ if (isset($_GET['page_id'])) {
                 </p>
 
                 <div class="banner-review-images">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt="">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo" loading="lazy">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy">
                     </div>
 
 
@@ -126,7 +126,7 @@ if (isset($_GET['page_id'])) {
         <div class="main flex">
             <div class="first flex">
                 <div class="first-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/dollar-symbol.webp" alt="">
+                    <img src="<?=get_img()?>state-to-state/dollar-symbol.webp" alt=" dollar" loading="lazy">
                 </div>
                 <div class="first-2">
                     <div class="heading">
@@ -140,7 +140,7 @@ if (isset($_GET['page_id'])) {
             </div>
             <div class="second flex">
                 <div class=" second-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/calendar.png" alt="">
+                    <img src="<?=get_img()?>state-to-state/calendar.png" alt="calendar" loading="lazy">
                 </div>
                 <div class="second-2">
                     <div class="heading">
@@ -154,7 +154,7 @@ if (isset($_GET['page_id'])) {
             </div>
             <div class="third flex">
                 <div class="third-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/distance.webp" alt="">
+                    <img src="<?=get_img()?>state-to-state/distance.webp" alt="distance" loading="lazy">
                 </div>
                 <div class="third-2">
                     <div class="heading">
@@ -169,7 +169,7 @@ if (isset($_GET['page_id'])) {
             </div>
             <div class="forth flex">
                 <div class="fourt-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/shield.webp" alt="">
+                    <img src="<?=get_img()?>state-to-state/shield.webp" alt="sheild" loading="lazy">
                 </div>
                 <div class="forth-2">
                     <div class="heading">
@@ -249,24 +249,24 @@ if (isset($_GET['page_id'])) {
             <h2 class="heading-1">Advantages using <span>Rapid Auto Shipping</span></h2>
             <div class="rapid-advantages-grid utility_grid utility_grid-4">
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/rating.webp" alt="best car shipping in USA">
+                    <img src="<?= get_img() ?>icons/rating.webp" alt="best car shipping in USA" loading="lazy">
                     <h3>Top Rated Auto Shipping Company</h3>
                     <p>We have thousands of 5-star reviews for exceptional vehicle shipping services.</p>
                 </div>
 
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/auto-insurance-icon.webp" alt="best car shipping in USA">
+                    <img src="<?= get_img() ?>icons/auto-insurance-icon.webp" alt="best car shipping in USA" loading="lazy">
                     <h3>Complete Vehicle Coverage</h3>
                     <p>We offer the most comprehensive coverage options for complete peace of mind.</p>
                 </div>
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/savings-icon.webp" alt="best car shipping in USA">
+                    <img src="<?= get_img() ?>icons/savings-icon.webp" alt="best car shipping in USA" loading="lazy">
                     <h3>No Up-Front Deposit Required</h3>
                     <p>You don't pay a penny until the day your shipment is scheduled for pickup.</p>
                 </div>
 
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/online-tracking.webp" alt="Albama to alaska shipping">
+                    <img src="<?= get_img() ?>icons/online-tracking.webp" alt="Albama to alaska shipping" loading="lazy">
                     <h3>24/7 Online Shipment Tracking</h3>
                     <p>You can track the status of your shipment online anytime at your convenience.</p>
                 </div>
@@ -450,7 +450,7 @@ if (isset($_GET['page_id'])) {
 
     
 
-    <script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
+    <script async="true" src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
     <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&sensor=false&libraries=places"></script> -->
 
 
@@ -482,7 +482,7 @@ if (isset($_GET['page_id'])) {
         })
 
     </script>
-    <script src="<?=get_js()?>/faq.js"></script>
+    <script async="true" src="<?=get_js()?>/faq.js"></script>
 </body>
 
 </html>

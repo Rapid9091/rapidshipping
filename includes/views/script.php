@@ -1,27 +1,27 @@
 <!-- cdn js links -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer"></script>
+<script async="true" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer"></script>
 <!-- <script src="https://unpkg.com/aos@next/dist/aos.js"></script> -->
-<script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
+<script  async="true" src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
 
 
 <!-- project level js links -->
-<script src="<?= get_js("function.js"); ?>"></script>
-<script src="<?= get_assets(); ?>/js/header.js"></script>
+<script async="true" src="<?= get_js("function.js"); ?>"></script>
+<script async="true" src="<?= get_assets(); ?>/js/header.js"></script>
 
-<script src="<?= get_js("VIEW_small-form.js"); ?>"></script>
-<script src="<?= get_js("VIEW_side-form.js"); ?>"></script>
-<script src="<?= get_js("review-home.js"); ?>"></script>
+<script async="true" src="<?= get_js("VIEW_small-form.js"); ?>"></script>
+<script async="true" src="<?= get_js("VIEW_side-form.js"); ?>"></script>
+<script async="true" src="<?= get_js("review-home.js"); ?>"></script>
 
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&sensor=false&libraries=places"></script>
-<script src="<?= get_js("small_form_new.js") ?>"></script>
-   <script src="<?= get_js("side_form_new.js") ?>"></script>
+<script async="true" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&sensor=false&libraries=places"></script>
+<script async="true" src="<?= get_js("small_form_new.js") ?>"></script>
+   <script async="true" src="<?= get_js("side_form_new.js") ?>"></script>
 
 
 
 
 <!-- project js init -->
-<script>
+<script async="true">
     //Customize your Notification  
     const config = {
         timeout: 5000,
@@ -51,7 +51,7 @@
 
 
 <!--Start of Tawk.to Script-->
-<script type="text/javascript">
+<script async="true" type="text/javascript">
     var Tawk_API = Tawk_API || {},
         Tawk_LoadStart = new Date();
     (function() {
@@ -116,7 +116,7 @@
 
 <!-- google team manger link here -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-230557003-1"></script>
+<script async="true" src="https://www.googletagmanager.com/gtag/js?id=UA-230557003-1"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
 
