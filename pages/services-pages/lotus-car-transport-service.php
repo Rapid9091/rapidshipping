@@ -147,7 +147,7 @@
 
                             </p>
                             <p class="para-2">
-                                <b>Our Open Car Transport Service For Lotus::</b> The automobile is moved using this car transport
+                                <b>Our Open Car Transport Service For Lotus:</b> The automobile is moved using this car transport
                                 service technique on an open air carrier. An open carrier is typically multi-level and
                                 capable of transporting nine cars at once. The carrier's design prevents it from
                                 protecting the car from the elements that one might usually face while driving.
