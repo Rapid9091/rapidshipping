@@ -88,7 +88,7 @@
     <!-- parent grid section start-->
     <div class="main-state-to-state">
         <div class="left-state-to-state">
-            <div class="shipping-form-state-content">
+            <div class="first-section-state-to-state">
                 <h2 class="heading-1">About The Car Transport Services Offered To Luxury Vehicle Owners</h2>
                 <p class="para-2">
                     Care and consideration must be used when providing luxury car transport services. With years of expertise in automobile logistics, we are well-versed in everything you want when setting up a premium "<a href="https://rapidautoshipping.com/services" target="_blank">vehicle shipping service.</a>"
@@ -180,7 +180,7 @@
                     </li>
                     <li id="5">
                         
-                        <div class="first-section-state-to-state">
+                        <div class="shipping-form-state-content">
                             <h2 class="heading-1">How Much Time Does Corvette Car Transportation Takes</h2>
                             <p class="para-2">
                                 Typically, it takes 3-6 days from state to state. The arrival time for a coast to coast shipment can range from 7 to 10 days. Check out our article on how long it takes for a detailed summary.
