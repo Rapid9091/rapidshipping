@@ -114,7 +114,7 @@
 
 <!-- google team manger link here -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<!-- <script async="true" src="https://www.googletagmanager.com/gtag/js?id=UA-230557003-1"></script>
+<!-- <script async="true" src="https://www.googletagmanager.com/gtag/js?id=UA-230557003-1"></script> -->
 <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -124,4 +124,4 @@
     gtag('js', new Date());
 
     gtag('config', 'UA-230557003-1');
-</script> -->
+</script>
