@@ -450,7 +450,9 @@ if (isset($_GET['page_id'])) {
     </div>
 
     <!----------------page bottom ------------------>
-    <?php include_once page_bottom ?>
+    <?php include_once new_footer; ?>
+    <?php include_once new_script; ?>
+
 
 
     
