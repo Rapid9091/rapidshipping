@@ -84,23 +84,23 @@
             <div class="one-mexico-blog-grid-1">
 
                 <p class="text">
-                    <a href="https://www.gob.mx/presidencia/"> <span>Mexico</span></a>, America's southern neighbor,
+                     "<a href="https://en.wikipedia.org/wiki/Mexico" target="_blank"> <span>Mexico</span> </a>" America's southern neighbor,
                     is also one of the country's most significant trading
                     and economic partners.
-                    Mexico is a recently industrialized country
+                    "<a href="https://www.state.gov/countries-areas/mexico/" target="_blank"><span>Mexico</span> </a>" is a recently industrialized country
                     with a developing economy.
                     It is the world's most populous Spanish-speaking
                     country and the ninth most populous country
                     overall, with a population of around 114 million people.
                     Mexico's economy has grown quickly in recent years,
                     and it now ranks among the world's major economies.
-                    The <a href="https://en.wikipedia.org/wiki/Mexico%E2%80%93United_States_border"> <span> border between Mexico and the United States is
-                            one of the world's longest and busiest </span></a>.
-                    Every day, <a href="https://en.wikipedia.org/wiki/Mexico%E2%80%93United_States_border"><span>about one million legal travelers and $1 billion
-                            worth of commodities pass through the border </span></a>.
+                    The border between Mexico and the United States is
+                            one of the world's longest and busiest .
+                    Every day, about one million legal travelers and $1 billion
+                            worth of commodities pass through the border .
                     While border states have reaped the benefits of this
                     commerce, other states, such as Illinois, Michigan,
-                    Kansas, and North Dakota, have robust trading relations
+                     "<a href="https://rapidautoshipping.com/states/kansas" target="_blank"><span>Kansas</span> </a>" and North Dakota, have robust trading relations
                     with Mexico.
 
                     <br><br>
@@ -223,13 +223,13 @@
             <div class="why-choose-us-grid-box">
                 <h4 class="sub-heading">We are Country wide</h4>
                 <p class="text">
-                    We build partnerships that are open and honest.With our employees, customers, drivers, and other business partners, we strive for relationships built on honesty, perseverance, mutual trust, and integrity.Our words, behaviours, decisions, and actions all come together to form a unified whole. We don't make promises we won't be able to keep.It's crucial to keep track of commitments at <a href="<?= home_path() ?>" style="color:var(--nav-color);">Rapid Auto Shipping</a>. It all comes down to the fundamentals of business. If you say you'll do something, follow through.
+                    We build partnerships that are open and honest.With our employees, customers, drivers, and other business partners, we strive for relationships built on honesty, perseverance, mutual trust, and integrity.Our words, behaviours, decisions, and actions all come together to form a unified whole. We don't make promises we won't be able to keep.It's crucial to keep track of commitments at Rapid Auto Shipping. It all comes down to the fundamentals of business. If you say you'll do something, follow through.
                 </p>
             </div>
             <div class="why-choose-us-grid-box">
                 <h4 class="sub-heading">We are reliable</h4>
                 <p class="text">
-                    When you adore your vehicle, getting behind the wheel and hitting the open road is the finest way to get it from point A to point B. When you can't see your vehicle until it arrives at its destination, you'll need a dependable transportation firm to deliver it safely and swiftly. We at <a href="<?= home_path() ?>" style="color:var(--nav-color);">Rapid Auto Shipping</a> has given great auto transport solutions to hundreds of thousands of consumers, and our 99+ percent customer satisfaction rate reflects our dedication to providing top-notch service.affecting or extending throughout all parts of a <a href="<?= get_state() ?>" style="color:var(--nav-color);"> States </a>
+                    When you adore your vehicle, getting behind the wheel and hitting the open road is the finest way to get it from point A to point B. When you can't see your vehicle until it arrives at its destination, you'll need a dependable transportation firm to deliver it safely and swiftly. We at Rapid Auto Shipping has given great "<a href="https://rapidautoshipping.com/auto-transport-carriers/auto-transport-solutions-llc" target="_blank"><span>auto transport solutions</span> </a>" to hundreds of thousands of consumers, and our 99+ percent customer satisfaction rate reflects our dedication to providing top-notch service.affecting or extending throughout all parts of a "<a href="https://rapidautoshipping.com/states" target="_blank"><span>States</span> </a>"
                 </p>
             </div>
         </div>
@@ -243,11 +243,11 @@
         </h2>
         <p class="text">
 
-            <a href="https://en.wikipedia.org/wiki/Roll-on/roll-off"> <span> RORO</span></a> and <span>container consolidation </span>are the two most popular ways to move a car to Mexico. Both are affordable and won't break the bank, however, RORO shipping may be a little more costly.
+            RORO and container consolidation are the two most popular ways to move a car to Mexico. Both are "<a href="https://rapidautoshipping.com/auto-transport-carriers/affordable-auto-transport-llc" target="_blank"><span>affordable</span></a>" and won't break the bank, however, RORO shipping may be a little more costly.
             <br>
             Prices are for one car in a 20-foot container. This is the safest and most dependable method of transporting a vehicle across the border. Other items may be placed in the container to assist you to save money on your move.
             <br>
-            Using the<span> RoRo (roll on, roll off) </span>approach saves money and allows shipments to be finished in less time. For a free RoRo quote,
+            Using the RoRo (roll on, roll off) approach saves money and allows shipments to be finished in less time. For a free RoRo quote,
             <a href="tel:+1-833-233-4447"><span>contact us</span></a> right now.
         </p>
         <div class="third-mexico-blog-grid grid grid-3">
@@ -290,7 +290,7 @@
                 <img src="<?= get_img() ?>home_bg-1.jpg" alt="auto shipping mexico">
                 <div class="third-mexico-blog-grid-1-content">
                     <h3 class="sub-heading">
-                        Car Shipping
+                        <a href="https://rapidautoshipping.com/services/car-shipping-services" target="_blank"><span>Car Shipping</span> </a>
                     </h3>
                     <p class="text">
                         Because this is a land-based and land-locked mode of transportation, it takes the longest. Cars are insured and inspected on a regular basis throughout the journey, but they must first wait for a shipping date to Mexico
