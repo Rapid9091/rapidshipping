@@ -104,7 +104,7 @@
                     What's in this article?
                 </h2>
                 <ul class="points-div-ul">
-                    <li><a href="#1">What’s the Cheapest Car Chipping</a></li>
+                    <li><a href="#1">What’s the Cheapest Car Shipping</a></li>
                     <li><a href="#2">Terminal to Terminal Cheap Transporters</a></li>
                     <li><a href="#3">Cheap Transporters Domestically Or Internationally</a></li>
                     <li><a href="#4">Rapid Auto Shipping And Cheapest Car Shipping Services</a></li>
@@ -124,7 +124,7 @@
                 <ul>
                     <li id="1">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">What’s the Cheapest Car Chipping</h2>
+                            <h2 class="heading-1">What’s the Cheapest Car Shipping</h2>
                             <p class="para-2">
                             Whether you're relocating across town or across the country, there are numerous expenses associated that make moving expensive. If you also need to cheap transportation vehicle to your new home, you're looking for a cheap transporters while still knowing you're receiving excellent service.
                                 <br><br>
