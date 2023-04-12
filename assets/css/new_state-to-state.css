@@ -282,7 +282,8 @@
   #option-2:checked:checked ~ .option-2 span,
   #option-3:checked:checked ~ .option-3 span,
   #option-4:checked:checked ~ .option-4 span {
-    color: #fff;
+    color: #ffffff;
+    font-weight: 600;
   }
   
   .input-button {
@@ -291,8 +292,8 @@
     text-align: center;
     font-size: 18px;
     outline: none;
-    font-weight: 500;
-    color: #fff;
+    font-weight: 600;
+    color: #ffffff;
     background-color: #ff5227;
     transition: 0.4s;
     border: 0.5px solid #d0d0d0;
