@@ -141,8 +141,8 @@
                     <li><a href="#1">Door To Door Mercedes Car Transport Service</a></li>
                     <li><a href="#2">Mercedes Car Transportation Services</a></li>
                     <li><a href="#3">About The Car Transport Services Offered To Luxury Vehicle Owners</a></li>
-                    <li><a href="#4">About Rapid Auto Shipping Transportation</a></li>
-                    <li><a href="#5">Excellent Customer Reviews</a></li>
+                    <li><a href="#4">About Rapid Auto Shipping Mercedes Transportation</a></li>
+                    <li><a href="#5">Excellent Customer Mercedes Reviews</a></li>
                     <li><a href="#6">Vehicle Transport Services Quotes</a></li>
 
                 </ul>
@@ -203,7 +203,7 @@
                     </div>
                     <li id="4">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">About Rapid Auto Shipping Transportation</h2>
+                            <h2 class="heading-1">About Rapid Auto Shipping Mercedes Transportation</h2>
                             <p class="para-2">With our top car service in Long Island, Rapid Auto Shipping has tried to meet the transportation requirements of personal and company travelers in New York, Long Island, and around the globe.</p>
                             <p class="para-2">Corporate limousine services are available for company activities such as sales meetings, roadshows, luxury escorts to private aircraft, and Board of Directors meetings.</p>
                             <p class="para-2">In addition, our chauffeur-driven vehicle service is ideal for any business journey requirement, particularly entertaining important customers while in town.</p>
@@ -219,7 +219,7 @@
                     </div>
                     <li id="5">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Excellent Customer Reviews</h2>
+                            <h2 class="heading-1">Excellent Customer Mercedes Reviews</h2>
                             <p class="para-2">Rapid Auto shipping has received an average evaluation grade of 4.7 out of 5 stars. That is not only above average but virtually perfect. In addition, Rapid Auto Shipping has the most positive client feedback of any company we've come across.
                                 <br><br>
                                 That means you're seeing the average score provided by nearly 50,000 consumers. This was not an accident. Oh, and Rapid Auto Shipping reacts to every negative evaluation.
