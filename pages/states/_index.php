@@ -42,7 +42,7 @@ if (isset($_GET['page_id'])) {
     <link rel="stylesheet" href="<?= get_css(); ?>new-state.css">
     <link rel="stylesheet" href="<?= get_css(); ?>city-zipcode.css">
 
-    <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css">
+    <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css" defer>
     <!-- <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'> -->
 
     <link rel="stylesheet"
@@ -104,9 +104,9 @@ if (isset($_GET['page_id'])) {
                 </p>
 
                 <div class="banner-review-images">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo" loading="lazy">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo" loading="lazy" width="150px">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy" width="150px">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy" width="150px">
                     </div>
 
 
@@ -126,7 +126,7 @@ if (isset($_GET['page_id'])) {
         <div class="main flex">
             <div class="first flex">
                 <div class="first-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/dollar-symbol.webp" alt=" dollar" loading="lazy">
+                    <img src="<?=get_img()?>state-to-state/dollar-symbol.webp" alt=" dollar" loading="lazy" width="50px" height="50px">
                 </div>
                 <div class="first-2">
                     <div class="heading">
@@ -140,7 +140,7 @@ if (isset($_GET['page_id'])) {
             </div>
             <div class="second flex">
                 <div class=" second-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/calendar.png" alt="calendar" loading="lazy">
+                    <img src="<?=get_img()?>state-to-state/calendar.png" alt="calendar" loading="lazy" width="50px" height="50px">
                 </div>
                 <div class="second-2">
                     <div class="heading">
@@ -154,7 +154,7 @@ if (isset($_GET['page_id'])) {
             </div>
             <div class="third flex">
                 <div class="third-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/distance.webp" alt="distance" loading="lazy">
+                    <img src="<?=get_img()?>state-to-state/distance.webp" alt="distance" loading="lazy" width="50px" height="50px">
                 </div>
                 <div class="third-2">
                     <div class="heading">
@@ -169,7 +169,7 @@ if (isset($_GET['page_id'])) {
             </div>
             <div class="forth flex">
                 <div class="fourt-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/shield.webp" alt="sheild" loading="lazy">
+                    <img src="<?=get_img()?>state-to-state/shield.webp" alt="sheild" loading="lazy" width="50px" height="50px">
                 </div>
                 <div class="forth-2">
                     <div class="heading">
@@ -456,7 +456,7 @@ if (isset($_GET['page_id'])) {
 
 
     <!-- owl curosel -->
-    <script async="true"  src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
         integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
