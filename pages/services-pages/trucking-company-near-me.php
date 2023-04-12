@@ -319,7 +319,7 @@
                     </li>
                     <li id="10">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">How Much Does Cost- Trucking Companies Near Me?</h2>
+                            <h2 class="heading-1">How Much Does Trucking service cost - Trucking Companies Near Me?</h2>
                             <p class="para-2">The truck's size, distance, timeframe, and delivery service that best
                                 suits your needs determine the expense of shipping a vehicle. On average, shipping your
                                 vehicle less than 100 miles costs $4.15 per mile, but transporting your truck less than
