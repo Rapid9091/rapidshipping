@@ -1,7 +1,7 @@
 <!-- cdn js links -->
 <script async="true" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer"></script>
 <!-- <script src="https://unpkg.com/aos@next/dist/aos.js"></script> -->
-<script  async="true" src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
+<script  src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
 
 
 <!-- project level js links -->
@@ -100,7 +100,7 @@
 
 
 <!-- font and other unuseful lnks -->
-<link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css">
+<!-- <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css"> -->
 <!-- cdn link here -->
 <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"> -->
 <!-- <script src="https://kit.fontawesome.com/c1af740aee.js" crossorigin="anonymous"></script> -->
@@ -114,7 +114,7 @@
 
 <!-- google team manger link here -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="true" src="https://www.googletagmanager.com/gtag/js?id=UA-230557003-1"></script>
+<!-- <script async="true" src="https://www.googletagmanager.com/gtag/js?id=UA-230557003-1"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -124,4 +124,4 @@
     gtag('js', new Date());
 
     gtag('config', 'UA-230557003-1');
-</script>
+</script> -->

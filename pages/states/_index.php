@@ -59,8 +59,8 @@ if (isset($_GET['page_id'])) {
     
 
      <!-- for fonts link   -->
-   <link rel="preconnect" href="https://fonts.googleapis.com" defer />
-    <link rel="preconnect" href="https://fonts.gstatic.com"  defer crossorigin  />   
+   <!-- <link rel="preconnect" href="https://fonts.googleapis.com" defer />
+    <link rel="preconnect" href="https://fonts.gstatic.com"  defer crossorigin  />    -->
 
     <style>
         .contact-us-header-page {
