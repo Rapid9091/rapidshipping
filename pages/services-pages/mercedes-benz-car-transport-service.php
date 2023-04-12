@@ -143,8 +143,7 @@
                     <li><a href="#3">About The Car Transport Services Offered To Luxury Vehicle Owners</a></li>
                     <li><a href="#4">About Rapid Auto Shipping Transportation</a></li>
                     <li><a href="#5">Excellent Customer Reviews</a></li>
-                    <li><a href="#6">Excellent Customer Reviews</a></li>
-                    <li><a href="#7">Vehicle Transport Services Quotes</a></li>
+                    <li><a href="#6">Vehicle Transport Services Quotes</a></li>
 
                 </ul>
             </div>
