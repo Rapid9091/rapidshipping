@@ -63,6 +63,9 @@ if (isset($_GET['page_id'])) {
     <link rel="preconnect" href="https://fonts.gstatic.com"  defer crossorigin  />    -->
 
     <style>
+        *{
+            font-display: swap;
+        }
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
