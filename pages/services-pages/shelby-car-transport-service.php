@@ -112,7 +112,7 @@
                     <li><a href="#4">Which Is Best For You? Trailer Transport: Open vs. Enclosed?</a></li>
                     <li><a href="#5">How Much Does Shelby Car Transport Service Cost?</a></li>
                     <li><a href="#6">Shelby Car Transportation Service</a></li>
-                    <li><a href="#7">Excellent Customer Transport Service</a></li>
+                    <li><a href="#7">Excellent Customer Shelby Transport Service</a></li>
                     <li><a href="#8">Can I Transport Items In My Vehicle?</a></li>
 
                 </ul>
@@ -214,7 +214,7 @@
                         </li>
                         <li id="7">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Excellent Customer Transport Service</h2>
+                            <h2 class="heading-1">Excellent Customer Shelby Transport Service</h2>
                             <p class="para-2">Rapid Auto Shipping has provided for over a decade for some of the world's most expensive cars. If you require car transport service, we have the knowledge and experience to ensure that it arrives in ideal condition, on time, and with no concealed costs.</p>
                             <p class="para-2">Rapid Auto shipping can handle any shipping request via its US locations in New York, Los Angeles, Dubai, Japan, and The Netherlands and its worldwide associate network.</p>
                             <p class="para-2">So, whether you need your car transported by road, sea, or air, please get in touch with Rapid Auto Shipping and let us remove the anxiety and tension from your shipping requirements.p>
