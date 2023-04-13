@@ -437,9 +437,7 @@ if (isset($_GET['page_id'])) {
 
     <!-- back to top button -->
     <div class="b_top">
-    <span class="material-symbols-outlined">
-                    phone_in_talk
-                </span>
+    <i class='bx bxs-phone'></i>
             <a href="tel:+1-833-233-4447">+1-833-233-4447</a>
         
     </div>
