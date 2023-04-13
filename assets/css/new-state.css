@@ -129,18 +129,7 @@
     margin: 17px 17px 0 0;
 }
 
-.banner-review-images img.truspilot_logo{
-    width: 150px;
-    height:71px;
-}
-.banner-review-images img.google_logo{
-    width: 150px;
-    height:66px;
-}
-.banner-review-images img.crunchbase_logo{
-    width: 150px;
-    height:44px;
-}
+
 
 @media screen and (max-width: 1000px) {
     .rapid-advantages-grid-1 {
