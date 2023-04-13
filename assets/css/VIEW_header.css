@@ -120,9 +120,9 @@
   transition: 0.3s;
 }
 
-.number > p > i {
+.number > i {
   margin-right: 10px;
-  font-size: 18px;
+  font-size: 24px;
 }
 
 .number:hover {
@@ -143,9 +143,14 @@
   right: 5%;
 }
 
-.hamburger > i {
+/* .hamburger > i {
   font-size: 20px;
+} */
+.sub-menu-child ul li i{
+  color: var(--nav-color);
+  font-size: 14px;
 }
+
 
 /* heart div class - in html i used just a simple html simbol entity for heart sign, you can use text or whatever u want*/
 
@@ -302,11 +307,11 @@
     display: block;
   }
   .hamburger > i {
-    font-size: 22px;
+    font-size: 30px;
     color: var(--color-txt-1);
   }
   .hamburger-cross > i {
-    font-size: 20px;
+    font-size: 30px;
     color: var(--color-black);
   }
   .sub-menu > div {
