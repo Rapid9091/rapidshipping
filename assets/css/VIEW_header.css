@@ -232,7 +232,7 @@
   }
   .header-logo > a > img {
     width: 180px;
-    height: 90px;
+    height: 80px;
   }
   .blog-tab-view {
     display: none;
@@ -267,6 +267,10 @@
 }
 
 @media screen and (max-width: 650px) {
+  .header-logo > a > img {
+    width: 180px;
+    height: 80px;
+  }
   .header-nav {
     padding: 0 5% 0 3%;
     position: relative;
