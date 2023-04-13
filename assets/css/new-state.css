@@ -129,7 +129,18 @@
     margin: 17px 17px 0 0;
 }
 
-
+.banner-review-images img.truspilot_logo{
+    width: 150px;
+    height:71px;
+}
+.banner-review-images img.google_logo{
+    width: 150px;
+    height:66px;
+}
+.banner-review-images img.crunchbase_logo{
+    width: 150px;
+    height:44px;
+}
 
 @media screen and (max-width: 1000px) {
     .rapid-advantages-grid-1 {
@@ -155,18 +166,7 @@
     .utility_grid-4 {
         grid-template-columns: repeat(2, 1fr);
     }
-    .banner-review-images img.truspilot_logo{
-        width: 100px;
-        height:71px;
-    }
-    .banner-review-images img.google_logo{
-        width: 100px;
-        height:60px;
-    }
-    .banner-review-images img.crunchbase_logo{
-        width: 100px;
-        height:48px;
-    }
+    
 
 }
 
@@ -193,6 +193,19 @@
 
     .rapid-advantages-grid-1 {
         height: 230px;
+    }
+
+    .banner-review-images img.truspilot_logo{
+        width: 150px;
+        height:71px;
+    }
+    .banner-review-images img.google_logo{
+        width: 150px;
+        height:66px;
+    }
+    .banner-review-images img.crunchbase_logo{
+        width: 150px;
+        height:44px;
     }
     
     .banner-review-images{
