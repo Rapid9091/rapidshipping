@@ -34,7 +34,7 @@ if (isset($_GET['page_id'])) {
     <link rel="stylesheet" href="<?= get_css();?>new_state-to-state.css">
     <link rel="stylesheet" href="<?= get_css();?>new-side-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>new-state.css">
+    <!-- <link rel="stylesheet" href="<?= get_css(); ?>new-state.css"> -->
     <link rel="stylesheet" href="<?= get_css(); ?>city-zipcode.css">
 
     <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css" defer>
