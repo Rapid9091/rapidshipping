@@ -3286,9 +3286,7 @@
 .banner-review-images{
     margin-bottom: 10px;
 }
-.banner-review-images img{
-    margin: 17px 17px 0 0;
-}
+
 
 
 
@@ -3345,7 +3343,7 @@
         height: 230px;
     }
 
-     .banner-review-images img.truspilot_logo{
+     /* .banner-review-images img.truspilot_logo{
         width: 150px;
         height:71px;
     }
@@ -3356,7 +3354,7 @@
     .banner-review-images img.crunchbase_logo{
         width: 150px;
         height:44px;
-    }
+    } */
     
     .banner-review-images{
         text-align: center;
