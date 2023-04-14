@@ -426,6 +426,7 @@ if (isset($_GET['page_id'])) {
 
     <!----------------page bottom ------------------>
     <?php include_once new_footer; ?>
+    <?php include_once new_script; ?>
 
     <!-- owl curosel -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
