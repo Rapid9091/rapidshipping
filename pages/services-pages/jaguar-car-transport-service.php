@@ -156,11 +156,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>jaguar-2.webp"
-<<<<<<< HEAD
                                 alt=" car shipping" />
-=======
-                                alt="car shipping" />
->>>>>>> 5d25f6b33bef5a1bb91b885e76ca6f992b48f20b
 
                         </div>
                     <li id="3">
@@ -195,11 +191,7 @@
 
                         <div class="shipping-form-state-image">
                                 <img loading="lazy" src="<?=get_img();?>jaguar-3.webp"
-<<<<<<< HEAD
                                     alt="best Jaguar Car Transport Services" />
-=======
-                                    alt="Best Jaguar Car Transport Services" />
->>>>>>> 5d25f6b33bef5a1bb91b885e76ca6f992b48f20b
                             </div>
                     </li>
                     <li id="5">
