@@ -85,7 +85,7 @@
 <body>
     <!-- this is header -->
     <?php include header; ?>
-    <!-- this is the fiorst section with background image -->
+    <!-- this is the first section with background image -->
     <div class="contact-us-header-page">
         <?php
         $NAME = "Best Jaguar Car Transport Services";
