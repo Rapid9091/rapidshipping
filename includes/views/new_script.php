@@ -1,7 +1,7 @@
 <!-- cdn js links -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer"></script>
 
-<script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
+<!-- <script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script> -->
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&&callback=Function.prototype&libraries=places" defer></script>
 <script src="<?= get_js("Page_state_new.js") ?>" defer></script>
@@ -12,7 +12,7 @@
 <!-- project js init -->
 
 
-<script>
+<!-- <script>
     //Customize your Notification  
     const config = {
         timeout: 5000,
@@ -32,13 +32,13 @@
     // });
 
     const domain = "<?= home_path() ?>";
-</script>
+</script> -->
 
 
 
 
 <!--Start of Tawk.to Script-->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
     var Tawk_API = Tawk_API || {},
         Tawk_LoadStart = new Date();
     (function() {
@@ -50,7 +50,7 @@
         s1.setAttribute('crossorigin', '*');
         s0.parentNode.insertBefore(s1, s0);
     })();
-</script>
+</script> -->
 <!--End of Tawk.to Script-->
 
 
