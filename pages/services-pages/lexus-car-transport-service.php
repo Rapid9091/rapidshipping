@@ -17,10 +17,10 @@
     <meta property="og:url" content="https://rapidautoshipping.com/services/lexus-car-transport-service" />
     <meta property="og:site_name" content="Best Lexus Car Transport Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="Best Lexus Car Transport Services, car transport service, car shipping, car shipping cost, auto transport , vehicle transport services" />
-    <meta property="article:tag" content="Best Lexus Car Transport Services" />
+    <meta name="keywords" content="car transport service, car shipping, Best Lexus Car Transport Services, car shipping cost, auto transport , vehicle transport services" />
     <meta property="article:tag" content="car transport service" />
     <meta property="article:tag" content="car shipping" />
+    <meta property="article:tag" content="Best Lexus Car Transport Services" />
     <meta property="article:tag" content="car shipping cost" />
     <meta property="article:tag" content="auto transport" />
     <meta property="article:tag" content="vehicle transport services" />
@@ -98,7 +98,7 @@
                 </p>
             </div>
             <div class="shipping-form-state-image">
-            <img loading="lazy" src="<?=get_img();?>Best-Lexus-Car-Transport-Services-5.webp" alt="Best Lexus Car Transport Services"/>
+            <img loading="lazy" src="<?=get_img();?>Best-Lexus-Car-Transport-Services-5.webp" alt="car transport service"/>
 
             </div>
 
@@ -145,7 +145,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                     <img loading="lazy" src="<?=get_img();?>car-transport-service-5.webp"
-                                alt="car transport service" /></div>
+                                alt="car shipping" /></div>
                     
                     <li id="3">
                         <div class="shipping-form-state-content">
@@ -176,7 +176,7 @@
                         </div>
                         <div class="shipping-form-state-image">
                         <img loading="lazy" src="<?=get_img();?>car-shipping-5.webp"
-                                alt="car shipping" />
+                                alt=" Best Lexus Car Transport Services" />
             
                         </div>
                     </li>

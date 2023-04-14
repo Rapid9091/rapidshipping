@@ -20,10 +20,10 @@
     <meta property="og:site_name" content="Best Maserati Car Transport Services" />
     <meta name='robots' content='index' />
     <meta name="keywords"
-        content="Best Maserati Car Transport Services, car transport service, car shipping, car shipping cost, auto transport , vehicle transport services" />
-    <meta property="article:tag" content="Best Maserati Car Transport Services" />
+        content="car transport service, car shipping, Best Maserati Car Transport Services, car shipping cost, auto transport , vehicle transport services" />
     <meta property="article:tag" content="car transport service" />
     <meta property="article:tag" content="car shipping" />
+    <meta property="article:tag" content="Best Maserati Car Transport Services" />
     <meta property="article:tag" content="car shipping cost" />
     <meta property="article:tag" content="auto transport" />
     <meta property="article:tag" content="vehicle transport services" />
@@ -140,7 +140,7 @@
                         </div>
                         <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>maserati-1.jpeg"
-                                alt="Best Maserati Car Transport Services" />
+                                alt="car transport service" />
 
                         </div>
 
@@ -191,7 +191,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                         <img loading="lazy" src="<?=get_img();?>maserati-2.jpeg"
-                            alt="car transport service" />
+                            alt=" car shipping " />
 
                     </div>
 
@@ -212,7 +212,7 @@
                         </div>
                         <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>maserati-3.jpeg"
-                                alt="car shipping" />
+                                alt="Best Maserati Car Transport Services" />
                         </div>
                         
                     </li>

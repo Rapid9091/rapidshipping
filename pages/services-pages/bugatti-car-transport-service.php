@@ -17,7 +17,11 @@
 <meta property="og:url" content="https://rapidautoshipping.com/services/bugatti-car-transport-service" />
 <meta property="og:site_name" content="Best Bugatti Car Transport Services | +1-833-233-4447" />
 <meta name='robots' content='index' />
+<<<<<<< HEAD
+<meta name="keywords" content=" car transport service, car shipping,Best Bugatti Car Transport Services, car shipping cost, auto transport , vehicle transport services" />
+=======
 <meta name="keywords" content="car transport service, car shipping, Best Bugatti Car Transport Services, car shipping cost, auto transport , vehicle transport services" />
+>>>>>>> 5d25f6b33bef5a1bb91b885e76ca6f992b48f20b
 <meta property="article:tag" content="car transport service" />
 <meta property="article:tag" content="car shipping" />
 <meta property="article:tag" content="Best Bugatti Car Transport Services" />
@@ -135,7 +139,11 @@
                         </div>
                         <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>bugati-1.webp"
+<<<<<<< HEAD
+                                alt=" car transport service" />
+=======
                                 alt="car transport service" />
+>>>>>>> 5d25f6b33bef5a1bb91b885e76ca6f992b48f20b
 
                         </div>
 
@@ -151,7 +159,11 @@
                     </li>
                     <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>bugati-2.webp"
+<<<<<<< HEAD
+                                alt=" car shipping" />
+=======
                                 alt="car shipping" />
+>>>>>>> 5d25f6b33bef5a1bb91b885e76ca6f992b48f20b
 
                         </div>
                     <li id="3">
