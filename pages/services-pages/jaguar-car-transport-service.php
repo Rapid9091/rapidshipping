@@ -17,7 +17,11 @@
     <meta property="og:url" content="https://rapidautoshipping.com/services/jaguar-car-transport-service" />
     <meta property="og:site_name" content="Best Jaguar Car Transport Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
+<<<<<<< HEAD
     <meta name="keywords" content=" car transport service, car shipping,Best Jaguar Car Transport Services, car shipping cost, auto transport , vehicle transport services"/>
+=======
+    <meta name="keywords" content="car transport service, car shipping, Best Jaguar Car Transport Services, car shipping cost, auto transport , vehicle transport services"/>
+>>>>>>> 5d25f6b33bef5a1bb91b885e76ca6f992b48f20b
     <meta property="article:tag" content="car transport service" />
     <meta property="article:tag" content="car shipping" />
     <meta property="article:tag" content="Best Jaguar Car Transport Services" />
@@ -54,7 +58,7 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: repeat, no-repeat;
-            background-image: url('..//assets/images/jaguar-title.webp');
+            background-image: url('..//assets/images/Jaguar-title.webp');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
@@ -85,7 +89,7 @@
 <body>
     <!-- this is header -->
     <?php include header; ?>
-    <!-- this is the fiorst section with background image -->
+    <!-- this is the first section with background image -->
     <div class="contact-us-header-page">
         <?php
         $NAME = "Best Jaguar Car Transport Services";
@@ -156,7 +160,11 @@
                     </li>
                     <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>jaguar-2.webp"
+<<<<<<< HEAD
                                 alt=" car shipping" />
+=======
+                                alt="car shipping" />
+>>>>>>> 5d25f6b33bef5a1bb91b885e76ca6f992b48f20b
 
                         </div>
                     <li id="3">
@@ -191,7 +199,11 @@
 
                         <div class="shipping-form-state-image">
                                 <img loading="lazy" src="<?=get_img();?>jaguar-3.webp"
+<<<<<<< HEAD
                                     alt="best Jaguar Car Transport Services" />
+=======
+                                    alt="Best Jaguar Car Transport Services" />
+>>>>>>> 5d25f6b33bef5a1bb91b885e76ca6f992b48f20b
                             </div>
                     </li>
                     <li id="5">
