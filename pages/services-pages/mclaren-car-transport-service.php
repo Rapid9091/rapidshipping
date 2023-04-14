@@ -17,10 +17,10 @@
     <meta property="og:url" content="https://rapidautoshipping.com/services/mclaren-car-transport-service" />
     <meta property="og:site_name" content="Best McLaren Car Transport Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="Best McLaren Car Transport Services, car transport service, car shipping, car shipping cost, auto transport , vehicle transport services" />
-    <meta property="article:tag" content="Best McLaren Car Transport Services" />
+    <meta name="keywords" content="car transport service, car shipping, Best McLaren Car Transport Services, car shipping cost, auto transport , vehicle transport services" />
     <meta property="article:tag" content="car transport service" />
     <meta property="article:tag" content="car shipping" />
+    <meta property="article:tag" content="Best McLaren Car Transport Services" />
     <meta property="article:tag" content="car shipping cost" />
     <meta property="article:tag" content="auto transport" />
     <meta property="article:tag" content="vehicle transport services" />
@@ -106,7 +106,7 @@
             </div>
             
             <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>Best-McLaren-Car-Transport-Services.jpeg" alt="Best McLaren Car Transport Services" />
+                        <img loading="lazy" src="<?=get_img();?>Best-McLaren-Car-Transport-Services.jpeg" alt="car transport service" />
                     </div>
             <div class="points-div " id="top-section">
                 <h2 class="heading-2">
@@ -153,7 +153,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                            <img loading="lazy" src="<?=get_img();?>car-transport-service-4.jpeg" alt="car transport service" />
+                            <img loading="lazy" src="<?=get_img();?>car-transport-service-4.jpeg" alt="car shipping " />
                         </div>
 
                     <li id="3">
@@ -180,7 +180,7 @@
                         </div>
                         <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>car-shipping-4.jpeg"
-                                alt="car shipping" />
+                                alt=" Best McLaren Car Transport Services" />
                         </div>
                         
                     </li>

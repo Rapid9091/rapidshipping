@@ -17,10 +17,10 @@
     <meta property="og:url" content="https://rapidautoshipping.com/services/porsche-car-transport-services" />
     <meta property="og:site_name" content="Best Porsche Car Transport Services" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="Best Porsche Car Transport Services, car transport service, car shipping, car shipping cost, auto transport , vehicle transport services" />
-    <meta property="article:tag" content="Best Porsche Car Transport Services" />
+    <meta name="keywords" content=" car transport service, car shipping,Best Porsche Car Transport Services, car shipping cost, auto transport , vehicle transport services" />
     <meta property="article:tag" content="car transport service" />
     <meta property="article:tag" content="car shipping" />
+    <meta property="article:tag" content="Best Porsche Car Transport Services" />
     <meta property="article:tag" content="car shipping cost" />
     <meta property="article:tag" content="auto transport" />
     <meta property="article:tag" content="vehicle transport services" />
@@ -96,7 +96,7 @@
                 </p>
             </div>
             <div class="shipping-form-state-image">
-            <img loading="lazy" src="<?=get_img();?>car-transport-service2.jpeg" alt="Best Porsche Car Transport Services"/>
+            <img loading="lazy" src="<?=get_img();?>car-transport-service2.jpeg" alt="car transport service"/>
 
             </div>
 
@@ -149,7 +149,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                     <img loading="lazy" src="<?=get_img();?>car-shipping-2.jpeg"
-                                alt="car transport service" /></div>
+                                alt="car shipping" /></div>
                     
                     <li id="3">
                         <div class="shipping-form-state-content">
@@ -168,7 +168,7 @@
                         </div>
                         <div class="shipping-form-state-image">
                         <img loading="lazy" src="<?=get_img();?>auto-transport-2.jpeg"
-                                alt="car shipping cost" />
+                                alt="Best Porsche Car Transport Services"/>
             
                         </div>
                     </li>
