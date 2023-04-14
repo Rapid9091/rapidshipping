@@ -73,7 +73,7 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                        <a href="<?= home_path(); ?>cars/audi-car-transport-service"><img src="<?= get_img() ?>audi-car-logo-removebg-preview.png" alt="audi"></a>
+                        <a href="<?= home_path(); ?>cars/audi-car-transport-service"><img src="<?= get_img() ?>audi-car-logo-removebg-preview.png" alt="audi car transport service"></a>
                             <a href="<?= home_path(); ?>cars/audi-car-transport-service">
                                 <p>Audi</p>
                             </a>
@@ -128,7 +128,7 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <a href="<?= home_path(); ?>cars/ferrari-car-transport-service"><img src="<?= get_img() ?>ferrari-car-logo-00-removebg-preview.png" alt="ferrari"></a>
+                            <a href="<?= home_path(); ?>cars/ferrari-car-transport-service"><img src="<?= get_img() ?>ferrari-car-logo-00-removebg-preview.png" alt="ferrari car transport service"></a>
                             <a href="<?= home_path(); ?>cars/ferrari-car-transport-service">
                                 <p>ferrari</p>
                             </a>
@@ -236,6 +236,11 @@
                         <div class="cars-img-name">
                             <img src="<?= get_img() ?>lambo-logo-removebg-preview.png" alt="lambo">
                             <p>Lamborghini</p>
+
+                            <a href="<?= home_path(); ?>cars/lamborghini-car-transport-service"><img src="<?= get_img() ?>lambo-logo-removebg-preview.png" alt="lamborghini car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/lamborghini-car-transport-service">
+                                <p>lamborghini</p>
+                            </a>
 
                         </div>
                     </li>
@@ -353,7 +358,7 @@
                 <ul>
                     <li>
                         <div class="cars-img-name">
-                        <a href="<?= home_path(); ?>cars/porsche-car-transport-services"><img src="<?= get_img() ?>porche-car-logo-removebg-preview.png" alt="porche"></a>
+                        <a href="<?= home_path(); ?>cars/porsche-car-transport-services"><img src="<?= get_img() ?>porche-car-logo-removebg-preview.png" alt="porsche car transport services"></a>
                             <a href="<?= home_path(); ?>cars/porsche-car-transport-services">
                                 <p>Porsche</p>
                             </a>

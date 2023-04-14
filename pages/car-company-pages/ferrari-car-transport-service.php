@@ -156,11 +156,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>ferrari-2.webp"
-<<<<<<< HEAD
-                                alt=" car shipping" />
-=======
                                 alt="car shipping" />
->>>>>>> 5d25f6b33bef5a1bb91b885e76ca6f992b48f20b
 
                         </div>
                     <li id="3">

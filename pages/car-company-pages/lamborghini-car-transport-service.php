@@ -16,7 +16,7 @@
     <meta property="og:title" content="Best Lamborghini Car Transport Services | +1-833-233-4447" />
     <meta property="og:description"
         content="We provide admirable and appropriate door to door car transport service for your Lamborghini, whether moving a vehicle on its own or relocating with it." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/lamborghini-car-transport-service" />
+    <meta property="og:url" content="https://rapidautoshipping.com/cars/lamborghini-car-transport-service" />
     <meta property="og:site_name" content="Best Lamborghini Car Transport Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords"
