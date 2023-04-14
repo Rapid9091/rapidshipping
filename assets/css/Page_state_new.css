@@ -217,6 +217,11 @@
   .content-styling-for-big-screen {
     font-size: 16px;
   }
+  @media screen and (max-width: 1300px) {
+    .b_top{
+      display: none;
+    }
+  }
   
   @media screen and (max-width: 900px) {
     .first-section {
@@ -281,6 +286,9 @@
     .main-heading-for-big-screen {
       text-align: center;
       font-size: 25px;
+    }
+    .b_top{
+      display: block;
     }
   }
   
