@@ -14,7 +14,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Best Audi Car Transport Services | +1-833-233-4447" />
 <meta property="og:description" content="your vehicle by using our rapid online auto shipping quote calculator above, or by calling +1 (833) 233-4447 and speaking with one of our car transport service pricing consultants." />
-<meta property="og:url" content="https://rapidautoshipping.com/services/audi-car-transport-service" />
+<meta property="og:url" content="https://rapidautoshipping.com/cars/audi-car-transport-service" />
 <meta property="og:site_name" content="Best Audi Car Transport Services | +1-833-233-4447" />
 <meta name='robots' content='index' />
 <meta name="keywords" content=" car transport service, car shipping, Best Audi Car Transport Services, car shipping cost, auto transport , vehicle transport services" />

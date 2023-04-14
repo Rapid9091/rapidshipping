@@ -73,8 +73,11 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>audi-car-logo-removebg-preview.png" alt="audi car">
-                            <p>Audi</p>
+                        <a href="<?= home_path(); ?>cars/audi-car-transport-service"><img src="<?= get_img() ?>audi-car-logo-removebg-preview.png" alt="audi"></a>
+                            <a href="<?= home_path(); ?>cars/audi-car-transport-service">
+                                <p>Audi</p>
+                            </a>
+                            
 
                         </div>
                     </li>
@@ -349,8 +352,10 @@
                 <ul>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>porche-car-logo-removebg-preview.png" alt="porche">
-                            <p>Porsche</p>
+                        <a href="<?= home_path(); ?>cars/porsche-car-transport-services"><img src="<?= get_img() ?>porche-car-logo-removebg-preview.png" alt="porche"></a>
+                            <a href="<?= home_path(); ?>cars/porsche-car-transport-services">
+                                <p>Porsche</p>
+                            </a>
 
                         </div>
                     </li>
