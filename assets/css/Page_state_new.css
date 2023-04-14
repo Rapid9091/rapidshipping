@@ -412,7 +412,7 @@
   
   .header-logo > a > img {
     width: 240px;
-    height: 120px;
+    height: 111px;
     cursor: pointer;
   }
   
@@ -661,7 +661,7 @@
   @media screen and (max-width: 650px) {
     .header-logo > a > img {
       width: 180px;
-      height: 80px;
+      height: 83px;
     }
     .header-nav {
       padding: 0 5% 0 3%;
