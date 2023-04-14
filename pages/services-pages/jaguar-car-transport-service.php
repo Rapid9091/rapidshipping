@@ -54,7 +54,7 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: repeat, no-repeat;
-            background-image: url('..//assets/images/jaguar-title.webp');
+            background-image: url('..//assets/images/Jaguar-title.webp');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
