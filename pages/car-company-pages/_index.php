@@ -234,10 +234,7 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>lambo-logo-removebg-preview.png" alt="lambo">
-                            <p>Lamborghini</p>
-
-                            <a href="<?= home_path(); ?>cars/lamborghini-car-transport-service"><img src="<?= get_img() ?>lambo-logo-removebg-preview.png" alt="lamborghini car transport service"></a>
+                 <a href="<?= home_path(); ?>cars/lamborghini-car-transport-service"><img src="<?= get_img() ?>lambo-logo-removebg-preview.png" alt="lamborghini car transport service"></a>
                             <a href="<?= home_path(); ?>cars/lamborghini-car-transport-service">
                                 <p>lamborghini</p>
                             </a>
