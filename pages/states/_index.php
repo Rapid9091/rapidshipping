@@ -24,25 +24,11 @@ if (isset($_GET['page_id'])) {
     <title><?= $data['title'];?></title>
     <?= $data['meta']; ?> 
     <?php include_once new_head; ?>
-    <link rel="stylesheet" href="<?= get_css(); ?>VIEW_header.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>PAGE_colorado-to-arizona.css">
-    <link rel="stylesheet" href="<?= get_css();?>review2.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>VIEW_new-footer.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>global.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>utility.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>car-key-section.css">
-    <link rel="stylesheet" href="<?= get_css();?>new_state-to-state.css">
-    <link rel="stylesheet" href="<?= get_css();?>new-side-form.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>new_state.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>city-zipcode.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>Page_state_new.min.css">
 
-    <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css" defer>
-    <!-- <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'> -->
+    <link  href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css" defer>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400&display=swap" rel="stylesheet" defer/>
-    <!-- <link rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" defer /> -->
-    <!-- owl courosel -->
+
     <!-- ------------------------------ -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
         integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
@@ -52,10 +38,6 @@ if (isset($_GET['page_id'])) {
         integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
         crossorigin="anonymous" referrerpolicy="no-referrer" defer />
     
-
-     <!-- for fonts link   -->
-   <!-- <link rel="preconnect" href="https://fonts.googleapis.com" defer />
-    <link rel="preconnect" href="https://fonts.gstatic.com"  defer crossorigin  />    -->
 
     <style>
         
@@ -105,9 +87,9 @@ if (isset($_GET['page_id'])) {
                 </p>
 
                 <div class="banner-review-images">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo" loading="lazy" width="150px" height="71px" class="truspilot_logo">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy" width="150px" height="66px" class="google_logo">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy" width="150px" height="44px" class="crunchbase_logo">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo" loading="lazy" width="225px" height="107px" class="truspilot_logo">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy" width="225px" height="99px">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy" width="225px" height="66px" class="crunchbase_logo">
                     </div>
 
 
@@ -445,15 +427,6 @@ if (isset($_GET['page_id'])) {
     <?php include_once new_footer; ?>
     <?php include_once new_script; ?>
 
-
-
-    
-
-    
-    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&sensor=false&libraries=places"></script> -->
-
-
-
     <!-- owl curosel -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
         integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
@@ -484,7 +457,6 @@ if (isset($_GET['page_id'])) {
     <script>
         $('button.owl-dot').attr('aria-label', 'owl-dot');
     </script>
-    <script src="<?=get_js()?>faq.js" defer></script>
 </body>
 
 </html>

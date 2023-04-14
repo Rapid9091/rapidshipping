@@ -17,10 +17,10 @@
 <meta property="og:url" content="https://rapidautoshipping.com/services/corvette-car-transport-service" />
 <meta property="og:site_name" content="Best Corvette Car Transport Services | +1-833-233-4447" />
 <meta name='robots' content='index' />
-<meta name="keywords" content="Best Corvette Car Transport Services, car transport service, car shipping, car shipping cost, auto transport , vehicle transport services" />
-<meta property="article:tag" content="Best Corvette Car Transport Services" />
+<meta name="keywords" content="car transport service, car shipping,Best Corvette Car Transport Services, car shipping cost, auto transport , vehicle transport services" />
 <meta property="article:tag" content="car transport service" />
 <meta property="article:tag" content="car shipping" />
+<meta property="article:tag" content="Best Corvette Car Transport Services" />
 <meta property="article:tag" content="car shipping cost" />
 <meta property="article:tag" content="auto transport" />
 <meta property="article:tag" content="vehicle transport services" />                                     
@@ -126,7 +126,7 @@
                         </div>
                         <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>corvette-1.webp"
-                                alt="Best Corvette Car Transport Services" />
+                                alt="car transport service " />
 
                         </div>
 
@@ -145,7 +145,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                             <img loading="lazy" src="<?=get_img();?>corvette-2.webp"
-                                alt="car transport service" />
+                                alt=" car shipping" />
 
                         </div>
                     <li id="3">
@@ -175,7 +175,7 @@
 
                         <div class="shipping-form-state-image">
                                 <img loading="lazy" src="<?=get_img();?>corvette-3.webp"
-                                    alt="car shipping" />
+                                    alt="Best Corvette Car Transport Services" />
                             </div>
                     </li>
                     <li id="5">

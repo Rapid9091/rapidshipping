@@ -1,22 +1,18 @@
 <!-- cdn js links -->
-<script async="true" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer"></script>
-<!-- <script src="https://unpkg.com/aos@next/dist/aos.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer"></script>
 
-
-<!-- project level js links -->
-<script src="<?= get_js("function.js"); ?>" defer></script>
-<script src="<?= get_assets(); ?>/js/header.js" defer></script>
+<!-- <script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script> -->
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&&callback=Function.prototype&libraries=places" defer></script>
-<script src="<?= get_js("small_form_new.js") ?>" defer></script>
-   <script src="<?= get_js("side_form_new.js") ?>" defer></script>
+<script src="<?= get_js("Page_state_new.min.js") ?>" defer></script>
 
 
 
 
 <!-- project js init -->
-<script  src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
-<script>
+
+
+<!-- <script>
     //Customize your Notification  
     const config = {
         timeout: 5000,
@@ -36,17 +32,13 @@
     // });
 
     const domain = "<?= home_path() ?>";
-</script>
+</script> -->
 
-
-
-
-<!-- js link -->
 
 
 
 <!--Start of Tawk.to Script-->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
     var Tawk_API = Tawk_API || {},
         Tawk_LoadStart = new Date();
     (function() {
@@ -58,7 +50,7 @@
         s1.setAttribute('crossorigin', '*');
         s0.parentNode.insertBefore(s1, s0);
     })();
-</script>
+</script> -->
 <!--End of Tawk.to Script-->
 
 
@@ -94,23 +86,9 @@
 <!-- schema end -->
 
 
-<!-- font and other unuseful lnks -->
-<!-- cdn link here -->
-<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
-<script async="true" src="https://kit.fontawesome.com/c1af740aee.js" crossorigin="anonymous"></script> -->
-
-<!-- for fonts link   -->
-<!-- <link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /> -->
-<!-- google fonts link here -->
-
-<!-- animation css link   -->
-
-
-
 <!-- google team manger link here -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script defer src="https://www.googletagmanager.com/gtag/js?id=UA-230557003-1"></script>
+<script  src="https://www.googletagmanager.com/gtag/js?id=UA-230557003-1" defer></script>
 <script>
     window.dataLayer = window.dataLayer || [];
 

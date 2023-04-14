@@ -19,10 +19,10 @@
     <meta property="og:url" content="https://rapidautoshipping.com/services/mercedes-benz-car-transport-service" />
     <meta property="og:site_name" content="Best Mercedes Benz Car Transport Service" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="Best Mercedes Benz Car Transport Service, car transport service, car shipping, car shipping cost, auto transport , vehicle transport services "/>
-    <meta property="article:tag" content="Best Mercedes Benz Car Transport Service" />
+    <meta name="keywords" content=" car transport service, car shipping,Best Mercedes Benz Car Transport Service, car shipping cost, auto transport , vehicle transport services "/>
     <meta property="article:tag" content="car transport service" />
     <meta property="article:tag" content="car shipping" />
+    <meta property="article:tag" content="Best Mercedes Benz Car Transport Service" />
     <meta property="article:tag" content="car shipping cost" />
     <meta property="article:tag" content="auto transport" />
     <meta property="article:tag" content="vehicle transport services" />
@@ -167,7 +167,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                         <img loading="lazy" src="<?=get_img();?>car-transport-service.jpeg"
-                            alt="Best Mercedes Benz Car Transport Service" />
+                            alt="car transport service" />
 
                     </div>
 
@@ -198,7 +198,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>car-shipping.jpeg" alt="car transport service" />
+                        <img loading="lazy" src="<?=get_img();?>car-shipping.jpeg" alt="car shipping" />
 
                     </div>
                     <li id="4">
@@ -214,7 +214,7 @@
                     </li>
                     <div class="shipping-form-state-image">
                         <img loading="lazy" src="<?=get_img();?>vehicle-transport-services.jpeg"
-                            alt="car shipping" />
+                            alt="Best Mercedes Benz Car Transport Service" />
 
                     </div>
                     <li id="5">
