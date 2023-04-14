@@ -119,7 +119,6 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-
                             <a href="<?= home_path(); ?>cars/dodge"><img src="<?= get_img() ?>dodge-ram-pickup-logo-dodge-car-logo-png-removebg-preview.png" alt="dodge ram pickup logo dodge car"></a>
                             <a href="<?= home_path(); ?>cars/dodge">
                                 <p>Dodge</p>
@@ -129,8 +128,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>ferrari-car-logo-00-removebg-preview.png" alt="ferrari">
-                            <p>Ferrari</p>
+                            <a href="<?= home_path(); ?>cars/ferrari-car-transport-service"><img src="<?= get_img() ?>ferrari-car-logo-00-removebg-preview.png" alt="ferrari"></a>
+                            <a href="<?= home_path(); ?>cars/ferrari-car-transport-service">
+                                <p>ferrari</p>
+                            </a>
 
                         </div>
                     </li>
