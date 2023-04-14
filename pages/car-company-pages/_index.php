@@ -353,7 +353,7 @@
                     <li>
                         <div class="cars-img-name">
                         <a href="<?= home_path(); ?>cars/porsche-car-transport-services"><img src="<?= get_img() ?>porche-car-logo-removebg-preview.png" alt="porche"></a>
-                            <a href="<?= home_path(); ?> cars/porsche-car-transport-services">
+                            <a href="<?= home_path(); ?>cars/porsche-car-transport-services">
                                 <p>Porsche</p>
                             </a>
 
