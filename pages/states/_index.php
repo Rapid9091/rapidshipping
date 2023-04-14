@@ -24,10 +24,9 @@ if (isset($_GET['page_id'])) {
     <title><?= $data['title'];?></title>
     <?= $data['meta']; ?> 
     <?php include_once new_head; ?>
-    <link rel="stylesheet" href="<?= get_css(); ?>Page_state_new.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>Page_state_new.min.css">
 
     <link  href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css" defer>
-    <!-- <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'> -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400&display=swap" rel="stylesheet" defer/>
 
     <!-- ------------------------------ -->
@@ -88,9 +87,9 @@ if (isset($_GET['page_id'])) {
                 </p>
 
                 <div class="banner-review-images">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo" loading="lazy" width="150px" height="71px" class="truspilot_logo">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy" width="150px" height="66px" class="google_logo">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy" width="150px" height="44px" class="crunchbase_logo">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo" loading="lazy" width="225px" height="107px" class="truspilot_logo">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy" width="225px" height="99px">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy" width="225px" height="66px" class="crunchbase_logo">
                     </div>
 
 
