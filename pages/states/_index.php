@@ -21,14 +21,9 @@ if (isset($_GET['page_id'])) {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>
-        <?= $data['title'];?>
-    </title>
-
-    <?= $data['meta']; ?>
-
+    <title><?= $data['title'];?></title>
+    <?= $data['meta']; ?> 
     <?php include_once new_head; ?>
-
     <link rel="stylesheet" href="<?= get_css(); ?>VIEW_header.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_colorado-to-arizona.css">
     <link rel="stylesheet" href="<?= get_css();?>review2.css">
@@ -39,12 +34,12 @@ if (isset($_GET['page_id'])) {
     <link rel="stylesheet" href="<?= get_css();?>new_state-to-state.css">
     <link rel="stylesheet" href="<?= get_css();?>new-side-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>faq.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>new-state.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>new_state.css">
     <link rel="stylesheet" href="<?= get_css(); ?>city-zipcode.css">
 
     <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css" defer>
     <!-- <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'> -->
-
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400&display=swap" rel="stylesheet" defer/>
     <!-- <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" defer /> -->
     <!-- owl courosel -->
@@ -111,8 +106,8 @@ if (isset($_GET['page_id'])) {
 
                 <div class="banner-review-images">
                 <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo" loading="lazy" width="150px" height="71px" class="truspilot_logo">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy" width="150px" height="60px" class="google_logo">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy" width="150px" height="48px" class="crunchbase_logo">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy" width="150px" height="66px" class="google_logo">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy" width="150px" height="44px" class="crunchbase_logo">
                     </div>
 
 
@@ -211,10 +206,8 @@ if (isset($_GET['page_id'])) {
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <div class="main_content_div">
-                    <?php echo $data['content'];
-                  ?>
-
-                </div>
+                    <?php echo $data['content'];?>
+                 </div>
 
             </section>
 
@@ -443,9 +436,7 @@ if (isset($_GET['page_id'])) {
 
     <!-- back to top button -->
     <div class="b_top">
-    <span class="material-symbols-outlined">
-                    phone_in_talk
-                </span>
+    <i class='bx bxs-phone' style="font-size: 20px;"></i>
             <a href="tel:+1-833-233-4447">+1-833-233-4447</a>
         
     </div>
@@ -458,7 +449,7 @@ if (isset($_GET['page_id'])) {
 
     
 
-    <script async="true" src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
+    
     <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&sensor=false&libraries=places"></script> -->
 
 
@@ -493,7 +484,7 @@ if (isset($_GET['page_id'])) {
     <script>
         $('button.owl-dot').attr('aria-label', 'owl-dot');
     </script>
-    <script async="true" src="<?=get_js()?>/faq.js"></script>
+    <script src="<?=get_js()?>faq.js" defer></script>
 </body>
 
 </html>
