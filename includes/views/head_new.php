@@ -3,7 +3,6 @@
 
 <meta name="google-site-verification" content="MD6jbJ4iZfjq-IIzuv20KZWbWZwJC6xsh9X2fMj3Vjo" />
 
-<!-- <link rel="stylesheet" href="<?= get_css(); ?>VIEW_review-section.css"> -->
 
 <link rel="shortcut icon" href="<?= get_img('favicon_rapid.ico') ?>" />
 <!-- meta link -->
