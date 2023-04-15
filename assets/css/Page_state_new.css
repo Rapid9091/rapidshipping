@@ -217,11 +217,7 @@
   .content-styling-for-big-screen {
     font-size: 16px;
   }
-  /* @media screen and (max-width: 1300px) {
-    .b_top{
-      display: none;
-    }
-  } */
+ 
   
   @media screen and (max-width: 900px) {
     .first-section {
@@ -1188,7 +1184,7 @@
     }
     /*  small text */
     .para-2 {
-      font-size: 15px;
+      font-size: 17px;
     }
     .points-div-ul > li {
       margin: 15px 0 15px 20px;
@@ -2687,7 +2683,7 @@
 
 .form_div{
     position: sticky;
-    top: 0;
+    top: 30px;
   }
   .form-section {
       position: relative;
@@ -3084,6 +3080,7 @@
       .form-section > .form-section-group_side {
         width: 100%;
       }
+
     }
 
     /* faq --------------------------- */
@@ -3112,8 +3109,10 @@
        align-items: center;
        background-color: #f3eeec;
        color: #ff5722;
-       font-weight: bold;
+       font-weight: 500;
        cursor: pointer;
+       font-size: 23px;
+       background-color: #f3eeeca1;
    }
    .body .box:hover{
        background-color: #dddada;
@@ -3193,13 +3192,18 @@
     /* margin-left:10px; */
     width: 100%;
 }
-
+.main_content_div ul{
+  padding-left: 5%;
+}
+.main_content_div ol{
+  padding-left: 5%;
+}
 .main_content_div ul li {
     list-style: disc;
     font-size: 18px;
     word-spacing: 1.5px;
     letter-spacing: 0.5px;
-    margin: 2%;
+    margin: 0 0 0 2%;
     line-height: 1.8;
 }
 .main_content_div ol li{
@@ -3207,18 +3211,19 @@
     font-size: 18px;
     word-spacing: 1.5px;
     letter-spacing: 0.5px;
-    margin: 2%;
+    margin: 0 0 0 2%;
     line-height: 1.8;
 }
 
-#call_under_content {
+.button_under_content p a{
     padding: 10px 10px;
     text-decoration: none;
     text-align: center;
     font-size: 16px;
     outline: none;
-    font-weight: 500;
-    color: var(--nav-color);
+    font-weight: 600;
+    color:var(--color-bg-2);
+    /* background-color: var(--color-bg-2); */
     background-color: transparent;
     transition: 0.4s;
     border: 2px solid #ff5227;
@@ -3226,6 +3231,32 @@
     width: 80%;
     text-transform: uppercase;
     cursor: pointer;
+}
+.shipping-form-state-image p {
+  line-height: normal;
+  margin: 0;
+  padding: 0;
+}
+.button_under_content{
+  margin: 15px 0;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 15px;
+  justify-content: space-evenly;
+  background-color: #f3eeeca1;
+  padding: 30px 0;
+}
+.button_under_content p{
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .main_content_div p {
+    font-size: 17px;
+  }
+  .button_under_content p{
+    display: block;
+  }
 }
 
 /* all state name grid section */
@@ -3249,7 +3280,8 @@
 }
 
 .all-state-name-pages {
-    background-color: var(--section-background);
+  background-color: #f3eeeca1;
+  padding: 30px 0;
     padding: 1% 0;
     border-radius: 14px;
     border: 1px solid var(--nav-color);
@@ -3275,7 +3307,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    display: none;
 }
 
 .b_top a{
@@ -3324,6 +3355,19 @@
     .utility_grid-4 {
         gap: 0;
     }
+    .banner-review-images{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 15px;
+  }
+    .banner-review-images img.google_logo{
+       display: none;
+    }
+    .banner-review-images img.crunchbase_logo{
+        margin-left: 20px;
+    }
 }
 
 @media screen and (max-width: 500px) {
@@ -3344,28 +3388,19 @@
      /* .banner-review-images img.truspilot_logo{
         width: 150px;
         height:71px;
-    }
-    .banner-review-images img.google_logo{
-        width: 150px;
-        height:66px;
-    }
-    .banner-review-images img.crunchbase_logo{
-        width: 150px;
-        height:44px;
+    } */
+    /* .banner-review-images img.google_logo{
+       display: none;
     } */
     
-    .banner-review-images{
-        text-align: center;
-        margin-bottom: 10px;
-    } 
-    .b_top{
-      display: block;
-    }
+     
+   
 }
 
 /* city zipcode */
 .more-califrnian-cities-code {
-    background-color: #fff4f4;
+  background-color: #f3eeeca1;
+  padding: 30px 0;
     border: 1px solid #ff5722;
     border-radius: 14px;
     margin: 3% 5%;

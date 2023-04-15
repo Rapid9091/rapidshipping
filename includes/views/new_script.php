@@ -3,13 +3,8 @@
 
 
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&&callback=Function.prototype&libraries=places" defer></script>
-<script src="<?= get_js("Page_state_new.min.js") ?>" defer></script>
 
 
-
-<script  src="<?= get_js("function.js"); ?>"></script>
-<script  src="<?= get_assets(); ?>/js/header.js"></script>
 <!-- project js init -->
 
 <script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
@@ -35,7 +30,8 @@
     const domain = "<?= home_path() ?>";
 </script>
 
-
+<script async="true" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&libraries=places"></script>
+<script asynce="true" src="<?= get_js("Page_state_new.js") ?>"></script>
 
 
 <!--Start of Tawk.to Script-->
