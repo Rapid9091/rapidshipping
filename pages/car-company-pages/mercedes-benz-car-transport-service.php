@@ -16,7 +16,7 @@
     <meta property="og:title" content="Best Mercedes Benz Car Transport Service" />
     <meta property="og:description"
         content="International car transport service involve car shipping your car from one nation to another. Airway or maritime transport is used to provide this kind of service." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/mercedes-benz-car-transport-service" />
+    <meta property="og:url" content="https://rapidautoshipping.com/cars/mercedes-benz-car-transport-service" />
     <meta property="og:site_name" content="Best Mercedes Benz Car Transport Service" />
     <meta name='robots' content='index' />
     <meta name="keywords" content=" car transport service, car shipping,Best Mercedes Benz Car Transport Service, car shipping cost, auto transport , vehicle transport services "/>

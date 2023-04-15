@@ -297,8 +297,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Mercedes-Benz-car-logo-removebg-preview.png" alt="Mercedes">
-                            <p>Mercedes-Benz</p>
+                            <a href="<?= home_path(); ?>cars/mercedes-benz-car-transport-service"><img src="<?= get_img() ?>Mercedes-Benz-car-logo-removebg-preview.png" alt="mercedes benz car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/mercedes-benz-car-transport-service">
+                                <p>Mercedes-Benz</p>
+                            </a>
 
                         </div>
                     </li>
