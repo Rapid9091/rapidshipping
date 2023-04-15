@@ -1,17 +1,18 @@
 <!-- cdn js links -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer"></script>
 
-<script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
+
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&&callback=Function.prototype&libraries=places" defer></script>
 <script src="<?= get_js("Page_state_new.min.js") ?>" defer></script>
 
 
 
-
+<script  src="<?= get_js("function.js"); ?>"></script>
+<script  src="<?= get_assets(); ?>/js/header.js"></script>
 <!-- project js init -->
 
-
+<script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
 <script>
     //Customize your Notification  
     const config = {

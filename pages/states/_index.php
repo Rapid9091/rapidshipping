@@ -24,9 +24,9 @@ if (isset($_GET['page_id'])) {
     <title><?= $data['title'];?></title>
     <?= $data['meta']; ?> 
     <?php include_once new_head; ?>
-    <link rel="stylesheet" href="<?= get_css(); ?>Page_state_new.min.css">
+    <!-- <link rel="stylesheet" href="<?= get_css(); ?>Page_state_new.min.css"> -->
+    <link rel="stylesheet" href="<?= get_css(); ?>Page_state_new.css">
 
-    <link  href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400&display=swap" rel="stylesheet" defer/>
 
     <!-- ------------------------------ -->
@@ -113,7 +113,7 @@ if (isset($_GET['page_id'])) {
                 </div>
                 <div class="first-2">
                     <div class="heading">
-                        <h5>PRICE MATCH</h5>
+                        <p>PRICE MATCH</p>
                     </div>
                     <div class="strip_para">
                         <P>Best price guaranteed</P>
@@ -127,7 +127,7 @@ if (isset($_GET['page_id'])) {
                 </div>
                 <div class="second-2">
                     <div class="heading">
-                        <h5>GUARANTEED PICK-UP</h5>
+                        <p>GUARANTEED PICK-UP</p>
                     </div>
                     <div class="strip_para">
                         <p>Your chice of pick-up</p>
@@ -141,7 +141,7 @@ if (isset($_GET['page_id'])) {
                 </div>
                 <div class="third-2">
                     <div class="heading">
-                        <h5>EXPRESS SHIPPING</h5>
+                        <p>EXPRESS SHIPPING</p>
                     </div>
                     <div class="strip_para">
                         <P>Reduced trasit time</P>
@@ -156,7 +156,7 @@ if (isset($_GET['page_id'])) {
                 </div>
                 <div class="forth-2">
                     <div class="heading">
-                        <h5>SAFE TARNSPORT</h5>
+                        <p>SAFE TARNSPORT</p>
                     </div>
                     <div class="strip_para">
                         <P>Full insurance coverage</P>
