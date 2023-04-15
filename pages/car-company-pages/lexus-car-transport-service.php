@@ -14,7 +14,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Lexus Car Transport Services | +1-833-233-4447" />
     <meta property="og:description" content="For high-performance luxury cars like the Lexus IS, Rapid Auto Shipping is the finest car transport service provider." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/lexus-car-transport-service" />
+    <meta property="og:url" content="https://rapidautoshipping.com/cars/lexus-car-transport-service" />
     <meta property="og:site_name" content="Best Lexus Car Transport Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car transport service, car shipping, Best Lexus Car Transport Services, car shipping cost, auto transport , vehicle transport services" />

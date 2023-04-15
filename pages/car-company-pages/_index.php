@@ -62,6 +62,11 @@
                             <img src="<?= get_img() ?>Alfa-Romeo-logo-PNG-Hd-Image.png" alt="romeo image - Rapid Auto Shipping">
                             <p>Alfa Romeo</p>
 
+                            <a href="<?= home_path(); ?>cars/alfa-romeo-car-transport-service"><img src="<?= get_img() ?>Alfa-Romeo-logo-PNG-Hd-Image.png" alt="alfa-romeo car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/alfa-romeo-car-transport-service">
+                                <p>Alfa-Romeo</p>
+                            </a>
+
                         </div>
                     </li>
                     <li>
@@ -213,8 +218,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>jaguar-car-logo.png" alt="jaguar auto trnansport">
-                            <p>Jaguar</p>
+                            <a href="<?= home_path(); ?>cars/jaguar-car-transport-service"><img src="<?= get_img() ?>jaguar-car-logo.png" alt="jaguar car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/jaguar-car-transport-service">
+                                <p>Jaguar</p>
+                            </a>
 
                         </div>
                     </li>
@@ -256,8 +263,10 @@
                 <ul>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Lexus-logo-removebg-preview.png" alt="Lexus">
-                            <p>Lexus</p>
+                            <a href="<?= home_path(); ?>cars/lexus-car-transport-service"><img src="<?= get_img() ?>Lexus-logo-removebg-preview.png" alt="lexus car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/lexus-car-transport-service">
+                                <p>Lexus</p>
+                            </a>
 
                         </div>
                     </li>
@@ -270,21 +279,24 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>lotus-car-logo-removebg-preview.png" alt="lotus">
-                            <p>Lotus</p>
+                            <a href="<?= home_path(); ?>cars/lotus-car-transport-service"><img src="<?= get_img() ?>lotus-car-logo-removebg-preview.png" alt="lotus car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/lotus-car-transport-service">
+                                <p>lotus</p>
+                            </a>
 
                         </div>
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>maserati-logo-img-removebg-preview.png" alt="maserati">
-                            <p>Maserati</p>
+                            <a href="<?= home_path(); ?>cars/maserati-car-transport-services"><img src="<?= get_img() ?>maserati-logo-img-removebg-preview.png" alt="maserati car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/maserati-car-transport-services">
+                                <p>Maserati</p>
+                            </a>
 
                         </div>
                     </li>
                     <li>
                         <div class="cars-img-name">
-
                             <a href="<?= home_path(); ?>cars/mazda"><img src="<?= get_img() ?>mazda_PNG86-removebg-preview.png" alt="mazda"></a>
                             <a href="<?= home_path(); ?>cars/mazda">
                                 <p>Mazda</p>
@@ -294,8 +306,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Mercedes-Benz-car-logo-removebg-preview.png" alt="Mercedes">
-                            <p>Mercedes-Benz</p>
+                            <a href="<?= home_path(); ?>cars/mercedes-benz-car-transport-service"><img src="<?= get_img() ?>Mercedes-Benz-car-logo-removebg-preview.png" alt="mercedes benz car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/mercedes-benz-car-transport-service">
+                                <p>Mercedes-Benz</p>
+                            </a>
 
                         </div>
                     </li>

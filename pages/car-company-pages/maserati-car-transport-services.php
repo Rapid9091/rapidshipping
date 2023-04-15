@@ -16,7 +16,7 @@
     <meta property="og:title" content="Best Maserati Car Transport Services" />
     <meta property="og:description"
         content="Rapid Auto Shipping has collaborated with numerous organizations, businesses, and people to provide them with an all-inclusive, Maserati car transport service." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/maserati-car-transport-services" />
+    <meta property="og:url" content="https://rapidautoshipping.com/cars/maserati-car-transport-services" />
     <meta property="og:site_name" content="Best Maserati Car Transport Services" />
     <meta name='robots' content='index' />
     <meta name="keywords"

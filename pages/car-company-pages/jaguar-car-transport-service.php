@@ -14,7 +14,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Jaguar Car Transport Services | +1-833-233-4447" />
     <meta property="og:description" content="Rapid Auto Shipping offers a car transport service from today's lightweight performance vehicles to classic Jags of yore." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/jaguar-car-transport-service" />
+    <meta property="og:url" content="https://rapidautoshipping.com/cars/jaguar-car-transport-service" />
     <meta property="og:site_name" content="Best Jaguar Car Transport Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content=" car transport service, car shipping,Best Jaguar Car Transport Services, car shipping cost, auto transport , vehicle transport services"/>
