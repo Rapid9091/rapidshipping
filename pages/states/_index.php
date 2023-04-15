@@ -94,7 +94,7 @@ if (isset($_GET['page_id'])) {
 
 
             </div>
-            <div style="display:grid;
+            <div id="banner_form_small" style="display:grid;
                 place-items:center;">
                 <?php include small_form_new ;?>
             </div>
