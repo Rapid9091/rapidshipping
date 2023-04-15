@@ -25,7 +25,7 @@ if (isset($_GET['page_id'])) {
     <?= $data['meta']; ?> 
     <?php include_once new_head; ?>
     <!-- <link rel="stylesheet" href="<?= get_css(); ?>Page_state_new.min.css"> -->
-    <link rel="stylesheet" href="<?= get_css(); ?>state_new.min.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>new_state.min.css">
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400&display=swap" rel="stylesheet" defer/>
 
@@ -176,9 +176,9 @@ if (isset($_GET['page_id'])) {
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-                <h2 class="heading-1">
+                <h2 class="heading-1"><strong>
                     <?=$data['h2'];?>
-                </h2>
+                    </strong></h2>
                 <p class="para-2">
                     <?= $data['h2_about'];?>
                 </p>
@@ -258,8 +258,8 @@ if (isset($_GET['page_id'])) {
 
 
     <div class="more-califrnian-cities-code">
-        <h2 class="alabama-city-code-heading">
-            Popular Auto Transportation <span>Cities</span> In Alabama
+        <h2 class="alabama-city-code-heading" style="text-transform:capitalize">
+            Popular Auto Transportation <span>Cities</span> In <?= $data['slug'];?>
         </h2>
         <?php
           $json = $data['city_zipcode'];
