@@ -8,6 +8,11 @@
     <title>Document</title>
     <style>
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+  body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
 .policy-container{
     padding: 50px;
     background-color: #80808021;
