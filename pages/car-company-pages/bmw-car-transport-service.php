@@ -16,7 +16,7 @@
     <meta property="og:title" content="Best BMW Car Transport Services | +1-833-233-4447" />
     <meta property="og:description"
         content="Moving these diamonds from point A to point B requires tremendous accuracy! You must use a reputable luxury BMW car transport service." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/bmw-car-transport-service" />
+    <meta property="og:url" content="https://rapidautoshipping.com/cars/bmw-car-transport-service" />
     <meta property="og:site_name" content="Best BMW Car Transport Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords"

@@ -14,7 +14,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best McLaren Car Transport Services | +1-833-233-4447" />
     <meta property="og:description" content="For car transport service of high-performance cars like the McLaren 12C, Rapid Auto transporting is the finest auto delivery business." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/mclaren-car-transport-service" />
+    <meta property="og:url" content="https://rapidautoshipping.com/cars/mclaren-car-transport-service" />
     <meta property="og:site_name" content="Best McLaren Car Transport Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car transport service, car shipping, Best McLaren Car Transport Services, car shipping cost, auto transport , vehicle transport services" />
