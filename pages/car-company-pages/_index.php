@@ -216,6 +216,11 @@
                             <img src="<?= get_img() ?>jaguar-car-logo.png" alt="jaguar auto trnansport">
                             <p>Jaguar</p>
 
+                            <a href="<?= home_path(); ?>cars/jaguar-car-transport-service"><img src="<?= get_img() ?>jaguar-car-logo.png" alt="jaguar car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/jaguar-car-transport-service">
+                                <p>jaguar</p>
+                            </a>
+
                         </div>
                     </li>
                     <li>
