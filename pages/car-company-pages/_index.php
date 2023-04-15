@@ -153,6 +153,16 @@
 
                         </div>
                     </li>
+                    <li>
+                        <div class="cars-img-name">
+                            <a href="<?= home_path(); ?>cars/bugatti-car-transport-service"><img src="<?= get_img() ?>Bugatti-logo-2560x1440.webp" alt="bugatti car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/bugatti-car-transport-service">
+                                <p>Bugatti</p>
+                            </a>
+
+                        </div>
+                    </li>
+                    
 
 
 
@@ -187,8 +197,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>hummer-removebg-preview.png" alt="hummer">
-                            <p>HUMMER</p>
+                            <a href="<?= home_path(); ?>cars/shelby-car-transport-service"><img src="<?= get_img() ?>shelby-removebg-preview.webp" alt="shelby-car-transport-service"></a>
+                            <a href="<?= home_path(); ?>cars/shelby-car-transport-service">
+                                <p>Shelby</p>
+                            </a>
 
                         </div>
                     </li>
@@ -250,6 +262,14 @@
                             <img src="<?= get_img() ?>land-rover-logo-removebg-preview.png" alt="land rover">
                             <p>Land Rover</p>
 
+                        </div>
+                    </li>
+                    <li>
+                        <div class="cars-img-name">
+                            <a href="<?= home_path(); ?>cars/bmw-car-transport-service"><img src="<?= get_img() ?>bmw-removebg-preview.webp" alt="bmw-car-transport-service"></a>
+                            <a href="<?= home_path(); ?>cars/bmw-car-transport-service">
+                                <p>BMW</p>
+                            </a>
                         </div>
                     </li>
 
@@ -342,8 +362,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Polestar-car-img-removebg-preview.png" alt="Polestar">
-                            <p>Polestar</p>
+                            <a href="<?= home_path(); ?>cars/corvette-car-transport-service"><img src="<?= get_img() ?>corvette-removebg-preview.webp" alt="corvette car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/corvette-car-transport-service">
+                                <p>Corvette</p>
+                            </a>
 
                         </div>
                     </li>
@@ -354,7 +376,15 @@
 
                         </div>
                     </li>
+                    <li>
+                        <div class="cars-img-name">
+                            <a href="<?= home_path(); ?>cars/koenigsegg-car-transport-service"><img src="<?= get_img() ?>koenigsegg-removebg-preview.webp" alt="koenigsegg car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/koenigsegg-car-transport-service">
+                                <p>Koenigsegg</p>
+                            </a>
 
+                        </div>
+                    </li>
 
 
 
@@ -450,6 +480,15 @@
                         <div class="cars-img-name">
                             <img src="<?= get_img() ?>Volvo-car-logo-removebg-preview.png" alt="Volvo car">
                             <p>Volvo</p>
+
+                        </div>
+                    </li>
+                    <li>
+                        <div class="cars-img-name">
+                        <a href="<?= home_path(); ?>cars/mclaren-car-transport-service"><img src="<?= get_img() ?>McLaren-Logo-1998-removebg-preview.webp" alt="mclaren car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/mclaren-car-transport-service">
+                                <p>Mclaren</p>
+                            </a>
 
                         </div>
                     </li>
