@@ -14,7 +14,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Koenigsegg Car Transport Services | +1-833-233-4447" />
     <meta property="og:description" content="Rapid Auto Shipping provides the most affordable transportation prices to anyone seeking to move a luxury car transport services within your budget." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/koenigsegg-car-transport-service" />
+    <meta property="og:url" content="https://rapidautoshipping.com/cars/koenigsegg-car-transport-service" />
     <meta property="og:site_name" content="Best Koenigsegg Car Transport Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car transport service, car shipping, Best Koenigsegg Car Transport Services, car shipping cost, auto transport , vehicle transport services" />

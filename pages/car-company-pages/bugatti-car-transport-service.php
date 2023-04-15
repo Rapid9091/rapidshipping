@@ -14,7 +14,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Best Bugatti Car Transport Services | +1-833-233-4447" />
 <meta property="og:description" content="Rapid Auto Shipping provides unique car transport services throughout the United States. Bugatti automotive transportation needs unique care and attention." />
-<meta property="og:url" content="https://rapidautoshipping.com/services/bugatti-car-transport-service" />
+<meta property="og:url" content="https://rapidautoshipping.com/cars/bugatti-car-transport-service" />
 <meta property="og:site_name" content="Best Bugatti Car Transport Services | +1-833-233-4447" />
 <meta name='robots' content='index' />
 <meta name="keywords" content=" car transport service, car shipping,Best Bugatti Car Transport Services, car shipping cost, auto transport , vehicle transport services" />

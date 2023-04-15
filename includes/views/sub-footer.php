@@ -152,7 +152,7 @@
             <ul>
                 <li><a href="<?= home_path(); ?>sitemap.xml">Sitemap</a></li>
                 
-                <li><a href="<?= home_path(); ?>">Privacy Policy</a></li>
+                <li><a href="<?= home_path(); ?>privacy-policy">Privacy Policy</a></li>
                 <li><a href="<?= home_path(); ?>">Terms of Use</a></li>
                 <li><a href="<?= home_path(); ?>">Terms and Conditions</a></li>
                 <li><a href="<?= home_path(); ?>">Testimonials</a></li>

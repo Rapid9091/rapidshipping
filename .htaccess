@@ -124,6 +124,7 @@ ReWriteRule ^blogs([/]?)$ pages/blogs/_index.php [NC,L]
 
 # This route work for all aboutus page
 ReWriteRule ^about-us([/]?)$ pages/about-us.php [NC,L]
+ReWriteRule ^privacy-policy([/]?)$ pages/privacy-policy.php [NC,L]
     
 # This route work for all contactus 
 ReWriteRule ^contact-us([/]?)$ pages/contactus.php [NC,L]

@@ -14,7 +14,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Best Corvette Car Transport Services | +1-833-233-4447" />
 <meta property="og:description" content="Car transportation needs a lot of care and consideration. We have extensive knowledge of what you want when you need car transport services." />
-<meta property="og:url" content="https://rapidautoshipping.com/services/corvette-car-transport-service" />
+<meta property="og:url" content="https://rapidautoshipping.com/cars/corvette-car-transport-service" />
 <meta property="og:site_name" content="Best Corvette Car Transport Services | +1-833-233-4447" />
 <meta name='robots' content='index' />
 <meta name="keywords" content="car transport service, car shipping,Best Corvette Car Transport Services, car shipping cost, auto transport , vehicle transport services" />
