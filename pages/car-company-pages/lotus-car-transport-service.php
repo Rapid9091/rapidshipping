@@ -16,7 +16,7 @@
     <meta property="og:title" content="Best Lotus Car Transport Services | +1-833-233-4447" />
     <meta property="og:description"
         content="Rapid Auto Shipping provides prompt and dependable car transport services in the country. We also provide our customers with Junk Car Removal services in the country." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/lotus-car-transport-service" />
+    <meta property="og:url" content="https://rapidautoshipping.com/cars/lotus-car-transport-service" />
     <meta property="og:site_name" content="Best Lotus Car Transport Services | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords"

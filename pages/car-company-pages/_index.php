@@ -272,8 +272,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>lotus-car-logo-removebg-preview.png" alt="lotus">
-                            <p>Lotus</p>
+                            <a href="<?= home_path(); ?>cars/lotus-car-transport-service"><img src="<?= get_img() ?>lotus-car-logo-removebg-preview.png" alt="lotus car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/lotus-car-transport-service">
+                                <p>lotus</p>
+                            </a>
 
                         </div>
                     </li>
@@ -286,7 +288,6 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-
                             <a href="<?= home_path(); ?>cars/mazda"><img src="<?= get_img() ?>mazda_PNG86-removebg-preview.png" alt="mazda"></a>
                             <a href="<?= home_path(); ?>cars/mazda">
                                 <p>Mazda</p>
