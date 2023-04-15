@@ -281,8 +281,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>maserati-logo-img-removebg-preview.png" alt="maserati">
-                            <p>Maserati</p>
+                            <a href="<?= home_path(); ?>cars/maserati-car-transport-services"><img src="<?= get_img() ?>maserati-logo-img-removebg-preview.png" alt="maserati car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/maserati-car-transport-services">
+                                <p>Maserati</p>
+                            </a>
 
                         </div>
                     </li>
