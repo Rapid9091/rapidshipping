@@ -14,7 +14,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Best Alfa Romeo Car Transport Services | +1-833-233-4447" />
 <meta property="og:description" content="Rapid Auto Shipping meets your transportation requirements by providing the best car transport services for Alfa Romero luxury cars. Call  ( +1-833-233-4447 ) Rapid Auto Shipping immediately." />
-<meta property="og:url" content="https://rapidautoshipping.com/services/alfa-romeo-car-transport-service" />
+<meta property="og:url" content="https://rapidautoshipping.com/cars/alfa-romeo-car-transport-service" />
 <meta property="og:site_name" content="Best Alfa Romeo Car Transport Services | +1-833-233-4447" />
 <meta name='robots' content='index' />
 <meta name="keywords" content="car transport service, car shipping, Best Alfa Romeo Car Transport Services, car shipping cost, auto transport , vehicle transport services"/>

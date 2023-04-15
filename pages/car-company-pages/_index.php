@@ -62,6 +62,11 @@
                             <img src="<?= get_img() ?>Alfa-Romeo-logo-PNG-Hd-Image.png" alt="romeo image - Rapid Auto Shipping">
                             <p>Alfa Romeo</p>
 
+                            <a href="<?= home_path(); ?>cars/alfa-romeo-car-transport-service"><img src="<?= get_img() ?>Alfa-Romeo-logo-PNG-Hd-Image.png" alt="alfa-romeo car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/alfa-romeo-car-transport-service">
+                                <p>Alfa-Romeo</p>
+                            </a>
+
                         </div>
                     </li>
                     <li>
