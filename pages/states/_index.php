@@ -25,7 +25,7 @@ if (isset($_GET['page_id'])) {
     <?= $data['meta']; ?> 
     <?php include_once new_head; ?>
     <!-- <link rel="stylesheet" href="<?= get_css(); ?>Page_state_new.min.css"> -->
-    <link rel="stylesheet" href="<?= get_css(); ?>Page_state_new.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>state_new.min.css">
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400&display=swap" rel="stylesheet" defer/>
 
@@ -87,14 +87,14 @@ if (isset($_GET['page_id'])) {
                 </p>
 
                 <div class="banner-review-images">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo" loading="lazy" width="225px" height="107px" class="truspilot_logo">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy" width="225px" height="99px">
-                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy" width="225px" height="66px" class="crunchbase_logo">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo" loading="lazy" width="150px" height="71px" class="truspilot_logo">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo" loading="lazy" width="150px" height="66px" class="google_logo">
+                <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo" loading="lazy" width="150px" height="44px" class="crunchbase_logo">
                     </div>
 
 
             </div>
-            <div style="display:grid;
+            <div id="banner_form_small" style="display:grid;
                 place-items:center;">
                 <?php include small_form_new ;?>
             </div>
@@ -373,12 +373,7 @@ if (isset($_GET['page_id'])) {
         <div class="faq">FACTS & QUESTIONS</div>
 
         <div class="container">
-            <div class="box">
-                <span>How Long Will It Take to Ship My Car To or From Alabama?</span>
-                <i class='bx bx-plus'></i>
-            </div>
-            <p class="para-faq">It normally takes two to four days to ship your car within Alabama or to other cities in neigh boring states. Shipping a car from Huntsville to Montgomery, for example, will take one to two days. Sending your vehicle across the nation, on the other hand, could take much longer.
-             <br>For example, it takes six to eight days to move a car from Alabama to San Francisco. These delivery periods, however, do not account for the chance of natural catastrophes. Flooding or storms can have a significant effect on delivery rates and create shipment delays.</p>
+            
             <div class="box">
                 <span>What Kind of Paperwork Will I Need?</span>
                 <i class='bx bx-plus'></i>
@@ -417,10 +412,12 @@ if (isset($_GET['page_id'])) {
     </div>
 
     <!-- back to top button -->
-    <div class="b_top">
-    <i class='bx bxs-phone' style="font-size: 20px;"></i>
+    <div class="b-top-button">
+        <div class="b_top">
+            <i class='bx bxs-phone' style="font-size: 20px;"></i>
             <a href="tel:+1-833-233-4447">+1-833-233-4447</a>
         
+        </div>
     </div>
 
     <!----------------page bottom ------------------>
