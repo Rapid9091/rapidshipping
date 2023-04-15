@@ -215,7 +215,7 @@
                         <div class="cars-img-name">
                             <a href="<?= home_path(); ?>cars/jaguar-car-transport-service"><img src="<?= get_img() ?>jaguar-car-logo.png" alt="jaguar car transport service"></a>
                             <a href="<?= home_path(); ?>cars/jaguar-car-transport-service">
-                                <p>jaguar</p>
+                                <p>Jaguar</p>
                             </a>
 
                         </div>
@@ -258,8 +258,10 @@
                 <ul>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Lexus-logo-removebg-preview.png" alt="Lexus">
-                            <p>Lexus</p>
+                            <a href="<?= home_path(); ?>cars/lexus-car-transport-service"><img src="<?= get_img() ?>Lexus-logo-removebg-preview.png" alt="lexus car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/lexus-car-transport-service">
+                                <p>Lexus</p>
+                            </a>
 
                         </div>
                     </li>
