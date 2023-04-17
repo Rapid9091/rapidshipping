@@ -20,19 +20,23 @@ if (isset($_GET['page_id'])) {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?= $data['title'] ?></title>
+    <title>
+        <?= $data['title'] ?>
+    </title>
 
     <?= $data['meta'] ?>
-    <link rel="canonical" href="<?= home_path() . "state-to-state/" . $data['slug'] ?>" />
+    <link rel="canonical" href="<?= home_path() . " state-to-state/" . $data['slug'] ?>" />
 
 
     <?php include_once new_head; ?>
-    
+
 
     <link rel="stylesheet" href="<?= get_css(); ?>new_state.min.css" defer>
     <link rel="stylesheet" href="<?= get_css(); ?>how_it_works.css" defer>
 
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400&display=swap" rel="stylesheet" defer/>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400&display=swap"
+        rel="stylesheet" defer />
 
     <!-- ------------------------------ -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
@@ -54,6 +58,7 @@ if (isset($_GET['page_id'])) {
             background-repeat: no-repeat;
             background-size: cover;
         }
+
         /* .key-holding {
     margin: 2% 0;
     background-image: url("<?= get_img();?>/car-key-new1.jpeg");
@@ -85,46 +90,65 @@ if (isset($_GET['page_id'])) {
 
 <body>
 
-<!------------------ header --------------------->
+    <!------------------ header --------------------->
     <?php include header; ?>
 
-<!------------- banner --------------------->
-        <?php
+    <!------------- banner --------------------->
+    <?php
         $NAME = $data['page_h1'];
         $PARAGRAPH = $data['page_about_1'];
         ?>
-        <section class="contact-us-header-page" id="banner_form">
+    <section class="contact-us-header-page" id="banner_form">
 
-            <div class="third-section-state">
-
-
-                <div class="third-section-content">
-
-                    <h1 class="third-section-content-heading">
-
-                        <?php echo $NAME; ?></h1>
+        <div class="third-section-state">
 
 
-                    <p class="third-section-content-text"><?php echo $PARAGRAPH;?></p>
+            <div class="third-section-content">
+
+                <h1 class="third-section-content-heading">
+
+                    <?php echo $NAME; ?>
+                </h1>
 
 
+                <p class="third-section-content-text" style=" overflow: hidden;
+                text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 5;
+           line-clamp: 5; 
+   -webkit-box-orient: vertical;
+   padding:1% 0">
+                    <?php echo $PARAGRAPH;?>
+                </p>
+
+                <div class="banner-review-images">
+                    <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo"
+                        loading="lazy" width="150px" height="71px" class="truspilot_logo">
+                    <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo"
+                        loading="lazy" width="150px" height="66px" class="google_logo">
+                    <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo"
+                        loading="lazy" width="150px" height="44px" class="crunchbase_logo">
                 </div>
-                <div style="display:grid;
-                place-items:center;">
-                    <?php include small_form_new ;?>
-                </div>
-
 
 
             </div>
-        </section>
+            <div style="display:grid;
+                place-items:center;">
+                <?php include small_form_new ;?>
+            </div>
 
-<!-------------feature strip ----------------->
-<section class="secure">
+
+
+        </div>
+    </section>
+
+    <!-------------feature strip ----------------->
+    <section class="secure">
         <div class="main flex">
             <div class="first flex">
                 <div class="first-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/dollar-symbol.webp" alt=" dollar" loading="lazy" width="50px" height="50px">
+                    <img src="<?=get_img()?>state-to-state/dollar-symbol.webp" alt=" dollar" loading="lazy" width="50px"
+                        height="50px">
                 </div>
                 <div class="first-2">
                     <div class="heading">
@@ -138,7 +162,8 @@ if (isset($_GET['page_id'])) {
             </div>
             <div class="second flex">
                 <div class=" second-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/calendar.png" alt="calendar" loading="lazy" width="50px" height="50px">
+                    <img src="<?=get_img()?>state-to-state/calendar.png" alt="calendar" loading="lazy" width="50px"
+                        height="50px">
                 </div>
                 <div class="second-2">
                     <div class="heading">
@@ -152,7 +177,8 @@ if (isset($_GET['page_id'])) {
             </div>
             <div class="third flex">
                 <div class="third-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/distance.webp" alt="distance" loading="lazy" width="50px" height="50px">
+                    <img src="<?=get_img()?>state-to-state/distance.webp" alt="distance" loading="lazy" width="50px"
+                        height="50px">
                 </div>
                 <div class="third-2">
                     <div class="heading">
@@ -167,7 +193,8 @@ if (isset($_GET['page_id'])) {
             </div>
             <div class="forth flex">
                 <div class="fourt-1 strip_logo">
-                    <img src="<?=get_img()?>state-to-state/shield.webp" alt="sheild" loading="lazy" width="50px" height="50px">
+                    <img src="<?=get_img()?>state-to-state/shield.webp" alt="sheild" loading="lazy" width="50px"
+                        height="50px">
                 </div>
                 <div class="forth-2">
                     <div class="heading">
@@ -186,79 +213,87 @@ if (isset($_GET['page_id'])) {
 
     <?php include_once review2 ;?>
 
-<!---------------how it works ------------------>
+    <!---------------how it works ------------------>
     <section class="how_it_works_section">
-      <div class="how_heading">
-        <div class="text-center" >
-          <h3 class="how_head">How It Works</h3>
-          <p class="how_subtitle">We make car shipping cheap and easy by helping customers directly connect with auto transport carriers. We load, haul &amp; deliver anything on wheels.</p>
+        <div class="how_heading">
+            <div class="text-center">
+                <h3 class="how_head">How It Works</h3>
+                <p class="how_subtitle">We make car shipping cheap and easy by helping customers directly connect with
+                    auto transport carriers. We load, haul &amp; deliver anything on wheels.</p>
+            </div>
         </div>
-      </div>
-            <div class="howItWorkHome width">
-                <div class="container homeContainer">
-                    <div class="width stepsHow">
-                        <div class="item">
-                            <span class="stepsCount">1</span>
-                            <div class="img">
-                                <img src="<?= get_img()?>state-to-state/car.png" alt="">
-                            </div>
-                            <div class="text">
-                                <span class="titleItem">Request Quotes</span>
-                                <p>
-                                    Set your pickup and destination locations and indicate what vehicle you need to ship.
-                                </p>
-                            </div>
+        <div class="howItWorkHome width">
+            <div class="container homeContainer">
+                <div class="width stepsHow">
+                    <div class="item">
+                        <span class="stepsCount">1</span>
+                        <div class="img">
+                            <img src="<?= get_img()?>state-to-state/car.webp" alt="car" class="how_car">
                         </div>
-                        <div class="item">
-                            <span class="stepsCount">2</span>
-                            <div class="img">
-                                <img src="<?= get_img()?>state-to-state/calculation.png" alt="">
-                            </div>
-                            <div class="text">
-                                <span class="titleItem">Get Instant Prices From Top Carriers</span>
-                                <p>
-                                    Our system will automatically show you nearest carriers and instantly show you price quotes.
-                                </p>
-                            </div>
+                        <div class="text">
+                            <span class="titleItem">Request Quotes</span>
+                            <p>
+                                Set your pickup and destination locations and indicate what vehicle you need to ship.
+                            </p>
                         </div>
-                        <div class="item">
-                            <span class="stepsCount">3</span>
-                            <div class="img">
-                                <img src="<?= get_img()?>state-to-state/shipping.png" alt="">
-                            </div>
-                            <div class="text">
-                                <span class="titleItem">Book Online</span>
-                                <p>
-                                    Book your shipment online. Driver will get in touch with you right away to schedule pickup and delivery timeframes.
-                                </p>
-                            </div>
+                    </div>
+                    <div class="item">
+                        <span class="stepsCount">2</span>
+                        <div class="img">
+                            <img src="<?= get_img()?>state-to-state/calculation.webp" alt="calculation"
+                                class="how_calculation">
                         </div>
-                        <div class="item">
-                            <span class="stepsCount">4</span>
-                            <div class="img">
-                                <img src="<?= get_img()?>state-to-state/delivery.png" alt="">
+                        <div class="text">
+                            <span class="titleItem">Get Instant Prices From Top Carriers</span>
+                            <p>
+                                Our system will automatically show you nearest carriers and instantly show you price
+                                quotes.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <span class="stepsCount">3</span>
+                        <div class="img">
+                            <img src="<?= get_img()?>state-to-state/shipping.webp" alt="shipping" class="how_shippping">
+                        </div>
+                        <div class="text">
+                            <span class="titleItem">Book Online</span>
+                            <p>
+                                Book your shipment online. Driver will get in touch with you right away to schedule
+                                pickup and delivery timeframes.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <span class="stepsCount">4</span>
+                        <div class="img">
+                            <img src="<?= get_img()?>state-to-state/delivery.webp" alt="delivery" class="how_delivery">
                             </div>
-                            <div class="text">
-                                <span class="titleItem">Rate Your Carrier After Delivery</span>
-                                <p>
-                                    Tell us about your experience and help other customers make the right decision!
-                                </p>
-                            </div>
+                            <div class=" text">
+                            <span class="titleItem">Rate Your Carrier After Delivery</span>
+                            <p>
+                                Tell us about your experience and help other customers make the right decision!
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
-        
-        
+        </div>
+
+
     </section>
 
- <!---------- parent grid section start---------->
+    <!---------- parent grid section start---------->
 
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-            <h2 class="heading-1"><?= $data['page_h2'] ?></h2>
-                <p class="para-2"><?= $data['page_about_2'] ?> </p>
+                <h2 class="heading-1">
+                    <?= $data['page_h2'] ?>
+                </h2>
+                <p class="para-2">
+                    <?= $data['page_about_2'] ?>
+                </p>
             </div>
 
             <div class="points-div " id="top-section">
@@ -280,7 +315,9 @@ if (isset($_GET['page_id'])) {
 
                     ?>
 
-                    <li><a href="#step">How to ship Vehicle <span><?= $data['state_form'] . " to " . $data['state_to'] ?></span>?</a></li>
+                    <li><a href="#step">How to ship Vehicle <span>
+                                <?= $data['state_form'] . " to " . $data['state_to'] ?>
+                            </span>?</a></li>
 
 
                 </ul>
@@ -289,11 +326,12 @@ if (isset($_GET['page_id'])) {
             <!-- section from which shipping started here -->
             <section class="first-state-to-state">
                 <div class="shipping-form-state-image">
-                  <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_form_img'] ?>" alt="<?= $data['state_form_img_alt'] ?>" />
+                    <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_form_img'] ?>"
+                        alt="<?= $data['state_form_img_alt'] ?>" />
 
                 </div>
                 <ul>
-                <?php
+                    <?php
                     if (isset($json_decoded)) {
                         foreach ($json_decoded as $result) {
                             echo '<li id="' . $result->index . '">
@@ -307,32 +345,46 @@ if (isset($_GET['page_id'])) {
                         }
                     }
                     ?>
-                  
-                
-                  
+
+
+
                     <li id="step">
                         <div class="shipping-form-state-content">
-                            <h3 class="heading-1">How to ship Vehicle <span><?= $data['state_form'] . " to " . $data['state_to'] ?></span>?</h3>
-                            <p class="para-2">It's as simple as 1-2-3 to ship a car from <?= $data['state_form'] . " to " . $data['state_to'] ?> with Rapid Auto Shipping.
+                            <h3 class="heading-1">How to ship Vehicle <span>
+                                    <?= $data['state_form'] . " to " . $data['state_to'] ?>
+                                </span>?</h3>
+                            <p class="para-2">It's as simple as 1-2-3 to ship a car from
+                                <?= $data['state_form'] . " to " . $data['state_to'] ?> with Rapid Auto Shipping.
                                 <br><br>
-                                <b>Step 1:</b> Get a quick auto shipment quote for <?= $data['state_form'] . " to " . $data['state_to'] ?> Auto Shipping and schedule a pickup time that works for you.
-                                With our online quote form, you can easily get a quote, enter your origin and destination, choose your shipping dates, and book your reservation online or over the phone for your <?= $data['state_form'] . " to " . $data['state_to'] ?> car shipping!
+                                <b>Step 1:</b> Get a quick auto shipment quote for
+                                <?= $data['state_form'] . " to " . $data['state_to'] ?> Auto Shipping and schedule a
+                                pickup time that works for you.
+                                With our online quote form, you can easily get a quote, enter your origin and
+                                destination, choose your shipping dates, and book your reservation online or over the
+                                phone for your
+                                <?= $data['state_form'] . " to " . $data['state_to'] ?> car shipping!
                                 <br><br>
-                                <b>Step 2:</b> Your vehicle will be picked up from a certain place in <?= $data['state_form'] ?>.
-                                Your vehicle will be thoroughly inspected and put onto the carrier on the day of pickup. Our direct service allows us to pick up from any home or company in <?= $data['state_form'] ?>.
+                                <b>Step 2:</b> Your vehicle will be picked up from a certain place in
+                                <?= $data['state_form'] ?>.
+                                Your vehicle will be thoroughly inspected and put onto the carrier on the day of pickup.
+                                Our direct service allows us to pick up from any home or company in
+                                <?= $data['state_form'] ?>.
                                 <br><br>
-                                <b>Step 3:</b> Your vehicle is delivered to the address you provide in <?= $data['state_to'] ?>.
-                                Your vehicle will be offloaded safely, and a final examination will be performed to ensure that it was delivered in the same condition as when it was picked up.
+                                <b>Step 3:</b> Your vehicle is delivered to the address you provide in
+                                <?= $data['state_to'] ?>.
+                                Your vehicle will be offloaded safely, and a final examination will be performed to
+                                ensure that it was delivered in the same condition as when it was picked up.
                             </p>
                         </div>
 
                     </li>
 
-                    
+
                 </ul>
 
                 <div class="shipping-form-state-image">
-                <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_to_img'] ?>" alt="<?= $data['state_to_img_alt'] ?>" />
+                    <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_to_img'] ?>"
+                        alt="<?= $data['state_to_img_alt'] ?>" />
                 </div>
             </section>
 
@@ -340,13 +392,13 @@ if (isset($_GET['page_id'])) {
         </div>
 
         <div class="right-state-to-state-child" id="right-state-to-state-child">
-           <div class="form_div">
-             <?php
+            <div class="form_div">
+                <?php
                 include side_form_new ;
                 // include side_form;
              ?>
             </div>
-           
+
         </div>
     </div>
 
@@ -360,36 +412,40 @@ if (isset($_GET['page_id'])) {
 
     </div>
 
-<!-- ------------call to action  ----------------->
+    <!-- ------------call to action  ----------------->
 
-<?php include car_key_section; ?>
+    <?php include car_key_section; ?>
 
 
-   <!---------------- Advantages section--------- -->
+    <!---------------- Advantages section--------- -->
     <!-- ------------------------ -->
     <section class="rapid-advantages-section" style="margin-top:3%">
         <div class="rapid-advantages-grid-container">
             <h2 class="heading-1">Advantages using <span>Rapid Auto Shipping</span></h2>
             <div class="rapid-advantages-grid utility_grid utility_grid-4">
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/rating.webp" alt="best car shipping in USA" loading="lazy" width="80px" height="80px">
+                    <img src="<?= get_img() ?>icons/rating.webp" alt="best car shipping in USA" loading="lazy"
+                        width="80px" height="80px">
                     <h3>Top Rated Auto Shipping Company</h3>
                     <p>We have thousands of 5-star reviews for exceptional vehicle shipping services.</p>
                 </div>
 
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/auto-insurance-icon.webp" alt="best car shipping in USA" loading="lazy" width="80px" height="80px">
+                    <img src="<?= get_img() ?>icons/auto-insurance-icon.webp" alt="best car shipping in USA"
+                        loading="lazy" width="80px" height="80px">
                     <h3>Complete Vehicle Coverage</h3>
                     <p>We offer the most comprehensive coverage options for complete peace of mind.</p>
                 </div>
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/savings-icon.webp" alt="best car shipping in USA" loading="lazy" width="80px" height="80px">
+                    <img src="<?= get_img() ?>icons/savings-icon.webp" alt="best car shipping in USA" loading="lazy"
+                        width="80px" height="80px">
                     <h3>No Up-Front Deposit Required</h3>
                     <p>You don't pay a penny until the day your shipment is scheduled for pickup.</p>
                 </div>
 
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/online-tracking.webp" alt="Albama to alaska shipping" loading="lazy" width="80px" height="80px">
+                    <img src="<?= get_img() ?>icons/online-tracking.webp" alt="Albama to alaska shipping" loading="lazy"
+                        width="80px" height="80px">
                     <h3>24/7 Online Shipment Tracking</h3>
                     <p>You can track the status of your shipment online anytime at your convenience.</p>
                 </div>
@@ -400,8 +456,8 @@ if (isset($_GET['page_id'])) {
 
 
 
- <!---------------- state names for all the states ---------->
- <section class="all-state-name-page-mains" style="margin:3%;">
+    <!---------------- state names for all the states ---------->
+    <section class="all-state-name-page-mains" style="margin:3%;">
         <section class="all-state-name-pages">
             <h2 class="heading-1">
                 Auto shipping <span>States</span> in USA </h2>
@@ -481,20 +537,65 @@ if (isset($_GET['page_id'])) {
         </section>
     </section>
 
-        <!-- back to top button -->
+    <!--  faq section -->
+    <div class="body">
+
+
+        <div class="faq">FACTS & QUESTIONS</div>
+
+        <div class="container">
+            
+            <div class="box">
+                <span>What Kind of Paperwork Will I Need?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">When transporting automobiles from one state to another, a bill of lading - or, as previously stated, a vehicle health report - is required. Every car transporter carries one with them, either online or on paper, for each vehicle they move. You will also receive a duplicate.
+            <br>Provide no ownership or certificate of sale. The deal with the car transport provider will say that you are authorizing them to send the car whether or not the owner is in your name. When purchasing from a sale or a vendor, keep the title and car transport services distinct. You don't want papers to get lost or overlooked, so have the title shipped straight to you!</p>
+            <div class="box">
+                <span>Can I put personal items in the car?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Yes, but only up to 100 pounds at a time and at your peril. Visit our help subject for shipping a vehicle with belongings to learn more.</p>
+            <div class="box">
+                <span>What Kind of Tracking Services Do You Offer?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">We offer a standard monitoring device to keep track of your car while it is in transit. You can monitor your shipment using the online tracking function 24/7. It's all part of our dedication to our clients. To monitor your vehicle shipment, please provide us with your tracking information, name, email address, and/or phone number.</p>
+            <div class="box">
+                <span>Is My Pick-Up or Delivery Date Guaranteed?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">Guaranteed pick-up is the best choice for those who want to prepare ahead of time and ensure that their vehicle arrives on time. The service is not inexpensive because it is tailored to your specific requirements.<br> You can choose the precise day your vehicle will be picked up with this service, which can save you time and money. Furthermore, you will have a piece of mind knowing that everything will go easily with your relocation.</p>
+            <div class="box">
+                <span>How Much Should I Expect to Spend on Shipping My Car?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The expense of car transport to or from Alabama is highly influenced by the sort of vehicle, the distance traveled, and the technique used. <br>Transporting a car from a greater distance costs more. Longer distances, on the other hand, may result in fewer average kilometres per dollar than shorter ones. <br>For a precise vehicle shipment price for Alabama, use our free instant car shipping estimate calculator above.</p>
+            <div class="box">
+                <span>Should I Expect Any Extra Charges Once My Car is Delivered?</span>
+                <i class='bx bx-plus'></i>
+            </div>
+            <p class="para-faq">The price is significantly influenced by the distance your vehicle is shipped. If you are shipping your vehicle from or to a remote place, you may be charged additional costs. Auto carriers, for example, may charge an extra fee to drive your vehicle to a less crowded area because it requires more time and is usually much farther away from the carrier's next location.</p>
+
+
+
+        </div>
+    </div>
+
+    <!-- back to top button -->
     <div class="b-top-button">
         <div class="b_top">
             <i class='bx bxs-phone' style="font-size: 20px;"></i>
             <a href="tel:+1-833-233-4447">+1-833-233-4447</a>
-        
+
         </div>
     </div>
 
     <!----------------page bottom ------------------>
     <?php include_once new_footer; ?>
     <?php include_once new_script; ?>
- <!-- owl curosel -->
- <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
+    <!-- owl curosel -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
         integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
