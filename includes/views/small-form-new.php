@@ -60,7 +60,7 @@
                 <input type="text" id="myInput3" class="input-ship" name="year" placeholder="Select an option" />
                 <div id="myList3">
                     <?php
-                    $end_year = 1985;
+                    $end_year = 1901;
                     $current_year = date("Y");
                      for($i= $current_year; $i > $end_year; $i--){
                         echo '<div data-value="'.$i.'">'.$i.'</div>';
@@ -201,7 +201,7 @@
         </div>
         <input type="hidden" id="path_distance" name="path_distance" value="">
         <div class="button-parent">
-            <input type="submit" class="input-button" value="Last Step" name="submit">
+            <input type="submit" class="input-button" value="Submit" name="submit">
         </div>
 
     </div>
