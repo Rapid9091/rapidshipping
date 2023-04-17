@@ -23,7 +23,7 @@
                     <a href="<?= home_path() ?>services">Services</a>
                 </li>
                 <li>
-                    <a href="<?= home_path() ?>cars">Vehicles</a>
+                    <a href="<?= home_path() ?>cars">We Ship</a>
                     <div class="sub-menu sub-menu-car">
                         <div class="sub-menu-child">
                             <ul>
@@ -54,6 +54,10 @@
                                 <li>
                                     <i class='bx bxs-car'></i>
                                     <a href="<?= home_path() ?>services/tractor-transport">Tractor</a>
+                                </li>
+                                <li>
+                                    <i class='bx bxs-car'></i>
+                                    <a href="<?= home_path() ?>services/heavy-equipment-shipping">Heavy Equipments</a>
                                 </li>
 
                             </ul>
