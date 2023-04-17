@@ -1,12 +1,7 @@
 <!-- cdn js links -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer"></script>
-
-
-
-
-
 <!-- project js init -->
-
+<link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css">
 <script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
 <script>
     //Customize your Notification  
@@ -23,15 +18,11 @@
     //Create a new Toastmejs class instance
     window = toast = new Toastme(config);
 
-    // AOS.init({
-    //     duration: 1000,
-    // });
-
     const domain = "<?= home_path() ?>";
 </script>
 
-<script async="true" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&libraries=places"></script>
-<script asynce="true" src="<?= get_js("Page_state_new.js") ?>"></script>
+<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&callback=Function.prototype&libraries=places" defer></script>
+<script  src="<?= get_js("Page_state_new.min.js") ?>" defer></script>
 
 
 <!--Start of Tawk.to Script-->
@@ -50,39 +41,6 @@
 </script>
 <!--End of Tawk.to Script-->
 
-
-<!-- schema  -->
-<script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://rapidautoshipping.com/blogs/cost-from-texas-to-california"
-        },
-        "headline": "Shipping Cost from Texas to California",
-        "description": "How much does it shipping from texas to california?",
-        "image": "https://rapidautoshipping.com/assets/images/66175-4.png",
-        "author": {
-            "@type": "Organization",
-            "name": "Rapid Auto Shipping",
-            "url": "https://rapidautoshipping.com"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "Rapid Auto Shipping",
-            "logo": {
-                "@type": "ImageObject",
-                "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
-            }
-        },
-        "datePublished": "2022-02-22",
-        "dateModified": "2022-03-22"
-    }
-</script>
-<!-- schema end -->
-
-
 <!-- google team manger link here -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script  src="https://www.googletagmanager.com/gtag/js?id=UA-230557003-1" defer></script>
@@ -92,7 +50,7 @@
     function gtag() {
         dataLayer.push(arguments);
     }
-    // gtag('js', new Date());
 
     gtag('config', 'UA-230557003-1');
 </script>
+

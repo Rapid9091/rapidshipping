@@ -131,7 +131,7 @@
                         <div data-value="Golf Cart"><img src="<?=get_img()?>cars_icon/golf-cart.png" alt="Golf Cart" width="64px" height="25px" loading="lazy">Golf Cart</div>
                         <div data-value="Dually Pickup"><img src="<?=get_img()?>cars_icon/dually-pickup.png" alt="Dually Pickup" width="64px" height="25px" loading="lazy">Dually Pickup</div>
                         <div data-value="MotorCycle"><img src="<?=get_img()?>cars_icon/motorcycle.png" alt="MotorCycle" width="64px" height="25px" loading="lazy">MotorCycle</div>
-                        <div data-value="Other"><img src="<?=get_img()?>cars_icon/others.png" alt="other" width="64px" height="25px" loading="lazy">Other</div>
+                        <div data-value="Other"><img src="<?=get_img()?>cars_icon/others.png" alt="other" width="40px" height="40px" loading="lazy">Other</div>
                     </div>
                 </div>
             </div>
