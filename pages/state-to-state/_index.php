@@ -26,22 +26,14 @@ if (isset($_GET['page_id'])) {
     <link rel="canonical" href="<?= home_path() . "state-to-state/" . $data['slug'] ?>" />
 
 
-    <?php include_once head; ?>
+    <?php include_once new_head; ?>
     
-    <link rel="stylesheet" href="<?= get_css(); ?>VIEW_header.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>PAGE_colorado-to-arizona.css">
-    <link rel="stylesheet" href="<?= get_css();?>review2.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>side-form.css">
-    <link rel="stylesheet" href="<?= get_css();?>how_it_works.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>VIEW_new-footer.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>global.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>utility.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>car-key-section.css">
-    <link rel="stylesheet" href="<?= get_css();?>new_state-to-state.css">
-    <link rel="stylesheet" href="<?= get_css();?>new-side-form.css">
-    <link rel="stylesheet" href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css">
-    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <!-- owl courosel -->
+
+    <link rel="stylesheet" href="<?= get_css(); ?>new_state.min.css" defer>
+    <link rel="stylesheet" href="<?= get_css(); ?>how_it_works.css" defer>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400&display=swap" rel="stylesheet" defer/>
+
     <!-- ------------------------------ -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
         integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
@@ -55,14 +47,14 @@ if (isset($_GET['page_id'])) {
         .contact-us-header-page {
             width: 100%;
             background-repeat: no-repeat, repeat;
-            background-image: url('<?= get_img() ?>car-shipping-header-image1.png');
+            background-image: url('<?= get_img() ?>car-shipping-header-image1.webp');
             background-blend-mode: lighten;
             position: relative;
             background-position: 100%;
             background-repeat: no-repeat;
             background-size: cover;
         }
-        .key-holding {
+        /* .key-holding {
     margin: 2% 0;
     background-image: url("<?= get_img();?>/car-key-new1.jpeg");
     background-position: center;
@@ -87,7 +79,7 @@ if (isset($_GET['page_id'])) {
     letter-spacing: 0.5px;
     margin: 2% 0;
     line-height: 1.8;
-}
+} */
     </style>
 </head>
 
@@ -127,71 +119,72 @@ if (isset($_GET['page_id'])) {
             </div>
         </section>
 
-<!---------------reviews --------------------->
-        <?php include_once review2 ;?>
-
 <!-------------feature strip ----------------->
-        <section class="secure">
-            <div class="main flex">
-                <div class="first flex">
-                    <div class="first-1 strip_logo">
-                        <img src="<?=get_img()?>state-to-state/dollar-symbol.png" alt="">
-                    </div>
-                    <div class="first-2">
-                        <div class="heading">
-                            <h5>PRICE MATCH</h5>
-                        </div>
-                        <div class="strip_para">
-                            <P>Best price guaranteed</P>
-                            
-                        </div>
-                    </div>
+<section class="secure">
+        <div class="main flex">
+            <div class="first flex">
+                <div class="first-1 strip_logo">
+                    <img src="<?=get_img()?>state-to-state/dollar-symbol.webp" alt=" dollar" loading="lazy" width="50px" height="50px">
                 </div>
-                <div class="second flex">
-                    <div class=" second-1 strip_logo">
-                        <img src="<?=get_img()?>state-to-state/calendar.png" alt="">
+                <div class="first-2">
+                    <div class="heading">
+                        <p>PRICE MATCH</p>
                     </div>
-                    <div class="second-2">
-                        <div class="heading">
-                            <h5>GUARANTEED PICK-UP</h5>
-                        </div>
-                        <div class="strip_para">
-                            <p>Your chice of pick-up</p>
-                            
-                        </div>
-                    </div>
-                </div>
-                <div class="third flex">
-                    <div class="third-1 strip_logo">
-                        <img src="<?=get_img()?>state-to-state/distance.png" alt="">
-                    </div>
-                    <div class="third-2">
-                        <div class="heading">
-                            <h5>EXPRESS SHIPPING</h5>
-                        </div>
-                        <div class="strip_para">
-                            <P>Reduced trasit time</P>
+                    <div class="strip_para">
+                        <P>Best price guaranteed</P>
 
-                            
-                        </div>
-                    </div>
-                </div>
-                <div class="forth flex">
-                    <div class="fourt-1 strip_logo">
-                        <img src="<?=get_img()?>state-to-state/shield.png" alt="">
-                    </div>
-                    <div class="forth-2">
-                        <div class="heading">
-                            <h5>SAFE TARNSPORT</h5>
-                        </div>
-                        <div class="strip_para">
-                            <P>Full insurance coverage</P>
-                            
-                        </div>
                     </div>
                 </div>
             </div>
-        </section>
+            <div class="second flex">
+                <div class=" second-1 strip_logo">
+                    <img src="<?=get_img()?>state-to-state/calendar.png" alt="calendar" loading="lazy" width="50px" height="50px">
+                </div>
+                <div class="second-2">
+                    <div class="heading">
+                        <p>GUARANTEED PICK-UP</p>
+                    </div>
+                    <div class="strip_para">
+                        <p>Your chice of pick-up</p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="third flex">
+                <div class="third-1 strip_logo">
+                    <img src="<?=get_img()?>state-to-state/distance.webp" alt="distance" loading="lazy" width="50px" height="50px">
+                </div>
+                <div class="third-2">
+                    <div class="heading">
+                        <p>EXPRESS SHIPPING</p>
+                    </div>
+                    <div class="strip_para">
+                        <P>Reduced trasit time</P>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="forth flex">
+                <div class="fourt-1 strip_logo">
+                    <img src="<?=get_img()?>state-to-state/shield.webp" alt="sheild" loading="lazy" width="50px" height="50px">
+                </div>
+                <div class="forth-2">
+                    <div class="heading">
+                        <p>SAFE TARNSPORT</p>
+                    </div>
+                    <div class="strip_para">
+                        <P>Full insurance coverage</P>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!---------------reviews --------------------->
+
+    <?php include_once review2 ;?>
 
 <!---------------how it works ------------------>
     <section class="how_it_works_section">
@@ -372,154 +365,43 @@ if (isset($_GET['page_id'])) {
 <?php include car_key_section; ?>
 
 
- <!---------------- Advantages section--------- -->
+   <!---------------- Advantages section--------- -->
     <!-- ------------------------ -->
-    <section class="rapid-advantages-section" style="margin-top:5%">
+    <section class="rapid-advantages-section" style="margin-top:3%">
         <div class="rapid-advantages-grid-container">
             <h2 class="heading-1">Advantages using <span>Rapid Auto Shipping</span></h2>
-            <div class="rapid-advantages-grid utility_grid utility_grid-3">
+            <div class="rapid-advantages-grid utility_grid utility_grid-4">
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/rating.png" alt="best car shipping in USA">
+                    <img src="<?= get_img() ?>icons/rating.webp" alt="best car shipping in USA" loading="lazy" width="80px" height="80px">
                     <h3>Top Rated Auto Shipping Company</h3>
                     <p>We have thousands of 5-star reviews for exceptional vehicle shipping services.</p>
                 </div>
+
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/route-2.png" alt="best car shipping in USA">
-                    <h3>Nationwide Door to Door Shipping</h3>
-                    <p>We provide direct service to and from any residential or business location in the US.</p>
-                </div>
-                <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/auto-insurance-icon.png" alt="best car shipping in USA">
+                    <img src="<?= get_img() ?>icons/auto-insurance-icon.webp" alt="best car shipping in USA" loading="lazy" width="80px" height="80px">
                     <h3>Complete Vehicle Coverage</h3>
                     <p>We offer the most comprehensive coverage options for complete peace of mind.</p>
                 </div>
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/savings-icon.png" alt="best car shipping in USA">
+                    <img src="<?= get_img() ?>icons/savings-icon.webp" alt="best car shipping in USA" loading="lazy" width="80px" height="80px">
                     <h3>No Up-Front Deposit Required</h3>
                     <p>You don't pay a penny until the day your shipment is scheduled for pickup.</p>
                 </div>
+
                 <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/support.png" alt="Albama to alaska shipping">
-                    <h3>Extended Office Hours</h3>
-                    <p>We're available past normal business hours in every timezone in the country.</p>
-                </div>
-                <div class="rapid-advantages-grid-1 ">
-                    <img src="<?= get_img() ?>icons/online-tracking.png" alt="Albama to alaska shipping">
+                    <img src="<?= get_img() ?>icons/online-tracking.webp" alt="Albama to alaska shipping" loading="lazy" width="80px" height="80px">
                     <h3>24/7 Online Shipment Tracking</h3>
                     <p>You can track the status of your shipment online anytime at your convenience.</p>
                 </div>
             </div>
         </div>
-    </section>
-
-
-    <!-- review section-->
-    <section class="state-to-state-review ">
-        <div class="state-to-state-review-grid">
-            <div class="state-to-state-review-grid-1">
-                <img src="<?= get_img() ?>happy-customer-icon.png" alt="state to state auto transport" />
-                <h3><?= $data['route_star'] ?>/10 <span>stars</span></h3>
-                <p>Based on recent dispatch reports, the carrier availability rating from Alabama to Alaska is 9/10. </p>
-                <div class="orange-strip">
-                    <h2>
-                        Road Transportation
-                    </h2>
-
-                </div>
-            </div>
-            <div class="state-to-state-review-grid-1">
-                <img src="<?= get_img() ?>starting-destination.png" alt="state to state auto transport" />
-                <h3><?= $data['route_distance'] ?><span>miles</span></h3>
-                <p>The center of each state is used to approximate mileage between locations.</p>
-                <div class="orange-strip">
-                    <h2>
-                        Total Distance
-                    </h2>
-
-                </div>
-            </div>
-            <div class="state-to-state-review-grid-1">
-                <img src="<?= get_img() ?>timer-clock.png" alt="state to state auto transport" />
-                <h3><?= $data['route_timing'] ?> <span>days</span></h3>
-                <p>Estimated transit times are based on carriers traveling up to 500 miles per day.
-
-                </p>
-                <div class="orange-strip">
-                    <h2>
-                        Customer Review
-                    </h2>
-
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-<!---------------- steps-state-to-state ----------->
-    <section class="fifth-state-to-state">
-        <div class="fifth-state-to-state-grid">
-            <div class="fifth-state-to-state-grid-1">
-                <div class="fifth-state-to-state-grid-content">
-                    <h2 class="heading-2">
-                        <span>Rapid Auto Shipping</span> Makes Shipping a Car From your desired location as Easy as 1-2-3!
-                    </h2>
-                    <div class="steps-buttons">
-                        <button onclick="active_tab(0,this)" class="special-red-btn-1" id="btn">1</button>
-                        <button onclick="active_tab(1,this)" class="special-red-btn-2">2</button>
-                        <button onclick="active_tab(2,this)" class="special-red-btn-3">3</button>
-                    </div>
-                    <div class="text-div-parent">
-                        <div class="text_div_1">
-                            <h3 class="heading-2">
-                                Calculate your instant car shipping quote.
-                            </h3>
-                            <p class="para-2">
-                                Getting a quote is easy with our online quote form, enter your name , email and number, our executive will assist you and book your reservation online or by phone!
-                            </p>
-                        </div>
-                        <div class="text_div_1">
-                            <h3 class="heading-2">
-                                Your instant car shipping quote.
-                            </h3>
-                            <p class="para-2">
-                                Getting a quote is easy with our online quote form, enter your name , email and number, our executive will assist you and book your reservation online or by phone!
-                            </p>
-                        </div>
-                        <div class="text_div_1">
-                            <h3 class="heading-2">
-                                Instant car shipping quote.
-                            </h3>
-                            <p class="para-2">
-                                Getting a quote is easy with our online quote form, enter your name , email and number, our executive will assist you and book your reservation online or by phone!
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="divdiv">
-
-
-                    <div class="fifth-state-to-state-grid-image-parent">
-                        <div class="fifth-state-to-state-grid-image">
-                            <img src="<?= get_img() ?>/home-delivering-vehicle-1.png" alt="state to state auto transport" />
-                        </div>
-                        <div class="fifth-state-to-state-grid-image">
-                            <img src="<?= get_img() ?>/home-picking-vehicle.png" alt="state to state auto transport" />
-                        </div>
-                        <div class="fifth-state-to-state-grid-image">
-                            <img src="<?= get_img() ?>/home-shipping-vehicle.png" alt="state to state auto transport" />
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            <div class="fifth-state-to-state-grid-1"></div>
-        </div>
 
     </section>
 
 
-<!---------------- state names for all the states ---------->
-    <section class="all-state-name-page-mains" style="margin:4%;">
+
+ <!---------------- state names for all the states ---------->
+ <section class="all-state-name-page-mains" style="margin:3%;">
         <section class="all-state-name-pages">
             <h2 class="heading-1">
                 Auto shipping <span>States</span> in USA </h2>
@@ -533,8 +415,6 @@ if (isset($_GET['page_id'])) {
                     <a href="<?= get_state() ?>/alabama" rel="dofollow">Alabama</a><br>
                     <a href="<?= get_state() ?>/connecticut" rel="dofollow">Connecticut</a><br>
                     <a href="<?= get_state() ?>/delaware" rel="dofollow">Delaware</a><br>
-                    <a href="<?= get_state() ?>/florida" rel="dofollow">Florida</a><br>
-                    <a href="<?= get_state() ?>/georgia" rel="dofollow">Georgia</a><br>
                 </div>
                 <div class="all-state-name-grids">
                     <a href="<?= get_state() ?>/hawaii" rel="dofollow">Hawaii</a><br>
@@ -545,8 +425,7 @@ if (isset($_GET['page_id'])) {
                     <a href="<?= get_state() ?>/kansas" rel="dofollow">Kansas</a><br>
                     <a href="<?= get_state() ?>/kentucky" rel="dofollow">Kentucky</a><br>
                     <a href="<?= get_state() ?>/louisiana" rel="dofollow">Louisiana</a><br>
-                    <a href="<?= get_state() ?>/maine" rel="dofollow">Maine</a><br>
-                    <a href="<?= get_state() ?>/maryland" rel="dofollow">Maryland</a><br>
+
 
                 </div>
                 <div class="all-state-name-grids">
@@ -558,8 +437,7 @@ if (isset($_GET['page_id'])) {
                     <a href="<?= get_state() ?>/montana" rel="dofollow">Montana</a><br>
                     <a href="<?= get_state() ?>/nebraska" rel="dofollow">Nebraska</a><br>
                     <a href="<?= get_state() ?>/nevada" rel="dofollow">Nevada</a><br>
-                    <a href="<?= get_state() ?>/new-hampshire" rel="dofollow">New Hampshire</a><br>
-                    <a href="<?= get_state() ?>/new-jersey" rel="dofollow">New Jersey</a><br>
+
 
                 </div>
                 <div class="all-state-name-grids">
@@ -571,8 +449,7 @@ if (isset($_GET['page_id'])) {
                     <a href="<?= get_state() ?>/oklahoma" rel="dofollow">Oklahoma</a><br>
                     <a href="<?= get_state() ?>/oregon" rel="dofollow">Oregon</a><br>
                     <a href="<?= get_state() ?>/pennsylvania" rel="dofollow">Pennsylvania</a><br>
-                    <a href="<?= get_state() ?>/rhode-island" rel="dofollow">Rhode Island</a><br>
-                    <a href="<?= get_state() ?>/south-carolina" rel="dofollow">South Carolina</a><br>
+
 
                 </div>
                 <div class="all-state-name-grids">
@@ -585,59 +462,39 @@ if (isset($_GET['page_id'])) {
                     <a href="<?= get_state() ?>/washington-wa" rel="dofollow">Washington</a><br>
                     <a href="<?= get_state() ?>/west-virginia-wv" rel="dofollow">West Virginia</a><br>
                     <a href="<?= get_state() ?>/wisconsin-wi" rel="dofollow">Wisconsin</a><br>
+
+                </div>
+                <div class="all-state-name-grids">
+                    <a href="<?= get_state() ?>/florida" rel="dofollow">Florida</a><br>
+                    <a href="<?= get_state() ?>/georgia" rel="dofollow">Georgia</a><br>
+                    <a href="<?= get_state() ?>/maine" rel="dofollow">Maine</a><br>
+                    <a href="<?= get_state() ?>/maryland" rel="dofollow">Maryland</a><br>
+                    <a href="<?= get_state() ?>/new-hampshire" rel="dofollow">New Hampshire</a><br>
+                    <a href="<?= get_state() ?>/new-jersey" rel="dofollow">New Jersey</a><br>
                     <a href="<?= get_state() ?>/wyoming-wy" rel="dofollow">Wyoming</a><br>
+                    <a href="<?= get_state() ?>/rhode-island" rel="dofollow">Rhode Island</a><br>
+                    <a href="<?= get_state() ?>/south-carolina" rel="dofollow">South Carolina</a><br>
+
+
                 </div>
             </section>
         </section>
     </section>
 
-<!----------------page bottom ------------------>
-        <?php include_once page_bottom ?>
-
+        <!-- back to top button -->
+    <div class="b-top-button">
+        <div class="b_top">
+            <i class='bx bxs-phone' style="font-size: 20px;"></i>
+            <a href="tel:+1-833-233-4447">+1-833-233-4447</a>
         
-    <script>
-        const txt = document.querySelectorAll(".text_div_1");
-        const img = document.querySelectorAll(".fifth-state-to-state-grid-image");
+        </div>
+    </div>
 
-
-        function active_tab(index) {
-            remevo_active_ele()
-            txt[index].style.display = "block"
-            img[index].style.display = "grid"
-        }
-
-        function remevo_active_ele() {
-            for (let index = 0; index < txt.length; index++) {
-                txt[index].style.display = "none"
-                img[index].style.display = "none"
-            }
-        }
-
-        active_tab(0);
-
-        window.onscroll = function () {
-
-            scrollTop()
-        };
-        var mybutton = document.getElementById("top-btn");
-
-        function scrollTop() {
-            if (document.body.scrollTop > 1500 || document.documentElement.scrollTop > 1500) {
-                mybutton.style.display = "block";
-                // console.log("hey");
-            } else {
-                mybutton.style.display = "none";
-            }
-        }
-    </script>
-
-    <script src="https://unpkg.com/toastmejs@latest/dist/js/toastme.min.js"></script>
-    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&sensor=false&libraries=places"></script> -->
-
-    
-    
-    <!-- owl curosel -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
+    <!----------------page bottom ------------------>
+    <?php include_once new_footer; ?>
+    <?php include_once new_script; ?>
+ <!-- owl curosel -->
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
         integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
@@ -661,34 +518,11 @@ if (isset($_GET['page_id'])) {
                 }
             }
         })
-        
+
     </script>
-    <!-- <script>
-        //Customize your Notification  
-        const config = {
-            timeout: 5000,
-            positionY: "top", // top or bottom
-            positionX: "right", // right left, center
-            distanceY: 30, // Integer value
-            distanceX: 30, // Integer value
-            zIndex: 100, // Integer value
-            theme: "ligh", // default, ligh or  dark (leave empty for "default" theme)
-            duplicates: true // true or false - by default it's false
-        };
-        //Create a new Toastmejs class instance
-        window = toast = new Toastme(config);
-
-        // AOS.init({
-        //     duration: 1000,
-        // });
-
-        const domain = "https://rapidautoshipping.com/";
-    </script> -->
-   
-
-
-
-
+    <script>
+        $('button.owl-dot').attr('aria-label', 'owl-dot');
+    </script>
 </body>
 
 </html>
