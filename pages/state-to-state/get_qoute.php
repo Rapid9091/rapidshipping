@@ -761,13 +761,10 @@
       // More headers
        $headers .= 'From: <noreply.rapidautoshipping.com>' . "\r\n";
 
-       if(mail($to,$subject,$message,$headers)){
-        echo "mailed";
+       if(!mail($to,$subject,$message,$headers)){
+        echo "Something Went wrong. Please Try again!";
        }
-       else{
-        echo "not mailed";
-       }
-      
+       
 
         }
         

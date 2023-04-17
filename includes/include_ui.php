@@ -27,4 +27,4 @@ define('strip_under_header', COMPONENT . "strip-under-header.php");
 define('header_small_form', COMPONENT . "header_small_form.php");
 define('new_head', COMPONENT . "head_new.php");
 define('new_footer', COMPONENT . "new_footer.php");
-define('new_script', COMPONENT . "new_script.php");
+define('new_script', COMPONENT . "script_new.php");

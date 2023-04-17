@@ -23,46 +23,41 @@
                     <a href="<?= home_path() ?>services">Services</a>
                 </li>
                 <li>
-                    <a href="<?= home_path() ?>cars">Cars</a>
+                    <a href="<?= home_path() ?>cars">We Ship</a>
                     <div class="sub-menu sub-menu-car">
                         <div class="sub-menu-child">
                             <ul>
                                 <li>
                                     <i class='bx bxs-car'></i>
-                                    <a href="<?= home_path() ?>cars/nissan">Nissan</a>
+                                    <a href="<?= home_path() ?>cars">Cars</a>
                                 </li>
                                 <li>
                                     <i class='bx bxs-car'></i>
-                                    <a href="<?= home_path() ?>cars/chrysler">Chrysler</a>
+                                    <a href="<?= home_path() ?>services/rv-transport">ATV/RV</a>
                                 </li>
                                 <li>
                                     <i class='bx bxs-car'></i>
-                                    <a href="<?= home_path() ?>cars/dodge">Dodge</a>
+                                    <a href="<?= home_path() ?>services/motor-cycle-shipping">Motorcycle</a>
                                 </li>
                                 <li>
                                     <i class='bx bxs-car'></i>
-                                    <a href="<?= home_path() ?>cars/toyota">Toyota</a>
+                                    <a href="<?= home_path() ?>services/boat-shipping">Boat</a>
                                 </li>
                                 <li>
                                     <i class='bx bxs-car'></i>
-                                    <a href="<?= home_path() ?>cars/chevrolet">Chevrolet</a>
+                                    <a href="<?= home_path() ?>services/yacht-shipping-services">Yacht</a>
                                 </li>
                                 <li>
                                     <i class='bx bxs-car'></i>
-                                    <a href="<?= home_path() ?>cars/ford">Ford</a>
+                                    <a href="<?= home_path() ?>services/truck-shipping-service">Truck</a>
                                 </li>
                                 <li>
                                     <i class='bx bxs-car'></i>
-                                    <a href="<?= home_path() ?>cars/mazda">Mazda</a>
+                                    <a href="<?= home_path() ?>services/tractor-transport">Tractor</a>
                                 </li>
                                 <li>
                                     <i class='bx bxs-car'></i>
-                                    <a href="<?= home_path() ?>cars/honda">Honda</a>
-                                </li>
-
-                                <li>
-                                    <i class='bx bxs-car'></i>
-                                    <a href="<?= home_path() ?>cars">Explore More ..</a>
+                                    <a href="<?= home_path() ?>services/heavy-equipment-shipping">Heavy Equipments</a>
                                 </li>
 
                             </ul>

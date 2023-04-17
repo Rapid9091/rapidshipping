@@ -85,5 +85,3 @@
         ]
     }
 </script>
-
-<link  href="https://unpkg.com/toastmejs@latest/dist/css/toastme.css">
