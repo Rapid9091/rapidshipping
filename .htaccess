@@ -46,7 +46,6 @@ ReWriteRule ^states([/]?)$ pages/states/state_list.php [NC,L]
 
 
 ReWriteRule ^states/connecticut([/]?)$ pages/states/connecticut.php [NC,L]
-ReWriteRule ^states/delaware([/]?)$ pages/states/delaware.php [NC,L]
 ReWriteRule ^states/florida([/]?)$ pages/states/florida.php [NC,L]
 ReWriteRule ^states/georgia([/]?)$ pages/states/georgia.php [NC,L]
 ReWriteRule ^states/hawaii([/]?)$ pages/states/hawaii.php [NC,L]
