@@ -41,7 +41,7 @@ ReWriteRule ^auto-transport-states/([0-9A-Za-z\-]+)([/]?)$ https://rapidautoship
 ReWriteRule ^states([/]?)$ pages/states/state_list.php [NC,L]
 
 
-ReWriteRule ^states/alaska([/]?)$ pages/states/alaska.php [NC,L]
+
 
 
 ReWriteRule ^states/colorado([/]?)$ pages/states/colorado.php [NC,L]
