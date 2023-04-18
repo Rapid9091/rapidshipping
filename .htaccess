@@ -79,7 +79,7 @@ ReWriteRule ^states/pennsylvania([/]?)$ pages/states/pennsylvania.php [NC,L]
 ReWriteRule ^states/rhode-island([/]?)$ pages/states/rhode-island.php [NC,L]
 ReWriteRule ^states/south-carolina([/]?)$ pages/states/south-carolina.php [NC,L]
 ReWriteRule ^states/south-dakota([/]?)$ pages/states/south-dakota.php [NC,L]
-ReWriteRule ^states/tennessee-tn([/]?)$ pages/states/tennessee-tn.php [NC,L]
+
 ReWriteRule ^states/texas-tx([/]?)$ pages/states/texas-tx.php [NC,L]
 ReWriteRule ^states/utah-ut([/]?)$ pages/states/utah-ut.php [NC,L]
 ReWriteRule ^states/vermont-vt([/]?)$ pages/states/vermont-vt.php [NC,L]
