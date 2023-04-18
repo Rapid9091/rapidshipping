@@ -80,7 +80,7 @@ ReWriteRule ^states/rhode-island([/]?)$ pages/states/rhode-island.php [NC,L]
 ReWriteRule ^states/south-carolina([/]?)$ pages/states/south-carolina.php [NC,L]
 
 
-ReWriteRule ^states/texas-tx([/]?)$ pages/states/texas-tx.php [NC,L]
+
 
 ReWriteRule ^states/vermont-vt([/]?)$ pages/states/vermont-vt.php [NC,L]
 ReWriteRule ^states/virginia-va([/]?)$ pages/states/virginia-va.php [NC,L]
