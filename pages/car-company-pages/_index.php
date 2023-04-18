@@ -4,13 +4,13 @@ include_once "../../init.php";
 if (isset($_GET['page_id'])) {
     $slug = $_GET['page_id'];
 
-    $data = fetch_data("SELECT * FROM states WHERE `slug` = '$slug'");
+    $data = fetch_data("SELECT * FROM cars WHERE `slug` = '$slug'");
 
     if (!$data) {
         header("Location: " . home_path() . "404");
     }
 } else {
-    header("Location: " . home_path() . "states");
+    header("Location: " . home_path() . "cars");
 }
 
 ?>
