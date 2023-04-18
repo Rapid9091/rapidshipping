@@ -101,7 +101,7 @@ ReWriteRule ^cities/([0-9A-Za-z\-]+)([/]?)$ pages/cities/$1.php [NC,L]
 
 # This route work for cars-companies-page 
 ReWriteRule ^cars/([0-9A-Za-z\-]+)([/]?)$ pages/car-company-pages/$1.php [NC,L]
-ReWriteRule ^cars([/]?)$ pages/car-company-pages/_index.php [NC,L]
+ReWriteRule ^cars([/]?)$ pages/car-company-pages/cars_list.php [NC,L]
 
 
 # This route work for cars-companies-page 
