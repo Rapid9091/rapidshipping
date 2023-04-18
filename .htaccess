@@ -113,6 +113,8 @@ ReWriteRule ^cars/shelby-car-transport-service([/]?)$ pages/car-company-pages/sh
 ReWriteRule ^cars/toyota([/]?)$ pages/car-company-pages/toyota.php[NC,L]
 ReWriteRule ^cars([/]?)$ pages/car-company-pages/cars_list.php [NC,L]
 
+ReWriteRule ^cars/([0-9A-Za-z\-]+)([/]?)$ pages/car-company-pages/$1.php [NC,L]
+
 
 # This route work for cars-companies-page 
 ReWriteRule ^auto-transport-carriers/([0-9A-Za-z\-]+)([/]?)$ pages/company-reviews/page.php?review_id=$1 [NC,L]
