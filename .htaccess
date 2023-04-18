@@ -39,13 +39,6 @@ ReWriteRule ^auto-transport-states/([0-9A-Za-z\-]+)([/]?)$ https://rapidautoship
 #==============================================================================================================
 
 ReWriteRule ^states([/]?)$ pages/states/state_list.php [NC,L]
-
-
-
-
-
-
-
 ReWriteRule ^states/florida([/]?)$ pages/states/florida.php [NC,L]
 ReWriteRule ^states/georgia([/]?)$ pages/states/georgia.php [NC,L]
 ReWriteRule ^states/hawaii([/]?)$ pages/states/hawaii.php [NC,L]
@@ -78,17 +71,11 @@ ReWriteRule ^states/oregon([/]?)$ pages/states/oregon.php [NC,L]
 ReWriteRule ^states/pennsylvania([/]?)$ pages/states/pennsylvania.php [NC,L]
 ReWriteRule ^states/rhode-island([/]?)$ pages/states/rhode-island.php [NC,L]
 ReWriteRule ^states/south-carolina([/]?)$ pages/states/south-carolina.php [NC,L]
-
-
-
-
 ReWriteRule ^states/vermont-vt([/]?)$ pages/states/vermont-vt.php [NC,L]
 ReWriteRule ^states/virginia-va([/]?)$ pages/states/virginia-va.php [NC,L]
 ReWriteRule ^states/washington-wa([/]?)$ pages/states/washington-wa.php [NC,L]
 ReWriteRule ^states/west-virginia-wv([/]?)$ pages/states/west-virginia-wv.php [NC,L]
-
 ReWriteRule ^states/wyoming-wy([/]?)$ pages/states/wyoming-wy.php [NC,L]
-
 ReWriteRule ^states/([0-9A-Za-z\-]+)([/]?)$ pages/states/_index.php?page_id=$1 [NC,L]
 
 
@@ -100,7 +87,30 @@ ReWriteRule ^cities/([0-9A-Za-z\-]+)([/]?)$ pages/cities/$1.php [NC,L]
 
 
 # This route work for cars-companies-page 
-ReWriteRule ^cars/([0-9A-Za-z\-]+)([/]?)$ pages/car-company-pages/$1.php [NC,L]
+ReWriteRule ^cars/alfa-romeo-car-transport-service([/]?)$ pages/car-company-pages/alfa-romeo-car-transport-service.php[NC,L]
+ReWriteRule ^cars/audi-car-transport-service([/]?)$ pages/car-company-pages/audi-car-transport-service.php[NC,L]
+ReWriteRule ^cars/bmw-car-transport-service([/]?)$ pages/car-company-pages/bmw-car-transport-service.php[NC,L]
+ReWriteRule ^cars/bugatti-car-transport-service([/]?)$ pages/car-company-pages/bugatti-car-transport-service.php[NC,L]
+ReWriteRule ^cars/chevrolet([/]?)$ pages/car-company-pages/chevrolet.php[NC,L]
+ReWriteRule ^cars/chrysler([/]?)$ pages/car-company-pages/chrysler.php[NC,L]
+ReWriteRule ^cars/corvette-car-transport-service([/]?)$ pages/car-company-pages/corvette-car-transport-service.php[NC,L]
+ReWriteRule ^cars/dodge([/]?)$ pages/car-company-pages/dodge.php[NC,L]
+ReWriteRule ^cars/ferrari-car-transport-service([/]?)$ pages/car-company-pages/ferrari-car-transport-service.php[NC,L]
+ReWriteRule ^cars/ford([/]?)$ pages/car-company-pages/ford.php[NC,L]
+ReWriteRule ^cars/honda([/]?)$ pages/car-company-pages/honda.php[NC,L]
+ReWriteRule ^cars/jaguar-car-transport-service([/]?)$ pages/car-company-pages/jaguar-car-transport-service.php[NC,L]
+ReWriteRule ^cars/koenigsegg-car-transport-service([/]?)$ pages/car-company-pages/koenigsegg-car-transport-service.php[NC,L]
+ReWriteRule ^cars/lamborghini-car-transport-service([/]?)$ pages/car-company-pages/lamborghini-car-transport-service.php[NC,L]
+ReWriteRule ^cars/lexus-car-transport-service([/]?)$ pages/car-company-pages/lexus-car-transport-service.php[NC,L]
+ReWriteRule ^cars/lotus-car-transport-service([/]?)$ pages/car-company-pages/lotus-car-transport-service.php[NC,L]
+ReWriteRule ^cars/maserati-car-transport-services([/]?)$ pages/car-company-pages/maserati-car-transport-services.php[NC,L]
+ReWriteRule ^cars/mazda([/]?)$ pages/car-company-pages/mazda.php[NC,L]
+ReWriteRule ^cars/mclaren-car-transport-service([/]?)$ pages/car-company-pages/mclaren-car-transport-service.php[NC,L]
+ReWriteRule ^cars/mercedes-benz-car-transport-service([/]?)$ pages/car-company-pages/mercedes-benz-car-transport-service.php[NC,L]
+ReWriteRule ^cars/nissan([/]?)$ pages/car-company-pages/nissan.php[NC,L]
+ReWriteRule ^cars/porsche-car-transport-services([/]?)$ pages/car-company-pages/porsche-car-transport-services.php[NC,L]
+ReWriteRule ^cars/shelby-car-transport-service([/]?)$ pages/car-company-pages/shelby-car-transport-service.php[NC,L]
+ReWriteRule ^cars/toyota([/]?)$ pages/car-company-pages/toyota.php[NC,L]
 ReWriteRule ^cars([/]?)$ pages/car-company-pages/cars_list.php [NC,L]
 
 
