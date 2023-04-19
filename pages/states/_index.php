@@ -58,10 +58,6 @@ if (isset($_GET['page_id'])) {
             justify-content: space-between;
             flex-direction: column;
         }
-        .banner-review-images{
-            display: flex;
-            justify-content: space-around;
-        }
     </style>
 </head>
 
@@ -100,7 +96,7 @@ if (isset($_GET['page_id'])) {
                         <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo"
                             loading="lazy" width="150px" height="71px" class="truspilot_logo">
                         <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo"
-                            loading="lazy" width="150px" height="66px" class="google_logo">
+                            loading="lazy" width="150px" height="66px" margin="5%" class="google_logo">
                         <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo"
                             loading="lazy" width="150px" height="44px" class="crunchbase_logo">
                     </div>
