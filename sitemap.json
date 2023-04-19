@@ -22,11 +22,6 @@
     "endpoint": "states",
     "priority": "0.8",
     "indexFileName": "_index.php"
-  },
-  {
-    "dir": "state-to-state",
-    "endpoint": "state-to-state",
-    "priority": "0.8",
-    "indexFileName": ""
   }
+  
 ]

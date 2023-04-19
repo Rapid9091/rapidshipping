@@ -489,6 +489,7 @@
   .header-menu > ul > li:hover .sub-menu {
     display: block;
     position: absolute;
+    width:auto;
   }
   
   /* here this div use for calling  */
@@ -593,7 +594,7 @@
       left: 20%;
     }
     .sub-menu-car {
-      left: 40%;
+      left: 50%;
     }
     .sub-menu-blog {
       left: 60%;
@@ -3170,6 +3171,11 @@
     margin: 2% 0;
     line-height: 1.8;
 }
+.article_list p{
+    font-size: 23px;
+    font-weight: 600;
+    margin: 3% 0;
+}
 
 .main_content_div p {
     font-size: 18px;
@@ -3178,13 +3184,17 @@
     margin: 2% 0;
     line-height: 1.8;
 }
+.main_content_div h2{
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
 
 .main_content_div h4,
 .main_content_div h3,
 .main_content_div h5,
-.main_content_div h6,
-.main_content_div h2 {
-    font-size: 30px;
+.main_content_div h6{
+    font-size: 23px;
     font-weight: 600;
     text-transform: capitalize;
 }
@@ -3248,11 +3258,7 @@
   padding: 30px 0;
 }
 
-.article_list p{
-    font-size: 23px;
-    font-weight: 600;
-    margin: 3% 0;
-}
+
 .article_list ol{
     padding-left: 0;
 }
