@@ -256,27 +256,30 @@ if (isset($_GET['page_id'])) {
     </section>
 
 
-    <div class="more-califrnian-cities-code">
-        <h2 class="alabama-city-code-heading" style="text-transform:capitalize">
-            Popular Auto Transportation <span>Cities</span> In <?= $data['slug'];?>
-        </h2>
-        <?php
-          $json = $data['city_zipcode'];
-          $json_decoded = json_decode($json);
+
+    <!---------------- state names for all the states ---------->
+    <section class="all-state-name-page-mains" style="margin:3%;">
+        <section class="all-state-name-pages">
+            <h2 class="heading-1">
+                Auto shipping <span>Cars Models</span></h2>
+            <div class="" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); padding:2% 5%; text-align:center;">
+                <?php
+                  $json = $data['car_models'];
+                  $json_decoded = json_decode($json);
                     if (isset($json_decoded)) {
                         foreach ($json_decoded as $result) {
-                            echo '<div class="major-city-code">
-                            <p class="major-city-code-para">'.$result->city.'</p>
-                            <span>-</span>
-                            <p>'.$result->zip_code.'</p>
+                            echo '<div class="all-state-name-grids">
+                            <a href="" rel="dofollow">'.$result->car.'</a>
                         </div>';
                         }
                     }
                     ?>
+                
+                
 
-    </div>
-
-
+                </div>
+        </section>
+    </section>
 
 
 
