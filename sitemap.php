@@ -72,7 +72,7 @@ echo '<?xml version="1.0" encoding="UTF-8" ?>';
             get_row($url, "0.5");
         }
     }
-    get_row(home_path() . "state-to-state/", "0.6");
+    // get_row(home_path() . "state-to-state/", "0.6");
 
     $state_page_sql = "SELECT * FROM `state_to_state`";
     $state_page_list = fetch_all_data($state_page_sql);
