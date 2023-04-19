@@ -261,15 +261,15 @@ if (isset($_GET['page_id'])) {
     <section class="all-state-name-page-mains" style="margin:3%;">
         <section class="all-state-name-pages">
             <h2 class="heading-1">
-                Auto shipping <span>Cars</span> in USA </h2>
+                Auto shipping <span>Cars Models</span></h2>
             <div class="" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); padding:2% 5%; text-align:center;">
                 <?php
-                  $json = $data['city_zipcode'];
+                  $json = $data['car_models'];
                   $json_decoded = json_decode($json);
                     if (isset($json_decoded)) {
                         foreach ($json_decoded as $result) {
                             echo '<div class="all-state-name-grids">
-                            <a href="'.home_path().$result->city.'" rel="dofollow">'.$result->city.'</a>
+                            <a href="" rel="dofollow">'.$result->car.'</a>
                         </div>';
                         }
                     }
