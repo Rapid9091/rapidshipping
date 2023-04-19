@@ -78,7 +78,7 @@ ReWriteRule ^states/south-carolina([/]?)$ pages/states/south-carolina.php [NC,L]
 
 
 
-ReWriteRule ^states/west-virginia-wv([/]?)$ pages/states/west-virginia-wv.php [NC,L]
+
 ReWriteRule ^states/wyoming-wy([/]?)$ pages/states/wyoming-wy.php [NC,L]
 ReWriteRule ^states/([0-9A-Za-z\-]+)([/]?)$ pages/states/_index.php?page_id=$1 [NC,L]
 
