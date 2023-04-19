@@ -71,9 +71,13 @@ ReWriteRule ^states/oregon([/]?)$ pages/states/oregon.php [NC,L]
 ReWriteRule ^states/pennsylvania([/]?)$ pages/states/pennsylvania.php [NC,L]
 ReWriteRule ^states/rhode-island([/]?)$ pages/states/rhode-island.php [NC,L]
 ReWriteRule ^states/south-carolina([/]?)$ pages/states/south-carolina.php [NC,L]
-ReWriteRule ^states/vermont-vt([/]?)$ pages/states/vermont-vt.php [NC,L]
-ReWriteRule ^states/virginia-va([/]?)$ pages/states/virginia-va.php [NC,L]
-ReWriteRule ^states/washington-wa([/]?)$ pages/states/washington-wa.php [NC,L]
+
+
+
+
+
+
+
 ReWriteRule ^states/west-virginia-wv([/]?)$ pages/states/west-virginia-wv.php [NC,L]
 ReWriteRule ^states/wyoming-wy([/]?)$ pages/states/wyoming-wy.php [NC,L]
 ReWriteRule ^states/([0-9A-Za-z\-]+)([/]?)$ pages/states/_index.php?page_id=$1 [NC,L]
