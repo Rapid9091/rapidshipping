@@ -53,7 +53,7 @@ if (isset($_GET['page_id'])) {
             background-repeat: no-repeat;
             background-size: cover;
         }
-        .third-section-state{
+        .third-section-content{
             display: flex;
             justify-content: space-between;
             flex-direction: column;
