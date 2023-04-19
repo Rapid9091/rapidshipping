@@ -42,7 +42,7 @@ ReWriteRule ^states([/]?)$ pages/states/state_list.php [NC,L]
 
 
 
-ReWriteRule ^states/idaho([/]?)$ pages/states/idaho.php [NC,L]
+
 ReWriteRule ^states/illinois([/]?)$ pages/states/illinois.php [NC,L]
 ReWriteRule ^states/indiana([/]?)$ pages/states/indiana.php [NC,L]
 ReWriteRule ^states/iowa([/]?)$ pages/states/iowa.php [NC,L]
