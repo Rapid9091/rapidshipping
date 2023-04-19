@@ -58,6 +58,10 @@ if (isset($_GET['page_id'])) {
             justify-content: space-between;
             flex-direction: column;
         }
+        .banner-review-images{
+            display: flex;
+            justify-content: space-around;
+        }
     </style>
 </head>
 
