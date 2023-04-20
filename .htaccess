@@ -46,7 +46,7 @@ ReWriteRule ^states([/]?)$ pages/states/state_list.php [NC,L]
 
 
 
-ReWriteRule ^states/kansas([/]?)$ pages/states/kansas.php [NC,L]
+
 ReWriteRule ^states/kentucky([/]?)$ pages/states/kentucky.php [NC,L]
 
 ReWriteRule ^states/maine([/]?)$ pages/states/maine.php [NC,L]
