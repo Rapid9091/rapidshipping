@@ -131,7 +131,7 @@
                 <!-- section from which shipping started here -->
                 <section class="first-state-to-state">
                     <div class="shipping-form-state-image">
-                        <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666178209/HONDA_AUTO_SHIPPING-min_rfupnv.jpg" alt="honda auto transport" />
+                        <img src="..//assets/images/HONDA_1-min.webp" alt="honda auto transport" />
 
                     </div>
                     <ul>
@@ -209,7 +209,7 @@
                             </div>
                         </li>
                         <div class="shipping-form-state-image">
-                            <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1666178209/HONDA_1-min_o90bqg.jpg" alt="Honda car shipping " />
+                            <img src="..//assets/images/HONDA_AUTO_SHIPPING-min_rfupnv.webp" alt="Honda car shipping " />
                         </div>
                         <li id="5">
                             <div class="shipping-form-state-content">

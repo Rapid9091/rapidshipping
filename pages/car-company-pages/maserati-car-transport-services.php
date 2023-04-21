@@ -53,7 +53,7 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: repeat, no-repeat;
-            background-image: url('..//assets/images/maserati-title.jpeg');
+            background-image: url('..//assets/images/maserati-H1.webp');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
@@ -139,7 +139,7 @@
 
                         </div>
                         <div class="shipping-form-state-image">
-                            <img loading="lazy" src="<?=get_img();?>maserati-1.jpeg"
+                            <img loading="lazy" src="<?=get_img();?>maserati-1.webp"
                                 alt="car transport service" />
 
                         </div>
@@ -190,7 +190,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>maserati-2.jpeg"
+                        <img loading="lazy" src="<?=get_img();?>maserati-2.webp"
                             alt=" car shipping " />
 
                     </div>
@@ -211,7 +211,7 @@
 
                         </div>
                         <div class="shipping-form-state-image">
-                            <img loading="lazy" src="<?=get_img();?>maserati-3.jpeg"
+                            <img loading="lazy" src="<?=get_img();?>maserati-3.webp"
                                 alt="Best Maserati Car Transport Services" />
                         </div>
                         
@@ -265,7 +265,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>maserati-4.jpeg"
+                        <img loading="lazy" src="<?=get_img();?>maserati-4.webp"
                             alt="car shipping cost" />
                     </div>
                     <li id="7">
