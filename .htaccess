@@ -108,7 +108,7 @@ ReWriteRule ^cars/honda([/]?)$ pages/car-company-pages/honda.php [NC,L]
 ReWriteRule ^cars/jaguar-car-transport-service([/]?)$ pages/car-company-pages/jaguar-car-transport-service.php [NC,L]
 ReWriteRule ^cars/koenigsegg-car-transport-service([/]?)$ pages/car-company-pages/koenigsegg-car-transport-service.php [NC,L]
 ReWriteRule ^cars/lamborghini-car-transport-service([/]?)$ pages/car-company-pages/lamborghini-car-transport-service.php [NC,L]
-ReWriteRule ^cars/lexus-car-transport-service([/]?)$ pages/car-company-pages/lexus-car-transport-service.php [NC,L]
+
 ReWriteRule ^cars/lotus-car-transport-service([/]?)$ pages/car-company-pages/lotus-car-transport-service.php [NC,L]
 ReWriteRule ^cars/maserati-car-transport-services([/]?)$ pages/car-company-pages/maserati-car-transport-services.php [NC,L]
 ReWriteRule ^cars/mazda([/]?)$ pages/car-company-pages/mazda.php [NC,L]
