@@ -55,7 +55,7 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: repeat, no-repeat;
-            background-image: url('..//assets/images/maserati-title.jpeg');
+            background-image: url('..//assets/images/lotus H1.webp');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
@@ -131,7 +131,7 @@
 
                 <ul>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>lotus-1.jpeg" alt="car transport service" />
+                        <img loading="lazy" src="<?=get_img();?>lotus-1.webp" alt="car transport service" />
 
                     </div>
                     <li id="1">
@@ -184,7 +184,7 @@
 
                         </div>
                         <div class="shipping-form-state-image">
-                            <img loading="lazy" src="<?=get_img();?>lotus-2.jpeg" alt="car shipping " />
+                            <img loading="lazy" src="<?=get_img();?>lotus-2.webp" alt="car shipping " />
 
                         </div>
 
@@ -234,7 +234,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>lotus-3.jpeg" alt=" Best Lotus Car Transport Services" />
+                        <img loading="lazy" src="<?=get_img();?>lotus-3.webp" alt=" Best Lotus Car Transport Services" />
 
                     </div>
 
@@ -253,7 +253,7 @@
 
                         </div>
                         <div class="shipping-form-state-image">
-                            <img loading="lazy" src="<?=get_img();?>lotus-4.jpeg" alt="auto transport" />
+                            <img loading="lazy" src="<?=get_img();?>lotus-4.webp" alt="auto transport" />
                         </div>
 
                     </li>
