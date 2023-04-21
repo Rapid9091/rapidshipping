@@ -46,7 +46,7 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: repeat, no-repeat;
-            background-image: url('..//assets/images/lexus-car-transport-title.webp');
+            background-image: url('..//assets/images/lexus-title.webp');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
@@ -98,7 +98,7 @@
                 </p>
             </div>
             <div class="shipping-form-state-image">
-            <img loading="lazy" src="<?=get_img();?>Best-Lexus-Car-Transport-Services-5.webp" alt="car transport service"/>
+            <img loading="lazy" src="<?=get_img();?>lexus-1.webp" alt="car transport service"/>
 
             </div>
 
@@ -144,7 +144,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                    <img loading="lazy" src="<?=get_img();?>car-transport-service-5.webp"
+                    <img loading="lazy" src="<?=get_img();?>lexus-2.webp"
                                 alt="car shipping" /></div>
                     
                     <li id="3">
@@ -175,7 +175,7 @@
 
                         </div>
                         <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>car-shipping-5.webp"
+                        <img loading="lazy" src="<?=get_img();?>lexus-3.webp"
                                 alt=" Best Lexus Car Transport Services" />
             
                         </div>
@@ -199,7 +199,7 @@
     
                             </div>
                             <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>vehicle-transport-services-5.jpg"
+                        <img loading="lazy" src="<?=get_img();?>lexus-4.webp"
                                 alt="vehicle transport services" />
                     </div>
                         </li>
