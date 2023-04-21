@@ -53,7 +53,7 @@ ReWriteRule ^states/kentucky([/]?)$ pages/states/kentucky.php [NC,L]
 ReWriteRule ^states/maryland([/]?)$ pages/states/maryland.php [NC,L]
 ReWriteRule ^states/massachusetts([/]?)$ pages/states/massachusetts.php [NC,L]
 
-ReWriteRule ^states/minnesota([/]?)$ pages/states/minnesota.php [NC,L]
+
 ReWriteRule ^states/mississippi([/]?)$ pages/states/mississippi.php [NC,L]
 ReWriteRule ^states/missouri([/]?)$ pages/states/missouri.php [NC,L]
 ReWriteRule ^states/montana([/]?)$ pages/states/montana.php [NC,L]
