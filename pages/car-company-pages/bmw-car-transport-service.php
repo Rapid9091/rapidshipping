@@ -104,10 +104,6 @@
                             </p>
                 
             </div>
-            <div class="shipping-form-state-image">
-                <img loading="lazy" src="<?=get_img();?>bmw-1.webp" alt="car transport service " />
-
-            </div>
 
             <div class="points-div " id="top-section">
                 <h2 class="heading-2">
@@ -144,11 +140,12 @@
                             </p>
 
                         </div>
-
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>bmw-2.webp" alt=" car shipping" />
-                    </div>
+                <img loading="lazy" src="<?=get_img();?>bmw-1.webp" alt="car transport service " />
+
+            </div>
+                    
                     <li id="2">
                         <div class="shipping-form-state-content">
                         <h2 class="heading-1">Get The Car Ready For Take Off</h2>
@@ -169,6 +166,9 @@
                 </p>
                         </div>
                     </li>
+                    <div class="shipping-form-state-image">
+                        <img loading="lazy" src="<?=get_img();?>bmw-2.webp" alt=" car shipping" />
+                    </div>
                     <li id="3">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Our Open Car Shipping Services For BMW</h2>
