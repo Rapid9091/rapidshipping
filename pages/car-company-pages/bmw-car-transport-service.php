@@ -92,26 +92,17 @@
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-                <h2 class="heading-1">Get The Car Ready For Take Off</h2>
-                <p class="para-2">
-                    BMW owners seldom travel large distances in their vehicles. To transfer an automobile, they normally
-                    hire expert <a href="https://rapidautoshipping.com/services" target="_blank">auto shipping
-                        services</a>. This is due to some factors. To prevent the hazards of long-distance travel,
-                    vintage automobile owners hire experienced luxury car transport services.
-                    <br><br>
-                    They also choose traditional car shipping to reduce the vehicle's exposure to exterior risks such as
-                    extreme weather conditions throughout the automobile shipping procedure.
-                    <br><br>
-                    <a href="https://rapidautoshipping.com/services/classic-car-shipping" target="_blank">Classic
-                        automobile transportation</a>, regardless of the type of car transport service chosen,
-                    necessitates extreme consideration. The vehicle shipping procedure begins when the vehicle is loaded
-                    and fastened to the truck and finishes when the vehicle is delivered to the chosen car shipping
-                    location.
-                </p>
-            </div>
-            <div class="shipping-form-state-image">
-                <img loading="lazy" src="<?=get_img();?>bmw-1.webp" alt="car transport service " />
-
+            <h2 class="heading-1">About The Car Transport Services Offered To Luxury Vehicle Owners</h2>
+                            <p class="para-2">If you buy a luxury automobile, you've sought out a vehicle with amenities
+                                that go above and beyond the necessities for comfort and performance--because you
+                                deserve it.
+                                <br><br>
+                                You and your automobile deserve premium car transport services as well! Working with
+                                Rapid Auto Shipping, we will treat your premium vehicle with the utmost care while
+                                delivering it on time.
+                                
+                            </p>
+                
             </div>
 
             <div class="points-div " id="top-section">
@@ -120,7 +111,7 @@
                 </h2>
                 <ul class="points-div-ul">
                     <li><a href="#1">Positive Characteristics Of A Reliable Shipping Company</a></li>
-                    <li><a href="#2">About The Car Transport Services Offered To Luxury Vehicle Owners</a></li>
+                    <li><a href="#2">Get The Car Ready For Take Off</a></li>
                     <li><a href="#3">Our Open Car Shipping Services For BMW</a></li>
                     <li><a href="#4">Our Enclosed Car Transport Service For BMW</a></li>
                     <li><a href="#5">The Advantages Of Using Rapid Auto Shipping To Ship Your BMW Car</a></li>
@@ -149,25 +140,35 @@
                             </p>
 
                         </div>
+                    </li>
+                    <div class="shipping-form-state-image">
+                <img loading="lazy" src="<?=get_img();?>bmw-1.webp" alt="car transport service " />
 
+            </div>
+                    
+                    <li id="2">
+                        <div class="shipping-form-state-content">
+                        <h2 class="heading-1">Get The Car Ready For Take Off</h2>
+                <p class="para-2">
+                    BMW owners seldom travel large distances in their vehicles. To transfer an automobile, they normally
+                    hire expert <a href="https://rapidautoshipping.com/services" target="_blank">auto shipping
+                        services</a>. This is due to some factors. To prevent the hazards of long-distance travel,
+                    vintage automobile owners hire experienced luxury car transport services.
+                    <br><br>
+                    They also choose traditional car shipping to reduce the vehicle's exposure to exterior risks such as
+                    extreme weather conditions throughout the automobile shipping procedure.
+                    <br><br>
+                    <a href="https://rapidautoshipping.com/services/classic-car-shipping" target="_blank">Classic
+                        automobile transportation</a>, regardless of the type of car transport service chosen,
+                    necessitates extreme consideration. The vehicle shipping procedure begins when the vehicle is loaded
+                    and fastened to the truck and finishes when the vehicle is delivered to the chosen car shipping
+                    location.
+                </p>
+                        </div>
                     </li>
                     <div class="shipping-form-state-image">
                         <img loading="lazy" src="<?=get_img();?>bmw-2.webp" alt=" car shipping" />
                     </div>
-                    <li id="2">
-                        <div class="shipping-form-state-content">
-                            <h2 class="heading-1">About The Car Transport Services Offered To Luxury Vehicle Owners</h2>
-                            <p class="para-2">If you buy a luxury automobile, you've sought out a vehicle with amenities
-                                that go above and beyond the necessities for comfort and performance--because you
-                                deserve it.
-                                <br><br>
-                                You and your automobile deserve premium car transport services as well! Working with
-                                Rapid Auto Shipping, we will treat your premium vehicle with the utmost care while
-                                delivering it on time.
-                                
-                            </p>
-                        </div>
-                    </li>
                     <li id="3">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Our Open Car Shipping Services For BMW</h2>

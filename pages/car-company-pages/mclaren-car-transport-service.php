@@ -89,20 +89,13 @@
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-                <h2 class="heading-1">Types Of McLaren Car Transport Service</h2>
-                <p class="para-2">
-                The auto transport company provides various vehicle transport methods, from ground transportation via trailer trucks to international cargo boats or aircraft shipments. However, trailer auto transport is the most prevalent mode of car delivery in the United States. Land-based car shipping is classified into two types: open transport and confined transport.
-                    <br><br>
-                    <b>Our Open Car Transport Service For McLaren:</b> The cheapest choice is open vehicle delivery, also known as open carrier shipping. This is the same mode of transportation used by car dealerships to send new vehicles, so if you've ever seen a trailer loaded with numerous vehicles on the freeway, you've seen how <a href="https://rapidautoshipping.com/services/open-car-shipping" target="_blank">open auto transports</a> operate.
-                    <br><br>
-                    The primary advantage of open auto transport is its cheap cost. Because your vehicle will be sharing a room with other vehicles, the carrier can charge you a reduced price, making it a viable choice for long-distance car shipping.
-                    <br><br>
-                    The disadvantage of open carrier shipping is that it exposes your vehicle to the elements. If you prefer to avoid having your car collect dirt or be exposed to debris, there may be better solutions than this.
-                    <br><br>
-                    <b>Our Enclosed Car Transport Service For McLaren:</b> <a href="https://rapidautoshipping.com/services/enclosed-shipping" target="_blank">Enclosed car transport service</a> means your vehicle will be shipped in an enclosed trailer, shielded from the weather and possible road detritus. Although you will still be sharing a room with other cars, an enclosed trailer typically only accommodates seven.
-                    <br><br>
-                    This choice is significantly more expensive, adding up to $400 to your transportation expenses, but it offers greater peace of mind during the vehicle transport service. In addition, exotic, luxury, or rare cars are more frequently transported in enclosed vehicles.
-                </p>
+            <h2 class="heading-1">About the Car Transport Services Offered To Luxury Vehicle Owners</h2>
+                            <p class="para-2">There has always been an increasing interest in the most elite modes of land transport since the invention of the car. As a result, many premium <a href="https://rapidautoshipping.com/services" target="_blank">vehicle transport services</a> are accessible today for the discriminating select tourist.
+                                <br><br>
+                                While driving luxury cars with turbocharged engines and leather-clad cabins portrays lavish living, chauffeur-driven vehicles are regarded as the epitome of luxury automotive travel.
+                                <br><br>
+                                Here, we offer the best luxury transportation services to provide the ultimate driver experience in some of the most luxurious first-class cars.
+                            </p>
             </div>
             
             <div class="shipping-form-state-image">
@@ -114,7 +107,7 @@
                 </h2>
                 <ul class="points-div-ul">
                     <li><a href="#1">International McLaren Car Shipping</a></li>
-                    <li><a href="#2">About the Car Transport Services Offered To Luxury Vehicle Owners</a></li>
+                    <li><a href="#2">Types Of McLaren Car Transport Service</a></li>
                     <li><a href="#3">McLaren Car Transport Service When Moving</a></li>
                     <li><a href="#4">McLaren Car Transportation Services</a></li>
                     <li><a href="#5">The Advantages Of Using Rapid Auto Shipping To Ship Your McLaren Car</a></li>
@@ -143,13 +136,20 @@
                     
                     <li id="2">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">About the Car Transport Services Offered To Luxury Vehicle Owners</h2>
-                            <p class="para-2">There has always been an increasing interest in the most elite modes of land transport since the invention of the car. As a result, many premium <a href="https://rapidautoshipping.com/services" target="_blank">vehicle transport services</a> are accessible today for the discriminating select tourist.
-                                <br><br>
-                                While driving luxury cars with turbocharged engines and leather-clad cabins portrays lavish living, chauffeur-driven vehicles are regarded as the epitome of luxury automotive travel.
-                                <br><br>
-                                Here, we offer the best luxury transportation services to provide the ultimate driver experience in some of the most luxurious first-class cars.
-                            </p>
+                            <h2 class="heading-1">Types Of McLaren Car Transport Service</h2>
+                <p class="para-2">
+                The auto transport company provides various vehicle transport methods, from ground transportation via trailer trucks to international cargo boats or aircraft shipments. However, trailer auto transport is the most prevalent mode of car delivery in the United States. Land-based car shipping is classified into two types: open transport and confined transport.
+                    <br><br>
+                    <b>Our Open Car Transport Service For McLaren:</b> The cheapest choice is open vehicle delivery, also known as open carrier shipping. This is the same mode of transportation used by car dealerships to send new vehicles, so if you've ever seen a trailer loaded with numerous vehicles on the freeway, you've seen how <a href="https://rapidautoshipping.com/services/open-car-shipping" target="_blank">open auto transports</a> operate.
+                    <br><br>
+                    The primary advantage of open auto transport is its cheap cost. Because your vehicle will be sharing a room with other vehicles, the carrier can charge you a reduced price, making it a viable choice for long-distance car shipping.
+                    <br><br>
+                    The disadvantage of open carrier shipping is that it exposes your vehicle to the elements. If you prefer to avoid having your car collect dirt or be exposed to debris, there may be better solutions than this.
+                    <br><br>
+                    <b>Our Enclosed Car Transport Service For McLaren:</b> <a href="https://rapidautoshipping.com/services/enclosed-shipping" target="_blank">Enclosed car transport service</a> means your vehicle will be shipped in an enclosed trailer, shielded from the weather and possible road detritus. Although you will still be sharing a room with other cars, an enclosed trailer typically only accommodates seven.
+                    <br><br>
+                    This choice is significantly more expensive, adding up to $400 to your transportation expenses, but it offers greater peace of mind during the vehicle transport service. In addition, exotic, luxury, or rare cars are more frequently transported in enclosed vehicles.
+                </p>
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
