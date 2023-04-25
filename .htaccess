@@ -94,7 +94,7 @@ ReWriteRule ^cities/([0-9A-Za-z\-]+)([/]?)$ pages/cities/$1.php [NC,L]
 
 ReWriteRule ^cars([/]?)$ pages/car-company-pages/cars_list.php [NC,L]
 
-ReWriteRule ^cars/alfa-romeo-car-transport-service([/]?)$ pages/car-company-pages/alfa-romeo-car-transport-service.php [NC,L]
+
 ReWriteRule ^cars/audi-car-transport-service([/]?)$ pages/car-company-pages/audi-car-transport-service.php [NC,L]
 ReWriteRule ^cars/bmw-car-transport-service([/]?)$ pages/car-company-pages/bmw-car-transport-service.php [NC,L]
 ReWriteRule ^cars/bugatti-car-transport-service([/]?)$ pages/car-company-pages/bugatti-car-transport-service.php [NC,L]
@@ -109,13 +109,13 @@ ReWriteRule ^cars/jaguar-car-transport-service([/]?)$ pages/car-company-pages/ja
 ReWriteRule ^cars/koenigsegg-car-transport-service([/]?)$ pages/car-company-pages/koenigsegg-car-transport-service.php [NC,L]
 ReWriteRule ^cars/lamborghini-car-transport-service([/]?)$ pages/car-company-pages/lamborghini-car-transport-service.php [NC,L]
 
-ReWriteRule ^cars/lotus-car-transport-service([/]?)$ pages/car-company-pages/lotus-car-transport-service.php [NC,L]
+
 ReWriteRule ^cars/maserati-car-transport-services([/]?)$ pages/car-company-pages/maserati-car-transport-services.php [NC,L]
 ReWriteRule ^cars/mazda([/]?)$ pages/car-company-pages/mazda.php [NC,L]
 ReWriteRule ^cars/mclaren-car-transport-service([/]?)$ pages/car-company-pages/mclaren-car-transport-service.php [NC,L]
 ReWriteRule ^cars/mercedes-benz-car-transport-service([/]?)$ pages/car-company-pages/mercedes-benz-car-transport-service.php [NC,L]
 ReWriteRule ^cars/nissan([/]?)$ pages/car-company-pages/nissan.php [NC,L]
-ReWriteRule ^cars/porsche-car-transport-services([/]?)$ pages/car-company-pages/porsche-car-transport-services.php [NC,L]
+
 ReWriteRule ^cars/shelby-car-transport-service([/]?)$ pages/car-company-pages/shelby-car-transport-service.php [NC,L]
 ReWriteRule ^cars/toyota([/]?)$ pages/car-company-pages/toyota.php [NC,L]
 
