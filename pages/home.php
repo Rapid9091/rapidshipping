@@ -108,7 +108,7 @@
 
         $NAME = "Best Auto Shipping Company In USA";
         $PARAGRAPH = "We will help you to ship your vehicle on time at an affordable price. You can ship your vehicle without any hustle and bustle, only just by contacting us.<span> We will provide you best representatives to help you out if you have any questions regarding <b>auto shipping. </b> All you have to do is to fill the free quote form, to get an instant quote for your shipment. You will see your <b>auto shipping</b> quote in less than 30 seconds with our price calculator, and find out when your vehicle can be picked up.</span>";
-        ~include small_form;
+        include small_form;
         ?>
     </div>
     <?php include strip_under_header; ?>
@@ -150,7 +150,7 @@
             On TransportReviews, TrustPilot, Facebook, the Better Business Bureau, and Google, Rapid Auto Shipping consistently obtains five-star ratings. Some reviewers are given a little deposit reimbursement that is unrelated to their rating score or pricing as an incentive to share their experience. We've delivered over 20,000 new and used cars, and while we're not perfect, we've built a solid reputation in the process.</p>
         <div class="trustbadge-container">
             <div class="trustbadeg-1">
-                <img loading="lazy" src="<?= get_img() ?>bbb-rating-img.png" alt="review rapid auto shipping" />
+                <img loading="lazy" src="<?= get_img() ?>TransportReviewsLogo.webp" alt="review rapid auto shipping" />
             </div>
             <div class="trustbadeg-1">
                 <img loading="lazy" src="<?= get_img() ?>google-review-rating-img.png" alt="review rapid auto shipping" />
