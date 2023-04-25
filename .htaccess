@@ -95,7 +95,7 @@ ReWriteRule ^cities/([0-9A-Za-z\-]+)([/]?)$ pages/cities/$1.php [NC,L]
 ReWriteRule ^cars([/]?)$ pages/car-company-pages/cars_list.php [NC,L]
 
 
-ReWriteRule ^cars/audi-car-transport-service([/]?)$ pages/car-company-pages/audi-car-transport-service.php [NC,L]
+
 ReWriteRule ^cars/bmw-car-transport-service([/]?)$ pages/car-company-pages/bmw-car-transport-service.php [NC,L]
 ReWriteRule ^cars/bugatti-car-transport-service([/]?)$ pages/car-company-pages/bugatti-car-transport-service.php [NC,L]
 ReWriteRule ^cars/chevrolet([/]?)$ pages/car-company-pages/chevrolet.php [NC,L]
