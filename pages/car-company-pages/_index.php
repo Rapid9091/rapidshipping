@@ -261,7 +261,12 @@ if (isset($_GET['page_id'])) {
     <section class="all-state-name-page-mains" style="margin:3%;">
         <section class="all-state-name-pages">
             <h2 class="heading-1">
-                Auto shipping <span>Cars Models</span></h2>
+                <?php $car_slug = $data['slug'];
+                $car_model_array = explode('-',$car_slug);
+                $car_model = $car_model_array[0];
+
+                ?>
+                Some Famous <span><?= $car_model;?></span>Cars Models That we usually shift</h2>
             <div class="" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); padding:2% 5%; text-align:center;">
                 <?php
                   $json = $data['car_models'];
