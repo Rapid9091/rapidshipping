@@ -58,6 +58,11 @@ if (isset($_GET['page_id'])) {
             background-repeat: no-repeat;
             background-size: cover;
         }
+        .third-section-content{
+            display: flex;
+            justify-content: space-between;
+            flex-direction: column;
+        }
 
         /* .key-holding {
     margin: 2% 0;
@@ -104,7 +109,7 @@ if (isset($_GET['page_id'])) {
 
 
             <div class="third-section-content">
-
+            <div class="state-banner-content">
                 <h1 class="third-section-content-heading">
 
                     <?php echo $NAME; ?>
@@ -120,14 +125,16 @@ if (isset($_GET['page_id'])) {
    padding:1% 0">
                     <?php echo $PARAGRAPH;?>
                 </p>
-
+                </div>
+                <div class="state-banner-images">
                 <div class="banner-review-images">
                     <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-faiz.webp" alt="trustpilot logo"
                         loading="lazy" width="150px" height="71px" class="truspilot_logo">
                     <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-google.webp" alt=" google logo"
-                        loading="lazy" width="150px" height="66px" class="google_logo">
+                        loading="lazy" width="150px" height="66px" class="google_logo" style="margin: 0 5%;">
                     <img src="<?=get_img()?>rapid-auto-shipping-trustpilot-crunchbase2.webp" alt="cruchbase logo"
                         loading="lazy" width="150px" height="44px" class="crunchbase_logo">
+                </div>
                 </div>
 
 

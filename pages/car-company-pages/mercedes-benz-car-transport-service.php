@@ -166,7 +166,7 @@
 
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>car-transport-service.jpeg"
+                        <img loading="lazy" src="<?=get_img();?>mercedes-1.webp"
                             alt="car transport service" />
 
                     </div>
@@ -198,7 +198,7 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>car-shipping.jpeg" alt="car shipping" />
+                        <img loading="lazy" src="<?=get_img();?>mercedes-2.webp" alt="car shipping" />
 
                     </div>
                     <li id="4">
@@ -213,7 +213,7 @@
 
                     </li>
                     <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>vehicle-transport-services.jpeg"
+                        <img loading="lazy" src="<?=get_img();?>mercedes-3.webp"
                             alt="Best Mercedes Benz Car Transport Service" />
 
                     </div>
@@ -238,7 +238,7 @@
                     <!-- <div class="shipping-form-state-image">
                         <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676278088/Recent%20Uploads/ambulance-service_cwc5jf.jpg" alt=" Most Appropriate Shipping Ambulance Services" /> -->
                         <div class="shipping-form-state-image">
-                            <img loading="lazy" src="<?=get_img();?>auto-transport.jpeg" alt="car shipping cost" />
+                            <img loading="lazy" src="<?=get_img();?>mercedes-4.webp" alt="car shipping cost" />
                         </div>
                     <li id="6">
                         <div class="shipping-form-state-content">

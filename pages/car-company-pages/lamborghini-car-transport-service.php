@@ -91,7 +91,30 @@
     <!-- parent grid section start-->
     <div class="main-state-to-state">
         <div class="left-state-to-state">
-            <div class="first-section-state-to-state">
+        <div class="points-div " id="top-section">
+                <h2 class="heading-2">
+                    What's in this article?
+                </h2>
+                <ul class="points-div-ul">
+                    <li><a href="#1">How Does Lamborghini Car Transport Work?</a></li>
+                    <li><a href="#2">Door To Door Lamborghini Car Transport Service</a></li>
+                    <li><a href="#3">How Much Does Lamborghini Car Transport Service Cost?</a></li>
+                    <li><a href="#4">Cost Related Factors For Lamborghini Car Transport Services</a></li>
+                    <li><a href="#5">International Lamborghini Car Transport Services From The United States To Canada</a></li>
+                    <li><a href="#6">How Much Time Does Lamborghini Car Transportation Takes</a></li>
+                    <li><a href="#7">Lamborghini Car Transport Service Quotes</a></li>
+                    <li><a href="#8">Conclusion</a></li>
+
+                </ul>
+            </div>
+
+            
+            <!-- section from which shipping started here -->
+            <section class="first-state-to-state">
+
+                <ul>
+                    <li id="1">
+                    <div class="first-section-state-to-state">
                 <h2 class="heading-1">How Does Lamborghini Car Transport Work?</h2>
                 <p class="para-2">
                     If you want to ship a luxury car, you have a few choices. Among them are the following:
@@ -119,32 +142,13 @@
                     Lamborghini from road vibration and other types of jolts.
                 </p>
             </div>
-            <div class="shipping-form-state-image">
+                    </li>
+                    <div class="shipping-form-state-image">
                 <img loading="lazy" src="<?=get_img();?>Lamborghini-1.webp"
                     alt="car transport service" />
 
-            </div>
-
-            <div class="points-div " id="top-section">
-                <h2 class="heading-2">
-                    What's in this article?
-                </h2>
-                <ul class="points-div-ul">
-                    <li><a href="#1">Door To Door Lamborghini Car Transport Service</a></li>
-                    <li><a href="#2">How Much Does Lamborghini Car Transport Service Cost?</a></li>
-                    <li><a href="#3">Cost Related Factors For Lamborghini Car Transport Services</a></li>
-                    <li><a href="#4">International Lamborghini Car Transport Services From The United States To Canada</a></li>
-                    <li><a href="#5">How Much Time Does Lamborghini Car Transportation Takes</a></li>
-                    <li><a href="#6">Lamborghini Car Transport Service Quotes</a></li>
-                    <li><a href="#7">Conclusion</a></li>
-
-                </ul>
-            </div>
-            <!-- section from which shipping started here -->
-            <section class="first-state-to-state">
-
-                <ul>
-                    <li id="1">
+                    </div>
+                    <li id="2">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Door To Door Lamborghini Car Transport Service</h2>
                             <p class="para-2">Our company eliminates the stress of shipping by providing door to door vehicle delivery and car transport services for your Lamborghini.
@@ -153,11 +157,8 @@
                             </p>
                         </div>
                     </li>
-                    <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>Lamborghini-2.webp"
-                            alt="car shipping" />
-                    </div>
-                    <li id="2">
+                    
+                    <li id="3">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">How Much Does Lamborghini Car Transport Service Cost?</h2>
                             <p class="para-2">The cost of shipping a Lamborghini is difficult to calculate without understanding certain factors that will influence the rate charged. Expect to spend between $150 and $10,000 for the car transport service of your exotic car.
@@ -170,9 +171,12 @@
                             </p>
                         </div>
                     </li>
-                    
+                    <div class="shipping-form-state-image">
+                        <img loading="lazy" src="<?=get_img();?>Lamborghini-2.webp"
+                            alt="car shipping" />
+                    </div>
 
-                    <li id="3">
+                    <li id="4">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Cost Related Factors For Lamborghini Car Transport Services
                             </h2>
@@ -192,12 +196,9 @@
                             </p>
                         </div>
                     </li>
-                    <div class="shipping-form-state-image">
-                            <img loading="lazy" src="<?=get_img();?>Lamborghini-3.webp" alt="Best Lamborghini Car Transport Services" />
-                            
-                        </div>
+                    
 
-                    <li id="4">
+                    <li id="5">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">International Lamborghini Car Transport Services From The United States To Canada</h2>
                             <p class="para-2">With Rapid Auto Shipping, you can get dependable International car transport from the United States to Canada from expert International vehicle shippers.
@@ -208,7 +209,11 @@
                         </div>
                         
                     </li>
-                    <li id="5">
+                    <div class="shipping-form-state-image">
+                            <img loading="lazy" src="<?=get_img();?>Lamborghini-3.webp" alt="Best Lamborghini Car Transport Services" />
+                            
+                        </div>
+                    <li id="6">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">How Much Time Does Lamborghini Car Transportation Takes</h2>
                             <p class="para-2">Shipping from state to state usually takes 3-6 days. When sending from coast to coast, delivery times can vary from 7 to 10 days. For a full summary, see our piece on how long it takes. In general, the transporter can travel between 300 and 500 kilometres per day.
@@ -221,13 +226,10 @@
                         </div>
 
                     </li>
-                    <div class="shipping-form-state-image">
-                            <img loading="lazy" src="<?=get_img();?>Best-Lamborghini-Car-Transport-Services.webp"
-                                alt="vehicle transport services" />
-                        </div>
+                    
                     <!-- <div class="shipping-form-state-image">
                         <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676278088/Recent%20Uploads/ambulance-service_cwc5jf.jpg" alt=" Most Appropriate Shipping Ambulance Services" /> -->
-                    <li id="6">
+                    <li id="7">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Lamborghini Car Transport Service Quotes</h2>
                             <p class="para-2">Get quotes on auto shipping if you're looking for vehicle transit before making a choice. Once you have a quote, you can either order straight online or give us a call at +1 (833) 233-4447 to talk about your shipping requirements. To arrange pickup, no advance money is necessary.
@@ -236,7 +238,11 @@
                         </div>
                         
                     </li>
-                    <li id="7">
+                    <div class="shipping-form-state-image">
+                            <img loading="lazy" src="<?=get_img();?>Best-Lamborghini-Car-Transport-Services.webp"
+                                alt="vehicle transport services" />
+                        </div>
+                    <li id="8">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Conclusion</h2>
                             <p class="para-2">One of the most stressful items a person can send is ultra-luxury vehicles like Lamborghinis. For the actual shipping, you can choose between a covered auto carrier and an open auto carrier. After choosing a mode of transportation, carefully study the provider you will be working with because they will be shipping an expensive object you bought.

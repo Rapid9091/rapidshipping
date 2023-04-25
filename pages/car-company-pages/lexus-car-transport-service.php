@@ -46,7 +46,7 @@
         .contact-us-header-page {
             width: 100%;
             background-repeat: repeat, no-repeat;
-            background-image: url('..//assets/images/lexus-car-transport-title.webp');
+            background-image: url('..//assets/images/lexus-title.webp');
             background-blend-mode: lighten;
             position: relative;
             background-position: center;
@@ -85,7 +85,32 @@
     <!-- parent grid section start-->
     <div class="main-state-to-state">
         <div class="left-state-to-state">
-            <div class="first-section-state-to-state">
+        <div class="points-div " id="top-section">
+                <h2 class="heading-2">
+                    What's in this article?
+                </h2>
+                <ul class="points-div-ul">
+                <li><a href="#1">How To Ship A Lexus Car?</a></li>
+                    <li><a href="#2">How Much Time Does Lexus Car Transportation Takes?</a></li>
+                    <li><a href="#3">How Much Does Lexus Car Transport Service Cost?</a></li>
+                    <li><a href="#4">What Is The Cheapest Way To Lexus Car Transport Service?</a></li>
+                    <li><a href="#5">What To Know About Using A Lexus Car Shipping Company?</a></li>
+                    <li><a href="#6">How Do Lexus Car Shipping Payments Work?</a></li>
+                    <li><a href="#7">Benefit From The Off-Season</a></li>
+                    <li><a href="#8">Lexus Car Transport Service Quotes</a></li>
+
+                </ul>
+            </div>
+            
+            
+
+            
+            <!-- section from which shipping started here -->
+            <section class="first-state-to-state">
+                
+                <ul>
+                <li id="1">
+                <div class="first-section-state-to-state">
                 <h2 class="heading-1">How To Ship A Lexus Car?</h2>
                 <p class="para-2">
                 You must be certain that transportation is the best choice for you before your vehicle winds up on a flatbed, traversing the Mississippi. Although taking a week off work to go on a road trip may be more cost- and time-effective in some circumstances, many people have employment and other obligations that prohibit them from doing so. Moving older models or project vehicles are two examples of circumstances in which operating the vehicle may be difficult.
@@ -98,37 +123,18 @@
                 </p>
             </div>
             <div class="shipping-form-state-image">
-            <img loading="lazy" src="<?=get_img();?>Best-Lexus-Car-Transport-Services-5.webp" alt="car transport service"/>
+            <img loading="lazy" src="<?=get_img();?>lexus-1.webp" alt="car transport service"/>
 
             </div>
-
-            <div class="points-div " id="top-section">
-                <h2 class="heading-2">
-                    What's in this article?
-                </h2>
-                <ul class="points-div-ul">
-                    <li><a href="#1">How Much Time Does Lexus Car Transportation Takes?</a></li>
-                    <li><a href="#2">How Much Does Lexus Car Transport Service Cost?</a></li>
-                    <li><a href="#3">What Is The Cheapest Way To Lexus Car Transport Service?</a></li>
-                    <li><a href="#4">What To Know About Using A Lexus Car Shipping Company?</a></li>
-                    <li><a href="#5">How Do Lexus Car Shipping Payments Work?</a></li>
-                    <li><a href="#6">Benefit From The Off-Season</a></li>
-                    <li><a href="#7">Lexus Car Transport Service Quotes</a></li>
-
-                </ul>
-            </div>
-            <!-- section from which shipping started here -->
-            <section class="first-state-to-state">
-                
-                <ul>
-                    <li id="1">
+            </li>
+                    <li id="2">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">How Much Time Does Lexus Car Transportation Takes?</h2>
                             <p class="para-2">The distance traveled by a car transport service and the shipping business both affect how long it takes to ship a vehicle. A vehicle can be moved over lesser distances, such as 300-500 miles, in a matter of days, but shipping a car across the country can take up to a week or more.
                             </p>
                         </div>                      
                     </li>
-                    <li id="2">
+                    <li id="3">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">How Much Does Lexus Car Transport Service Cost?</h2>
                             <p class="para-2">A Lexus can be shipped for anywhere between $150 and $10,000. It varies on the shipment destination and the delivery location. Before setting a price, additional variables are taken into account, such as current fuel prices and the delivery options chosen.
@@ -144,10 +150,10 @@
                         </div>
                     </li>
                     <div class="shipping-form-state-image">
-                    <img loading="lazy" src="<?=get_img();?>car-transport-service-5.webp"
+                    <img loading="lazy" src="<?=get_img();?>lexus-2.webp"
                                 alt="car shipping" /></div>
                     
-                    <li id="3">
+                    <li id="4">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">What Is The Cheapest Way To Lexus Car Transport Service?</h2>
                             <p class="para-2">The most affordable method to ship a vehicle is by far open transport. For open car delivery, savings could total hundreds of dollars, depending on the car and the company.
@@ -157,7 +163,7 @@
                         </div>
                     </li>
 
-                    <li id="4">
+                    <li id="5">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">What To Know About Using A Lexus Car Shipping Company?</h2>
                             <p class="para-2">Most individuals don't need to hire a vehicle transport services shipping company very often. The following considerations should be made when a car transport.
@@ -175,12 +181,12 @@
 
                         </div>
                         <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>car-shipping-5.webp"
+                        <img loading="lazy" src="<?=get_img();?>lexus-3.webp"
                                 alt=" Best Lexus Car Transport Services" />
             
                         </div>
                     </li>
-                    <li id="5">
+                    <li id="6">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">How Do Lexus Car Shipping Payments Work?</h2>
                             <p class="para-2">Any respectable car transport service will provide you with a free estimate. Until the broker has found a shipper, which may take a few days after you receive an estimate, you shouldn't be required to pay anything. At that moment, you can choose to pay the complete shipping cost upfront or pay a deposit and decide to pay the balance in cash when the item is delivered.
@@ -191,7 +197,7 @@
                     </li>
                     <!-- <div class="shipping-form-state-image">
                         <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676278088/Recent%20Uploads/ambulance-service_cwc5jf.jpg" alt=" Most Appropriate Shipping Ambulance Services" /> -->
-                        <li id="6">
+                        <li id="7">
                             <div class="shipping-form-state-content">
                                 <h2 class="heading-1">Benefit From The Off-Season</h2>
                                 <p class="para-2">Avoiding high-demand months will save you the difference between regular and premium pricing if you don't need to relocate your vehicle during the fall and spring.
@@ -199,11 +205,11 @@
     
                             </div>
                             <div class="shipping-form-state-image">
-                        <img loading="lazy" src="<?=get_img();?>vehicle-transport-services-5.jpg"
+                        <img loading="lazy" src="<?=get_img();?>lexus-4.webp"
                                 alt="vehicle transport services" />
                     </div>
                         </li>
-                        <li id="7">
+                        <li id="8">
                         <div class="shipping-form-state-content">
                             <h2 class="heading-1">Lexus Car Transport Service Quotes</h2>
                             <p class="para-2">It's simple to request an estimate for vehicle shipping to or from Alabama. To get a price, just complete our inquiry form. Once you have a quote, you can either order straight online or give us a call at +1 (833) 233-4447 to talk about your shipping requirements. To arrange pickup, no advance money is necessary.</p>

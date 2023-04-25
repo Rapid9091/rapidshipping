@@ -140,7 +140,7 @@
                             </p>
                         </div>
                         <div class="shipping-form-state-image">
-                            <img loading="lazy" src="<?=get_img();?>alfa-1.webp"
+                            <img loading="lazy" src="<?=get_img();?>alfa-1 (1).webp"
                                 alt="car transport service " />
 
                         </div>

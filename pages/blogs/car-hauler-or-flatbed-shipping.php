@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Car Hauler or flatbed? How to choose better? </title>
     <meta name="title" content="Car Hauler or flatbed? How to choose better?" />
-    <meta name="description" content="Transport Flatbed, Rapid Auto Shipping provides flatbed auto Shipping services at a very affordable price in the USA. Call us at +1-833-233-4447 today. " />
+    <meta name="description" content="Car Hauler, Rapid Auto Shipping provides Car Hauler & Flatbed Shipping Services at a very affordable price in the USA. Call us at +1-833-233-4447 " />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Car Hauler or flatbed? How to choose better?" />
-    <meta property="og:description" content="Transport Flatbed, Rapid Auto Shipping provides flatbed auto Shipping services at a very affordable price in the USA. Call us at +1-833-233-4447 today." />
+    <meta property="og:description" content="Car Hauler, Rapid Auto Shipping provides Car Hauler & Flatbed Shipping Services at a very affordable price in the USA. Call us at +1-833-233-4447 " />
     <meta property="og:url" content="https://rapidautoshipping.com/blogs/car-hauler-or-flatbed-shipping" />
     <meta property="og:site_name" content="Car Hauler or flatbed? How to choose better?  " />
     <meta name='robots' content='index' />

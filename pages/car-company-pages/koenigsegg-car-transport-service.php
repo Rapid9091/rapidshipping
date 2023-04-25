@@ -89,43 +89,7 @@
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-                <h2 class="heading-1">Positive Characteristics Of A Reliable Shipping Company</h2>
-                <p class="para-2">
-                    Car transportation companies can provide you with quotes. Choose a business that provides a
-                    reasonable price and can meet your delivery requirements and any other preferences.
-                    <br><br>
-                    You will plan your pickup and return times. Before shipping a vehicle, remove any personal objects
-                    and photograph the interior and exterior. Your automobile will be picked up by the car
-                    transportation business, and you should receive it by the planned arrival date.
-                </p>
-            </div>
-            <div class="shipping-form-state-image">
-                <img loading="lazy" src="<?=get_img();?>Koenigsegg-1.webp"
-                    alt=" car transport service" />
-
-            </div>
-
-            <div class="points-div " id="top-section">
-                <h2 class="heading-2">
-                    What's in this article?
-                </h2>
-                <ul class="points-div-ul">
-                    <li><a href="#1">About The Car Transport Services Offered To Luxury Vehicle Owners</a></li>
-                    <li><a href="#2">Types Of Koenigsegg Car Transport Services</a></li>
-                    <li><a href="#3">The Advantages Of Using Rapid Auto Shipping To Ship Your Koenigsegg Car</a></li>
-                    <li><a href="#4">How Much Does Koenigsegg Car Transport Service Cost?</a></li>
-                    <li><a href="#5">Tracking Koenigsegg Car Transportation Service</a></li>
-                    <li><a href="#6">Koenigsegg Car Transport Service Quotes</a></li>
-                    <li><a href="#7">Excellent Customer Koenigsegg Car Transport Service</a></li>
-         </ul>
-            </div>
-            <!-- section from which shipping started here -->
-            <section class="first-state-to-state">
-
-                <ul>
-                    <li id="1">
-                        <div class="shipping-form-state-content">
-                            <h2 class="heading-1">About The Car Transport Services Offered To Luxury Vehicle Owners
+            <h2 class="heading-1">About The Car Transport Services Offered To Luxury Vehicle Owners
                             </h2>
                             <p class="para-2">Car transport service can be a daunting job, particularly if the vehicle
                                 is worth a lot of money. Luxury car shipping is for those that have a set of high worth.
@@ -138,6 +102,42 @@
                                 that comes with driving a premium car long distance.
 
                             </p>
+            </div>
+            
+
+            <div class="points-div " id="top-section">
+                <h2 class="heading-2">
+                    What's in this article?
+                </h2>
+                <ul class="points-div-ul">
+                    <li><a href="#1">Positive Characteristics Of A Reliable Shipping Company</a></li>
+                    <li><a href="#2">Types Of Koenigsegg Car Transport Services</a></li>
+                    <li><a href="#3">The Advantages Of Using Rapid Auto Shipping To Ship Your Koenigsegg Car</a></li>
+                    <li><a href="#4">How Much Does Koenigsegg Car Transport Service Cost?</a></li>
+                    <li><a href="#5">Tracking Koenigsegg Car Transportation Service</a></li>
+                    <li><a href="#6">Koenigsegg Car Transport Service Quotes</a></li>
+                    <li><a href="#7">Excellent Customer Koenigsegg Car Transport Service</a></li>
+         </ul>
+            </div>
+            <!-- section from which shipping started here -->
+            <section class="first-state-to-state">
+            <div class="shipping-form-state-image">
+                <img loading="lazy" src="<?=get_img();?>Koenigsegg-1.webp"
+                    alt=" car transport service" />
+
+            </div>
+                <ul>
+                    <li id="1">
+                        <div class="shipping-form-state-content">
+                            <h2 class="heading-1">Positive Characteristics Of A Reliable Shipping Company</h2>
+                <p class="para-2">
+                    Car transportation companies can provide you with quotes. Choose a business that provides a
+                    reasonable price and can meet your delivery requirements and any other preferences.
+                    <br><br>
+                    You will plan your pickup and return times. Before shipping a vehicle, remove any personal objects
+                    and photograph the interior and exterior. Your automobile will be picked up by the car
+                    transportation business, and you should receive it by the planned arrival date.
+                </p>
 
                         </div>
 
