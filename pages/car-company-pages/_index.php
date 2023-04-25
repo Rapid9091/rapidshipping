@@ -274,7 +274,7 @@ if (isset($_GET['page_id'])) {
                     if (isset($json_decoded)) {
                         foreach ($json_decoded as $result) {
                             echo '<div class="all-state-name-grids">
-                            <a href="" rel="dofollow">'.$result->car.'</a>
+                            <a href="" rel="dofollow">'.$car_model. " ".$result->car.'</a>
                         </div>';
                         }
                     }
