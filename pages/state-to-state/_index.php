@@ -25,7 +25,7 @@ if (isset($_GET['page_id'])) {
     </title>
 
     <?= $data['meta'] ?>
-    <link rel="canonical" href="<?= home_path() . " state-to-state/" . $data['slug'] ?>" />
+    <link rel="canonical" href="<?= home_path() . "state-to-state/" . $data['slug'] ?>" />
 
 
     <?php include_once new_head; ?>
