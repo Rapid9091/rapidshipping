@@ -116,7 +116,7 @@ ReWriteRule ^cars/mclaren-car-transport-service([/]?)$ pages/car-company-pages/m
 
 ReWriteRule ^cars/nissan([/]?)$ pages/car-company-pages/nissan.php [NC,L]
 
-ReWriteRule ^cars/shelby-car-transport-service([/]?)$ pages/car-company-pages/shelby-car-transport-service.php [NC,L]
+
 ReWriteRule ^cars/toyota([/]?)$ pages/car-company-pages/toyota.php [NC,L]
 
 ReWriteRule ^cars/([0-9A-Za-z\-]+)([/]?)$ pages/car-company-pages/_index.php?page_id=$1 [NC,L]
