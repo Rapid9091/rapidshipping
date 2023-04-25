@@ -266,7 +266,7 @@ if (isset($_GET['page_id'])) {
                 $car_model = ucfirst($car_model_array[0]);
 
                 ?>
-                Some Famous <span><?= $car_model;?></span> Cars Models That We Usually Shift</h2>
+                Some famous <span><?= $car_model;?></span> Cars Models that we usually ship</h2>
             <div class="" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); padding:2% 5%; text-align:center;">
                 <?php
                   $json = $data['car_models'];
