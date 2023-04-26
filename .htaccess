@@ -59,7 +59,7 @@ ReWriteRule ^states/mississippi([/]?)$ pages/states/mississippi.php [NC,L]
 ReWriteRule ^states/montana([/]?)$ pages/states/montana.php [NC,L]
 
 
-ReWriteRule ^states/new-hampshire([/]?)$ pages/states/new-hampshire.php [NC,L]
+
 ReWriteRule ^states/new-jersey([/]?)$ pages/states/new-jersey.php [NC,L]
 ReWriteRule ^states/new-mexico([/]?)$ pages/states/new-mexico.php [NC,L]
 ReWriteRule ^states/new-york([/]?)$ pages/states/new-york.php [NC,L]
