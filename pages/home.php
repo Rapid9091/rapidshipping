@@ -36,7 +36,7 @@
     <link property="image" href="<?= get_img(); ?>home_page_featured_img.jpeg" />
     <?php include head; ?>
 
-    <link rel="stylesheet" href="<?= get_css(); ?>PAGE_home.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>PAGE_home.min.css">
     <!-- <link rel="stylesheet" href="<?= get_css(); ?>PAGE_contactus.css"> -->
     <link rel="stylesheet" href="<?= get_css(); ?>strip-under-header.css">
 
