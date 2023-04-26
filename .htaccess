@@ -100,7 +100,7 @@ ReWriteRule ^cars/bmw-car-transport-service([/]?)$ pages/car-company-pages/bmw-c
 ReWriteRule ^cars/bugatti-car-transport-service([/]?)$ pages/car-company-pages/bugatti-car-transport-service.php [NC,L]
 ReWriteRule ^cars/chevrolet([/]?)$ pages/car-company-pages/chevrolet.php [NC,L]
 ReWriteRule ^cars/chrysler([/]?)$ pages/car-company-pages/chrysler.php [NC,L]
-ReWriteRule ^cars/corvette-car-transport-service([/]?)$ pages/car-company-pages/corvette-car-transport-service.php [NC,L]
+
 ReWriteRule ^cars/dodge([/]?)$ pages/car-company-pages/dodge.php [NC,L]
 
 ReWriteRule ^cars/ford([/]?)$ pages/car-company-pages/ford.php [NC,L]
