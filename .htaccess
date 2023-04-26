@@ -57,13 +57,13 @@ ReWriteRule ^states/massachusetts([/]?)$ pages/states/massachusetts.php [NC,L]
 ReWriteRule ^states/mississippi([/]?)$ pages/states/mississippi.php [NC,L]
 
 ReWriteRule ^states/montana([/]?)$ pages/states/montana.php [NC,L]
-ReWriteRule ^states/nebraska([/]?)$ pages/states/nebraska.php [NC,L]
-ReWriteRule ^states/nevada([/]?)$ pages/states/nevada.php [NC,L]
+
+
 ReWriteRule ^states/new-hampshire([/]?)$ pages/states/new-hampshire.php [NC,L]
 ReWriteRule ^states/new-jersey([/]?)$ pages/states/new-jersey.php [NC,L]
 ReWriteRule ^states/new-mexico([/]?)$ pages/states/new-mexico.php [NC,L]
 ReWriteRule ^states/new-york([/]?)$ pages/states/new-york.php [NC,L]
-ReWriteRule ^states/north-carolina([/]?)$ pages/states/north-carolina.php [NC,L]
+
 ReWriteRule ^states/north-dakota([/]?)$ pages/states/north-dakota.php [NC,L]
 ReWriteRule ^states/ohio([/]?)$ pages/states/ohio.php [NC,L]
 ReWriteRule ^states/oklahoma([/]?)$ pages/states/oklahoma.php [NC,L]

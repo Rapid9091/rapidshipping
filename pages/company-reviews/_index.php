@@ -54,7 +54,7 @@ if (isset($_GET['PAGE'])) {
     <?php include_once header ?>
     <!-- new section under the first section of single line -->
     <div class="company-review-first-section">
-        <h3>Auto Transport Carriers</h3>
+        <h1 style="text-align: center;" >Auto Transport Carriers</h1>
     </div>
     <div class="company-review-grid-section">
 
