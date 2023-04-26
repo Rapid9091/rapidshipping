@@ -28,6 +28,7 @@
 
     <link rel="stylesheet" href="<?= get_css(); ?>small-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_blog.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>small_form_new.css">
     <style>
         .contact-us-header-page {
             width: 100%;
@@ -46,13 +47,41 @@
     <!-- this is header -->
     <?php include_once header ?>
     <!-- new section under the first section of single line -->
-    <div class="contact-us-header-page">
-        <?php
+
+    
+
+    <?php
         $NAME = "Rapid Auto Shipping Blogs";
         $PARAGRAPH = "Rapid Auto Shipping blogs provide advice on how to plan your car transport. Our car shipping blogs will show you how to ship a car in the United States and will assist our customers in shipping their vehicles from one location to another. At Rapid Auto Shipping blogs, we have offered car shipping blogs to help you transfer your vehicle quickly and affordably.";
-        include small_form;
         ?>
-    </div>
+    <section class="contact-us-header-page" id="banner_form">
+
+        <div class="third-section-state">
+
+
+            <div class="third-section-content">
+            <div class="state-banner-content">
+                <h1 class="third-section-content-heading">
+
+                    <?php echo $NAME; ?>
+                </h1>
+
+
+                <p class="third-section-content-text">
+                    <?php echo $PARAGRAPH;?>
+                </p>
+                </div>
+
+            </div>
+            <div style="display:grid;
+                place-items:center;">
+                <?php include small_form_new ;?>
+            </div>
+
+
+
+        </div>
+    </section>
     <!-- blogs section -->
     <section class="blog-page-blog-section">
         <div class="blog-page-blog-section-grid">
@@ -1415,6 +1444,9 @@
     </section>
     <!-- footer here -->
     <?php include_once page_bottom ?>
+
+    <script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&callback=Function.prototype&libraries=places" defer></script>
+    <script src="<?=get_js()?>small_form_new.js" defer></script>
 
 </body>
 
