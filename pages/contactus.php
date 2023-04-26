@@ -36,6 +36,7 @@
      <link rel="stylesheet" href="<?= get_css(); ?>global.css">
      <!-- this page main css -->
      <link rel="stylesheet" href="<?= get_css(); ?>PAGE_contactus.css">
+     <link rel="stylesheet" href="<?= get_css(); ?>new-side-form.css">
 
      <!-- cdn link of font awesome -->
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous" />
@@ -132,6 +133,7 @@
              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3404903.6195839215!2d-104.04787384413115!3d33.55074711107423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87004d8702dc4ac7%3A0x9f3bfd5545d14ae8!2sRAPID%20AUTO%20SHIPPING!5e0!3m2!1sen!2sus!4v1642075843595!5m2!1sen!2sus" width="80%" height="80%" style="border:0;" allowfullscreen="" loading="lazy">
              </iframe>
          </div>
+         
          <div class="contact-us-third-section-form">
              <!-- <p>Please Contact us through <strong>Message</strong> or <strong>Email</strong> us</p>
              <input type="text" placeholder="Name"></input>
@@ -143,11 +145,11 @@
              <!-- form here -->
 
              <?php
-                $form_url = home_path() . "services/short_form.php?redirectto=" . current_path();
+                // $form_url = home_path() . "services/short_form.php?redirectto=" . current_path();
                 ?>
-             <div class="third-section-content">
+             <!-- <div class="third-section-content">
              </div>
-
+             
              <form action="<?= $form_url ?>" class="third-section-form">
                  <div>
                      <p>Get an Instant Quote </p>
@@ -168,9 +170,9 @@
                          </div>
 
                          <?php
-                            if (isset($_GET['error'])) {
-                                echo "<p style='text-align:center; font-size:14px; color:red; margin-bottom:10px;'>" . $_GET['error'] . "</p>";
-                            }
+                            // if (isset($_GET['error'])) {
+                            //     echo "<p style='text-align:center; font-size:14px; color:red; margin-bottom:10px;'>" . $_GET['error'] . "</p>";
+                            // }
 
                             ?>
 
@@ -189,7 +191,8 @@
                          </div>
                      </div>
                  </div>
-             </form>
+             </form> -->
+             <?php  include side_form_new ;?>
              <div class="pop-backgroud" id="pop-up-login">
                  <section class="profile-details-section" id="form">
                      <img src="<?= get_img() ?>/cross-mark.png" onclick="hide_pop_up()" class="cross-mark" alt="rapid-auto-shipping" />
@@ -232,6 +235,9 @@
      </section>
 
      <?php include_once page_bottom ?>
+
+     <script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&callback=Function.prototype&libraries=places" defer></script>
+    <script src="<?=get_js()?>side_form_new2.js" defer></script>
 
  </body>
 

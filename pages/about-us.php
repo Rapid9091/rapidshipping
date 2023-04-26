@@ -24,7 +24,7 @@
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->
     <?php include head; ?>
-    <link rel="stylesheet" href="<?= get_css(); ?>PAGE_home.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>PAGE_home.min.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_contactus.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_about-us.css">
     <!-- animation css link   -->
@@ -52,14 +52,39 @@
     <!-- this is header -->
     <?php include header; ?>
     <!-- this is the fiorst section with background image -->
-    <div class="contact-us-header-page">
-        <?php
-
+    <?php
         $NAME = "About US";
         $PARAGRAPH = "We will help you to ship your vehicle on time at an affordable price. You can ship your vehicle without any hustle and bustle, only just by contacting us.<span> We will provide you best representatives to help you out if you have any questions regarding <b>auto shipping. </b> All you have to do is to fill the free quote form, to get an instant quote for your shipment. You will see your <b>auto shipping</b> quote in less than 30 seconds with our price calculator, and find out when your vehicle can be picked up.</span>";
-        ~include small_form;
         ?>
-    </div>
+    <section class="contact-us-header-page" id="banner_form">
+
+        <div class="third-section-state">
+
+
+            <div class="third-section-content">
+            <div class="state-banner-content">
+                <h1 class="third-section-content-heading">
+
+                    <?php echo $NAME; ?>
+                </h1>
+
+
+                <p class="third-section-content-text">
+                    <?php echo $PARAGRAPH;?>
+                </p>
+                </div>
+
+            </div>
+            <div style="display:grid;
+                place-items:center;">
+                <?php include small_form_new ;?>
+            </div>
+
+
+
+        </div>
+    </section>
+    
     <!-- first section home page  -->
     <div class="first-section-about-us">
         <h2 class="main-heading-for-big-screen">About Our Company</h2>
@@ -150,7 +175,8 @@
     </section>
     <?php include_once page_bottom ?>
 
-
+    <script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&callback=Function.prototype&libraries=places" defer></script>
+    <script src="<?=get_js()?>small_form_new.js" defer></script>
 </body>
 
 </html>
