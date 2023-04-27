@@ -300,8 +300,7 @@
                             <ul>
                                 <li>
                                     <i class='bx bxs-book-alt' ></i><a
-                                        href="<?= home_path() ?>blogs/autoshipping-companies-in-arkansas-2022">Autoshipping
-                                        companies in arkansas 2022</a>
+                                        href="<?= home_path() ?>blogs/cost-from-california-to-texas">Ship Car From California To Texas</a>
                                 </li>
                                 <li>
                                     <i class='bx bxs-book-alt' ></i><a href="<?= home_path() ?>blogs/cheapest-way-to-ship-a-car">Cheapest way to
@@ -309,12 +308,10 @@
                                         car</a>
                                 </li>
                                 <li>
-                                    <i class='bx bxs-book-alt' ></i><a href="<?= home_path() ?>blogs/state-to-state-transport">State to state
-                                        transport</a>
+                                    <i class='bx bxs-book-alt' ></i><a href="<?= home_path() ?>blogs/enclosed-vs-open-car-transport">Enclosed vs Open Car Transport</a>
                                 </li>
                                 <li>
-                                    <i class='bx bxs-book-alt' ></i><a href="<?= home_path() ?>blogs/shipping-car-to-mexico">Shipping car to
-                                        Mexico</a>
+                                    <i class='bx bxs-book-alt' ></i><a href="<?= home_path() ?>blogs/fifth-wheel-transport-services">Fifth Wheel Transport Services</a>
                                 </li>
                                 <li>
                                     <i class='bx bxs-book-alt' ></i><a href="<?= home_path() ?>blogs">Let's
