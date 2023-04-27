@@ -189,12 +189,8 @@ if (isset($_GET['page_id'])) {
     <div class="main-state-to-state">
         <div class="left-state-to-state">
             <div class="first-section-state-to-state">
-                <h2 class="heading-1"><strong>
-                        <?=$data['h2'];?>
-                    </strong></h2>
-                <p class="para-2">
-                    <?= $data['h2_about'];?>
-                </p>
+                <h2 class="heading-1"><strong><?=$data['h2'];?></strong></h2>
+                <p class="para-2"><?= $data['h2_about'];?></p>
             </div>
 
 
