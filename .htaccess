@@ -135,9 +135,9 @@ ReWriteRule ^auto-transport-carriers([/]?)$ pages/company-reviews/_index.php [NC
 #
 #=============================================================================================================
 # This route work for blog-pages(blog)
+ReWriteRule ^blogs([/]?)$ pages/blogs/blogs_list.php [NC,L]
 ReWriteRule ^blogs/([0-9A-Za-z\-]+)([/]?)$ pages/blogs/$1.php [NC,L]
-ReWriteRule ^blogs([/]?)$ pages/blogs/_index.php [NC,L]
-#
+
 
 
 
