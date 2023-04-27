@@ -161,7 +161,7 @@ ReWriteRule ^cars/dodge([/]?)$ pages/car-company-pages/dodge.php [NC,L]
 ReWriteRule ^cars/ford([/]?)$ pages/car-company-pages/ford.php [NC,L]
 ReWriteRule ^cars/honda([/]?)$ pages/car-company-pages/honda.php [NC,L]
 
-ReWriteRule ^cars/koenigsegg-car-transport-service([/]?)$ pages/car-company-pages/koenigsegg-car-transport-service.php [NC,L]
+
 
 
 
