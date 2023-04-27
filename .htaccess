@@ -63,7 +63,7 @@ ReWriteRule ^services/komatsu-equipment-shipping([/]?)$ pages/services-pages/kom
 ReWriteRule ^services/line-haul-transport([/]?)$ pages/services-pages/line-haul-transport.php [NC,L]
 ReWriteRule ^services/lowboy-shipping([/]?)$ pages/services-pages/lowboy-shipping.php [NC,L]
 ReWriteRule ^services/military-shipping([/]?)$ pages/services-pages/military-shipping.php [NC,L]
-ReWriteRule ^services/motor-cycle-shipping([/]?)$ pages/services-pages/motor-cycle-shipping.php [NC,L]
+# ReWriteRule ^services/motor-cycle-shipping([/]?)$ pages/services-pages/motor-cycle-shipping.php [NC,L]
 ReWriteRule ^services/motorcycle-by-train([/]?)$ pages/services-pages/motorcycle-by-train.php [NC,L]
 ReWriteRule ^services/multi-car-shipping([/]?)$ pages/services-pages/multi-car-shipping.php [NC,L]
 ReWriteRule ^services/new-holland-tractor([/]?)$ pages/services-pages/new-holland-tractor.php [NC,L]
