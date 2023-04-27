@@ -295,10 +295,17 @@ if (isset($_GET['page_id'])) {
                   $json = $data['car_models'];
                   $json_decoded = json_decode($json);
                     if (isset($json_decoded)) {
+                        $count = 0;
                         foreach ($json_decoded as $result) {
+                            if($count % 2 == 0){
+                                $model_add = "Shipping";
+                            }else{
+                                $model_add = "Transport";
+                            }
                             echo '<div class="all-state-name-grids">
-                            <a href="" rel="dofollow">'.$car_model. " ".$result->car.'</a>
+                            <a href="" rel="dofollow">'.$car_model. " ".$result->car." ".$model_add.'</a>
                         </div>';
+                        $count++;
                         }
                     }
                     ?>
