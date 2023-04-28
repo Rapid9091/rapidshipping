@@ -260,6 +260,7 @@ ReWriteRule ^blogs/pros-and-cons-of-door-to-door-auto-shipping([/]?)$ pages/blog
 ReWriteRule ^blogs/race-car-transport-services([/]?)$ pages/blogs/race-car-transport-services.php [NC,L]
 ReWriteRule ^blogs/right-auto-transport-carrier-for-your-vehicle([/]?)$ pages/blogs/right-auto-transport-carrier-for-your-vehicle.php [NC,L]
 ReWriteRule ^blogs/san-diego-auto-shipping([/]?)$ pages/blogs/san-diego-auto-shipping.php [NC,L]
+ReWriteRule ^blogs/san-fransisco-shipping([/]?)$ pages/blogs/san-fransisco-shipping.php [NC,L]
 ReWriteRule ^blogs/ship-from-new-york-to-florida([/]?)$ pages/blogs/ship-from-new-york-to-florida.php [NC,L]
 ReWriteRule ^blogs/shipping-a-car-in-the-winter([/]?)$ pages/blogs/shipping-a-car-in-the-winter.php [NC,L]
 ReWriteRule ^blogs/shipping-a-dump-truck([/]?)$ pages/blogs/shipping-a-dump-truck.php [NC,L]
