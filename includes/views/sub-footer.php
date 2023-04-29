@@ -150,7 +150,7 @@
         <div class="footer-urls-grid-1">
             <p class="footer-grid-headings">Policies</p>
             <ul>
-                <li><a href="<?= home_path(); ?>sitemap.xml">Sitemap</a></li>
+                
                 
                 <li><a href="<?= home_path(); ?>privacy-policy">Privacy Policy</a></li>
                 <li><a href="<?= home_path(); ?>">Terms of Use</a></li>
