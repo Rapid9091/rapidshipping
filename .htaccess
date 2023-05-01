@@ -124,7 +124,7 @@ ReWriteRule ^states/north-dakota([/]?)$ pages/states/north-dakota.php [NC,L]
 
 ReWriteRule ^states/oklahoma([/]?)$ pages/states/oklahoma.php [NC,L]
 ReWriteRule ^states/oregon([/]?)$ pages/states/oregon.php [NC,L]
-ReWriteRule ^states/pennsylvania([/]?)$ pages/states/pennsylvania.php [NC,L]
+
 ReWriteRule ^states/rhode-island([/]?)$ pages/states/rhode-island.php [NC,L]
 ReWriteRule ^states/south-carolina([/]?)$ pages/states/south-carolina.php [NC,L]
 
