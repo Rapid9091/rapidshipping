@@ -65,7 +65,7 @@ ReWriteRule ^states/new-mexico([/]?)$ pages/states/new-mexico.php [NC,L]
 ReWriteRule ^states/new-york([/]?)$ pages/states/new-york.php [NC,L]
 
 ReWriteRule ^states/north-dakota([/]?)$ pages/states/north-dakota.php [NC,L]
-ReWriteRule ^states/ohio([/]?)$ pages/states/ohio.php [NC,L]
+
 ReWriteRule ^states/oklahoma([/]?)$ pages/states/oklahoma.php [NC,L]
 ReWriteRule ^states/oregon([/]?)$ pages/states/oregon.php [NC,L]
 ReWriteRule ^states/pennsylvania([/]?)$ pages/states/pennsylvania.php [NC,L]
