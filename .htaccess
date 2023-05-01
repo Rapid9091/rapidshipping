@@ -106,7 +106,7 @@ ReWriteRule ^states([/]?)$ pages/states/state_list.php [NC,L]
 
 
 ReWriteRule ^states/maryland([/]?)$ pages/states/maryland.php [NC,L]
-ReWriteRule ^states/massachusetts([/]?)$ pages/states/massachusetts.php [NC,L]
+
 
 
 ReWriteRule ^states/mississippi([/]?)$ pages/states/mississippi.php [NC,L]
