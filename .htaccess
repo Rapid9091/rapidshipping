@@ -204,7 +204,7 @@ ReWriteRule ^blogs/how-to-avoid-issues-with-auto-transport-broker([/]?)$ pages/b
 ReWriteRule ^blogs/how-to-prepare-your-vehicle([/]?)$ pages/blogs/how-to-prepare-your-vehicle.php [NC,L]
 ReWriteRule ^blogs/how-to-ship-a-car-overseas([/]?)$ pages/blogs/how-to-ship-a-car-overseas.php [NC,L]
 ReWriteRule ^blogs/how-to-ship-a-military-persons-vehicle([/]?)$ pages/blogs/how-to-ship-a-military-persons-vehicle.php [NC,L]
-ReWriteRule ^blogs/how-to-ship-a-truck([/]?)$ pages/blogs/how-to-ship-a-truck.php [NC,L]
+# ReWriteRule ^blogs/how-to-ship-a-truck([/]?)$ pages/blogs/how-to-ship-a-truck.php [NC,L]
 ReWriteRule ^blogs/how-to-ship-non-running-vehicle([/]?)$ pages/blogs/how-to-ship-non-running-vehicle.php [NC,L]
 ReWriteRule ^blogs/indianapolis-auto-transport-guide([/]?)$ pages/blogs/indianapolis-auto-transport-guide.php [NC,L]
 ReWriteRule ^blogs/international-car-shipping-tips([/]?)$ pages/blogs/international-car-shipping-tips.php [NC,L]
