@@ -481,7 +481,7 @@
                     <li>
                         <div class="cars-img-name">
                             <a href="<?= home_path(); ?>cars/toyota"><img src="<?= get_img() ?>Toyota-car-logo-removebg-preview.png" alt="Toyota car"></a>
-                            <a href="<?= home_path(); ?>">
+                            <a href="<?= home_path(); ?>toyota">
                                 <p>Toyota</p>
                             </a>
 
