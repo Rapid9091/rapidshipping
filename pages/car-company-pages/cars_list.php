@@ -52,8 +52,10 @@
                 <ul>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>acura-logo-car-logo-removebg-preview.png" alt="acura car">
-                            <p>Acura</p>
+                            <a href="<?= home_path(); ?>cars/acura-car-transport-service"><img src="<?= get_img() ?>acura-logo-car-logo-removebg-preview.png" alt="acura car"></a>
+                            <a href="<?= home_path(); ?>cars/acura-car-transport-service">
+                                <p>Acura</p>
+                            </a>
 
                         </div>
                     </li>
@@ -174,8 +176,10 @@
 
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Genesis-Logo-car-removebg-preview.png" alt="Genesis">
-                            <p>Genesis</p>
+                            <a href="<?= home_path(); ?>cars/genesis-car-transport-service"><img src="<?= get_img() ?>Genesis-Logo-car-removebg-preview.png" alt="Genesis"></a>
+                            <a href="<?= home_path(); ?>cars/genesis-car-transport-service">
+                                <p>Genesis</p>
+                            </a>
 
                         </div>
                     </li>
@@ -190,8 +194,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>gmc-car-img-removebg-preview.png" alt="gmc car">
-                            <p>GMC</p>
+                            <a href="<?= home_path(); ?>cars/gmc-car-shipping-company"><img src="<?= get_img() ?>gmc-car-img-removebg-preview.png" alt="gmc car"></a>
+                            <a href="<?= home_path(); ?>cars/gmc-car-shipping-company">
+                                <p>GMC</p>
+                            </a>
 
                         </div>
                     </li>
@@ -206,8 +212,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>hyundai-logo-hyundai-min.png" alt="hyundai">
-                            <p>Hyundai</p>
+                            <a href="<?= home_path(); ?>cars/hyundai-car-transport-service"><img src="<?= get_img() ?>hyundai-logo-hyundai-min.png" alt="hyundai"></a>
+                            <a href="<?= home_path(); ?>cars/hyundai-car-transport-service">
+                                <p>Hyundai</p>
+                            </a>
 
                         </div>
                     </li>
@@ -289,8 +297,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>lincoln-removebg-preview.png" alt="lincoln">
-                            <p>Lincoln</p>
+                            <a href="<?= home_path(); ?>cars/lincoln-car-transport-service"><img src="<?= get_img() ?>lincoln-removebg-preview.png" alt="lincoln"></a>
+                            <a href="<?= home_path(); ?>cars/lincoln-car-transport-service">
+                                <p>Lincoln</p>
+                            </a>
 
                         </div>
                     </li>
@@ -414,15 +424,19 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>saab-car-logo-removebg-preview.png" alt="saab car">
-                            <p>Saab</p>
+                            <a href="<?= home_path(); ?>cars/saab-car-transport-service"><img src="<?= get_img() ?>saab-car-logo-removebg-preview.png" alt="saab car"></a>
+                            <a href="<?= home_path(); ?>cars/saab-car-transport-service">
+                                <p>Saab</p>
+                            </a>
 
                         </div>
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Saturn-car-img-logo-removebg-preview.png" alt="Saturn car">
-                            <p>Saturn</p>
+                            <a href="<?= home_path(); ?>cars/saturn-car-transport-service"><img src="<?= get_img() ?>Saturn-car-img-logo-removebg-preview.png" alt="Saturn car"></a>
+                            <a href="<?= home_path(); ?>cars/saturn-car-transport-service">
+                                <p>Saturn</p>
+                            </a>
 
                         </div>
                     </li>
@@ -450,8 +464,10 @@
 
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Suzuki-car-logo-removebg-preview.png" alt="Suzuki car">
-                            <p>Suzuki</p>
+                            <a href="<?= home_path(); ?>cars/suzuki-car-transport-service"><img src="<?= get_img() ?>Suzuki-car-logo-removebg-preview.png" alt="Suzuki car"></a>
+                            <a href="<?= home_path(); ?>cars/suzuki-car-transport-service">
+                                <p>Suzuki</p>
+                            </a>
 
                         </div>
                     </li>
