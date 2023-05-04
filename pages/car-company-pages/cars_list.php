@@ -405,8 +405,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Ram-logo-removebg-preview.png" alt="Ram logo">
-                            <p>Ram</p>
+                            <a href="<?= home_path(); ?>cars/ram-car-transport-service"><img src="<?= get_img() ?>Ram-logo-removebg-preview.png" alt="Ram logo"></a>
+                            <a href="<?= home_path(); ?>cars/ram-car-transport-service">
+                                <p>Ram</p>
+                            </a>
 
                         </div>
                     </li>
