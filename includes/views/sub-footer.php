@@ -103,7 +103,7 @@
                 <li><a href="<?= home_path(); ?>state-to-state/alabama-to-arizona">Alabama to Arizona</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/california-to-texas">california to texas</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/california-to-arizona">California to Arizona</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state/mexico-to-arizona">mexico to arizona</a></li>
+                <li><a href="<?= home_path(); ?>state-to-state/new-mexico-to-arizona">New mexico to arizona</a></li>
                 <li><a href="<?= home_path(); ?>state-to-state/texas-to-colorado">texas to colorado</a></li>
             </ul>
         </div>
