@@ -128,7 +128,7 @@ ReWriteRule ^cars/ford([/]?)$ pages/car-company-pages/ford.php [NC,L]
 
 
 
-ReWriteRule ^cars/mazda([/]?)$ pages/car-company-pages/mazda.php [NC,L]
+#ReWriteRule ^cars/mazda([/]?)$ pages/car-company-pages/mazda.php [NC,L]
 
 
 ReWriteRule ^cars/nissan([/]?)$ pages/car-company-pages/nissan.php [NC,L]
