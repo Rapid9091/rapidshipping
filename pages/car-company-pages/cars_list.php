@@ -324,8 +324,8 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <a href="<?= home_path(); ?>cars/mazda"><img src="<?= get_img() ?>mazda_PNG86-removebg-preview.png" alt="mazda"></a>
-                            <a href="<?= home_path(); ?>cars/mazda">
+                            <a href="<?= home_path(); ?>cars/mazda-car-transport-service"><img src="<?= get_img() ?>mazda_PNG86-removebg-preview.png" alt="mazda"></a>
+                            <a href="<?= home_path(); ?>cars/mazda-car-transport-service">
                                 <p>Mazda</p>
                             </a>
 
