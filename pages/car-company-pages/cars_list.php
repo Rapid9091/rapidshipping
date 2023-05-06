@@ -496,8 +496,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Volvo-car-logo-removebg-preview.png" alt="Volvo car">
-                            <p>Volvo</p>
+                            <a href="<?= home_path(); ?>cars/volvo-car-transport-service"><img src="<?= get_img() ?>Volvo-car-logo-removebg-preview.png" alt="Volvo car"></a>
+                            <a href="<?= home_path(); ?>cars/volvo-car-transport-service">
+                                <p>Volvo</p>
+                            </a>
 
                         </div>
                     </li>
