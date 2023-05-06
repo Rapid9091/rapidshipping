@@ -185,8 +185,8 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <a href="<?= home_path(); ?>cars/honda"><img src="<?= get_img() ?>car_logo_honda-removebg-preview.png" alt="honda"></a>
-                            <a href="<?= home_path(); ?>cars/honda">
+                            <a href="<?= home_path(); ?>cars/honda-car-transport-service"><img src="<?= get_img() ?>car_logo_honda-removebg-preview.png" alt="honda"></a>
+                            <a href="<?= home_path(); ?>cars/honda-car-transport-service">
                                 <p>Honda</p>
                             </a>
 
