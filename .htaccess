@@ -228,7 +228,7 @@ ReWriteRule ^blogs/shipping-a-car-in-the-winter([/]?)$ pages/blogs/shipping-a-ca
 ReWriteRule ^blogs/shipping-a-dump-truck([/]?)$ pages/blogs/shipping-a-dump-truck.php [NC,L]
 ReWriteRule ^blogs/shipping-car-to-alaska([/]?)$ pages/blogs/shipping-car-to-alaska.php [NC,L]
 ReWriteRule ^blogs/shipping-car-to-mexico([/]?)$ pages/blogs/shipping-car-to-mexico.php [NC,L]
-ReWriteRule ^blogs/special-discounts([/]?)$ pages/blogs/special-discounts.php [NC,L]
+# ReWriteRule ^blogs/special-discounts([/]?)$ pages/blogs/special-discounts.php [NC,L]
 ReWriteRule ^blogs/state-to-state-transport([/]?)$ pages/blogs/state-to-state-transport.php [NC,L]
 ReWriteRule ^blogs/summer-car-shipping([/]?)$ pages/blogs/summer-car-shipping.php [NC,L]
 ReWriteRule ^blogs/suv-auto-transport([/]?)$ pages/blogs/suv-auto-transport.php [NC,L]
