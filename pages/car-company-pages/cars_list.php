@@ -185,8 +185,8 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <a href="<?= home_path(); ?>cars/honda"><img src="<?= get_img() ?>car_logo_honda-removebg-preview.png" alt="honda"></a>
-                            <a href="<?= home_path(); ?>cars/honda">
+                            <a href="<?= home_path(); ?>cars/honda-car-transport-service"><img src="<?= get_img() ?>car_logo_honda-removebg-preview.png" alt="honda"></a>
+                            <a href="<?= home_path(); ?>cars/honda-car-transport-service">
                                 <p>Honda</p>
                             </a>
 
@@ -496,8 +496,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Volvo-car-logo-removebg-preview.png" alt="Volvo car">
-                            <p>Volvo</p>
+                            <a href="<?= home_path(); ?>cars/volvo-car-transport-service"><img src="<?= get_img() ?>Volvo-car-logo-removebg-preview.png" alt="Volvo car"></a>
+                            <a href="<?= home_path(); ?>cars/volvo-car-transport-service">
+                                <p>Volvo</p>
+                            </a>
 
                         </div>
                     </li>
