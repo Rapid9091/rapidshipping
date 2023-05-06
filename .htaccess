@@ -242,7 +242,7 @@ ReWriteRule ^blogs/transporting-my-car-to-another-state([/]?)$ pages/blogs/trans
 ReWriteRule ^blogs/transporting-my-car-to-another-state([/]?)$ pages/blogs/transporting-my-car-to-another-state.php [NC,L]
 ReWriteRule ^blogs/travel-trailer-moving-service([/]?)$ pages/blogs/travel-trailer-moving-service.php [NC,L]
 ReWriteRule ^blogs/types-of-auto-transport([/]?)$ pages/blogs/types-of-auto-transport.php [NC,L]
-ReWriteRule ^blogs/what-is-it-snowbird-auto-transport([/]?)$ pages/blogs/what-is-it-snowbird-auto-transport.php [NC,L]
+# ReWriteRule ^blogs/what-is-it-snowbird-auto-transport([/]?)$ pages/blogs/what-is-it-snowbird-auto-transport.php [NC,L]
 ReWriteRule ^blogs/what-is-usdot-how-to-check-usdot([/]?)$ pages/blogs/what-is-usdot-how-to-check-usdot.php [NC,L]
 ReWriteRule ^blogs/why-do-auto-shipping-quote-differ([/]?)$ pages/blogs/why-do-auto-shipping-quote-differ.php [NC,L]
 ReWriteRule ^blogs/why-not-to-run-for-low-prices([/]?)$ pages/blogs/why-not-to-run-for-low-prices.php [NC,L]
