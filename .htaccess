@@ -33,7 +33,7 @@ ReWriteRule ^services/car-shipping-companies([/]?)$ pages/services-pages/car-shi
 ReWriteRule ^services/car-shipping-services([/]?)$ pages/services-pages/car-shipping-services.php [NC,L]
 #ReWriteRule ^services/car-transport-dealership([/]?)$ pages/services-pages/car-transport-dealership.php [NC,L]
 ReWriteRule ^services/car-transport-in-continental-us([/]?)$ pages/services-pages/car-transport-in-continental-us.php [NC,L]
-ReWriteRule ^services/car-transport-quotes([/]?)$ pages/services-pages/car-transport-quotes.php [NC,L]
+#ReWriteRule ^services/car-transport-quotes([/]?)$ pages/services-pages/car-transport-quotes.php [NC,L]
 ReWriteRule ^services/car-transport([/]?)$ pages/services-pages/car-transport.php [NC,L]
 ReWriteRule ^services/cargo-vans-services([/]?)$ pages/services-pages/cargo-vans-services.php [NC,L]
 ReWriteRule ^services/caterpillar-equipment-shipping([/]?)$ pages/services-pages/caterpillar-equipment-shipping.php [NC,L]
