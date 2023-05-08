@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Transportation Car Service" />
     <meta property="og:description" content="Transportation car services enable vehicles to bring products directly from the point of production to the end of the pickup, eliminating the need for time-consuming application reloading measures." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/auto-auction-shipping" />
+    <meta property="og:url" content="https://rapidautoshipping.com/services/best-transportation-car-services" />
     <meta property="og:image" content="https://rapidautoshipping.com/assets/images/GettyImages-0-1.png" />
     <meta property="og:site_name" content="Best Transportation Car Service" />
     <meta name='robots' content='index' />
