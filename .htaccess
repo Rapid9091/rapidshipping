@@ -30,7 +30,7 @@ ReWriteRule ^services([/]?)$ pages/service.php [NC,L]
 #ReWriteRule ^services/best-transportation-car-services([/]?)$ pages/services-pages/best-transportation-car-services.php [NC,L]
 #ReWriteRule ^services/boat-shipping([/]?)$ pages/services-pages/boat-shipping.php [NC,L]
 ReWriteRule ^services/car-shipping-companies([/]?)$ pages/services-pages/car-shipping-companies.php [NC,L]
-ReWriteRule ^services/car-shipping-services([/]?)$ pages/services-pages/car-shipping-services.php [NC,L]
+#ReWriteRule ^services/car-shipping-services([/]?)$ pages/services-pages/car-shipping-services.php [NC,L]
 #ReWriteRule ^services/car-transport-dealership([/]?)$ pages/services-pages/car-transport-dealership.php [NC,L]
 ReWriteRule ^services/car-transport-in-continental-us([/]?)$ pages/services-pages/car-transport-in-continental-us.php [NC,L]
 #ReWriteRule ^services/car-transport-quotes([/]?)$ pages/services-pages/car-transport-quotes.php [NC,L]
@@ -131,7 +131,7 @@ ReWriteRule ^cars/ford([/]?)$ pages/car-company-pages/ford.php [NC,L]
 #ReWriteRule ^cars/mazda([/]?)$ pages/car-company-pages/mazda.php [NC,L]
 
 
-ReWriteRule ^cars/nissan([/]?)$ pages/car-company-pages/nissan.php [NC,L]
+#ReWriteRule ^cars/nissan([/]?)$ pages/car-company-pages/nissan.php [NC,L]
 
 
 ReWriteRule ^cars/toyota([/]?)$ pages/car-company-pages/toyota.php [NC,L]
