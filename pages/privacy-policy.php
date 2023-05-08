@@ -6,6 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <?php include head;    ?>
+    <link rel="stylesheet" href="<?= get_css(); ?>car-key-section.css">
     <style>
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
   body{
@@ -24,7 +26,7 @@
     </style>
 </head>
 <body>
-
+<?php include header; ?>
     <div class="policy-container">
         <h2>Privacy Policy</h2>
         <p>Rapid Auto Shipping website is owned by Flampeg Solutions LLC, which is a data controller of your personal data.</p>
@@ -60,6 +62,7 @@
         <h2>Contact information:</h2>
         <p>If you would like to learn more about this policy or contact us about any issue involving individual rights and your personal information, please send an email to info@rapidautoshipping.com or fill out the form on the <a href="https://rapidautoshipping.com/contact-us" target="_blank">contact page </a>.</p>
     </div>
+    <?php include_once page_bottom ?>
    
 </body>
 </html>
