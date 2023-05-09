@@ -241,7 +241,7 @@ if (isset($_GET['page_id'])) {
     <!-- ------------------------ -->
     <section class="rapid-advantages-section" style="margin-top:3%">
         <div class="rapid-advantages-grid-container">
-            <p class="heading-1">Advantages using <span>Rapid Auto Shipping</span></p>
+            <h2 class="heading-1">Advantages using <span>Rapid Auto Shipping</span></h2>
             <div class="rapid-advantages-grid utility_grid utility_grid-4">
                 <div class="rapid-advantages-grid-1 ">
                     <img src="<?= get_img() ?>icons/rating.webp" alt="best car shipping in USA" loading="lazy"
@@ -279,7 +279,7 @@ if (isset($_GET['page_id'])) {
     <!---------------- state names for all the states ---------->
     <section class="all-state-name-page-mains" style="margin:3%;">
         <section class="all-state-name-pages">
-            <p class="heading-1">
+            <h2 class="heading-1">
                 <?php $car_slug = $data['slug'];
                 $car_model_array = explode('-',$car_slug);
                 $car_model = ucfirst($car_model_array[0]);
@@ -288,7 +288,7 @@ if (isset($_GET['page_id'])) {
                 Some famous <span>
                     <?= $car_model;?>
                 </span> Cars Models that we usually ship
-    </p>
+    </h2>
             <div class=""
                 style="display:grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); padding:2% 5%; text-align:center;">
                 <?php
@@ -324,8 +324,8 @@ if (isset($_GET['page_id'])) {
     <!---------------- state names for all the states ---------->
     <section class="all-state-name-page-mains" style="margin:3%;">
         <section class="all-state-name-pages">
-            <p class="heading-1">
-                Auto shipping <span>States</span> in USA </p>
+            <h2 class="heading-1">
+                Auto shipping <span>States</span> in USA </h2>
             <section class="all-state-name-grids-section">
                 <div class="all-state-name-grids">
                     <a href="<?= get_state() ?>/alabama" rel="dofollow">Alabama</a><br>
