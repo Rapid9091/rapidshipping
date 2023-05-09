@@ -279,7 +279,7 @@ if (isset($_GET['page_id'])) {
     <!---------------- state names for all the states ---------->
     <section class="all-state-name-page-mains" style="margin:3%;">
         <section class="all-state-name-pages">
-            <h2 class="heading-1">
+            <p class="heading-1">
                 <?php $car_slug = $data['slug'];
                 $car_model_array = explode('-',$car_slug);
                 $car_model = ucfirst($car_model_array[0]);
@@ -288,7 +288,7 @@ if (isset($_GET['page_id'])) {
                 Some famous <span>
                     <?= $car_model;?>
                 </span> Cars Models that we usually ship
-            </h2>
+    </p>
             <div class=""
                 style="display:grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); padding:2% 5%; text-align:center;">
                 <?php
