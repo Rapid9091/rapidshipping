@@ -45,7 +45,7 @@ ReWriteRule ^services/continental-car([/]?)$ pages/services-pages/continental-ca
 ReWriteRule ^services/cost-to-ship-a-bus([/]?)$ pages/services-pages/cost-to-ship-a-bus.php [NC,L]
 ReWriteRule ^services/customized-container-shipping([/]?)$ pages/services-pages/customized-container-shipping.php [NC,L]
 ReWriteRule ^services/door-to-door([/]?)$ pages/services-pages/door-to-door.php [NC,L]
-ReWriteRule ^services/enclosed-shipping([/]?)$ pages/services-pages/enclosed-shipping.php [NC,L]
+#ReWriteRule ^services/enclosed-shipping([/]?)$ pages/services-pages/enclosed-shipping.php [NC,L]
 ReWriteRule ^services/farm-equipment([/]?)$ pages/services-pages/farm-equipment.php [NC,L]
 ReWriteRule ^services/fifth-wheel-transport([/]?)$ pages/services-pages/fifth-wheel-transport.php [NC,L]
 ReWriteRule ^services/food-truck-shipping([/]?)$ pages/services-pages/food-truck-shipping.php [NC,L]
