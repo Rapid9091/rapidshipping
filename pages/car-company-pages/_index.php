@@ -241,7 +241,7 @@ if (isset($_GET['page_id'])) {
     <!-- ------------------------ -->
     <section class="rapid-advantages-section" style="margin-top:3%">
         <div class="rapid-advantages-grid-container">
-            <p class="heading-1">Advantages using, <span>Rapid Auto Shipping</span></p>
+            <p class="heading-1">Advantages using <span>Rapid Auto Shipping</span></p>
             <div class="rapid-advantages-grid utility_grid utility_grid-4">
                 <div class="rapid-advantages-grid-1 ">
                     <img src="<?= get_img() ?>icons/rating.webp" alt="best car shipping in USA" loading="lazy"
