@@ -241,7 +241,7 @@ if (isset($_GET['page_id'])) {
     <!-- ------------------------ -->
     <section class="rapid-advantages-section" style="margin-top:3%">
         <div class="rapid-advantages-grid-container">
-            <h2 class="heading-1">Advantages using <span>Rapid Auto Shipping</span></h2>
+            <p class="heading-1">Advantages using <span>Rapid Auto Shipping</span></p>
             <div class="rapid-advantages-grid utility_grid utility_grid-4">
                 <div class="rapid-advantages-grid-1 ">
                     <img src="<?= get_img() ?>icons/rating.webp" alt="best car shipping in USA" loading="lazy"
@@ -324,8 +324,8 @@ if (isset($_GET['page_id'])) {
     <!---------------- state names for all the states ---------->
     <section class="all-state-name-page-mains" style="margin:3%;">
         <section class="all-state-name-pages">
-            <h2 class="heading-1">
-                Auto shipping <span>States</span> in USA </h2>
+            <p class="heading-1">
+                Auto shipping <span>States</span> in USA </p>
             <section class="all-state-name-grids-section">
                 <div class="all-state-name-grids">
                     <a href="<?= get_state() ?>/alabama" rel="dofollow">Alabama</a><br>
