@@ -185,8 +185,8 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <a href="<?= home_path(); ?>cars/honda-car-transport-service"><img src="<?= get_img() ?>car_logo_honda-removebg-preview.png" alt="honda"></a>
-                            <a href="<?= home_path(); ?>cars/honda-car-transport-service">
+                            <a href="<?= home_path(); ?>cars/honda"><img src="<?= get_img() ?>car_logo_honda-removebg-preview.png" alt="honda"></a>
+                            <a href="<?= home_path(); ?>cars/honda">
                                 <p>Honda</p>
                             </a>
 
@@ -324,8 +324,8 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <a href="<?= home_path(); ?>cars/mazda-car-transport-service"><img src="<?= get_img() ?>mazda_PNG86-removebg-preview.png" alt="mazda"></a>
-                            <a href="<?= home_path(); ?>cars/mazda-car-transport-service">
+                            <a href="<?= home_path(); ?>cars/mazda"><img src="<?= get_img() ?>mazda_PNG86-removebg-preview.png" alt="mazda"></a>
+                            <a href="<?= home_path(); ?>cars/mazda">
                                 <p>Mazda</p>
                             </a>
 
