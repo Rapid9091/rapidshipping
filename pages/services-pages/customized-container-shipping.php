@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Shipping Car In Container | shipping Container For Cars." />
     <meta property="og:description" content="Rapid Auto Shipping provides customised shipping containers solutions to fit your individual needs at an attractive price." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/cutomized-container-shipping" />
+    <meta property="og:url" content="https://rapidautoshipping.com/services/customized-container-shipping" />
     <meta property="og:site_name" content="Shipping Car In Container | shipping Container For Cars" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="shipping container garage, container modifications, customised shipping containers, how much does a 40ft shipping container weigh, containers for sale, shipping containers for sale in ga, modified shipping containers, shipping container workshop, custom shipping containers,  shipping container modifications,  shipping container garage, custom storage containers, shipping container roll up doors, custom containers" />

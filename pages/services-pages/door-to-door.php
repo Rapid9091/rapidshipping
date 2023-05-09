@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Auto Transport Services Door to Door | Rapid Auto Shipping" />
     <meta property="og:description" content="Rapid Auto Shipping is The Best Door to Door Auto Transport Company For top-notch service and convenience, Get a quote today!" />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/door to door" />
+    <meta property="og:url" content="https://rapidautoshipping.com/services/door-to-door" />
     <meta property="og:site_name" content="Best Auto Transport Services Door to Door | Rapid Auto Shipping" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="door to door vehicle transport,best door to door car shipping,car shipping door to door,door to door car delivery,door to door car carrying">
