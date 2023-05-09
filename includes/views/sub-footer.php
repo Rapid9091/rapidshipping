@@ -153,7 +153,7 @@
                 
                 
                 <li><a href="<?= home_path(); ?>privacy-policy">Privacy Policy</a></li>
-                <li><a href="<?= home_path(); ?>">Terms of Use</a></li>
+                
                 <li><a href="<?= home_path(); ?>">Terms and Conditions</a></li>
                 <li><a href="<?= home_path(); ?>">Testimonials</a></li>
                 <li><a href="<?= home_path(); ?>">FAQ</a></li>
