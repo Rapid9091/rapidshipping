@@ -39,7 +39,7 @@ ReWriteRule ^services/cargo-vans-services([/]?)$ pages/services-pages/cargo-vans
 #ReWriteRule ^services/caterpillar-equipment-shipping([/]?)$ pages/services-pages/caterpillar-equipment-shipping.php [NC,L]
 #ReWriteRule ^services/cheap-transporters-service-in-the-usa([/]?)$ pages/services-pages/cheap-transporters-service-in-the-usa.php [NC,L]
 ReWriteRule ^services/classic-car-shipping([/]?)$ pages/services-pages/classic-car-shipping.php [NC,L]
-ReWriteRule ^services/construction-equipment([/]?)$ pages/services-pages/construction-equipment.php [NC,L]
+#ReWriteRule ^services/construction-equipment([/]?)$ pages/services-pages/construction-equipment.php [NC,L]
 ReWriteRule ^services/containerized-freight-hauling([/]?)$ pages/services-pages/containerized-freight-hauling.php [NC,L]
 ReWriteRule ^services/continental-car([/]?)$ pages/services-pages/continental-car.php [NC,L]
 ReWriteRule ^services/cost-to-ship-a-bus([/]?)$ pages/services-pages/cost-to-ship-a-bus.php [NC,L]
