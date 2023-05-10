@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Top Rated Multi Car Transport Services | Auto Shipping Services" />
     <meta property="og:description" content="Rapid Auto Shipping provides Multi Car transport services at an affordable price with our expertise vehicles safely to their destination." />
-    <meta property="og:url" content="https://rapidautoshipping.com/services/multi car-shipping" />
+    <meta property="og:url" content="https://rapidautoshipping.com/services/multi-car-shipping" />
     <meta property="og:site_name" content="Top Rated Multi Car Transport Services | Auto Shipping Services" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="multiple car transports, multiple vehicle transport, multi-car transport companies, multiple car carrier, multiple car shipping" />
