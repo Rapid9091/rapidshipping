@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy</title>
+    <meta property="og:description" content="privacy policy about rapid auto shipping" />
     <?php include head;    ?>
     <link rel="stylesheet" href="<?= get_css(); ?>car-key-section.css">
     <style>
@@ -28,7 +29,7 @@
 <body>
 <?php include header; ?>
     <div class="policy-container">
-        <h2>Privacy Policy</h2>
+        <h1>Privacy Policy</h1>
         <p>Rapid Auto Shipping website is owned by Flampeg Solutions LLC, which is a data controller of your personal data.</p>
         <p>We have set up this Privacy Policy, which governs how we process information gathered by Rapid Auto Shipping and explains why we need to collect some personal data about you. As a result, before using the Rapid Auto Shipping website, you must read this privacy policy.</p>
         <p>We take care of your personal information and promise to keep it confidential and secure.</p>
