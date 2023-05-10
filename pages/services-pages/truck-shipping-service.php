@@ -242,8 +242,8 @@
                         <img loading="lazy" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1676278088/Recent%20Uploads/ambulance-service_cwc5jf.jpg" alt=" Most Appropriate Shipping Ambulance Services" /> -->
                     <li id="6">
                         <div class="shipping-form-state-content">
-                            <h2 class="heading-1">Positive Characteristics Of A Reliable <a href="https://www.transportation.gov/" target="_blank">Truck Shipping</a> Company</h2>
-                            <p class="para-2">When transporting a truck, you must deal with experts. Whether you need a pickup vehicle for your local business or heavy duty corporate truck shipping, it must be done correctly.
+                            <h2 class="heading-1">Positive Characteristics Of A Reliable Truck Shipping Company</h2>
+                            <p class="para-2">When transporting a truck, you must deal with experts. Whether you need a pickup vehicle for your local business or heavy duty corporate <a href="https://www.transportation.gov/" target="_blank">Truck Shipping</a>, it must be done correctly.
                                 <br><br>
 
                                 We comprehend the significance of correctly shipping trucks because they are frequently a part of your income. Every stage will be guided by a transportation expert.
