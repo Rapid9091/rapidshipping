@@ -25,7 +25,7 @@
     text-align: center;
 }
 .policy-container h2{
-    margin: 10px 0;
+    margin-top: 10px;
 }
 .policy-container p{
     font-weight: 400;
