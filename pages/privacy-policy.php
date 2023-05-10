@@ -24,6 +24,9 @@
 .policy-container h1{
     text-align: center;
 }
+.policy-container h2{
+    margin: 10px 0;
+}
 .policy-container p{
     font-weight: 400;
 }
