@@ -49,7 +49,7 @@ ReWriteRule ^services/customized-container-shipping([/]?)$ pages/services-pages/
 #ReWriteRule ^services/farm-equipment([/]?)$ pages/services-pages/farm-equipment.php [NC,L]
 #ReWriteRule ^services/fifth-wheel-transport([/]?)$ pages/services-pages/fifth-wheel-transport.php [NC,L]
 ReWriteRule ^services/food-truck-shipping([/]?)$ pages/services-pages/food-truck-shipping.php [NC,L]
-ReWriteRule ^services/forklift-transportation-company([/]?)$ pages/services-pages/forklift-transportation-company.php [NC,L]
+#ReWriteRule ^services/forklift-transportation-company([/]?)$ pages/services-pages/forklift-transportation-company.php [NC,L]
 ReWriteRule ^services/hauling-isuzu-npr-truck([/]?)$ pages/services-pages/hauling-isuzu-npr-truck.php [NC,L]
 ReWriteRule ^services/hauling-oversize-load([/]?)$ pages/services-pages/hauling-oversize-load.php [NC,L]
 ReWriteRule ^services/heavy-equipment-shipping([/]?)$ pages/services-pages/heavy-equipment-shipping.php [NC,L]
