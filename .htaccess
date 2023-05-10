@@ -56,7 +56,7 @@ ReWriteRule ^services/hauling-oversize-load([/]?)$ pages/services-pages/hauling-
 #ReWriteRule ^services/heavy-hauling-large-cargo([/]?)$ pages/services-pages/heavy-hauling-large-cargo.php [NC,L]
 ReWriteRule ^services/heavy-hauling-truck([/]?)$ pages/services-pages/heavy-hauling-truck.php [NC,L]
 ReWriteRule ^services/international-boat-transport([/]?)$ pages/services-pages/international-boat-transport.php [NC,L]
-ReWriteRule ^services/international-car-shipping([/]?)$ pages/services-pages/international-car-shipping.php [NC,L]
+#ReWriteRule ^services/international-car-shipping([/]?)$ pages/services-pages/international-car-shipping.php [NC,L]
 ReWriteRule ^services/international-heavy-equipment-shipping([/]?)$ pages/services-pages/international-heavy-equipment-shipping.php [NC,L]
 ReWriteRule ^services/international-motorcycle-shipping([/]?)$ pages/services-pages/international-motorcycle-shipping.php [NC,L]
 ReWriteRule ^services/komatsu-equipment-shipping([/]?)$ pages/services-pages/komatsu-equipment-shipping.php [NC,L]
