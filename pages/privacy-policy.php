@@ -21,6 +21,9 @@
     background-color: #80808021;
     font-family: "Poppins", sans-serif;
 }
+.policy-container h1{
+    text-align: center;
+}
 .policy-container p{
     font-weight: 400;
 }
