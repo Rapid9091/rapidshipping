@@ -60,7 +60,7 @@ ReWriteRule ^services/international-boat-transport([/]?)$ pages/services-pages/i
 ReWriteRule ^services/international-heavy-equipment-shipping([/]?)$ pages/services-pages/international-heavy-equipment-shipping.php [NC,L]
 ReWriteRule ^services/international-motorcycle-shipping([/]?)$ pages/services-pages/international-motorcycle-shipping.php [NC,L]
 ReWriteRule ^services/komatsu-equipment-shipping([/]?)$ pages/services-pages/komatsu-equipment-shipping.php [NC,L]
-ReWriteRule ^services/line-haul-transport([/]?)$ pages/services-pages/line-haul-transport.php [NC,L]
+#ReWriteRule ^services/line-haul-transport([/]?)$ pages/services-pages/line-haul-transport.php [NC,L]
 ReWriteRule ^services/lowboy-shipping([/]?)$ pages/services-pages/lowboy-shipping.php [NC,L]
 ReWriteRule ^services/military-shipping([/]?)$ pages/services-pages/military-shipping.php [NC,L]
 # ReWriteRule ^services/motor-cycle-shipping([/]?)$ pages/services-pages/motor-cycle-shipping.php [NC,L]
