@@ -77,7 +77,7 @@
                     It makes no difference if you own a large company that sells boats or if you simply enjoy collecting them. Rapid Auto Shipping is unconcerned about your cause for needing Boat Transport, and we want to know how we can help you. Our goal is to figure out the specifics of your Boat request and how we can assist you. We feel we are the best transportation service providers in the United States, and Boat is no exception. When it comes to Boat Transport, Rapid Auto Shipping has a lot of experience. We recognize that it is distinct from other modes of automobile transportation, which is why Rapid Auto Shipping takes extra precautions and is well-versed in the process!<br>
 
                     Rapid Auto Shipping will not let you down when it comes to Boat Transport!
-                    for all information about boat transport in USA you may visit the official website <a target="_blank" rel="nofollow" href="https://www.transportation.gov/maritime-and-waterways"><b>Martitime and Waterways</b></a>
+                    for all information about boat transport in USA you may visit the official website <a target="_blank" href="https://www.transportation.gov/maritime-and-waterways"><b>Martitime and Waterways</b></a>
                 </p>
             </div>
 
@@ -161,7 +161,7 @@
                                 It makes no difference if you own a large company that sells boats or if you simply enjoy collecting them. Rapid Auto Shipping is unconcerned about your cause for needing Small Boat Transport, and we want to know how we can help you. Our goal is to figure out the specifics of your Boat request and how we can assist you in Small Boat Transport. We feel we are the best transportation service providers in the United States, and Boat is no exception. When it comes to Boat Transport, Rapid Auto Shipping has a lot of experience. We recognize that it is distinct from other modes of automobile transportation, which is why Rapid Auto Shipping takes extra precautions and is well-versed in the process!
 
                                 Rapid Auto Shipping will not let you down when it comes to Boat Transport!
-                                For safety measures, ypu may read this official documentation by <a target="_blank" rel="nofollow" href="https://www.uscgboating.org/images/420.PDF"><b>US Government</b></a>.
+                                For safety measures, ypu may read this official documentation by <a target="_blank" href="https://www.uscgboating.org/images/420.PDF"><b>US Government</b></a>.
                             </p>
                         </div>
                     </li>
@@ -191,7 +191,7 @@
                                 Allow Rapid Auto Shipping to assist you in transporting your Boat! We've been in the company for ten years and have the knowledge and expertise that consumers demand. You may get a free quote to ship your boat at any time by filling out our online quote form, or by calling one of our experts. You can also ask questions, get advice, learn more about boat transportation, and more when you call. So, whatever you require, use Rapid Auto Shipping to assist you.<br><br>
                                 if you want to ship your boat from states like
                                 <a href="#"><b>Arizona</b></a>,
-                                <a target="_blank" rel="nofollow" href="https://tpwd.texas.gov/regulations/outdoor-annual/boating/title-registration-id-requirements"><b>Texas</b></a>,
+                                <a target="_blank" href="https://tpwd.texas.gov/regulations/outdoor-annual/boating/title-registration-id-requirements"><b>Texas</b></a>,
                                 <a href="#"><b>New Mexico</b></a>,
                                 <a href="#"><b>Montana</b></a>,
                                 <a href="#"><b>North Dakota</b></a>,
@@ -210,7 +210,7 @@
                             <h2 class="heading-1">Ways to register your boat for shipping?</h2>
                             <p class="para-2">
                                 To remove your inconvenience our firm Rapid Auto Shipping will assist you in registering your boat for transportation and make your journey smooth , easy and convinent. For more information you can contact us with our toll free number<br> <a style="color:black" href="tel:+1-833-233-4447">(+ 1833 233 4447)</a> or you can fill our form.
-                                For more registration information you may also refer to this official government websites like : <a target="_blank" rel="nofollow" href="https://boatus.org/study-guide/boat/registration/"><b>Boat US ORG</b></a>.
+                                For more registration information you may also refer to this official government websites like : <a target="_blank" href="https://boatus.org/study-guide/boat/registration/"><b>Boat US ORG</b></a>.
                             </p>
                         </div>
                     </li>

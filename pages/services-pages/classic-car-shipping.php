@@ -186,7 +186,7 @@
                         Moving can be stressful enough without having to worry about where your automobile is. Before meeting with the shipping company, make sure you know where you will drop off and pick up your vehicle; if you are aware of any obstacles that may obstruct drop-off, inform the shipping company to avoid issues.
 
                     </p>
-                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831352/RapidAutoShipping/home-picking-vehicle-1_oqlngr.png" rel="nofollow" alt="Classic car transportation"> 
+                    <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831352/RapidAutoShipping/home-picking-vehicle-1_oqlngr.png" alt="Classic car transportation"> 
 
                     <p>
                         <br><br>
@@ -217,7 +217,7 @@
                     <p>
                         <b>7. Top exaples of classic car?</b><br>
 
-                        Recently, many 1960s and even early 1990s cars are considered being <a target="_blank" rel="nofollow" href="https://en.wikipedia.org/wiki/Classic_car#:~:text=Recently%2C%20many%201980s%20and%20even,Deuce%20Coupe%2C%20and%201949%20Ford.">"classic automobiles"</a>. In USA there we use so much classic car in our daily life and many time we need to ship them. Some top exaples are :<br><br>
+                        Recently, many 1960s and even early 1990s cars are considered being <a target="_blank" href="https://en.wikipedia.org/wiki/Classic_car#:~:text=Recently%2C%20many%201980s%20and%20even,Deuce%20Coupe%2C%20and%201949%20Ford.">"classic automobiles"</a>. In USA there we use so much classic car in our daily life and many time we need to ship them. Some top exaples are :<br><br>
                         <li style="list-style:disc !important">Astom MArtin DB-5 (1964)</li>
                         <li style="list-style:disc !important">Ferrari 250 GTO (1962)</li>
                         <li style="list-style:disc !important">Jaguar E type (1961)</li>

@@ -96,7 +96,7 @@
                     <p> Are you looking for a heavy equipment transfer and lowboy shipping firm to help you relocate your commercial or industrial business? No matter the size or destination, Rapid Auto Shipping can transport your big equipment or trucks! If you're looking for a States <strong><a href="https://rapidautoshipping.com/services/heavy-hauling-truck
 ">heavy haul trucking</a></strong>  equipment and transportation company that provides excellent service at a reasonable cost, you've come to the right place. The Rapid Auto Shipping is here to assist you! We have heavy equipment transporters ready to ship your equipment in all States and cities.
                         <br><br>
-                        Rapid Auto Shipping is a licensed, bonded, and reputable <strong><a target="_blank" rel="nofollow" href="https://en.wikipedia.org/wiki/Heavy_equipment">heavy equipment</a></strong> and machinery shipping company. We have over ten years of expertise transporting heavy equipment for hundreds of businesses of all sizes. Our reputation is built on our promise to deliver your large equipment safely and affordably. We provide a number of shipping alternatives to fulfil your cargo requirements as well as your budget constraints. When moving big equipment or oversized materials, a lowboy or step deck trailer is the ideal option.
+                        Rapid Auto Shipping is a licensed, bonded, and reputable <strong><a target="_blank" href="https://en.wikipedia.org/wiki/Heavy_equipment">heavy equipment</a></strong> and machinery shipping company. We have over ten years of expertise transporting heavy equipment for hundreds of businesses of all sizes. Our reputation is built on our promise to deliver your large equipment safely and affordably. We provide a number of shipping alternatives to fulfil your cargo requirements as well as your budget constraints. When moving big equipment or oversized materials, a lowboy or step deck trailer is the ideal option.
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673438870/Recent%20Uploads/jcb-over-truck2_izaj00.jpg" alt="heavy equipment shipper">
                 </div>
@@ -111,7 +111,7 @@
                         <br><br>
                         Tremendous Customer Service: We're here to provide you with polite service from the moment you call for a free quote to the moment your vehicle arrives at its destination.
 
-                        Professional Truck Transport Service: We make certain that all of our <a target="_blank" rel="nofollow" href="https://www.bls.gov/ooh/construction-and-extraction/construction-equipment-operators.htm">drivers</a> are courteous, professional, and friendly. We make certain that they are adequately trained to move all types of trucks, including dump trucks, before we begin any movements.
+                        Professional Truck Transport Service: We make certain that all of our <a target="_blank" href="https://www.bls.gov/ooh/construction-and-extraction/construction-equipment-operators.htm">drivers</a> are courteous, professional, and friendly. We make certain that they are adequately trained to move all types of trucks, including dump trucks, before we begin any movements.
                         <br>
                         Finally, when you call us for a free quote, we attempt to provide you with the most competitive truck shipping rates available.
                     </p>
@@ -129,7 +129,7 @@
                         <br><br>
                         <strong> Capabilities for tracking - </strong> can keep you updated on the progress of your shipment throughout its journey.
                         <br>
-                        <br> <strong> <a target="_blank" rel="nofollow" style="color:black;" href="https://www.fmcsa.dot.gov/regulations/cargo-securement/cargo-securement-rules">Safe Transportation -</a></strong> Your heavy equipment transport is transported by skilled drivers who are concerned about the weight they are transporting.
+                        <br> <strong> <a target="_blank" style="color:black;" href="https://www.fmcsa.dot.gov/regulations/cargo-securement/cargo-securement-rules">Safe Transportation -</a></strong> Your heavy equipment transport is transported by skilled drivers who are concerned about the weight they are transporting.
                     </p>
                     <img loading="lazy" style="width:100%" src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1673521398/Recent%20Uploads/car-tied-on-trailer-3.jpg" alt="heavy equipment shipper">
 
