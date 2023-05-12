@@ -76,8 +76,8 @@ ReWriteRule ^services/rv-movers-near-me-services([/]?)$ pages/services-pages/rv-
 #ReWriteRule ^services/tractor-transport([/]?)$ pages/services-pages/tractor-transport.php [NC,L]
 ReWriteRule ^services/transporting-case-trucks([/]?)$ pages/services-pages/transporting-case-trucks.php [NC,L]
 #ReWriteRule ^services/truck-shipping-service([/]?)$ pages/services-pages/truck-shipping-service.php [NC,L]
-ReWriteRule ^services/trucking-company-near-me([/]?)$ pages/services-pages/trucking-company-near-me.php [NC,L]
-ReWriteRule ^services/yacht-shipping-services([/]?)$ pages/services-pages/yacht-shipping-services.php [NC,L]
+#ReWriteRule ^services/trucking-company-near-me([/]?)$ pages/services-pages/trucking-company-near-me.php [NC,L]
+#ReWriteRule ^services/yacht-shipping-services([/]?)$ pages/services-pages/yacht-shipping-services.php [NC,L]
 #ReWriteRule ^services/([0-9A-Za-z\-]+)([/]?)$ pages/services-pages/$1.php [NC,L]
 ReWriteRule ^services/([0-9A-Za-z\-]+)([/]?)$ pages/services-pages/_index.php?page_id=$1 [NC,L]
 
