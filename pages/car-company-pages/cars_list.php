@@ -123,8 +123,8 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <a href="<?= home_path(); ?>cars/dodge"><img src="<?= get_img() ?>dodge-ram-pickup-logo-dodge-car-logo-png-removebg-preview.png" alt="dodge ram pickup logo dodge car"></a>
-                            <a href="<?= home_path(); ?>cars/dodge">
+                            <a href="<?= home_path(); ?>cars/dodge-car-transport-service"><img src="<?= get_img() ?>dodge-ram-pickup-logo-dodge-car-logo-png-removebg-preview.png" alt="dodge ram pickup logo dodge car"></a>
+                            <a href="<?= home_path(); ?>cars/dodge-car-transport-service">
                                 <p>Dodge</p>
                             </a>
 
@@ -148,8 +148,8 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <a href="<?= home_path(); ?>cars/ford"><img src="<?= get_img() ?>ford-car-logo-removebg-preview.png" alt="ford"></a>
-                            <a href="<?= home_path(); ?>cars/ford">
+                            <a href="<?= home_path(); ?>cars/ford-car-transport-service"><img src="<?= get_img() ?>ford-car-logo-removebg-preview.png" alt="ford"></a>
+                            <a href="<?= home_path(); ?>cars/ford-car-transport-service">
                                 <p>Ford</p>
                             </a>
 
@@ -185,8 +185,8 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <a href="<?= home_path(); ?>cars/honda"><img src="<?= get_img() ?>car_logo_honda-removebg-preview.png" alt="honda"></a>
-                            <a href="<?= home_path(); ?>cars/honda">
+                            <a href="<?= home_path(); ?>cars/honda-car-transport-service"><img src="<?= get_img() ?>car_logo_honda-removebg-preview.png" alt="honda"></a>
+                            <a href="<?= home_path(); ?>cars/honda-car-transport-service">
                                 <p>Honda</p>
                             </a>
 
@@ -324,8 +324,8 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <a href="<?= home_path(); ?>cars/mazda"><img src="<?= get_img() ?>mazda_PNG86-removebg-preview.png" alt="mazda"></a>
-                            <a href="<?= home_path(); ?>cars/mazda">
+                            <a href="<?= home_path(); ?>cars/mazda-car-transport-service"><img src="<?= get_img() ?>mazda_PNG86-removebg-preview.png" alt="mazda"></a>
+                            <a href="<?= home_path(); ?>cars/mazda-car-transport-service">
                                 <p>Mazda</p>
                             </a>
 
@@ -480,8 +480,8 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <a href="<?= home_path(); ?>cars/toyota"><img src="<?= get_img() ?>Toyota-car-logo-removebg-preview.png" alt="Toyota car"></a>
-                            <a href="<?= home_path(); ?>cars/toyota">
+                            <a href="<?= home_path(); ?>cars/toyota-car-transport-service"><img src="<?= get_img() ?>Toyota-car-logo-removebg-preview.png" alt="Toyota car"></a>
+                            <a href="<?= home_path(); ?>cars/toyota-car-transport-service">
                                 <p>Toyota</p>
                             </a>
 
