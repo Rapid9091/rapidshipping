@@ -166,14 +166,14 @@
             <p class="footer-grid-headings">Cars</p>
             <ul>
                 <li><a href="<?= home_path(); ?>cars">Cars</a></li>
-                <li><a href="<?= home_path(); ?>cars/nissan">Nissan</a></li>
-                <li><a href="<?= home_path(); ?>cars/chrysler">Chrysler</a></li>
-                <li><a href="<?= home_path(); ?>cars/dodge">Dodge</a></li>
-                <li><a href="<?= home_path(); ?>cars/toyota">Toyota</a></li>
+                <li><a href="<?= home_path(); ?>cars/nissan-car-transport-service">Nissan</a></li>
+                <li><a href="<?= home_path(); ?>cars/chrysler-car-transport-service">Chrysler</a></li>
+                <li><a href="<?= home_path(); ?>cars/dodge-car-transport-service">Dodge</a></li>
+                <li><a href="<?= home_path(); ?>cars/toyota-car-transport-service">Toyota</a></li>
                 <li><a href="<?= home_path(); ?>cars/chevrolet">Chevrolet</a></li>
-                <li><a href="<?= home_path(); ?>cars/ford">ford</a></li>
-                <li><a href="<?= home_path(); ?>cars/mazda">Mazda</a></li>
-                <li><a href="<?= home_path(); ?>cars/honda">Honda</a></li>
+                <li><a href="<?= home_path(); ?>cars/ford-car-transport-service">ford</a></li>
+                <li><a href="<?= home_path(); ?>cars/mazda-car-transport-service">Mazda</a></li>
+                <li><a href="<?= home_path(); ?>cars/honda-car-transport-service">Honda</a></li>
             </ul>
         </div>
 

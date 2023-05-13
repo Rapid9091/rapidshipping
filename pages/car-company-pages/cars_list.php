@@ -70,8 +70,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>aston-martin-real-logo-removebg-preview.png" alt="aston martin">
-                            <p>Aston Martin</p>
+                            <a href="<?= home_path(); ?>cars/aston-martin-car-transport-service"><img src="<?= get_img() ?>aston-martin-real-logo-removebg-preview.png" alt="aston martin"></a>
+                            <a href="<?= home_path(); ?>cars/aston-martin-car-transport-service">
+                                <p>Aston Martin</p>
+                            </a>
 
                         </div>
                     </li>
@@ -112,10 +114,10 @@
                     <li>
                         <div class="cars-img-name">
 
-                            <a href="<?= home_path(); ?>cars/chrysler">
+                            <a href="<?= home_path(); ?>cars/chrysler-car-transport-service">
                                 <img src="<?= get_img() ?>chrysler_PNG28.png" alt="chrysler">
                             </a>
-                            <a href="<?= home_path(); ?>cars/chrysler">
+                            <a href="<?= home_path(); ?>cars/chrysler-car-transport-service">
                                 <p>Chrysler</p>
                             </a>
 
