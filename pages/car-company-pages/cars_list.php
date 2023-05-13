@@ -90,8 +90,10 @@
 
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>buick-car-logo-removebg-preview.png" alt="buick car">
-                            <p>Buick</p>
+                            <a href="<?= home_path(); ?>cars/buick-car-transport-service"><img src="<?= get_img() ?>buick-car-logo-removebg-preview.png" alt="buick car transport service"></a>
+                            <a href="<?= home_path(); ?>cars/buick-car-transport-service">
+                                <p>Buick</p>
+                            </a>
 
                         </div>
                     </li>
@@ -365,8 +367,8 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <a href="<?= home_path(); ?>cars/nissan"><img src="<?= get_img() ?>nissan-car-logo-removebg-preview.png" alt="nissan"></a>
-                            <a href="<?= home_path(); ?>cars/nissan">
+                            <a href="<?= home_path(); ?>cars/nissan-car-transport-service"><img src="<?= get_img() ?>nissan-car-logo-removebg-preview.png" alt="nissan"></a>
+                            <a href="<?= home_path(); ?>cars/nissan-car-transport-service">
                                 <p>Nissan</p>
                             </a>
 
