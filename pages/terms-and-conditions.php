@@ -57,7 +57,7 @@
             <li>Upon the customer's request, Flampeg Solutions LLC shall arrange for the transportation of the customer's shipment by carriers in accordance with these terms. Flampeg Solutions LLC, at its sole discretion, retains the right to refuse or cancel any order at any time.</li><br>
             <li>When a carrier accepts the customer's order, Flampeg Solutions LLC's services are considered finished.</li><br>
             <li>The customer acknowledges and agrees that Flampeg Solutions LLC (i) solely acts as a transportation broker, (ii) is not a motor carrier or transporter, and (iii) does not represent itself as providing property transportation.</li><br>
-            <li>Flampeg Solutions LLC fully acknowledges and agrees that it never takes custody or ownership of, transports, or handles the customer's shipment, nor does it assume any obligation for the shipment.</li>
+            <li>Flampeg Solutions LLC fully acknowledges and agrees that it never takes custody or ownership of, transports, or handles the customer's shipment, nor does it assume any obligation for the shipment.</li><br>
             <li>Flampeg Solutions LLC will be subject to the terms and conditions of the ocean carrier's bill of lading, tariff, schedules, rates, and rules for all ocean transportation arranged. Ocean carriers provide limited liability coverage for loss or damage, and the customer must ask about acquiring additional insurance with the ocean carrier.</li><br>
             <li>Flampeg Solutions LLC will provide an estimated pickup and delivery date to the customer; however, delays may occur prior to and/or during transport due to weather or road conditions, government regulations, mechanical problems, and other causes beyond Flampeg Solutions LLC's control. Flampeg Solutions LLC cannot and will not make any guarantees about delivery dates or timeframes.</li><br>
             <li>The customer understands and acknowledges that Flampeg Solutions LLC is not responsible or liable for any damages or expenses incurred as a result of any type of delay or for any reason.</li>
@@ -68,12 +68,12 @@
 
         <h2>License:</h2>
         <p>Discover the exclusive intellectual property rights to all content on Rapid Auto Shipping, which are owned by Flampeg Solutions LLC and/or its licensors, unless explicitly stated otherwise. Experience the full protection of our intellectual property rights. All rights reserved. Gain access to this exclusive service offered by Rapid Auto Shipping for your personal use while adhering to the terms and conditions outlined with restrictions.</p><br>
-        <p>You must not:</p><br>
+        <p><b>You must not:</b></p><br>
         <ul>
-            <li>Copy or republish material from Rapid Auto Shipping</li><br>
-            <li>Sell, rent, or sub-license material from Rapid Auto Shipping</li><br>
-            <li>Reproduce, duplicate, or copy material from Rapid Auto Shipping</li><br>
-            <li>Redistribute content from Rapid Auto Shipping</li><br>
+            <li>Copy or republish material from Rapid Auto Shipping</li>
+            <li>Sell, rent, or sub-license material from Rapid Auto Shipping</li>
+            <li>Reproduce, duplicate, or copy material from Rapid Auto Shipping</li>
+            <li>Redistribute content from Rapid Auto Shipping</li>
         </ul>
         <p>This agreement will commence on the current date.</p><br>
         <p>
@@ -82,11 +82,11 @@
         <p>Flampeg Solutions LLC retains the authority to observe all comments and eliminate any comments that may be deemed unsuitable, offensive, or violate these Terms and Conditions.</p><br>
         <p>You warrant and represent that:</p><br>
         <ul>
-            <li>You have the right to post comments on our website and have obtained all necessary licenses and consents to do so.</li><br>
-            <li>The comments are free from any infringement of intellectual property rights, such as copyright, patent, or trademark, belonging to any third party.</li><br>
-            <li>The user agrees to refrain from posting any comments that may be considered defamatory, libelous, offensive, indecent, or unlawful and that may infringe on the privacy of others.</li><br>
-            <li>Comments should not be utilized to solicit or promote business or engage in commercial activities or illegal practices.</li><br>
-            <p>By agreeing to these terms, you are giving Flampeg Solutions LLC permission to use your comments in any form, format, or medium. This includes the right to reproduce, edit, and authorize others to use and edit your comments. The license granted to Flampeg Solutions LLC is non-exclusive.</p><br>
+            <li>You have the right to post comments on our website and have obtained all necessary licenses and consents to do so.</li>
+            <li>The comments are free from any infringement of intellectual property rights, such as copyright, patent, or trademark, belonging to any third party.</li>
+            <li>The user agrees to refrain from posting any comments that may be considered defamatory, libelous, offensive, indecent, or unlawful and that may infringe on the privacy of others.</li>
+            <li>Comments should not be utilized to solicit or promote business or engage in commercial activities or illegal practices.</li>
+            <p>By agreeing to these terms, you are giving Flampeg Solutions LLC permission to use your comments in any form, format, or medium. This includes the right to reproduce, edit, and authorize others to use and edit your comments. The license granted to Flampeg Solutions LLC is non-exclusive.</p>
         </ul>
 
 

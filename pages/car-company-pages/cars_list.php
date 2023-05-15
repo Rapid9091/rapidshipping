@@ -99,8 +99,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>cadillac-car-logo-removebg-preview.png" alt="cadillac car">
-                            <p>Cadillac</p>
+                            <a href="<?= home_path(); ?>cars/cadillac-car-transport-service"><img src="<?= get_img() ?>cadillac-car-logo-removebg-preview.png" alt="cadillac car"></a>
+                            <a href="<?= home_path(); ?>cars/cadillac-car-transport-service">
+                                <p>Cadillac</p>
+                            </a>
 
                         </div>
                     </li>
@@ -225,15 +227,18 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>infinti-car-logo-removebg-preview.png" alt="infinti">
-                            <p>INFINITI</p>
-
+                        <a href="<?= home_path(); ?>cars/infiniti-car-transport-service"><img src="<?= get_img() ?>infinti-car-logo-removebg-preview.png" alt="infinti"></a>
+                            <a href="<?= home_path(); ?>cars/infiniti-car-transport-service">
+                                <p>INFINITI</p>
+                            </a>
                         </div>
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>isuzu-car-logo-removebg-preview.png" alt="isuzu">
-                            <p>Isuzu</p>
+                            <a href="<?= home_path(); ?>cars/isuzu-car-transport-service"><img src="<?= get_img() ?>isuzu-car-logo-removebg-preview.png" alt="isuzu"></a>
+                            <a href="<?= home_path(); ?>cars/isuzu-car-transport-service">
+                                <p>Isuzu</p>
+                            </a>
 
                         </div>
                     </li>
@@ -446,15 +451,19 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Scion-car-logo-removebg-preview.png" alt="Scion car">
-                            <p>Scion</p>
+                            <a href="<?= home_path(); ?>cars/scion-car-transport-service"><img src="<?= get_img() ?>Scion-car-logo-removebg-preview.png" alt="Scion"></a>
+                            <a href="<?= home_path(); ?>cars/scion-car-transport-service">
+                                <p>Scion</p>
+                            </a>
 
                         </div>
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>smart-car-logo-removebg-preview.png" alt="smart car">
-                            <p>smart</p>
+                            <a href="<?= home_path(); ?>cars/smart-car-transport-service"><img src="<?= get_img() ?>smart-car-logo-removebg-preview.png" alt="Smart"></a>
+                            <a href="<?= home_path(); ?>cars/smart-car-transport-service">
+                                <p>Smart</p>
+                            </a>
 
                         </div>
                     </li>
