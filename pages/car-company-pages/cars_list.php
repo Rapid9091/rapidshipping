@@ -253,8 +253,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>jeep-car-logo-removebg-preview.png" alt="jeep">
-                            <p>Jeep</p>
+                            <a href="<?= home_path(); ?>cars/jeep-car-transport-service"><img src="<?= get_img() ?>jeep-car-logo-removebg-preview.png" alt="jeep"></a>
+                            <a href="<?= home_path(); ?>cars/jeep-car-transport-service">
+                                <p>Jeep</p>
+                            </a>
 
                         </div>
                     </li>
@@ -351,8 +353,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Mercury-car-logo-removebg-preview.png" alt="Mercury">
-                            <p>Mercury</p>
+                            <a href="<?= home_path(); ?>cars/mercury-car-transport-service"><img src="<?= get_img() ?>Mercury-car-logo-removebg-preview.png" alt="Mercury"></a>
+                            <a href="<?= home_path(); ?>cars/mercury-car-transport-service">
+                                <p>Mercury</p>
+                            </a>
 
                         </div>
                     </li>
