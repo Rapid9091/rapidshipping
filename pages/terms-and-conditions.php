@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terms & Conditions</title>
+    <title>Terms & Condition</title>
     <meta property="og:description" content="terms and conditions about rapid auto shipping" />
     <?php include head;    ?>
     <link rel="stylesheet" href="<?= get_css(); ?>car-key-section.css">
