@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terms & Condition</title>
+    <title>Terms & Conditions</title>
     <meta property="og:description" content="terms and conditions about rapid auto shipping" />
     <meta property="og:url" content="https://rapidautoshipping.com/terms-and-conditions" />
     <?php include head;    ?>
