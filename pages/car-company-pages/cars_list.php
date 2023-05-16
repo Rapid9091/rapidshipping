@@ -362,15 +362,19 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>mini-car-logo-removebg-preview.png" alt="mini car">
-                            <p>MINI</p>
+                            <a href="<?= home_path(); ?>cars/mini-cooper-car-transport-service"><img src="<?= get_img() ?>mini-car-logo-removebg-preview.png" alt="mini car"></a>
+                            <a href="<?= home_path(); ?>cars/mini-cooper-car-transport-service">
+                                <p>MINI</p>
+                            </a>
 
                         </div>
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Mitsubishi-emblem-640x510-removebg-preview.png" alt="Mitsubishi">
-                            <p>Mitsubishi</p>
+                            <a href="<?= home_path(); ?>cars/mitsubishi-car-transport-service"><img src="<?= get_img() ?>Mitsubishi-emblem-640x510-removebg-preview.png" alt="mitsubishi"></a>
+                            <a href="<?= home_path(); ?>cars/mitsubishi-car-transport-service">
+                                <p>Mitsubishi</p>
+                            </a>
 
                         </div>
                     </li>
@@ -490,8 +494,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Tesla-car-logo-removebg-preview.png" alt="Tesla acr">
-                            <p>Tesla</p>
+                            <a href="<?= home_path(); ?>cars/tesla-car-transport-service"><img src="<?= get_img() ?>Tesla-car-logo-removebg-preview.png" alt="Tesla"></a>
+                            <a href="<?= home_path(); ?>cars/tesla-car-transport-service">
+                                <p>Tesla</p>
+                            </a>
 
                         </div>
                     </li>
