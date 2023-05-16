@@ -140,7 +140,7 @@
                         <div class="cars-img-name">
                             <a href="<?= home_path(); ?>cars/ferrari-car-transport-service"><img src="<?= get_img() ?>ferrari-car-logo-00-removebg-preview.png" alt="ferrari car transport service"></a>
                             <a href="<?= home_path(); ?>cars/ferrari-car-transport-service">
-                                <p>ferrari</p>
+                                <p>Ferrari</p>
                             </a>
 
                         </div>
@@ -275,7 +275,7 @@
                         <div class="cars-img-name">
                  <a href="<?= home_path(); ?>cars/lamborghini-car-transport-service"><img src="<?= get_img() ?>lambo-logo-removebg-preview.png" alt="lamborghini car transport service"></a>
                             <a href="<?= home_path(); ?>cars/lamborghini-car-transport-service">
-                                <p>lamborghini</p>
+                                <p>Lamborghini</p>
                             </a>
 
                         </div>
@@ -325,7 +325,7 @@
                         <div class="cars-img-name">
                             <a href="<?= home_path(); ?>cars/lotus-car-transport-service"><img src="<?= get_img() ?>lotus-car-logo-removebg-preview.png" alt="lotus car transport service"></a>
                             <a href="<?= home_path(); ?>cars/lotus-car-transport-service">
-                                <p>lotus</p>
+                                <p>Lotus</p>
                             </a>
 
                         </div>
