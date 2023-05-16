@@ -56,7 +56,6 @@
                             <a href="<?= home_path(); ?>cars/acura-car-transport-service">
                                 <p>Acura</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -65,7 +64,6 @@
                             <a href="<?= home_path(); ?>cars/alfa-romeo-car-transport-service">
                                 <p>Alfa-Romeo</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -74,7 +72,6 @@
                             <a href="<?= home_path(); ?>cars/aston-martin-car-transport-service">
                                 <p>Aston Martin</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -83,8 +80,6 @@
                             <a href="<?= home_path(); ?>cars/audi-car-transport-service">
                                 <p>Audi</p>
                             </a>
-                            
-
                         </div>
                     </li>
 
@@ -94,7 +89,6 @@
                             <a href="<?= home_path(); ?>cars/buick-car-transport-service">
                                 <p>Buick</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -103,7 +97,6 @@
                             <a href="<?= home_path(); ?>cars/cadillac-car-transport-service">
                                 <p>Cadillac</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -112,7 +105,6 @@
                             <a href="<?= home_path(); ?>cars/chevrolet">
                                 <p>Chevrolet</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -124,7 +116,6 @@
                             <a href="<?= home_path(); ?>cars/chrysler-car-transport-service">
                                 <p>Chrysler</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -133,7 +124,6 @@
                             <a href="<?= home_path(); ?>cars/dodge-car-transport-service">
                                 <p>Dodge</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -142,7 +132,6 @@
                             <a href="<?= home_path(); ?>cars/ferrari-car-transport-service">
                                 <p>Ferrari</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -151,7 +140,6 @@
                             <a href="<?= home_path(); ?>cars/fiat-car-transport-service">
                                 <p>FIAT</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -160,7 +148,6 @@
                             <a href="<?= home_path(); ?>cars/ford-car-transport-service">
                                 <p>Ford</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -169,13 +156,9 @@
                             <a href="<?= home_path(); ?>cars/bugatti-car-transport-service">
                                 <p>Bugatti</p>
                             </a>
-
                         </div>
                     </li>
                     
-
-
-
                 </ul>
             </div>
 
@@ -188,7 +171,6 @@
                             <a href="<?= home_path(); ?>cars/genesis-car-transport-service">
                                 <p>Genesis</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -197,7 +179,6 @@
                             <a href="<?= home_path(); ?>cars/honda-car-transport-service">
                                 <p>Honda</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -206,7 +187,6 @@
                             <a href="<?= home_path(); ?>cars/gmc-car-shipping-company">
                                 <p>GMC</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -215,7 +195,6 @@
                             <a href="<?= home_path(); ?>cars/shelby-car-transport-service">
                                 <p>Shelby</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -224,7 +203,6 @@
                             <a href="<?= home_path(); ?>cars/hyundai-car-transport-service">
                                 <p>Hyundai</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -241,7 +219,6 @@
                             <a href="<?= home_path(); ?>cars/isuzu-car-transport-service">
                                 <p>Isuzu</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -250,7 +227,6 @@
                             <a href="<?= home_path(); ?>cars/jaguar-car-transport-service">
                                 <p>Jaguar</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -259,7 +235,6 @@
                             <a href="<?= home_path(); ?>cars/jeep-car-transport-service">
                                 <p>Jeep</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -268,7 +243,6 @@
                             <a href="<?= home_path(); ?>cars/kia-car-transport-service">
                                 <p>Kia</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -277,7 +251,6 @@
                             <a href="<?= home_path(); ?>cars/lamborghini-car-transport-service">
                                 <p>Lamborghini</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -286,7 +259,6 @@
                             <a href="<?= home_path(); ?>cars/land-rover-car-transport-service">
                                 <p>Land Rover</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -309,7 +281,6 @@
                             <a href="<?= home_path(); ?>cars/lexus-car-transport-service">
                                 <p>Lexus</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -318,7 +289,6 @@
                             <a href="<?= home_path(); ?>cars/lincoln-car-transport-service">
                                 <p>Lincoln</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -327,7 +297,6 @@
                             <a href="<?= home_path(); ?>cars/lotus-car-transport-service">
                                 <p>Lotus</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -336,7 +305,6 @@
                             <a href="<?= home_path(); ?>cars/maserati-car-transport-services">
                                 <p>Maserati</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -345,7 +313,6 @@
                             <a href="<?= home_path(); ?>cars/mazda-car-transport-service">
                                 <p>Mazda</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -354,7 +321,6 @@
                             <a href="<?= home_path(); ?>cars/mercedes-benz-car-transport-service">
                                 <p>Mercedes-Benz</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -363,7 +329,6 @@
                             <a href="<?= home_path(); ?>cars/mercury-car-transport-service">
                                 <p>Mercury</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -372,7 +337,6 @@
                             <a href="<?= home_path(); ?>cars/mini-cooper-car-transport-service">
                                 <p>MINI</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -381,7 +345,6 @@
                             <a href="<?= home_path(); ?>cars/mitsubishi-car-transport-service">
                                 <p>Mitsubishi</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -390,7 +353,6 @@
                             <a href="<?= home_path(); ?>cars/nissan-car-transport-service">
                                 <p>Nissan</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -399,14 +361,12 @@
                             <a href="<?= home_path(); ?>cars/corvette-car-transport-service">
                                 <p>Corvette</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
                         <div class="cars-img-name">
                             <img src="<?= get_img() ?>Pontiac-acr-logo-removebg-preview.png" alt="Pontiac">
                             <p>Pontiac</p>
-
                         </div>
                     </li>
                     <li>
@@ -415,7 +375,6 @@
                             <a href="<?= home_path(); ?>cars/koenigsegg-car-transport-service">
                                 <p>Koenigsegg</p>
                             </a>
-
                         </div>
                     </li>
 
@@ -433,7 +392,6 @@
                             <a href="<?= home_path(); ?>cars/porsche-car-transport-services">
                                 <p>Porsche</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -442,7 +400,6 @@
                             <a href="<?= home_path(); ?>cars/ram-car-transport-service">
                                 <p>Ram</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -451,7 +408,6 @@
                             <a href="<?= home_path(); ?>cars/saab-car-transport-service">
                                 <p>Saab</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -460,7 +416,6 @@
                             <a href="<?= home_path(); ?>cars/saturn-car-transport-service">
                                 <p>Saturn</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -469,7 +424,6 @@
                             <a href="<?= home_path(); ?>cars/scion-car-transport-service">
                                 <p>Scion</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -478,14 +432,12 @@
                             <a href="<?= home_path(); ?>cars/smart-car-transport-service">
                                 <p>Smart</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
                         <div class="cars-img-name">
                             <img src="<?= get_img() ?>Subaru-car-logo-removebg-preview.png" alt="Subaru car">
                             <p>Subaru</p>
-
                         </div>
                     </li>
 
@@ -495,7 +447,6 @@
                             <a href="<?= home_path(); ?>cars/suzuki-car-transport-service">
                                 <p>Suzuki</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -504,7 +455,6 @@
                             <a href="<?= home_path(); ?>cars/tesla-car-transport-service">
                                 <p>Tesla</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -513,7 +463,6 @@
                             <a href="<?= home_path(); ?>cars/toyota-car-transport-service">
                                 <p>Toyota</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -522,7 +471,6 @@
                             <a href="<?= home_path(); ?>cars/volkswagen-car-transport-service">
                                 <p>Volkswagen</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -531,7 +479,6 @@
                             <a href="<?= home_path(); ?>cars/volvo-car-transport-service">
                                 <p>Volvo</p>
                             </a>
-
                         </div>
                     </li>
                     <li>
@@ -540,7 +487,6 @@
                             <a href="<?= home_path(); ?>cars/mclaren-car-transport-service">
                                 <p>Mclaren</p>
                             </a>
-
                         </div>
                     </li>
 
