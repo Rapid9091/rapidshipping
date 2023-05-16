@@ -147,8 +147,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>transparent-fiat-logo-removebg-preview.png" alt="fiat">
-                            <p>FIAT</p>
+                            <a href="<?= home_path(); ?>cars/fiat-car-transport-service"><img src="<?= get_img() ?>transparent-fiat-logo-removebg-preview.png" alt="fiat"></a>
+                            <a href="<?= home_path(); ?>cars/fiat-car-transport-service">
+                                <p>FIAT</p>
+                            </a>
 
                         </div>
                     </li>
@@ -262,8 +264,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>kia-car-logo-png-transparent-png-removebg-preview.png" alt="kia">
-                            <p>Kia</p>
+                            <a href="<?= home_path(); ?>cars/kia-car-transport-service"><img src="<?= get_img() ?>kia-car-logo-png-transparent-png-removebg-preview.png" alt="jeep"></a>
+                            <a href="<?= home_path(); ?>cars/kia-car-transport-service">
+                                <p>Kia</p>
+                            </a>
 
                         </div>
                     </li>
@@ -278,8 +282,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>land-rover-logo-removebg-preview.png" alt="land rover">
-                            <p>Land Rover</p>
+                            <a href="<?= home_path(); ?>cars/land-rover-car-transport-service"><img src="<?= get_img() ?>land-rover-logo-removebg-preview.png" alt="land rover"></a>
+                            <a href="<?= home_path(); ?>cars/land-rover-car-transport-service">
+                                <p>Land Rover</p>
+                            </a>
 
                         </div>
                     </li>
