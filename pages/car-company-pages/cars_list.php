@@ -518,12 +518,9 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Volkswagen-car-logo-removebg-preview.png" alt="Volkswagen car">
-                            <p>Volkswagen</p>
-
-                            <a href="<?= home_path(); ?>cars/toyota-car-transport-service"><img src="<?= get_img() ?>Toyota-car-logo-removebg-preview.png" alt="Toyota car"></a>
-                            <a href="<?= home_path(); ?>cars/toyota-car-transport-service">
-                                <p>Toyota</p>
+                            <a href="<?= home_path(); ?>cars/volkswagen-car-transport-service"><img src="<?= get_img() ?>Volkswagen-car-logo-removebg-preview.png" alt="Volkswagen car"></a>
+                            <a href="<?= home_path(); ?>cars/volkswagen-car-transport-service">
+                                <p>Volkswagen</p>
                             </a>
 
                         </div>
