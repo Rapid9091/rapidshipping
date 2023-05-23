@@ -170,6 +170,7 @@ ReWriteRule ^blogs/benefits-of-hiring-an-auto-transport-company([/]?)$ pages/blo
 ReWriteRule ^blogs/benefits-of-open-auto-transport([/]?)$ pages/blogs/benefits-of-open-auto-transport.php [NC,L]
 ReWriteRule ^blogs/best-autoshipping-company-usa([/]?)$ pages/blogs/best-autoshipping-company-usa.php [NC,L]
 ReWriteRule ^blogs/best-car-shipping-companies-in-usa([/]?)$ pages/blogs/best-car-shipping-companies-in-usa.php [NC,L]
+ReWriteRule ^blogs/boat-shipping-companies([/]?)$ pages/blogs/boat-shipping-companies.php [NC,L]
 ReWriteRule ^blogs/boat-shipping-how-much-does-it-cost-to-transport-a-boat([/]?)$ pages/blogs/boat-shipping-how-much-does-it-cost-to-transport-a-boat.php [NC,L]
 ReWriteRule ^blogs/boat-shipping([/]?)$ pages/blogs/boat-shipping.php [NC,L]
 ReWriteRule ^blogs/bus-transportation-services([/]?)$ pages/blogs/bus-transportation-services.php [NC,L]
