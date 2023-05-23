@@ -258,6 +258,7 @@ ReWriteRule ^blogs/([0-9A-Za-z\-]+)([/]?)$ pages/blogs/_index.php?page_id=$1 [NC
 # This route work for all aboutus page
 ReWriteRule ^about-us([/]?)$ pages/about-us.php [NC,L]
 ReWriteRule ^privacy-policy([/]?)$ pages/privacy-policy.php [NC,L]
+ReWriteRule ^privacy-policy([/]?)$ pages/terms-and-conditions.php [NC,L]
     
 # This route work for all contactus 
 ReWriteRule ^contact-us([/]?)$ pages/contactus.php [NC,L]

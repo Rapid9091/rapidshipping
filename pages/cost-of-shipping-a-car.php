@@ -7,10 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cost Of Shipping A Car</title>
     <meta property="og:description" content="terms and conditions about rapid auto shipping" />
-    <?php include head;?>
-    <style>
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
-    </style>
 </head>
 <body>   
    <h1>Cost Of Shipping A Car</h1>
