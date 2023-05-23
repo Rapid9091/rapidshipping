@@ -182,6 +182,7 @@ ReWriteRule ^blogs/classic-car-shipping-services-provider([/]?)$ pages/blogs/cla
 ReWriteRule ^blogs/comparing-auto-transport-prices([/]?)$ pages/blogs/comparing-auto-transport-prices.php [NC,L]
 ReWriteRule ^blogs/cost-from-california-to-texas([/]?)$ pages/blogs/cost-from-california-to-texas.php [NC,L]
 # ReWriteRule ^blogs/cost-from-texas-to-california([/]?)$ pages/blogs/cost-from-texas-to-california.php [NC,L]
+ReWriteRule ^blogs/cost-of-shipping-a-car([/]?)$ pages/blogs/cost-of-shipping-a-car.php [NC,L]
 # ReWriteRule ^blogs/cost-to-ship-a-car([/]?)$ pages/blogs/cost-to-ship-a-car.php [NC,L]
 ReWriteRule ^blogs/cross-country-car-shipping([/]?)$ pages/blogs/cross-country-car-shipping.php [NC,L]
 # ReWriteRule ^blogs/differences-between-shipping-a-vehicle-during-summer-vs-winter([/]?)$ pages/blogs/differences-between-shipping-a-vehicle-during-summer-vs-winter.php [NC,L]
@@ -258,6 +259,9 @@ ReWriteRule ^blogs/([0-9A-Za-z\-]+)([/]?)$ pages/blogs/_index.php?page_id=$1 [NC
 # This route work for all aboutus page
 ReWriteRule ^about-us([/]?)$ pages/about-us.php [NC,L]
 ReWriteRule ^privacy-policy([/]?)$ pages/privacy-policy.php [NC,L]
+
+
+# This route work for terms and condition 
 ReWriteRule ^terms-and-conditions([/]?)$ pages/terms-and-conditions.php [NC,L]
     
 # This route work for all contactus 
