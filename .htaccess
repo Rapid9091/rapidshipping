@@ -219,6 +219,7 @@ ReWriteRule ^blogs/multi-car-shipping([/]?)$ pages/blogs/multi-car-shipping.php 
 
 ReWriteRule ^blogs/pittsburgh-car-shipping([/]?)$ pages/blogs/pittsburgh-car-shipping.php [NC,L]
 ReWriteRule ^blogs/port-to-port-transportation([/]?)$ pages/blogs/port-to-port-transportation.php [NC,L]
+ReWriteRule ^blogs/premium-auto-shipping-reviews([/]?)$ pages/blogs/premium-auto-shipping-reviews.php [NC,L]
 ReWriteRule ^blogs/pros-and-cons-of-auto-shipping([/]?)$ pages/blogs/pros-and-cons-of-auto-shipping.php [NC,L]
 ReWriteRule ^blogs/pros-and-cons-of-door-to-door-auto-shipping([/]?)$ pages/blogs/pros-and-cons-of-door-to-door-auto-shipping.php [NC,L]
 #ReWriteRule ^blogs/race-car-transport-services([/]?)$ pages/blogs/race-car-transport-services.php [NC,L]
