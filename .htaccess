@@ -182,6 +182,7 @@ ReWriteRule ^blogs/camper-transport([/]?)$ pages/blogs/camper-transport.php [NC,
 ReWriteRule ^blogs/car-hauler-or-flatbed-shipping([/]?)$ pages/blogs/car-hauler-or-flatbed-shipping.php [NC,L]
 ReWriteRule ^blogs/car-shipping-companies([/]?)$ pages/blogs/car-shipping-companies.php [NC,L]
 ReWriteRule ^blogs/car-shipping-documents([/]?)$ pages/blogs/car-shipping-documents.php [NC,L]
+ReWriteRule ^blogs/cheap-car-shipping([/]?)$ pages/blogs/cheap-car-shipping.php [NC,L]
 ReWriteRule ^blogs/cheapest-way-to-ship-a-car-to-hawaii([/]?)$ pages/blogs/cheapest-way-to-ship-a-car-to-hawaii.php [NC,L]
 #ReWriteRule ^blogs/cheapest-way-to-ship-a-car([/]?)$ pages/blogs/cheapest-way-to-ship-a-car.php [NC,L]
 ReWriteRule ^blogs/classic-car-shipping-services-provider([/]?)$ pages/blogs/classic-car-shipping-services-provider.php [NC,L]
