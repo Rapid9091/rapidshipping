@@ -205,6 +205,7 @@ ReWriteRule ^blogs/fifth-wheel-transport-services([/]?)$ pages/blogs/fifth-wheel
 ReWriteRule ^blogs/find-the-right-dallas-car-shipping-company([/]?)$ pages/blogs/find-the-right-dallas-car-shipping-company.php [NC,L]
 ReWriteRule ^blogs/five-mistakes-to-avoid-while-shipping([/]?)$ pages/blogs/five-mistakes-to-avoid-while-shipping.php [NC,L]
 ReWriteRule ^blogs/flatbed-auto-shipping-carriers([/]?)$ pages/blogs/flatbed-auto-shipping-carriers.php [NC,L]
+ReWriteRule ^blogs/florida-car-shipping-company([/]?)$ pages/blogs/florida-car-shipping-company.php [NC,L]
 ReWriteRule ^blogs/florida-car-shipping-fees([/]?)$ pages/blogs/florida-car-shipping-fees.php [NC,L]
 ReWriteRule ^blogs/guide-to-auto-transport-deposit([/]?)$ pages/blogs/guide-to-auto-transport-deposit.php [NC,L]
 ReWriteRule ^blogs/how-can-i-move-a-motorcycle([/]?)$ pages/blogs/how-can-i-move-a-motorcycle.php [NC,L]
