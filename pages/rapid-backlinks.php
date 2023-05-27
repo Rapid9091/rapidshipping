@@ -8,7 +8,8 @@
     <style>
         .linkings{
             width: 100%;
-            box-sizing: border-box;
+            padding: 0 5%;
+
         }
     </style>
 </head>
