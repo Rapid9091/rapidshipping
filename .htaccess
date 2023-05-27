@@ -235,6 +235,7 @@ ReWriteRule ^blogs/right-auto-transport-carrier-for-your-vehicle([/]?)$ pages/bl
 ReWriteRule ^blogs/rv-shipping-usa([/]?)$ pages/blogs/rv-shipping-usa.php [NC,L]
 ReWriteRule ^blogs/san-diego-auto-shipping([/]?)$ pages/blogs/san-diego-auto-shipping.php [NC,L]
 ReWriteRule ^blogs/san-fransisco-shipping([/]?)$ pages/blogs/san-fransisco-shipping.php [NC,L]
+ReWriteRule ^blogs/ship-a-car-to-california([/]?)$ pages/blogs/ship-a-car-to-california.php [NC,L]
 ReWriteRule ^blogs/ship-my-car([/]?)$ pages/blogs/ship-my-car.php [NC,L]
 # ReWriteRule ^blogs/ship-from-new-york-to-florida([/]?)$ pages/blogs/ship-from-new-york-to-florida.php [NC,L]
 ReWriteRule ^blogs/shipping-a-car-in-the-winter([/]?)$ pages/blogs/shipping-a-car-in-the-winter.php [NC,L]
