@@ -287,6 +287,9 @@ ReWriteRule ^about-us([/]?)$ pages/about-us.php [NC,L]
 ReWriteRule ^privacy-policy([/]?)$ pages/privacy-policy.php [NC,L]
 
 
+# This route work for faqs 
+ReWriteRule ^faqs([/]?)$ pages/faqs.php [NC,L]
+
 # This route work for terms and condition 
 ReWriteRule ^terms-and-conditions([/]?)$ pages/terms-and-conditions.php [NC,L]
 
