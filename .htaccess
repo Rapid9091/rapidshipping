@@ -254,6 +254,7 @@ ReWriteRule ^blogs/san-fransisco-shipping([/]?)$ pages/blogs/san-fransisco-shipp
 ReWriteRule ^blogs/ship-a-car-to-california([/]?)$ pages/blogs/ship-a-car-to-california.php [NC,L]
 ReWriteRule ^blogs/ship-my-car([/]?)$ pages/blogs/ship-my-car.php [NC,L]
 ReWriteRule ^blogs/shipping-a-car-from-california-to-texas([/]?)$ pages/blogs/shipping-a-car-from-california-to-texas.php [NC,L]
+ReWriteRule ^blogs/shipping-a-car-from-texas-to-california([/]?)$ pages/blogs/shipping-a-car-from-texas-to-california.php [NC,L]
 # ReWriteRule ^blogs/ship-from-new-york-to-florida([/]?)$ pages/blogs/ship-from-new-york-to-florida.php [NC,L]
 ReWriteRule ^blogs/shipping-a-car-in-the-winter([/]?)$ pages/blogs/shipping-a-car-in-the-winter.php [NC,L]
 ReWriteRule ^blogs/shipping-a-car-to-alaska([/]?)$ pages/blogs/shipping-a-car-to-alaska.php [NC,L]
