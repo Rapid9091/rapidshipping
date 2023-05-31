@@ -105,7 +105,7 @@ If you select a reputable shipper, your vehicle will be protected by the carrier
 <br><br>
 <strong>Is the automobile operational?</strong>
 <br><br>
-A vehicle driven directly onto the transport and unloaded without special <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping" target=""><strong>equipment</strong> </a>will cost less. If your vehicle cannot be driven directly onto the truck, the carrier must load and remove it using specialized equipment. This implies that there will be additional expenses.
+A vehicle driven directly onto the transport and unloaded without special <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping" target="_blank"><strong>equipment</strong> </a>will cost less. If your vehicle cannot be driven directly onto the truck, the carrier must load and remove it using specialized equipment. This implies that there will be additional expenses.
 <h2><strong>Tips For Selecting The Proper Auto Transport Firm to Convey Your Vehicle From Texas to California</strong></h2>
 With so many providers available, resist the urge to choose the first company that appears at the top of your search engine results page. Before making a final decision, conducting extensive research on the companies involved is essential. Among the topics to investigate are:
 <ul>
