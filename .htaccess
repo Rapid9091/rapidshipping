@@ -164,6 +164,7 @@ ReWriteRule ^blogs/auto-shipping-calculator([/]?)$ pages/blogs/auto-shipping-cal
 ReWriteRule ^blogs/auto-shipping-payment-options([/]?)$ pages/blogs/auto-shipping-payment-options.php [NC,L]
 ReWriteRule ^blogs/auto-transport-companies([/]?)$ pages/blogs/auto-transport-companies.php [NC,L]
 ReWriteRule ^blogs/auto-transport-michigan([/]?)$ pages/blogs/auto-transport-michigan.php [NC,L]
+ReWriteRule ^blogs/auto-transport-ohio([/]?)$ pages/blogs/auto-transport-ohio.php [NC,L]
 ReWriteRule ^blogs/auto-transport-seattle([/]?)$ pages/blogs/auto-transport-seattle.php [NC,L]
 ReWriteRule ^blogs/autoshipping-companies-in-arkansas-2022([/]?)$ pages/blogs/autoshipping-companies-in-arkansas-2022.php [NC,L]
 ReWriteRule ^blogs/beginners-guide-for-first-time-auto-shipping([/]?)$ pages/blogs/beginners-guide-for-first-time-auto-shipping.php [NC,L]
