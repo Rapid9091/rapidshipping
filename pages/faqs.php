@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terms & Conditions</title>
-    <meta property="og:description" content="terms and conditions about rapid auto shipping" />
+    <title>FAQS</title>
+    <meta property="og:description" content="Frequently Asked Questions" />
     <?php include head;    ?>
     <link rel="stylesheet" href="<?= get_css(); ?>car-key-section.css">
     <style>
@@ -41,6 +41,9 @@
 }
 .faqs ul span{
     font-weight: bold;
+}
+.faqs ul li{
+    padding-left: 10px;
 }
 
     </style>
