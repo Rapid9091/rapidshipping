@@ -156,7 +156,7 @@
                 
                 <li><a href="<?= home_path(); ?>terms-and-conditions">Terms and Conditions</a></li>
                 <li><a href="<?= home_path(); ?>">Testimonials</a></li>
-                <li><a href="<?= home_path(); ?>">FAQ</a></li>
+                <li><a href="<?= home_path(); ?>faqs">FAQ</a></li>
                 
             </ul>
         </div>
