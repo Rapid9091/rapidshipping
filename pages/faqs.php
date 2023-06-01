@@ -18,7 +18,7 @@
   }
 .faqs{
     padding: 50px;
-    background-color: #80808021;
+    /* background-color: #80808021; */
     font-family: "Poppins", sans-serif;
 }
 .faqs h1{
@@ -26,14 +26,23 @@
     margin-bottom: 15px;
 }
 .faqs h2{
-    margin-top: 20px;
+    margin-top: 30px;
+    width: 100%;
+    background-color: #f3eeec;
+    color: #ff5722;
+    padding: 10px 0;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.faqs p{
+    font-weight: 400;
+    margin-top: 5px;
+    padding-left: 10px;
 }
 .faqs ul span{
     font-weight: bold;
 }
-.faqs p{
-    font-weight: 400;
-}
+
     </style>
 </head>
 <body>
@@ -58,10 +67,10 @@
         <h2>What Kind of Paperwork Will I Need?</h2>
         <p>Here are a few important documents that car transport companies may require to ship your vehicle:</p>
         <ul>
-            <li><span>1. </span> Bill of lading: The bill details the things being sent, the shipper and recipient's addresses, and other crucial cargo information.</li>
-            <li><span>2. </span>Insurance Conditions of Use: This document describes the coverage provided by a shipping company's insurance policy.</li>
-            <li><span>3. </span>Lienholder authorization: In case of an accident or other mishap during shipment, this agreement enables the shipping firm to act on behalf of the lienholder (the entity with a financial interest in the car).</li>
-            <li><span>4. </span>Absent owner authorization: The shipping business is authorized to operate on behalf of the absent owner under this agreement.</li>
+            <li><span>1. Bill of lading:</span> The bill details the things being sent, the shipper and recipient's addresses, and other crucial cargo information.</li>
+            <li><span>2. Insurance Conditions of Use:</span> This document describes the coverage provided by a shipping company's insurance policy.</li>
+            <li><span>3. Lienholder authorization:</span> In case of an accident or other mishap during shipment, this agreement enables the shipping firm to act on behalf of the lienholder (the entity with a financial interest in the car).</li>
+            <li><span>4. Absent owner authorization:</span> The shipping business is authorized to operate on behalf of the absent owner under this agreement.</li>
         </ul>
 
 
@@ -76,8 +85,8 @@
 
 
         <h2>Where Will My Car Be Picked Up/Dropped Off?</h2>
-        <p>Vehicle transfer companies may need help to provide accurate transportation and drop-off times. Unforeseen obstacles, such as traffic jams or mechanical breakdowns, can result in delays. Patience, preparation, and communication with your vehicle transporter will all contribute to a positive experience for both parties. <br><br>
-            You can set up a rendezvous location that you and your carrier can reach easily. If the streets in your area are challenging to navigate with a vehicle, you may need to meet in a nearby parking lot. If you cannot give the car to the driver in person, assign duty to a trustworthy representative.</p>
+        <p>Vehicle transfer companies may need help to provide accurate transportation and drop-off times. Unforeseen obstacles, such as traffic jams or mechanical breakdowns, can result in delays. Patience, preparation, and communication with your vehicle transporter will all contribute to a positive experience for both parties.</p>
+        <p>You can set up a rendezvous location that you and your carrier can reach easily. If the streets in your area are challenging to navigate with a vehicle, you may need to meet in a nearby parking lot. If you cannot give the car to the driver in person, assign duty to a trustworthy representative.</p>
 
 
 
@@ -217,7 +226,7 @@
 
 
         <h2>Is door to door shipment preferable to terminal to terminal shipping?</h2>
-        <p>A: Aside from door-to-door car transport, another alternative is terminal-to-terminal auto transport. However, there are better ways than this because there is no insurance coverage at these facilities, and your car changes hands many times. More clients are choosing our "door to door" service for convenience and peace of mind. <br>
+        <p>Aside from door-to-door car transport, another alternative is terminal-to-terminal auto transport. However, there are better ways than this because there is no insurance coverage at these facilities, and your car changes hands many times. More clients are choosing our "door to door" service for convenience and peace of mind. <br>
             If you are considering transporting your automobile, we propose our door-to-door auto transport services since they are the quickest and most convenient.</p>
 
 
