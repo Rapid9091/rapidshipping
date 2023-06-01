@@ -1,6 +1,6 @@
 let show = document.getElementsByClassName("box")
         let item = document.getElementsByClassName("para-faq")
-        let icon = document.getElementsByClassName("bx")
+        var icon = document.getElementsByClassName("bx")
         for(let i = 0;i<show.length;i++){
             show[i].addEventListener("click", function(){
                 item[i].classList.toggle("p")
