@@ -318,7 +318,7 @@
 
     <?php include_once page_bottom ?>
 
-    <script src="..//assets/js/faq.js"></script>
+    <script src="../assets/js/faq.js"></script>
     <script>
         window.onscroll = function () {
 
