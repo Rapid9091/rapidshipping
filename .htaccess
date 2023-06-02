@@ -270,6 +270,7 @@ ReWriteRule ^blogs/shipping-a-car-from-texas-to-california([/]?)$ pages/blogs/sh
 # ReWriteRule ^blogs/ship-from-new-york-to-florida([/]?)$ pages/blogs/ship-from-new-york-to-florida.php [NC,L]
 ReWriteRule ^blogs/shipping-a-car-in-the-winter([/]?)$ pages/blogs/shipping-a-car-in-the-winter.php [NC,L]
 ReWriteRule ^blogs/shipping-a-car-to-alaska([/]?)$ pages/blogs/shipping-a-car-to-alaska.php [NC,L]
+ReWriteRule ^blogs/shipping-a-car-to-florida([/]?)$ pages/blogs/shipping-a-car-to-florida.php [NC,L]
 ReWriteRule ^blogs/shipping-a-dump-truck([/]?)$ pages/blogs/shipping-a-dump-truck.php [NC,L]
 ReWriteRule ^blogs/shipping-a-tractor([/]?)$ pages/blogs/shipping-a-tractor.php [NC,L]
 ReWriteRule ^blogs/shipping-car-to-alaska([/]?)$ pages/blogs/shipping-car-to-alaska.php [NC,L]
