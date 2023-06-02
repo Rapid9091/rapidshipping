@@ -58,7 +58,7 @@ Rapid goes above and beyond by giving owners up to $20 back for a car wash after
 <br><br>
 Rapid Auto Shipping's big selling point is its "Price Lock Promise," which means the company won't charge you more than they said in their original quote. This significantly gives extra peace of mind since shipping costs with other companies can increase quickly because of hidden fees.
 <br><br>
-<strong>Pros and cons of shipping cars quickly</strong>
+<strong>Pros and cons of shipping cars Rapid Auto Shipping</strong>
 <br><br>
 <strong>Pros</strong>
 <ul>
