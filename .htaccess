@@ -166,7 +166,7 @@ ReWriteRule ^blogs/auto-shipping-california([/]?)$ pages/blogs/auto-shipping-cal
 ReWriteRule ^blogs/auto-shipping-payment-options([/]?)$ pages/blogs/auto-shipping-payment-options.php [NC,L]
 ReWriteRule ^blogs/auto-transport-colorado([/]?)$ pages/blogs/auto-transport-colorado.php [NC,L]
 ReWriteRule ^blogs/auto-transport-companies-in-north-carolina([/]?)$ pages/blogs/auto-transport-companies-in-north-carolina.php [NC,L]
-ReWriteRule ^blogs/auto-transport-companies([/]?)$ pages/blogs/auto-transport-companies.php [NC,L]
+ReWriteRule ^blogs/auto-transport-companies([/]?)$ pages/blogs/auto-transport-companies.php [NC,L]ReWriteRule ^blogs/auto-transport-in-florida([/]?)$ pages/blogs/auto-transport-in-florida.php [NC,L]
 ReWriteRule ^blogs/auto-transport-michigan([/]?)$ pages/blogs/auto-transport-michigan.php [NC,L]
 ReWriteRule ^blogs/auto-transport-ohio([/]?)$ pages/blogs/auto-transport-ohio.php [NC,L]
 ReWriteRule ^blogs/auto-transport-seattle([/]?)$ pages/blogs/auto-transport-seattle.php [NC,L]
