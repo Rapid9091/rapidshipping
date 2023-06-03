@@ -11,7 +11,22 @@
 <!-- boxicon cdn -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.0/css/boxicons.min.css" integrity="sha512-pVCM5+SN2+qwj36KonHToF2p1oIvoU3bsqxphdOIWMYmgr4ZqD3t5DjKvvetKhXGc/ZG5REYTT6ltKfExEei/Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-
+<!-- Review Tag Manager Add -->
+<script defer type='application/ld+json'>
+    {
+        "@context": "http://www.schema.org",
+        "@type": "product",
+        "brand": "Rapid Auto Shipping",
+        "name": "Rapid Auto Shipping",
+        "image": "https://rapidautoshipping.com/assets/images/review-stars.png",
+        "description": "Rapid Auto Shipping is the leading auto shipping company in USA. We offer the fastest and safest way to ship your vehicle with our nationwide network of carriers.",
+        "aggregateRating": {
+            "@type": "aggregateRating",
+            "ratingValue": "5.0",
+            "reviewCount": "32"
+        }
+    }
+</script>
 
 <!-- ///////////-->
 
