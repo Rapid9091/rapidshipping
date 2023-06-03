@@ -273,6 +273,7 @@ ReWriteRule ^blogs/shipping-a-car-to-alaska([/]?)$ pages/blogs/shipping-a-car-to
 ReWriteRule ^blogs/shipping-a-car-to-florida([/]?)$ pages/blogs/shipping-a-car-to-florida.php [NC,L]
 ReWriteRule ^blogs/shipping-a-dump-truck([/]?)$ pages/blogs/shipping-a-dump-truck.php [NC,L]
 ReWriteRule ^blogs/shipping-a-tractor([/]?)$ pages/blogs/shipping-a-tractor.php [NC,L]
+ReWriteRule ^blogs/shipping-car-cost([/]?)$ pages/blogs/shipping-car-cost.php [NC,L]
 ReWriteRule ^blogs/shipping-car-to-alaska([/]?)$ pages/blogs/shipping-car-to-alaska.php [NC,L]
 ReWriteRule ^blogs/shipping-car-to-mexico([/]?)$ pages/blogs/shipping-car-to-mexico.php [NC,L]
 ReWriteRule ^blogs/shipping-cars-to-another-state([/]?)$ pages/blogs/shipping-cars-to-another-state.php [NC,L]
