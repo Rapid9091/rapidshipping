@@ -436,8 +436,10 @@
                     </li>
                     <li>
                         <div class="cars-img-name">
-                            <img src="<?= get_img() ?>Subaru-car-logo-removebg-preview.png" alt="Subaru car">
-                            <p>Subaru</p>
+                            <a href="<?= home_path(); ?>cars/subaru-car-transport-service"><img src="<?= get_img() ?>Subaru-car-logo-removebg-preview.png" alt="Subaru car"></a>
+                            <a href="<?= home_path(); ?>cars/subaru-car-transport-service">
+                                <p>Subaru</p>
+                            </a>
                         </div>
                     </li>
 
