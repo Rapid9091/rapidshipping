@@ -258,6 +258,7 @@ ReWriteRule ^blogs/low-cost-car-shipping([/]?)$ pages/blogs/low-cost-car-shippin
 ReWriteRule ^blogs/lowboy-shipping([/]?)$ pages/blogs/lowboy-shipping.php [NC,L]
 #ReWriteRule ^blogs/military-car-shipping([/]?)$ pages/blogs/military-car-shipping.php [NC,L]
 ReWriteRule ^blogs/multi-car-shipping([/]?)$ pages/blogs/multi-car-shipping.php [NC,L]
+ReWriteRule ^blogs/open-auto-transport([/]?)$ pages/blogs/open-auto-transport.php [NC,L]
 
 ReWriteRule ^blogs/pittsburgh-car-shipping([/]?)$ pages/blogs/pittsburgh-car-shipping.php [NC,L]
 ReWriteRule ^blogs/port-to-port-transportation([/]?)$ pages/blogs/port-to-port-transportation.php [NC,L]
