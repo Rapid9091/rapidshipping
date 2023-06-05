@@ -186,6 +186,7 @@ ReWriteRule ^blogs/best-boat-transport-companies([/]?)$ pages/blogs/best-boat-tr
 ReWriteRule ^blogs/best-car-delivery-service([/]?)$ pages/blogs/best-car-delivery-service.php [NC,L]
 ReWriteRule ^blogs/best-car-delivery-services([/]?)$ pages/blogs/best-car-delivery-services.php [NC,L]
 ReWriteRule ^blogs/best-car-shipping-companies-in-usa([/]?)$ pages/blogs/best-car-shipping-companies-in-usa.php [NC,L]
+ReWriteRule ^blogs/best-enclosed-car-transport([/]?)$ pages/blogs/best-enclosed-car-transport.php [NC,L]
 ReWriteRule ^blogs/best-snowbird-auto-transport([/]?)$ pages/blogs/best-snowbird-auto-transport.php [NC,L]
 #ReWriteRule ^blogs/boat-shipping-companies([/]?)$ pages/blogs/boat-shipping-companies.php [NC,L]
 #ReWriteRule ^blogs/boat-shipping-cost([/]?)$ pages/blogs/boat-shipping-cost.php [NC,L]
