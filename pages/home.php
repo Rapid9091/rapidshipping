@@ -429,7 +429,7 @@
             duration: 1000,
         });
     </script>
-    <script  src="https://maps.googleapis.com/maps/api/js?key=aAIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places" defer></script>
+    <script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places" defer></script>
     <script src="<?=get_js()?>small_form_new.js" defer></script>
 </body>
 

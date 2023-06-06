@@ -301,6 +301,7 @@ ReWriteRule ^blogs/texas-car-transport([/]?)$ pages/blogs/texas-car-transport.ph
 ReWriteRule ^blogs/tips-for-auto-shipping-discount([/]?)$ pages/blogs/tips-for-auto-shipping-discount.php [NC,L]
 ReWriteRule ^blogs/tips-for-preparing-your-car-for-auction([/]?)$ pages/blogs/tips-for-preparing-your-car-for-auction.php [NC,L]
 ReWriteRule ^blogs/tips-to-ship-an-exotic-car([/]?)$ pages/blogs/tips-to-ship-an-exotic-car.php [NC,L]
+ReWriteRule ^blogs/tractor-transport-service([/]?)$ pages/blogs/tractor-transport-service.php [NC,L]
 ReWriteRule ^blogs/transport-car-to-mexico([/]?)$ pages/blogs/transport-car-to-mexico.php [NC,L]
 ReWriteRule ^blogs/transporting-car-from-ny-to-florida([/]?)$ pages/blogs/transporting-car-from-ny-to-florida.php [NC,L]
 ReWriteRule ^blogs/transporting-car-to-dealership([/]?)$ pages/blogs/transporting-car-to-dealership.php [NC,L]
