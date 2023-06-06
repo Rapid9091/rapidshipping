@@ -161,6 +161,7 @@ ReWriteRule ^blogs/affordable-auto-transport([/]?)$ pages/blogs/affordable-auto-
 ReWriteRule ^blogs/alaska-auto-shipping([/]?)$ pages/blogs/alaska-auto-shipping.php [NC,L]
 ReWriteRule ^blogs/alaska-car-transport([/]?)$ pages/blogs/alaska-car-transport.php [NC,L]
 ReWriteRule ^blogs/antique-car-shipping([/]?)$ pages/blogs/antique-car-shipping.php [NC,L]
+ReWriteRule ^blogs/atv-transport([/]?)$ pages/blogs/atv-transport.php [NC,L]
 ReWriteRule ^blogs/atvs-shipping([/]?)$ pages/blogs/atvs-shipping.php [NC,L]
 ReWriteRule ^blogs/auction-auto-transport-services([/]?)$ pages/blogs/auction-auto-transport-services.php [NC,L]
 ReWriteRule ^blogs/auto-shipping-calculator([/]?)$ pages/blogs/auto-shipping-calculator.php [NC,L]
