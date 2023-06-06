@@ -47,7 +47,7 @@ Up to 40 feet long, these containers are fully <a href="https://rapidautoshippin
 Open car transport is the most prevalent service for transporting vehicles. It is economical, swift, and simple to arrange. It's enough for the average sedan, but more expensive and valuable car owners prefer to move their cars in an enclosed trailer.
 <br><br>
 The level of protection provided for the cars is a disadvantage of this <a href="https://rapidautoshipping.com/services" target="_blank"><strong>auto transport service</strong></a>. Due to its added security, you can travel knowing that your prized possession is safe and secure.
-<h2><strong>How to Transport A Classic Car</strong></h2>
+<h2><strong>How to Transport A Classic Car?</strong></h2>
 <strong>Transporting a classic car is a relatively simple procedure:</strong>
 <br><br>
 <strong>Plan the shipment:</strong> You will save the most money if you get quotes at least two weeks before sending your vehicle. Expedited shipping incurs additional fees.

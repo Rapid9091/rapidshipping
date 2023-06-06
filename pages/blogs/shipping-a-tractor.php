@@ -59,7 +59,7 @@ Their goal is to send your tractor as soon as possible and safely. The best car 
 The best car shipping companies offer the most accessible and least stressful way to get your earth-moving vehicle to and from any place in the United States.
 <br><br>
 The best companies for moving cars use flatbed trucks, step-decks, RGNs, and other specialized trailer equipment to make loading and unloading any size or shape of tractor safe and easy.
-<h2><strong>How to Move A Lawn Tractor</strong></h2>
+<h2><strong>How to Move A Lawn Tractor?</strong></h2>
 Professional <a href="https://rapidautoshipping.com/services/truck-shipping-service" target="_blank"><strong>truck shipping</strong></a> is the only way to go. But it's easy to pull a lawn tractor with the right trailer and tow truck. To make loading simple: first, hook up the safety chains and connect the tongue of the trailer to the hitch ball.
 <ul>
  	<li>Lower the loading ramp or gate and make sure the top of the gate touches the ground.</li>

@@ -37,7 +37,7 @@ Nowadays, the innovative use of road transport enables the transportation and de
 Our vehicle transport firm Tempus Logix, one of the most versatile logistics solution providers, can manage your yacht transportation most successfully and cost-effectively.
 <br><br>
 As a result, we provide city-to-city and <a href="https://rapidautoshipping.com/state-to-state" target="_blank"><strong>state to state</strong></a> boat/yacht/sailboat transportation by road using specially constructed trailers that can accommodate large ships up to 70 feet in length. Regardless of your budget or time limits, we will try to provide you with the finest yacht shipping in the United States.
-<h2><strong>How Yacht Shipping Companies Prepare Their Yachts</strong></h2>
+<h2><strong>How Yacht Shipping Companies Prepare Their Yachts?</strong></h2>
 Measuring your boat correctly is an essential element of the shipping procedure since it determines whether it can or cannot be legally moved by land along your desired route.
 <br><br>
 If your boat or yacht is extensive, or if the transport route will need it to travel via tight roads or low bridges, the company will do the necessary research for your transport route and permission requirements.

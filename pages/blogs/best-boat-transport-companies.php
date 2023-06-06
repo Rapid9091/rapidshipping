@@ -79,7 +79,7 @@ Some companies have guides for hire who can take a customer's boat from one harb
 <strong>Air shipping:</strong> Some shipping companies can use cargo planes to transport boats. Most of the time, shipping by land or sea is faster and cheaper.
 <br><br>
 However, a <a href="https://rapidautoshipping.com/services/cargo-vans-services" target="_blank"><strong>cargo</strong> </a>plane might be the best choice if you need to ship smaller boats or boat parts like masts for sailboats and yachts.
-<h2><strong>How to Get A Boat Ready For Transport</strong></h2>
+<h2><strong>How to Get A Boat Ready For Transport?</strong></h2>
 Depending on how much help the best boat transport companies give you, you may have to do a lot of work to get your boat ready for transport, or the company may do it for you.
 <ul>
  	<li>Take out all of your items from the boat.</li>
@@ -105,7 +105,7 @@ There are some benefits to using the best boat transport companies, including:
 The time needed to move a boat or yacht depends on some factors, including the route, the manner of transportation, and the actual distance. It's best to get prices from more than one company so you can compare.
 <h2><strong>How Long Does Boat or Yacht Transportation Take?</strong></h2>
 Some factors, such as the crucial distance, the route, and the manner of transportation, affect how long it takes to transfer a boat or yacht. It is recommended to ask the <a href="https://rapidautoshipping.com/" target="_blank"><strong>shipping company</strong></a> for an estimated delivery time.
-<h2><strong>What to Look For In The Best Boat Shipping Companies</strong></h2>
+<h2><strong>What to Look For In The Best Boat Shipping Companies?</strong></h2>
 When you're getting ready to ship your boat, you shouldn't just look for good price deals; you should only choose the best boat transport companies.
 <br><br>
 Even though the price of a new boat doesn't change how much it <a href="https://rapidautoshipping.com/blogs/cost-to-ship-a-car" target="_blank"><strong>costs to ship</strong></a>, you should be extra careful when sending a new boat. Here are some things to think about when comparing your choices.

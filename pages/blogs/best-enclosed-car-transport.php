@@ -21,7 +21,7 @@
 <body>   
    <h1>Best Enclosed Car Transport</h1>
    Best enclosed car transport is a form of vehicle transport that provides additional vehicle protection. In most instances, enclosed carriers can carry up to seven automobiles simultaneously. This is a fantastic option to convey a classic or luxury automobile. 
-<h2><strong>How Does It Work | Best Enclosed Car Transport</strong></h2>
+<h2><strong>How Does It Work | Best Enclosed Car Transport?</strong></h2>
 Enclosed car transport trailers have hard or soft walls, straps, and a roof to keep the weather out. There are several types of covered car trailers, including:
 <br><br>
 <strong>Enclosed carriers for 5–6 cars:</strong> These look like semi-trucks and work like open carriers for vehicles. The trucks have two hard-sided levels where cars can be stored.

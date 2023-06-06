@@ -129,7 +129,7 @@ Follow a few simple measures to ensure your California <a href="https://rapidaut
 <strong>Empty Gas Tank: </strong>Since the vehicle will only be driven for a brief distance, the gas tank should be at most a quarter full.
 <br><br>
 <strong>Duplicate vehicle Keys: </strong>Create two sets of vehicle keys. One should be kept as a reserve, while the other should be given to the auto shipping California company during the handoff.
-<h2><strong>How to Obtain A Car Shipping Quote to or From California</strong></h2>
+<h2><strong>How to Obtain A Car Shipping Quote to or From California?</strong></h2>
 Auto shipping California can be costly if you choose a company without comparing prices. Obtaining <a href="https://rapidautoshipping.com/services/multi-car-shipping" target="_blank"><strong>multiple</strong> </a>estimates is, therefore, always advisable.
     <br><br>
 Provide the auto shipping California company with some information about your cargo, including the origin and destination of the shipment, the type of vehicle being transported, and the shipping date.

@@ -23,7 +23,7 @@ The car shipping company is here to help you every step of the way, from receivi
 The company has years of business knowledge and can assist you in locating the finest solutions at the most affordable pricing.
 <h2><strong>What Is The Boat Shipping Cost  Per Mile?</strong></h2>
 Depending on the size of your boat and the distance it must be transported, the cost of boat shipping per mile may range from $1.25 to $15.00 per mile. Obtaining quotations from many carriers to evaluate rates and services is critical. Furthermore, certain companies may provide savings for numerous boat shipments or during off-season periods.
-<h2><strong>How to Get A Boat Ready for Shipping</strong></h2>
+<h2><strong>How to Get A Boat Ready for Shipping?</strong></h2>
 Depending on the degree of service the boat <a href="https://rapidautoshipping.com/blogs/cost-of-shipping-a-car" target="_blank"><strong>shipping cost</strong></a> firm provides, you may need to prepare your boat substantially, or the company may handle the job for you.
 <ul>
  	<li>Remove all personal belongings from the boat.</li>
