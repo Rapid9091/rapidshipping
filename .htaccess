@@ -296,6 +296,7 @@ ReWriteRule ^blogs/shipping-cars-to-another-state([/]?)$ pages/blogs/shipping-ca
 ReWriteRule ^blogs/shipping-heavy-equipment([/]?)$ pages/blogs/shipping-heavy-equipment.php [NC,L]
 ReWriteRule ^blogs/snowbird-auto-transport([/]?)$ pages/blogs/snowbird-auto-transport.php [NC,L]
 # ReWriteRule ^blogs/special-discounts([/]?)$ pages/blogs/special-discounts.php [NC,L]
+ReWriteRule ^blogs/state-to-state-auto-transport([/]?)$ pages/blogs/state-to-state-auto-transport.php [NC,L]
 ReWriteRule ^blogs/state-to-state-transport([/]?)$ pages/blogs/state-to-state-transport.php [NC,L]
 # ReWriteRule ^blogs/summer-car-shipping([/]?)$ pages/blogs/summer-car-shipping.php [NC,L]
 ReWriteRule ^blogs/suv-auto-transport([/]?)$ pages/blogs/suv-auto-transport.php [NC,L]
