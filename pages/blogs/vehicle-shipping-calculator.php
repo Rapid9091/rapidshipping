@@ -11,7 +11,7 @@
 <body>   
    <h1>Vehicle Shipping Calculator</h1>
    The Auto Shipping company approach is based on the knowledge that company consumers desire the least expensive vehicle transport rates with no complications, additional costs, or issues. Most vehicle shippers base their vehicle shipping calculator on a few data points. To be safe, they must charge their vehicle shipping calculator more than the industry standard.
-<h2><strong>What Is A Vehicle Shipping C</strong><strong>alculator</strong></h2>
+<h2><strong>What Is A Vehicle Shipping C?</strong><strong>alculator</strong></h2>
 A vehicle <a href="https://rapidautoshipping.com/blogs/auto-shipping-calculator" target="_blank"<strong>shipping calculator</strong></a> offers a non-committal preliminary estimate of how much it will cost to send your automobile. These are excellent tools for establishing a reliable baseline for the cost of shipping a car.
 <br><br>
 The issue with a calculator like this one that asks for no personal information is that you need to have the rate in writing, which means it might change.
