@@ -53,7 +53,7 @@ To deal with Rapid Auto Shipping, a carrier must be licensed and possess cargo i
  	<li>international delivery</li>
 </ul>
 Rapid Auto Shipping has a stellar reputation in the car shipping industry. The company has accreditation from the BBB along with an A+ rating. On Trust pilot and Google, customers rate Rapid Auto Shipping  with 4.6 and 4.7 stars, respectively.
-<h3><strong>What Sets Rapid Auto Shipping Apart</strong></h3>
+<h3><strong>What Sets Rapid Auto Shipping Apart?</strong></h3>
 Rapid Auto Shipping can provide a few unique advantages as one of the biggest vehicle transport transporter available. For instance, the company offers extended client service hours on weekdays and weekends, which only a few auto movers do. A live chat representative is available daily from 6 am to 12 am.
 <br><br>
 Rapid Auto Shipping can also deliver your vehicle from any dealership or auction to your home. This makes buying a car online simple and eliminates the stress of making transportation arrangements.
