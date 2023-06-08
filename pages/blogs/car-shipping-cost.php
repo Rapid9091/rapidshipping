@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Car Shipping Cost | Rapid Auto Shipping</title>
+    <title>Car Shipping Cost | +1-833-233-4447</title>
 
     <meta name="title" content="Car Shipping Cost | +1-833-233-4447" />
 <meta name="description" content="You can question if it's worthwhile if the car shipping cost you get is more than you can bear. The solution depends on how far you are traveling and what vehicle you drive." />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Car Shipping Cost  | +1-833-233-4447" />
+<meta property="og:title" content="Car Shipping Cost | +1-833-233-4447" />
 <meta property="og:description" content="You can question if it's worthwhile if the car shipping cost you get is more than you can bear. The solution depends on how far you are traveling and what vehicle you drive." />
 <meta property="og:url" content="https://rapidautoshipping.com/blogs/car-shipping-cost" />
 <meta property="og:site_name" content="Car Shipping Cost | +1-833-233-4447" />
