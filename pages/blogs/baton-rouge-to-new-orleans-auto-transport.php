@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CBaton Rouge to New Orleans Auto Transport | +1-833-233-4447</title>
+    <title>Baton Rouge to New Orleans Auto Transport | +1-833-233-4447</title>
 
     <meta name="title" content="Baton Rouge to New Orleans Auto Transport | +1-833-233-4447" />
 <meta name="description" content="The company is reliable in taking your vehicle from Baton Rouge to New Orleans Auto Transport. The company has efficient dispatch, support, and claims departments that guarantee professional handling of your shipments." />
