@@ -258,6 +258,7 @@ ReWriteRule ^blogs/how-to-ship-non-running-vehicle([/]?)$ pages/blogs/how-to-shi
 ReWriteRule ^blogs/indianapolis-auto-transport-guide([/]?)$ pages/blogs/indianapolis-auto-transport-guide.php [NC,L]
 ReWriteRule ^blogs/instant-car-shipping-quote([/]?)$ pages/blogs/instant-car-shipping-quote.php [NC,L]
 ReWriteRule ^blogs/international-car-shipping-tips([/]?)$ pages/blogs/international-car-shipping-tips.php [NC,L]
+ReWriteRule ^blogs/jacksonville-to-orlando-auto-transport([/]?)$ pages/blogs/jacksonville-to-orlando-auto-transport.php [NC,L]
 ReWriteRule ^blogs/jet-ski-transportation([/]?)$ pages/blogs/jet-ski-transportation.php [NC,L]
 #ReWriteRule ^blogs/line-haul-transportation([/]?)$ pages/blogs/line-haul-transportation.php [NC,L]
 ReWriteRule ^blogs/local-online-car-shipping([/]?)$ pages/blogs/local-online-car-shipping.php [NC,L]
