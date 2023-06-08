@@ -2,12 +2,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vehicle Transportation Services | Rapid Auto Shipping</title>
-    <meta property="og:description" content="terms and conditions about rapid auto shipping" />
-     
+    <title>Vehicle Transportation Services | +1-833-233-4447</title>
+
+    <meta name="title" content="Vehicle Transportation Services | +1-833-233-4447" />
+<meta name="description" content="Vehicle transportation services have numerous choices for relocating your personal, dealer, military, or company vehicle. As an industry leader, car shipping provides open-air, enclosed transport, etc shipping services." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Vehicle Transportation Services | +1-833-233-4447" />
+<meta property="og:description" content="Vehicle transportation services have numerous choices for relocating your personal, dealer, military, or company vehicle. As an industry leader, car shipping provides open-air, enclosed transport, etc shipping services." />
+<meta property="og:url" content="https://rapidautoshipping.com/blogs/vehicle-transportation-services" />
+<meta property="og:site_name" content="Vehicle Transportation Services | +1-833-233-4447" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Vehicle Transportation Service, Vehicle Transportation Service, Vehicle Transportation Service, Vehicle Transportation Service, Vehicle Transportation Service" />
+<meta property="article:tag" content="Vehicle Transportation Service" />
+<meta property="article:tag" content="Vehicle Transportation Service" />
+<meta property="article:tag" content="Vehicle Transportation Service" />
+<meta property="article:tag" content="Vehicle Transportation Service" />
+<meta property="article:tag" content="Vehicle Transportation Service" />
+
 </head>
 <body>   
    <h1>Vehicle Transportation Services</h1>
