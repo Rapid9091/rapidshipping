@@ -2,11 +2,28 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vehicle Shipping Calculator | Rapid Auto Shipping</title>
-    <meta property="og:description" content="terms and conditions about rapid auto shipping" />
+    
+    <meta name="title" content="Vehicle Shipping Calculator | Rapid Auto Shipping" />
+<meta name="description" content="the least expensive vehicle transport rates with no complications, additional costs, or issues. Most vehicle shippers base their vehicle shipping calculator on a few data points." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Vehicle Shipping Calculator | Rapid Auto Shipping" />
+<meta property="og:description" content="the least expensive vehicle transport rates with no complications, additional costs, or issues. Most vehicle shippers base their vehicle shipping calculator on a few data points." />
+<meta property="og:url" content="https://rapidautoshipping.com/blogs/vehicle-shipping-calculator" />
+<meta property="og:site_name" content="Vehicle Shipping Calculator | Rapid Auto Shipping" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Vehicle Shipping Calculator, Vehicle Shipping Calculator, Vehicle Shipping Calculator, Vehicle Shipping Calculator, Vehicle Shipping Calculator" />
+<meta property="article:tag" content="Vehicle Shipping Calculator" />
+<meta property="article:tag" content="Vehicle Shipping Calculator" />
+<meta property="article:tag" content="Vehicle Shipping Calculator" />
+<meta property="article:tag" content="Vehicle Shipping Calculator" />
+<meta property="article:tag" content="Vehicle Shipping Calculator" />
+
+
+    
 </head>
 <body>   
    <h1>Vehicle Shipping Calculator</h1>
