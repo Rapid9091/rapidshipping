@@ -15,8 +15,9 @@
 <meta property="og:url" content="https://rapidautoshipping.com/blogs/state-to-state-auto-transport" />
 <meta property="og:site_name" content="State to State Auto Transport Company | +1-833-233-4447" />
 <meta name='robots' content='index' />
-<meta name="keywords" content="Dallas to San Antonio Auto Transport" />
-<meta property="article:tag" content="Dallas to San Antonio Auto Transport" />
+<meta name="keywords" content="State to State Auto Transport Company" />
+<meta property="article:tag" content="State to State Auto Transport Company" />
+
 
 </head>
 <body>   
