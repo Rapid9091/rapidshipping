@@ -302,6 +302,7 @@ ReWriteRule ^blogs/snowbird-auto-transport([/]?)$ pages/blogs/snowbird-auto-tran
 ReWriteRule ^blogs/state-to-state-auto-transport([/]?)$ pages/blogs/state-to-state-auto-transport.php [NC,L]
 ReWriteRule ^blogs/state-to-state-transport([/]?)$ pages/blogs/state-to-state-transport.php [NC,L]
 # ReWriteRule ^blogs/summer-car-shipping([/]?)$ pages/blogs/summer-car-shipping.php [NC,L]
+ReWriteRule ^blogs/tampa-to-orlando-auto-transport([/]?)$ pages/blogs/tampa-to-orlando-auto-transport.php [NC,L]
 ReWriteRule ^blogs/suv-auto-transport([/]?)$ pages/blogs/suv-auto-transport.php [NC,L]
 # ReWriteRule ^blogs/terminal-to-terminal-auto-transport([/]?)$ pages/blogs/terminal-to-terminal-auto-transport.php [NC,L]
 ReWriteRule ^blogs/terminal-to-terminal-car-shipping-service([/]?)$ pages/blogs/terminal-to-terminal-car-shipping-service.php [NC,L]
