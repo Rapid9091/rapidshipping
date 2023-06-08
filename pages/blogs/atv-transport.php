@@ -76,7 +76,7 @@ The condition of the ATV will be documented when you give it over to the driver 
 If your house is not tractor-trailer accessible, the driver will request that you meet him at the closest loading location. You won't have to worry about loading your ATV into the truck since the driver will do it for you. The company requests that someone be present to sign at the pickup and delivery locations.
 <br><br>
 If your ATV is in storage, the company may provide terminal to terminal storage instead of <a href="https://rapidautoshipping.com/services/door-to-door" target="_blank"><strong>door to door car delivery</strong></a>. Please discuss your choices with one of our experts.
-<h2><strong>What To Do After transport</strong></h2>
+<h2><strong>What To Do After transport?</strong></h2>
 Once your ATV has been dropped off at the end of the shipping, there are a few things you should do:
 <br><br>
 <strong>Condition of the outside:</strong>
