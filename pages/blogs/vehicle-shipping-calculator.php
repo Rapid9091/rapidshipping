@@ -21,8 +21,6 @@
 <meta property="article:tag" content="Vehicle Shipping Calculator" />
 <meta property="article:tag" content="Vehicle Shipping Calculator" />
 <meta property="article:tag" content="Vehicle Shipping Calculator" />
-
-
     
 </head>
 <body>   
