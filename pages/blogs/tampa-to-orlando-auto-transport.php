@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JTampa to Orlando Auto Transport | +1-833-233-4447</title>
+    <title>Tampa to Orlando Auto Transport | +1-833-233-4447</title>
 
     <meta name="title" content="Tampa to Orlando Auto Transport | +1-833-233-4447" />
 <meta name="description" content="When selecting shipping from Tampa to Orlando auto transport, it's essential to consider more than just the price. Several factors determine a company's reliability." />
