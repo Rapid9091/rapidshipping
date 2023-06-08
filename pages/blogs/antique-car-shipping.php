@@ -43,7 +43,7 @@ These containers are identical to box trailers in that they are fully enclosed a
 The most common type of vehicle transportation is <a href="https://rapidautoshipping.com/services/open-car-shipping" target="_blank"><strong>open automobile transport</strong></a>. It is affordable, quick, and easy to plan. It's adequate for the typical sedan, but owners of more expensive and valuable vehicles prefer to transport them in an enclosed trailer.
 <br><br>
 The amount of protection offered for cars is a drawback of this auto transport service. Thanks to increased security, you can travel confidently, knowing your priceless asset is safe and secure.
-<h2><strong>How to Get Your Vehicle Ready:</strong></h2>
+<h2><strong>How to Get Your Vehicle Ready?</strong></h2>
 Check what your carrier tells you to do to get the antique car ready for shipping. There may be rules about what personal things can be left inside, how much gas can be in the tank or other safety concerns.
 <br><br>
 Also, make sure your car is clean and carefully check it over. Take photos of the whole vehicle from different points with good lighting. This will help you find damage if something happens while your old car is being shipped.
