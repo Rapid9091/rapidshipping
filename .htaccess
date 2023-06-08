@@ -182,6 +182,7 @@ ReWriteRule ^blogs/beginners-guide-for-first-time-auto-shipping([/]?)$ pages/blo
 ReWriteRule ^blogs/benefits-of-enclosed-auto-transport([/]?)$ pages/blogs/benefits-of-enclosed-auto-transport.php [NC,L]
 ReWriteRule ^blogs/benefits-of-hiring-an-auto-transport-company([/]?)$ pages/blogs/benefits-of-hiring-an-auto-transport-company.php [NC,L]
 ReWriteRule ^blogs/benefits-of-open-auto-transport([/]?)$ pages/blogs/benefits-of-open-auto-transport.php [NC,L]
+ReWriteRule ^blogs/benefits-of-orlando-to-fort-lauderdale-auto-transport([/]?)$ pages/blogs/benefits-of-orlando-to-fort-lauderdale-auto-transport.php [NC,L]
 ReWriteRule ^blogs/best-auto-transport-michigan([/]?)$ pages/blogs/best-auto-transport-michigan.php [NC,L]
 ReWriteRule ^blogs/best-autoshipping-company-usa([/]?)$ pages/blogs/best-autoshipping-company-usa.php [NC,L]
 ReWriteRule ^blogs/best-boat-shipping-companies([/]?)$ pages/blogs/best-boat-shipping-companies.php [NC,L]
