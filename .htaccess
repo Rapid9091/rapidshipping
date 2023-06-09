@@ -215,6 +215,7 @@ ReWriteRule ^blogs/car-shipping-cost([/]?)$ pages/blogs/car-shipping-cost.php [N
 ReWriteRule ^blogs/car-shipping-documents([/]?)$ pages/blogs/car-shipping-documents.php [NC,L]
 ReWriteRule ^blogs/car-shipping-services([/]?)$ pages/blogs/car-shipping-services.php [NC,L]
 ReWriteRule ^blogs/car-shipping-terminal-to-terminal([/]?)$ pages/blogs/car-shipping-terminal-to-terminal.php [NC,L]
+ReWriteRule ^blogs/car-transport-quote([/]?)$ pages/blogs/car-transport-quote.php [NC,L]
 ReWriteRule ^blogs/car-transportation-cost-calculator([/]?)$ pages/blogs/car-transportation-cost-calculator.php [NC,L]
 ReWriteRule ^blogs/cheap-car-shipping([/]?)$ pages/blogs/cheap-car-shipping.php [NC,L]
 ReWriteRule ^blogs/cheap-way-to-ship-a-car([/]?)$ pages/blogs/cheap-way-to-ship-a-car.php [NC,L]
