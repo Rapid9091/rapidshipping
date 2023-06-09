@@ -182,13 +182,13 @@
             On TransportReviews, TrustPilot, Facebook, the Better Business Bureau, and Google, Rapid Auto Shipping consistently obtains five-star ratings. Some reviewers are given a little deposit reimbursement that is unrelated to their rating score or pricing as an incentive to share their experience. We've delivered over 20,000 new and used cars, and while we're not perfect, we've built a solid reputation in the process.</p>
         <div class="trustbadge-container">
             <div class="trustbadeg-1">
-                <img loading="lazy" src="<?= get_img() ?>TransportReviewsLogo.webp" alt="review rapid auto shipping" />
+                <img loading="lazy" src="<?= get_img() ?>TransportReviewsLogo.webp" width ="100%" height ="100%" alt="review rapid auto shipping" />
             </div>
             <div class="trustbadeg-1">
-                <img loading="lazy" src="<?= get_img() ?>google-review-rating-img.png" alt="review rapid auto shipping" />
+                <img loading="lazy" src="<?= get_img() ?>google-review-rating-img.png"  width ="100%" height ="100%" alt="review rapid auto shipping" />
             </div>
             <div class="trustbadeg-1">
-                <img loading="lazy" src="<?= get_img() ?>Trustpilot-review-rating-img.png" alt="review rapid auto shipping" />
+                <img loading="lazy" src="<?= get_img() ?>Trustpilot-review-rating-img.png"  width ="100%" height ="100%" alt="review rapid auto shipping" />
             </div>
         </div>
 
