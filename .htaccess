@@ -232,6 +232,7 @@ ReWriteRule ^blogs/cost-from-california-to-texas([/]?)$ pages/blogs/cost-from-ca
 # ReWriteRule ^blogs/cost-from-texas-to-california([/]?)$ pages/blogs/cost-from-texas-to-california.php [NC,L]
 #ReWriteRule ^blogs/cost-of-shipping-a-car([/]?)$ pages/blogs/cost-of-shipping-a-car.php [NC,L]
 # ReWriteRule ^blogs/cost-to-ship-a-car([/]?)$ pages/blogs/cost-to-ship-a-car.php [NC,L]
+ReWriteRule ^blogs/how-much-does-it-cost-to-transport-a-car-by-truck([/]?)$ pages/blogs/how-much-does-it-cost-to-transport-a-car-by-truck.php [NC,L]
 #ReWriteRule ^blogs/covered-auto-transport([/]?)$ pages/blogs/covered-auto-transport.php [NC,L]
 ReWriteRule ^blogs/covered-car-shipping([/]?)$ pages/blogs/covered-car-shipping.php [NC,L]
 ReWriteRule ^blogs/cross-country-car-shipping([/]?)$ pages/blogs/cross-country-car-shipping.php [NC,L]
