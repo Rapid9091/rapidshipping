@@ -21,7 +21,7 @@
     const domain = "<?= home_path() ?>";
 </script>
 
-<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&callback=Function.prototype&libraries=places" defer></script>
+<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places" defer></script>
 
 <script  src="<?= get_js("Page_state_new.min.js") ?>" defer></script>
 
