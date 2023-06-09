@@ -28,17 +28,44 @@ if (isset($_GET['page_id'])) {
     <?php include_once new_head; ?>
     <link rel="stylesheet" href="<?= get_css(); ?>Page_new.min.css" defer>
 
-    <link
+    <!-- <link
         href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400&display=swap"
-        rel="stylesheet" defer />
+        rel="stylesheet" defer /> -->
+        <script>
+  function loadBoxicons4() {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400&display=swap';
+    document.head.appendChild(link);
+  }
+  window.addEventListener('load', loadBoxicons4);
+</script>
 
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
+        <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
         integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" defer />
-    <link rel="stylesheet"
+        crossorigin="anonymous" referrerpolicy="no-referrer" defer /> -->
+        <script>
+  function loadBoxicons3() {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css';
+    document.head.appendChild(link);
+  }
+  window.addEventListener('load', loadBoxicons3);
+</script>
+    <!-- <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"
         integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" defer />
+        crossorigin="anonymous" referrerpolicy="no-referrer" defer /> -->
+        <script>
+  function loadBoxicons2() {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css';
+    document.head.appendChild(link);
+  }
+  window.addEventListener('load', loadBoxicons2);
+</script>
 
 
     <style>

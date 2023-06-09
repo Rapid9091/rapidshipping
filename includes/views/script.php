@@ -124,3 +124,11 @@
 
     gtag('config', 'UA-230557003-1');
 </script>
+<script>
+const images = document.getElementsByTagName('img');
+
+// Loop through each image element and add the "lazy-loading" class
+for (let i = 0; i < images.length; i++) {
+  images[i].setAttribute('loading','lazy');
+}
+</script>
