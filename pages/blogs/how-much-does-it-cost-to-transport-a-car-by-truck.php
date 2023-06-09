@@ -128,7 +128,7 @@ When comparing how much does it cost to transport a car by truck, looking at var
 <br><br>
 Before making a final selection, it is also critical to read reviews and investigate the company's qualifications.
 <br><br>
-In conclusion, comprehending automobile shipping rates is critical for locating the greatest and most dependable price. Distance, vehicle type, and time of year can influence car transportation charges. You may make an informed selection by using an online auto shipping quote <a href="https://rapidautoshipping.com/blogs/vehicle-shipping-calculator"><strong>calculator</strong> </a>and researching car shipping firms.
+In conclusion, comprehending automobile shipping rates is critical for locating the greatest and most dependable price. Distance, vehicle type, and time of year can influence car transportation charges. You may make an informed selection by using an online auto shipping quote <a href="https://rapidautoshipping.com/blogs/vehicle-shipping-calculator" target="_blank"><strong>calculator</strong> </a>and researching car shipping firms.
 
 </body>
 </html>
