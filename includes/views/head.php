@@ -37,15 +37,7 @@
   }
   window.addEventListener('load', loadBoxicons);
 </script>
-<script>
-  function loadBoxicons6() {
-    var link = document.createElement('script');
-    link.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyAcYXlUHyWIuVsqM4an4oCYgd8FzNAEFpY&v=3.exp&callback=Function.prototype&libraries=places';
-    // link.href = 'https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.0/css/boxicons.min.css';
-    document.head.appendChild(link);
-  }
-  window.addEventListener('load', loadBoxicons6);
-</script>
+
 <!-- Review Tag Manager Add -->
 <script defer type='application/ld+json'>
     {
