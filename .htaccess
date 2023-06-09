@@ -291,6 +291,7 @@ ReWriteRule ^blogs/sacramento-to-san-francisco-auto-transport([/]?)$ pages/blogs
 ReWriteRule ^blogs/san-antonio-to-dallas-auto-transport([/]?)$ pages/blogs/san-antonio-to-dallas-auto-transport.php [NC,L]
 ReWriteRule ^blogs/san-diego-auto-shipping([/]?)$ pages/blogs/san-diego-auto-shipping.php [NC,L]
 ReWriteRule ^blogs/san-fransisco-shipping([/]?)$ pages/blogs/san-fransisco-shipping.php [NC,L]
+ReWriteRule ^blogs/savannah-to-atlanta-auto-transport([/]?)$ pages/blogs/savannah-to-atlanta-auto-transport.php [NC,L]
 ReWriteRule ^blogs/ship-a-car-to-california([/]?)$ pages/blogs/ship-a-car-to-california.php [NC,L]
 ReWriteRule ^blogs/ship-car-by-train([/]?)$ pages/blogs/ship-car-by-train.php [NC,L]
 ReWriteRule ^blogs/ship-my-car([/]?)$ pages/blogs/ship-my-car.php [NC,L]

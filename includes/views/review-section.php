@@ -1,6 +1,10 @@
 <section class="second-review-section">
     <div class="arrow" onclick="right();">
-        <img loading="lazy" src="<?= get_img() ?>/left-arrow.png" alt="open car transport" />
+        <!-- <img loading="lazy" src="<?= get_img() ?>/left-arrow.png" alt="open car transport" /> -->
+        <div style="background-color: #ff5722;;width:50px;height:50px;border-radius:50%;display:grid;align-items: center;
+  justify-content: center;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill: rgba(255, 255, 255, 1);"><path d="M13.939 4.939 6.879 12l7.06 7.061 2.122-2.122L11.121 12l4.94-4.939z"></path></svg>
+        </div>
     </div>
     <div class="arrow-mid" id="arrow-mid">
         <div class="review-sec tech-slideshow" id="review-sec">
@@ -224,7 +228,10 @@
         </div>
     </div>
     <div class="arrow" onclick="left();">
-        <img loading="lazy" src="<?= get_img() ?>/right-arrow.png" alt="enclosed auto transport" />
-
+        <!-- <img loading="lazy" src="<?= get_img() ?>/right-arrow.png" alt="enclosed auto transport" /> -->
+        <div style="background-color: #ff5722;;width:50px;height:50px;border-radius:50%;display:grid;align-items: center;
+  justify-content: center;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill: rgba(255, 255, 255, 1);"><path d="M10.061 19.061 17.121 12l-7.06-7.061-2.122 2.122L12.879 12l-4.94 4.939z"></path></svg>
+        </div>
     </div>
 </section>
