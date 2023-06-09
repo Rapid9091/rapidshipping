@@ -260,7 +260,7 @@
             <a href="<?= home_path(); ?>services/rail-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img loading="lazy" src=" <?= get_img() ?>metro-icon.png" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>metro-icon.png" width="48px" height ="48px" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>By Rail</h3>
@@ -271,7 +271,7 @@
             <a href="<?= home_path(); ?>services/enclosed-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img loading="lazy" src=" <?= get_img() ?>closed-truck-icon.png" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>closed-truck-icon.png" width="48px" height ="48px" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Enclosed Auto Transport</h3>
@@ -283,7 +283,7 @@
             <a href="<?= home_path(); ?>services/door-to-door">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img loading="lazy" src=" <?= get_img() ?>door-to-door-icon.png" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>door-to-door-icon.png" width="48px" height ="48px" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Door To Door Shipping</h3>
@@ -294,7 +294,7 @@
             <a href="<?= home_path(); ?>services/motor-cycle-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img loading="lazy" src=" <?= get_img() ?>motorcycle-icon.png" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>motorcycle-icon.png" width="48px" height ="48px" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Motorcycle Transport</h3>
@@ -306,7 +306,7 @@
             <a href="<?= home_path(); ?>services/snow-bird-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img loading="lazy" src=" <?= get_img() ?>snowbird-icon.png" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>snowbird-icon.png" width="48px" height ="48px" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Snow Bird Shipping</h3>
@@ -317,7 +317,7 @@
             <a href="<?= home_path(); ?>services/boat-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img loading="lazy" src=" <?= get_img() ?>boat-shipping-icon.png" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>boat-shipping-icon.png" width="48px" height ="48px" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Boat Shipping</h3>
