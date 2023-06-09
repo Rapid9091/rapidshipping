@@ -105,7 +105,8 @@ ReWriteRule ^states/([0-9A-Za-z\-]+)([/]?)$ pages/states/_index.php?page_id=$1 [
 
 
 # This route work for cities-pages(cities)
-ReWriteRule ^cities/([0-9A-Za-z\-]+)([/]?)$ pages/cities/$1.php [NC,L]
+#ReWriteRule ^cities/([0-9A-Za-z\-]+)([/]?)$ pages/cities/$1.php [NC,L]
+ReWriteRule ^chicago-to-san-diego-auto-transport([/]?)$ pages/cities/chicago-to-san-diego-auto-transport.php [NC,L]
 #
 #=============================================================================================================
 
