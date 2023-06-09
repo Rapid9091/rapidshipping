@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Auto Transport Colorado | Rapid Auto Shipping</title>
+    <title>Auto Transport Colorado | +1-833-233-4447</title>
 
     <meta name="title" content="Auto Transport Colorado | +1-833-233-4447" />
 <meta name="description" content="Put your trust in Vehicle Transport for auto transport Colorado Springs and throughout the state. The company has years of expertise, and one of its specializations is auto transport in Colorado." />
@@ -15,12 +15,9 @@
 <meta property="og:url" content="https://rapidautoshipping.com/blogs/auto-transport-colorado" />
 <meta property="og:site_name" content="Auto Transport Colorado | +1-833-233-4447" />
 <meta name='robots' content='index' />
-<meta name="keywords" content="Auto Transport Colorado, Auto Transport Colorado, Auto Transport Colorado, Auto Transport Colorado, Auto Transport Colorado" />
+<meta name="keywords" content="Auto Transport Colorado" />
 <meta property="article:tag" content="Auto Transport Colorado" />
-<meta property="article:tag" content="Auto Transport Colorado" />
-<meta property="article:tag" content="Auto Transport Colorado" />
-<meta property="article:tag" content="Auto Transport Colorado" />
-<meta property="article:tag" content="Auto Transport Colorado" />
+
 </head>
 <body>   
    <h1>Auto Transport Colorado</h1>

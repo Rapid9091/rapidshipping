@@ -5,22 +5,19 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Affordable Auto Transport Company | Rapid Auto Shipping</title>
+    <title>Affordable Auto Transport | +1-833-233-4447</title>
     <meta property="og:description" content="terms and conditions about rapid auto shipping" />
-    <meta name="title" content="Affordable Auto Transport Company | +1-833-233-4447" />
+    <meta name="title" content="Affordable Auto Transport | +1-833-233-4447" />
 <meta name="description" content="Rapid Auto Shipping has transported more than 123,000 vehicles throughout all 50 states. Due mainly to its ensured pricing, the auto transport broker is renowned for its affordable auto transport services." />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Affordable Auto Transport Company | +1-833-233-4447" />
+<meta property="og:title" content="Affordable Auto Transport | +1-833-233-4447" />
 <meta property="og:description" content="Rapid Auto Shipping has transported more than 123,000 vehicles throughout all 50 states. Due mainly to its ensured pricing, the auto transport broker is renowned for its affordable auto transport services." />
 <meta property="og:url" content="https://rapidautoshipping.com/blogs/affordable-auto-transport" />
-<meta property="og:site_name" content="Affordable Auto Transport Company | +1-833-233-4447" />
+<meta property="og:site_name" content="Affordable Auto Transport | +1-833-233-4447" />
 <meta name='robots' content='index' />
-<meta name="keywords" content="Affordable Auto Transport, Affordable Auto Transport, Affordable Auto Transport, Affordable Auto Transport, Affordable Auto Transport" />
+<meta name="keywords" content="Affordable Auto Transport" />
 <meta property="article:tag" content="Affordable Auto Transport" />
-<meta property="article:tag" content="Affordable Auto Transport" />
-<meta property="article:tag" content="Affordable Auto Transport" />
-<meta property="article:tag" content="Affordable Auto Transport" />
-<meta property="article:tag" content="Affordable Auto Transport" />
+
 </head>
 <body>   
    <h1>Affordable Auto Transport </h1>
