@@ -162,7 +162,7 @@ For a free quote, call us immediately or visit our website. Thank you for thinki
  	<li>Not as long in business as some competitors</li>
  	<li>No real-time tracking, mobile app, or customer help is open 24/7.</li>
 </ul>
-Easy Auto Ship sends packages to all 50 states and other countries. Shipping choices include door-to-door, terminal-to-terminal, open and sealed, and fast shipping. Simple Auto Shipping moves cars, old cars, motorbikes, home things, and <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping"><strong>heavy equipment</strong></a>.
+Easy Auto Ship sends packages to all 50 states and other countries. Shipping choices include door-to-door, terminal-to-terminal, open and sealed, and fast shipping. Simple Auto Shipping moves cars, old cars, motorbikes, home things, and <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping" target="_blank"><strong>heavy equipment</strong></a>.
 <h2><strong>Car Shipping Guide</strong></h2>
 Car transportation is commonly used when someone needs to transport their vehicle over a greater distance than they can drive it themselves, such as when relocating across the country.
 <br><br>
