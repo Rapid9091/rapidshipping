@@ -59,7 +59,7 @@ Working with a trustworthy car transport company is crucial when transporting an
 <br><br>
 <strong>Motorcycles</strong>
 <br><br>
-It is crucial to find a trustworthy shipping company that specializes in transporting motorcycles when shipping your bike. When choosing a shipping company, it is essential to consider trust as a critical factor. We have built positive relationships with more than 2,000 certified <a href="https://rapidautoshipping.com/services/motor-cycle-shipping"><strong>motorcycle</strong> </a>movers nationwide.
+It is crucial to find a trustworthy shipping company that specializes in transporting motorcycles when shipping your bike. When choosing a shipping company, it is essential to consider trust as a critical factor. We have built positive relationships with more than 2,000 certified <a href="https://rapidautoshipping.com/services/motor-cycle-shipping" target="_blank"><strong>motorcycle</strong> </a>movers nationwide.
     <br><br>
 <strong>Sports cars</strong>
 <br><br>
