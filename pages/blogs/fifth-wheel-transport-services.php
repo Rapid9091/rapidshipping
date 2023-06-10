@@ -129,7 +129,7 @@
                         keep your RV off the road and protect it from slight damage. You'll pay more for this, though.
 
                     </p>
-                    <img loading="lazy" style="width:100%"
+                    <img loading="lazy" style="width:100%; height:100%;"
                         src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665831357/RapidAutoShipping/auto-transport-open_igwdt5.jpg"
                         alt="fifth-wheel-transport-services">
                 </div>
@@ -154,7 +154,7 @@
                         Transportation, remember that finding the best company to transport your fifth wheel will
                         ultimately come down to time, study, and a desire to research your options.
                     </p>
-                    <img loading="lazy" style="width:100%"
+                    <img loading="lazy"  style="width:100%; height:100%;"
                         src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/verification_qtasyq.jpg"
                         alt="5th wheel delivery service">
 
@@ -197,7 +197,7 @@
                 <div class="new-blog-section-one">
                     <h4><span>What Is the Cost of Fifth Wheel RV Transport?
                         </span></h4>
-                    <img loading="lazy" style="width:100%"
+                    <img loading="lazy"  style="width:100%; height:100%;"
                         src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667900696/Recent%20Uploads/businessman-working-with-documentation-desk_qyfwwo.jpg"
                         alt="fifth-wheel-transport-services">
                     <br><br>
