@@ -33,14 +33,31 @@ if (isset($_GET['page_id'])) {
         rel="stylesheet" defer />
 
     <!-- ------------------------------ -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
         integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" defer />
-    <link rel="stylesheet"
+        crossorigin="anonymous" referrerpolicy="no-referrer" defer /> -->
+        <script>
+  function loadBoxicons1() {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css';
+    document.head.appendChild(link);
+  }
+  window.addEventListener('load', loadBoxicons1);
+</script>
+    <!-- <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"
         integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" defer />
-
+        crossorigin="anonymous" referrerpolicy="no-referrer" defer /> -->
+        <script>
+  function loadBoxicons1() {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css';
+    document.head.appendChild(link);
+  }
+  window.addEventListener('load', loadBoxicons1);
+</script>
 
     <style>
         .contact-us-header-page {
@@ -460,9 +477,18 @@ if (isset($_GET['page_id'])) {
     <?php include_once new_script; ?>
 
     <!-- owl curosel -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
         integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
+        <script>
+  function loadBoxicons1() {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js';
+    document.head.appendChild(link);
+  }
+  window.addEventListener('load', loadBoxicons1);
+</script>
     <script>
         //google_review----
         $('#google_reviews').owlCarousel({
