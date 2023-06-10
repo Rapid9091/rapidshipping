@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chicago to San Diego Auto Transport | +1-833-233-4447</title>
+    <title>Chicago to San Diego Auto Transport | Rapid Auto Shipping</title>
 
     <meta name="title" content="Chicago to San Diego Auto Transport | +1-833-233-4447" />
 <meta name="description" content="When moving a car from Chicago to San Diego, you need trustworthy car shipping professionals. Rapid Auto Shipping can provide a safe and dependable solution to transfer a car from Chicago to San Diego auto transport." />
