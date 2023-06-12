@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Houston to Chicago Auto Transport | +1-833-233-4447</title>
+    <title>Houston to Chicago Auto Transport | Rapid Auto Shipping</title>
 
     <meta name="title" content="Houston to Chicago Auto Transport | +1-833-233-4447" />
 <meta name="description" content="Choosing a company with prior experience in Houston to Chicago auto transport is always advisable. The auto shipping company has provided car shipping services for over a decade from Houston to Chicago auto transport." />

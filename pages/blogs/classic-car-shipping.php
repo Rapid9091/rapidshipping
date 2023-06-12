@@ -15,12 +15,9 @@
 <meta property="og:url" content="https://rapidautoshipping.com/blogs/classic-car-shipping" />
 <meta property="og:site_name" content="Classic Car Shipping | Rapid Auto Shipping" />
 <meta name='robots' content='index' />
-<meta name="keywords" content="Classic Car Shipping, Classic Car Shipping, Classic Car Shipping, Classic Car Shipping, Classic Car Shipping" />
+<meta name="keywords" content="Classic Car Shipping" />
 <meta property="article:tag" content="Classic Car Shipping" />
-<meta property="article:tag" content="Classic Car Shipping" />
-<meta property="article:tag" content="Classic Car Shipping" />
-<meta property="article:tag" content="Classic Car Shipping" />
-<meta property="article:tag" content="Classic Car Shipping" />
+
 </head>
 <body>   
    <h1>Classic Car Shipping</h1>

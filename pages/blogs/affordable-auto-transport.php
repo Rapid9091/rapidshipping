@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Affordable Auto Transport | +1-833-233-4447</title>
+    <title>Affordable Auto Transport |  Rapid Auto Shipping</title>
     <meta property="og:description" content="terms and conditions about rapid auto shipping" />
     <meta name="title" content="Affordable Auto Transport | +1-833-233-4447" />
 <meta name="description" content="Rapid Auto Shipping has transported more than 123,000 vehicles throughout all 50 states. Due mainly to its ensured pricing, the auto transport broker is renowned for its affordable auto transport services." />

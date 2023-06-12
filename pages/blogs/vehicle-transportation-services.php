@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vehicle Transportation Services | +1-833-233-4447</title>
+    <title>Vehicle Transportation Services | Rapid Auto Shipping</title>
 
     <meta name="title" content="Vehicle Transportation Services | +1-833-233-4447" />
 <meta name="description" content="Vehicle transportation services have numerous choices for relocating your personal, dealer, military, or company vehicle. As an industry leader, car shipping provides open-air, enclosed transport, etc shipping services." />
