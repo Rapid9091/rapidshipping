@@ -110,6 +110,7 @@ ReWriteRule ^atlanta-to-chicago-auto-transport([/]?)$ pages/cities/atlanta-to-ch
 ReWriteRule ^atlanta-to-savannah-auto-transport([/]?)$ pages/cities/atlanta-to-savannah-auto-transport.php [NC,L]
 ReWriteRule ^chicago-to-san-diego-auto-transport([/]?)$ pages/cities/chicago-to-san-diego-auto-transport.php [NC,L]
 ReWriteRule ^dallas-to-chicago-auto-transport([/]?)$ pages/cities/dallas-to-chicago-auto-transport.php [NC,L]
+ReWriteRule ^houston-to-denver-auto-transport([/]?)$ pages/cities/houston-to-denver-auto-transport.php [NC,L]
 #
 #=============================================================================================================
 
