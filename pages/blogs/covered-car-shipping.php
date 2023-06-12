@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Benefits of Covered Car Shipping | +1-833-233-4447</title>
+    <title>Benefits of Covered Car Shipping | Rapid Auto Shipping</title>
 
     <meta name="title" content="Benefits of Covered Car Shipping | +1-833-233-4447" />
 <meta name="description" content="Covered car shipping, also known as enclosed auto transport or enclosed carrier auto transport, is a vehicle transport method that offers additional protection." />

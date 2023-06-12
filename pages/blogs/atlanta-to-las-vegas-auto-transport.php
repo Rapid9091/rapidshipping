@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Atlanta to Las Vegas Auto Transport | +1-833-233-4447</title>
+    <title>Atlanta to Las Vegas Auto Transport | Rapid Auto Shipping</title>
 
     <meta name="title" content="Atlanta to Las Vegas Auto Transport | +1-833-233-4447" />
 <meta name="description" content="A car shipping company can do the job if you're searching for Atlanta to Las Vegas auto transport services for your car, truck, or other vehicles." />

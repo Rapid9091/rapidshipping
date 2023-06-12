@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Savannah to Atlanta Auto Transport | +1-833-233-4447</title>
+    <title>Savannah to Atlanta Auto Transport | Rapid Auto Shipping</title>
 
     <meta name="title" content="Savannah to Atlanta Auto Transport | +1-833-233-4447" />
 <meta name="description" content="Shipping your car, truck, or other vehicles from Savannah to Atlanta auto transport has never been safer, easier, or more cost-effective than an auto shipping service." />

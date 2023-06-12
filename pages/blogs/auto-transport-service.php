@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Auto Transport Service | +1-833-233-4447</title>
+    <title>Best Auto Transport Service | Rapid Auto Shipping</title>
 
     <meta name="title" content="Best Auto Transport Service | +1-833-233-4447" />
 <meta name="description" content="Auto transport service is for those who want to move their vehicle from one place to another. You can ship your vehicle to another city or country as well." />

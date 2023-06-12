@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>how much does it cost to transport a car by truck | +1-833-233-4447</title>
+    <title>how much does it cost to transport a car by truck | Rapid Auto Shipping</title>
 
     <meta name="title" content="how much does it cost to transport a car by truck | +1-833-233-4447" />
 <meta name="description" content="Understanding auto shipping quotes is critical when shipping your vehicle. Car shipping rates assess how much does it cost to transport a car by truck from one area to another." />
