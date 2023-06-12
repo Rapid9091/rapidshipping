@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reliable and Cheapest Way to Ship Car | +1-833-233-4447</title>
+    <title>Reliable and Cheapest Way to Ship Car |  Rapid Auto Shipping</title>
 
     <meta name="title" content="Reliable and Cheapest Way to Ship Car | +1-833-233-4447" />
 <meta name="description" content="When reserving cheapest way to ship car, the majority of companies offer a variety of options. If you want cheapest way to ship car, adhere to the cheapest options available." />
