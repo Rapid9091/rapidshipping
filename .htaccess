@@ -247,7 +247,7 @@ ReWriteRule ^blogs/cross-country-car-shipping([/]?)$ pages/blogs/cross-country-c
 ReWriteRule ^blogs/dallas-to-san-antonio-auto-transport([/]?)$ pages/blogs/dallas-to-san-antonio-auto-transport.php [NC,L]
 # ReWriteRule ^blogs/differences-between-shipping-a-vehicle-during-summer-vs-winter([/]?)$ pages/blogs/differences-between-shipping-a-vehicle-during-summer-vs-winter.php [NC,L]
 ReWriteRule ^blogs/direct-auto-transport([/]?)$ pages/blogs/direct-auto-transport.php [NC,L]
-ReWriteRule ^blogs/door-to-door-auto-transport([/]?)$ pages/blogs/door-to-door-auto-transport.php [NC,L]
+#ReWriteRule ^blogs/door-to-door-auto-transport([/]?)$ pages/blogs/door-to-door-auto-transport.php [NC,L]
 ReWriteRule ^blogs/enclosed-auto-transport-chicago([/]?)$ pages/blogs/enclosed-auto-transport-chicago.php [NC,L]
  ReWriteRule ^blogs/enclosed-transport-trailers([/]?)$ pages/blogs/enclosed-transport-trailers.php [NC,L]
 ReWriteRule ^blogs/enclosed-vs-open-car-shipping([/]?)$ pages/blogs/enclosed-vs-open-car-shipping.php [NC,L]
