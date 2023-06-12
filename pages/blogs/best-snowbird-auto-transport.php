@@ -15,12 +15,9 @@
 <meta property="og:url" content="https://rapidautoshipping.com/blogs/best-snowbird-auto-transport" />
 <meta property="og:site_name" content="Best Snowbird Auto Transport | +1-833-233-4447" />
 <meta name='robots' content='index' />
-<meta name="keywords" content="Best Snowbird Auto Transport, Best Snowbird Auto Transport, Best Snowbird Auto Transport, Best Snowbird Auto Transport, Best Snowbird Auto Transport" />
+<meta name="keywords" content="Best Snowbird Auto Transport" />
 <meta property="article:tag" content="Best Snowbird Auto Transport" />
-<meta property="article:tag" content="Best Snowbird Auto Transport" />
-<meta property="article:tag" content="Best Snowbird Auto Transport" />
-<meta property="article:tag" content="Best Snowbird Auto Transport" />
-<meta property="article:tag" content="Best Snowbird Auto Transport" />
+
 </head>
 <body>   
    <h1>Best Snowbird Auto Transport</h1>
