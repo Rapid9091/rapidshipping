@@ -370,6 +370,7 @@ ReWriteRule ^terms-and-conditions([/]?)$ pages/terms-and-conditions.php [NC,L]
 
 # This route work for backlinks page 
 ReWriteRule ^rapid-backlinks([/]?)$ pages/rapid-backlinks.php [NC,L]
+ReWriteRule ^goggle-backlinks([/]?)$ pages/goggle-backlinks.php [NC,L]
 
 # This route work for all contactus 
 ReWriteRule ^contact-us([/]?)$ pages/contactus.php [NC,L]
