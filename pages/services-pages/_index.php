@@ -393,7 +393,70 @@ if (isset($_GET['page_id'])) {
 
     <!--  faq section -->
    
+    <div class="body">
 
+
+<div class="faq">FACTS & QUESTIONS</div>
+
+<div class="container">
+
+    <div class="box">
+        <span>What Kind of Paperwork Will I Need?</span>
+        <i class='bx bx-plus'></i>
+    </div>
+    <p class="para-faq">When transporting automobiles from one state to another, a bill of lading - or, as
+        previously stated, a vehicle health report - is required. Every car transporter carries one with them,
+        either online or on paper, for each vehicle they move. You will also receive a duplicate.
+        <br>Provide no ownership or certificate of sale. The deal with the car transport provider will say that
+        you are authorizing them to send the car whether or not the owner is in your name. When purchasing from
+        a sale or a vendor, keep the title and car transport services distinct. You don't want papers to get
+        lost or overlooked, so have the title shipped straight to you!
+    </p>
+    <div class="box">
+        <span>Can I put personal items in the car?</span>
+        <i class='bx bx-plus'></i>
+    </div>
+    <p class="para-faq">Yes, but only up to 100 pounds at a time and at your peril. Visit our help subject for
+        shipping a vehicle with belongings to learn more.</p>
+    <div class="box">
+        <span>What Kind of Tracking Services Do You Offer?</span>
+        <i class='bx bx-plus'></i>
+    </div>
+    <p class="para-faq">We offer a standard monitoring device to keep track of your car while it is in transit.
+        You can monitor your shipment using the online tracking function 24/7. It's all part of our dedication
+        to our clients. To monitor your vehicle shipment, please provide us with your tracking information,
+        name, email address, and/or phone number.</p>
+    <div class="box">
+        <span>Is My Pick-Up or Delivery Date Guaranteed?</span>
+        <i class='bx bx-plus'></i>
+    </div>
+    <p class="para-faq">Guaranteed pick-up is the best choice for those who want to prepare ahead of time and
+        ensure that their vehicle arrives on time. The service is not inexpensive because it is tailored to your
+        specific requirements.<br> You can choose the precise day your vehicle will be picked up with this
+        service, which can save you time and money. Furthermore, you will have a piece of mind knowing that
+        everything will go easily with your relocation.</p>
+    <div class="box">
+        <span>How Much Should I Expect to Spend on Shipping My Car?</span>
+        <i class='bx bx-plus'></i>
+    </div>
+    <p class="para-faq">The expense of car transport to or from Alabama is highly influenced by the sort of
+        vehicle, the distance traveled, and the technique used. <br>Transporting a car from a greater distance
+        costs more. Longer distances, on the other hand, may result in fewer average kilometres per dollar than
+        shorter ones. <br>For a precise vehicle shipment price for Alabama, use our free instant car shipping
+        estimate calculator above.</p>
+    <div class="box">
+        <span>Should I Expect Any Extra Charges Once My Car is Delivered?</span>
+        <i class='bx bx-plus'></i>
+    </div>
+    <p class="para-faq">The price is significantly influenced by the distance your vehicle is shipped. If you
+        are shipping your vehicle from or to a remote place, you may be charged additional costs. Auto carriers,
+        for example, may charge an extra fee to drive your vehicle to a less crowded area because it requires
+        more time and is usually much farther away from the carrier's next location.</p>
+
+
+
+</div>
+</div>
     <!-- back to top button -->
     <div class="b-top-button">
         <div class="b_top">
