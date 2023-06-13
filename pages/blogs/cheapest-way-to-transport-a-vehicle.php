@@ -15,12 +15,9 @@
 <meta property="og:url" content="https://rapidautoshipping.com/blogs/cheapest-way-to-transport-a-vehicle" />
 <meta property="og:site_name" content="Cheapest Way to Transport a Vehicle | +1-833-233-4447" />
 <meta name='robots' content='index' />
-<meta name="keywords" content="Cheapest Way to Transport a Vehicle, Cheapest Way to Transport a Vehicle, Cheapest Way to Transport a Vehicle, Cheapest Way to Transport a Vehicle, Cheapest Way to Transport a Vehicle" />
+<meta name="keywords" content="Cheapest Way to Transport a Vehicle" />
 <meta property="article:tag" content="Cheapest Way to Transport a Vehicle" />
-<meta property="article:tag" content="Cheapest Way to Transport a Vehicle" />
-<meta property="article:tag" content="Cheapest Way to Transport a Vehicle" />
-<meta property="article:tag" content="Cheapest Way to Transport a Vehicle" />
-<meta property="article:tag" content="Cheapest Way to Transport a Vehicle" />
+
 </head>
 <body>   
    <h1>Cheapest Way To Transport A Vehicle</h1>

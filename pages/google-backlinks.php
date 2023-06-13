@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rapid Auto Shipping</title>
-    <style>
+    <!-- <style>
         .linkings{
             overflow-wrap: break-word;
         }
-    </style>
+    </style> -->
 </head>
 <body>
-<div class="linkings">
+<div class="">
 <a href="google.co.uk/url?q=http%3A%2F%2Frapidautoshipping.com" target="_blank">google.co.uk/url?q=http%3A%2F%2Frapidautoshipping.com</a>
 <a href="google.com.sg/url?q=http%3A%2F%2Frapidautoshipping.com" target="_blank">google.com.sg/url?q=http%3A%2F%2Frapidautoshipping.com</a>
 <a href="google.com.tr/url?q=http%3A%2F%2Frapidautoshipping.com" target="_blank">google.com.tr/url?q=http%3A%2F%2Frapidautoshipping.com</a>
