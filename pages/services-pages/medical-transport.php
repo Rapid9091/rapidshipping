@@ -29,7 +29,7 @@
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Financial plan as well as objectives</span></li>
 </ul>
 <h2><b>Medical Transport Services Can Deliver</b></h2>
-<span style="font-weight: 400;">The network of medical transport firms that Rapid <a href="https://rapidautoshipping.com/blogs/best-autoshipping-company-usa"><strong>Auto Shipping</strong></a> maintains possesses the level of knowledge and experience necessary to manage a wide range of medical devices. We ship medical equipment that weighs more than 150 pounds. </span>
+<span style="font-weight: 400;">The network of medical transport firms that Rapid <a href="https://rapidautoshipping.com/blogs/best-autoshipping-company-usa" target="_blank"><strong>Auto Shipping</strong></a> maintains possesses the level of knowledge and experience necessary to manage a wide range of medical devices. We ship medical equipment that weighs more than 150 pounds. </span>
 <br><br>
 <span style="font-weight: 400;">Devices acceptable for transit over our network may include those cumbersome, big (for example, heavy machinery), and/or delicate. We can also get price estimates from shippers that are experts in the medical transport of sensitive laser equipment. These are the following:</span>
 <ul>
