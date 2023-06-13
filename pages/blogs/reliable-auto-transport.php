@@ -15,12 +15,9 @@
 <meta property="og:url" content="https://rapidautoshipping.com/blogs/reliable-auto-transport" />
 <meta property="og:site_name" content="Reliable Auto Transport | Rapid Auto Shipping" />
 <meta name='robots' content='index' />
-<meta name="keywords" content="Reliable Auto Transport, Reliable Auto Transport, Reliable Auto Transport, Reliable Auto Transport, Reliable Auto Transport" />
+<meta name="keywords" content="Reliable Auto Transport" />
 <meta property="article:tag" content="Reliable Auto Transport" />
-<meta property="article:tag" content="Reliable Auto Transport" />
-<meta property="article:tag" content="Reliable Auto Transport" />
-<meta property="article:tag" content="Reliable Auto Transport" />
-<meta property="article:tag" content="Reliable Auto Transport" />
+
 </head>
 <body>   
    <h1>Reliable Auto Transport</h1>
