@@ -15,12 +15,9 @@
 <meta property="og:url" content="https://rapidautoshipping.com/blogs/yacht-shipping-companies" />
 <meta property="og:site_name" content="Yacht Shipping Companies | +1-833-233-4447" />
 <meta name='robots' content='index' />
-<meta name="keywords" content="Yacht Shipping Companies, Yacht Shipping Companies, Yacht Shipping Companies, Yacht Shipping Companies, Yacht Shipping Companies" />
+<meta name="keywords" content="Yacht Shipping Companies" />
 <meta property="article:tag" content="Yacht Shipping Companies" />
-<meta property="article:tag" content="Yacht Shipping Companies" />
-<meta property="article:tag" content="Yacht Shipping Companies" />
-<meta property="article:tag" content="Yacht Shipping Companies" />
-<meta property="article:tag" content="Yacht Shipping Companies" />
+
 </head>
 <body>   
    <h1>Yacht Shipping Companies</h1>

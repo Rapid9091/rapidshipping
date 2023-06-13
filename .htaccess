@@ -348,7 +348,7 @@ ReWriteRule ^blogs/what-is-usdot-how-to-check-usdot([/]?)$ pages/blogs/what-is-u
 ReWriteRule ^blogs/why-do-auto-shipping-quote-differ([/]?)$ pages/blogs/why-do-auto-shipping-quote-differ.php [NC,L]
 ReWriteRule ^blogs/why-not-to-run-for-low-prices([/]?)$ pages/blogs/why-not-to-run-for-low-prices.php [NC,L]
 ReWriteRule ^blogs/why-to-compare-auto-transport-companies([/]?)$ pages/blogs/why-to-compare-auto-transport-companies.php [NC,L]
-ReWriteRule ^blogs/yacht-shipping-companies([/]?)$ pages/blogs/yacht-shipping-companies.php [NC,L]
+#ReWriteRule ^blogs/yacht-shipping-companies([/]?)$ pages/blogs/yacht-shipping-companies.php [NC,L]
 # ReWriteRule ^blogs/([0-9A-Za-z\-]+)([/]?)$ pages/blogs/$1.php [NC,L]
 
 ReWriteRule ^blogs/([0-9A-Za-z\-]+)([/]?)$ pages/blogs/_index.php?page_id=$1 [NC,L]
