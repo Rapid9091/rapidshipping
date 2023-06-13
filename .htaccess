@@ -233,7 +233,7 @@ ReWriteRule ^blogs/cheapest-way-to-ship-a-car-to-hawaii([/]?)$ pages/blogs/cheap
 ReWriteRule ^blogs/cheapest-way-to-transport-a-vehicle([/]?)$ pages/blogs/cheapest-way-to-transport-a-vehicle.php [NC,L]
 ReWriteRule ^blogs/cheapest-way-to-transport-car([/]?)$ pages/blogs/cheapest-way-to-transport-car.php [NC,L]
 ReWriteRule ^blogs/classic-car-shipping-services-provider([/]?)$ pages/blogs/classic-car-shipping-services-provider.php [NC,L]
-ReWriteRule ^blogs/classic-car-shipping([/]?)$ pages/blogs/classic-car-shipping.php [NC,L]
+#ReWriteRule ^blogs/classic-car-shipping([/]?)$ pages/blogs/classic-car-shipping.php [NC,L]
 #ReWriteRule ^blogs/coast-to-coast-auto-transport([/]?)$ pages/blogs/coast-to-coast-auto-transport.php [NC,L]
 ReWriteRule ^blogs/comparing-auto-transport-prices([/]?)$ pages/blogs/comparing-auto-transport-prices.php [NC,L]
 ReWriteRule ^blogs/cost-from-california-to-texas([/]?)$ pages/blogs/cost-from-california-to-texas.php [NC,L]
