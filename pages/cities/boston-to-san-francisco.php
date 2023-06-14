@@ -24,7 +24,7 @@
    <h1>Boston to San Francisco</h1>
    <span style="font-weight: 400;">If you need information on shipping your vehicle from Boston to San Francisco, go no further than Rapid Auto Transport.  We are the market leader for automobile transportation from Boston to San Francisco after operating the routes between the two cities for more than 15 years. Discover the benefits of choosing Rapid Auto Shipping by reading on.</span>
 <h2><b>Rapid Auto Shipping Provides Low-Cost Auto Transport From Boston to San Francisco</b></h2>
-<span style="font-weight: 400;">Are you interested in shipping your automobile from Boston to San Francisco? If so, you're in luck. Rapid Auto Shipping operates frequent trips between the two cities, transporting automobiles, <a href="https://rapidautoshipping.com/services/motor-cycle-shipping"><strong>motorbikes</strong></a>, trucks, RVs, yachts, and SUVs for our customers.</span>
+<span style="font-weight: 400;">Are you interested in shipping your automobile from Boston to San Francisco? If so, you're in luck. Rapid Auto Shipping operates frequent trips between the two cities, transporting automobiles, <a href="https://rapidautoshipping.com/services/motor-cycle-shipping" target="_blank"><strong>motorbikes</strong></a>, trucks, RVs, yachts, and SUVs for our customers.</span>
 <ul>
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Regardless of whether you are:</span></li>
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Purchasing an automobile in Boston and needing it to be delivered to San Francisco;</span></li>
