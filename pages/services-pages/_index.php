@@ -393,7 +393,7 @@ if (isset($_GET['page_id'])) {
 
     <!--  faq section -->
    
-    <!-- <div class="body">
+    <div class="body">
 
 
 <div class="faq">FACTS & QUESTIONS</div>
@@ -456,7 +456,7 @@ if (isset($_GET['page_id'])) {
 
 
 </div>
-</div> -->
+</div>
     <!-- back to top button -->
     <div class="b-top-button">
         <div class="b_top">
