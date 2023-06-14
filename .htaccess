@@ -123,6 +123,7 @@ ReWriteRule ^detroit-to-las-vegas-auto-transport([/]?)$ pages/cities/detroit-to-
 ReWriteRule ^houston-to-denver-auto-transport([/]?)$ pages/cities/houston-to-denver-auto-transport.php [NC,L]
 ReWriteRule ^new-orleans-to-houston-auto-transport([/]?)$ pages/cities/new-orleans-to-houston-auto-transport.php [NC,L]
 ReWriteRule ^san-jose-to-san-diego-auto-transport([/]?)$ pages/cities/san-jose-to-san-diego-auto-transport.php [NC,L]
+
 #
 #=============================================================================================================
 
