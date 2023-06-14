@@ -213,6 +213,7 @@ ReWriteRule ^blogs/best-boat-shipping-cost-company([/]?)$ pages/blogs/best-boat-
 #ReWriteRule ^blogs/best-boat-transport-companies([/]?)$ pages/blogs/best-boat-transport-companies.php [NC,L]
 ReWriteRule ^blogs/best-car-delivery-service([/]?)$ pages/blogs/best-car-delivery-service.php [NC,L]
 ReWriteRule ^blogs/best-car-delivery-services([/]?)$ pages/blogs/best-car-delivery-services.php [NC,L]
+ReWriteRule ^blogs/best-car-movers([/]?)$ pages/blogs/best-car-movers.php [NC,L]
 ReWriteRule ^blogs/best-car-shipping-companies-in-usa([/]?)$ pages/blogs/best-car-shipping-companies-in-usa.php [NC,L]
 ReWriteRule ^blogs/best-car-transport-companies-ohio([/]?)$ pages/blogs/best-car-transport-companies-ohio.php [NC,L]
 ReWriteRule ^blogs/best-cheapest-way-to-transport-a-vehicle([/]?)$ pages/blogs/best-cheapest-way-to-transport-a-vehicle.php [NC,L]
