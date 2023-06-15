@@ -22,7 +22,6 @@
 
 </head>
 <body>  
-    <script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","name":"Rapid Auto Shipping","url":"https:\/\/www.rapidautoshipping.com\/","@id":"https:\/\/rapidautoshipping.com\/#website","potentialAction":[{"@type":"SearchAction","query-input":"required name=search_term_string","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.rapidautoshipping.com\/search?keywords={search_term_string}"}}]},{"@type":"WebPage","@id":"https:\/\/www.rapidautoshipping.com\/#webpage","url":"https:\/\/www.rapidautoshipping.com\/","name":"Rapid Auto Shipping"},{"@type":"Organization","name":"Rapid Auto Shipping","legalName":"Rapid Auto Shipping","alternateName":"Rapid Auto Shipping","url":"https:\/\/www.rapidautoshipping.com\/","@id":"https:\/\/www.rapidautoshipping.com\/","founder":"Johny Taylor","foundingDate":"2016","sameAs":["https:\/\/www.rapidautoshipping.com","https:\/\/twitter.com\/ShippingRapid","https:\/\/www.facebook.com\/Rapidautoshipping","https:\/\/www.youtube.com\/@rapidautoshipping7218","https:\/\/www.instagram.com\/rapidautoshipping\/","https:\/\/www.linkedin.com\/company\/rapid-auto-shipping","https:\/\/www.trustpilot.com\/review\/rapidautoshipping.com","https://www.transportreviews.com/Company/Rapid-Auto-Shipping","https://www.provenexpert.com/en-us/rapid-auto-shipping"],"description":"Page Description dalna","logo":{"@type":"ImageObject","url":"https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"}},{"@type":"Product","@id":"https:\/\/www.rapidautoshipping.com\/#product","name":"Page Name dalna","alternateName":"Page Alternate name dalna","description":"meta description dalna","brand":{"@id":"https:\/\/www.rapidautoshipping.com\/"},"mainEntityOfPage":{"@id":"https:\/\/www.rapidautoshipping.com\/#webpage"},"aggregateRating":{"@type":"AggregateRating","@id":"https:\/\/rapidautoshipping.com\/#aggregateRating","ratingValue":4.8,"ratingCount":545,"worstRating":1,"bestRating":5}},{"@type":"Service","serviceType":"Page Name dalna","alternateName":"page name dalna", </script>
    <h1>Seattle to Honolulu Auto Transport</h1>
    <span style="font-weight: 400;">The cost of moving an automobile from one place to another depends on a number of factors. The distance between the two cities is the most important consideration. Other key considerations include the type of vehicle being sent, the time of year, and the shipping firm.</span>
 <h2><b>Seattle to Honolulu Auto Transport Distance And Estimated Time </b></h2>
@@ -53,7 +52,7 @@
 <h3><b>Open Transport:</b></h3>
 <span style="font-weight: 400;">Our most popular car transport option. It is our cheapest option for transporting cars, trucks, or SUVs. Shipping an automobile from Seattle to Honolulu is our fastest choice. </span>
 <br><br>
-<span style="font-weight: 400;">There are roughly 19,000 qualified open auto transport carriers in our network. If your car can drive onto an open trailer, <a href="https://rapidautoshipping.com/services/open-car-shipping"><strong>open auto shipping</strong></a> may be the best and cheapest way to send it.</span>
+<span style="font-weight: 400;">There are roughly 19,000 qualified open auto transport carriers in our network. If your car can drive onto an open trailer, <a href="https://rapidautoshipping.com/services/open-car-shipping" target="_blank"><strong>open auto shipping</strong></a> may be the best and cheapest way to send it.</span>
 <h3><b>Enclosed Seattle to Honolulu auto transport</b></h3>
 <span style="font-weight: 400;">This is our "white glove" service for exotic cars, classic vehicles, higher-end vehicles, or vehicles that are just too low to the ground to drive onto an open trailer safely.</span>
 <h3><b>Exotic Seattle to Honolulu auto transport</b></h3>
@@ -63,7 +62,7 @@
 <h3><b>Transporting Motorcycles: </b></h3>
 <span style="font-weight: 400;">We provide both open and enclosed motorbike shipping. Both procedures are quite safe and fairly priced. We make certain that the drivers' trailers are precisely constructed to transport your motorcycle securely in any choice.</span>
 <br><br>
-<span style="font-weight: 400;"> The trailers usually contain front wheel chucks or D-rings on the bottom to ensure that the driver can properly attach and strap your <a href="https://rapidautoshipping.com/services/motor-cycle-shipping"><strong>motorcycle</strong> </a>for stress-free shipping.</span>
+<span style="font-weight: 400;"> The trailers usually contain front wheel chucks or D-rings on the bottom to ensure that the driver can properly attach and strap your <a href="https://rapidautoshipping.com/services/motor-cycle-shipping" target="_blank"><strong>motorcycle</strong> </a>for stress-free shipping.</span>
 <h3><b>Transportation for golf carts:</b></h3>
 <span style="font-weight: 400;">We transport all types of golf carts. From personally lifted golf carts to 300 golf course carts, we have it all.</span>
 <h2><b>Heavy Seattle to Honolulu Auto Transport</b></h2>
@@ -115,7 +114,7 @@
 <h2><b>Bring Your Car to the Port In Seattle And Leave It There</b></h2>
 <span style="font-weight: 400;">You may choose from a number of different ports in Seattle to have your vehicle transported. When you transport your automobile to the dealership, there are a few items that you are required to bring along with you.</span>
 <ul>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Confirmation of the order you placed with Rapid <a href="https://rapidautoshipping.com/blogs/best-autoshipping-company-usa"><strong>Auto Shipping</strong></a>. </span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Confirmation of the order you placed with Rapid <a href="https://rapidautoshipping.com/blogs/best-autoshipping-company-usa" target="_blank"><strong>Auto Shipping</strong></a>. </span></li>
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The remote control or keys to your car alarm, in addition to the keys to your vehicle.</span></li>
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Your car's current registration documentation.</span></li>
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If the vehicle is financed or leased, either the title to the vehicle or a letter of authorization or power of attorney is required. </span></li>
@@ -134,7 +133,5 @@
 <br><br>
 <span style="font-weight: 400;">If the vehicle is owned jointly by more than one person, both owners are required to be present. In the event that this is unable to be accomplished, the absent owner is required to sign a consent form that has been notarized before the car may be sent.</span>
 <br><br>
-{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Services","item":"https:\/\/www.rapidautoshipping.com\/services\/"}]},{"@type":"VideoObject","name":"Services Offered By Rapid Auto Shipping","description":"Meta Description dalna. Get a free quote now!","uploadDate":"2017-03-02T00:38:28+00:00",{"@type":"VideoObject","name":"Page name dalna","uploadDate":"2017-03-02T00:38:28+00:00">
-</script>
 </body>
 </html>
