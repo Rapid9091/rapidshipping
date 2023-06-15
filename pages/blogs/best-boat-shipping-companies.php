@@ -15,12 +15,9 @@
 <meta property="og:url" content="https://rapidautoshipping.com/blogs/best-boat-shipping-companies" />
 <meta property="og:site_name" content="Best Boat Shipping Companies | +1-833-233-4447" />
 <meta name='robots' content='index' />
-<meta name="keywords" content="Best Boat Shipping Companies, Best Boat Shipping Companies, Best Boat Shipping Companies, Best Boat Shipping Companies, Best Boat Shipping Companies" />
+<meta name="keywords" content="Best Boat Shipping Companies" />
 <meta property="article:tag" content="Best Boat Shipping Companies" />
-<meta property="article:tag" content="Best Boat Shipping Companies" />
-<meta property="article:tag" content="Best Boat Shipping Companies" />
-<meta property="article:tag" content="Best Boat Shipping Companies" />
-<meta property="article:tag" content="Best Boat Shipping Companies" />
+
 </head>
 <body>   
    <h1>Best Boat Shipping Companies</h1>
