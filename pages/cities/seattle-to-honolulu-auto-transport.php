@@ -190,7 +190,7 @@
       "@id": "https:\/\/www.rapidautoshipping.com\/#product",
       "name": "Seattle to Honolulu Auto Transport | Rapid Auto Shipping",
       "alternateName": "Seattle to Honolulu Auto Transport",
-      "description": "meta description dalna",
+      "description": "Seattle to Honolulu auto transport is a five-star rated shipping company that values client pleasure. We have received five-star ratings from all major industry review boards and are eager to help you.",
       "brand": {
         "@id": "https:\/\/www.rapidautoshipping.com\/"
       },
