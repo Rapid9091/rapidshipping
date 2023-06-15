@@ -240,7 +240,7 @@
 <br><br>
 <span style="font-weight: 400;">We ship hundreds of Classic, Show, Racing, and High-end vehicles for our customers weekly year-round. Auto-Smart Move Auto Transport offers the broadest network of covered carriers in the industry and strategically placed offices across the U.S.</span>
 <h2><b>Why Use Expedited Car Transport?</b></h2>
-<span style="font-weight: 400;">This economical, easy, and fast <a href="https://rapidautoshipping.com/services"><strong>auto transport service</strong> </a>delivers your car securely and on schedule by a Federal Motor Carriers Safety Administration-registered organization. </span>
+<span style="font-weight: 400;">This economical, easy, and fast <a href="https://rapidautoshipping.com/services" target="_blank"><strong>auto transport service</strong> </a>delivers your car securely and on schedule by a Federal Motor Carriers Safety Administration-registered organization. </span>
 <br><br>
 <span style="font-weight: 400;">We are a BBB-accredited firm, so use this service to send your automobile on an expedited open carrier auto transport truck with the industry's most competent vehicle shipping couriers for your peace of mind. </span>
 <br><br>
