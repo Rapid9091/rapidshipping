@@ -56,7 +56,7 @@
 <h3><b>Enclosed Seattle to Honolulu auto transport</b></h3>
 <span style="font-weight: 400;">This is our "white glove" service for exotic cars, classic vehicles, higher-end vehicles, or vehicles that are just too low to the ground to drive onto an open trailer safely.</span>
 <h3><b>Exotic Seattle to Honolulu auto transport</b></h3>
-<span style="font-weight: 400;">Ground clearance is usually an issue when <a href="https://rapidautoshipping.com/blogs/exotic-cars"><strong>shipping exotic automobiles</strong></a>; therefore we make sure the equipment can handle any vehicle.</span>
+<span style="font-weight: 400;">Ground clearance is usually an issue when <a href="https://rapidautoshipping.com/blogs/exotic-cars" target="_blank"><strong>shipping exotic automobiles</strong></a>; therefore we make sure the equipment can handle any vehicle.</span>
 <h3><b>Classic Seattle to Honolulu auto transport</b></h3>
 <span style="font-weight: 400;">We have a soft spot for older vehicles that require reliable shipping, especially antique or vintage vehicles. </span>
 <h3><b>Transporting Motorcycles: </b></h3>
@@ -66,7 +66,7 @@
 <h3><b>Transportation for golf carts:</b></h3>
 <span style="font-weight: 400;">We transport all types of golf carts. From personally lifted golf carts to 300 golf course carts, we have it all.</span>
 <h2><b>Heavy Seattle to Honolulu Auto Transport</b></h2>
-<span style="font-weight: 400;">We provide <strong>heavy hauling services</strong> to and from any place in the <a href="https://rapidautoshipping.com/states"><strong>United States</strong></a> since we specialize in delivering tailored services to our customers. </span>
+<span style="font-weight: 400;">We provide <strong>heavy hauling services</strong> to and from any place in the <a href="https://rapidautoshipping.com/states" target="_blank"><strong>United States</strong></a> since we specialize in delivering tailored services to our customers. </span>
 <br><br>
 <span style="font-weight: 400;">We are the ideal choice for crane transfer, tractor transport, and equipment transport. Our cutting-edge, customized carriers can handle goods weighing up to 500 tons. </span>
 <br><br>
@@ -82,7 +82,7 @@
 <h3><b>5-Star Rated  Seattle to Honolulu auto transport</b></h3>
 <span style="font-weight: 400;">Seattle to Honolulu auto transport is a five-star rated shipping company that values client pleasure. We have received five-star ratings from all major industry review boards and are eager to help you. Our goal is to make sure that every client has a great delivery experience.</span>
 <h3><b>Maximum Vehicle Security</b></h3>
-<span style="font-weight: 400;">Fully <a href="https://rapidautoshipping.com/services/enclosed-shipping"><strong>enclosed transportation</strong></a> assures the safety of your car during the international journey. When you ship with Rapid Auto Shipping, you can be certain that your vehicle is in good hands throughout travel.</span>
+<span style="font-weight: 400;">Fully <a href="https://rapidautoshipping.com/services/enclosed-shipping" target="_blank"><strong>enclosed transportation</strong></a> assures the safety of your car during the international journey. When you ship with Rapid Auto Shipping, you can be certain that your vehicle is in good hands throughout travel.</span>
 <h3><b>Vehicle tracking is available online at all times</b></h3>
 <span style="font-weight: 400;">When you schedule your shipment, you will be given a booking number that will allow you to follow the status of your cargo online 24 hours a day, seven days a week.</span>
 <br><br>
@@ -90,7 +90,7 @@
 <h3><b>Professionals Who Are Dependable And Experienced</b></h3>
 <span style="font-weight: 400;">Our licensed auto-shipping specialists work around the clock to guarantee that each shipment is handled appropriately from beginning to end. </span>
 <br><br>
-<span style="font-weight: 400;">We have the resources to move any car, motorbike, boat, equipment, machinery, RV, <a href="https://rapidautoshipping.com/blogs/atv-transport"><strong>ATV</strong></a>, snowmobile, or trailer fast and safely!</span>
+<span style="font-weight: 400;">We have the resources to move any car, motorbike, boat, equipment, machinery, RV, <a href="https://rapidautoshipping.com/blogs/atv-transport" target="_blank"><strong>ATV</strong></a>, snowmobile, or trailer fast and safely!</span>
 <h3><b>Excellent Customer Service</b></h3>
 <span style="font-weight: 400;">Our track record is self-evident. We take great pleasure in offering industry-leading customer service to our customers. </span>
 <br><br>
