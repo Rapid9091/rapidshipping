@@ -96,7 +96,7 @@
       "@type": "Service",
       "serviceType": "Ship Your Car With Our Phoenix to Seattle Auto Transport | Rapid Auto Shipping1",
       "alternateName": "Ship Your Car With Our Phoenix to Seattle Auto Transport ",
-      "content": "<p>Your code goes here<\/p>"
+      
     },
     {
       "@type": "BreadcrumbList",
@@ -181,7 +181,7 @@
 <br><br>
 <b>Commute Time: </b>
 <br><br>
-<span> style="font-weight: 400;">Based on the number of miles between <a href="https://rapidautoshipping.com/states/arizona" target="_blank"><strong>Arizona</strong> </a>and Washington, you should expect your vehicle to arrive in Washington on the pickup date. Excited options are available, so feel free to discuss all car shipping options with your agent.</span>
+<span style="font-weight: 400;">Based on the number of miles between <a href="https://rapidautoshipping.com/states/arizona" target="_blank"><strong>Arizona</strong> </a>and Washington, you should expect your vehicle to arrive in Washington on the pickup date. Excited options are available, so feel free to discuss all car shipping options with your agent.</span>
 <br><br>
 <b>Delivery: </b>
 <br><br>

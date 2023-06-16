@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dallas to El Paso Auto Transport  | Rapid Auto Shipping</title>
 
-    <<meta name="title" content="Dallas to El Paso Auto Transport | +1-833-233-4447" />
+    <meta name="title" content="Dallas to El Paso Auto Transport | +1-833-233-4447" />
 <meta name="description" content="Rapid Auto Shipping has extensive experience transporting automobiles from Dallas to El Paso auto transport services. Our staff is fully equipped to provide excellent auto transport services from Dallas to El Paso." />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Dallas to El Paso Auto Transport | +1-833-233-4447" />
@@ -98,7 +98,7 @@
       "@type": "Service",
       "serviceType": "Dallas to El Paso Auto Transport  | Rapid Auto Shipping",
       "alternateName": "Dallas to El Paso Auto Transport ",
-      "content": "<p>Your code goes here<\/p>"
+     
     },
     {
       "@type": "BreadcrumbList",
@@ -125,7 +125,6 @@
   ]
 }
 </script>
-
    <h1>Dallas to El Paso Auto Transport</h1>
    Rapid Auto Shipping has extensive experience transporting automobiles from Dallas to El Paso auto transport services. Our staff is fully equipped to provide excellent auto transport services from Dallas to El Paso. Our auto transport company has received high ratings for shipping vehicles from Dallas to El Paso. Obtain a free quote today for transporting your vehicle from Dallas to El Paso.
 <h2><strong>How Does Dallas to El Paso Auto Transport Work?</strong></h2>
