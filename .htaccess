@@ -128,6 +128,7 @@ ReWriteRule ^denver-to-boston-auto-transport([/]?)$ pages/cities/denver-to-bosto
 ReWriteRule ^denver-to-dallas-auto-transport([/]?)$ pages/cities/denver-to-dallas-auto-transport.php [NC,L]
 ReWriteRule ^denver-to-houston-auto-transport([/]?)$ pages/cities/denver-to-houston-auto-transport.php [NC,L]
 ReWriteRule ^detroit-to-las-vegas-auto-transport([/]?)$ pages/cities/detroit-to-las-vegas-auto-transport.php [NC,L]
+ReWriteRule ^el-paso-to-houston-auto-transport([/]?)$ pages/cities/el-paso-to-houston-auto-transport.php [NC,L]
 ReWriteRule ^el-paso-to-san-antonio-auto-transport([/]?)$ pages/cities/el-paso-to-san-antonio-auto-transport.php [NC,L]
 ReWriteRule ^houston-to-denver-auto-transport([/]?)$ pages/cities/houston-to-denver-auto-transport.php [NC,L]
 ReWriteRule ^illinois-to-lewiston-auto-transport([/]?)$ pages/cities/illinois-to-lewiston-auto-transport.php [NC,L]
