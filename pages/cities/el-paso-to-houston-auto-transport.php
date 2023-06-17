@@ -152,7 +152,7 @@ Your car will be carefully unloaded from the <a href="https://rapidautoshipping.
 </ul>
 <h2><strong>Rapid Auto Shipping Services from El Paso to Houston Auto Transport</strong></h2>
 <h3><strong>Open Transport:</strong></h3>
-Our most popular option for vehicle transportation is the Open Transport service. Our transportation service offers affordable solutions, including cars, trucks, and <a href="https://rapidautoshipping.com/blogs/suv-auto-transport"><strong>SUVs</strong></a>.
+Our most popular option for vehicle transportation is the Open Transport service. Our transportation service offers affordable solutions, including cars, trucks, and <a href="https://rapidautoshipping.com/blogs/suv-auto-transport" target="_blank"><strong>SUVs</strong></a>.
     <br><br>
 Our company provides a fast auto transport solution for those who need to ship a car from El Paso to Houston. Our network boasts a pool of approximately 19,000 certified auto transport carriers available for hire.
 <br><br>
