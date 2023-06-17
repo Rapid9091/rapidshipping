@@ -129,7 +129,7 @@
    <span style="font-weight: 400;">By selecting Rapid Auto Shipping as your auto hauler, you can be confident that your vehicle transport from Eugene to Portland will be conducted securely and your vehicle will remain in excellent condition throughout the journey. Our top priority is to ensure that shipping your car from Eugene to Portland Auto Transport is hassle-free and predictable. Our belief is that the process of auto transportation should be smooth and free of any inconvenience.</span>
 <h2><b>Rapid Auto Shipping Services from Eugene to Portland</b></h2>
 <h3><b>Open Air Eugene to Portland Auto Transport</b></h3>
-<span style="font-weight: 400;">Our most popular option for transporting vehicles is this one. This is our most affordable option for transporting cars, trucks, or <a href="https://rapidautoshipping.com/blogs/suv-auto-transport"><strong>SUVs</strong></a>. Shipping a vehicle from Eugene to Portland auto transport is the quickest through our services.</span>
+<span style="font-weight: 400;">Our most popular option for transporting vehicles is this one. This is our most affordable option for transporting cars, trucks, or <a href="https://rapidautoshipping.com/blogs/suv-auto-transport" target="_blank"><strong>SUVs</strong></a>. Shipping a vehicle from Eugene to Portland auto transport is the quickest through our services.</span>
 <br><br>
 <span style="font-weight: 400;"> If your car has sufficient ground clearance to drive onto an available trailer, open auto transport is likely the most cost-effective and optimal choice for shipping your vehicle.</span>
 <h3><b>Enclosed Eugene to Portland Auto Transport</b></h3>
@@ -139,7 +139,7 @@
 <h3><b>Classic Auto Transport </b></h3>
 <span style="font-weight: 400;">We hold a special appreciation for older vehicles that necessitate dependable transportation, particularly antique or vintage automobiles. We usually employ trailers equipped with lift gates or extended ramps to reduce the possibility of damage.</span>
 <h3><b>Eugene to Portland Auto Transport of Motorcycle</b></h3>
-<span style="font-weight: 400;">We have choices for both open and closed motorbike shipping. Both are very safe and don't cost too much. We make sure that, no matter which option you choose, the drivers' trucks are made to <a href="https://rapidautoshipping.com/services/motor-cycle-shipping"><strong>safely ship your motorcycle</strong></a>. </span>
+<span style="font-weight: 400;">We have choices for both open and closed motorbike shipping. Both are very safe and don't cost too much. We make sure that, no matter which option you choose, the drivers' trucks are made to <a href="https://rapidautoshipping.com/services/motor-cycle-shipping" target="_blank"><strong>safely ship your motorcycle</strong></a>. </span>
     <br><br>
 <span style="font-weight: 400;">Most trailers have front-wheel chucks or D-rings on the floor so that the driver can safely tie down and secure your bike for a stress-free shipping experience.</span>
 <h3><b>Trailer Transport: </b></h3>
@@ -156,7 +156,7 @@
 <h3><b>Choose a Eugene to Portland Auto Transport service</b></h3>
 <span style="font-weight: 400;">Once you have your quotes, it's time to choose the service that meets your needs the best. For door-to-door auto shipping, we offer Standard Car Shipping, which gives you a pickup window of 6 days, Expedited auto transport, which provides you with a 3-day pickup window; and Enclosed car shipping service, which gives you a 7-day pickup window. </span>
 <h3><b>Place your order for Eugene to Portland Auto Transport</b></h3>
-<span style="font-weight: 400;">Once you've figured out which <a href="https://rapidautoshipping.com/services/car-shipping-companies"><strong>car shipping service</strong></a> will work best for you, it's time to book your vehicle delivery order. You can book car transport on our website or over the phone. The steps are quick and easy. </span>
+<span style="font-weight: 400;">Once you've figured out which <a href="https://rapidautoshipping.com/services/car-shipping-companies" target="_blank"><strong>car shipping service</strong></a> will work best for you, it's time to book your vehicle delivery order. You can book car transport on our website or over the phone. The steps are quick and easy. </span>
 <h3><b>Your car is all set to be shipped</b></h3>
 <span style="font-weight: 400;">Once your order is made, we give your car to the first car carrier, which is available for quick auto transport. A professional Eugene to Portland Auto Transport driver will take care of your car and ensure it is fully protected. When the driver comes to pick up your car, they will do a full check and ask you to sign a Bill of lading. </span>
 <br><br>
@@ -177,7 +177,7 @@
 <br><br>
 <span style="font-weight: 400;">However, you'll have the carrier's direct contact information, including the driver's name, the dispatcher's information, and their natural phone numbers.</span>
 <h3><b>How Does Delivery Work?</b></h3>
-<span style="font-weight: 400;">1) After narrowing the delivery window, most <a href="https://rapidautoshipping.com/blogs/best-autoshipping-company-usa"><strong>automobile shipping</strong></a> companies will phone a day ahead to arrange a time and place as near your house as possible.</span>
+<span style="font-weight: 400;">1) After narrowing the delivery window, most <a href="https://rapidautoshipping.com/blogs/best-autoshipping-company-usa" target="_blank"><strong>automobile shipping</strong></a> companies will phone a day ahead to arrange a time and place as near your house as possible.</span>
 <br><br>
 <span style="font-weight: 400;">2) Perform the delivery check after unloading the car. Go around the car again and take photographs on all four sides and the top, examine the inside for damage, and make sure the odometer doesn't fluctuate too much. </span>
 <br><br>
@@ -207,7 +207,7 @@
 </ul>
 <h2><b>Why Is Letting Us Ship Your Car The Smart Thing to Do?</b></h2>
 <h3><b>Credentials</b></h3>
-<span style="font-weight: 400;">We have a license and a bond and are listed with the Federal Motor Carrier Safety Administration and the <a href="https://rapidautoshipping.com/states"><strong>United States</strong></a> Department of Transportation. </span>
+<span style="font-weight: 400;">We have a license and a bond and are listed with the Federal Motor Carrier Safety Administration and the <a href="https://rapidautoshipping.com/states" target="_blank"><strong>United States</strong></a> Department of Transportation. </span>
 <h3><b>Sincerity and Drive</b></h3>
 <span style="font-weight: 400;">Each sale is handled in a way that is unique to each customer. You will be given a special assistant who will happily help you from the beginning to the end.</span>
 <h3><b>Carefully handle</b></h3>
