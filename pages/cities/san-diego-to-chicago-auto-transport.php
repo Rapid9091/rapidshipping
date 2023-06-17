@@ -211,9 +211,9 @@
 <br><br>
 <span style="font-weight: 400;">The most common and cheap carrier is the open carrier. This carrier is usually selected for standard-sized automobiles that don't need particular care. </span>
 <br><br>
-<span style="font-weight: 400;">The covered container protects against snow, sleet, sun, and rain. It often provides security and temperature control. Your vehicle transport partner may propose a flatbed truck for delivering an SUV, colossal truck, or <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping"><strong>heavy equipment</strong></a>. Flatbed truck carriers are top-rated for cross-town auto transfer.</span>
+<span style="font-weight: 400;">The covered container protects against snow, sleet, sun, and rain. It often provides security and temperature control. Your vehicle transport partner may propose a flatbed truck for delivering an SUV, colossal truck, or <a href="https://rapidautoshipping.com/services/heavy-equipment-shipping" target="_blank"><strong>heavy equipment</strong></a>. Flatbed truck carriers are top-rated for cross-town auto transfer.</span>
 <h3><b>Time of year - </b></h3>
-<span style="font-weight: 400;">The price of transporting a car is affected by the time of year. For example, "snowbirds" leave their homes in New York and the upper Midwest in the autumn and spring to go to <a href="https://rapidautoshipping.com/states/florida"><strong>Florida</strong> </a>and Texas. </span>
+<span style="font-weight: 400;">The price of transporting a car is affected by the time of year. For example, "snowbirds" leave their homes in New York and the upper Midwest in the autumn and spring to go to <a href="https://rapidautoshipping.com/states/florida" target="_blank"><strong>Florida</strong> </a>and Texas. </span>
 <br><br>
 <span style="font-weight: 400;">This causes a change in demand. If you ship to these places, you might find that the price of shipping your car changes.</span>
 <h3><b>Flexible Dates- </b></h3>
