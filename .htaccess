@@ -142,6 +142,7 @@ ReWriteRule ^nyc-to-austin-auto-transport([/]?)$ pages/cities/nyc-to-austin-auto
 ReWriteRule ^philadelphia-to-orlando-auto-transport([/]?)$ pages/cities/philadelphia-to-orlando-auto-transport.php [NC,L]
 ReWriteRule ^phoenix-to-seattle-auto-transport([/]?)$ pages/cities/phoenix-to-seattle-auto-transport.php [NC,L]
 ReWriteRule ^salt-lake-city-to-las-vegas-auto-transport([/]?)$ pages/cities/salt-lake-city-to-las-vegas-auto-transport.php [NC,L]
+ReWriteRule ^san-diego-to-chicago-auto-transport([/]?)$ pages/cities/san-diego-to-chicago-auto-transport.php [NC,L]
 ReWriteRule ^san-jose-to-san-diego-auto-transport([/]?)$ pages/cities/san-jose-to-san-diego-auto-transport.php [NC,L]
 ReWriteRule ^seattle-to-honolulu-auto-transport([/]?)$ pages/cities/seattle-to-honolulu-auto-transport.php [NC,L]
 ReWriteRule ^seattle-to-miami-auto-transport([/]?)$ pages/cities/seattle-to-miami-auto-transport.php [NC,L]

@@ -150,7 +150,7 @@
 <h3><b>Vehicle Shipping Quote</b></h3>
 <span style="font-weight: 400;">Request a fast, free vehicle shipping quote online or by phone. For hassle-free transport, get an exact quotation. </span>
 <br><br>
-<span style="font-weight: 400;">You will obtain a price on our website, and a copy will be provided for your records for all three of our <a href="https://rapidautoshipping.com/services/door-to-door"><strong>door-to-door automobile shipping services</strong></a>: Standard, Expedited, and Enclosed. </span>
+<span style="font-weight: 400;">You will obtain a price on our website, and a copy will be provided for your records for all three of our <a href="https://rapidautoshipping.com/services/door-to-door" target="_blank"><strong>door-to-door automobile shipping services</strong></a>: Standard, Expedited, and Enclosed. </span>
     <br><br>
 <span style="font-weight: 400;">Our Eugene to Portland Auto Transport believes an honest auto shipping quote is the basis for successful, worry-free transportation.</span>
 <h3><b>Choose a Eugene to Portland Auto Transport service</b></h3>
