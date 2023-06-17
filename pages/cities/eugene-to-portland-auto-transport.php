@@ -161,7 +161,7 @@
 <span style="font-weight: 400;">Once your order is made, we give your car to the first car carrier, which is available for quick auto transport. A professional Eugene to Portland Auto Transport driver will take care of your car and ensure it is fully protected. When the driver comes to pick up your car, they will do a full check and ask you to sign a Bill of lading. </span>
 <br><br>
 <span style="font-weight: 400;">Once that's done, your car is put onto the car hauler and sent on its way. Your driver will call you 24 hours ahead to make plans for delivery the next day.</span>
-<h2><b>What Occurs Between the Pickup And the Dropoff? And the One Thing You Must Not Forget</b></h2>
+<h2><b>What Occurs Between the Pickup And the Dropoff?| And the One Thing You Must Not Forget</b></h2>
 <h3><b>What happens first?</b></h3>
 <span style="font-weight: 400;">1) The Eugene to Portland Auto Transport carrier assigned to your vehicle at dispatch will contact you before pickup. They'll work with you to organize final arrival timings.</span>
 <br><br>
@@ -184,7 +184,7 @@
 <span style="font-weight: 400;">Damages should be noted on the BOL. If not, the automobile transportation carrier's insurance won't cover damages.</span>
 <br><br>
 <span style="font-weight: 400;">3) Your automobile was delivered by your car transportation business! You can move it.</span>
-<h2><b>How to Get Your Car Ready for Shipping:</b></h2>
+<h2><b>How to Get Your Car Ready for Shipping:?</b></h2>
 <ul>
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">For inspection, the car must be clean. A vehicle that is dirty makes it harder to do a quality check.</span></li>
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">There must be at least 1/4 tank of gas in the gas tank, but no more than 1/2 tank.</span></li>
