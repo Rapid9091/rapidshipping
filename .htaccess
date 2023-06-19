@@ -156,6 +156,7 @@ ReWriteRule ^seattle-to-honolulu-auto-transport([/]?)$ pages/cities/seattle-to-h
 ReWriteRule ^seattle-to-miami-auto-transport([/]?)$ pages/cities/seattle-to-miami-auto-transport.php [NC,L]
 ReWriteRule ^st-louis-to-kansas-city-auto-transport([/]?)$ pages/cities/st-louis-to-kansas-city-auto-transport.php [NC,L]
 ReWriteRule ^tampa-to-jacksonville-auto-transport([/]?)$ pages/cities/tampa-to-jacksonville-auto-transport.php [NC,L]
+ReWriteRule ^tampa-to-las-vegas-auto-transport([/]?)$ pages/cities/tampa-to-las-vegas-auto-transport.php [NC,L]
 
 #
 #=============================================================================================================
