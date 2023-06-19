@@ -20,6 +20,9 @@ ErrorDocument 404 https://rapidautoshipping.com/404
 # Home page route
 ReWriteRule ^$ pages/home.php [NC,L]
 
+#copy page of services
+ReWriteRule ^copy([/]?)$ pages/copy.php [NC,L]
+
 #
 #=============================================================================================================
 #
