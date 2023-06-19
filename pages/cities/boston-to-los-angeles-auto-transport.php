@@ -111,17 +111,7 @@
         }
       ]
     },
-    {
-      "@type": "VideoObject",
-      "name": "Services Offered By Rapid Auto Shipping",
-      "description": Are you in search of from Boston to Los Angeles auto transport services? The process of obtaining the best rate from Boston to Los Angeles auto transport service.",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Boston to Los Angeles Auto Transport  |  Rapid Auto Shipping",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    }
+    
   ]
 }
 </script>

@@ -110,17 +110,7 @@
         }
       ]
     },
-    {
-      "@type": "VideoObject",
-      "name": "Services Offered By Rapid Auto Shipping",
-      "description": "If you need to transport your vehicle from Detroit to Atlanta Auto Transport, it's important to choose a reliable auto shipping company with expertise in the industry.",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Detroit to Atlanta Auto Transport | Rapid Auto Shipping",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    }
+    
   ]
 }
 </script>

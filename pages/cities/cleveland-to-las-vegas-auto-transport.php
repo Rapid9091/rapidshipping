@@ -109,17 +109,7 @@
         }
       ]
     },
-    {
-      "@type": "VideoObject",
-      "name": "Services Offered By Rapid Auto Shipping",
-      "description": "Rapid Auto Shipping is dedicated to delivering a superior customer experience to our Cleveland and Las Vegas clients. The objective is to surpass the user's expectations rather than just fulfilling them.",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Cleveland to Las Vegas Auto Transport |  Rapid Auto Shipping",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    }
+    
   ]
 }
 </script>

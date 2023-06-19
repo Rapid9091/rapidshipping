@@ -110,17 +110,7 @@
         }
       ]
     },
-    {
-      "@type": "VideoObject",
-      "name": "Services Offered By Rapid Auto Shipping",
-      "description": "Making the vehicle transportation procedure simple and predictable from Austin to Denver Auto transport is our top goal. The method of moving an automobile should be simple.",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Austin to Denver Auto Transport Services | Rapid Auto Shipping",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    }
+    
   ]
 }
 </script>

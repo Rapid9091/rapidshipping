@@ -109,17 +109,7 @@
         }
       ]
     },
-    {
-      "@type": "VideoObject",
-      "name": "Services Offered By Rapid Auto Shipping",
-      "description": "Our Phoenix to Seattle auto transport services are available by open carrier or enclosed auto transport. Most individuals choose open pages because they are the most cost-effective alternative.. Get a free quote now!",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Ship Your Car With Our Phoenix to Seattle Auto Transport | Rapid Auto Shipping",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    }
+    
   ]
 }
 </script>

@@ -111,17 +111,7 @@
         }
       ]
     },
-    {
-      "@type": "VideoObject",
-      "name": "Services Offered By Rapid Auto Shipping",
-      "description": "Rapid Auto Shipping has extensive experience transporting automobiles from Dallas to El Paso auto transport services. Our staff is fully equipped to provide excellent auto transport services from Dallas to El Paso.. Get a free quote now!",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Dallas to El Paso Auto Transport  | Rapid Auto Shipping",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    }
+    
   ]
 }
 </script>

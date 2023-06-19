@@ -110,17 +110,7 @@
         }
       ]
     },
-    {
-      "@type": "VideoObject",
-      "name": "Services Offered By Rapid Auto Shipping",
-      "description": "The Denver to Boston Auto Transport carrier will call you to set up a time to get the package. At pick-up time, you (or a friend) will only need the keys, the car, and yourself!. Get a free quote now!",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Denver to Boston Auto Transport| Rapid Auto Shipping",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    }
+    
   ]
 }
 </script>

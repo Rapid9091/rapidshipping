@@ -110,17 +110,7 @@
         }
       ]
     },
-    {
-      "@type": "VideoObject",
-      "name": "Services Offered By Rapid Auto Shipping",
-      "description": "Rapid Auto Shipping ships cars, trucks, and other vehicles from Houston to Corpus Christi safely and quickly. Decades of long-distance car transport experience.. Get a free quote now!",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Houston to Corpus Christi Auto Transport |  Rapid Auto Shipping",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    }
+    
   ]
 }
 </script>

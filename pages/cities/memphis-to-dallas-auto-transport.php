@@ -110,17 +110,7 @@
         }
       ]
     },
-    {
-      "@type": "VideoObject",
-      "name": "Services Offered By Rapid Auto Shipping",
-      "description": "The shipping cost for vehicles from Memphis to Dallas auto transport is subject to seasonal fluctuations. The website can quote the current car shipping price via the quickest route.",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Memphis to Dallas Auto Transport |  Rapid Auto Shipping",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    }
+    
   ]
 }
 </script>

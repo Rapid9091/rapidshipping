@@ -110,17 +110,7 @@
         }
       ]
     },
-    {
-      "@type": "VideoObject",
-      "name": "Services Offered By Rapid Auto Shipping",
-      "description": "Rapid Auto Shipping has significant experience shipping automobiles from Miami to Baltimore auto transport services. Our staff is fully equipped to provide excellent auto transport services between Miami and Baltimore.. Get a free quote now!",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Miami to Baltimore Auto Transport | Rapid Auto Shipping",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    }
+    
   ]
 }
 </script>

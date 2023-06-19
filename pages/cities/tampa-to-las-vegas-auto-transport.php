@@ -109,17 +109,7 @@
         }
       ]
     },
-    {
-      "@type": "VideoObject",
-      "name": "Services Offered By Rapid Auto Shipping",
-      "description": "Rapid Auto Shipping can ship your car or truck quickly, easily, and, most importantly, for a low price. We can offer the best rate because we have a vehicle that goes from Tampa to Las Vegas Auto Transport every other day.",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Tampa to Las Vegas Auto Transport |  Rapid Auto Shipping",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    }
+    
   ]
 }
 </script>

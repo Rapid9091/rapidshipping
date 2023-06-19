@@ -109,17 +109,7 @@
         }
       ]
     },
-    {
-      "@type": "VideoObject",
-      "name": "Services Offered By Rapid Auto Shipping",
-      "description": "Enclosed San Diego to Chicago Auto Transport  involves transporting your automobile on a covered trailer. Luxury, exotic, muscular, vintage, and convertible automobiles demand enclosed auto transport.",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "San Diego to Chicago Auto Transport  |  Rapid Auto Shipping",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    }
+  
   ]
 }
 </script>

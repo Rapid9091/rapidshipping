@@ -108,17 +108,7 @@
             }
           ]
         },
-        {
-          "@type": "VideoObject",
-          "name": "Services Offered By Rapid Auto Shipping",
-          "description": "When shipping a vehicle from Las Vegas to Hawaii auto transport, the distance between the two states might be difficult to estimate depending on which cities serve as the collection and delivery points.. Get a free quote now!",
-          "uploadDate": "2017-03-02T00:38:28+00:00"
-        },
-        {
-          "@type": "VideoObject",
-          "name": "Las Vegas to Hawaii Auto Transport | Rapid Auto Shipping",
-          "uploadDate": "2017-03-02T00:38:28+00:00"
-        }
+        
       ]
     }
     </script>

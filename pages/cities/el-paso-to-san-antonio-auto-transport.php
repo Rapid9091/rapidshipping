@@ -112,17 +112,7 @@
                 }
               ]
             },
-            {
-              "@type": "VideoObject",
-              "name": "Services Offered By Rapid Auto Shipping",
-              "description": "Car carriers have to charge significantly more in order to turn a profit since an enclosed El Paso to San Antonio auto transport trailer limits the number of vehicles that can be transported.",
-              "uploadDate": "2017-03-02T00:38:28+00:00"
-            },
-            {
-              "@type": "VideoObject",
-              "name": "El Paso to San Antonio Auto Transport | Rapid Auto Shipping",
-              "uploadDate": "2017-03-02T00:38:28+00:00"
-            }
+            
           ]
         }
         </script>

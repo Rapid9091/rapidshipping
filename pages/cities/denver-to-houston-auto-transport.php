@@ -21,7 +21,7 @@
 
 </head>
 <body>   
-    <script type="application/ld+json">
+   <script type="application/ld+json">
         {
           "@context": "https:\/\/schema.org",
           "@graph": [
@@ -111,17 +111,7 @@
                 }
               ]
             },
-            {
-              "@type": "VideoObject",
-              "name": "Services Offered By Rapid Auto Shipping",
-              "description": "Are you considering using to relocate from Denver to Houston auto transport services? Rapid Auto Shipping offers efficient and hassle-free car shipping services that are both cost-effective and convenient.. Get a free quote now!",
-              "uploadDate": "2017-03-02T00:38:28+00:00"
-            },
-            {
-              "@type": "VideoObject",
-              "name": "Denver to Houston Auto Transport | Rapid Auto Shipping",
-              "uploadDate": "2017-03-02T00:38:28+00:00"
-            }
+            
           ]
         }
         </script>

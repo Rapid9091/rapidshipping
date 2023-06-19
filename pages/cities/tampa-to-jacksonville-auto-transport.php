@@ -109,17 +109,7 @@
             }
           ]
         },
-        {
-          "@type": "VideoObject",
-          "name": "Services Offered By Rapid Auto Shipping",
-          "description": "Rapid Auto Shipping makes shipping your car, truck, or other vehicles from Tampa to Jacksonville auto transport safer, easier, and faster than ever. Our long-distance automobile transportation expertise spans decades.. Get a free quote now!",
-          "uploadDate": "2017-03-02T00:38:28+00:00"
-        },
-        {
-          "@type": "VideoObject",
-          "name": "Page name dalna",
-          "uploadDate": "2017-03-02T00:38:28+00:00"
-        }
+        
       ]
     }
     </script>
