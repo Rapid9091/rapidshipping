@@ -96,8 +96,8 @@
     {
       "@type": "Service",
       "serviceType": "Houston to Corpus Christi Auto Transport  |  Rapid Auto Shipping1",
-      "alternateName": Houston to Corpus Christi Auto Transport  ",
-      "content": "<p>Your code goes here<\/p>"
+      "alternateName": "Houston to Corpus Christi Auto Transport  ",
+      
     },
     {
       "@type": "BreadcrumbList",
