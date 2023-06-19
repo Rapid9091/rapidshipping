@@ -10,7 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"rel="preload"as="style"onload="this.onload=null;this.rel='stylesheet'"anync>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"rel="preload"as="style"onload="this.onload=null;this.rel='stylesheet'"anync>
     <link rel="stylesheet" href="<?= get_css() ?>copy.css">
-    <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css">
+    <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css">   
     <link anync rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
     <meta name="title" content="Ambulance Shipping Services in the USA | +1-833-233-4447" />
 <meta name="description" content="Medical transport or ambulance shipping services will allow your company to get the oversized load it requires as soon as possible without breaking the bank." />
@@ -949,8 +949,8 @@
             },
         });
     </script>
-    <script async src="<?= get_js() ?>small_form_new.js"></script>
-    <script asyns src="<?= get_js() ?>side_form_new.js"></script>
+    <!-- <script async src="<?= get_js() ?>small_form_new.js"></script>
+    <script asyns src="<?= get_js() ?>side_form_new.js"></script> -->
     
 <script>
   var textContainer = document.querySelector('.text-container-xyz');
