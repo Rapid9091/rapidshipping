@@ -166,7 +166,7 @@
                 </div>
             </div>
             <div class="col-md-12 col-lg-4 p-4 d-grid justify-content-center">
-                <?php include small_form_new; ?>
+                <?php //include small_form_new; ?>
             </div>
         </div>
     </div>
@@ -567,7 +567,7 @@
             </div>
             <div class="col-12 col-md-12 col-lg-4 __side-form">
                 <div class="_side-form d-grid justify-content-center">
-                    <?php include side_form_new; ?>
+                    <?php //include side_form_new; ?>
                 </div>
             </div>
         </div>
