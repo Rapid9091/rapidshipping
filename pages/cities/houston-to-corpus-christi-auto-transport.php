@@ -153,7 +153,7 @@
 <h3><b>Working of Rapid Auto Shipping</b></h3>
 <span style="font-weight: 400;">Please look at our comprehensive guide consisting of five steps to ensure a top-notch Houston to Corpus Christi auto transport experience! We can ship your car anywhere in the country with these simple steps.</span>
 <br><br>
-<b>May I please request a quote?</b>
+<h2>May I please request a quote?</h2>
 <br><br>
 <span style="font-weight: 400;">Obtain a quote within seconds through our online platform. Please contact your assigned agent via phone call, text message, or email if you have any questions. Let's eliminate the uncertainty from Houston to Corpus Christi Auto Transport</span>
 <h3><b>Please make your reservation</b></h3>
