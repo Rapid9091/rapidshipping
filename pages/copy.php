@@ -122,7 +122,7 @@
 
                         </li>
                         <li class="blog"><a href="">Blog</a>
-                            <div class="we_ships">
+                            <!-- <div class="we_ships">
                                 <div class="ul_1">
                                     <ul>
                                         <li><a href="<?= home_path() ?>blogs/cost-from-california-to-texas"><i class="ri-book-fill"></i>Ship Car From California To Texas</a></li>
@@ -132,7 +132,7 @@
                                         <li><a href="<?= home_path() ?>blogs"><i class="ri-book-fill"></i>Let's read more ..</a></li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
                         </li>
                     </ul>
                     <div class="close-menu-bar" id="close-menu-bar"><i class="ri-close-line"></i></div>
