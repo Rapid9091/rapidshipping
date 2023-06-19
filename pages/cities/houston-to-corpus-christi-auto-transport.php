@@ -5,15 +5,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Houston to Corpus Christi Auto Transport by Rapid Auto Shipping |  Rapid Auto Shipping</title>
+    <title>Houston to Corpus Christi Auto Transport  |  Rapid Auto Shipping</title>
 
-    <meta name="title" content="Houston to Corpus Christi Auto Transport by Rapid Auto Shipping  | +1-833-233-4447" />
+    <meta name="title" content="Houston to Corpus Christi Auto Transport   | +1-833-233-4447" />
 <meta name="description" content="Rapid Auto Shipping ships cars, trucks, and other vehicles from Houston to Corpus Christi safely and quickly. Decades of long-distance car transport experience." />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Houston to Corpus Christi Auto Transport by Rapid Auto Shipping  | +1-833-233-4447" />
+<meta property="og:title" content="Houston to Corpus Christi Auto Transport  | +1-833-233-4447" />
 <meta property="og:description" content="Rapid Auto Shipping ships cars, trucks, and other vehicles from Houston to Corpus Christi safely and quickly. Decades of long-distance car transport experience." />
 <meta property="og:url" content="https://rapidautoshipping.com/houston-to-corpus-christi-auto-transport" />
-<meta property="og:site_name" content="Houston to Corpus Christi Auto Transport by Rapid Auto Shipping  | +1-833-233-4447" />
+<meta property="og:site_name" content="Houston to Corpus Christi Auto Transport   | +1-833-233-4447" />
 <meta name='robots' content='index' />
 <meta name="keywords" content="Houston to Corpus Christi Auto Transport" />
 <meta property="article:tag" content="Houston to Corpus Christi Auto Transport" />
@@ -75,8 +75,8 @@
     {
       "@type": "Product",
       "@id": "https:\/\/www.rapidautoshipping.com\/#product",
-      "name": "Houston to Corpus Christi Auto Transport by Rapid Auto Shipping |  Rapid Auto Shipping",
-      "alternateName": "Houston to Corpus Christi Auto Transport by Rapid Auto Shipping ",
+      "name": "Houston to Corpus Christi Auto Transport  |  Rapid Auto Shipping",
+      "alternateName": "Houston to Corpus Christi Auto Transport  ",
       "description": "Rapid Auto Shipping ships cars, trucks, and other vehicles from Houston to Corpus Christi safely and quickly. Decades of long-distance car transport experience.",
       "brand": {
         "@id": "https:\/\/www.rapidautoshipping.com\/"
@@ -95,8 +95,8 @@
     },
     {
       "@type": "Service",
-      "serviceType": "Houston to Corpus Christi Auto Transport by Rapid Auto Shipping |  Rapid Auto Shipping1",
-      "alternateName": Houston to Corpus Christi Auto Transport by Rapid Auto Shipping ",
+      "serviceType": "Houston to Corpus Christi Auto Transport  |  Rapid Auto Shipping1",
+      "alternateName": Houston to Corpus Christi Auto Transport  ",
       "content": "<p>Your code goes here<\/p>"
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "@type": "VideoObject",
-      "name": "Houston to Corpus Christi Auto Transport by Rapid Auto Shipping |  Rapid Auto Shipping",
+      "name": "Houston to Corpus Christi Auto Transport |  Rapid Auto Shipping",
       "uploadDate": "2017-03-02T00:38:28+00:00"
     }
   ]

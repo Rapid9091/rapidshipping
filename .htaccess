@@ -138,6 +138,7 @@ ReWriteRule ^houston-to-corpus-christi-auto-transport([/]?)$ pages/cities/housto
 ReWriteRule ^houston-to-denver-auto-transport([/]?)$ pages/cities/houston-to-denver-auto-transport.php [NC,L]
 ReWriteRule ^illinois-to-lewiston-auto-transport([/]?)$ pages/cities/illinois-to-lewiston-auto-transport.php [NC,L]
 ReWriteRule ^las-vegas-to-hawaii-auto-transport([/]?)$ pages/cities/las-vegas-to-hawaii-auto-transport.php [NC,L]
+ReWriteRule ^memphis-to-dallas-auto-transport([/]?)$ pages/cities/memphis-to-dallas-auto-transport.php [NC,L]
 ReWriteRule ^miami-and-denver-auto-transport([/]?)$ pages/cities/miami-and-denver-auto-transport.php [NC,L]
 ReWriteRule ^miami-to-baltimore-auto-transport([/]?)$ pages/cities/miami-to-baltimore-auto-transport.php [NC,L]
 ReWriteRule ^miami-to-jacksonville-auto-transport([/]?)$ pages/cities/miami-to-jacksonville-auto-transport.php [NC,L]
