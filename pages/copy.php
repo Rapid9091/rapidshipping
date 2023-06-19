@@ -32,7 +32,7 @@
                         <li><a href="<?= home_path() ?>">Home</a></li>
                         <li><a href="<?= home_path() ?>services">Services</a></li>
                         <li class="we-ship"><a href="<?= home_path() ?>cars">We Ship</a>
-                            <div class="we_ship">
+                            <!-- <div class="we_ship">
                                 <ul>
                                     <li><a href="<?= home_path() ?>cars"><i class="ri-car-fill"></i>Cars</a></li>
                                     <li><a href="<?= home_path() ?>services/rv-transport"><i class="ri-car-fill"></i>ATV/RV</a></li>
@@ -43,7 +43,7 @@
                                     <li><a href="<?= home_path() ?>services/tractor-transport"><i class="ri-car-fill"></i>Tractor</a></li>
                                     <li><a href="<?= home_path() ?>services/heavy-equipment-shipping"><i class="ri-car-fill"></i>Heavy Equipments</a></li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </li>
                         <li class="statesd"><a href="<?= get_state() ?>">States</a>
                             <!-- <div class="we_ships">
