@@ -12,7 +12,16 @@
     <link rel="stylesheet" href="<?= get_css() ?>copy.css">
     <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css">
     <link anync rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
-
+    <meta name="title" content="Ambulance Shipping Services in the USA | +1-833-233-4447" />
+<meta name="description" content="Medical transport or ambulance shipping services will allow your company to get the oversized load it requires as soon as possible without breaking the bank." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Ambulance Shipping Services in the USA | +1-833-233-4447" />
+<meta property="og:description" content="Medical transport or ambulance shipping services will allow your company to get the oversized load it requires as soon as possible without breaking the bank." />
+<meta property="og:url" content="https://rapidautoshipping.com/services/ambulance-shipping-service" />
+<meta property="og:site_name" content="Ambulance Shipping Services in the USA | +1-833-233-4447" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Ambulance Shipping Services" />
+<meta property="article:tag" content="Ambulance Shipping Services" />
     <!-- <link rel="stylesheet" href="<?= get_css(); ?>Page_new.min.css" defer> -->
     <title>Service Copy Page</title>
 
@@ -121,7 +130,7 @@
                             </div> -->
 
                         </li>
-                        <li class="blog"><a href="">Blog</a>
+                        <li class="blog"><a href="<?= home_path() ?>blogs">Blog</a>
                             <!-- <div class="we_ships">
                                 <div class="ul_1">
                                     <ul>
