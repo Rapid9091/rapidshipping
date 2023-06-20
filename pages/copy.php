@@ -987,9 +987,9 @@ $.fn.isInViewport = function() {
 
 $(window).on('resize scroll', function() {
     if ($('#Something').isInViewport()) {
-        // do something
+        console.log('In view')
     } else {
-        // do something else
+        console.log('Not In view')
     }
 });
 </script>
