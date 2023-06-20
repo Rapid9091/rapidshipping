@@ -999,8 +999,8 @@ $(window).on('resize scroll', function() {
         $('#sideFrombody').hide();
     } else {
         $('#topForm').html('');
-        $('#sideFrom').html('<?php include small_form_new; ?>');
         $('#sideFrombody').show();
+        $('#sideFrom').html('<?php include small_form_new; ?>');
     }
 });
 </script>
