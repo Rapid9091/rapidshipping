@@ -168,8 +168,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-12 col-lg-4 p-4 d-grid justify-content-center" id="topForm">
-                <?php include small_form_new; ?>
+            <div class="col-md-12 col-lg-4 p-4 d-grid justify-content-center" >
+                <div id="topForm"><?php include small_form_new; ?></div>
             </div>
         </div>
     </div>
@@ -569,8 +569,8 @@
 
             </div>
             <div class="col-12 col-md-12 col-lg-4 __side-form">
-                <div class="_side-form d-grid justify-content-center" id="sideFrom">
-                    <?php include side_form_new; ?>
+                <div class="_side-form d-grid justify-content-center" >
+                    <div id="sideFrom"><?php include side_form_new; ?></div>
                 </div>
             </div>
         </div>
