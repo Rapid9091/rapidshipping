@@ -75,8 +75,8 @@
     {
       "@type": "Product",
       "@id": "https:\/\/www.rapidautoshipping.com\/#product",
-      "name": ">Phoenix to Hawaii Auto Transport  | Rapid Auto Shipping",
-      "alternateName": ">Phoenix to Hawaii Auto Transport ",
+      "name": "Phoenix to Hawaii Auto Transport  | Rapid Auto Shipping",
+      "alternateName": "Phoenix to Hawaii Auto Transport ",
       "description": "Rapid Auto Shipping offers Phoenix to Hawaii auto transport services for various types of vehicles, including cars and trucks. The company's staff can manage long-distance transportation tasks.",
       "brand": {
         "@id": "https:\/\/www.rapidautoshipping.com\/"
@@ -93,12 +93,12 @@
         "bestRating": 5
       }
     },
-    {
+    <!-- {
       "@type": "Service",
-      "serviceType": ">Phoenix to Hawaii Auto Transport | Rapid Auto Shipping1",
-      "alternateName": ">Phoenix to Hawaii Auto Transport  ",
+      "serviceType": "Phoenix to Hawaii Auto Transport | Rapid Auto Shipping1",
+      "alternateName": "Phoenix to Hawaii Auto Transport  ",
       
-    }
+    } -->
     {
       "@type": "BreadcrumbList",
       "itemListElement": [
