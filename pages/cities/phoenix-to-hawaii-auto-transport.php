@@ -93,12 +93,7 @@
         "bestRating": 5
       }
     },
-    <!-- {
-      "@type": "Service",
-      "serviceType": "Phoenix to Hawaii Auto Transport | Rapid Auto Shipping1",
-      "alternateName": "Phoenix to Hawaii Auto Transport  ",
-      
-    } -->
+    
     {
       "@type": "BreadcrumbList",
       "itemListElement": [
