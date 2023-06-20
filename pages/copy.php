@@ -923,7 +923,7 @@
                 <a href="tel:+"><button>+1 (833) 233-4447</button></a>
      </div>
 
-    <script async src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+    <script  src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js" async></script>
     <script>
         const swiper = new Swiper('.swiper', {
             // Optional parameters
@@ -947,7 +947,7 @@
             },
         });
     </script>
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" ></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" async></script>
     <script async src="<?= get_js() ?>small_form_new.js"></script>
     <!-- <script asyns src="<?= get_js() ?>side_form_new.js"></script> -->
     
