@@ -17,7 +17,6 @@
 <meta name='robots' content='index' />
 <meta name="keywords" content="Miami and Denver Auto Transport" />
 <meta property="article:tag" content="Miami and Denver Auto Transport" />
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
