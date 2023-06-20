@@ -18,76 +18,70 @@
 <meta name="keywords" content="Miami to Jacksonville Auto Transport" />
 <meta property="article:tag" content="Miami to Jacksonville Auto Transport" />
 
-</head>
-
-<body> 
 <script type="application/ld+json">
 {
-  "@context": "https:\/\/schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "WebSite",
       "name": "Rapid Auto Shipping",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
-      "@id": "https:\/\/rapidautoshipping.com\/#website",
-      "potentialAction": [
-        {
-          "@type": "SearchAction",
-          "query-input": "required name=search_term_string",
-          "target": {
-            "@type": "EntryPoint",
-            "urlTemplate": "https:\/\/www.rapidautoshipping.com\/search?keywords={search_term_string}"
-          }
-        }
-      ]
+      "url": "https://www.rapidautoshipping.com/",
+      "@id": "https://rapidautoshipping.com/#website",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.rapidautoshipping.com/search?keywords={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
     },
     {
       "@type": "WebPage",
-      "@id": "https:\/\/www.rapidautoshipping.com\/#webpage",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
+      "@id": "https://www.rapidautoshipping.com/#webpage",
+      "url": "https://www.rapidautoshipping.com/",
       "name": "Rapid Auto Shipping"
     },
     {
       "@type": "Organization",
+      "@id": "https://www.rapidautoshipping.com/#organization",
       "name": "Rapid Auto Shipping",
       "legalName": "Rapid Auto Shipping",
       "alternateName": "Rapid Auto Shipping",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
-      "@id": "https:\/\/www.rapidautoshipping.com\/",
+      "url": "https://www.rapidautoshipping.com/",
       "founder": "Johny Taylor",
       "foundingDate": "2016",
       "sameAs": [
-        "https:\/\/www.rapidautoshipping.com",
-        "https:\/\/twitter.com\/ShippingRapid",
-        "https:\/\/www.facebook.com\/Rapidautoshipping",
-        "https:\/\/www.youtube.com\/@rapidautoshipping7218",
-        "https:\/\/www.instagram.com\/rapidautoshipping\/",
-        "https:\/\/www.linkedin.com\/company\/rapid-auto-shipping",
-        "https:\/\/www.trustpilot.com\/review\/rapidautoshipping.com",
-        "https://www.transportreviews.com\/Company\/Rapid-Auto-Shipping",
-        "https://www.provenexpert.com\/en-us\/rapid-auto-shipping"
+        "https://www.rapidautoshipping.com",
+        "https://twitter.com/ShippingRapid",
+        "https://www.facebook.com/Rapidautoshipping",
+        "https://www.youtube.com/@rapidautoshipping7218",
+        "https://www.instagram.com/rapidautoshipping/",
+        "https://www.linkedin.com/company/rapid-auto-shipping",
+        "https://www.trustpilot.com/review/rapidautoshipping.com",
+        "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
+        "https://www.provenexpert.com/en-us/rapid-auto-shipping"
       ],
-      "description": "Rapid Auto Shipping has received recognition for its exceptional commitment to customer service. Our Miami to Jacksonville auto transport services, guarantee top-notch quality and excellent customer service.",
+      "description": "Rapid Auto Shipping has received recognition for its exceptional commitment to customer service. Our Miami to Jacksonville auto transport services guarantee top-notch quality and excellent customer service.",
       "logo": {
         "@type": "ImageObject",
-        "url": "https:\/\/rapidautoshipping.com\/assets\/images\/Untitled-1-Recovered.png"
+        "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
       }
     },
     {
       "@type": "Product",
-      "@id": "https:\/\/www.rapidautoshipping.com\/#product",
-      "name": Miami to Jacksonville Auto Transport | Rapid Auto Shipping",
+      "@id": "https://www.rapidautoshipping.com/#product",
+      "name": "Miami to Jacksonville Auto Transport | Rapid Auto Shipping",
       "alternateName": "Miami to Jacksonville Auto Transport",
-      "description": "Rapid Auto Shipping has received recognition for its exceptional commitment to customer service. Our Miami to Jacksonville auto transport services, guarantee top-notch quality and excellent customer service.",
+      "description": "Rapid Auto Shipping has received recognition for its exceptional commitment to customer service. Our Miami to Jacksonville auto transport services guarantee top-notch quality and excellent customer service.",
       "brand": {
-        "@id": "https:\/\/www.rapidautoshipping.com\/"
+        "@type": "Organization",
+        "@id": "https://www.rapidautoshipping.com/#organization"
       },
       "mainEntityOfPage": {
-        "@id": "https:\/\/www.rapidautoshipping.com\/#webpage"
+        "@type": "WebPage",
+        "@id": "https://www.rapidautoshipping.com/#webpage"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
-        "@id": "https:\/\/rapidautoshipping.com\/#aggregateRating",
+        "@id": "https://rapidautoshipping.com/#aggregateRating",
         "ratingValue": 4.8,
         "ratingCount": 545,
         "worstRating": 1,
@@ -97,8 +91,7 @@
     {
       "@type": "Service",
       "serviceType": "Miami to Jacksonville Auto Transport | Rapid Auto Shipping",
-      "alternateName": "Miami to Jacksonville Auto Transport ",
-      
+      "alternateName": "Miami to Jacksonville Auto Transport"
     },
     {
       "@type": "BreadcrumbList",
@@ -107,16 +100,17 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Services",
-          "item": "https:\/\/www.rapidautoshipping.com\/services\/"
+          "item": "https://www.rapidautoshipping.com/services/"
         }
       ]
-    },
-   
-    
+    }
   ]
 }
 </script>
-  
+
+</head>
+
+<body> 
    <h1>Miami to Jacksonville Auto Transport</h1>
    Rapid Auto Shipping guarantees secure and damage-free vehicle transportation from Miami to Jacksonville auto transport. Our auto-hauling service ensures the safety of your vehicle during transit, ensuring that it remains in excellent condition throughout the journey. The auto transportation process should be smooth and free of any inconvenience.
 <h2><strong>How Does Miami to Jacksonville Auto Transport Work?</strong></h2>
