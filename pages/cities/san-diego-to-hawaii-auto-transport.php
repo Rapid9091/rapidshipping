@@ -100,7 +100,7 @@
               "serviceType": "San Diego to Hawaii Auto Transport | Rapid Auto Shipping 1",
               "alternateName": "San Diego to Hawaii Auto Transport ",
              
-            },
+            }
             {
               "@type": "BreadcrumbList",
               "itemListElement": [

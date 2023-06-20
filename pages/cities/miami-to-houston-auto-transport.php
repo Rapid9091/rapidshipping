@@ -70,7 +70,7 @@
         "@type": "ImageObject",
         "url": "https:\/\/rapidautoshipping.com\/assets\/images\/Untitled-1-Recovered.png"
       }
-    },
+    }
     {
       "@type": "Product",
       "@id": "https:\/\/www.rapidautoshipping.com\/#product",

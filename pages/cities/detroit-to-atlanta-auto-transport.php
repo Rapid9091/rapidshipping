@@ -98,7 +98,7 @@
       "serviceType": "Detroit to Atlanta Auto Transport | Rapid Auto Shipping1",
       "alternateName": "Detroit to Atlanta Auto Transport ",
       
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

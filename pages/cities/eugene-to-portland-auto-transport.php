@@ -97,7 +97,7 @@
       "serviceType": "Eugene to Portland Auto Transport  |  Rapid Auto Shipping1",
       "alternateName": "Eugene to Portland Auto Transport  ",
       
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

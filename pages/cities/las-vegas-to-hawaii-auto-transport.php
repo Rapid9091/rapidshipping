@@ -96,6 +96,7 @@
           "@type": "Service",
           "serviceType": "Las Vegas to Hawaii Auto Transport | Rapid Auto Shipping1",
           "alternateName": "Las Vegas to Hawaii Auto Transport ",
+        }
           
         {
           "@type": "BreadcrumbList",

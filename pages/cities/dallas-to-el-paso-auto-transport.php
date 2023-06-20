@@ -99,7 +99,7 @@
       "serviceType": "Dallas to El Paso Auto Transport  | Rapid Auto Shipping",
       "alternateName": "Dallas to El Paso Auto Transport ",
      
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

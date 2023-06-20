@@ -98,7 +98,7 @@
       "serviceType": "Austin to Denver Auto Transport Services | Rapid Auto Shipping1",
       "alternateName": "Austin to Denver Auto Transport Services ",
       
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

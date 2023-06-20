@@ -99,7 +99,7 @@
       "serviceType": "Boston to Los Angeles Auto Transport  |  Rapid Auto Shipping1",
       "alternateName": "Boston to Los Angeles Auto Transport ",
       "content": "<p>Your code goes here<\/p>"
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

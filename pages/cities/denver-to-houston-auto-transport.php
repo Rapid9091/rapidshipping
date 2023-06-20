@@ -99,7 +99,7 @@
               "serviceType": "Denver to Houston Auto Transport | Rapid Auto Shipping",
               "alternateName": "Denver to Houston Auto Transport ",
               "content": "<p>Your code goes here<\/p>"
-            },
+            }
             {
               "@type": "BreadcrumbList",
               "itemListElement": [

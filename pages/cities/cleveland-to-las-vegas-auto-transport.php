@@ -97,7 +97,7 @@
       "serviceType": "Cleveland to Las Vegas Auto Transport |  Rapid Auto Shipping1",
       "alternateName": Cleveland to Las Vegas Auto Transport  ",
       
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

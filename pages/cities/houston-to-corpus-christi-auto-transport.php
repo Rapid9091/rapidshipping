@@ -98,7 +98,7 @@
       "serviceType": "Houston to Corpus Christi Auto Transport  |  Rapid Auto Shipping1",
       "alternateName": "Houston to Corpus Christi Auto Transport  ",
       
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

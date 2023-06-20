@@ -99,7 +99,7 @@
       "serviceType": "Miami to Baltimore Auto Transport | Rapid Auto Shipping",
       "alternateName": "Miami to Baltimore Auto Transport ",
       
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

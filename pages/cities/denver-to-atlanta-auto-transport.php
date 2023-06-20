@@ -105,7 +105,7 @@
       "serviceType": "Denver to Atlanta Auto Transport  | Rapid Auto Shipping",
       "alternateName": "Denver to Atlanta Auto Transport  ",
       "content": "<p>Your code goes here<\/p>"
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

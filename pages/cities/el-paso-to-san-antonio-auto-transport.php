@@ -100,7 +100,7 @@
               "serviceType": "El Paso to San Antonio Auto Transport | Rapid Auto Shipping",
               "alternateName": "El Paso to San Antonio Auto Transport",
              
-            },
+            }
             {
               "@type": "BreadcrumbList",
               "itemListElement": [

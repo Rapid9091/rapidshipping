@@ -97,7 +97,7 @@
       "serviceType": "Miami to Jacksonville Auto Transport | Rapid Auto Shipping1",
       "alternateName": "Miami to Jacksonville Auto Transport ",
       "content": "<p>Your code goes here<\/p>"
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

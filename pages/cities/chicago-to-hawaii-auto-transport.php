@@ -97,7 +97,7 @@
       "serviceType": "Chicago to Hawaii Auto Transport  | Rapid Auto Shipping1",
       "alternateName": "Chicago to Hawaii Auto Transport  ",
       
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

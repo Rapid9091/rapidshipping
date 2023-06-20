@@ -98,7 +98,7 @@
       "serviceType": "Illinois to Lewiston Auto Transport  |  Rapid Auto Shipping",
       "alternateName": "Illinois to Lewiston Auto Transport ",
       "content": "<p>Your code goes here<\/p>"
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

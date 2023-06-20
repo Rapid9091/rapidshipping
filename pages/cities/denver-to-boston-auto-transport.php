@@ -98,7 +98,7 @@
       "serviceType": "Denver to Boston Auto Transport| Rapid Auto Shipping1",
       "alternateName": "Denver to Boston Auto Transport",
       
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

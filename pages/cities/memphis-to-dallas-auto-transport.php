@@ -98,7 +98,7 @@
       "serviceType": "Memphis to Dallas Auto Transport |  Rapid Auto Shipping1",
       "alternateName": Memphis to Dallas Auto Transport  ",
       "content": "<p>Your code goes here<\/p>"
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

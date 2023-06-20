@@ -98,7 +98,7 @@
       "serviceType": "El Paso to Houston Auto Transport | Rapid Auto Shipping1",
       "alternateName": "El Paso to Houston Auto Transport ",
       
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

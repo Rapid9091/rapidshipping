@@ -98,7 +98,7 @@
       "serviceType": "Greenville to Charlotte Auto Transport |  Rapid Auto Shipping1",
       "alternateName": "Greenville to Charlotte Auto Transport ",
       
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

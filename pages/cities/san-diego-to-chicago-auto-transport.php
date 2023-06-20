@@ -97,7 +97,7 @@
       "serviceType": "San Diego to Chicago Auto Transport  |  Rapid Auto Shipping1",
       "alternateName": San Diego to Chicago Auto Transport   ",
       
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [

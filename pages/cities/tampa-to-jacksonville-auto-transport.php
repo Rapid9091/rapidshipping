@@ -97,7 +97,7 @@
           "serviceType": "Tampa to Jacksonville Auto Transport | Rapid Auto Shipping1",
           "alternateName": "Tampa to Jacksonville Auto Transport",
           
-        },
+        }
         {
           "@type": "BreadcrumbList",
           "itemListElement": [

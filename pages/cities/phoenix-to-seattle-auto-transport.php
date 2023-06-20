@@ -97,7 +97,7 @@
       "serviceType": "Ship Your Car With Our Phoenix to Seattle Auto Transport | Rapid Auto Shipping1",
       "alternateName": "Ship Your Car With Our Phoenix to Seattle Auto Transport ",
       
-    },
+    }
     {
       "@type": "BreadcrumbList",
       "itemListElement": [
