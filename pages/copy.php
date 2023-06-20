@@ -146,7 +146,7 @@
         </header>
     </div>
     <!-- End Header -->
-    <div class="banner-section">
+    <div class="banner-section"  id="myDiv2">
         <img class="banner-section-img" width="100%" height="100%" src="<?= get_img() ?>car-shipping-header-image1.webp" alt="Rapid Auto Shipping">
         <div class="row banner-section-row p-5">
             <div class="col-md-12 col-lg-8 p-4 banner-section-row-col-1">
@@ -433,7 +433,7 @@
             </div>
         </div>
     </div>
-    <div class="content-body " id="myDiv2"> 
+    <div class="content-body "> 
         <div class="row content-body-row px-5">
             <div class="col-12 col-md-12 col-lg-8 p-5 content-body-text" id="contentContainer">
                 <div class="article_list">
@@ -990,11 +990,11 @@ $.fn.isInViewport = function() {
 
 $(window).on('resize scroll', function() {
     if ($('#myDiv2').isInViewport()) {
-        $('#topForm').hide();
-        $('#sideFrom').show();
-    } else {
         $('#topForm').show();
         $('#sideFrom').hide();
+    } else {
+        $('#topForm').hide();
+        $('#sideFrom').show();
     }
 });
 </script>
