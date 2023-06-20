@@ -18,113 +18,99 @@
 <meta name="keywords" content="Boat Shipping Cost Calculator" />
 <meta property="article:tag" content="Boat Shipping Cost Calculator" />
 
-</head>
-<body> 
 <script type="application/ld+json">
 {
-  "@context": "https:\/\/schema.org",
-  "@graph": [
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "@id": "https://rapidautoshipping.com/#website",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.rapidautoshipping.com/search?keywords={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.rapidautoshipping.com/#organization",
+  "name": "Rapid Auto Shipping",
+  "legalName": "Rapid Auto Shipping",
+  "alternateName": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "founder": "Johny Taylor",
+  "foundingDate": "2016",
+  "sameAs": [
+    "https://www.rapidautoshipping.com",
+    "https://twitter.com/ShippingRapid",
+    "https://www.facebook.com/Rapidautoshipping",
+    "https://www.youtube.com/@rapidautoshipping7218",
+    "https://www.instagram.com/rapidautoshipping/",
+    "https://www.linkedin.com/company/rapid-auto-shipping",
+    "https://www.trustpilot.com/review/rapidautoshipping.com",
+    "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
+    "https://www.provenexpert.com/en-us/rapid-auto-shipping"
+  ],
+  "description": "Rapid Auto Shipping is an excellent choice for boat hauling services. Our state-of-the-art boat shipping cost calculator enables you to schedule reliable boat transportation at reasonable prices.",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://www.rapidautoshipping.com/#product",
+  "name": "Boat Shipping Cost Calculator | Rapid Auto Shipping",
+  "alternateName": "Boat Shipping Cost Calculator",
+  "description": "Rapid Auto Shipping is an excellent choice for boat hauling services. Our state-of-the-art boat shipping cost calculator enables you to schedule reliable boat transportation at reasonable prices.",
+  "brand": {
+    "@type": "Organization",
+    "@id": "https://www.rapidautoshipping.com/#organization"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.rapidautoshipping.com/#webpage"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "@id": "https://rapidautoshipping.com/#aggregateRating",
+    "ratingValue": 4.8,
+    "ratingCount": 545,
+    "worstRating": 1,
+    "bestRating": 5
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Boat Shipping Cost Calculator | Rapid Auto Shipping",
+  "alternateName": "Boat Shipping Cost Calculator"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
     {
-      "@type": "WebSite",
-      "name": "Rapid Auto Shipping",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
-      "@id": "https:\/\/rapidautoshipping.com\/#website",
-      "potentialAction": [
-        {
-          "@type": "SearchAction",
-          "query-input": "required name=search_term_string",
-          "target": {
-            "@type": "EntryPoint",
-            "urlTemplate": "https:\/\/www.rapidautoshipping.com\/search?keywords={search_term_string}"
-          }
-        }
-      ]
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https:\/\/www.rapidautoshipping.com\/#webpage",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
-      "name": "Rapid Auto Shipping"
-    },
-    {
-      "@type": "Organization",
-      "name": "Rapid Auto Shipping",
-      "legalName": "Rapid Auto Shipping",
-      "alternateName": "Rapid Auto Shipping",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
-      "@id": "https:\/\/www.rapidautoshipping.com\/",
-      "founder": "Johny Taylor",
-      "foundingDate": "2016",
-      "sameAs": [
-        "https:\/\/www.rapidautoshipping.com",
-        "https:\/\/twitter.com\/ShippingRapid",
-        "https:\/\/www.facebook.com\/Rapidautoshipping",
-        "https:\/\/www.youtube.com\/@rapidautoshipping7218",
-        "https:\/\/www.instagram.com\/rapidautoshipping\/",
-        "https:\/\/www.linkedin.com\/company\/rapid-auto-shipping",
-        "https:\/\/www.trustpilot.com\/review\/rapidautoshipping.com",
-        "https://www.transportreviews.com\/Company\/Rapid-Auto-Shipping",
-        "https://www.provenexpert.com\/en-us\/rapid-auto-shipping"
-      ],
-      "description": "Rapid Auto Shipping is an excellent choice for boat hauling services. Our state-of-the-art boat shipping cost calculator enables you to schedule reliable boat transportation at reasonable prices.",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https:\/\/rapidautoshipping.com\/assets\/images\/Untitled-1-Recovered.png"
-      }
-    },
-    {
-      "@type": "Product",
-      "@id": "https:\/\/www.rapidautoshipping.com\/#product",
-      "name": "Boat Shipping Cost Calculator | Rapid Auto Shipping",
-      "alternateName": "Boat Shipping Cost Calculator ",
-      "description": "Rapid Auto Shipping is an excellent choice for boat hauling services. Our state-of-the-art boat shipping cost calculator enables you to schedule reliable boat transportation at reasonable prices.",
-      "brand": {
-        "@id": "https:\/\/www.rapidautoshipping.com\/"
-      },
-      "mainEntityOfPage": {
-        "@id": "https:\/\/www.rapidautoshipping.com\/#webpage"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "@id": "https:\/\/rapidautoshipping.com\/#aggregateRating",
-        "ratingValue": 4.8,
-        "ratingCount": 545,
-        "worstRating": 1,
-        "bestRating": 5
-      }
-    },
-    {
-      "@type": "Service",
-      "serviceType": "Boat Shipping Cost Calculator | Rapid Auto Shipping1",
-      "alternateName": "Boat Shipping Cost Calculator ",
-      
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Services",
-          "item": "https:\/\/www.rapidautoshipping.com\/services\/"
-        }
-      ]
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Services Offered By Rapid Auto Shipping",
-      "description": "Rapid Auto Shipping is an excellent choice for boat hauling services. Our state-of-the-art boat shipping cost calculator enables you to schedule reliable boat transportation at reasonable prices."",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
-    },
-    {
-      "@type": "VideoObject",
-      "name": "Boat Shipping Cost Calculator | Rapid Auto Shipping",
-      "uploadDate": "2017-03-02T00:38:28+00:00"
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Services",
+      "item": "https://www.rapidautoshipping.com/services/"
     }
   ]
 }
 </script>
-  
+</head>
+<body> 
    <h1>Boat Shipping Cost Calculator</h1>
    Rapid Auto Shipping provides customers with a boat shipping cost calculator to obtain a prompt estimate of the cost of our shipping services. While the transport calculator is not designed to give an exact price for shipping boats, it offers potential customers a rough estimate of the transportation expenses they might incur. A quick and simple method to collect quotes is recommended when searching for a ship's appropriate shipping service.
 <h2><strong>How Much Does the Boat Shipping Cost Calculator?</strong></h2>
