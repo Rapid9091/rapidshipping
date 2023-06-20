@@ -66,8 +66,8 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "@id": "https://www.rapidautoshipping.com/#product",
-  "name": "El Paso to Houston Auto Transport | Rapid Auto Shipping",
-  "alternateName": "El Paso to Houston Auto Transport
+  "name": "El Paso to Houston Auto Transport  | Rapid Auto Shipping",
+  "alternateName": "El Paso to Houston Auto Transport ",
   "description": "Rapid Auto Shipping has extensive experience transporting automobiles from El Paso to Houston auto transport services. Our staff is fully equipped to provide excellent auto transport services from El Paso to Houston.",
   "brand": {
     "@type": "Organization",
@@ -91,8 +91,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "serviceType": "El Paso to Houston Auto Transport | Rapid Auto Shipping",
-  "alternateName": "El Paso to Houston Auto Transport"
+  "serviceType": "El Paso to Houston Auto Transport  | Rapid Auto Shipping",
+  "alternateName": "El Paso to Houston Auto Transport "
 }
 </script>
 <script type="application/ld+json">
