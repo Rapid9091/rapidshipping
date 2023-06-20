@@ -973,8 +973,8 @@
         document.getElementById('main-link').style.display = 'none';
   })
 </script>
+<script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
 <script>
-
 $.fn.isInViewport = function() {
     var elementTop = $(this).offset().top;
     var elementBottom = elementTop + $(this).outerHeight();
