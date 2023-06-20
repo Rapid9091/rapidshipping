@@ -162,6 +162,7 @@ ReWriteRule ^atlanta-to-houston-auto-transport([/]?)$ pages/cities/atlanta-to-ho
 ReWriteRule ^atlanta-to-savannah-auto-transport([/]?)$ pages/cities/atlanta-to-savannah-auto-transport.php [NC,L]
 ReWriteRule ^atlanta-to-tampa-auto-transport([/]?)$ pages/cities/atlanta-to-tampa-auto-transport.php [NC,L]
 ReWriteRule ^austin-to-denver-auto-transport([/]?)$ pages/cities/austin-to-denver-auto-transport.php [NC,L]
+ReWriteRule ^austin-to-hawaii-auto-transport([/]?)$ pages/cities/austin-to-hawaii-auto-transport.php [NC,L]
 ReWriteRule ^atlanta-to-chicago-auto-transport([/]?)$ pages/cities/atlanta-to-chicago-auto-transport.php [NC,L]
 ReWriteRule ^boston-to-san-francisco([/]?)$ pages/cities/boston-to-san-francisco.php [NC,L]
 ReWriteRule ^boston-to-tampa-auto-transport([/]?)$ pages/cities/boston-to-tampa-auto-transport.php [NC,L]
