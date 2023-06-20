@@ -570,7 +570,7 @@
             </div>
             <div class="col-12 col-md-12 col-lg-4 __side-form">
                 <div class="_side-form d-grid justify-content-center" >
-                    <div id="sideFrom"><?php include side_form_new; ?></div>
+                    <div id="sideFrom"><?php //include side_form_new; ?></div>
                 </div>
             </div>
         </div>
@@ -990,11 +990,11 @@ $.fn.isInViewport = function() {
 
 $(window).on('resize scroll', function() {
     if ($('#myDiv2').isInViewport()) {
-        $('#topForm').show();
-        $('#sideFrom').hide();
+        $('#topForm').html('<?php include small_form_new; ?>');
+        $('#sideFrom').html('');
     } else {
-        $('#topForm').hide();
-        $('#sideFrom').show();
+        $('#topForm').html('');
+        $('#sideFrom').html('<?php include small_form_new; ?>');
     }
 });
 </script>
