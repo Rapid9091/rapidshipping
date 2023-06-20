@@ -995,6 +995,7 @@ $(window).on('resize scroll', function() {
     } else {
         $('#topForm').html('');
         $('#sideFrom').html('<?php include small_form_new; ?>');
+        $('#sideFrom').show();
     }
 });
 </script>
