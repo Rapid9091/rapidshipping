@@ -18,102 +18,98 @@
 <meta name="keywords" content="Phoenix to Seattle Auto Transport" />
 <meta property="article:tag" content="Phoenix to Seattle Auto Transport" />
 
-</head>
 <script type="application/ld+json">
 {
-  "@context": "https:\/\/schema.org",
-  "@graph": [
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "@id": "https://rapidautoshipping.com/#website",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.rapidautoshipping.com/search?keywords={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.rapidautoshipping.com/#organization",
+  "name": "Rapid Auto Shipping",
+  "legalName": "Rapid Auto Shipping",
+  "alternateName": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "founder": "Johny Taylor",
+  "foundingDate": "2016",
+  "sameAs": [
+    "https://www.rapidautoshipping.com",
+    "https://twitter.com/ShippingRapid",
+    "https://www.facebook.com/Rapidautoshipping",
+    "https://www.youtube.com/@rapidautoshipping7218",
+    "https://www.instagram.com/rapidautoshipping/",
+    "https://www.linkedin.com/company/rapid-auto-shipping",
+    "https://www.trustpilot.com/review/rapidautoshipping.com",
+    "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
+    "https://www.provenexpert.com/en-us/rapid-auto-shipping"
+  ],
+  "description": "Our Phoenix to Seattle auto transport services are available by open carrier or enclosed auto transport. Most individuals choose open pages because they are the most cost-effective alternative.",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://www.rapidautoshipping.com/#product",
+  "name": "Ship Your Car With Our Phoenix to Seattle Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Ship Your Car With Our Phoenix to Seattle Auto Transport",
+  "description": "Our Phoenix to Seattle auto transport services are available by open carrier or enclosed auto transport. Most individuals choose open pages because they are the most cost-effective alternative.",
+  "brand": {
+    "@type": "Organization",
+    "@id": "https://www.rapidautoshipping.com/#organization"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.rapidautoshipping.com/#webpage"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "@id": "https://rapidautoshipping.com/#aggregateRating",
+    "ratingValue": 4.8,
+    "ratingCount": 545,
+    "worstRating": 1,
+    "bestRating": 5
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Ship Your Car With Our Phoenix to Seattle Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Ship Your Car With Our Phoenix to Seattle Auto Transport"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
     {
-      "@type": "WebSite",
-      "name": "Rapid Auto Shipping",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
-      "@id": "https:\/\/rapidautoshipping.com\/#website",
-      "potentialAction": [
-        {
-          "@type": "SearchAction",
-          "query-input": "required name=search_term_string",
-          "target": {
-            "@type": "EntryPoint",
-            "urlTemplate": "https:\/\/www.rapidautoshipping.com\/search?keywords={search_term_string}"
-          }
-        }
-      ]
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https:\/\/www.rapidautoshipping.com\/#webpage",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
-      "name": "Rapid Auto Shipping"
-    },
-    {
-      "@type": "Organization",
-      "name": "Rapid Auto Shipping",
-      "legalName": "Rapid Auto Shipping",
-      "alternateName": "Rapid Auto Shipping",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
-      "@id": "https:\/\/www.rapidautoshipping.com\/",
-      "founder": "Johny Taylor",
-      "foundingDate": "2016",
-      "sameAs": [
-        "https:\/\/www.rapidautoshipping.com",
-        "https:\/\/twitter.com\/ShippingRapid",
-        "https:\/\/www.facebook.com\/Rapidautoshipping",
-        "https:\/\/www.youtube.com\/@rapidautoshipping7218",
-        "https:\/\/www.instagram.com\/rapidautoshipping\/",
-        "https:\/\/www.linkedin.com\/company\/rapid-auto-shipping",
-        "https:\/\/www.trustpilot.com\/review\/rapidautoshipping.com",
-        "https://www.transportreviews.com\/Company\/Rapid-Auto-Shipping",
-        "https://www.provenexpert.com\/en-us\/rapid-auto-shipping"
-      ],
-      "description": "Our Phoenix to Seattle auto transport services are available by open carrier or enclosed auto transport. Most individuals choose open pages because they are the most cost-effective alternative.",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https:\/\/rapidautoshipping.com\/assets\/images\/Untitled-1-Recovered.png"
-      }
-    },
-    {
-      "@type": "Product",
-      "@id": "https:\/\/www.rapidautoshipping.com\/#product",
-      "name": "Ship Your Car With Our Phoenix to Seattle Auto Transport | Rapid Auto Shipping",
-      "alternateName": "Ship Your Car With Our Phoenix to Seattle Auto Transport",
-      "description": "Our Phoenix to Seattle auto transport services are available by open carrier or enclosed auto transport. Most individuals choose open pages because they are the most cost-effective alternative.",
-      "brand": {
-        "@id": "https:\/\/www.rapidautoshipping.com\/"
-      },
-      "mainEntityOfPage": {
-        "@id": "https:\/\/www.rapidautoshipping.com\/#webpage"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "@id": "https:\/\/rapidautoshipping.com\/#aggregateRating",
-        "ratingValue": 4.8,
-        "ratingCount": 545,
-        "worstRating": 1,
-        "bestRating": 5
-      }
-    },
-    {
-      "@type": "Service",
-      "serviceType": "Ship Your Car With Our Phoenix to Seattle Auto Transport | Rapid Auto Shipping1",
-      "alternateName": "Ship Your Car With Our Phoenix to Seattle Auto Transport ",
-      
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Services",
+      "item": "https://www.rapidautoshipping.com/services/"
     }
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Services",
-          "item": "https:\/\/www.rapidautoshipping.com\/services\/"
-        }
-      ]
-    },
-    
   ]
 }
 </script>
-
+</head>
 <body>   
    <h1>Ship Your Car With Our Phoenix to Seattle Auto Transport</h1>
    <span style="font-weight: 400;">Because of our shared auto shipment, we can send your automobile or truck at the lowest possible cost. Every other day, we have trucks traveling from Phoenix to Seattle.</span>

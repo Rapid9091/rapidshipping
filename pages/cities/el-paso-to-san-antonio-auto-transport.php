@@ -18,105 +18,100 @@
 <meta name="keywords" content="El Paso to San Antonio Auto Transport" />
 <meta property="article:tag" content="El Paso to San Antonio Auto Transport" />
 
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "@id": "https://rapidautoshipping.com/#website",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.rapidautoshipping.com/search?keywords={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.rapidautoshipping.com/#organization",
+  "name": "Rapid Auto Shipping",
+  "legalName": "Rapid Auto Shipping",
+  "alternateName": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "founder": "Johny Taylor",
+  "foundingDate": "2016",
+  "sameAs": [
+    "https://www.rapidautoshipping.com",
+    "https://twitter.com/ShippingRapid",
+    "https://www.facebook.com/Rapidautoshipping",
+    "https://www.youtube.com/@rapidautoshipping7218",
+    "https://www.instagram.com/rapidautoshipping/",
+    "https://www.linkedin.com/company/rapid-auto-shipping",
+    "https://www.trustpilot.com/review/rapidautoshipping.com",
+    "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
+    "https://www.provenexpert.com/en-us/rapid-auto-shipping"
+  ],
+  "description": "Car carriers have to charge significantly more in order to turn a profit since an enclosed El Paso to San Antonio auto transport trailer limits the number of vehicles that can be transported.",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://www.rapidautoshipping.com/#product",
+  "name": "El Paso to San Antonio Auto Transport | Rapid Auto Shipping",
+  "alternateName": "El Paso to San Antonio Auto Transport ",
+  "description": "Car carriers have to charge significantly more in order to turn a profit since an enclosed El Paso to San Antonio auto transport trailer limits the number of vehicles that can be transported.",
+  "brand": {
+    "@type": "Organization",
+    "@id": "https://www.rapidautoshipping.com/#organization"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.rapidautoshipping.com/#webpage"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "@id": "https://rapidautoshipping.com/#aggregateRating",
+    "ratingValue": 4.8,
+    "ratingCount": 545,
+    "worstRating": 1,
+    "bestRating": 5
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "El Paso to San Antonio Auto Transport | Rapid Auto Shipping",
+  "alternateName": "El Paso to San Antonio Auto Transport "
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Services",
+      "item": "https://www.rapidautoshipping.com/services/"
+    }
+  ]
+}
+</script>
 
 </head>
-<body>  
-    <script type="application/ld+json">
-        {
-          "@context": "https:\/\/schema.org",
-          "@graph": [
-            {
-              "@type": "WebSite",
-              "name": "Rapid Auto Shipping",
-              "url": "https:\/\/www.rapidautoshipping.com\/",
-              "@id": "https:\/\/rapidautoshipping.com\/#website",
-              "potentialAction": [
-                {
-                  "@type": "SearchAction",
-                  "query-input": "required name=search_term_string",
-                  "target": {
-                    "@type": "EntryPoint",
-                    "urlTemplate": "https:\/\/www.rapidautoshipping.com\/search?keywords={search_term_string}"
-                  }
-                }
-              ]
-            },
-            {
-              "@type": "WebPage",
-              "@id": "https:\/\/www.rapidautoshipping.com\/#webpage",
-              "url": "https:\/\/www.rapidautoshipping.com\/",
-              "name": "Rapid Auto Shipping"
-            },
-            {
-              "@type": "Organization",
-              "name": "Rapid Auto Shipping",
-              "legalName": "Rapid Auto Shipping",
-              "alternateName": "Rapid Auto Shipping",
-              "url": "https:\/\/www.rapidautoshipping.com\/",
-              "@id": "https:\/\/www.rapidautoshipping.com\/",
-              "founder": "Johny Taylor",
-              "foundingDate": "2016",
-              "sameAs": [
-                "https:\/\/www.rapidautoshipping.com",
-                "https:\/\/twitter.com\/ShippingRapid",
-                "https:\/\/www.facebook.com\/Rapidautoshipping",
-                "https:\/\/www.youtube.com\/@rapidautoshipping7218",
-                "https:\/\/www.instagram.com\/rapidautoshipping\/",
-                "https:\/\/www.linkedin.com\/company\/rapid-auto-shipping",
-                "https:\/\/www.trustpilot.com\/review\/rapidautoshipping.com",
-                "https://www.transportreviews.com\/Company\/Rapid-Auto-Shipping",
-                "https://www.provenexpert.com\/en-us\/rapid-auto-shipping"
-              ],
-              "description": "Car carriers have to charge significantly more in order to turn a profit since an enclosed El Paso to San Antonio auto transport trailer limits the number of vehicles that can be transported.",
-              "logo": {
-                "@type": "ImageObject",
-                "url": "https:\/\/rapidautoshipping.com\/assets\/images\/Untitled-1-Recovered.png"
-              }
-            },
-            {
-              "@type": "Product",
-              "@id": "https:\/\/www.rapidautoshipping.com\/#product",
-              "name": "El Paso to San Antonio Auto Transport | Rapid Auto Shipping",
-              "alternateName": "Seattle to Honolulu Auto Transport",
-              "description": "Car carriers have to charge significantly more in order to turn a profit since an enclosed El Paso to San Antonio auto transport trailer limits the number of vehicles that can be transported.",
-              "brand": {
-                "@id": "https:\/\/www.rapidautoshipping.com\/"
-              },
-              "mainEntityOfPage": {
-                "@id": "https:\/\/www.rapidautoshipping.com\/#webpage"
-              },
-              "aggregateRating": {
-                "@type": "AggregateRating",
-                "@id": "https:\/\/rapidautoshipping.com\/#aggregateRating",
-                "ratingValue": 4.8,
-                "ratingCount": 545,
-                "worstRating": 1,
-                "bestRating": 5
-              }
-            },
-            {
-              "@type": "Service",
-              "serviceType": "El Paso to San Antonio Auto Transport | Rapid Auto Shipping",
-              "alternateName": "El Paso to San Antonio Auto Transport",
-             
-            }
-            {
-              "@type": "BreadcrumbList",
-              "itemListElement": [
-                {
-                  "@type": "ListItem",
-                  "position": 1,
-                  "name": "Services",
-                  "item": "https:\/\/www.rapidautoshipping.com\/services\/"
-                }
-              ]
-            },
-            
-          ]
-        }
-        </script>
-        
+<body>     
    <h1>Seattle to Honolulu Auto Transport</h1>
    <span style="font-weight: 400;">Rapid Auto Shipping has all of your domestic vehicle shipping needs covered if you're wondering how to move a car from Texas to Texas! When it comes to automobile transportation, our experience and quality of service are unrivaled. Rapid Auto Shipping focuses on making it simple for you to transport an automobile from El Paso to San Antonio, and you can rest certain that your vehicle is in good hands.</span>
 <h2><b>What to Expect When Shipping A Car from El Paso to San Antonio Auto Transport?</b></h2>

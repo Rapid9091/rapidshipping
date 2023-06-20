@@ -18,102 +18,98 @@
 <meta name="keywords" content="Tampa to Jacksonville Auto Transport" />
 <meta property="article:tag" content="Tampa to Jacksonville Auto Transport" />
 
-</head>  
 <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "@id": "https://rapidautoshipping.com/#website",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.rapidautoshipping.com/search?keywords={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.rapidautoshipping.com/#organization",
+  "name": "Rapid Auto Shipping",
+  "legalName": "Rapid Auto Shipping",
+  "alternateName": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "founder": "Johny Taylor",
+  "foundingDate": "2016",
+  "sameAs": [
+    "https://www.rapidautoshipping.com",
+    "https://twitter.com/ShippingRapid",
+    "https://www.facebook.com/Rapidautoshipping",
+    "https://www.youtube.com/@rapidautoshipping7218",
+    "https://www.instagram.com/rapidautoshipping/",
+    "https://www.linkedin.com/company/rapid-auto-shipping",
+    "https://www.trustpilot.com/review/rapidautoshipping.com",
+    "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
+    "https://www.provenexpert.com/en-us/rapid-auto-shipping"
+  ],
+  "description": "Rapid Auto Shipping makes shipping your car, truck, or other vehicles from Tampa to Jacksonville auto transport safer, easier, and faster than ever. Our long-distance automobile transportation expertise spans decades.",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://www.rapidautoshipping.com/#product",
+  "name": "Tampa to Jacksonville Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Tampa to Jacksonville Auto Transport",
+  "description": "Rapid Auto Shipping makes shipping your car, truck, or other vehicles from Tampa to Jacksonville auto transport safer, easier, and faster than ever. Our long-distance automobile transportation expertise spans decades.",
+  "brand": {
+    "@type": "Organization",
+    "@id": "https://www.rapidautoshipping.com/#organization"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.rapidautoshipping.com/#webpage"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "@id": "https://rapidautoshipping.com/#aggregateRating",
+    "ratingValue": 4.8,
+    "ratingCount": 545,
+    "worstRating": 1,
+    "bestRating": 5
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Tampa to Jacksonville Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Tampa to Jacksonville Auto Transport"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
     {
-      "@context": "https:\/\/schema.org",
-      "@graph": [
-        {
-          "@type": "WebSite",
-          "name": "Rapid Auto Shipping",
-          "url": "https:\/\/www.rapidautoshipping.com\/",
-          "@id": "https:\/\/rapidautoshipping.com\/#website",
-          "potentialAction": [
-            {
-              "@type": "SearchAction",
-              "query-input": "required name=search_term_string",
-              "target": {
-                "@type": "EntryPoint",
-                "urlTemplate": "https:\/\/www.rapidautoshipping.com\/search?keywords={search_term_string}"
-              }
-            }
-          ]
-        },
-        {
-          "@type": "WebPage",
-          "@id": "https:\/\/www.rapidautoshipping.com\/#webpage",
-          "url": "https:\/\/www.rapidautoshipping.com\/",
-          "name": "Rapid Auto Shipping"
-        },
-        {
-          "@type": "Organization",
-          "name": "Rapid Auto Shipping",
-          "legalName": "Rapid Auto Shipping",
-          "alternateName": "Rapid Auto Shipping",
-          "url": "https:\/\/www.rapidautoshipping.com\/",
-          "@id": "https:\/\/www.rapidautoshipping.com\/",
-          "founder": "Johny Taylor",
-          "foundingDate": "2016",
-          "sameAs": [
-            "https:\/\/www.rapidautoshipping.com",
-            "https:\/\/twitter.com\/ShippingRapid",
-            "https:\/\/www.facebook.com\/Rapidautoshipping",
-            "https:\/\/www.youtube.com\/@rapidautoshipping7218",
-            "https:\/\/www.instagram.com\/rapidautoshipping\/",
-            "https:\/\/www.linkedin.com\/company\/rapid-auto-shipping",
-            "https:\/\/www.trustpilot.com\/review\/rapidautoshipping.com",
-            "https://www.transportreviews.com\/Company\/Rapid-Auto-Shipping",
-            "https://www.provenexpert.com\/en-us\/rapid-auto-shipping"
-          ],
-          "description": "Rapid Auto Shipping makes shipping your car, truck, or other vehicles from Tampa to Jacksonville auto transport safer, easier, and faster than ever. Our long-distance automobile transportation expertise spans decades.",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "https:\/\/rapidautoshipping.com\/assets\/images\/Untitled-1-Recovered.png"
-          }
-        },
-        {
-          "@type": "Product",
-          "@id": "https:\/\/www.rapidautoshipping.com\/#product",
-          "name": "Tampa to Jacksonville Auto Transport | Rapid Auto Shipping",
-          "alternateName": "Tampa to Jacksonville Auto Transport ",
-          "description": "Rapid Auto Shipping makes shipping your car, truck, or other vehicles from Tampa to Jacksonville auto transport safer, easier, and faster than ever. Our long-distance automobile transportation expertise spans decades.",
-          "brand": {
-            "@id": "https:\/\/www.rapidautoshipping.com\/"
-          },
-          "mainEntityOfPage": {
-            "@id": "https:\/\/www.rapidautoshipping.com\/#webpage"
-          },
-          "aggregateRating": {
-            "@type": "AggregateRating",
-            "@id": "https:\/\/rapidautoshipping.com\/#aggregateRating",
-            "ratingValue": 4.8,
-            "ratingCount": 545,
-            "worstRating": 1,
-            "bestRating": 5
-          }
-        },
-        {
-          "@type": "Service",
-          "serviceType": "Tampa to Jacksonville Auto Transport | Rapid Auto Shipping1",
-          "alternateName": "Tampa to Jacksonville Auto Transport",
-          
-        }
-        {
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Services",
-              "item": "https:\/\/www.rapidautoshipping.com\/services\/"
-            }
-          ]
-        },
-        
-      ]
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Services",
+      "item": "https://www.rapidautoshipping.com/services/"
     }
-    </script>
-    
+  ]
+}
+</script>
+</head>  
 <body>   
    <h1>Tampa to Jacksonville Auto Transport</h1>
    <span style="font-weight: 400;">Rapid Auto Shipping makes shipping your car, truck, or other vehicles from Tampa to Jacksonville auto transport safer, easier, and faster than ever. Our long-distance automobile transportation expertise spans decades.</span>

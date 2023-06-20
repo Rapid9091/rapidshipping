@@ -18,104 +18,99 @@
 <meta name="keywords" content="Denver to Houston Auto Transport" />
 <meta property="article:tag" content="Denver to Houston Auto Transport" />
 
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "@id": "https://rapidautoshipping.com/#website",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.rapidautoshipping.com/search?keywords={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.rapidautoshipping.com/#organization",
+  "name": "Rapid Auto Shipping",
+  "legalName": "Rapid Auto Shipping",
+  "alternateName": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "founder": "Johny Taylor",
+  "foundingDate": "2016",
+  "sameAs": [
+    "https://www.rapidautoshipping.com",
+    "https://twitter.com/ShippingRapid",
+    "https://www.facebook.com/Rapidautoshipping",
+    "https://www.youtube.com/@rapidautoshipping7218",
+    "https://www.instagram.com/rapidautoshipping/",
+    "https://www.linkedin.com/company/rapid-auto-shipping",
+    "https://www.trustpilot.com/review/rapidautoshipping.com",
+    "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
+    "https://www.provenexpert.com/en-us/rapid-auto-shipping"
+  ],
+  "description": "Are you considering using to relocate from Denver to Houston auto transport services? Rapid Auto Shipping offers efficient and hassle-free car shipping services that are both cost-effective and convenient.",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://www.rapidautoshipping.com/#product",
+  "name": "Denver to Houston Auto Transport  | Rapid Auto Shipping",
+  "alternateName": "Denver to Houston Auto Transport ",
+  "description": "Are you considering using to relocate from Denver to Houston auto transport services? Rapid Auto Shipping offers efficient and hassle-free car shipping services that are both cost-effective and convenient.",
+  "brand": {
+    "@type": "Organization",
+    "@id": "https://www.rapidautoshipping.com/#organization"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.rapidautoshipping.com/#webpage"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "@id": "https://rapidautoshipping.com/#aggregateRating",
+    "ratingValue": 4.8,
+    "ratingCount": 545,
+    "worstRating": 1,
+    "bestRating": 5
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Miami to Jacksonville Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Miami to Jacksonville Auto Transport"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Services",
+      "item": "https://www.rapidautoshipping.com/services/"
+    }
+  ]
+}
+</script>
 </head>
-<body>   
-   <script type="application/ld+json">
-        {
-          "@context": "https:\/\/schema.org",
-          "@graph": [
-            {
-              "@type": "WebSite",
-              "name": "Rapid Auto Shipping",
-              "url": "https:\/\/www.rapidautoshipping.com\/",
-              "@id": "https:\/\/rapidautoshipping.com\/#website",
-              "potentialAction": [
-                {
-                  "@type": "SearchAction",
-                  "query-input": "required name=search_term_string",
-                  "target": {
-                    "@type": "EntryPoint",
-                    "urlTemplate": "https:\/\/www.rapidautoshipping.com\/search?keywords={search_term_string}"
-                  }
-                }
-              ]
-            },
-            {
-              "@type": "WebPage",
-              "@id": "https:\/\/www.rapidautoshipping.com\/#webpage",
-              "url": "https:\/\/www.rapidautoshipping.com\/",
-              "name": "Rapid Auto Shipping"
-            },
-            {
-              "@type": "Organization",
-              "name": "Rapid Auto Shipping",
-              "legalName": "Rapid Auto Shipping",
-              "alternateName": "Rapid Auto Shipping",
-              "url": "https:\/\/www.rapidautoshipping.com\/",
-              "@id": "https:\/\/www.rapidautoshipping.com\/",
-              "founder": "Johny Taylor",
-              "foundingDate": "2016",
-              "sameAs": [
-                "https:\/\/www.rapidautoshipping.com",
-                "https:\/\/twitter.com\/ShippingRapid",
-                "https:\/\/www.facebook.com\/Rapidautoshipping",
-                "https:\/\/www.youtube.com\/@rapidautoshipping7218",
-                "https:\/\/www.instagram.com\/rapidautoshipping\/",
-                "https:\/\/www.linkedin.com\/company\/rapid-auto-shipping",
-                "https:\/\/www.trustpilot.com\/review\/rapidautoshipping.com",
-                "https://www.transportreviews.com\/Company\/Rapid-Auto-Shipping",
-                "https://www.provenexpert.com\/en-us\/rapid-auto-shipping"
-              ],
-              "description": "Are you considering using to relocate from Denver to Houston auto transport services? Rapid Auto Shipping offers efficient and hassle-free car shipping services that are both cost-effective and convenient.",
-              "logo": {
-                "@type": "ImageObject",
-                "url": "https:\/\/rapidautoshipping.com\/assets\/images\/Untitled-1-Recovered.png"
-              }
-            },
-            {
-              "@type": "Product",
-              "@id": "https:\/\/www.rapidautoshipping.com\/#product",
-              "name": "Denver to Houston Auto Transport | Rapid Auto Shipping",
-              "alternateName": "Denver to Houston Auto Transport",
-              "description": "Are you considering using to relocate from Denver to Houston auto transport services? Rapid Auto Shipping offers efficient and hassle-free car shipping services that are both cost-effective and convenient.",
-              "brand": {
-                "@id": "https:\/\/www.rapidautoshipping.com\/"
-              },
-              "mainEntityOfPage": {
-                "@id": "https:\/\/www.rapidautoshipping.com\/#webpage"
-              },
-              "aggregateRating": {
-                "@type": "AggregateRating",
-                "@id": "https:\/\/rapidautoshipping.com\/#aggregateRating",
-                "ratingValue": 4.8,
-                "ratingCount": 545,
-                "worstRating": 1,
-                "bestRating": 5
-              }
-            },
-            {
-              "@type": "Service",
-              "serviceType": "Denver to Houston Auto Transport | Rapid Auto Shipping",
-              "alternateName": "Denver to Houston Auto Transport ",
-              "content": "<p>Your code goes here<\/p>"
-            }
-            {
-              "@type": "BreadcrumbList",
-              "itemListElement": [
-                {
-                  "@type": "ListItem",
-                  "position": 1,
-                  "name": "Services",
-                  "item": "https:\/\/www.rapidautoshipping.com\/services\/"
-                }
-              ]
-            },
-            
-          ]
-        }
-        </script>
-        
+<body> 
    <h1>Denver to Houston Auto Transport</h1>
    Are you considering using to relocate from Denver to Houston auto transport services? Rapid Auto Shipping offers efficient and hassle-free car shipping services that are both cost-effective and convenient. Our team of professionals can ensure a seamless move from one state to another, and we'll be available to assist you throughout the entire process.
 <h2><strong>How Does Denver to Houston Auto Transport Work?</strong></h2>

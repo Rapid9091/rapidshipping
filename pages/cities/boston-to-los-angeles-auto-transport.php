@@ -18,104 +18,99 @@
 <meta name="keywords" content="Boston to Los Angeles Auto Transport" />
 <meta property="article:tag" content="Boston to Los Angeles Auto Transport" />
 
-
-</head>
-<body>
 <script type="application/ld+json">
 {
-  "@context": "https:\/\/schema.org",
-  "@graph": [
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "@id": "https://rapidautoshipping.com/#website",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.rapidautoshipping.com/search?keywords={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.rapidautoshipping.com/#organization",
+  "name": "Rapid Auto Shipping",
+  "legalName": "Rapid Auto Shipping",
+  "alternateName": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "founder": "Johny Taylor",
+  "foundingDate": "2016",
+  "sameAs": [
+    "https://www.rapidautoshipping.com",
+    "https://twitter.com/ShippingRapid",
+    "https://www.facebook.com/Rapidautoshipping",
+    "https://www.youtube.com/@rapidautoshipping7218",
+    "https://www.instagram.com/rapidautoshipping/",
+    "https://www.linkedin.com/company/rapid-auto-shipping",
+    "https://www.trustpilot.com/review/rapidautoshipping.com",
+    "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
+    "https://www.provenexpert.com/en-us/rapid-auto-shipping"
+  ],
+  "description": "Are you in search of from Boston to Los Angeles auto transport services? The process of obtaining the best rate from Boston to Los Angeles auto transport service.",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://www.rapidautoshipping.com/#product",
+  "name": "Boston to Los Angeles Auto Transport  | Rapid Auto Shipping",
+  "alternateName": "Boston to Los Angeles Auto Transport ",
+  "description": "Are you in search of from Boston to Los Angeles auto transport services? The process of obtaining the best rate from Boston to Los Angeles auto transport service.",
+  "brand": {
+    "@type": "Organization",
+    "@id": "https://www.rapidautoshipping.com/#organization"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.rapidautoshipping.com/#webpage"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "@id": "https://rapidautoshipping.com/#aggregateRating",
+    "ratingValue": 4.8,
+    "ratingCount": 545,
+    "worstRating": 1,
+    "bestRating": 5
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Boston to Los Angeles Auto Transport  | Rapid Auto Shipping",
+  "alternateName": "Boston to Los Angeles Auto Transport "
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
     {
-      "@type": "WebSite",
-      "name": "Rapid Auto Shipping",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
-      "@id": "https:\/\/rapidautoshipping.com\/#website",
-      "potentialAction": [
-        {
-          "@type": "SearchAction",
-          "query-input": "required name=search_term_string",
-          "target": {
-            "@type": "EntryPoint",
-            "urlTemplate": "https:\/\/www.rapidautoshipping.com\/search?keywords={search_term_string}"
-          }
-        }
-      ]
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https:\/\/www.rapidautoshipping.com\/#webpage",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
-      "name": "Rapid Auto Shipping"
-    },
-    {
-      "@type": "Organization",
-      "name": "Rapid Auto Shipping",
-      "legalName": "Rapid Auto Shipping",
-      "alternateName": "Rapid Auto Shipping",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
-      "@id": "https:\/\/www.rapidautoshipping.com\/",
-      "founder": "Johny Taylor",
-      "foundingDate": "2016",
-      "sameAs": [
-        "https:\/\/www.rapidautoshipping.com",
-        "https:\/\/twitter.com\/ShippingRapid",
-        "https:\/\/www.facebook.com\/Rapidautoshipping",
-        "https:\/\/www.youtube.com\/@rapidautoshipping7218",
-        "https:\/\/www.instagram.com\/rapidautoshipping\/",
-        "https:\/\/www.linkedin.com\/company\/rapid-auto-shipping",
-        "https:\/\/www.trustpilot.com\/review\/rapidautoshipping.com",
-        "https://www.transportreviews.com\/Company\/Rapid-Auto-Shipping",
-        "https://www.provenexpert.com\/en-us\/rapid-auto-shipping"
-      ],
-      "description": "Are you in search of from Boston to Los Angeles auto transport services? The process of obtaining the best rate from Boston to Los Angeles auto transport service.",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https:\/\/rapidautoshipping.com\/assets\/images\/Untitled-1-Recovered.png"
-      }
-    },
-    {
-      "@type": "Product",
-      "@id": "https:\/\/www.rapidautoshipping.com\/#product",
-      "name": "Boston to Los Angeles Auto Transport  |  Rapid Auto Shipping",
-      "alternateName": "Boston to Los Angeles Auto Transport ",
-      "description": "Are you in search of from Boston to Los Angeles auto transport services? The process of obtaining the best rate from Boston to Los Angeles auto transport service.",
-      "brand": {
-        "@id": "https:\/\/www.rapidautoshipping.com\/"
-      },
-      "mainEntityOfPage": {
-        "@id": "https:\/\/www.rapidautoshipping.com\/#webpage"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "@id": "https:\/\/rapidautoshipping.com\/#aggregateRating",
-        "ratingValue": 4.8,
-        "ratingCount": 545,
-        "worstRating": 1,
-        "bestRating": 5
-      }
-    },
-    {
-      "@type": "Service",
-      "serviceType": "Boston to Los Angeles Auto Transport  |  Rapid Auto Shipping1",
-      "alternateName": "Boston to Los Angeles Auto Transport ",
-      "content": "<p>Your code goes here<\/p>"
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Services",
+      "item": "https://www.rapidautoshipping.com/services/"
     }
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Services",
-          "item": "https:\/\/www.rapidautoshipping.com\/services\/"
-        }
-      ]
-    },
-    
   ]
 }
 </script>
-
+</head>
+<body>
    <h1>Boston to Los Angeles Auto Transport </h1>
    Are you in search of from Boston to Los Angeles auto transport services? The process of obtaining the best rate from Boston to Los Angeles auto transport service can be initiated by simply making a phone call to our company. We assure you of our commitment to providing top-notch service and competitive pricing.
 <h2><strong>How Does the Procedure Operate?| Boston to Los Angeles Auto Transport</strong></h2>

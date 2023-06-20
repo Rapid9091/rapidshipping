@@ -18,102 +18,98 @@
 <meta name="keywords" content="Las Vegas to Hawaii Auto Transport" />
 <meta property="article:tag" content="Las Vegas to Hawaii Auto Transport" />
 
-</head>
 <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "@id": "https://rapidautoshipping.com/#website",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.rapidautoshipping.com/search?keywords={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.rapidautoshipping.com/#organization",
+  "name": "Rapid Auto Shipping",
+  "legalName": "Rapid Auto Shipping",
+  "alternateName": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "founder": "Johny Taylor",
+  "foundingDate": "2016",
+  "sameAs": [
+    "https://www.rapidautoshipping.com",
+    "https://twitter.com/ShippingRapid",
+    "https://www.facebook.com/Rapidautoshipping",
+    "https://www.youtube.com/@rapidautoshipping7218",
+    "https://www.instagram.com/rapidautoshipping/",
+    "https://www.linkedin.com/company/rapid-auto-shipping",
+    "https://www.trustpilot.com/review/rapidautoshipping.com",
+    "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
+    "https://www.provenexpert.com/en-us/rapid-auto-shipping"
+  ],
+  "description": "When shipping a vehicle from Las Vegas to Hawaii auto transport, the distance between the two states might be difficult to estimate depending on which cities serve as the collection and delivery points.",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://www.rapidautoshipping.com/#product",
+  "name": "Las Vegas to Hawaii Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Las Vegas to Hawaii Auto Transport",
+  "description": "When shipping a vehicle from Las Vegas to Hawaii auto transport, the distance between the two states might be difficult to estimate depending on which cities serve as the collection and delivery points.",
+  "brand": {
+    "@type": "Organization",
+    "@id": "https://www.rapidautoshipping.com/#organization"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.rapidautoshipping.com/#webpage"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "@id": "https://rapidautoshipping.com/#aggregateRating",
+    "ratingValue": 4.8,
+    "ratingCount": 545,
+    "worstRating": 1,
+    "bestRating": 5
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Las Vegas to Hawaii Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Las Vegas to Hawaii Auto Transport"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
     {
-      "@context": "https:\/\/schema.org",
-      "@graph": [
-        {
-          "@type": "WebSite",
-          "name": "Rapid Auto Shipping",
-          "url": "https:\/\/www.rapidautoshipping.com\/",
-          "@id": "https:\/\/rapidautoshipping.com\/#website",
-          "potentialAction": [
-            {
-              "@type": "SearchAction",
-              "query-input": "required name=search_term_string",
-              "target": {
-                "@type": "EntryPoint",
-                "urlTemplate": "https:\/\/www.rapidautoshipping.com\/search?keywords={search_term_string}"
-              }
-            }
-          ]
-        },
-        {
-          "@type": "WebPage",
-          "@id": "https:\/\/www.rapidautoshipping.com\/#webpage",
-          "url": "https:\/\/www.rapidautoshipping.com\/",
-          "name": "Rapid Auto Shipping"
-        },
-        {
-          "@type": "Organization",
-          "name": "Rapid Auto Shipping",
-          "legalName": "Rapid Auto Shipping",
-          "alternateName": "Rapid Auto Shipping",
-          "url": "https:\/\/www.rapidautoshipping.com\/",
-          "@id": "https:\/\/www.rapidautoshipping.com\/",
-          "founder": "Johny Taylor",
-          "foundingDate": "2016",
-          "sameAs": [
-            "https:\/\/www.rapidautoshipping.com",
-            "https:\/\/twitter.com\/ShippingRapid",
-            "https:\/\/www.facebook.com\/Rapidautoshipping",
-            "https:\/\/www.youtube.com\/@rapidautoshipping7218",
-            "https:\/\/www.instagram.com\/rapidautoshipping\/",
-            "https:\/\/www.linkedin.com\/company\/rapid-auto-shipping",
-            "https:\/\/www.trustpilot.com\/review\/rapidautoshipping.com",
-            "https://www.transportreviews.com\/Company\/Rapid-Auto-Shipping",
-            "https://www.provenexpert.com\/en-us\/rapid-auto-shipping"
-          ],
-          "description": "When shipping a vehicle from Las Vegas to Hawaii auto transport, the distance between the two states might be difficult to estimate depending on which cities serve as the collection and delivery points.",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "https:\/\/rapidautoshipping.com\/assets\/images\/Untitled-1-Recovered.png"
-          }
-        },
-        {
-          "@type": "Product",
-          "@id": "https:\/\/www.rapidautoshipping.com\/#product",
-          "name": "Las Vegas to Hawaii Auto Transport | Rapid Auto Shipping",
-          "alternateName": Las Vegas to Hawaii Auto Transport ",
-          "description": "When shipping a vehicle from Las Vegas to Hawaii auto transport, the distance between the two states might be difficult to estimate depending on which cities serve as the collection and delivery points.",
-          "brand": {
-            "@id": "https:\/\/www.rapidautoshipping.com\/"
-          },
-          "mainEntityOfPage": {
-            "@id": "https:\/\/www.rapidautoshipping.com\/#webpage"
-          },
-          "aggregateRating": {
-            "@type": "AggregateRating",
-            "@id": "https:\/\/rapidautoshipping.com\/#aggregateRating",
-            "ratingValue": 4.8,
-            "ratingCount": 545,
-            "worstRating": 1,
-            "bestRating": 5
-          }
-        },
-        {
-          "@type": "Service",
-          "serviceType": "Las Vegas to Hawaii Auto Transport | Rapid Auto Shipping1",
-          "alternateName": "Las Vegas to Hawaii Auto Transport ",
-        }
-          
-        {
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Services",
-              "item": "https:\/\/www.rapidautoshipping.com\/services\/"
-            }
-          ]
-        },
-        
-      ]
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Services",
+      "item": "https://www.rapidautoshipping.com/services/"
     }
-    </script>
-    
+  ]
+}
+</script>
+</head> 
 <body>   
    <h1>Professionals in Las Vegas to Hawaii Auto Transport</h1>
    <span style="font-weight: 400;">When you need to transport a vehicle from Las Vegas to Hawaii, you should work with auto shipping professionals whom you can trust. We can provide you with a method of shipping a car from Las Vegas to Hawaii that is both trustworthy and secure due to our sophisticated countrywide network of about 25,000 open and covered vehicle movers</span>

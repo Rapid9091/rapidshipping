@@ -18,105 +18,101 @@
 <meta name="keywords" content="San Diego to Hawaii Auto Transport" />
 <meta property="article:tag" content="San Diego to Hawaii Auto Transport" />
 
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "@id": "https://rapidautoshipping.com/#website",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.rapidautoshipping.com/search?keywords={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.rapidautoshipping.com/#organization",
+  "name": "Rapid Auto Shipping",
+  "legalName": "Rapid Auto Shipping",
+  "alternateName": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "founder": "Johny Taylor",
+  "foundingDate": "2016",
+  "sameAs": [
+    "https://www.rapidautoshipping.com",
+    "https://twitter.com/ShippingRapid",
+    "https://www.facebook.com/Rapidautoshipping",
+    "https://www.youtube.com/@rapidautoshipping7218",
+    "https://www.instagram.com/rapidautoshipping/",
+    "https://www.linkedin.com/company/rapid-auto-shipping",
+    "https://www.trustpilot.com/review/rapidautoshipping.com",
+    "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
+    "https://www.provenexpert.com/en-us/rapid-auto-shipping"
+  ],
+  "description": "When you ship your car, truck, or other vehicles from San Diego to Hawaii Auto Transport with Rapid Auto Shipping, it's safer, easier, and faster.",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://www.rapidautoshipping.com/#product",
+  "name": "San Diego to Hawaii Auto Transport  | Rapid Auto Shipping",
+  "alternateName": "San Diego to Hawaii Auto Transport ",
+  "description": "When you ship your car, truck, or other vehicles from San Diego to Hawaii Auto Transport with Rapid Auto Shipping, it's safer, easier, and faster.",
+  "brand": {
+    "@type": "Organization",
+    "@id": "https://www.rapidautoshipping.com/#organization"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.rapidautoshipping.com/#webpage"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "@id": "https://rapidautoshipping.com/#aggregateRating",
+    "ratingValue": 4.8,
+    "ratingCount": 545,
+    "worstRating": 1,
+    "bestRating": 5
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "San Diego to Hawaii Auto Transport  | Rapid Auto Shipping",
+  "alternateName": "San Diego to Hawaii Auto Transport "
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Services",
+      "item": "https://www.rapidautoshipping.com/services/"
+    }
+  ]
+}
+</script>
 
 </head>
 <body>  
-    <script type="application/ld+json">
-        {
-          "@context": "https:\/\/schema.org",
-          "@graph": [
-            {
-              "@type": "WebSite",
-              "name": "Rapid Auto Shipping",
-              "url": "https:\/\/www.rapidautoshipping.com\/",
-              "@id": "https:\/\/rapidautoshipping.com\/#website",
-              "potentialAction": [
-                {
-                  "@type": "SearchAction",
-                  "query-input": "required name=search_term_string",
-                  "target": {
-                    "@type": "EntryPoint",
-                    "urlTemplate": "https:\/\/www.rapidautoshipping.com\/search?keywords={search_term_string}"
-                  }
-                }
-              ]
-            },
-            {
-              "@type": "WebPage",
-              "@id": "https:\/\/www.rapidautoshipping.com\/#webpage",
-              "url": "https:\/\/www.rapidautoshipping.com\/",
-              "name": "Rapid Auto Shipping"
-            },
-            {
-              "@type": "Organization",
-              "name": "Rapid Auto Shipping",
-              "legalName": "Rapid Auto Shipping",
-              "alternateName": "Rapid Auto Shipping",
-              "url": "https:\/\/www.rapidautoshipping.com\/",
-              "@id": "https:\/\/www.rapidautoshipping.com\/",
-              "founder": "Johny Taylor",
-              "foundingDate": "2016",
-              "sameAs": [
-                "https:\/\/www.rapidautoshipping.com",
-                "https:\/\/twitter.com\/ShippingRapid",
-                "https:\/\/www.facebook.com\/Rapidautoshipping",
-                "https:\/\/www.youtube.com\/@rapidautoshipping7218",
-                "https:\/\/www.instagram.com\/rapidautoshipping\/",
-                "https:\/\/www.linkedin.com\/company\/rapid-auto-shipping",
-                "https:\/\/www.trustpilot.com\/review\/rapidautoshipping.com",
-                "https://www.transportreviews.com\/Company\/Rapid-Auto-Shipping",
-                "https://www.provenexpert.com\/en-us\/rapid-auto-shipping"
-              ],
-              "description": "When you ship your car, truck, or other vehicles from San Diego to Hawaii Auto Transport with Rapid Auto Shipping, it's safer, easier, and faster.",
-              "logo": {
-                "@type": "ImageObject",
-                "url": "https:\/\/rapidautoshipping.com\/assets\/images\/Untitled-1-Recovered.png"
-              }
-            },
-            {
-              "@type": "Product",
-              "@id": "https:\/\/www.rapidautoshipping.com\/#product",
-              "name": "San Diego to Hawaii Auto Transport | Rapid Auto Shipping",
-              "alternateName": "San Diego to Hawaii Auto Transport | Rapid Auto Shipping",
-              "description": "When you ship your car, truck, or other vehicles from San Diego to Hawaii Auto Transport with Rapid Auto Shipping, it's safer, easier, and faster..",
-              "brand": {
-                "@id": "https:\/\/www.rapidautoshipping.com\/"
-              },
-              "mainEntityOfPage": {
-                "@id": "https:\/\/www.rapidautoshipping.com\/#webpage"
-              },
-              "aggregateRating": {
-                "@type": "AggregateRating",
-                "@id": "https:\/\/rapidautoshipping.com\/#aggregateRating",
-                "ratingValue": 4.8,
-                "ratingCount": 545,
-                "worstRating": 1,
-                "bestRating": 5
-              }
-            },
-            {
-              "@type": "Service",
-              "serviceType": "San Diego to Hawaii Auto Transport | Rapid Auto Shipping 1",
-              "alternateName": "San Diego to Hawaii Auto Transport ",
-             
-            }
-            {
-              "@type": "BreadcrumbList",
-              "itemListElement": [
-                {
-                  "@type": "ListItem",
-                  "position": 1,
-                  "name": "Services",
-                  "item": "https:\/\/www.rapidautoshipping.com\/services\/"
-                }
-              ]
-            },
-            
-          ]
-        }
-        </script>
-        
+      
    <h1>San Diego to Hawaii Auto Transport With Rapid Auto Shipping</h1>
    <span style="font-weight: 400;">When you ship your car, truck, or other vehicles from San Diego to Hawaii Auto Transport with Rapid Auto Shipping, it's safer, easier, and faster. We've shipped vehicles long distances for decades. Enclosed auto carriers, open carriers, and flatbed trucks keep your automobile safe and secure at affordable prices. </span>
 <h2><b>Factors That Most Affect The Cost of San Diego to Hawaii Auto Transport</b></h2>

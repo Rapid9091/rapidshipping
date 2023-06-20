@@ -25,104 +25,100 @@
 <meta name="keywords" content="Philadelphia to Orlando Auto Transport" />
 <meta property="article:tag" content="Philadelphia to Orlando Auto Transport" />
 
-</head>
-<body>  
 <script type="application/ld+json">
 {
-  "@context": "https:\/\/schema.org",
-  "@graph": [
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "@id": "https://rapidautoshipping.com/#website",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.rapidautoshipping.com/search?keywords={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.rapidautoshipping.com/#organization",
+  "name": "Rapid Auto Shipping",
+  "legalName": "Rapid Auto Shipping",
+  "alternateName": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "founder": "Johny Taylor",
+  "foundingDate": "2016",
+  "sameAs": [
+    "https://www.rapidautoshipping.com",
+    "https://twitter.com/ShippingRapid",
+    "https://www.facebook.com/Rapidautoshipping",
+    "https://www.youtube.com/@rapidautoshipping7218",
+    "https://www.instagram.com/rapidautoshipping/",
+    "https://www.linkedin.com/company/rapid-auto-shipping",
+    "https://www.trustpilot.com/review/rapidautoshipping.com",
+    "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
+    "https://www.provenexpert.com/en-us/rapid-auto-shipping"
+  ],
+  "description": "Rapid Auto Shipping is a highly experienced provider from Philadelphia to Orlando auto transport services. Our team is fully prepared and capable of providing exceptional auto transport from Philadelphia to Orlando.",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://www.rapidautoshipping.com/#product",
+  "name": "Philadelphia to Orlando Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Philadelphia to Orlando Auto Transport",
+  "description": "Rapid Auto Shipping is a highly experienced provider from Philadelphia to Orlando auto transport services. Our team is fully prepared and capable of providing exceptional auto transport from Philadelphia to Orlando."",
+  "brand": {
+    "@type": "Organization",
+    "@id": "https://www.rapidautoshipping.com/#organization"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.rapidautoshipping.com/#webpage"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "@id": "https://rapidautoshipping.com/#aggregateRating",
+    "ratingValue": 4.8,
+    "ratingCount": 545,
+    "worstRating": 1,
+    "bestRating": 5
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Philadelphia to Orlando Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Philadelphia to Orlando Auto Transport"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
     {
-      "@type": "WebSite",
-      "name": "Rapid Auto Shipping",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
-      "@id": "https:\/\/rapidautoshipping.com\/#website",
-      "potentialAction": [
-        {
-          "@type": "SearchAction",
-          "query-input": "required name=search_term_string",
-          "target": {
-            "@type": "EntryPoint",
-            "urlTemplate": "https:\/\/www.rapidautoshipping.com\/search?keywords={search_term_string}"
-          }
-        }
-      ]
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https:\/\/www.rapidautoshipping.com\/#webpage",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
-      "name": "Rapid Auto Shipping"
-    },
-    {
-      "@type": "Organization",
-      "name": "Rapid Auto Shipping",
-      "legalName": "Rapid Auto Shipping",
-      "alternateName": "Rapid Auto Shipping",
-      "url": "https:\/\/www.rapidautoshipping.com\/",
-      "@id": "https:\/\/www.rapidautoshipping.com\/",
-      "founder": "Johny Taylor",
-      "foundingDate": "2016",
-      "sameAs": [
-        "https:\/\/www.rapidautoshipping.com",
-        "https:\/\/twitter.com\/ShippingRapid",
-        "https:\/\/www.facebook.com\/Rapidautoshipping",
-        "https:\/\/www.youtube.com\/@rapidautoshipping7218",
-        "https:\/\/www.instagram.com\/rapidautoshipping\/",
-        "https:\/\/www.linkedin.com\/company\/rapid-auto-shipping",
-        "https:\/\/www.trustpilot.com\/review\/rapidautoshipping.com",
-        "https://www.transportreviews.com\/Company\/Rapid-Auto-Shipping",
-        "https://www.provenexpert.com\/en-us\/rapid-auto-shipping"
-      ],
-      "description": "Rapid Auto Shipping is a highly experienced provider from Philadelphia to Orlando auto transport services. Our team is fully prepared and capable of providing exceptional auto transport from Philadelphia to Orlando.",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https:\/\/rapidautoshipping.com\/assets\/images\/Untitled-1-Recovered.png"
-      }
-    },
-    {
-      "@type": "Product",
-      "@id": "https:\/\/www.rapidautoshipping.com\/#product",
-      "name": "Philadelphia to Orlando Auto Transport  | Rapid Auto Shipping",
-      "alternateName": "Philadelphia to Orlando Auto Transport ",
-      "description": "Rapid Auto Shipping is a highly experienced provider from Philadelphia to Orlando auto transport services. Our team is fully prepared and capable of providing exceptional auto transport from Philadelphia to Orlando.",
-      "brand": {
-        "@id": "https:\/\/www.rapidautoshipping.com\/"
-      },
-      "mainEntityOfPage": {
-        "@id": "https:\/\/www.rapidautoshipping.com\/#webpage"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "@id": "https:\/\/rapidautoshipping.com\/#aggregateRating",
-        "ratingValue": 4.8,
-        "ratingCount": 545,
-        "worstRating": 1,
-        "bestRating": 5
-      }
-    },
-    {
-      "@type": "Service",
-      "serviceType": "Philadelphia to Orlando Auto Transport  | Rapid Auto Shipping",
-      "alternateName": "Philadelphia to Orlando Auto Transport  ",
-      "content": "<p>Your code goes here<\/p>"
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Services",
-          "item": "https:\/\/www.rapidautoshipping.com\/services\/"
-        }
-      ]
-    },
-    
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Services",
+      "item": "https://www.rapidautoshipping.com/services/"
+    }
   ]
 }
 </script>
+</head>
+<body>  
 
- 
    <h1>Philadelphia to Orlando Auto Transport</h1>
    Rapid Auto Shipping is a highly experienced provider from Philadelphia to Orlando auto transport services. Our team is fully prepared and capable of providing exceptional auto transport services from Philadelphia to Orlando. Our auto shipping business has received high praise for successfully transporting cars from Philadelphia to Orlando. Obtain a prompt and complimentary estimate for transporting your vehicle from Philadelphia to Orlando.
 <h2><strong>How Does Philadelphia to Orlando Auto Transport Work?</strong></h2>
