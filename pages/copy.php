@@ -15,6 +15,9 @@
 
     <!-- <link rel="stylesheet" href="<?= get_css(); ?>Page_new.min.css" defer> -->
     <title>Service Copy Page</title>
+    <style>
+        #sideFrom{display: none;}
+    </style>
 
 </head>
 
