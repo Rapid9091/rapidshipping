@@ -940,7 +940,7 @@
             },
         });
     </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" ></script>
     <script async src="<?= get_js() ?>small_form_new.js"></script>
     <script asyns src="<?= get_js() ?>side_form_new.js"></script>
     
