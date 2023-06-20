@@ -430,7 +430,7 @@
             </div>
         </div>
     </div>
-    <div class="content-body " id="myDiv"> 
+    <div class="content-body " id="myDiv2"> 
         <div class="row content-body-row px-5">
             <div class="col-12 col-md-12 col-lg-8 p-5 content-body-text" id="contentContainer">
                 <div class="article_list">
@@ -1002,29 +1002,32 @@
 
     // Call the function for the desired element
     displayMaxChildElements('contentContainer');
-    function isElementInView(element) {
-  var rect = element.getBoundingClientRect();
 
-  // Check if any part of the element is visible
-  return (
-    rect.top >= 0 &&
-    rect.left >= 0 &&
-    rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
-    rect.right <= (window.innerWidth || document.documentElement.clientWidth)
-  );
+    function isInViewport(el) {
+    const rect = el.getBoundingClientRect();
+    return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+
+    );
 }
 
-// Usage:
-window.addEventListener('scroll', function() {
-  // Your code to be executed when scrolling happens
-//   console.log('Window scrolled!');
-  var myDiv = document.getElementById('myDiv');
-if (isElementInView(myDiv)) {
-  console.log('The div is in view!');
-} else {
-  console.log('The div is not in view!');
-}
+
+const box = document.querySelector('#myDiv2');
+
+document.addEventListener('scroll', function () {
+    const messageText = isInViewport(box) ?
+        console.log('The box is visible in the viewport') :
+        console.log('The box is not visible in the viewport');
+
+
+}, {
+    passive: true
 });
+
+ 
   </script>
   
 </body>
