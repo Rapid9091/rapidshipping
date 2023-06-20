@@ -144,7 +144,7 @@
     </div>
     <!-- End Header -->
     <div class="banner-section">
-        <img class="banner-section-img" width="100%" height="100%" loading="lazy" src="<?= get_img() ?>car-shipping-header-image1.webp" alt="Rapid Auto Shipping">
+        <img class="banner-section-img" width="100%" height="100%" src="<?= get_img() ?>car-shipping-header-image1.webp" alt="Rapid Auto Shipping">
         <div class="row banner-section-row p-5">
             <div class="col-md-12 col-lg-8 p-4 banner-section-row-col-1">
                 <div class="row p-2">
@@ -940,6 +940,7 @@
             },
         });
     </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" defer></script>
     <script async src="<?= get_js() ?>small_form_new.js"></script>
     <script asyns src="<?= get_js() ?>side_form_new.js"></script>
     
@@ -973,62 +974,25 @@
   })
 </script>
 <script>
-    // Function to display the maximum number of child elements in an element
-    function displayMaxChildElements(elementId) {
-      var container = document.getElementById(elementId);
-      var maxChildCount = 0;
-      var maxChildElement;
 
-      // Iterate through all child nodes and find the maximum count
-      for (var i = 0; i < container.childNodes.length; i++) {
-        var child = container.childNodes[i];
-        if (child.nodeType === 1) { // Filter out text nodes
-          var childCount = child.childElementCount || 0;
-          if (childCount > maxChildCount) {
-            maxChildCount = childCount;
-            maxChildElement = child;
-          }
-        }
-      }
+$.fn.isInViewport = function() {
+    var elementTop = $(this).offset().top;
+    var elementBottom = elementTop + $(this).outerHeight();
 
-      // Display the maximum child count
-      if (maxChildElement) {
-        console.log('Maximum Child Elements:', maxChildCount);
-        console.log('Element with Maximum Child Elements:', maxChildElement);
-      } else {
-        console.log('No child elements found.');
-      }
+    var viewportTop = $(window).scrollTop();
+    var viewportBottom = viewportTop + $(window).height();
+
+    return elementBottom > viewportTop && elementTop < viewportBottom;
+};
+
+$(window).on('resize scroll', function() {
+    if ($('#Something').isInViewport()) {
+        // do something
+    } else {
+        // do something else
     }
-
-    // Call the function for the desired element
-    displayMaxChildElements('contentContainer');
-
-    function isInViewport(el) {
-    const rect = el.getBoundingClientRect();
-    return (
-        rect.top >= 50 &&
-        rect.left >= 50 &&
-        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
-        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
-
-    );
-}
-
-
-const box = document.querySelector('#myDiv2');
-
-document.addEventListener('scroll', function () {
-    const messageText = isInViewport(box) ?
-        console.log('The box is visible in the viewport') :
-        console.log('The box is not visible in the viewport');
-
-
-}, {
-    passive: true
 });
-
- 
-  </script>
+</script>
   
 </body>
 
