@@ -16,7 +16,7 @@
     <!-- <link rel="stylesheet" href="<?= get_css(); ?>Page_new.min.css" defer> -->
     <title>Service Copy Page</title>
     <style>
-        #sideFrom{display: none;}
+        #sideFrombody{display: none;}
     </style>
 
 </head>
@@ -169,7 +169,7 @@
                 </div>
             </div>
             <div class="col-md-12 col-lg-4 p-4 d-grid justify-content-center" >
-                <div id="topForm"><?php include small_form_new; ?></div>
+                <div id="topForm"></div>
             </div>
         </div>
     </div>
@@ -570,7 +570,11 @@
             </div>
             <div class="col-12 col-md-12 col-lg-4 __side-form">
                 <div class="_side-form d-grid justify-content-center" >
-                    <div id="sideFrom"><?php //include side_form_new; ?></div>
+                    <div id="sideFrombody">
+                        <div class="sideFrom" id="sideFrom"></div>
+                        <div class="key-button mobile-key-call"><a href="tel:+"><button>+1 (833) 233-4447</button></a>
+                    </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -919,7 +923,7 @@
                 <a href="tel:+"><button>+1 (833) 233-4447</button></a>
      </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+    <script async src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
     <script>
         const swiper = new Swiper('.swiper', {
             // Optional parameters
@@ -943,9 +947,9 @@
             },
         });
     </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" ></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" ></script> -->
     <script async src="<?= get_js() ?>small_form_new.js"></script>
-    <script asyns src="<?= get_js() ?>side_form_new.js"></script>
+    <!-- <script asyns src="<?= get_js() ?>side_form_new.js"></script> -->
     
 <script>
   var textContainer = document.querySelector('.text-container-xyz');
@@ -992,10 +996,11 @@ $(window).on('resize scroll', function() {
     if ($('#myDiv2').isInViewport()) {
         $('#topForm').html('<?php include small_form_new; ?>');
         $('#sideFrom').html('');
+        $('#sideFrombody').hide();
     } else {
         $('#topForm').html('');
         $('#sideFrom').html('<?php include small_form_new; ?>');
-        $('#sideFrom').show();
+        $('#sideFrombody').show();
     }
 });
 </script>
