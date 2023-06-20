@@ -19,6 +19,8 @@
 <meta property="article:tag" content="Miami to Jacksonville Auto Transport" />
 
 </head>
+
+<body> 
 <script type="application/ld+json">
 {
   "@context": "https:\/\/schema.org",
@@ -74,8 +76,8 @@
     {
       "@type": "Product",
       "@id": "https:\/\/www.rapidautoshipping.com\/#product",
-      "name": "Miami to Jacksonville Auto Transport | Rapid Auto Shipping",
-      "alternateName": "Miami to Jacksonville Auto Transport ",
+      "name": Miami to Jacksonville Auto Transport | Rapid Auto Shipping",
+      "alternateName": "Miami to Jacksonville Auto Transport",
       "description": "Rapid Auto Shipping has received recognition for its exceptional commitment to customer service. Our Miami to Jacksonville auto transport services, guarantee top-notch quality and excellent customer service.",
       "brand": {
         "@id": "https:\/\/www.rapidautoshipping.com\/"
@@ -94,10 +96,10 @@
     },
     {
       "@type": "Service",
-      "serviceType": "Miami to Jacksonville Auto Transport | Rapid Auto Shipping1",
+      "serviceType": "Miami to Jacksonville Auto Transport | Rapid Auto Shipping",
       "alternateName": "Miami to Jacksonville Auto Transport ",
-      "content": "<p>Your code goes here<\/p>"
-    }
+      
+    },
     {
       "@type": "BreadcrumbList",
       "itemListElement": [
@@ -109,12 +111,12 @@
         }
       ]
     },
+   
     
   ]
 }
 </script>
-
-<body>   
+  
    <h1>Miami to Jacksonville Auto Transport</h1>
    Rapid Auto Shipping guarantees secure and damage-free vehicle transportation from Miami to Jacksonville auto transport. Our auto-hauling service ensures the safety of your vehicle during transit, ensuring that it remains in excellent condition throughout the journey. The auto transportation process should be smooth and free of any inconvenience.
 <h2><strong>How Does Miami to Jacksonville Auto Transport Work?</strong></h2>
