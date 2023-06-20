@@ -165,7 +165,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-12 col-lg-4 p-4 d-grid justify-content-center">
+            <div class="col-md-12 col-lg-4 p-4 d-grid justify-content-center" id="topForm">
                 <?php include small_form_new; ?>
             </div>
         </div>
@@ -566,7 +566,7 @@
 
             </div>
             <div class="col-12 col-md-12 col-lg-4 __side-form">
-                <div class="_side-form d-grid justify-content-center">
+                <div class="_side-form d-grid justify-content-center" id="sideFrom">
                     <?php include side_form_new; ?>
                 </div>
             </div>
@@ -987,9 +987,11 @@ $.fn.isInViewport = function() {
 
 $(window).on('resize scroll', function() {
     if ($('#myDiv2').isInViewport()) {
-        console.log('In view')
+        $('#topForm').hide();
+        $('#sideFrom').show();
     } else {
-        console.log('Not In view')
+        $('#topForm').show();
+        $('#sideFrom').hide();
     }
 });
 </script>
