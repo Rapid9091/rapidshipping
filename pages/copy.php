@@ -1,6 +1,6 @@
 <?php
 // Specify the expiration time for static resources
-$expirationTime = 60 * 60 * 24 * 7; // Set to 1 week (adjust as needed)
+$expirationTime = 60 * 60 * 24 * 365; // Set to 1 week (adjust as needed)
 
 // Get the file extension from the requested URL
 $fileExtension = strtolower(pathinfo($_SERVER['REQUEST_URI'], PATHINFO_EXTENSION));
@@ -1004,7 +1004,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
         document.getElementById('main-link').style.display = 'none';
   })
 </script>
-<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places" async></script>
+<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places" ></script>
 <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
 <script>
 $.fn.isInViewport = function() {
