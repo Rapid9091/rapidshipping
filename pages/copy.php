@@ -570,9 +570,9 @@
             </div>
             <div class="col-12 col-md-12 col-lg-4 __side-form">
                 <div class="_side-form d-grid justify-content-center" >
-                    <div id="sideFrombody" style="text-align: center;margin-top: 10px;">
+                    <div id="sideFrombody">
                         <div class="sideFrom" id="sideFrom"></div>
-                        <div class="sideformbuttonx"><a href="tel:+1 (833) 233-4447"><button style="width: 200px;height:50px;border-radius:100px;background-color: #ff5722;color:white;cursor: pointer;border: 0;">+1 (833) 233-4447</button></a>
+                        <div class="sideformbuttonx" style="text-align: center;margin-top: 10px;"><a href="tel:+1 (833) 233-4447"><button style="width: 200px;height:50px;border-radius:100px;background-color: #ff5722;color:white;cursor: pointer;border: 0;">+1 (833) 233-4447</button></a>
                     </div>
                     </div>
                 </div>
