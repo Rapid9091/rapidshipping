@@ -23,7 +23,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
 }
 ?>
 <?php if (substr_count($_SERVER['HTTP_ACCEPT_ENCODING'], 'gzip')) ob_start("ob_gzhandler"); else ob_start(); include '../../init.php' ?>
-<?php include './copy_logo.php' ?>
+<?php include '../copy_logo.php' ?>
 <!DOCTYPE html>
 <html lang="en">
 
