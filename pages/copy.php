@@ -919,7 +919,7 @@
         </p>
     </div>
     </div>
-    <div class="key-button mobile-key-call sideformbtn">
+    <div class="key-button mobile-key-call">
                 <a href="tel:+"><button>+1 (833) 233-4447</button></a>
      </div>
 
