@@ -55,7 +55,7 @@
     "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
     "https://www.provenexpert.com/en-us/rapid-auto-shipping"
   ],
-  "description":Your vehicle is transported via open air Fresno to Las Vegas Auto Transport on a car carrier trailer with typically two platforms that can accommodate four to ten vehicles.",
+  "description": "Your vehicle is transported via open air Fresno to Las Vegas Auto Transport on a car carrier trailer with typically two platforms that can accommodate four to ten vehicles.",
   "logo": {
     "@type": "ImageObject",
     "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
@@ -67,9 +67,9 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "@id": "https://www.rapidautoshipping.com/#product",
-  "name": "Fresno to Las Vegas Auto Transport   | Rapid Auto Shipping",
-  "alternateName": "Fresno to Las Vegas Auto Transport  ",
-  "description":Your vehicle is transported via open air Fresno to Las Vegas Auto Transport on a car carrier trailer with typically two platforms that can accommodate four to ten vehicles.",
+  "name": "Fresno to Las Vegas Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Fresno to Las Vegas Auto Transport",
+  "description": "Your vehicle is transported via open air Fresno to Las Vegas Auto Transport on a car carrier trailer with typically two platforms that can accommodate four to ten vehicles.",
   "brand": {
     "@type": "Organization",
     "@id": "https://www.rapidautoshipping.com/#organization"
@@ -92,8 +92,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "serviceType": "Fresno to Las Vegas Auto Transport   | Rapid Auto Shipping",
-  "alternateName": "Fresno to Las Vegas Auto Transport  "
+  "serviceType": "Fresno to Las Vegas Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Fresno to Las Vegas Auto Transport"
 }
 </script>
 <script type="application/ld+json">

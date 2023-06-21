@@ -55,7 +55,7 @@
     "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
     "https://www.provenexpert.com/en-us/rapid-auto-shipping"
   ],
-  "description": Rapid Auto Shipping provides Jacksonville to Atlanta auto transport services for various vehicle types, including cars and trucks.",
+  "description": "Rapid Auto Shipping provides Jacksonville to Atlanta auto transport services for various vehicle types, including cars and trucks.",
   "logo": {
     "@type": "ImageObject",
     "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
@@ -67,9 +67,9 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "@id": "https://www.rapidautoshipping.com/#product",
-  "name": "Jacksonville to Atlanta Auto Transport   | Rapid Auto Shipping",
-  "alternateName": "Jacksonville to Atlanta Auto Transport  ",
-  "description": Rapid Auto Shipping provides Jacksonville to Atlanta auto transport services for various vehicle types, including cars and trucks.",
+  "name": "Jacksonville to Atlanta Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Jacksonville to Atlanta Auto Transport",
+  "description": "Rapid Auto Shipping provides Jacksonville to Atlanta auto transport services for various vehicle types, including cars and trucks.",
   "brand": {
     "@type": "Organization",
     "@id": "https://www.rapidautoshipping.com/#organization"
@@ -92,8 +92,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "serviceType": "Jacksonville to Atlanta Auto Transport   | Rapid Auto Shipping",
-  "alternateName": "Jacksonville to Atlanta Auto Transport  "
+  "serviceType": "Jacksonville to Atlanta Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Jacksonville to Atlanta Auto Transport"
 }
 </script>
 <script type="application/ld+json">
