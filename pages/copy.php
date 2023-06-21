@@ -30,6 +30,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index,follow">
     <link rel="preload"href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css"as="style"onload="this.onload=null;this.rel='stylesheet'"anync>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"rel="preload"as="style"onload="this.onload=null;this.rel='stylesheet'"anync>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"rel="preload"as="style"onload="this.onload=null;this.rel='stylesheet'"anync>
