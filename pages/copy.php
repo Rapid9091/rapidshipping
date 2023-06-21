@@ -615,8 +615,8 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                     Specialists, feel free to give us a call at</p>
             </div>
             <div class="col-12 key-button">
-                <a href="tel:+"><button>+1 (833) 233-4447</button></a>
-                <button>Get a Quote</button>
+                <a href="tel:+"><button  style="color:black;">+1 (833) 233-4447</button></a>
+                <button style="color:black;">Get a Quote</button>
             </div>
         </div>
     </div>
@@ -945,7 +945,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     </div>
     </div>
     <div class="key-button mobile-key-call">
-                <a href="tel:+1 (833) 233-4447"><button>+1 (833) 233-4447</button></a>
+                <a href="tel:+1 (833) 233-4447"><button style="color:black;">+1 (833) 233-4447</button></a>
      </div>
 
     <script  src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js" ></script>
