@@ -204,7 +204,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     
     <div class="content-body "> 
         <div class="row content-body-row px-5">
-            <div class="col-12 col-md-12 col-lg-8 p-5 content-body-text" id="contentContainer">
+            <div class="col-12 col-md-12 col-lg-8 p-1 content-body-text" id="contentContainer">
             <div class="affordable-ways-page-grid">
             <div class="affordable-ways-page-grid-content-1">
                 <div class="new-blog-section-one">
