@@ -54,7 +54,7 @@
     "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
     "https://www.provenexpert.com/en-us/rapid-auto-shipping"
   ],
-  "description": The organization that provides Atlanta to Denver auto transport services shows its appreciation and admiration for military people by treating them with the dignity they deserve.",
+  "description": "The organization that provides Atlanta to Denver auto transport services shows its appreciation and admiration for military people by treating them with the dignity they deserve.",
   "logo": {
     "@type": "ImageObject",
     "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
@@ -68,7 +68,7 @@
   "@id": "https://www.rapidautoshipping.com/#product",
   "name": "Atlanta to Denver Auto Transport | Rapid Auto Shipping",
   "alternateName": "Atlanta to Denver Auto Transport",
-  "description": The organization that provides Atlanta to Denver auto transport services shows its appreciation and admiration for military people by treating them with the dignity they deserve.",
+  "description": "The organization that provides Atlanta to Denver auto transport services shows its appreciation and admiration for military people by treating them with the dignity they deserve.",
   "brand": {
     "@type": "Organization",
     "@id": "https://www.rapidautoshipping.com/#organization"

@@ -54,7 +54,7 @@
     "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
     "https://www.provenexpert.com/en-us/rapid-auto-shipping"
   ],
-  "description": Albuquerque to Phoenix auto transport is simple with Rapid Auto shipment. We provide the most excellent service at the best price as one of the top automobile transporters in the country.",
+  "description": "Albuquerque to Phoenix auto transport is simple with Rapid Auto shipment. We provide the most excellent service at the best price as one of the top automobile transporters in the country.",
   "logo": {
     "@type": "ImageObject",
     "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
@@ -66,9 +66,9 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "@id": "https://www.rapidautoshipping.com/#product",
-  "name": "Albuquerque to Phoenix Auto Transport  | Rapid Auto Shipping",
-  "alternateName": "Albuquerque to Phoenix Auto Transport ",
-  "description": Albuquerque to Phoenix auto transport is simple with Rapid Auto shipment. We provide the most excellent service at the best price as one of the top automobile transporters in the country.",
+  "name": "Albuquerque to Phoenix Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Albuquerque to Phoenix Auto Transport",
+  "description": "Albuquerque to Phoenix auto transport is simple with Rapid Auto shipment. We provide the most excellent service at the best price as one of the top automobile transporters in the country.",
   "brand": {
     "@type": "Organization",
     "@id": "https://www.rapidautoshipping.com/#organization"
@@ -91,8 +91,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "serviceType": "Albuquerque to Phoenix Auto Transport  | Rapid Auto Shipping",
-  "alternateName": "Albuquerque to Phoenix Auto Transport "
+  "serviceType": "Albuquerque to Phoenix Auto Transport | Rapid Auto Shipping",
+  "alternateName": "Albuquerque to Phoenix Auto Transport"
 }
 </script>
 <script type="application/ld+json">
