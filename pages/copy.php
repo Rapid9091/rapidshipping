@@ -458,7 +458,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
             </div>
         </div>
     </div>
-    <div class="content-body "> 
+    <div class="content-body " style="content-visibility: auto;"> 
         <div class="row content-body-row px-5">
             <div class="col-12 col-md-12 col-lg-8 p-5 content-body-text" id="contentContainer">
                 <div class="article_list">
