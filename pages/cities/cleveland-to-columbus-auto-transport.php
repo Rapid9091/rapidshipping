@@ -18,7 +18,6 @@
 <meta name="keywords" content="Cleveland to Columbus Auto Transport" />
 <meta property="article:tag" content="Cleveland to Columbus Auto Transport" />
 
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -55,7 +54,7 @@
     "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
     "https://www.provenexpert.com/en-us/rapid-auto-shipping"
   ],
-  "description":We can help you move your car, truck, or other vehicle from Cleveland to Columbus Auto Transport if you need to do so. Our skilled staff has been doing long-distance travel for 20 years so they can handle any kind of job.",
+  "description": "We can help you move your car, truck, or other vehicle from Cleveland to Columbus Auto Transport if you need to do so. Our skilled staff has been doing long-distance travel for 20 years so they can handle any kind of job.",
   "logo": {
     "@type": "ImageObject",
     "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
@@ -69,7 +68,7 @@
   "@id": "https://www.rapidautoshipping.com/#product",
   "name": "Cleveland to Columbus Auto Transport | Rapid Auto Shipping",
   "alternateName": "Cleveland to Columbus Auto Transport",
-  "description":We can help you move your car, truck, or other vehicle from Cleveland to Columbus Auto Transport if you need to do so. Our skilled staff has been doing long-distance travel for 20 years so they can handle any kind of job.",
+  "description": "We can help you move your car, truck, or other vehicle from Cleveland to Columbus Auto Transport if you need to do so. Our skilled staff has been doing long-distance travel for 20 years so they can handle any kind of job.",
   "brand": {
     "@type": "Organization",
     "@id": "https://www.rapidautoshipping.com/#organization"
@@ -110,6 +109,7 @@
   ]
 }
 </script>
+
 </head>
 <body>   
    <h1>Cleveland to Columbus Auto Transport</h1>
