@@ -20,7 +20,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
-                        <p>5.0</p>
+                        <span>5.0</span>
                     </div>
                 </div>
 
@@ -31,7 +31,7 @@
                 </div>
 
                 <div class="date">
-                    <p>11, April 2019</p>
+                    <span>11, April 2019</span>
                     <img loading="lazy" src=" <?= get_img() ?>Trustpilot-logo.png" alt="Trustpilot">
                 </div>
 
@@ -47,7 +47,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
-                        <p>5.0</p>
+                        <span>5.0</span>
                     </div>
                 </div>
 
@@ -56,7 +56,7 @@
                 </div>
 
                 <div class="date">
-                    <p>07, May 2021</p>
+                    <span>07, May 2021</span>
                     <img loading="lazy" src=" <?= get_img() ?>google-mini-logo.png" alt="google-mini-logo">
                 </div>
 
@@ -72,7 +72,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
-                        <p>5.0</p>
+                        <span>5.0</span>
                     </div>
                 </div>
 
@@ -82,7 +82,7 @@
                 </div>
 
                 <div class="date">
-                    <p>07, April 2020</p>
+                    <span>07, April 2020</span>
                     <img loading="lazy" src=" <?= get_img() ?>TransportReviewsLogo.png" alt="Transport Reviews Logo">
                 </div>
 
@@ -98,7 +98,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
-                        <p>5.0</p>
+                        <span>5.0</span>
                     </div>
                 </div>
 
@@ -108,7 +108,7 @@
                 </div>
 
                 <div class="date">
-                    <p>01, September 2020</p>
+                    <span>01, September 2020</span>
                     <img loading="lazy" src=" <?= get_img() ?>bbb-logo-horizontal.png" alt="bbb logo">
                 </div>
 
@@ -125,7 +125,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
-                        <p>5.0</p>
+                        <span>5.0</span>
                     </div>
                 </div>
 
@@ -134,7 +134,7 @@
                 </div>
 
                 <div class="date">
-                    <p>22, September 2019</p>
+                    <span>22, September 2019</span>
                     <img loading="lazy" src=" <?= get_img() ?>google-mini-logo.png" alt="google mini">
                 </div>
 
@@ -151,7 +151,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
-                        <p>5.0</p>
+                        <span>5.0</span>
                     </div>
                 </div>
 
@@ -160,7 +160,7 @@
                 </div>
 
                 <div class="date">
-                    <p>07, April 2020</p>
+                    <span>07, April 2020</span>
                     <img loading="lazy" src=" <?= get_img() ?>TransportReviewsLogo.png" alt="Transport Reviews Logo">
                 </div>
 
@@ -177,7 +177,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
-                        <p>5.0</p>
+                        <span>5.0</span>
                     </div>
                 </div>
 
@@ -189,7 +189,7 @@
                 </div>
 
                 <div class="date">
-                    <p>11, April 2019</p>
+                    <span>11, April 2019</span>
                     <img loading="lazy" src=" <?= get_img() ?>Trustpilot-logo.png" alt="Trustpilot">
                 </div>
 
@@ -205,7 +205,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
-                        <p>5.0</p>
+                        <span>5.0</span>
                     </div>
                 </div>
 
@@ -215,7 +215,7 @@
                 </div>
 
                 <div class="date">
-                    <p>22, September 2019</p>
+                    <span>22, September 2019</span>
                     <img loading="lazy" src=" <?= get_img() ?>google-mini-logo.png" alt="google mini">
                 </div>
 
