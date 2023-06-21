@@ -939,7 +939,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     </div>
     <div class="last-strip" style="color:#fff; font-size:13px;text-align:center;padding:5px;">
         <p>
-            Copyright © 2018- <?php echo date("Y"); ?>, <a href='<?= home_path() ?>' >Rapid Auto Shipping</a> - All Rights Reserved.
+            Copyright © 2018- <?php echo date("Y"); ?>, <a href='<?= home_path() ?>' style="color:#36454F;">Rapid Auto Shipping</a> - All Rights Reserved.
 
         </p>
     </div>
