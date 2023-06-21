@@ -198,7 +198,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
             </div>
         </div>
     </div>
-    <div class="main-banner-bellow-banner" style="color:#36454F">
+    <div class="main-banner-bellow-banner" style="color:#16161d">
         <div class="row  align-items-center h-100 mx-auto" style="width: 90%;">
             <div class="col-12 col-md-6 col-lg-3">
                 <div class="row align-items-center">
