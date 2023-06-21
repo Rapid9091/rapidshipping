@@ -1,3 +1,27 @@
+<?php
+// Specify the expiration time for static resources
+$expirationTime = 60 * 60 * 24 * 7; // Set to 1 week (adjust as needed)
+
+// Get the file extension from the requested URL
+$fileExtension = strtolower(pathinfo($_SERVER['REQUEST_URI'], PATHINFO_EXTENSION));
+
+// Specify the file types for which to set the Expires header
+$validFileTypes = array(
+    'css' => 'text/css',
+    'js' => 'application/javascript',
+    'jpg' => 'image/jpeg',
+    'jpeg' => 'image/jpeg',
+    'png' => 'image/png',
+    'gif' => 'image/gif'
+);
+
+// Check if the file extension is valid and set the appropriate Content-Type and Expires header
+if (array_key_exists($fileExtension, $validFileTypes)) {
+    $contentType = $validFileTypes[$fileExtension];
+    header("Content-Type: $contentType");
+    header("Expires: " . gmdate("D, d M Y H:i:s", time() + $expirationTime) . " GMT");
+}
+?>
 <?php if (substr_count($_SERVER['HTTP_ACCEPT_ENCODING'], 'gzip')) ob_start("ob_gzhandler"); else ob_start(); include '../init.php' ?>
 <?php include './copy_logo.php' ?>
 <!DOCTYPE html>
