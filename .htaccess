@@ -63,6 +63,7 @@ ReWriteRule ^$ pages/home.php [NC,L]
 
 #copy page of services
 ReWriteRule ^copy([/]?)$ pages/copy.php [NC,L]
+ReWriteRule ^blogs/blogcopy([/]?)$ pages/blogs/blogcopy.php [NC,L]
 
 #
 #=============================================================================================================
