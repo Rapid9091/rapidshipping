@@ -801,7 +801,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                 <a href="https://twitter.com/ShippingRapid" target="_blank"><span >Twitter</span><?= $twitter ?></a>
             </div>
             <div class="col-2 col-md-2 col-lg-1 text-center">
-                <a href="https://www.linkedin.com/in/rapid-auto-shipping-909217261/" target="_blank"><?= $linkdin ?></a>
+                <a href="https://www.linkedin.com/in/rapid-auto-shipping-909217261/" target="_blank"><span style="visibility: hidden;">Twitter</span><?= $linkdin ?></a>
             </div>
             <div class="col-2 col-md-2 col-lg-1 text-center">
                 <a href="https://www.youtube.com/@rapidautoshipping7218" target="_blank"><?= $youtube ?></a>
