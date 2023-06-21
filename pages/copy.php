@@ -52,7 +52,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
         <header>
             <nav class="navbar-a" style="background-color: #ff5722;">
                 <div class="logo_div ">
-                    <a href="<?= home_path() ?>"><img src=" <?= get_img() ?>Untitled-1-Recovered.png" alt="" width="100px;" height="100%;"></a>
+                    <a href="<?= home_path() ?>"><span style="opacity:0;">.</span><img src=" <?= get_img() ?>Untitled-1-Recovered.png" alt="" width="100px;" height="100%;"></a>
                 </div>
                 <div class="main-link" id="main-link">
                     <ul class="nav-ul">
