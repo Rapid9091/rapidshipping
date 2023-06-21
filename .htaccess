@@ -173,6 +173,7 @@ ReWriteRule ^chicago-to-hawaii-auto-transport([/]?)$ pages/cities/chicago-to-haw
 ReWriteRule ^chicago-to-minneapolis-auto-transport([/]?)$ pages/cities/chicago-to-minneapolis-auto-transport.php [NC,L]
 ReWriteRule ^chicago-to-san-diego-auto-transport([/]?)$ pages/cities/chicago-to-san-diego-auto-transport.php [NC,L]
 ReWriteRule ^cincinnati-to-cleveland-auto-transport([/]?)$ pages/cities/cincinnati-to-cleveland-auto-transport.php [NC,L]
+ReWriteRule ^cleveland-to-columbus-auto-transport([/]?)$ pages/cities/cleveland-to-columbus-auto-transport.php [NC,L]
 ReWriteRule ^cleveland-to-las-vegas-auto-transport([/]?)$ pages/cities/cleveland-to-las-vegas-auto-transport.php [NC,L]
 ReWriteRule ^cleveland-to-pittsburgh-auto-transport([/]?)$ pages/cities/cleveland-to-pittsburgh-auto-transport.php [NC,L]
 ReWriteRule ^dallas-to-chicago-auto-transport([/]?)$ pages/cities/dallas-to-chicago-auto-transport.php [NC,L]
