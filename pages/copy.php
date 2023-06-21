@@ -791,7 +791,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     <div class="follow-up mb-2">
         <div class="row w-75 mt-2 mx-auto justify-content-center">
             <div class="col-2 col-md-2 col-lg-1 text-center">
-                <a href="https://www.facebook.com/Rapid-Auto-Shipping-105964451981199" target="_blank"><?= $facebook
+                <a href="https://www.facebook.com/Rapid-Auto-Shipping-105964451981199" target="_blank"><span style="display:none;">Facebook</span><?= $facebook
                                                                                                         ?></a>
             </div>
             <div class="col-2 col-md-2 col-lg-1 text-center">
