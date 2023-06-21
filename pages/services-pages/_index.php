@@ -168,7 +168,7 @@ if (isset($_GET['page_id'])) {
                         <p>GUARANTEED PICK-UP</p>
                     </div>
                     <div class="strip_para">
-                        <p>Your chice of pick-up</p>
+                        <p>Your choice of pick-up</p>
 
                     </div>
                 </div>
