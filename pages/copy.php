@@ -75,7 +75,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     <!-- End Header -->
     <div class="banner-section"  id="myDiv2">
         <img class="banner-section-img desk_image" width="100%" height="100%" src="<?= get_img() ?>copy_desktop.webp" alt="Rapid Auto Shipping">
-        <img class="banner-section-img mob_image" width="100%" height="100%" src="<?= get_img() ?>copy_mobile.webp" alt="Rapid Auto Shipping">
+        <!-- <img class="banner-section-img mob_image" width="100%" height="100%" src="<?= get_img() ?>copy_mobile.webp" alt="Rapid Auto Shipping"> -->
         
         <div class="row banner-section-row p-5">
             <div class="col-md-12 col-lg-8 p-4 banner-section-row-col-1">
