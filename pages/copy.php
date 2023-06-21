@@ -795,7 +795,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                                                                                         ?></a>
             </div>
             <div class="col-2 col-md-2 col-lg-1 text-center">
-                <a href="https://www.instagram.com/rapidautoshipping/" target="_blank"><?= $instagram ?></a>
+                <a href="https://www.instagram.com/rapidautoshipping/" target="_blank"><span >Instagram</span><?= $instagram ?></a>
             </div>
             <div class="col-2 col-md-2 col-lg-1 text-center">
                 <a href="https://twitter.com/ShippingRapid" target="_blank"><?= $twitter ?></a>
