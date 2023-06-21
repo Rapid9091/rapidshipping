@@ -61,109 +61,9 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                     <ul class="nav-ul">
                         <li><a href="<?= home_path() ?>">Home</a></li>
                         <li><a href="<?= home_path() ?>services">Services</a></li>
-                        <li class="we-ship"><a href="<?= home_path() ?>cars">We Ship</a>
-                            <!-- <div class="we_ship">
-                                <ul>
-                                    <li><a href="<?= home_path() ?>cars"><i class="ri-car-fill"></i>Cars</a></li>
-                                    <li><a href="<?= home_path() ?>services/rv-transport"><i class="ri-car-fill"></i>ATV/RV</a></li>
-                                    <li><a href="<?= home_path() ?>services/motor-cycle-shipping"><i class="ri-car-fill"></i>Motorcycle</a></li>
-                                    <li><a href="<?= home_path() ?>services/boat-shipping"><i class="ri-car-fill"></i>Boat</a></li>
-                                    <li><a href="<?= home_path() ?>services/yacht-shipping-services"><i class="ri-car-fill"></i>Yacht</a></li>
-                                    <li><a href="<?= home_path() ?>services/truck-shipping-service"><i class="ri-car-fill"></i>Truck</a></li>
-                                    <li><a href="<?= home_path() ?>services/tractor-transport"><i class="ri-car-fill"></i>Tractor</a></li>
-                                    <li><a href="<?= home_path() ?>services/heavy-equipment-shipping"><i class="ri-car-fill"></i>Heavy Equipments</a></li>
-                                </ul>
-                            </div> -->
-                        </li>
-                        <li class="statesd"><a href="<?= get_state() ?>">States</a>
-                            <!-- <div class="we_ships">
-                                <div class="ul_1">
-                                    <ul>
-                                        <li><a href="<?= get_state() ?>/alabama"><i class="ri-map-pin-add-fill"></i>Alabama</a></li>
-                                        <li><a href="<?= get_state() ?>/alaska"><i class="ri-map-pin-add-fill"></i>Alaska</a></li>
-                                        <li><a href="<?= get_state() ?>/arizona"><i class="ri-map-pin-add-fill"></i>Arizona</a></li>
-                                        <li><a href="<?= get_state() ?>/arkansas"><i class="ri-map-pin-add-fill"></i>Arkansas</a></li>
-                                        <li><a href="<?= get_state() ?>/california"><i class="ri-map-pin-add-fill"></i>California</a></li>
-                                        <li><a href="<?= get_state() ?>/colorado"><i class="ri-map-pin-add-fill"></i>Colorado</a></li>
-                                        <li><a href="<?= get_state() ?>/connecticut"><i class="ri-map-pin-add-fill"></i>Connecticut</a></li>
-                                        <li><a href="<?= get_state() ?>/delaware"><i class="ri-map-pin-add-fill"></i>Delaware</a></li>
-                                        <li><a href="<?= get_state() ?>/wisconsin"><i class="ri-map-pin-add-fill"></i>Wisconsin</a></li>
-                                        <li><a href="<?= get_state() ?>/south-dakota"><i class="ri-map-pin-add-fill"></i>South Dakota</a></li>
-
-                                    </ul>
-                                </div>
-                                <div class="ul_1">
-                                    <ul>
-                                        <li><a href="<?= get_state() ?>/florida"><i class="ri-map-pin-add-fill"></i>Florida</a></li>
-                                        <li><a href="<?= get_state() ?>/georgia"><i class="ri-map-pin-add-fill"></i>Georgia</a></li>
-                                        <li><a href="<?= get_state() ?>/hawaii"><i class="ri-map-pin-add-fill"></i>Hawaii</a></li>
-                                        <li><a href="<?= get_state() ?>/idaho"><i class="ri-map-pin-add-fill"></i>Idaho</a></li>
-                                        <li><a href="<?= get_state() ?>/illinois"><i class="ri-map-pin-add-fill"></i>Illinois</a></li>
-                                        <li><a href="<?= get_state() ?>/indiana"><i class="ri-map-pin-add-fill"></i>Indiana</a></li>
-                                        <li><a href="<?= get_state() ?>/iowa"><i class="ri-map-pin-add-fill"></i>Iowa</a></li>
-                                        <li><a href="<?= get_state() ?>/kansas"><i class="ri-map-pin-add-fill"></i>Kansas</a></li>
-                                        <li><a href="<?= get_state() ?>/wyoming-wy"><i class="ri-map-pin-add-fill"></i>Wyoming</a></li>
-                                        <li><a href="<?= get_state() ?>/tennessee-tn"><i class="ri-map-pin-add-fill"></i>Tennessee</a></li>
-                                    </ul>
-                                </div>
-                                <div class="ul_1">
-                                    <ul>
-                                        <li><a href="<?= get_state() ?>/kentucky"><i class="ri-map-pin-add-fill"></i>Kentucky</a></li>
-                                        <li><a href="<?= get_state() ?>/louisiana"><i class="ri-map-pin-add-fill"></i>Louisiana</a></li>
-                                        <li><a href="<?= get_state() ?>/maine"><i class="ri-map-pin-add-fill"></i>Maine</a></li>
-                                        <li><a href="<?= get_state() ?>/maryland"><i class="ri-map-pin-add-fill"></i>Maryland</a></li>
-                                        <li><a href="<?= get_state() ?>/massachusetts"><i class="ri-map-pin-add-fill"></i>Massachusetts</a></li>
-                                        <li><a href="<?= get_state() ?>/michigan"><i class="ri-map-pin-add-fill"></i>Michigan</a></li>
-                                        <li><a href="<?= get_state() ?>/minnesota"><i class="ri-map-pin-add-fill"></i>Minnesota</a></li>
-                                        <li><a href="<?= get_state() ?>/mississippi"><i class="ri-map-pin-add-fill"></i>Mississippi</a></li>
-                                        <li><a href="<?= get_state() ?>/texas-tx"><i class="ri-map-pin-add-fill"></i>Texas</a></li>
-                                        <li><a href="<?= get_state() ?>/utah-ut"><i class="ri-map-pin-add-fill"></i>Utah</a></li>
-                                    </ul>
-                                </div>
-                                <div class="ul_1">
-                                    <ul>
-                                        <li><a href="<?= get_state() ?>/missouri"><i class="ri-map-pin-add-fill"></i>Missouri</a></li>
-                                        <li><a href="<?= get_state() ?>/montana"><i class="ri-map-pin-add-fill"></i>Montana</a></li>
-                                        <li><a href="<?= get_state() ?>/nebraska"><i class="ri-map-pin-add-fill"></i>Nebraska</a></li>
-                                        <li><a href="<?= get_state() ?>/nevada"><i class="ri-map-pin-add-fill"></i>Nevada</a></li>
-                                        <li><a href="<?= get_state() ?>/new-hampshire"><i class="ri-map-pin-add-fill"></i>New Hampshire</a></li>
-                                        <li><a href="<?= get_state() ?>/new-jersey"><i class="ri-map-pin-add-fill"></i>New Jersey</a></li>
-                                        <li><a href="<?= get_state() ?>/new-mexico"><i class="ri-map-pin-add-fill"></i>New Mexico</a></li>
-                                        <li><a href="<?= get_state() ?>/new-york"><i class="ri-map-pin-add-fill"></i>New York</a></li>
-                                        <li><a href="<?= get_state() ?>/vermont-vt"><i class="ri-map-pin-add-fill"></i>Vermont</a></li>
-                                        <li><a href="<?= get_state() ?>/virginia-va"><i class="ri-map-pin-add-fill"></i>Virginia</a></li>
-                                    </ul>
-                                </div>
-                                <div class="ul_1">
-                                    <ul>
-                                        <li><a href="<?= get_state() ?>/north-carolina"><i class="ri-map-pin-add-fill"></i>North Carolina</a></li>
-                                        <li><a href="<?= get_state() ?>/north-dakota"><i class="ri-map-pin-add-fill"></i>North Dakota</a></li>
-                                        <li><a href="<?= get_state() ?>/ohio"><i class="ri-map-pin-add-fill"></i>Ohio</a></li>
-                                        <li><a href="<?= get_state() ?>/oklahoma"><i class="ri-map-pin-add-fill"></i>Oklahoma</a></li>
-                                        <li><a href="<?= get_state() ?>/oregon"><i class="ri-map-pin-add-fill"></i>Oregon</a></li>
-                                        <li><a href="<?= get_state() ?>/pennsylvania"><i class="ri-map-pin-add-fill"></i>Pennsylvania</a></li>
-                                        <li><a href="<?= get_state() ?>/rhode-island"><i class="ri-map-pin-add-fill"></i>Rhode Island</a></li>
-                                        <li><a href="<?= get_state() ?>/south-carolina"><i class="ri-map-pin-add-fill"></i>South Carolina</a></li>
-                                        <li><a href="<?= get_state() ?>/washington-wa"><i class="ri-map-pin-add-fill"></i>Washington</a></li>
-                                        <li><a href="<?= get_state() ?>/west-virginia-wv"><i class="ri-map-pin-add-fill"></i>West Virginia</a></li>
-                                    </ul>
-                                </div>
-                            </div> -->
-
-                        </li>
-                        <li class="blog"><a href="<?= home_path() ?>blogs">Blog</a>
-                            <!-- <div class="we_ships">
-                                <div class="ul_1">
-                                    <ul>
-                                        <li><a href="<?= home_path() ?>blogs/cost-from-california-to-texas"><i class="ri-book-fill"></i>Ship Car From California To Texas</a></li>
-                                        <li><a href="<?= home_path() ?>blogs/cheapest-way-to-ship-a-car"><i class="ri-book-fill"></i>Cheapest way to ship a car</a></li>
-                                        <li><a href="<?= home_path() ?>blogs/enclosed-vs-open-car-transport"><i class="ri-book-fill"></i>Enclosed vs Open Car Transport</a></li>
-                                        <li><a href="<?= home_path() ?>blogs/fifth-wheel-transport-services"><i class="ri-book-fill"></i>Fifth Wheel Transport Services</a></li>
-                                        <li><a href="<?= home_path() ?>blogs"><i class="ri-book-fill"></i>Let's read more ..</a></li>
-                                    </ul>
-                                </div>
-                            </div> -->
-                        </li>
+                        <li class="we-ship"><a href="<?= home_path() ?>cars">We Ship</a></li>
+                        <li class="statesd"><a href="<?= get_state() ?>">States</a> </li>
+                        <li class="blog"><a href="<?= home_path() ?>blogs">Blog</a>  </li>
                     </ul>
                     <div class="close-menu-bar" id="close-menu-bar"><i class="ri-close-line"></i></div>
                     <button onclick="window.location.href=' tel:+1 833-233-4447'"><i class="ri-phone-fill"></i> +1 (833) 233-4447</button>
@@ -174,7 +74,9 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     </div>
     <!-- End Header -->
     <div class="banner-section"  id="myDiv2">
-        <img class="banner-section-img" width="100%" height="100%" src="<?= get_img() ?>car-shipping-header-image1.webp" alt="Rapid Auto Shipping">
+        <img class="banner-section-img desk_image" width="100%" height="100%" src="<?= get_img() ?>copy_desktop.webp" alt="Rapid Auto Shipping">
+        <img class="banner-section-img mob_image" width="100%" height="100%" src="<?= get_img() ?>copy_mobile.webp" alt="Rapid Auto Shipping">
+        
         <div class="row banner-section-row p-5">
             <div class="col-md-12 col-lg-8 p-4 banner-section-row-col-1">
                 <div class="row p-2">
