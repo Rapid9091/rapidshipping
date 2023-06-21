@@ -791,20 +791,20 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     <div class="follow-up mb-2">
         <div class="row w-75 mt-2 mx-auto justify-content-center">
             <div class="col-2 col-md-2 col-lg-1 text-center">
-                <a href="https://www.facebook.com/Rapid-Auto-Shipping-105964451981199" target="_blank"><span style="display:none;">Facebook</span><?= $facebook
+                <a href="https://www.facebook.com/Rapid-Auto-Shipping-105964451981199" target="_blank"><span style="visibility: hidden;">Facebook</span><?= $facebook
                                                                                                         ?></a>
             </div>
             <div class="col-2 col-md-2 col-lg-1 text-center">
-                <a href="https://www.instagram.com/rapidautoshipping/" target="_blank"><span >Instagram</span><?= $instagram ?></a>
+                <a href="https://www.instagram.com/rapidautoshipping/" target="_blank"><span style="visibility: hidden;">Instagram</span><?= $instagram ?></a>
             </div>
             <div class="col-2 col-md-2 col-lg-1 text-center">
-                <a href="https://twitter.com/ShippingRapid" target="_blank"><span >Twitter</span><?= $twitter ?></a>
+                <a href="https://twitter.com/ShippingRapid" target="_blank"><span style="visibility: hidden;">Twitter</span><?= $twitter ?></a>
             </div>
             <div class="col-2 col-md-2 col-lg-1 text-center">
-                <a href="https://www.linkedin.com/in/rapid-auto-shipping-909217261/" target="_blank"><span style="visibility: hidden;">Twitter</span><?= $linkdin ?></a>
+                <a href="https://www.linkedin.com/in/rapid-auto-shipping-909217261/" target="_blank"><span style="visibility: hidden;">linkdin</span><?= $linkdin ?></a>
             </div>
             <div class="col-2 col-md-2 col-lg-1 text-center">
-                <a href="https://www.youtube.com/@rapidautoshipping7218" target="_blank"><?= $youtube ?></a>
+                <a href="https://www.youtube.com/@rapidautoshipping7218" target="_blank"><span style="visibility: hidden;">youtube</span><?= $youtube ?></a>
             </div>
         </div>
         <div class="d-none gap-3 flex-wrap mt-4 text-center mx-auto justify-content-center lik">
