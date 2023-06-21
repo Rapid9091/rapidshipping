@@ -1004,7 +1004,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
         document.getElementById('main-link').style.display = 'none';
   })
 </script>
-<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&libraries=places" defer></script>
+<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places" async></script>
 <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
 <script>
 $.fn.isInViewport = function() {
