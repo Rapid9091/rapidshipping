@@ -760,7 +760,7 @@ $(document).ready(function(){
             onInitialized: function() {
       var owlCarouselContainer = $('.owl-carousel');
       owlCarouselContainer.get(0).addEventListener('touchstart', function(event){
-
+        event.preventDefault();
       }, { passive: true });
     }
   });
