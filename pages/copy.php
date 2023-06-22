@@ -31,6 +31,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index,follow">
+    <link rel="shortcut icon" href="<?= get_img('favicon_rapid.ico') ?>" />
     <meta name="google-site-verification" content="MD6jbJ4iZfjq-IIzuv20KZWbWZwJC6xsh9X2fMj3Vjo" />
     <link rel="preload"href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css"as="style"onload="this.onload=null;this.rel='stylesheet'"async>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"rel="preload"as="style"onload="this.onload=null;this.rel='stylesheet'"async>
@@ -38,7 +39,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     <link rel="stylesheet" href="<?= get_css() ?>copy.css">
     <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css"><meta name="title" content="The Best Ambulance Transport Services| RAPID AUTO SHIPPING" />
     <meta name="description" content="Ambulance transportation is a specialty of Rapid Auto Shipping. We are experts in offering shipping services for ambulances in all states." />
-    <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"rel="preload"as="style"onload="this.onload=null;this.rel='stylesheet'"async />
+    <!-- <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"rel="preload"as="style"onload="this.onload=null;this.rel='stylesheet'"async /> -->
 
     <!-- <link rel="stylesheet" href="<?= get_css(); ?>Page_new.min.css" defer> -->
     <title>Service Copy Page</title>
@@ -159,7 +160,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
             </div>
             <div class="col-12 col-md-7 col-lg-9 _review_star">
                 <div class="swiper reviews_2 ">
-                    <div class="swiper-wrapper" id="google_reviews">
+                    <div class="owl-carousel" id="google_reviews">
                         <div class="swiper-slide review-item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
@@ -208,7 +209,6 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-
                         <div class="swiper-slide review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
@@ -257,7 +257,6 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-
                         <div class="swiper-slide review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
@@ -330,7 +329,6 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-
                         <div class="swiper-slide review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
@@ -355,9 +353,8 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-
                     </div>
-                    <div class="swiper-pagination"></div>
+                    <!-- <div class="swiper-pagination"></div> -->
                 </div>
             </div>
         </div>
@@ -630,16 +627,6 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                 <a href="https://www.youtube.com/@rapidautoshipping7218" target="_blank"><span style="opacity:0;">.</span><?= $youtube ?></a>
             </div>
         </div>
-        <!-- <div class="d-none gap-3 flex-wrap mt-4 text-center mx-auto justify-content-center lik">
-            <div class="col-1 border-end border-2 border-secondary-subtle py-3 important-urls-grid-1"><a href="<?= home_path(); ?>">Home</a></div>
-            <div class="col-1 border-end  border-secondary-subtle border-2 py-3 important-urls-grid-1"><a href="<?= home_path(); ?>services">Services</a></div>
-            <div class="col-1 border-end border-2 py-3 important-urls-grid-1"><a href="<?= home_path(); ?>blogs">Blogs</a></div>
-            <div class="col-1 border-end border-2 py-3 border-end important-urls-grid-1"><a href="<?= home_path(); ?>states">States</a></div>
-            <div class="col-1 py-3 important-urls-grid-1"><a href="<?= home_path(); ?>contact-us">Contact-Us</a></div>
-            <div class="col-1 border-start border-2 py-3 important-urls-grid-1"><a href="<?= home_path(); ?>about-us">About Us</a></div>
-            <div class="col-1 border-start border-2 py-3 important-urls-grid-1"><a href="<?= home_path(); ?>cars">Cars</a></div>
-            <div class="col-2 border-start border-2 py-3 important-urls-grid-1 important-urls-grid-1-special"><a href="<?= home_path(); ?>state-to-state">State To State</a></div>
-        </div> -->
     </div>
     <div class="footer mt-4" id="footer">
         
@@ -655,7 +642,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                 <a href="tel:+1 (833) 233-4447"><button style="color:black;">+1 (833) 233-4447</button></a>
      </div>
 
-    <script  src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js" ></script>
+    <!-- <script  src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js" ></script> -->
     <script>
         const swiper = new Swiper('.swiper', {
             // Optional parameters
@@ -750,6 +737,26 @@ $(document).ready(function(){
             } else {
                 $('#footer').html('<?php include copy_footer; ?>')}
             });
+
+            $('.owl-carousel').owlCarousel({
+            loop: true,    
+            margin: 20,
+            autoplay: true,
+            autoplayTimeout: 3000,    
+            autoplayHoverPause: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+
+                800: {
+                    items: 2
+                },
+                1000: {
+                    item: 3
+                }
+            }
+  });
 })
 
 var image = document.getElementById('desk_image');
@@ -765,8 +772,17 @@ function handleResize() {
 }
 window.addEventListener('resize', handleResize);
 handleResize();
-
+function loadBoxicons3() {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css';
+    document.head.appendChild(link);
+  }
+  window.addEventListener('load', loadBoxicons3);
 </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
+        integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script async src="<?= get_js() ?>small_form_new.js"></script>
 
 </body>
