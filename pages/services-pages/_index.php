@@ -29,7 +29,7 @@ else ob_start(); ?>
     <link rel="preload" href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" as="style" onload="this.onload=null;this.rel='stylesheet'" async>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async>
-    <link rel="stylesheet" href="<?= get_css() ?>copy.css">
+    <link rel="stylesheet" href="<?= get_css() ?>copy_new.css">
     <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css">
     <!-- <meta name="title" content="The Best Ambulance Transport Services| RAPID AUTO SHIPPING" /> -->
     <!-- <meta name="description" content="Ambulance transportation is a specialty of Rapid Auto Shipping. We are experts in offering shipping services for ambulances in all states." /> -->
