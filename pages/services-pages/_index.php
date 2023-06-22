@@ -685,7 +685,7 @@ else ob_start(); ?>
 
         var image = document.getElementById('desk_image');
         var originalSrc = '<?= get_img() ?>copy_desktop.webp';
-        var alternateSrc = '<?= get_img() ?>copy_mobile.webp';
+        var alternateSrc = '<?= get_img() ?>copy_mobile1.webp';
 
         function handleResize() {
             var windowWidth = window.innerWidth || document.documentElement.clientWidth;
