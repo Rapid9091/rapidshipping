@@ -503,6 +503,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                         <div class="sideformbuttonx" style="text-align: center;margin-top: 10px;"><a href="tel:+1 (833) 233-4447"><button style="width: 200px;height:50px;border-radius:100px;background-color: #ff5722;color:white;cursor: pointer;border: 0;">+1 (833) 233-4447</button></a>
                     </div>
                     </div>
+                    <div id="mapha" style="width: 200px;"></div>
                 </div>
             </div>
         </div>
@@ -641,7 +642,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
         </div> -->
     </div>
     <div class="footer mt-4" id="footer">
-        <div id="mapha"></div>
+        
     </div>
     <div class="last-strip" style="color:#fff; font-size:13px;text-align:center;padding:5px;">
         <p>
@@ -669,8 +670,8 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                 slidesPerView: 1,
             }
             },pagination: {
-    el: '.swiper-pagination',
-  },
+                el: '.swiper-pagination',
+            },
 
 
             // spaceBetween: 30,
@@ -713,7 +714,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
         document.getElementById('main-link').style.display = 'none';
   })
 </script>
-<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places" ></script>
+<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&libraries=places" ></script>
 <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
 <script>
 
