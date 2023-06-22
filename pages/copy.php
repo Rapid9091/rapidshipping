@@ -159,9 +159,9 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                 </div>
             </div>
             <div class="col-12 col-md-7 col-lg-9 _review_star">
-                <div class="swiper reviews_2 ">
+                <div class="reviews_2 ">
                     <div class="owl-carousel" id="google_reviews">
-                        <div class="swiper-slide review-item">
+                        <div class=" review-item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -185,7 +185,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide review-item item">
+                        <div class=" review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -209,7 +209,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide review-item item">
+                        <div class=" review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -233,7 +233,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide review-item item">
+                        <div class=" review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -257,7 +257,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide review-item item">
+                        <div class=" review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -281,7 +281,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide review-item item">
+                        <div class=" review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -305,7 +305,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide review-item item">
+                        <div class=" review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -329,7 +329,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide review-item item">
+                        <div class=" review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -744,6 +744,7 @@ $(document).ready(function(){
             autoplay: true,
             autoplayTimeout: 3000,    
             autoplayHoverPause: true,
+            dots: false,
             responsive: {
                 0: {
                     items: 1
