@@ -668,7 +668,10 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
             600: {
                 slidesPerView: 1,
             }
-            },
+            },pagination: {
+    el: '.swiper-pagination',
+  },
+
 
             // spaceBetween: 30,
             freeMode: true,
