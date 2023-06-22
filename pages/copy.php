@@ -650,7 +650,6 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     <script>
         const swiper = new Swiper('.swiper', {
             zoom: true,
-            mousewheel: true,
             direction: 'horizontal',
             loop: true,
             lazyLoading: true,
@@ -664,17 +663,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
             },pagination: {
             el: ".swiper-pagination",
             clickable: true,
-            },virtual: {
-            slides: (function () {
-            const slides = [];
-            for (var i = 0; i < 600; i += 1) {
-                slides.push('Slide ' + (i + 1));
-            }
-            return slides;
-            })(),
-        },
-
-
+            },
             // spaceBetween: 30,
             freeMode: true,
             autoplay: {
