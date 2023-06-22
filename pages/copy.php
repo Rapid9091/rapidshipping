@@ -48,7 +48,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
 
 </head>
 
-<body>
+<body onload="initMap()">
 
     <div class="">
     <div>
@@ -641,7 +641,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
         </div> -->
     </div>
     <div class="footer mt-4" id="footer">
-        
+        <div id="mapha"></div>
     </div>
     <div class="last-strip" style="color:#fff; font-size:13px;text-align:center;padding:5px;">
         <p>
@@ -763,6 +763,15 @@ function handleResize() {
 }
 window.addEventListener('resize', handleResize);
 handleResize();
+
+function initMap() {
+  var mapOptions = {
+    center: { lat: 37.7749, lng: -122.4194 }, // Specify the initial center coordinates
+    zoom: 12 // Specify the initial zoom level
+  };
+  
+  var map = new google.maps.Map(document.getElementById('mapha'), mapOptions); // Create the map instance and bind it to the 'map' container
+}
 </script>
 <script async src="<?= get_js() ?>small_form_new.js"></script>
 
