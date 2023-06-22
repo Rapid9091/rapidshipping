@@ -357,6 +357,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                         </div>
 
                     </div>
+                    <div class="swiper-pagination"></div>
                 </div>
             </div>
         </div>
@@ -670,7 +671,8 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                 slidesPerView: 1,
             }
             },pagination: {
-                el: '.swiper-pagination',
+            el: ".swiper-pagination",
+            clickable: true,
             },
 
 
@@ -726,29 +728,29 @@ $(document).ready(function(){
     var viewportTop = $(window).scrollTop();
     var viewportBottom = viewportTop + $(window).height();
     return elementBottom > viewportTop && elementTop < viewportBottom;
-};
-$.fn.isOutOfViewport = function() {
-    var elementTop = $(this).offset().top;
-    var viewportTop = $(window).scrollTop();
-    var viewportBottom = viewportTop + $(window).height();
-    return elementTop >= viewportTop && elementTop < viewportBottom;
-};
-$(window).on('resize scroll', function() {
-    if ($('#myDiv2').isInViewport()) {
-        $('#topForm').html('<?php include small_form_new; ?>');
-        $('#sideFrom').html('');
-        $('#sideFrombody').hide();
-    } else {
-        $('#topForm').html('');
-        $('#sideFrombody').show();
-        $('#sideFrom').html('<?php include small_form_new; ?>');
-    }
-// different function 
-if ($('#key-section').isOutOfViewport()) {
-    $('#all-state-section').html('<?php include copy_state_list; ?>')
-} else {
-    $('#footer').html('<?php include copy_footer; ?>')}
-});
+            };
+            $.fn.isOutOfViewport = function() {
+                var elementTop = $(this).offset().top;
+                var viewportTop = $(window).scrollTop();
+                var viewportBottom = viewportTop + $(window).height();
+                return elementTop >= viewportTop && elementTop < viewportBottom;
+            };
+            $(window).on('resize scroll', function() {
+                if ($('#myDiv2').isInViewport()) {
+                    $('#topForm').html('<?php include small_form_new; ?>');
+                    $('#sideFrom').html('');
+                    $('#sideFrombody').hide();
+                } else {
+                    $('#topForm').html('');
+                    $('#sideFrombody').show();
+                    $('#sideFrom').html('<?php include small_form_new; ?>');
+                }
+            // different function 
+            if ($('#key-section').isOutOfViewport()) {
+                $('#all-state-section').html('<?php include copy_state_list; ?>')
+            } else {
+                $('#footer').html('<?php include copy_footer; ?>')}
+            });
 })
 
 var image = document.getElementById('desk_image');
