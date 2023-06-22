@@ -122,6 +122,7 @@ ReWriteRule ^services/new-holland-tractor([/]?)$ pages/services-pages/new-hollan
 ReWriteRule ^services/rv-movers-near-me-services([/]?)$ pages/services-pages/rv-movers-near-me-services.php [NC,L]
 #ReWriteRule ^services/rv-transport([/]?)$ pages/services-pages/rv-transport.php [NC,L]
 #ReWriteRule ^services/snow-bird-shipping([/]?)$ pages/services-pages/snow-bird-shipping.php [NC,L]
+ReWriteRule ^services/sports-car-transport-service([/]?)$ pages/services-pages/sports-car-transport-service.php [NC,L]
 #ReWriteRule ^services/state-to-state-car-shipping([/]?)$ pages/services-pages/state-to-state-car-shipping.php [NC,L]
 #ReWriteRule ^services/tractor-transport([/]?)$ pages/services-pages/tractor-transport.php [NC,L]
 ReWriteRule ^services/transporting-case-trucks([/]?)$ pages/services-pages/transporting-case-trucks.php [NC,L]
