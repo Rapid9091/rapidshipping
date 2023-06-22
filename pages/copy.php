@@ -741,12 +741,6 @@ $(document).ready(function(){
                 $('#footer').html('<?php include copy_footer; ?>')}
             });
 
-            $('.owl-carousel').owlCarousel({
-    items: 1,
-    loop: true,
-    autoplay: true,
-    autoplayTimeout: 3000
-  });
 })
 
 var image = document.getElementById('desk_image');
