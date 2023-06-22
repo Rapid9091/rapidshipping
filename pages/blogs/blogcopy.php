@@ -40,14 +40,9 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     <meta name="description" content="Ambulance transportation is a specialty of Rapid Auto Shipping. We are experts in offering shipping services for ambulances in all states." />
     <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"rel="preload"as="style"onload="this.onload=null;this.rel='stylesheet'"async />
 
-    <!-- <link rel="stylesheet" href="<?= get_css(); ?>Page_new.min.css" defer> -->
     <title>Service Copy Page</title>
-    <style>
-        #sideFrombody{display: none;}
-    </style>
-
+    <style> #sideFrombody{display: none;} </style>
 </head>
-
 <body>
 
     <div class="">
@@ -429,22 +424,16 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
         });
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" ></script>
-    <!-- <script asyns src="<?= get_js() ?>side_form_new.js"></script> -->
-    
 <script>
   var textContainer = document.querySelector('.text-container-xyz');
   var textContent = textContainer.querySelector('.text-content-xyz');
-
   var maxCharacters = 300; // Maximum number of characters before adding "Read More"
   var readMoreText = 'Read More';
-
   if (textContent.textContent.length > maxCharacters) {
     var trimmedText = textContent.textContent.slice(0, maxCharacters);
     var remainingText = textContent.textContent.slice(maxCharacters);
-
     textContent.textContent = trimmedText;
     textContent.insertAdjacentHTML('afterend', ' <a href="#" class="read-more">' + readMoreText + '</a>');
-
     var readMoreLink = textContainer.querySelector('.read-more');
     readMoreLink.addEventListener('click', function(e) {
       e.preventDefault();
@@ -452,28 +441,21 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
       readMoreLink.style.display = 'none';
     });
   }
-
-  document.getElementById('hamburgur-btn').addEventListener('click',function(){
-        document.getElementById('main-link').style.display = 'grid';
-  })
-  document.getElementById('close-menu-bar').addEventListener('click',function(){
-        document.getElementById('main-link').style.display = 'none';
-  })
+  document.getElementById('hamburgur-btn').addEventListener('click',function(){document.getElementById('main-link').style.display = 'grid';})
+  document.getElementById('close-menu-bar').addEventListener('click',function(){document.getElementById('main-link').style.display = 'none';})
 </script>
 <script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places" ></script>
 <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
 <script>
-$.fn.isInViewport = function() {
+$(document).ready(function(){
+    $.fn.isInViewport = function() {
     var elementTop = $(this).offset().top;
     var elementBottom = elementTop + $(this).outerHeight();
-
     var viewportTop = $(window).scrollTop();
     var viewportBottom = viewportTop + $(window).height();
-
     return elementBottom > viewportTop && elementTop < viewportBottom;
-};
-
-$(window).on('resize scroll', function() {
+    };
+    $(window).on('resize scroll', function() {
     if ($('#myDiv2').isInViewport()) {
         $('#topForm').html('<?php include small_form_new; ?>');
         $('#sideFrom').html('');
@@ -483,10 +465,9 @@ $(window).on('resize scroll', function() {
         $('#sideFrombody').show();
         $('#sideFrom').html('<?php include small_form_new; ?>');
     }
-});
+    });
+})
 </script>
 <script async src="<?= get_js() ?>small_form_new.js"></script>
-
 </body>
-
 </html> 

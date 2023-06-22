@@ -161,7 +161,9 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
             <div class="col-12 col-md-7 col-lg-9 _review_star">
                 <div class="swiper reviews_2 ">
                     <div class="swiper-wrapper" id="google_reviews">
+                    
                         <div class="swiper-slide review-item">
+                        <div class="swiper-zoom-container"></div>
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -588,7 +590,6 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
         </div>
     </div>
     <div class="all-state-section advantage_section" id="all-state-section">
-        
     </div>
     <div class="contact_info">
         <div class="row align-items-center p-3 border-bottom">
@@ -648,7 +649,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     <script  src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js" ></script>
     <script>
         const swiper = new Swiper('.swiper', {
-            // Optional parameters
+            zoom: true,
             direction: 'horizontal',
             loop: true,
             lazyLoading: true,
@@ -663,8 +664,6 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
             el: ".swiper-pagination",
             clickable: true,
             },
-
-
             // spaceBetween: 30,
             freeMode: true,
             autoplay: {
@@ -674,7 +673,6 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
         });
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" ></script>
-    <!-- <script asyns src="<?= get_js() ?>side_form_new.js"></script> -->
     
 <script>
   var textContainer = document.querySelector('.text-container-xyz');
@@ -710,7 +708,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
 <script>
 
 
-$(document).ready(function(){
+    $(document).ready(function(){
     $.fn.isInViewport = function() {
     var elementTop = $(this).offset().top;
     var elementBottom = elementTop + $(this).outerHeight();
@@ -741,21 +739,21 @@ $(document).ready(function(){
                 $('#footer').html('<?php include copy_footer; ?>')}
             });
 
-})
+    })
 
-var image = document.getElementById('desk_image');
-var originalSrc = '<?= get_img() ?>copy_desktop.webp';
-var alternateSrc = '<?= get_img() ?>copy_mobile.webp';
-function handleResize() {
-  var windowWidth = window.innerWidth || document.documentElement.clientWidth;
-  if (windowWidth >= 500) {
-    image.src = originalSrc;
-  } else {
-    image.src = alternateSrc;
-  }
-}
-window.addEventListener('resize', handleResize);
-handleResize();
+    var image = document.getElementById('desk_image');
+    var originalSrc = '<?= get_img() ?>copy_desktop.webp';
+    var alternateSrc = '<?= get_img() ?>copy_mobile.webp';
+    function handleResize() {
+    var windowWidth = window.innerWidth || document.documentElement.clientWidth;
+    if (windowWidth >= 500) {
+        image.src = originalSrc;
+    } else {
+        image.src = alternateSrc;
+    }
+    }
+    window.addEventListener('resize', handleResize);
+    handleResize();
 
 </script>
 <script async src="<?= get_js() ?>small_form_new.js"></script>
