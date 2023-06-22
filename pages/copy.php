@@ -644,31 +644,31 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
 
     <!-- <script  src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js" ></script> -->
     <script>
-        const swiper = new Swiper('.swiper', {
-            // Optional parameters
-            direction: 'horizontal',
-            loop: true,
-            lazyLoading: true,
-            breakpoints: {
-            780: {
-                slidesPerView: 3,
-            },
-            600: {
-                slidesPerView: 1,
-            }
-            },pagination: {
-            el: ".swiper-pagination",
-            clickable: true,
-            },
+        // const swiper = new Swiper('.swiper', {
+        //     // Optional parameters
+        //     direction: 'horizontal',
+        //     loop: true,
+        //     lazyLoading: true,
+        //     breakpoints: {
+        //     780: {
+        //         slidesPerView: 3,
+        //     },
+        //     600: {
+        //         slidesPerView: 1,
+        //     }
+        //     },pagination: {
+        //     el: ".swiper-pagination",
+        //     clickable: true,
+        //     },
 
 
-            // spaceBetween: 30,
-            freeMode: true,
-            autoplay: {
-                delay: 2500,
-                disableOnInteraction: false,
-            },
-        });
+        //     // spaceBetween: 30,
+        //     freeMode: true,
+        //     autoplay: {
+        //         delay: 2500,
+        //         disableOnInteraction: false,
+        //     },
+        // });
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" ></script>
     <!-- <script asyns src="<?= get_js() ?>side_form_new.js"></script> -->
@@ -756,7 +756,13 @@ $(document).ready(function(){
                 1000: {
                     item: 3
                 }
-            }
+            },
+            onInitialized: function() {
+      var owlCarouselContainer = $('.owl-carousel');
+      owlCarouselContainer.get(0).addEventListener('touchstart', function(event){
+
+      }, { passive: true });
+    }
   });
 })
 
