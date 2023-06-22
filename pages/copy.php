@@ -1,11 +1,6 @@
 <?php
-// Specify the expiration time for static resources
-$expirationTime = 60 * 60 * 24 * 365; // Set to 1 week (adjust as needed)
-
-// Get the file extension from the requested URL
+$expirationTime = 60 * 60 * 24 * 365;
 $fileExtension = strtolower(pathinfo($_SERVER['REQUEST_URI'], PATHINFO_EXTENSION));
-
-// Specify the file types for which to set the Expires header
 $validFileTypes = array(
     'css' => 'text/css',
     'js' => 'application/javascript',
@@ -14,8 +9,6 @@ $validFileTypes = array(
     'png' => 'image/png',
     'gif' => 'image/gif'
 );
-
-// Check if the file extension is valid and set the appropriate Content-Type and Expires header
 if (array_key_exists($fileExtension, $validFileTypes)) {
     $contentType = $validFileTypes[$fileExtension];
     header("Content-Type: $contentType");
@@ -26,7 +19,6 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
 <?php include './copy_logo.php' ?>
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -40,15 +32,11 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css"><meta name="title" content="The Best Ambulance Transport Services| RAPID AUTO SHIPPING" />
     <meta name="description" content="Ambulance transportation is a specialty of Rapid Auto Shipping. We are experts in offering shipping services for ambulances in all states." />
     <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"rel="preload"as="style"onload="this.onload=null;this.rel='stylesheet'"async />
-
-    <!-- <link rel="stylesheet" href="<?= get_css(); ?>Page_new.min.css" defer> -->
     <title>Service Copy Page</title>
     <style>
         #sideFrombody{display: none;}
     </style>
-
 </head>
-
 <body >
 
     <div class="">
@@ -611,7 +599,6 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
             </div>
         </div>
     </div>
-    <!-- <hr> -->
     <div class="follow-up mb-2">
         <div class="row w-75 mt-2 mx-auto justify-content-center">
             <div class="col-2 col-md-2 col-lg-1 text-center">
@@ -633,7 +620,6 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
         </div>
     </div>
     <div class="footer mt-4" id="footer">
-        
     </div>
     <div class="last-strip" style="color:#fff; font-size:13px;text-align:center;padding:5px;">
         <p>
@@ -706,15 +692,13 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
 <script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places" ></script>
 <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
 <script>
-
-
     $(document).ready(function(){
-    $.fn.isInViewport = function() {
-    var elementTop = $(this).offset().top;
-    var elementBottom = elementTop + $(this).outerHeight();
-    var viewportTop = $(window).scrollTop();
-    var viewportBottom = viewportTop + $(window).height();
-    return elementBottom > viewportTop && elementTop < viewportBottom;
+        $.fn.isInViewport = function() {
+        var elementTop = $(this).offset().top;
+        var elementBottom = elementTop + $(this).outerHeight();
+        var viewportTop = $(window).scrollTop();
+        var viewportBottom = viewportTop + $(window).height();
+        return elementBottom > viewportTop && elementTop < viewportBottom;
             };
             $.fn.isOutOfViewport = function() {
                 var elementTop = $(this).offset().top;
@@ -724,13 +708,22 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
             };
             $(window).on('resize scroll', function() {
                 if ($('#myDiv2').isInViewport()) {
-                    $('#topForm').html('<?php include small_form_new; ?>');
                     $('#sideFrom').html('');
                     $('#sideFrombody').hide();
+                    var $divElement = $('#topForm');
+                    var isDivEmpty = $divElement.is(':empty');
+                    if (isDivEmpty) {
+                        $('#topForm').html('<?php include small_form_new; ?>');
+                    }
                 } else {
                     $('#topForm').html('');
                     $('#sideFrombody').show();
-                    $('#sideFrom').html('<?php include small_form_new; ?>');
+                    var $divElement = $('#sideFrom');
+                    var isDivEmpty = $divElement.is(':empty');
+                    if (isDivEmpty) {
+                        $('#sideFrom').html('<?php include small_form_new; ?>');
+                    }
+                    
                 }
             // different function 
             if ($('#key-section').isOutOfViewport()) {
@@ -757,7 +750,6 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
 
 </script>
 <script async src="<?= get_js() ?>small_form_new.js"></script>
-
 </body>
 
 </html> 
