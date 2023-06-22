@@ -716,7 +716,10 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
 <script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places" ></script>
 <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
 <script>
-$.fn.isInViewport = function() {
+
+
+$(document).ready(function(){
+    $.fn.isInViewport = function() {
     var elementTop = $(this).offset().top;
     var elementBottom = elementTop + $(this).outerHeight();
     var viewportTop = $(window).scrollTop();
@@ -745,6 +748,7 @@ if ($('#key-section').isOutOfViewport()) {
 } else {
     $('#footer').html('<?php include copy_footer; ?>')}
 });
+})
 
 var image = document.getElementById('desk_image');
 var originalSrc = '<?= get_img() ?>copy_desktop.webp';
