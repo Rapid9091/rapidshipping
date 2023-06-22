@@ -39,7 +39,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     <link rel="stylesheet" href="<?= get_css() ?>copy.css">
     <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css"><meta name="title" content="The Best Ambulance Transport Services| RAPID AUTO SHIPPING" />
     <meta name="description" content="Ambulance transportation is a specialty of Rapid Auto Shipping. We are experts in offering shipping services for ambulances in all states." />
-    <!-- <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"rel="preload"as="style"onload="this.onload=null;this.rel='stylesheet'"async /> -->
+    <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"rel="preload"as="style"onload="this.onload=null;this.rel='stylesheet'"async />
 
     <!-- <link rel="stylesheet" href="<?= get_css(); ?>Page_new.min.css" defer> -->
     <title>Service Copy Page</title>
@@ -159,9 +159,9 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                 </div>
             </div>
             <div class="col-12 col-md-7 col-lg-9 _review_star">
-                <div class="reviews_2 ">
-                    <div class="owl-carousel" id="google_reviews">
-                        <div class=" review-item">
+                <div class="swiper reviews_2 ">
+                    <div class="swiper-wrapper" id="google_reviews">
+                        <div class="swiper-slide review-item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -185,7 +185,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-                        <div class=" review-item item">
+                        <div class="swiper-slide review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -209,7 +209,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-                        <div class=" review-item item">
+                        <div class="swiper-slide review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -233,7 +233,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-                        <div class=" review-item item">
+                        <div class="swiper-slide review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -257,7 +257,8 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-                        <div class=" review-item item">
+
+                        <div class="swiper-slide review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -281,7 +282,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-                        <div class=" review-item item">
+                        <div class="swiper-slide review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -305,7 +306,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-                        <div class=" review-item item">
+                        <div class="swiper-slide review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -329,7 +330,8 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
-                        <div class=" review-item item">
+
+                        <div class="swiper-slide review-item item">
                             <div class="flex" style="justify-content: space-between;">
                                 <div class="user_info flex">
                                     <div class="user_img">
@@ -353,6 +355,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                                 </div>
                             </div>
                         </div>
+
                     </div>
                     <!-- <div class="swiper-pagination"></div> -->
                 </div>
@@ -642,35 +645,35 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                 <a href="tel:+1 (833) 233-4447"><button style="color:black;">+1 (833) 233-4447</button></a>
      </div>
 
-    <!-- <script  src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js" ></script> -->
+    <script  src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js" ></script>
     <script>
-        // const swiper = new Swiper('.swiper', {
-        //     // Optional parameters
-        //     direction: 'horizontal',
-        //     loop: true,
-        //     lazyLoading: true,
-        //     breakpoints: {
-        //     780: {
-        //         slidesPerView: 3,
-        //     },
-        //     600: {
-        //         slidesPerView: 1,
-        //     }
-        //     },pagination: {
-        //     el: ".swiper-pagination",
-        //     clickable: true,
-        //     },
+        const swiper = new Swiper('.swiper', {
+            // Optional parameters
+            direction: 'horizontal',
+            loop: true,
+            lazyLoading: true,
+            breakpoints: {
+            780: {
+                slidesPerView: 3,
+            },
+            600: {
+                slidesPerView: 1,
+            }
+            },pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+            },
 
 
-        //     // spaceBetween: 30,
-        //     freeMode: true,
-        //     autoplay: {
-        //         delay: 2500,
-        //         disableOnInteraction: false,
-        //     },
-        // });
+            // spaceBetween: 30,
+            freeMode: true,
+            autoplay: {
+                delay: 2500,
+                disableOnInteraction: false,
+            },
+        });
     </script>
-    <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" ></script>
     <!-- <script asyns src="<?= get_js() ?>side_form_new.js"></script> -->
     
 <script>
@@ -739,30 +742,10 @@ $(document).ready(function(){
             });
 
             $('.owl-carousel').owlCarousel({
-            loop: true,    
-            margin: 20,
-            autoplay: true,
-            autoplayTimeout: 3000,    
-            autoplayHoverPause: true,
-            dots: false,
-            responsive: {
-                0: {
-                    items: 1
-                },
-
-                800: {
-                    items: 2
-                },
-                1000: {
-                    item: 3
-                }
-            },
-            onInitialized: function() {
-      var owlCarouselContainer = $('.owl-carousel');
-      owlCarouselContainer.get(0).addEventListener('touchstart', function(event){
-        event.preventDefault();
-      }, { passive: true });
-    }
+    items: 1,
+    loop: true,
+    autoplay: true,
+    autoplayTimeout: 3000
   });
 })
 
@@ -779,17 +762,8 @@ function handleResize() {
 }
 window.addEventListener('resize', handleResize);
 handleResize();
-function loadBoxicons3() {
-    var link = document.createElement('link');
-    link.rel = 'stylesheet';
-    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css';
-    document.head.appendChild(link);
-  }
-  window.addEventListener('load', loadBoxicons3);
+
 </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
-        integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script async src="<?= get_js() ?>small_form_new.js"></script>
 
 </body>
