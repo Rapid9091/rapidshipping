@@ -48,7 +48,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
 
 </head>
 
-<body onload="initMap()">
+<body >
 
     <div class="">
     <div>
@@ -504,7 +504,6 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                         <div class="sideformbuttonx" style="text-align: center;margin-top: 10px;"><a href="tel:+1 (833) 233-4447"><button style="width: 200px;height:50px;border-radius:100px;background-color: #ff5722;color:white;cursor: pointer;border: 0;">+1 (833) 233-4447</button></a>
                     </div>
                     </div>
-                    <div id="mapha" style="width: 200px; height:200px;"></div>
                 </div>
             </div>
         </div>
@@ -767,14 +766,6 @@ function handleResize() {
 window.addEventListener('resize', handleResize);
 handleResize();
 
-function initMap() {
-  var mapOptions = {
-    center: { lat: 37.7749, lng: -122.4194 }, // Specify the initial center coordinates
-    zoom: 12 // Specify the initial zoom level
-  };
-  
-  var map = new google.maps.Map(document.getElementById('mapha'), mapOptions); // Create the map instance and bind it to the 'map' container
-}
 </script>
 <script async src="<?= get_js() ?>small_form_new.js"></script>
 
