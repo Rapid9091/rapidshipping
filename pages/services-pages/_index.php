@@ -599,6 +599,12 @@ else ob_start(); ?>
             }
         }
         addWidthHeightAttributesToImage()
+        function addWidthHeightAttributesToImage1() {
+            var imageElements = document.getElementById('customer-face');
+            imageElements.setAttribute('width', '76px');
+            imageElements.setAttribute('height', '40px');
+        }
+        addWidthHeightAttributesToImage1()
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
 
