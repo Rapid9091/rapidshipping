@@ -202,6 +202,7 @@ ReWriteRule ^boston-to-los-angeles-auto-transport([/]?)$ pages/cities/boston-to-
 ReWriteRule ^greenville-to-charlotte-auto-transport([/]?)$ pages/cities/greenville-to-charlotte-auto-transport.php [NC,L]
 ReWriteRule ^houston-to-corpus-christi-auto-transport([/]?)$ pages/cities/houston-to-corpus-christi-auto-transport.php [NC,L]
 ReWriteRule ^houston-to-denver-auto-transport([/]?)$ pages/cities/houston-to-denver-auto-transport.php [NC,L]
+ReWriteRule ^houston-to-hawaii-auto-transport([/]?)$ pages/cities/houston-to-hawaii-auto-transport.php [NC,L]
 ReWriteRule ^illinois-to-lewiston-auto-transport([/]?)$ pages/cities/illinois-to-lewiston-auto-transport.php [NC,L]
 ReWriteRule ^jacksonville-to-atlanta-auto-transport([/]?)$ pages/cities/jacksonville-to-atlanta-auto-transport.php [NC,L]
 ReWriteRule ^las-vegas-to-hawaii-auto-transport([/]?)$ pages/cities/las-vegas-to-hawaii-auto-transport.php [NC,L]
