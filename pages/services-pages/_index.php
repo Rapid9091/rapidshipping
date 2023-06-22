@@ -1,4 +1,21 @@
 <?php
+$expirationTime = 60 * 60 * 24 * 365;
+$fileExtension = strtolower(pathinfo($_SERVER['REQUEST_URI'], PATHINFO_EXTENSION));
+$validFileTypes = array(
+    'css' => 'text/css',
+    'js' => 'application/javascript',
+    'jpg' => 'image/jpeg',
+    'jpeg' => 'image/jpeg',
+    'png' => 'image/png',
+    'gif' => 'image/gif'
+);
+if (array_key_exists($fileExtension, $validFileTypes)) {
+    $contentType = $validFileTypes[$fileExtension];
+    header("Content-Type: $contentType");
+    header("Expires: " . gmdate("D, d M Y H:i:s", time() - 3600) . " GMT");
+}
+ ?>
+<?php
 include_once "../../init.php";
 
 if (isset($_GET['page_id'])) {
