@@ -357,7 +357,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                         </div>
 
                     </div>
-                    <!-- <div class="swiper-pagination"></div> -->
+                    <div class="swiper-pagination" style="display: none;"></div>
                 </div>
             </div>
         </div>
