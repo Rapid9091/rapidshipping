@@ -28,3 +28,5 @@ define('header_small_form', COMPONENT . "header_small_form.php");
 define('new_head', COMPONENT . "head_new.php");
 define('new_footer', COMPONENT . "new_footer.php");
 define('new_script', COMPONENT . "script_new.php");
+define('copy_footer', COMPONENT . "copy_footer.php");
+define('copy_state_list', COMPONENT . "copy_state_list.php");

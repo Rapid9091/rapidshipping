@@ -75,8 +75,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     <!-- End Header -->
     <div class="banner-section"  id="myDiv2">
         <img class="banner-section-img " id="desk_image" width="100%" height="100%" src="<?= get_img() ?>copy_desktop.webp" alt="Rapid Auto Shipping">
-        <!-- <img class="banner-section-img mob_image" width="100%" height="100%" src="<?= get_img() ?>copy_mobile.webp" alt="Rapid Auto Shipping"> -->
-        
+       
         <div class="row banner-section-row p-5">
             <div class="col-md-12 col-lg-8 p-4 banner-section-row-col-1">
                 <div class="row p-2">
@@ -508,7 +507,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
             </div>
         </div>
     </div>
-    <div class="key-section">
+    <div class="key-section" id="key-section">
         <img src="<?= get_img() ?>car-key-new1.jpeg" width="100%" height="100%" loading="lazy" alt="Rapid Auto Shipping">
         <div class="row p-5 key-section-row">
             <div class="col-12">
@@ -587,90 +586,8 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
             </div>
         </div>
     </div>
-    <div class="all-state-section advantage_section">
-        <div class="border border-danger  rounded-4">
-            <div class="row p-4  text-center">
-                <div class="col-12">
-                    <h2 style="font-size: 1.9rem;font-family:arial"><strong>Auto shipping <span style="color: #ff5722;">States</span> in USA </strong></h2>
-                    </h2>
-                </div>
-            </div>
-            <div class="row px-5 py-3  advantage_section-row-col-2">
-                <div class="col-6 col-sm-4 col-lg-2 _states_">
-                    <ul>
-                        <li><a href="<?= get_state() ?>/alabama" rel="dofollow">Alabama</a><br></li>
-                        <li><a href="<?= get_state() ?>/Alaska" rel="dofollow">Alaska</a><br></li>
-                        <li><a href="<?= get_state() ?>/Arizona" rel="dofollow">Arizona</a><br></li>
-                        <li><a href="<?= get_state() ?>/Arkansas" rel="dofollow">Arkansas</a><br></li>
-                        <li><a href="<?= get_state() ?>/California" rel="dofollow">California</a><br></li>
-                        <li><a href="<?= get_state() ?>/Connecticut" rel="dofollow">Connecticut</a><br></li>
-                        <li><a href="<?= get_state() ?>/Delaware" rel="dofollow">Delaware</a><br></li>
-                    </ul>
-                </div>
-                <div class="col-6 col-sm-4 col-lg-2 _states_">
-                    <ul>
-                        <li><a href="<?= get_state() ?>/hawaii" rel="dofollow">Hawaii</a><br></li>
-                        <li><a href="<?= get_state() ?>/idaho" rel="dofollow">Idaho</a><br></li>
-                        <li><a href="<?= get_state() ?>/illinois" rel="dofollow">Illinois</a><br></li>
-                        <li><a href="<?= get_state() ?>/indiana" rel="dofollow">Indiana</a><br></li>
-                        <li><a href="<?= get_state() ?>/iowa" rel="dofollow">Iowa</a><br></li>
-                        <li><a href="<?= get_state() ?>/kansas" rel="dofollow">Kansas</a><br></li>
-                        <li><a href="<?= get_state() ?>/kentucky" rel="dofollow">Kentucky</a><br></li>
-                        <li><a href="<?= get_state() ?>/louisiana" rel="dofollow">Louisiana</a><br></li>
-                    </ul>
-                </div>
-                <div class="col-6 col-sm-4 col-lg-2 _states_">
-                    <ul>
-                        <li><a href="<?= get_state() ?>/massachusetts" rel="dofollow">Massachusetts</a><br></li>
-                        <li><a href="<?= get_state() ?>/michigan" rel="dofollow">Michigan</a><br></li>
-                        <li><a href="<?= get_state() ?>/minnesota" rel="dofollow">Minnesota</a><br></li>
-                        <li><a href="<?= get_state() ?>/mississippi" rel="dofollow">Mississippi</a><br></li>
-                        <li><a href="<?= get_state() ?>/missouri" rel="dofollow">Missouri</a><br></li>
-                        <li><a href="<?= get_state() ?>/montana" rel="dofollow">Montana</a><br></li>
-                        <li><a href="<?= get_state() ?>/nebraska" rel="dofollow">Nebraska</a><br></li>
-                        <li><a href="<?= get_state() ?>/nevada" rel="dofollow">Nevada</a><br></li>
-                    </ul>
-                </div>
-                <div class="col-6 col-sm-4 col-lg-2 _states_">
-                    <ul>
-                        <li><a href="<?= get_state() ?>/new-mexico" rel="dofollow">New Mexico</a><br></li>
-                        <li><a href="<?= get_state() ?>/new-york" rel="dofollow">New York</a><br></li>
-                        <li><a href="<?= get_state() ?>/north-carolina" rel="dofollow">North Carolina</a><br></li>
-                        <li><a href="<?= get_state() ?>/north-dakota" rel="dofollow">North Dakota</a><br></li>
-                        <li><a href="<?= get_state() ?>/ohio" rel="dofollow">Ohio</a><br></li>
-                        <li><a href="<?= get_state() ?>/oklahoma" rel="dofollow">Oklahoma</a><br></li>
-                        <li><a href="<?= get_state() ?>/oregon" rel="dofollow">Oregon</a><br></li>
-                        <li><a href="<?= get_state() ?>/pennsylvania" rel="dofollow">Pennsylvania</a><br></li>
-                    </ul>
-                </div>
-                <div class="col-6 col-sm-4 col-lg-2 _states_">
-                    <ul>
-                        <li><a href="<?= get_state() ?>/south-dakota" rel="dofollow">South Dakota</a><br></li>
-                        <li><a href="<?= get_state() ?>/tennessee-tn" rel="dofollow">Tennessee</a><br></li>
-                        <li><a href="<?= get_state() ?>/texas-tx" rel="dofollow">Texas</a><br></li>
-                        <li><a href="<?= get_state() ?>/utah-ut" rel="dofollow">Utah</a><br></li>
-                        <li><a href="<?= get_state() ?>/vermont-vt" rel="dofollow">Vermont</a><br></li>
-                        <li><a href="<?= get_state() ?>/virginia-va" rel="dofollow">Virginia</a><br></li>
-                        <li><a href="<?= get_state() ?>/washington-wa" rel="dofollow">Washington</a><br></li>
-                        <li><a href="<?= get_state() ?>/west-virginia-wv" rel="dofollow">West Virginia</a><br></li>
-                        <li><a href="<?= get_state() ?>/wisconsin-wi" rel="dofollow">Wisconsin</a><br></li>
-                    </ul>
-                </div>
-                <div class="col-6 col-sm-4 col-lg-2 _states_">
-                    <ul>
-                        <li><a href="<?= get_state() ?>/florida" rel="dofollow">Florida</a><br></li>
-                        <li><a href="<?= get_state() ?>/georgia" rel="dofollow">Georgia</a><br></li>
-                        <li><a href="<?= get_state() ?>/maine" rel="dofollow">Maine</a><br></li>
-                        <li><a href="<?= get_state() ?>/maryland" rel="dofollow">Maryland</a><br></li>
-                        <li><a href="<?= get_state() ?>/new-hampshire" rel="dofollow">New Hampshire</a><br></li>
-                        <li><a href="<?= get_state() ?>/new-jersey" rel="dofollow">New Jersey</a><br></li>
-                        <li><a href="<?= get_state() ?>/wyoming-wy" rel="dofollow">Wyoming</a><br></li>
-                        <li><a href="<?= get_state() ?>/rhode-island" rel="dofollow">Rhode Island</a><br></li>
-                        <li><a href="<?= get_state() ?>/south-carolina" rel="dofollow">South Carolina</a><br></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+    <div class="all-state-section advantage_section" id="all-state-section">
+        
     </div>
     <div class="contact_info">
         <div class="row align-items-center p-3 border-bottom">
@@ -712,7 +629,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
                 <a href="https://www.youtube.com/@rapidautoshipping7218" target="_blank"><span style="opacity:0;">.</span><?= $youtube ?></a>
             </div>
         </div>
-        <div class="d-none gap-3 flex-wrap mt-4 text-center mx-auto justify-content-center lik">
+        <!-- <div class="d-none gap-3 flex-wrap mt-4 text-center mx-auto justify-content-center lik">
             <div class="col-1 border-end border-2 border-secondary-subtle py-3 important-urls-grid-1"><a href="<?= home_path(); ?>">Home</a></div>
             <div class="col-1 border-end  border-secondary-subtle border-2 py-3 important-urls-grid-1"><a href="<?= home_path(); ?>services">Services</a></div>
             <div class="col-1 border-end border-2 py-3 important-urls-grid-1"><a href="<?= home_path(); ?>blogs">Blogs</a></div>
@@ -721,125 +638,10 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
             <div class="col-1 border-start border-2 py-3 important-urls-grid-1"><a href="<?= home_path(); ?>about-us">About Us</a></div>
             <div class="col-1 border-start border-2 py-3 important-urls-grid-1"><a href="<?= home_path(); ?>cars">Cars</a></div>
             <div class="col-2 border-start border-2 py-3 important-urls-grid-1 important-urls-grid-1-special"><a href="<?= home_path(); ?>state-to-state">State To State</a></div>
-
-        </div>
+        </div> -->
     </div>
-    <div class="footer mt-4">
-        <div class="row  align-items-start">
-            <div class="col-6 col-md-4 col-lg-3">
-                <p>Quick Links</p>
-                <ul>
-                    <li><a href="<?= home_path(); ?>">Home</a></li>
-                    <li><a href="<?= home_path(); ?>about-us">About Us</a></li>
-                    <li><a href="<?= home_path(); ?>contact-us">Contact Us</a></li>
-                    <li><a href="<?= home_path(); ?>services">Services</a></li>
-                    <li><a href="<?= home_path(); ?>blogs">Blogs</a></li>
-                    <li><a href="<?= home_path(); ?>states">States</a></li>
-                    <li><a href="<?= home_path(); ?>cars">Cars</a></li>
-                    <li><a href="<?= home_path(); ?>auto-transport-carriers">Reviews</a></li>
-                    <li><a href="<?= home_path(); ?>state-to-state">State to state</a></li>
-                    <li><a href="<?= home_path(); ?>blogs/auto-shipping-calculator">Calculator</a></li>
-
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <p class="footer-grid-headings">State to state</p>
-                <ul>
-                    <li><a href="<?= home_path(); ?>state-to-state">State to state</a></li>
-                    <li><a href="<?= home_path(); ?>state-to-state/texas-to-arizona">texas to arizona</a></li>
-                    <li><a href="<?= home_path(); ?>state-to-state/texas-to-arkansas">texas to arkansas</a></li>
-                    <li><a href="<?= home_path(); ?>state-to-state/alabama-to-alaska">alabama to alaska</a></li>
-                    <li><a href="<?= home_path(); ?>state-to-state/texas-to-california">texas to california</a></li>
-                    <li><a href="<?= home_path(); ?>state-to-state/alabama-to-arizona">Alabama to Arizona</a></li>
-                    <li><a href="<?= home_path(); ?>state-to-state/california-to-texas">california to texas</a></li>
-                    <li><a href="<?= home_path(); ?>state-to-state/california-to-arizona">California to Arizona</a></li>
-                    <li><a href="<?= home_path(); ?>state-to-state/new-mexico-to-arizona">New mexico to arizona</a></li>
-                    <li><a href="<?= home_path(); ?>state-to-state/texas-to-colorado">texas to colorado</a></li>
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <p class="footer-grid-headings">States</p>
-                <ul>
-                    <li><a href="<?= home_path(); ?>states">States</a></li>
-                    <li><a href="<?= home_path(); ?>states/alaska">Alaska</a></li>
-                    <li><a href="<?= home_path(); ?>states/california">California</a></li>
-                    <li><a href="<?= home_path(); ?>states/florida">Florida</a></li>
-                    <li><a href="<?= home_path(); ?>states/hawaii">Hawaii</a></li>
-                    <li><a href="<?= home_path(); ?>states/indiana">Indiana</a></li>
-                    <li><a href="<?= home_path(); ?>states/new-york">New York</a></li>
-                    <li><a href="<?= home_path(); ?>states/new-mexico">New Mexico</a></li>
-                    <li><a href="<?= home_path(); ?>states/texas-tx">Texas</a></li>
-                    <li><a href="<?= home_path(); ?>states/washington-wa">Washington</a></li>
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <p class="footer-grid-headings">Our Latest Blogs</p>
-                <ul>
-                    <li><a href="<?= home_path(); ?>blogs/boat-shipping-how-much-does-it-cost-to-transport-a-boat">What You Should Know About Boat Shipping?</a></li>
-                    <li><a href="<?= home_path(); ?>blogs/enclosed-vs-open-car-transport">enclosed vs open car transport</a></li>
-                    <li><a href="<?= home_path(); ?>blogs/cheapest-way-to-ship-a-car-to-hawaii">Searching For The Cheapest Way To Ship A Car To Hawaii?</a></li>
-                    <li><a href="<?= home_path(); ?>blogs/what-is-it-snowbird-auto-transport">Looking For The Best Snowbird Auto Transport</a></li>
-                    <li><a href="<?= home_path(); ?>blogs/transporting-my-car-to-another-state">The Best Way For Transporting My Car To Another State</a></li>
-                    <li><a href="<?= home_path(); ?>blogs/cost-from-california-to-texas">Ship Car From California To Texas</a></li>
-                    <li><a href="<?= home_path(); ?>blogs/bus-transportation-services">Benefits Of Using Bus Transport Services</a></li>
-                    <li><a href="<?= home_path(); ?>blogs/fifth-wheel-transport-services">Fifth Wheel Transport Services</a></li>
-                </ul>
-            </div>
-        <!-- </div>
-        <div class="row mt-3"> -->
-            <div class="col-6 col-md-4 col-lg-3">
-                <p class="footer-grid-headings">Policies</p>
-                <ul>
-                    <li><a href="<?= home_path(); ?>privacy-policy">Privacy Policy</a></li>
-                    <li><a href="<?= home_path(); ?>terms-and-conditions">Terms and Conditions</a></li>
-                    <li><a href="<?= home_path(); ?>">Testimonials</a></li>
-                    <li><a href="<?= home_path(); ?>faqs">FAQ</a></li>
-
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <p class="footer-grid-headings">Cars</p>
-                <ul>
-                    <li><a href="<?= home_path(); ?>cars">Cars</a></li>
-                    <li><a href="<?= home_path(); ?>cars/nissan-car-transport-service">Nissan</a></li>
-                    <li><a href="<?= home_path(); ?>cars/chrysler-car-transport-service">Chrysler</a></li>
-                    <li><a href="<?= home_path(); ?>cars/dodge-car-transport-service">Dodge</a></li>
-                    <li><a href="<?= home_path(); ?>cars/toyota-car-transport-service">Toyota</a></li>
-                    <li><a href="<?= home_path(); ?>cars/chevrolet">Chevrolet</a></li>
-                    <li><a href="<?= home_path(); ?>cars/ford-car-transport-service">ford</a></li>
-                    <li><a href="<?= home_path(); ?>cars/mazda-car-transport-service">Mazda</a></li>
-                    <li><a href="<?= home_path(); ?>cars/honda-car-transport-service">Honda</a></li>
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <p class="footer-grid-headings">Contact us</p>
-                <ul>
-                    <li><a href="https://www.facebook.com/people/Rapid-Auto-Shipping/100077073625103/" target="_blank">Facebook</a></li>
-                    <li><a href="https://www.instagram.com/rapidautoshipping/" target="_blank">Instagram</a></li>
-                    <li><a href="https://twitter.com/ShippingRapid" target="_blank">Twitter</a></li>
-                    <li><a href="https://www.linkedin.com/in/rapid-auto-shipping-909217261/" target="_blank">Linkedin</a></li>
-                    <li><a href="https://www.youtube.com/@rapidautoshipping7218" target="_blank">Youtube</a></li>
-                    <li><a href="https://www.google.com/maps/place/RAPID+AUTO+SHIPPING/@34.468384,-101.304284,5z/data=!4m6!3m5!1s0x87004d8702dc4ac7:0x9f3bfd5545d14ae8!8m2!3d34.4676528!4d-101.3042849!16s%2Fg%2F11rn45vn7h?hl=en" target="_blank">Address</a></li>
-
-                </ul>
-            </div>
-            <div class="col-6 col-md-4 col-lg-3">
-                <p class="footer-grid-headings">Services</p>
-                <ul>
-                    <li><a href="<?= home_path(); ?>services/yacht-shipping-services">yacht shipping services</a></li>
-                    <li><a href="<?= home_path(); ?>services/international-boat-transport">international boat transport</a></li>
-                    <li><a href="<?= home_path(); ?>services/ambulance-shipping">ambulance shipping</a></li>
-                    <li><a href="<?= home_path(); ?>services/international-heavy-equipment-shipping">international heavy equipment shipping</a></li>
-                    <li><a href="<?= home_path(); ?>services/hauling-isuzu-npr-truck">hauling isuzu npr truck</a></li>
-                    <li><a href="<?= home_path(); ?>services/komatsu-equipment-shipping">komatsu equipment shipping</a></li>
-                    <li><a href="<?= home_path(); ?>services/transporting-case-trucks">transporting case trucks</a></li>
-                    <li><a href="<?= home_path(); ?>services/new-holland-tractor">new holland tractor</a></li>
-                    <li><a href="<?= home_path(); ?>services/forklift-transportation-company">forklift transportation company</a></li>
-                    <li><a href="<?= home_path(); ?>services/international-car-shipping">international car shipping</a></li>
-                    <li><a href="<?= home_path(); ?>services/international-motorcycle-shipping">international motorcycle shipping</a></li>
-                </ul>
-            </div>
-        </div>
+    <div class="footer mt-4" id="footer">
+        
     </div>
     <div class="last-strip" style="color:#fff; font-size:13px;text-align:center;padding:5px;">
         <p>
@@ -914,13 +716,16 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
 $.fn.isInViewport = function() {
     var elementTop = $(this).offset().top;
     var elementBottom = elementTop + $(this).outerHeight();
-
     var viewportTop = $(window).scrollTop();
     var viewportBottom = viewportTop + $(window).height();
-
     return elementBottom > viewportTop && elementTop < viewportBottom;
 };
-
+$.fn.isOutOfViewport = function() {
+    var elementTop = $(this).offset().top;
+    var viewportTop = $(window).scrollTop();
+    var viewportBottom = viewportTop + $(window).height();
+    return elementTop >= viewportTop && elementTop < viewportBottom;
+};
 $(window).on('resize scroll', function() {
     if ($('#myDiv2').isInViewport()) {
         $('#topForm').html('<?php include small_form_new; ?>');
@@ -931,6 +736,11 @@ $(window).on('resize scroll', function() {
         $('#sideFrombody').show();
         $('#sideFrom').html('<?php include small_form_new; ?>');
     }
+// different function 
+if ($('#key-section').isOutOfViewport()) {
+    $('#all-state-section').html('<?php include copy_state_list; ?>')
+} else {
+    $('#footer').html('<?php include copy_footer; ?>')}
 });
 
 var image = document.getElementById('desk_image');
