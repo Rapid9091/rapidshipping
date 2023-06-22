@@ -658,6 +658,7 @@ else ob_start(); ?>
     <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
     <script>
         $(document).ready(function() {
+            $('#desk_image').removeAttr('lazyload');
             $.fn.isInViewport = function() {
                 var elementTop = $(this).offset().top;
                 var elementBottom = elementTop + $(this).outerHeight();
