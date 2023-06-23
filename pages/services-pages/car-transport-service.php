@@ -167,7 +167,7 @@ The duration required to relocate your car to its new destination depends on the
 Your moving consultant will provide you with an automobile quote that includes detailed information about the exact timing of both the loading and delivery. Rapid Auto Shipping offers numerous benefits, including ensuring fixed vehicle pickup and delivery dates.
 <h2><strong>What Are the Reasons to Choose Rapid Auto Shipping?</strong></h2>
 <h3><strong>We have been shipping cars since 1999</strong></h3>
-For over 20 years, we have been a reliable car transport service source and earned an A+ rating with the Better Business Bureau. Our expertise in <a href="https://rapidautoshipping.com/cars"><strong>car shipping</strong></a> is evident in the quality of our services.
+For over 20 years, we have been a reliable car transport service source and earned an A+ rating with the Better Business Bureau. Our expertise in <a href="https://rapidautoshipping.com/cars" target="_blank"><strong>car shipping</strong></a> is evident in the quality of our services.
 <h3><strong>Car wash</strong></h3>
 Upon shipping your car with us, get a complimentary car wash, including the interior. Each vehicle will be eligible for up to $20 for the car wash.
 <br><br>
