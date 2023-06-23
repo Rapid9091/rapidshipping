@@ -68,7 +68,7 @@
   "@type": "Product",
   "@id": "https://www.rapidautoshipping.com/#product",
   "name": "Atlanta to Chattanooga Auto Transport| Rapid Auto Shipping",
-  "alternateName": "Atlanta to Chattanooga Auto Transportt",
+  "alternateName": "Atlanta to Chattanooga Auto Transport",
   "description": "Atlanta to Chattanooga auto transport carriers depend on vehicle size, manufacture, and style. Open, enclosed, and flatbed vehicle carriers are utilized. Open carriers are the most popular and cheap.",
   "brand": {
     "@type": "Organization",
@@ -122,7 +122,7 @@
 <br><br>
 <span style="font-weight: 400;">This implies your car is thoroughly examined, and the paperwork is filled out. This helps verify that your vehicle was delivered in the same condition as when you picked it up.</span>
 <br><br>
-<span style="font-weight: 400;">Rapid Auto Shipping exclusively hires experienced drivers. Good <a href="https://rapidautoshipping.com/services/open-car-shipping" target="_blank"><strong>open vehicle transport</strong></a> companies know the best routes from pick-up to drop-off. </span>
+<span style="font-weight: 400;">Rapid Auto Shipping exclusively hires experienced drivers. Good <a href="https://rapidautoshipping.com/services/open-car-shipping"  target="_blank"><strong>open vehicle transport</strong></a> companies know the best routes from pick-up to drop-off. </span>
 <br><br>
 <span style="font-weight: 400;">Drivers are competent in loading and unloading cars to deliver them in the same condition. Rapid Auto Shipping inspects each automobile according to the BOL form filed upon pick-up. To guarantee each client is happy that their car was securely delivered.</span>
 <h2><b>Enclosed Atlanta to Chattanooga Auto Transport</b></h2>
@@ -205,6 +205,8 @@
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">On the bill of lading, any exceptions about the <a href="https://rapidautoshipping.com/states" target="_blank"><strong>state</strong> </a>of the vehicle must be written down.</span></li>
 </ul>
 <span style="font-weight: 400;"> </span>
+
+
 
 </body>
 </html>
