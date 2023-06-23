@@ -19,7 +19,7 @@
 <meta name="keywords" content="Car Shipping Service" />
 <meta property="article:tag" content="Car Shipping Service" />
 
-<<script type="application/ld+json">
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
