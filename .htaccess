@@ -100,7 +100,7 @@ ReWriteRule ^services/transporting-case-trucks([/]?)$ pages/services-pages/trans
 #ReWriteRule ^services/truck-shipping-service([/]?)$ pages/services-pages/truck-shipping-service.php [NC,L]
 #ReWriteRule ^services/trucking-company-near-me([/]?)$ pages/services-pages/trucking-company-near-me.php [NC,L]
 ReWriteRule ^services/vehicle-movers([/]?)$ pages/services-pages/vehicle-movers.php [NC,L]
-ReWriteRule ^services/vehicle-shipping-services([/]?)$ pages/services-pages/vehicle-shipping-services.php [NC,L]
+#ReWriteRule ^services/vehicle-shipping-services([/]?)$ pages/services-pages/vehicle-shipping-services.php [NC,L]
 #ReWriteRule ^services/yacht-shipping-services([/]?)$ pages/services-pages/yacht-shipping-services.php [NC,L]
 #ReWriteRule ^services/([0-9A-Za-z\-]+)([/]?)$ pages/services-pages/$1.php [NC,L]
 ReWriteRule ^services/([0-9A-Za-z\-]+)([/]?)$ pages/services-pages/_index.php?page_id=$1 [NC,L]
