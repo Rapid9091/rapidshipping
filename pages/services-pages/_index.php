@@ -115,7 +115,6 @@ else ob_start(); ?>
                     <div class="row p-2">
                         <div class="col-12 banner-heading-col">
                             <h1><?php echo $data['h1']; ?></h1>
-                            <h2>Rapidauto</h2>
                         </div>
                         <div class="col-12 banner-paragraph-col text-container-xyz">
                             <p class="text-content-xyz mt-2"><?php echo $data['h1_about']; ?></p>
