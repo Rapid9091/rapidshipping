@@ -26,8 +26,8 @@ ErrorDocument 404 https://rapidautoshipping.com/404
 ReWriteRule ^$ pages/home.php [NC,L]
 
 #copy page of services
-ReWriteRule ^copy([/]?)$ pages/copy.php [NC,L]
-ReWriteRule ^blogs/blogcopy([/]?)$ pages/blogs/blogcopy.php [NC,L]
+#ReWriteRule ^copy([/]?)$ pages/copy.php [NC,L]
+#ReWriteRule ^blogs/blogcopy([/]?)$ pages/blogs/blogcopy.php [NC,L]
 
 #
 #=============================================================================================================
@@ -127,6 +127,7 @@ ReWriteRule ^states/([0-9A-Za-z\-]+)([/]?)$ pages/states/_index.php?page_id=$1 [
 
 # This route work for cities-pages(cities)
 #ReWriteRule ^cities/([0-9A-Za-z\-]+)([/]?)$ pages/cities/$1.php [NC,L]
+ReWriteRule ^/([0-9A-Za-z\-]+)([/]?)$ pages/cities/_index.php?page_id=$1 [NC,L]
 ReWriteRule ^albuquerque-to-phoenix-auto-transport([/]?)$ pages/cities/albuquerque-to-phoenix-auto-transport.php [NC,L]
 ReWriteRule ^atlanta-to-chattanooga-auto-transport([/]?)$ pages/cities/atlanta-to-chattanooga-auto-transport.php [NC,L]
 ReWriteRule ^atlanta-to-chicago-auto-transport([/]?)$ pages/cities/atlanta-to-chicago-auto-transport.php [NC,L]
