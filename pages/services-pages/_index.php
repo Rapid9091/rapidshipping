@@ -1,4 +1,21 @@
 <?php
+$expirationTime = 60 * 60 * 24 * 365;
+$fileExtension = strtolower(pathinfo($_SERVER['REQUEST_URI'], PATHINFO_EXTENSION));
+$validFileTypes = array(
+    'css' => 'text/css',
+    'js' => 'application/javascript',
+    'jpg' => 'image/jpeg',
+    'jpeg' => 'image/jpeg',
+    'png' => 'image/png',
+    'gif' => 'image/gif'
+);
+if (array_key_exists($fileExtension, $validFileTypes)) {
+    $contentType = $validFileTypes[$fileExtension];
+    header("Content-Type: $contentType");
+    header("Expires: " . gmdate("D, d M Y H:i:s", time() - 3600) . " GMT");
+}
+ ?>
+<?php
 include_once "../../init.php";
 
 if (isset($_GET['page_id'])) {
@@ -24,15 +41,11 @@ else ob_start(); ?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="<?= get_img('favicon_rapid.ico') ?>" />
     <?= $data['meta']; ?>
-    <!-- <meta name="robots" content="index,follow"> -->
-    <!-- <meta name="google-site-verification" content="MD6jbJ4iZfjq-IIzuv20KZWbWZwJC6xsh9X2fMj3Vjo" /> -->
     <link rel="preload" href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" as="style" onload="this.onload=null;this.rel='stylesheet'" async>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async>
-    <link rel="stylesheet" href="<?= get_css() ?>copy.css">
+    <link rel="stylesheet" href="<?= get_css() ?>copy_new.css">
     <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css">
-    <!-- <meta name="title" content="The Best Ambulance Transport Services| RAPID AUTO SHIPPING" /> -->
-    <!-- <meta name="description" content="Ambulance transportation is a specialty of Rapid Auto Shipping. We are experts in offering shipping services for ambulances in all states." /> -->
     <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
     <title> <?= $data['title']; ?></title>
     <style>
@@ -599,6 +612,12 @@ else ob_start(); ?>
             }
         }
         addWidthHeightAttributesToImage()
+        function addWidthHeightAttributesToImage1() {
+            var imageElements = document.getElementById('customer-face');
+            imageElements.setAttribute('width', '76px');
+            imageElements.setAttribute('height', '40px');
+        }
+        addWidthHeightAttributesToImage1()
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
 
@@ -674,12 +693,14 @@ else ob_start(); ?>
                     $('#footer').html('<?php include copy_footer; ?>')
                 }
             });
+            
+            $('#desk_image').removeAttr('lazyload');
 
         })
 
         var image = document.getElementById('desk_image');
         var originalSrc = '<?= get_img() ?>copy_desktop.webp';
-        var alternateSrc = '<?= get_img() ?>copy_mobile.webp';
+        var alternateSrc = '<?= get_img() ?>copy_mobile2.webp';
 
         function handleResize() {
             var windowWidth = window.innerWidth || document.documentElement.clientWidth;
