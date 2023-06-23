@@ -14,7 +14,7 @@ if (array_key_exists($fileExtension, $validFileTypes)) {
     header("Content-Type: $contentType");
     header("Expires: " . gmdate("D, d M Y H:i:s", time() - 3600) . " GMT");
 }
- ?>
+?>
 <?php
 include_once "../../init.php";
 
@@ -48,9 +48,35 @@ else ob_start(); ?>
     <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css">
     <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
     <title> <?= $data['title']; ?></title>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "Rapid Auto Shipping",
+            "url": "https://www.rapidautoshipping.com/",
+            "@id": "https://rapidautoshipping.com/#website",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://www.rapidautoshipping.com/search?keywords={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Services",
+                "item": "https://www.rapidautoshipping.com/services/"
+            }]
+        }
+    </script>
     <style>
         #sideFrombody {
-            display: none;
+            display: none; 
         }
     </style>
 </head>
@@ -612,6 +638,7 @@ else ob_start(); ?>
             }
         }
         addWidthHeightAttributesToImage()
+
         function addWidthHeightAttributesToImage1() {
             var imageElements = document.getElementById('customer-face');
             imageElements.setAttribute('width', '76px');
@@ -693,7 +720,7 @@ else ob_start(); ?>
                     $('#footer').html('<?php include copy_footer; ?>')
                 }
             });
-            
+
             $('#desk_image').removeAttr('lazyload');
 
         })
@@ -712,8 +739,98 @@ else ob_start(); ?>
         }
         window.addEventListener('resize', handleResize);
         handleResize();
+        var metaDescription = document.querySelector('meta[name="description"]');
+        var descriptionContent = "";
+        if (metaDescription) {
+        descriptionContent = metaDescription.getAttribute('content');
+        }
+        var metatitle = document.querySelector('meta[name="title"]');
+        var titleContent = "";
+        var titleContent2 = "";
+        if (metatitle) {
+        titleContent = metatitle.getAttribute('content');
+            var titleContent = titleContent.split("|");
+            var titleContent = titleContent[0].trim();
+            var titleContent2 = titleContent+' | Rapid Auto Shipping'
+        }
     </script>
     <script async src="<?= get_js() ?>small_form_new.js"></script>
+    <script>
+        const mySchema1 = {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "@id": "https://www.rapidautoshipping.com/#organization",
+            "name": "Rapid Auto Shipping",
+            "legalName": "Rapid Auto Shipping",
+            "alternateName": "Rapid Auto Shipping",
+            "url": "https://www.rapidautoshipping.com/",
+            "founder": "Johny Taylor",
+            "foundingDate": "2016",
+            "sameAs": [
+                "https://www.rapidautoshipping.com",
+                "https://twitter.com/ShippingRapid",
+                "https://www.facebook.com/Rapidautoshipping",
+                "https://www.youtube.com/@rapidautoshipping7218",
+                "https://www.instagram.com/rapidautoshipping/",
+                "https://www.linkedin.com/company/rapid-auto-shipping",
+                "https://www.trustpilot.com/review/rapidautoshipping.com",
+                "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
+                "https://www.provenexpert.com/en-us/rapid-auto-shipping"
+            ],
+            "description": `${descriptionContent}`,//page description
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
+            }
+        }
+        const script1 = document.createElement('script');
+        script1.type = "application/ld+json";
+        script1.text = JSON.stringify(mySchema1);
+        document.head.appendChild(script1);
+    </script>
+    <script>
+     const mySchema2 =  {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "@id": "https://www.rapidautoshipping.com/#product",
+            "name": `${titleContent2}`,
+            "alternateName": `${titleContent}`,
+            "description": `${descriptionContent}.`,
+            "brand": {
+                "@type": "Organization",
+                "@id": "https://www.rapidautoshipping.com/#organization"
+            },
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.rapidautoshipping.com/#webpage"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "@id": "https://rapidautoshipping.com/#aggregateRating",
+                "ratingValue": 4.8,
+                "ratingCount": 545,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        }
+        const script2 = document.createElement('script');
+        script2.type = "application/ld+json";
+        script2.text = JSON.stringify(mySchema2);
+        document.head.appendChild(script2);
+    </script>
+    <script>
+     const mySchema3 = {
+            "@context": "https://schema.org",
+            "@type": "Service",
+            "serviceType": `${titleContent2}`,
+            "alternateName": `${titleContent}`
+        }
+        const script3 = document.createElement('script');
+        script3.type = "application/ld+json";
+        script3.text = JSON.stringify(mySchema3);
+        document.head.appendChild(script3);
+    </script>
+    
 </body>
 
 </html>
