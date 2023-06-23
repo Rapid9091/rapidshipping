@@ -28,7 +28,7 @@ ReWriteRule ^$ pages/home.php [NC,L]
 #copy page of services
 ReWriteRule ^copy([/]?)$ pages/copy.php [NC,L]
 ReWriteRule ^blogs/blogcopy([/]?)$ pages/blogs/blogcopy.php [NC,L]
-
+ReWriteRule ^([0-9A-Za-z\-]+)([/]?)$ pages/cities/_index.php?page_id=$1 [NC,L]
 #
 #=============================================================================================================
 #
