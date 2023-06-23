@@ -231,7 +231,7 @@
  	<li><span style="font-weight: 400;"> Before pick-up, the auto transport carrier assigned to your vehicle at the time of dispatch will contact you. They will collaborate with you to schedule a mutually convenient time for their arrival at your doorstep.</span></li>
  	<li><span style="font-weight: 400;"> Before loading your car, it is recommended that you conduct a thorough inspection of your vehicle once the car shipping company arrives. This is a critical phase in the automobile transportation procedure. It is done in collaboration with your transport truck driver, who will identify any existing damage on a form or in an app. </span></li>
 </ul>
-<span style="font-weight: 400;">          We highly recommend that you take pictures of all four sides of the vehicle, including the top, and photos of                  the interior and the odometer displaying the current mileage before loading it onto the car shipping trailer.</span>
+<span style="font-weight: 400;"> We highly recommend that you take pictures of all four sides of the vehicle, including the top, and photos of the interior and the odometer displaying the current mileage before loading it onto the car shipping trailer.</span>
 <ul>
  	<li><span style="font-weight: 400;"> Your vehicle has been loaded and is currently en route to your destination.</span></li>
 </ul>
