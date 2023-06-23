@@ -1,22 +1,47 @@
 <?php
+// Specify the expiration time for static resources
+// $expirationTime = 60 * 60 * 24 * 365; // Set to 1 week (adjust as needed)
+
+// // Get the file extension from the requested URL
+// $fileExtension = strtolower(pathinfo($_SERVER['REQUEST_URI'], PATHINFO_EXTENSION));
+
+// // Specify the file types for which to set the Expires header
+// $validFileTypes = array(
+//     'css' => 'text/css',
+//     'js' => 'application/javascript',
+//     'jpg' => 'image/jpeg',
+//     'jpeg' => 'image/jpeg',
+//     'png' => 'image/png',
+//     'gif' => 'image/gif'
+// );
+
+// // Check if the file extension is valid and set the appropriate Content-Type and Expires header
+// if (array_key_exists($fileExtension, $validFileTypes)) {
+//     $contentType = $validFileTypes[$fileExtension];
+//     header("Content-Type: $contentType");
+//     header("Expires: " . gmdate("D, d M Y H:i:s", time() + $expirationTime) . " GMT");
+// }
+?>
+<?php
 include_once "../../init.php";
 
 if (isset($_GET['page_id'])) {
     $slug = $_GET['page_id'];
 
-    $data = fetch_data("SELECT * FROM blogs WHERE `slug` = '$slug'");
+    $data = fetch_data("SELECT * FROM city WHERE `slug` = '$slug'");
 
     if (!$data) {
         header("Location: " . home_path() . "404");
     }
 } else {
-    header("Location: " . home_path() . "blogs");
+    header("Location: " . home_path() . "city");
 }
 
-?> 
-
-<?php if (substr_count($_SERVER['HTTP_ACCEPT_ENCODING'], 'gzip')) ob_start("ob_gzhandler");
-else ob_start(); ?>
+?>
+<?php //if (substr_count($_SERVER['HTTP_ACCEPT_ENCODING'], 'gzip')) ob_start("ob_gzhandler");
+// echo ob_start();
+// include '../../init.php' 
+?>
 <?php include '../copy_logo.php' ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -24,7 +49,6 @@ else ob_start(); ?>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="<?= get_img('favicon_rapid.ico') ?>" />
     <?= $data['meta']; ?>
     <link rel="preload" href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" as="style" onload="this.onload=null;this.rel='stylesheet'" async>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async>
@@ -63,6 +87,7 @@ else ob_start(); ?>
         #sideFrombody {
             display: none;
         }
+        h2 a{word-wrap: break-word;}
     </style>
 </head>
 
@@ -100,7 +125,7 @@ else ob_start(); ?>
                             <h1><?php echo $data['h1']; ?></h1>
                         </div>
                         <div class="col-12 banner-paragraph-col text-container-xyz">
-                            <p class="text-content-xyz  mt-2"><?php echo $data['h1_about']; ?></p>
+                            <p class="text-content-xyz"><?php echo $data['h1_about']; ?></p>
 
                         </div>
                         <div class="col-12 mt-5 -align-items-center- text-center">
@@ -123,7 +148,15 @@ else ob_start(); ?>
         <div class="content-body ">
             <div class="row content-body-row px-3">
                 <div class="col-12 col-md-12 col-lg-8 p-1 content-body-text" id="contentContainer">
-                    
+                    <div class="first-section-state-to-state">
+                        <h2 class="heading-1"><strong>
+                                <?= $data['h2']; ?>
+                            </strong></h2>
+                        <p class="para-2">
+                            <?= $data['h2_about']; ?>
+                        </p>
+                    </div>
+                    <?php echo $data['content']; ?>
                 </div>
                 <div class="col-12 col-md-12 col-lg-4 __side-form">
                     <div class="_side-form d-grid justify-content-center">
@@ -356,7 +389,29 @@ else ob_start(); ?>
                 delay: 2500,
                 disableOnInteraction: false,
             },
+
         });
+        const images = document.getElementsByTagName('img');
+        for (let i = 0; i < images.length; i++) {
+            images[i].setAttribute('loading', 'lazy');
+        }
+
+        function addWidthHeightAttributesToImage() {
+            var imageElements = document.getElementsByTagName('img');
+            for (var i = 0; i < imageElements.length; i++) {
+                var img = imageElements[i];
+                img.setAttribute('width', '100%');
+                img.setAttribute('height', '100%');
+            }
+        }
+        addWidthHeightAttributesToImage()
+
+        function addWidthHeightAttributesToImage1() {
+            var imageElements = document.getElementById('customer-face');
+            imageElements.setAttribute('width', '76px');
+            imageElements.setAttribute('height', '40px');
+        }
+        addWidthHeightAttributesToImage1()
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
     <script>
@@ -396,13 +451,21 @@ else ob_start(); ?>
             };
             $(window).on('resize scroll', function() {
                 if ($('#myDiv2').isInViewport()) {
-                    $('#topForm').html('<?php include small_form_new; ?>');
                     $('#sideFrom').html('');
                     $('#sideFrombody').hide();
+                    var $divElement = $('#topForm');
+                    var isDivEmpty = $divElement.is(':empty');
+                    if (isDivEmpty) {
+                        $('#topForm').html('<?php include small_form_new; ?>');
+                    }
                 } else {
                     $('#topForm').html('');
                     $('#sideFrombody').show();
-                    $('#sideFrom').html('<?php include small_form_new; ?>');
+                    var $divElement = $('#sideFrom');
+                    var isDivEmpty = $divElement.is(':empty');
+                    if (isDivEmpty) {
+                        $('#sideFrom').html('<?php include small_form_new; ?>');
+                    }
                 }
             });
         })
@@ -444,7 +507,7 @@ else ob_start(); ?>
                 "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
                 "https://www.provenexpert.com/en-us/rapid-auto-shipping"
             ],
-            "description": `${descriptionContent}`,//page description
+            "description": `${descriptionContent}`, //page description
             "logo": {
                 "@type": "ImageObject",
                 "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
@@ -456,7 +519,7 @@ else ob_start(); ?>
         document.head.appendChild(script1);
     </script>
     <script>
-     const mySchema2 =  {
+        const mySchema2 = {
             "@context": "https://schema.org",
             "@type": "Product",
             "@id": "https://www.rapidautoshipping.com/#product",
@@ -486,7 +549,7 @@ else ob_start(); ?>
         document.head.appendChild(script2);
     </script>
     <script>
-     const mySchema3 = {
+        const mySchema3 = {
             "@context": "https://schema.org",
             "@type": "Service",
             "serviceType": `${titleContent2}`,

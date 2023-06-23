@@ -78,6 +78,7 @@ else ob_start(); ?>
         #sideFrombody {
             display: none; 
         }
+        h2 a{word-wrap: break-word;}
     </style>
 </head>
 
