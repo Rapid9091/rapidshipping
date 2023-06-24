@@ -26,8 +26,8 @@ ErrorDocument 404 https://rapidautoshipping.com/404
 ReWriteRule ^$ pages/home.php [NC,L]
 
 #copy page of services
-ReWriteRule ^copy([/]?)$ pages/copy.php [NC,L]
-ReWriteRule ^blogs/blogcopy([/]?)$ pages/blogs/blogcopy.php [NC,L]
+#ReWriteRule ^copy([/]?)$ pages/copy.php [NC,L]
+#ReWriteRule ^blogs/blogcopy([/]?)$ pages/blogs/blogcopy.php [NC,L]
 
 #
 #=============================================================================================================
@@ -494,6 +494,8 @@ ReWriteRule ^get_qoute([/]?)$ pages/state-to-state/get_qoute.php [NC,L]
 ReWriteRule ^state-to-state/([0-9A-Za-z\-]+)([/]?)$ pages/state-to-state/_index.php?page_id=$1 [NC,L]
 
 
+# ReWriteRule ^/([0-9A-Za-z\-]+)([/]?)$ pages/cities/_index.php?page_id=$1 [NC,L]
+ReWriteRule ^([0-9A-Za-z\-]+)([/]?)$ pages/cities/_index.php?page_id=$1 [NC,L]
 
 
 
