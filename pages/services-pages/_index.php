@@ -79,6 +79,8 @@ else ob_start(); ?>
             display: none; 
         }
         h2 a{word-wrap: break-word;}
+        #vehicle_list_div div {color:#ff5722}
+        #myList1, #myList3,#models_list_small {color: black;}
     </style>
 </head>
 
