@@ -722,7 +722,7 @@ else ob_start(); ?>
                 }
             });
 
-            $('#desk_image').removeAttr('lazyload');
+            $('#desk_image').removeAttr('loading');
 
         })
 
