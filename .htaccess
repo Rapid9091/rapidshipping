@@ -143,7 +143,7 @@ ReWriteRule ^boston-to-tampa-auto-transport([/]?)$ pages/cities/boston-to-tampa-
 ReWriteRule ^chicago-to-fort-lauderdale-auto-transport([/]?)$ pages/cities/chicago-to-fort-lauderdale-auto-transport.php [NC,L]
 ReWriteRule ^chicago-to-hawaii-auto-transport([/]?)$ pages/cities/chicago-to-hawaii-auto-transport.php [NC,L]
 ReWriteRule ^chicago-to-minneapolis-auto-transport([/]?)$ pages/cities/chicago-to-minneapolis-auto-transport.php [NC,L]
-ReWriteRule ^chicago-to-san-diego-auto-transport([/]?)$ pages/cities/chicago-to-san-diego-auto-transport.php [NC,L]
+#ReWriteRule ^chicago-to-san-diego-auto-transport([/]?)$ pages/cities/chicago-to-san-diego-auto-transport.php [NC,L]
 ReWriteRule ^cincinnati-to-cleveland-auto-transport([/]?)$ pages/cities/cincinnati-to-cleveland-auto-transport.php [NC,L]
 ReWriteRule ^cleveland-to-cincinnati-auto-transport([/]?)$ pages/cities/cleveland-to-cincinnati-auto-transport.php [NC,L]
 ReWriteRule ^cleveland-to-columbus-auto-transport([/]?)$ pages/cities/cleveland-to-columbus-auto-transport.php [NC,L]
