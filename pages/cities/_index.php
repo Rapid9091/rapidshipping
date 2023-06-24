@@ -469,6 +469,7 @@ if (isset($_GET['page_id'])) {
                     }
                 }
             });
+            $('#desk_image').removeAttr('loading');
         })
         var metaDescription = document.querySelector('meta[name="description"]');
         var descriptionContent = "";

@@ -49,6 +49,7 @@ else ob_start();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="<?= get_img('favicon_rapid.ico') ?>" />
     <?= $data['meta']; ?>
     <link rel="preload" href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" as="style" onload="this.onload=null;this.rel='stylesheet'" async>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async>
@@ -468,6 +469,7 @@ else ob_start();
                     }
                 }
             });
+            $('#desk_image').removeAttr('loading');
         })
         var metaDescription = document.querySelector('meta[name="description"]');
         var descriptionContent = "";
