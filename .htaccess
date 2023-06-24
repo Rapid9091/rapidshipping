@@ -34,7 +34,7 @@ ReWriteRule ^$ pages/home.php [NC,L]
 #
 # This route work for sub service page (car-transport-in-us)
 ReWriteRule ^services([/]?)$ pages/service.php [NC,L]
- ReWriteRule ^services/ambulance-shipping-service([/]?)$ pages/services-pages/ambulance-shipping-service.php [NC,L]
+#ReWriteRule ^services/ambulance-shipping-service([/]?)$ pages/services-pages/ambulance-shipping-service.php [NC,L]
 # ReWriteRule ^services/ambulance-shipping([/]?)$ pages/services-pages/ambulance-shipping.php [NC,L]
 #ReWriteRule ^services/auto-auction-shipping([/]?)$ pages/services-pages/auto-auction-shipping.php [NC,L]
 ReWriteRule ^services/auto-driveaway-service([/]?)$ pages/services-pages/auto-driveaway-service.php [NC,L]
