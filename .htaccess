@@ -44,7 +44,7 @@ ReWriteRule ^services/auto-driveaway-service([/]?)$ pages/services-pages/auto-dr
 ReWriteRule ^services/car-delivery-services([/]?)$ pages/services-pages/car-delivery-services.php [NC,L]
 #ReWriteRule ^services/car-movers([/]?)$ pages/services-pages/car-movers.php [NC,L]
 ReWriteRule ^services/car-shipping-calculator([/]?)$ pages/services-pages/car-shipping-calculator.php [NC,L]
-#ReWriteRule ^services/car-shipping-companies([/]?)$ pages/services-pages/car-shipping-companies.php [NC,L]
+ReWriteRule ^services/car-shipping-companies([/]?)$ pages/services-pages/car-shipping-companies.php [NC,L]
 ReWriteRule ^services/car-shipping-service([/]?)$ pages/services-pages/car-shipping-service.php [NC,L]
 #ReWriteRule ^services/car-shipping-services([/]?)$ pages/services-pages/car-shipping-services.php [NC,L]
 #ReWriteRule ^services/car-transport-dealership([/]?)$ pages/services-pages/car-transport-dealership.php [NC,L]
