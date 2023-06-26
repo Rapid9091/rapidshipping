@@ -80,7 +80,7 @@
         $NAME = "Top Car Shipping Companies";
         $PARAGRAPH = "Rapid Auto Transportation is a top-rated automobile shipping company in the United States.
 We were able to obtain such a high rating by offering the most competitive prices and the greatest customer service. Maintaining a top-rated Auto Transport Company's reputation is difficult. When you're delivering thousands of automobiles every month, it might get a bit hectic. For us and your personal vehicle shipping agent, on the other hand, your relocation will always be a top priority.";
-        include small_form;
+        include small_form_new;
         ?>
     </div>
 
