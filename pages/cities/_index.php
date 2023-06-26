@@ -50,6 +50,7 @@ if (isset($_GET['page_id'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="<?= get_img('favicon_rapid.ico') ?>" />
     <?= $data['meta']; ?>
     <link rel="preload" href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" as="style" onload="this.onload=null;this.rel='stylesheet'" async>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async>
@@ -89,6 +90,8 @@ if (isset($_GET['page_id'])) {
             display: none;
         }
         h2 a{word-wrap: break-word;}
+        #vehicle_list_div div {color:#ff5722}
+        #myList1, #myList3,#models_list_small {color: black;}
     </style>
 </head>
 
@@ -118,7 +121,7 @@ if (isset($_GET['page_id'])) {
         </div>
         <!-- End Header -->
         <div class="banner-section" id="myDiv2">
-            <img class="banner-section-img" width="100%" height="100%" src="<?= get_img() ?>car-shipping-header-image1.webp" alt="Rapid Auto Shipping">
+            <img class="banner-section-img" id="desk_image" width="100%" height="100%" src="<?= get_img() ?>car-shipping-header-image1.webp" alt="Rapid Auto Shipping">
             <div class="row banner-section-row p-5">
                 <div class="col-md-12 col-lg-8 p-4 banner-section-row-col-1">
                     <div class="row p-2">
@@ -469,6 +472,7 @@ if (isset($_GET['page_id'])) {
                     }
                 }
             });
+            $('#desk_image').removeAttr('loading');
         })
         var metaDescription = document.querySelector('meta[name="description"]');
         var descriptionContent = "";
