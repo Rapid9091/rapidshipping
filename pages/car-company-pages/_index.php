@@ -33,10 +33,10 @@ if (isset($_GET['page_id'])) {
         rel="stylesheet" defer />
 
     <!-- ------------------------------ -->
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
         integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" defer /> -->
-        <script>
+        crossorigin="anonymous" referrerpolicy="no-referrer" defer />
+        <!-- <script>
   function loadBoxicons1() {
     var link = document.createElement('link');
     link.rel = 'stylesheet';
@@ -44,12 +44,12 @@ if (isset($_GET['page_id'])) {
     document.head.appendChild(link);
   }
   window.addEventListener('load', loadBoxicons1);
-</script>
-    <!-- <link rel="stylesheet"
+</script> -->
+    <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"
         integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" defer /> -->
-        <script>
+        crossorigin="anonymous" referrerpolicy="no-referrer" defer />
+        <!-- <script>
   function loadBoxicons2() {
     var link = document.createElement('link');
     link.rel = 'stylesheet';
@@ -57,7 +57,7 @@ if (isset($_GET['page_id'])) {
     document.head.appendChild(link);
   }
   window.addEventListener('load', loadBoxicons2);
-</script>
+</script> -->
 
 
     <style>
@@ -501,10 +501,10 @@ if (isset($_GET['page_id'])) {
     <?php include_once new_script; ?>
 
     <!-- owl curosel -->
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
         integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
-        <script>
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <!-- <script>
   function loadBoxicons3() {
     var link = document.createElement('link');
     link.rel = 'stylesheet';
@@ -512,7 +512,7 @@ if (isset($_GET['page_id'])) {
     document.head.appendChild(link);
   }
   window.addEventListener('load', loadBoxicons3);
-</script>
+</script> -->
     <script>
         //google_review----
         $('#google_reviews').owlCarousel({
