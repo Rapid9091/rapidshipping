@@ -16,6 +16,7 @@
     <meta property="og:url" content=https://rapidautoshipping.com/services/car-shipping-companies" />
     <meta property="og:site_name" content="#1 car shipping company - Rapid Auto Shipping" />
     <meta name='robots' content='index' />
+    <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css">
 
     <meta name="keywords" content="usa auto transport, car transport usa, ship car to usa, us car shipping, vehicle shipping usa, auto shipping companies in usa, best auto transport companies in usa, car shipping companies usa, auto transport us, american auto shipping, shipping car from canada to us, average cost of shipping a car from usa to canada, importing a car from germany to usa, car shipping companies georgia, shipping a car from alberta to ontario, transport car from canada to us, shipping car overseas from canada, car shipping ontario, car delivery canada, best car transport from ny to florida, shipping a car from bc to ontario, auto transport companies new jersey, car transport canada to us, average cost of shipping a car from canada to us, shipping vehicle from canada to us, us auto shipping, car shipping companies maryland, canada to us car shipping, shipping car from canada to california" />
     <meta property="article:tag" content="usa auto transport" />
@@ -142,6 +143,9 @@ We were able to obtain such a high rating by offering the most competitive price
     <?php include_once call_to_action ?>
 
     <?php include_once page_bottom ?>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places"></script
+    <script async src="<?= get_js() ?>small_form_new.js"></script>
+
 </body>
 
 </html>
