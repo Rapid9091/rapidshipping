@@ -478,9 +478,9 @@ ReWriteRule ^terms-and-conditions([/]?)$ pages/docs/tnc.html [NC,L]
 ReWriteRule ^404([/]?)$ pages/error/404.php [NC,L] 
 
 #sitemap
-#RewriteRule ^sitemap\.xml/?$ sitemap.xml
+RewriteRule ^sitemap\.xml/?$ sitemap.xml
 #ReWriteRule ^createxml([/]?)$ createXML.php [NC,L]
-RewriteRule ^sitemap\.xml/?$ sitemap.php
+#RewriteRule ^sitemap\.xml/?$ sitemap.php
 
 
 # RewriteRule ^sitemap\.html/?$ sitemap.html.php
