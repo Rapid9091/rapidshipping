@@ -1,5 +1,5 @@
 <?php
-
+date_default_timezone_set('Asia/Kolkata');
 include_once "init.php";
 header("Content-type: text/xml");
 echo '<?xml version="1.0" encoding="UTF-8" ?>';
@@ -23,7 +23,7 @@ echo '<?xml version="1.0" encoding="UTF-8" ?>';
     ?>
         <url>
             <loc><?= home_path() . $item['endpoint'] ?></loc>
-            <lastmod>2022-04-13T06:42:46+00:00</lastmod>
+            <lastmod>2023-04-18T08:45:46+00:00</lastmod>
             <priority><?= $item['priority'] ?></priority>
         </url>
 
@@ -69,7 +69,7 @@ echo '<?xml version="1.0" encoding="UTF-8" ?>';
 
         foreach ($review_page_list as $item) {
             $url = home_path() . "auto-transport-carriers" . "/" . $item['slug'];
-            get_row($url, "0.5");
+            get_row($url, "0.5"); 
         }
     }
     // get_row(home_path() . "state-to-state/", "0.6");
@@ -81,7 +81,7 @@ echo '<?xml version="1.0" encoding="UTF-8" ?>';
 
         foreach ($state_page_list as $item) {
             $url = home_path() . "state-to-state" . "/" . $item['slug'];
-            $page_date = "2022-04-13T06:42:46+00:00";
+            $page_date = "2023-04-13T06:42:46+00:00";
             if($item['state_id'] > 244){
                 $page_database = $item['add_on'];
                 $timeDateString = strtotime($page_database);
@@ -110,7 +110,7 @@ function get_row($url, $priority)
 
     <url>
         <loc><?= $url ?></loc>
-        <lastmod>2022-04-13T06:42:46+00:00</lastmod>
+        <lastmod>2023-03-13T07:42:46+00:00</lastmod>
         <priority><?= $priority ?></priority>
     </url>
 
