@@ -61,10 +61,10 @@ foreach($pagess as $page){
     else{
         $query = "SELECT * FROM  $page";
     }
-    $result = $con->query($query);
+    $result =  mysqli_query($con,$query);
     // Create the sitemap XML
     if(mysqli_num_rows($result)>0){
-        while ($row = $result->fetch_assoc()) {
+        while ($row = mysqli_fetch_assoc($result)) {
             if($page == 'city'){
                 $url = htmlspecialchars('https://rapidautoshipping.com/'.$row['slug']);
                 $xml .= "\t<url>\n";

@@ -1,15 +1,7 @@
 <?php
 // header("Content-type: text/xml");
 date_default_timezone_set('Asia/Kolkata');
-// $dbHost = 'localhost';
-// $dbName = 'u841070527_autoshipping';
-// $dbUser = 'u841070527_rapid';
-// $dbPass = 'Smile@1427';
 include './init.php';
-// Create a new MySQLi connection
-// $mysqli = mysqli_connect($dbHost, $dbUser, $dbPass, $dbName);
-
-// Check if the connection was successful
 if (!$con) {
     echo "Failed to connect to MySQL: ";
     exit();
