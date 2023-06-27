@@ -480,6 +480,7 @@ ReWriteRule ^404([/]?)$ pages/error/404.php [NC,L]
 #sitemap
 RewriteRule ^sitemap\.xml/?$ sitemap.xml
 #ReWriteRule ^createxml([/]?)$ createXML.php [NC,L]
+ReWriteRule ^update_date([/]?)$ update_date.php [NC,L]
 #RewriteRule ^sitemap\.xml/?$ sitemap.php
 
 
