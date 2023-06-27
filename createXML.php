@@ -2,16 +2,12 @@
 // Connect to your MySQL database
 header("Content-type: text/xml");
 date_default_timezone_set('Asia/Kolkata');
-$dbHost = 'localhost';
-$dbName = 'u841070527_autoshipping';
-$dbUser = 'u841070527_rapid';
-$dbPass = 'Smile@1427';
+include './init.php';
 
-$mysqli = new mysqli($dbHost, $dbUser, $dbPass, $dbName);
 
 // Check if the connection was successful
-if ($mysqli->connect_errno) {
-    echo "Failed to connect to MySQL: " . $mysqli->connect_error;
+if (!$con) {
+    echo "Failed to connect to MySQL: " . $con->connect_error;
     exit();
 }
 
@@ -65,7 +61,7 @@ foreach($pagess as $page){
     else{
         $query = "SELECT * FROM  $page";
     }
-    $result = $mysqli->query($query);
+    $result = $con->query($query);
     // Create the sitemap XML
     if(mysqli_num_rows($result)>0){
         while ($row = $result->fetch_assoc()) {
@@ -99,7 +95,7 @@ $sitemapPath = './sitemap.xml';
 // Write the XML content to the sitemap file
 file_put_contents($sitemapPath, $xml);
 // Close the database connection
-$mysqli->close();
+$con->close();
 
 // Output a success message
 echo "Sitemap generated successfully!";
