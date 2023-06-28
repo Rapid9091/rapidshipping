@@ -14,7 +14,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Bus Transportation Services in the USA | +1-833-233-4447" />
     <meta property="og:description" content="Rapid Auto Shipping is a bus transportation service that provides safe, reliable and cost-effective transportation for your cars." />
-    <meta property="og:url" content="https://rapidautoshipping.com/blog/bus-transportation-services" />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/bus-transportation-services" />
     <meta property="og:site_name" content="Best Bus Transportation Services in the USA | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="bus transportation services, bus transportation, public transportation near me, bus transportation near me, bus companies near me, public bus transportation, best bus companies, international bus companies, public bus transportation near me, private bus transportation" />
