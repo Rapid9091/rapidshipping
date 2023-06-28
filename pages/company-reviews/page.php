@@ -31,14 +31,15 @@ if (isset($_GET['review_id'])) {
     <link rel="stylesheet" href="<?= get_css() ?>company-reviews-child.css">
     <link rel="stylesheet" href="<?= get_css() ?>small-form.css">
     <link rel="stylesheet" href="<?= get_css() ?>VIEW-small-form-2.css">
+    <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css">
 
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
 
     <style>
         .third-section-form>div {
-
             margin-bottom: 14px;
         }
+        .bb-img{display: none;}
     </style>
 </head>
 
@@ -79,7 +80,7 @@ if (isset($_GET['review_id'])) {
             </div>
         </div>
 
-        <?php include_once header_small_form ?>
+        <?php include_once small_form_new ?>
 
 
 
@@ -176,9 +177,12 @@ if (isset($_GET['review_id'])) {
 
     </div>
 
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places"></script>
+
     <?php
     include_once call_to_action;
     include_once page_bottom ?>
+    <script async src="<?= get_js() ?>small_form_new.js"></script>
 </body>
 
 </html>
