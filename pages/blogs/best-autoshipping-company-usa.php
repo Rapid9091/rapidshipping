@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best auto or car shipping company in USA" />
     <meta property="og:description" content="Rapid Auto Shipping - We are just a call away to provide you best auto or car shipping services, at a very affordable price." />
-    <meta property="og:url" content="https://rapidautoshipping.com/blogs/best-autoshipping-company-us" />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/best-autoshipping-company-usa" />
     <meta property="og:site_name" content="Best auto or car shipping company in USA" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="best car shipping companies in usa,best car movers in usa,best car movers usa,best car shippers in usa,top car shipping companies in usa">
