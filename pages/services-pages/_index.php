@@ -671,7 +671,7 @@ else ob_start(); ?>
                 textContent.textContent += remainingText;
                 readMoreLink.style.display = 'none';
             });
-        }
+        } 
 
         document.getElementById('hamburgur-btn').addEventListener('click', function() {
             document.getElementById('main-link').style.display = 'grid';

@@ -84,13 +84,21 @@ else ob_start();
             }]
         }
     </script>
-    <style>
+    <style> 
         #sideFrombody {
             display: none;
         }
         h2 a{word-wrap: break-word;}
         #vehicle_list_div div {color:#ff5722}
         #myList1, #myList3,#models_list_small {color: black;}
+        @media screen and (max-width: 425px){
+            .logo_div img {
+                width: 130%;
+            }
+            .logo_div a {
+                display: flex;
+            }
+        }
     </style>
 </head>
 
@@ -120,7 +128,7 @@ else ob_start();
         </div>
         <!-- End Header -->
         <div class="banner-section" id="myDiv2">
-            <img class="banner-section-img"  id="desk_image" width="100%" height="100%" src="<?= get_img() ?>car-shipping-header-image1.webp" alt="Rapid Auto Shipping">
+            <img class="banner-section-img"  id="desk_image" width="100%" height="100%" src="<?= get_img() ?>For_desktop.webp" alt="Rapid Auto Shipping">
             <div class="row banner-section-row p-5">
                 <div class="col-md-12 col-lg-8 p-4 banner-section-row-col-1">
                     <div class="row p-2">
@@ -472,7 +480,24 @@ else ob_start();
                 }
             });
             $('#desk_image').removeAttr('loading');
+        
         })
+
+        var image = document.getElementById('desk_image');
+        var originalSrc = '<?= get_img() ?>For_desktop.webp';
+        var alternateSrc = '<?= get_img() ?>For_Phone.webp';
+
+        function handleResize() {
+            var windowWidth = window.innerWidth || document.documentElement.clientWidth;
+            if (windowWidth >= 500) {
+                image.src = originalSrc;
+            } else {
+                image.src = alternateSrc;
+            }
+        } 
+        window.addEventListener('resize', handleResize);
+        handleResize();
+
         var metaDescription = document.querySelector('meta[name="description"]');
         var descriptionContent = "";
         if (metaDescription) {
@@ -487,6 +512,8 @@ else ob_start();
             var titleContent = titleContent[0].trim();
             var titleContent2 = titleContent+' | Rapid Auto Shipping'
         }
+
+        
     </script>
     <script async src="<?= get_js() ?>small_form_new.js"></script>
     <script>
