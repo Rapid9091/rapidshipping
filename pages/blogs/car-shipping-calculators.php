@@ -15,12 +15,9 @@
 <meta property="og:url" content="https://rapidautoshipping.com/blogs/car-shipping-calculators" />
 <meta property="og:site_name" content="Car Shipping Calculators | Rapid Auto Shipping" />
 <meta name='robots' content='index' />
-<meta name="keywords" content="Car Shipping Calculators, Car Shipping Calculators, Car Shipping Calculators, Car Shipping Calculators, Car Shipping Calculators" />
+<meta name="keywords" content="Car Shipping Calculators" />
 <meta property="article:tag" content="Car Shipping Calculators" />
-<meta property="article:tag" content="Car Shipping Calculators" />
-<meta property="article:tag" content="Car Shipping Calculators" />
-<meta property="article:tag" content="Car Shipping Calculators" />
-<meta property="article:tag" content="Car Shipping Calculators" />
+
 </head>
 <body>   
    <h1>Car Shipping Calculators</h1>
