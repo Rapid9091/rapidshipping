@@ -31,12 +31,11 @@
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css" />
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_home.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_shipping-car-to-mexico-blog.css">
-    <!-- <link rel="stylesheet" href="<?= get_css(); ?>small-form.css"> -->
+    <link rel="stylesheet" href="<?= get_css(); ?>small-form.css">
     <link rel="stylesheet" href="<?= get_css(); ?>strip-under-header.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_inside-blog-page.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_new-blog-design.css">
-    <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css"
     <style>
         .contact-us-header-page {
             width: 100%;
@@ -84,7 +83,7 @@
         <?php
         $NAME = "How to ship non-operable vehicle";
         $PARAGRAPH = "Cars can typically be driven directly onto and off of the carriage. <em>Non-running vehicle shipping</em> must instead be 'winched' or loaded using a lift gate because they cannot be driven onto the carrier. Typically, a winch is required to hoist your automobile onto the carrier if it won't start. On the other hand, a winch by itself would be unable to lift your car onto the carrier if it has sustained catastrophic damage and is unable to roll, brake, or steer. If so, a liftgate or forklift will need to be used to lift your car.";
-        include small_form_new;
+        include small_form;
         ?>
     </div>
 
