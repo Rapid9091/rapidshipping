@@ -15,7 +15,7 @@
     <meta property="og:title" content="Best Fifth Wheel Transport Services in the US | +1-833-233-4447" />
     <meta property="og:description"
         content="Find the best Fifth wheel transport services with Rapid Auto Shipping. We offer a range of affordable moving solutions for all your needs." />
-    <meta property="og:url" content="https://rapidautoshipping.com/blog/fifth-wheel-transport-services" />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/fifth-wheel-transport-services" />
     <meta property="og:site_name" content="Best Fifth Wheel Transport Services in the US | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords"
