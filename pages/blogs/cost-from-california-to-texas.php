@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Estimate or cost to ship a car California to Texas | +1-833-233-4447" />
     <meta property="og:description" content="How much does it cost or estimate to ship car from California to Texas? Know the best ways of ship a car from California to Texas or California to Texas drive." />
-    <meta property="og:url" content="https://rapidautoshipping.com/blog/https://rapidautoshipping.com/blogs/cost-from-california-to-texas" />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/https://rapidautoshipping.com/blogs/cost-from-california-to-texas" />
     <meta property="og:site_name" content="Estimate or cost to ship a car California to Texas | +1-833-233-4447" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="ship to California, freight shipping to and from California, ship to Texas, Car shipping to and from texas, shipping cost from California to Texas, shipping from California to Texas, how much is shipping from California to Texas, car shipping from California to Texas, ship car from texas to california, ship car from california to texas" />
