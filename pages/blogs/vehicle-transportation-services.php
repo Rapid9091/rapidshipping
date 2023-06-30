@@ -12,7 +12,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Vehicle Transportation Services | +1-833-233-4447" />
 <meta property="og:description" content="Vehicle transportation services have numerous choices for relocating your personal, dealer, military, or company vehicle. As an industry leader, car shipping provides open-air, enclosed transport, etc shipping services." />
-<meta property="og:url" content="https://rapidautoshipping.com/blogs/vehicle-transportation-services" />
+<meta property="og:url" content="https://rapidautoshipping.com/blogs/vehicle-transportation-service" />
 <meta property="og:site_name" content="Vehicle Transportation Services | +1-833-233-4447" />
 <meta name='robots' content='index' />
 <meta name="keywords" content="Vehicle Transportation Service, Vehicle Transportation Service, Vehicle Transportation Service, Vehicle Transportation Service, Vehicle Transportation Service" />
