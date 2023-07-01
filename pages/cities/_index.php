@@ -92,6 +92,14 @@ if (isset($_GET['page_id'])) {
         h2 a{word-wrap: break-word;}
         #vehicle_list_div div {color:#ff5722}
         #myList1, #myList3,#models_list_small {color: black;}
+        @media screen and (max-width: 425px){
+            .logo_div img {
+                width: 130%;
+            }
+            .logo_div a {
+                display: flex;
+            }
+        }
     </style>
 </head>
 
@@ -121,7 +129,7 @@ if (isset($_GET['page_id'])) {
         </div>
         <!-- End Header -->
         <div class="banner-section" id="myDiv2">
-            <img class="banner-section-img" id="desk_image" width="100%" height="100%" src="<?= get_img() ?>car-shipping-header-image1.webp" alt="Rapid Auto Shipping">
+            <img class="banner-section-img" id="desk_image" width="100%" height="100%" src="<?= get_img() ?>city_desktop_img.webp" alt="Rapid Auto Shipping">
             <div class="row banner-section-row p-5">
                 <div class="col-md-12 col-lg-8 p-4 banner-section-row-col-1">
                     <div class="row p-2">
@@ -474,6 +482,23 @@ if (isset($_GET['page_id'])) {
             });
             $('#desk_image').removeAttr('loading');
         })
+
+        var image = document.getElementById('desk_image');
+        var originalSrc = '<?= get_img() ?>city_desktop_img.webp';
+        var alternateSrc = '<?= get_img() ?>city_phone_img.webp';
+
+        function handleResize() {
+            var windowWidth = window.innerWidth || document.documentElement.clientWidth;
+            if (windowWidth >= 500) {
+                image.src = originalSrc;
+            } else {
+                image.src = alternateSrc;
+            }
+        }
+        window.addEventListener('resize', handleResize);
+        handleResize();
+
+
         var metaDescription = document.querySelector('meta[name="description"]');
         var descriptionContent = "";
         if (metaDescription) {
@@ -483,7 +508,7 @@ if (isset($_GET['page_id'])) {
         var titleContent = "";
         var titleContent2 = "";
         if (metatitle) {
-        titleContent = metatitle.getAttribute('content');
+        titleContent = metatitle.getAttribute('content'); 
             var titleContent = titleContent.split("|");
             var titleContent = titleContent[0].trim();
             var titleContent2 = titleContent+' | Rapid Auto Shipping'
