@@ -8,6 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Heavy Equipment Shippers & Auto Transport Company </title>
+    <meta name="title" content="Heavy Equipment Shippers & Auto Transport Company " />
     <meta name="Heavy Equipment Shippers & Auto Transport Company " />
     <meta name="description" content="The team at Rapid Auto Shipping specialize in heavy equipment moving and transport. We deliver across the country - to all 50 states." />
     <meta property="og:type" content="website" />
