@@ -8,6 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Top Rated Multi Car Transport Services | Auto Shipping Services</title>
+    <meta name="title" content="Top Rated Multi Car Transport Services | Auto Shipping Services" />
     <meta name="Top Rated Multi Car Transport Services | Auto Shipping Services" />
     <meta name="description" content="Rapid Auto Shipping provides Multi Car transport services at an affordable price with our expertise vehicles safely to their destination." />
     <meta property="og:type" content="website" />

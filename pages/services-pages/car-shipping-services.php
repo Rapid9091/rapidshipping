@@ -8,6 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Top car transporter services provider - Rapid Auto Shipping</title>
+    <meta name="title" content="Top car transporter services provider - Rapid Auto Shipping" />
     <meta name="Top car transporter services provider - Rapid Auto Shipping" />
     <meta name="description" content="Are you shifting and looking to ship your car with safety? We are expert in car service transport at an affordable price in all states of the USA." />
     <meta property="og:type" content="website" />
