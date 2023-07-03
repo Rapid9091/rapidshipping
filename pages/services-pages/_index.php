@@ -48,7 +48,7 @@ else ob_start(); ?>
     <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css">
     <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
     <title> <?= $data['title']; ?></title>
-    <script type="application/ld+json">
+    <!-- <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "WebSite",
@@ -61,7 +61,7 @@ else ob_start(); ?>
                 "query-input": "required name=search_term_string"
             }
         }
-    </script>
+    </script> -->
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
