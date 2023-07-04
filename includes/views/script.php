@@ -65,7 +65,7 @@
 
 
 <!-- schema  -->
-<script type="application/ld+json">
+<!-- <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "BlogPosting",
@@ -92,7 +92,7 @@
         "datePublished": "2022-02-22",
         "dateModified": "2022-03-22"
     }
-</script>
+</script> -->
 <!-- schema end -->
 
 

@@ -39,20 +39,96 @@
 </script>
 
 <!-- Review Tag Manager Add -->
-<script defer type='application/ld+json'>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "@id": "https://rapidautoshipping.com/#website",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.rapidautoshipping.com/search?keywords={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.rapidautoshipping.com/#organization",
+  "name": "Rapid Auto Shipping",
+  "legalName": "Rapid Auto Shipping",
+  "alternateName": "Rapid Auto Shipping",
+  "url": "https://www.rapidautoshipping.com/",
+  "founder": "Johny Taylor",
+  "foundingDate": "2016",
+  "sameAs": [
+    "https://www.rapidautoshipping.com",
+    "https://twitter.com/ShippingRapid",
+    "https://www.facebook.com/Rapidautoshipping",
+    "https://www.youtube.com/@rapidautoshipping7218",
+    "https://www.instagram.com/rapidautoshipping/",
+    "https://www.linkedin.com/company/rapid-auto-shipping",
+    "https://www.trustpilot.com/review/rapidautoshipping.com",
+    "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
+    "https://www.provenexpert.com/en-us/rapid-auto-shipping"
+  ],
+  "description": "One of the leading auto shipping companies in the nation. Trusted Auto Transport Company in us. Affordable Car Shipping Services Get Quote Now.",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://www.rapidautoshipping.com/#product",
+  "name": "Rapid Auto Shipping | Best Auto Transport Company in US ",
+  "alternateName": "Rapid Auto Shipping | Best Auto Transport Company in US ",
+  "description": "One of the leading auto shipping companies in the nation. Trusted Auto Transport Company in us. Affordable Car Shipping Services Get Quote Now.",
+  "brand": {
+    "@type": "Organization",
+    "@id": "https://www.rapidautoshipping.com/#organization"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.rapidautoshipping.com/#webpage"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "@id": "https://rapidautoshipping.com/#aggregateRating",
+    "ratingValue": 4.8,
+    "ratingCount": 545,
+    "worstRating": 1,
+    "bestRating": 5
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Rapid Auto Shipping | Best Auto Transport Company in US ",
+  "alternateName": "Rapid Auto Shipping | Best Auto Transport Company in US "
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
     {
-        "@context": "http://www.schema.org",
-        "@type": "product",
-        "brand": "Rapid Auto Shipping",
-        "name": "Rapid Auto Shipping",
-        "image": "https://rapidautoshipping.com/assets/images/review-stars.png",
-        "description": "Rapid Auto Shipping is the leading auto shipping company in USA. We offer the fastest and safest way to ship your vehicle with our nationwide network of carriers.",
-        "aggregateRating": {
-            "@type": "aggregateRating",
-            "ratingValue": "5.0",
-            "reviewCount": "32"
-        }
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Services",
+      "item": "https://www.rapidautoshipping.com/services/"
     }
+  ]
+}
 </script>
 
 <!-- ///////////-->
