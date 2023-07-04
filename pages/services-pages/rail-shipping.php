@@ -8,6 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Transport Car by Train | Ship car by Train | R A S</title>
+    <meta name="title" content="Transport Car by Train | Ship car by Train | R A S" />
     <meta name="Transport Car by Train | Ship car by Train | R A S" />
     <meta name="description" content="Looking for Ship Car By Train Service, Do you need to transport car by train, Car transport by train, +1-833-233-4447 Get Quote Now!" />
     <meta property="og:type" content="website" />
