@@ -46,6 +46,8 @@ if (isset($_GET['review_id'])) {
     top: -8%;
     left: -15%;
 }
+.review-for-sts-transport-page{padding:0 10% 5% 10%!important;}
+.company-reviews-grid{margin:30px 0 0 0!important;}
     </style>
 </head>
 
