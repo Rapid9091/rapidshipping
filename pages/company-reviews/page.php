@@ -80,7 +80,7 @@ if (isset($_GET['review_id'])) {
             </div>
         </div>
 
-       <div style="margin top:15px;"> <?php include_once small_form_new ?>
+       <div style="margin-top:45px;"> <?php include_once small_form_new ?>
     </div>
 
 
