@@ -20,6 +20,7 @@ if (isset($_GET['PAGE'])) {
     <meta property="og:url" content="https://rapidautoshipping.com/auto-transport-carriers" />
     <meta property="og:site_name" content="Reviews of Auto Transport Carriers <?= isset($pageId) ? "PAGE-" . $pageId : "" ?> - Rapid Auto Shipping" />
     <meta name='robots' content='index , follow' />
+    <meta name="yandex-verification" content="088dfdd0832860ec" />
     <meta name="keywords" content="best car shipping company, best car shipping companies, best companies to ship a car, best companies for shipping cars, best company to ship car, best company to ship a car, best international car shipping company, what is the best car shipping company, best shipping car companies, best shipping car company, best car shipping companies in usa, best companies to ship car across country, best company for shipping a car, best company to ship a car across country, which car shipping company is the best, best car shipping company near me" />
     <meta property="article:tag" content="best car shipping company" />
     <meta property="article:tag" content="best car shipping companies" />

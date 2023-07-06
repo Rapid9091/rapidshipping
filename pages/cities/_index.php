@@ -59,6 +59,7 @@ if (isset($_GET['page_id'])) {
     <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css">
     <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
     <title> <?= $data['title']; ?></title>
+    <meta name="yandex-verification" content="088dfdd0832860ec" />
     <!-- <script type="application/ld+json">
         {
             "@context": "https://schema.org",
