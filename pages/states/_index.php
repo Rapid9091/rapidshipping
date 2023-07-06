@@ -81,6 +81,7 @@ if (isset($_GET['page_id'])) {
         h2 a{word-wrap: break-word;}
         #vehicle_list_div div {color:#ff5722}
         #myList1, #myList3,#models_list_small {color: black;}
+        .major-city-code{display:grid;grid-template-columns:14fr 2fr 70fr;font-size:12px;margin-bottom:5px}
         .more-califrnian-cities-code{background-color:#f3eeeca1;padding:0 2%;border:1px solid #ff5722;border-radius:14px;margin:3% 5%}
         .alabama-city-code-heading{text-align:center;font-size:30px;font-weight:600;margin-top:5px;padding:1% 0}
         @media screen and (max-width:768px){
