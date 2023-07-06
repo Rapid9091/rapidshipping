@@ -28,6 +28,7 @@ if (isset($_GET['review_id'])) {
 
     <?php include head; ?>
     <link rel="stylesheet" href="<?= get_css() ?>side-form.css">
+    <link rel="stylesheet" href="<?= get_css() ?>copy.css">
     <link rel="stylesheet" href="<?= get_css() ?>company-reviews-child.css">
     <link rel="stylesheet" href="<?= get_css() ?>small-form.css">
     <link rel="stylesheet" href="<?= get_css() ?>VIEW-small-form-2.css">

@@ -97,16 +97,19 @@
 
 
 <!-- call to action shippig -->
-<div class="s-t-s-transport-quote-container" style="position:relative; background:transparent; color:white;">
-    <img src="<?= get_img() ?>car-key-new1.jpeg" style="width:100%; height:100%; position:absolute; z-index:-1;" alt="">
-    <h2>
-        Ready To Get Started Shipping With The Best?
-    </h2>
-    <a class="button-square-for-every-page" href="tel:+1-833-233-4447">
-        Get an instant quote now
-    </a>
-    <h3>
-        If you would prefer to speak to one of our experienced Transport Specialists,
-        feel free to give us a call at <br><a href="tel:+1-833-233-4447">+1 (833) 233-4447</a>
-    </h3>
-</div>
+<div class="key-section" id="key-section">
+            <img src="<?= get_img() ?>car-key-new1.jpeg" width="100%" height="100%" loading="lazy" alt="Rapid Auto Shipping">
+            <div class="row p-5 key-section-row">
+                <div class="col-12">
+                    <h2 class="fw-bolt key-h">Want to Start Shipping With The Best?</h2>
+                </div>
+                <div class="col-12">
+                    <p class="key-p">If you would prefer to speak to one of our experienced Transport
+                        Specialists, feel free to give us a call at</p>
+                </div>
+                <div class="col-12 key-button">
+                    <a href="tel:+"><button style="color:black;">+1 (833) 233-4447</button></a>
+                    <button style="color:black;">Get a Quote</button>
+                </div>
+            </div>
+        </div>
