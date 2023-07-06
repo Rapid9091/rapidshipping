@@ -39,7 +39,7 @@ if (isset($_GET['review_id'])) {
         .third-section-form>div {
             margin-bottom: 14px;
         }
-        .bb-img{display: none;}
+        /* .bb-img{display: none;} */
     </style>
 </head>
 
