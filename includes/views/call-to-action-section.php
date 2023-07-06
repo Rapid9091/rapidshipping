@@ -97,7 +97,7 @@
 
 
 <!-- call to action shippig -->
-<div class="key-section" id="key-section">
+<div class="key-section" id="key-section" style="padding:2%;">
             <img src="<?= get_img() ?>car-key-new1.jpeg" width="100%" height="100%" loading="lazy" alt="Rapid Auto Shipping">
             <div class="row p-5 key-section-row">
                 <div class="col-12">
