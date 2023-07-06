@@ -97,7 +97,7 @@
 
 
 <!-- call to action shippig -->
-<div class="s-t-s-transport-quote-container" style="position:relative;">
+<div class="s-t-s-transport-quote-container" style="position:relative; background:transparent; color:white;">
     <img src="<?= get_img() ?>car-key-new1.jpeg" style="width:100%; height:100%; position:absolute; z-index:-1;" alt="">
     <h2>
         Ready To Get Started Shipping With The Best?
