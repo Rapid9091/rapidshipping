@@ -373,7 +373,7 @@ ReWriteRule ^blogs/jet-ski-transportation([/]?)$ pages/blogs/jet-ski-transportat
 ReWriteRule ^blogs/local-online-car-shipping([/]?)$ pages/blogs/local-online-car-shipping.php [NC,L]
 ReWriteRule ^blogs/los-angeles-auto-transport([/]?)$ pages/blogs/los-angeles-auto-transport.php [NC,L]
 ReWriteRule ^blogs/low-cost-car-shipping([/]?)$ pages/blogs/low-cost-car-shipping.php [NC,L]
-ReWriteRule ^blogs/lowboy-shipping([/]?)$ pages/blogs/lowboy-shipping.php [NC,L]
+#ReWriteRule ^blogs/lowboy-shipping([/]?)$ pages/blogs/lowboy-shipping.php [NC,L]
 #ReWriteRule ^blogs/military-car-shipping([/]?)$ pages/blogs/military-car-shipping.php [NC,L]
 #ReWriteRule ^blogs/multi-car-shipping([/]?)$ pages/blogs/multi-car-shipping.php [NC,L]
 ReWriteRule ^blogs/new-york-to-atlanta-auto-transport([/]?)$ pages/blogs/new-york-to-atlanta-auto-transport.php [NC,L]
