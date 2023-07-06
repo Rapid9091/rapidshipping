@@ -260,7 +260,7 @@ ReWriteRule ^blogs/antique-car-shipping([/]?)$ pages/blogs/antique-car-shipping.
 #ReWriteRule ^blogs/atlanta-to-las-vegas-auto-transport([/]?)$ pages/blogs/atlanta-to-las-vegas-auto-transport.php [NC,L]
 ReWriteRule ^blogs/atv-transport([/]?)$ pages/blogs/atv-transport.php [NC,L]
 #ReWriteRule ^blogs/atvs-shipping([/]?)$ pages/blogs/atvs-shipping.php [NC,L]
-#eWriteRule ^blogs/auction-auto-transport-services([/]?)$ pages/blogs/auction-auto-transport-services.php [NC,L]
+ReWriteRule ^blogs/auction-auto-transport-services([/]?)$ pages/blogs/auction-auto-transport-services.php [NC,L]
 ReWriteRule ^blogs/auto-shipping-calculator([/]?)$ pages/blogs/auto-shipping-calculator.php [NC,L]
 ReWriteRule ^blogs/auto-shipping-california([/]?)$ pages/blogs/auto-shipping-california.php [NC,L]
 ReWriteRule ^blogs/auto-shipping-payment-options([/]?)$ pages/blogs/auto-shipping-payment-options.php [NC,L]
