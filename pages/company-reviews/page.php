@@ -39,7 +39,13 @@ if (isset($_GET['review_id'])) {
         .third-section-form>div {
             margin-bottom: 14px;
         }
-        /* .bb-img{display: none;} */
+        @media screen and (max-width: 800px)
+.bb-img {
+    width: 80px;
+    height: 80px;
+    top: -8%;
+    left: -15%;
+}
     </style>
 </head>
 
