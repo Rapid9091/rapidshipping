@@ -91,7 +91,10 @@ if (isset($_GET['page_id'])) {
             .alabama-city-code-heading{font-size:25px;margin-bottom:15px}
             .major-city-code-para{font-weight:700;margin-bottom:8px}
         }
-
+        .article_list p:first-child{
+            font-size:1.5rem;
+            font-weight: bold;
+        } 
 
  
     </style>
