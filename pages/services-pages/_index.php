@@ -21,7 +21,8 @@ include_once "../../init.php";
 if (isset($_GET['page_id'])) {
     $slug = $_GET['page_id'];
 
-    $data = fetch_data("SELECT * FROM services WHERE `slug` = '$slug'");
+    // $data = fetch_data("SELECT * FROM services WHERE `slug` = '$slug'");
+    $data = fetch_data("SELECT * FROM services AS t1 INNER JOIN fq_services AS t2 ON t1.id = t2.i_id WHERE t1.slug ='$slug'");
 
     if (!$data) {
         header("Location: " . home_path() . "404");
@@ -46,6 +47,7 @@ else ob_start(); ?>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async>
     <link rel="stylesheet" href="<?= get_css() ?>copy_new.css">
     <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css">
+    <link rel="stylesheet" href="<?= get_css() ?>faq.css">
     <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
     <meta name="yandex-verification" content="088dfdd0832860ec" />
     <title> <?= $data['title']; ?></title>
@@ -568,6 +570,7 @@ else ob_start(); ?>
                 </div>
             </div>
         </div>
+        <?=$data['fq_content'] ?>
         <div class="follow-up mb-2">
             <div class="row w-75 mt-2 mx-auto justify-content-center">
                 <div class="col-2 col-md-2 col-lg-1 text-center">
@@ -834,6 +837,7 @@ else ob_start(); ?>
         script3.text = JSON.stringify(mySchema3);
         document.head.appendChild(script3);
     </script>
+    <script async="true" src="<?= get_js("faq.js"); ?>"></script>
     
 </body>
 

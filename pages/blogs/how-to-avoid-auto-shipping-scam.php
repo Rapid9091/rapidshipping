@@ -13,7 +13,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="How to avoid Auto Shipping Scams " />
     <meta property="og:description" content="How to avoid Auto Shipping Scams, we provide auto transport services at a very affordable price. Call +1-833-233-4447, We provide auto shipping in USA." />
-    <meta property="og:url" content="https://rapidautoshipping.com/blogs/pros-and-cons-of-auto-shipping" />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/how-to-avoid-auto-shipping-scam" />
     <meta property="og:site_name" content="How to avoid Auto Shipping Scams  " />
     <meta name='robots' content='index' />
     <meta name="keywords" content="car shipping scams,car transport scams,auto transport scams">
