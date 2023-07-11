@@ -130,10 +130,10 @@ if (isset($_GET['page_id'])) {
                 <div class="col-md-12 col-lg-8 p-4 banner-section-row-col-1">
                     <div class="row p-2">
                         <div class="col-12 banner-heading-col">
-                            <h1><?php echo $data['h1']; ?></h1>
+                            <h1><?php echo $data['page_h1'] ?></h1>
                         </div>
                         <div class="col-12 banner-paragraph-col text-container-xyz">
-                            <p class="text-content-xyz mt-2"><?php echo $data['h1_about']; ?></p>
+                            <p class="text-content-xyz mt-2"><?php echo $data['page_about_1']; ?></p>
 
                         </div>
                         <div class="col-12 mt-5 -align-items-center- text-center">
