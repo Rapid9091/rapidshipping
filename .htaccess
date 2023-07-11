@@ -294,7 +294,7 @@ ReWriteRule ^blogs/best-car-shipping-companies-in-usa([/]?)$ pages/blogs/best-ca
 ReWriteRule ^blogs/best-enclosed-car-transport([/]?)$ pages/blogs/best-enclosed-car-transport.php [NC,L]
 ReWriteRule ^blogs/best-snowbird-auto-transport([/]?)$ pages/blogs/best-snowbird-auto-transport.php [NC,L]
 #ReWriteRule ^blogs/boat-shipping-companies([/]?)$ pages/blogs/boat-shipping-companies.php [NC,L]
-ReWriteRule ^blogs/boat-shipping-cost-calculator([/]?)$ pages/blogs/boat-shipping-cost-calculator.php [NC,L]
+#ReWriteRule ^blogs/boat-shipping-cost-calculator([/]?)$ pages/blogs/boat-shipping-cost-calculator.php [NC,L]
 #ReWriteRule ^blogs/boat-shipping-cost([/]?)$ pages/blogs/boat-shipping-cost.php [NC,L]
 ReWriteRule ^blogs/boat-shipping-how-much-does-it-cost-to-transport-a-boat([/]?)$ pages/blogs/boat-shipping-how-much-does-it-cost-to-transport-a-boat.php [NC,L]
 #ReWriteRule ^blogs/boat-shipping([/]?)$ pages/blogs/boat-shipping.php [NC,L]
