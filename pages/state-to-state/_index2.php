@@ -31,7 +31,8 @@ if (isset($_GET['page_id'])) {
 }
 ?>
 <?php //if (substr_count($_SERVER['HTTP_ACCEPT_ENCODING'], 'gzip')) ob_start("ob_gzhandler");
-//else ob_start(); ?>
+//else ob_start(); 
+?>
 <?php include '../copy_logo.php' ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -78,11 +79,22 @@ if (isset($_GET['page_id'])) {
     </script>
     <style>
         #sideFrombody {
-            display: none; 
+            display: none;
         }
-        h2 a{word-wrap: break-word;}
-        #vehicle_list_div div {color:#ff5722}
-        #myList1, #myList3,#models_list_small {color: black;}
+
+        h2 a {
+            word-wrap: break-word;
+        }
+
+        #vehicle_list_div div {
+            color: #ff5722
+        }
+
+        #myList1,
+        #myList3,
+        #models_list_small {
+            color: black;
+        }
     </style>
 </head>
 
@@ -437,88 +449,180 @@ if (isset($_GET['page_id'])) {
         </div>
         <!-- how it works -->
         <!---------------how it works ------------------>
-    <section class="how_it_works_section">
-        <div class="how_heading">
-            <div class="text-center">
-                <h3 class="how_head">How It Works</h3>
-                <p class="how_subtitle">We make car shipping cheap and easy by helping customers directly connect with
-                    auto transport carriers. We load, haul &amp; deliver anything on wheels.</p>
+        <section class="how_it_works_section">
+            <div class="how_heading">
+                <div class="text-center">
+                    <h3 class="how_head">How It Works</h3>
+                    <p class="how_subtitle">We make car shipping cheap and easy by helping customers directly connect with
+                        auto transport carriers. We load, haul &amp; deliver anything on wheels.</p>
+                </div>
             </div>
-        </div>
-        <div class="howItWorkHome width">
-            <div class="container homeContainer">
-                <div class="width stepsHow">
-                    <div class="item">
-                        <span class="stepsCount">1</span>
-                        <div class="img">
-                            <img src="<?= get_img()?>state-to-state/car.webp" alt="car" class="how_car">
+            <div class="howItWorkHome width">
+                <div class="container homeContainer">
+                    <div class="width stepsHow">
+                        <div class="item">
+                            <span class="stepsCount">1</span>
+                            <div class="img">
+                                <img src="<?= get_img() ?>state-to-state/car.webp" alt="car" class="how_car">
+                            </div>
+                            <div class="text">
+                                <span class="titleItem">Request Quotes</span>
+                                <p>
+                                    Set your pickup and destination locations and indicate what vehicle you need to ship.
+                                </p>
+                            </div>
                         </div>
-                        <div class="text">
-                            <span class="titleItem">Request Quotes</span>
-                            <p>
-                                Set your pickup and destination locations and indicate what vehicle you need to ship.
-                            </p>
+                        <div class="item">
+                            <span class="stepsCount">2</span>
+                            <div class="img">
+                                <img src="<?= get_img() ?>state-to-state/calculation.webp" alt="calculation" class="how_calculation">
+                            </div>
+                            <div class="text">
+                                <span class="titleItem">Get Instant Prices From Top Carriers</span>
+                                <p>
+                                    Our system will automatically show you nearest carriers and instantly show you price
+                                    quotes.
+                                </p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="item">
-                        <span class="stepsCount">2</span>
-                        <div class="img">
-                            <img src="<?= get_img()?>state-to-state/calculation.webp" alt="calculation"
-                                class="how_calculation">
+                        <div class="item">
+                            <span class="stepsCount">3</span>
+                            <div class="img">
+                                <img src="<?= get_img() ?>state-to-state/shipping.webp" alt="shipping" class="how_shippping">
+                            </div>
+                            <div class="text">
+                                <span class="titleItem">Book Online</span>
+                                <p>
+                                    Book your shipment online. Driver will get in touch with you right away to schedule
+                                    pickup and delivery timeframes.
+                                </p>
+                            </div>
                         </div>
-                        <div class="text">
-                            <span class="titleItem">Get Instant Prices From Top Carriers</span>
-                            <p>
-                                Our system will automatically show you nearest carriers and instantly show you price
-                                quotes.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <span class="stepsCount">3</span>
-                        <div class="img">
-                            <img src="<?= get_img()?>state-to-state/shipping.webp" alt="shipping" class="how_shippping">
-                        </div>
-                        <div class="text">
-                            <span class="titleItem">Book Online</span>
-                            <p>
-                                Book your shipment online. Driver will get in touch with you right away to schedule
-                                pickup and delivery timeframes.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <span class="stepsCount">4</span>
-                        <div class="img">
-                            <img src="<?= get_img()?>state-to-state/delivery.webp" alt="delivery" class="how_delivery">
+                        <div class="item">
+                            <span class="stepsCount">4</span>
+                            <div class="img">
+                                <img src="<?= get_img() ?>state-to-state/delivery.webp" alt="delivery" class="how_delivery">
                             </div>
                             <div class=" text">
-                            <span class="titleItem">Rate Your Carrier After Delivery</span>
-                            <p>
-                                Tell us about your experience and help other customers make the right decision!
-                            </p>
+                                <span class="titleItem">Rate Your Carrier After Delivery</span>
+                                <p>
+                                    Tell us about your experience and help other customers make the right decision!
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
 
 
-    </section>
+        </section>
         <!-- how it works ends -->
         <div class="content-body ">
             <div class="row content-body-row px-5">
 
                 <div class="col-12 col-md-12 col-lg-8 p-5 content-body-text" id="contentContainer">
-                    <div class="first-section-state-to-state">
-                        <h2 class="heading-1"><strong>
-                                <?= $data['h2']; ?>
-                            </strong></h2>
-                        <p class="para-2">
-                            <?= $data['h2_about']; ?>
-                        </p>
+                    <div class="left-state-to-state">
+                        <div class="first-section-state-to-state">
+                            <h2 class="heading-1">
+                                <?= $data['page_h2'] ?>
+                            </h2>
+                            <p class="para-2">
+                                <?= $data['page_about_2'] ?>
+                            </p>
+                        </div>
+
+                        <div class="points-div " id="top-section">
+                            <h2 class="heading-2">
+                                What's in this article?
+                            </h2>
+                            <ul class="points-div-ul">
+                                <?php
+
+                                $json = $data['content'];
+                                $json_decoded = json_decode($json);
+                                if (isset($json_decoded)) {
+                                    foreach ($json_decoded as $result) {
+                                        echo ' <li><a href="#' . $result->index . ' ">' . $result->heading . '</a></li>';
+                                    }
+                                }
+
+
+
+                                ?>
+
+                                <li><a href="#step">How to ship Vehicle <span>
+                                            <?= $data['state_form'] . " to " . $data['state_to'] ?>
+                                        </span>?</a></li>
+
+
+                            </ul>
+
+                        </div>
+                        <!-- section from which shipping started here -->
+                        <section class="first-state-to-state">
+                            <div class="shipping-form-state-image">
+                                <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_form_img'] ?>" alt="<?= $data['state_form_img_alt'] ?>" />
+
+                            </div>
+                            <ul>
+                                <?php
+                                if (isset($json_decoded)) {
+                                    foreach ($json_decoded as $result) {
+                                        echo '<li id="' . $result->index . '">
+                        <div class="shipping-form-state-content">
+                            <h4 class="heading-1">' . $result->heading . '</h4>
+                            <p class="para-2">
+                                ' . $result->about . '
+                            </p>
+                        </div>
+                    </li>';
+                                    }
+                                }
+                                ?>
+
+
+
+                                <li id="step">
+                                    <div class="shipping-form-state-content">
+                                        <h3 class="heading-1">How to ship Vehicle <span>
+                                                <?= $data['state_form'] . " to " . $data['state_to'] ?>
+                                            </span>?</h3>
+                                        <p class="para-2">It's as simple as 1-2-3 to ship a car from
+                                            <?= $data['state_form'] . " to " . $data['state_to'] ?> with Rapid Auto Shipping.
+                                            <br><br>
+                                            <b>Step 1:</b> Get a quick auto shipment quote for
+                                            <?= $data['state_form'] . " to " . $data['state_to'] ?> Auto Shipping and schedule a
+                                            pickup time that works for you.
+                                            With our online quote form, you can easily get a quote, enter your origin and
+                                            destination, choose your shipping dates, and book your reservation online or over the
+                                            phone for your
+                                            <?= $data['state_form'] . " to " . $data['state_to'] ?> car shipping!
+                                            <br><br>
+                                            <b>Step 2:</b> Your vehicle will be picked up from a certain place in
+                                            <?= $data['state_form'] ?>.
+                                            Your vehicle will be thoroughly inspected and put onto the carrier on the day of pickup.
+                                            Our direct service allows us to pick up from any home or company in
+                                            <?= $data['state_form'] ?>.
+                                            <br><br>
+                                            <b>Step 3:</b> Your vehicle is delivered to the address you provide in
+                                            <?= $data['state_to'] ?>.
+                                            Your vehicle will be offloaded safely, and a final examination will be performed to
+                                            ensure that it was delivered in the same condition as when it was picked up.
+                                        </p>
+                                    </div>
+
+                                </li>
+
+
+                            </ul>
+
+                            <div class="shipping-form-state-image">
+                                <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_to_img'] ?>" alt="<?= $data['state_to_img_alt'] ?>" />
+                            </div>
+                        </section>
+
+
                     </div>
-                    <?php echo $data['content']; ?>
                 </div>
                 <div class="col-12 col-md-12 col-lg-4 __side-form">
                     <div class="_side-form d-grid justify-content-center">
@@ -744,7 +848,7 @@ if (isset($_GET['page_id'])) {
                 textContent.textContent += remainingText;
                 readMoreLink.style.display = 'none';
             });
-        } 
+        }
 
         document.getElementById('hamburgur-btn').addEventListener('click', function() {
             document.getElementById('main-link').style.display = 'grid';
@@ -818,16 +922,16 @@ if (isset($_GET['page_id'])) {
         var metaDescription = document.querySelector('meta[name="description"]');
         var descriptionContent = "";
         if (metaDescription) {
-        descriptionContent = metaDescription.getAttribute('content');
+            descriptionContent = metaDescription.getAttribute('content');
         }
         var metatitle = document.querySelector('meta[name="title"]');
         var titleContent = "";
         var titleContent2 = "";
         if (metatitle) {
-        titleContent = metatitle.getAttribute('content');
+            titleContent = metatitle.getAttribute('content');
             var titleContent = titleContent.split("|");
             var titleContent = titleContent[0].trim();
-            var titleContent2 = titleContent+' | Rapid Auto Shipping'
+            var titleContent2 = titleContent + ' | Rapid Auto Shipping'
         }
     </script>
     <script async src="<?= get_js() ?>small_form_new.js"></script>
@@ -853,7 +957,7 @@ if (isset($_GET['page_id'])) {
                 "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
                 "https://www.provenexpert.com/en-us/rapid-auto-shipping"
             ],
-            "description": `${descriptionContent}`,//page description
+            "description": `${descriptionContent}`, //page description
             "logo": {
                 "@type": "ImageObject",
                 "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
@@ -865,7 +969,7 @@ if (isset($_GET['page_id'])) {
         document.head.appendChild(script1);
     </script>
     <script>
-     const mySchema2 =  {
+        const mySchema2 = {
             "@context": "https://schema.org",
             "@type": "Product",
             "@id": "https://www.rapidautoshipping.com/#product",
@@ -895,7 +999,7 @@ if (isset($_GET['page_id'])) {
         document.head.appendChild(script2);
     </script>
     <script>
-     const mySchema3 = {
+        const mySchema3 = {
             "@context": "https://schema.org",
             "@type": "Service",
             "serviceType": `${titleContent2}`,
@@ -906,7 +1010,7 @@ if (isset($_GET['page_id'])) {
         script3.text = JSON.stringify(mySchema3);
         document.head.appendChild(script3);
     </script>
-    
+
 </body>
 
 </html>
