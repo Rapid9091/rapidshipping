@@ -175,22 +175,22 @@ if (isset($_GET['page_id'])) {
             <div class="container">
                 <div class="row text-center">
                     <div class="col-md-4 col-sm-4 col-xs-12 second-column">
-                        <h3 class="text-center" style="color:#ff5722">Estimated Transit Time </h3>
+                        <h3 class="text-center" style="color:#ff5722"><b>Estimated Transit Time</b> </h3>
                         <div class="border-bottom"></div>
                         <div class="show-avg-distance">
 
-                            <h3 class="avg_days_wrap"><span class="average_days"><b>5-7 days</b></span></h3>
+                            <h3 class="avg_days_wrap"><span class="average_days">5-7 days</span></h3>
                         </div>
                         <!-- <p class="blurb"> Estimates based on average miles from <a style="color: #0098e1;font-weight: 600;text-decoration: none;" href="https://directconnectautotransport.com/auto-transport-car-shipping-texas.php">Texas</a> to <a style="color: #0098e1;font-weight: 600;text-decoration: none;" href="https://directconnectautotransport.com/auto-transport-car-shipping-illinois.php">Illinois</a> from when your vehicle is picked up.</p> -->
                     </div>
                     <div class="col-md-4 col-sm-4 col-xs-12 first-column">
-                        <h3 class="text-center" style="color:#ff5722">Approximate Distance</h3>
+                        <h3 class="text-center" style="color:#ff5722"><b>Approximate Distance</b></h3>
                         <div class="border-bottom"></div>
                         <p class="blurb font-weight-bold"> Shipping distance is based on average of recent auto shipping quotes.</p>
                     </div>
 
                     <div class="col-md-4 col-sm-4 col-xs-12 third-column">
-                        <h3 class="text-center" style="color:#ff5722">Satisfied Customers</h3>
+                        <h3 class="text-center" style="color:#ff5722"><b>Satisfied Customers</b></h3>
                         <div class="border-bottom"></div>
                         <div class="star_block">
                             ⭐
@@ -199,7 +199,7 @@ if (isset($_GET['page_id'])) {
                             ⭐
                             ⭐
                         </div>
-                        <h3 class="rev-txt"><b>Excellent !</b></h3>
+                        <h3 class="rev-txt">Excellent !</h3>
                         <!-- <p class="review">Excellent job! From Texas to Illinois, the driver picked it up on time, delivered on time, and intact.</p> -->
                     </div>
                 </div>
