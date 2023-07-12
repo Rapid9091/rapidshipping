@@ -179,7 +179,7 @@ if (isset($_GET['page_id'])) {
                         <div class="border-bottom"></div>
                         <div class="show-avg-distance">
 
-                            <h3 class="avg_days_wrap"><span class="average_days" style="font-size: larger;" >5-7 days</span></h3>
+                            <h3 class="avg_days_wrap"><span class="average_days" >5-7 days</span></h3>
                         </div>
                         <!-- <p class="blurb"> Estimates based on average miles from <a style="color: #0098e1;font-weight: 600;text-decoration: none;" href="https://directconnectautotransport.com/auto-transport-car-shipping-texas.php">Texas</a> to <a style="color: #0098e1;font-weight: 600;text-decoration: none;" href="https://directconnectautotransport.com/auto-transport-car-shipping-illinois.php">Illinois</a> from when your vehicle is picked up.</p> -->
                     </div>
@@ -199,7 +199,7 @@ if (isset($_GET['page_id'])) {
                             ⭐
                             ⭐
                         </div>
-                        <h3 class="rev-txt">Excellent !</h3>
+                        <!-- <h3 class="rev-txt">Excellent !</h3> -->
                         <!-- <p class="review">Excellent job! From Texas to Illinois, the driver picked it up on time, delivered on time, and intact.</p> -->
                     </div>
                 </div>
