@@ -192,7 +192,7 @@ if (isset($_GET['page_id'])) {
                     <div class="col-md-4 col-sm-4 col-xs-12 third-column">
                         <h3 class="text-center" style="color:#ff5722;font-weight:500">Satisfied Customers</h3>
                         <div class="border-bottom"></div>
-                        <div class="star_block">
+                        <div class="star_block" style="font-size:larger">
                             ⭐
                             ⭐
                             ⭐
