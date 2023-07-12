@@ -171,7 +171,7 @@ if (isset($_GET['page_id'])) {
         </div>
         <!-- Extra Section -->
 
-        <section class="three-column-auto-transport p-5"  style="background-color:#ff5722">
+        <section class="three-column-auto-transport p-3"  style="background-color:#ff5722">
             <div class="container">
                 <div class="row text-center">
                     <div class="col-md-4 col-sm-4 col-xs-12 second-column">
