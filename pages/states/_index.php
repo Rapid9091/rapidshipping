@@ -888,6 +888,22 @@ if (isset($_GET['page_id'])) {
         script.src = '<?= get_js() ?>small_form_new.js';
         document.body.appendChild(script);
         }
+
+        function analyzeAndManipulateScriptTag(scriptSrc) {
+            var scriptElements = document.getElementsByTagName('script');
+            var scriptFound = false;
+            for (var i = 0; i < scriptElements.length; i++) {
+                var script = scriptElements[i];
+                if (script.src === scriptSrc) {
+                    scriptFound = true;
+                    break;
+                }
+            }
+            if (scriptFound) {
+                var existingScript = document.querySelector('script[src="' + scriptSrc + '"]');
+                existingScript.parentNode.removeChild(existingScript);
+            }
+        }
     </script>
     
 </body>
