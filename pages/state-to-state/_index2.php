@@ -51,14 +51,29 @@ if (isset($_GET['page_id'])) {
     <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
     <meta name="yandex-verification" content="088dfdd0832860ec" />
     <style>
-       .heading-1 {
-    font-weight: 600;
-}
-.points-div-ul{list-style:auto;}
-.points-div-ul li{margin: 10px 0;}
-.first-state-to-state ul li{list-style:auto;}
-.first-state-to-state ul li::marker{font-weight: 600;}
-.stepsCount{background-color:#16161d!important;}
+        .heading-1 {
+            font-weight: 600;
+        }
+
+        .points-div-ul {
+            list-style: auto;
+        }
+
+        .points-div-ul li {
+            margin: 10px 0;
+        }
+
+        .first-state-to-state ul li {
+            list-style: auto;
+        }
+
+        .first-state-to-state ul li::marker {
+            font-weight: 600;
+        }
+
+        .stepsCount {
+            background-color: #16161d !important;
+        }
     </style>
     <title> <?= $data['title']; ?></title>
     <!-- <script type="application/ld+json">
@@ -571,15 +586,15 @@ if (isset($_GET['page_id'])) {
                         <!-- section from which shipping started here -->
                         <section class="first-state-to-state">
                             <div class="shipping-form-state-image">
-                                <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_form_img'] ?>" alt="<?= $data['state_form_img_alt'] ?>" />
+                                <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_form_img'] ?>" alt="<?= $data['state_form_img_alt'] ?>" style="margin:20px 0;" />
 
                             </div>
                             <ul>
                                 <?php
                                 if (isset($json_decoded)) {
                                     foreach ($json_decoded as $result) {
-                                        if($result->index == 4){
-                                            echo '<img src="https://dashboard.rapidautoshipping.com/assets/images/blog/'.$data["state_to_img"] .'" alt="'.$data['state_form_img_alt'].'"" /><li id="' . $result->index . '">
+                                        if ($result->index == 4) {
+                                            echo '<img src="https://dashboard.rapidautoshipping.com/assets/images/blog/' . $data["state_to_img"] . '" alt="' . $data['state_form_img_alt'] . '""  style="margin:20px 0;" /><li id="' . $result->index . '">
                         <div class="shipping-form-state-content">
                             <h4 class="heading-1">' . $result->heading . '</h4>
                             <p class="para-2">
@@ -587,8 +602,8 @@ if (isset($_GET['page_id'])) {
                             </p>
                         </div>
                     </li>';
-                                        }elseif($result->index == 10){
-                                            echo '<img src="https://dashboard.rapidautoshipping.com/assets/images/blog/'.$data["state_form_img"] .'" alt="'.$data['state_form_img_alt'].'"" /><li id="' . $result->index . '">
+                                        } elseif ($result->index == 10) {
+                                            echo '<img src="https://dashboard.rapidautoshipping.com/assets/images/blog/' . $data["state_form_img"] . '" alt="' . $data['state_form_img_alt'] . '""  style="margin:20px 0;" /><li id="' . $result->index . '">
                         <div class="shipping-form-state-content">
                             <h4 class="heading-1">' . $result->heading . '</h4>
                             <p class="para-2">
@@ -596,8 +611,7 @@ if (isset($_GET['page_id'])) {
                             </p>
                         </div>
                     </li>';
-                                        }
-                                        else{
+                                        } else {
                                             echo '<li id="' . $result->index . '">
                         <div class="shipping-form-state-content">
                             <h4 class="heading-1">' . $result->heading . '</h4>
@@ -612,7 +626,9 @@ if (isset($_GET['page_id'])) {
                                 ?>
 
 
-
+                                <div class="shipping-form-state-image">
+                                    <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_to_img'] ?>" alt="<?= $data['state_to_img_alt'] ?>" style="margin:20px 0;" />
+                                </div>
                                 <li id="step">
                                     <div class="shipping-form-state-content">
                                         <h3 class="heading-1">How to ship Vehicle <span>
@@ -647,9 +663,7 @@ if (isset($_GET['page_id'])) {
 
                             </ul>
 
-                            <div class="shipping-form-state-image">
-                                <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_to_img'] ?>" alt="<?= $data['state_to_img_alt'] ?>" />
-                            </div>
+
                         </section>
 
 
