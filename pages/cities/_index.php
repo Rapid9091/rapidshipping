@@ -175,7 +175,7 @@ if (isset($_GET['page_id'])) {
             <div class="container">
                 <div class="row text-center">
                     <div class="col-md-4 col-sm-4 col-xs-12 second-column">
-                        <h3 class="text-center">Estimated Transit Time </h3>
+                        <h3 class="text-center" style="color:#ff5722">Estimated Transit Time </h3>
                         <div class="border-bottom"></div>
                         <div class="show-avg-distance">
 
@@ -184,13 +184,13 @@ if (isset($_GET['page_id'])) {
                         <!-- <p class="blurb"> Estimates based on average miles from <a style="color: #0098e1;font-weight: 600;text-decoration: none;" href="https://directconnectautotransport.com/auto-transport-car-shipping-texas.php">Texas</a> to <a style="color: #0098e1;font-weight: 600;text-decoration: none;" href="https://directconnectautotransport.com/auto-transport-car-shipping-illinois.php">Illinois</a> from when your vehicle is picked up.</p> -->
                     </div>
                     <div class="col-md-4 col-sm-4 col-xs-12 first-column">
-                        <h3 class="text-center">Approximate Distance</h3>
+                        <h3 class="text-center" style="color:#ff5722">Approximate Distance</h3>
                         <div class="border-bottom"></div>
                         <p class="blurb font-weight-bold"> Shipping distance is based on average of recent auto shipping quotes.</p>
                     </div>
 
                     <div class="col-md-4 col-sm-4 col-xs-12 third-column">
-                        <h3 class="text-center">Satisfied Customers</h3>
+                        <h3 class="text-center" style="color:#ff5722">Satisfied Customers</h3>
                         <div class="border-bottom"></div>
                         <div class="star_block">
                             ⭐
