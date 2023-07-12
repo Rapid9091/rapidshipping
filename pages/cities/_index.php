@@ -175,7 +175,7 @@ if (isset($_GET['page_id'])) {
             <div class="container">
                 <div class="row text-center">
                     <div class="col-md-4 col-sm-4 col-xs-12 second-column">
-                        <h3 class="text-center" style="color:#ff5722;font-weight:500">Estimated Transit Time</h3>
+                        <h3 class="text-center" style="color:#ff5722;font-weight:600">Estimated Transit Time</h3>
                         <div class="border-bottom"></div>
                         <div class="show-avg-distance">
 
