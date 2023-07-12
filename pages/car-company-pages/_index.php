@@ -92,7 +92,7 @@ else ob_start(); ?>
     </style>
 </head>
 
-<body>
+<body  onload="loadScript()">
 
     <div class="">
         <div>
@@ -880,6 +880,19 @@ else ob_start(); ?>
         script3.type = "application/ld+json";
         script3.text = JSON.stringify(mySchema3);
         document.head.appendChild(script3);
+
+
+        function loadScript() {
+        var script = document.createElement('script');
+        script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
+        document.body.appendChild(script);
+        setInterval(function(){loadScript2()},1000)
+        }
+        function loadScript2() {
+        var script = document.createElement('script');
+        script.src = '<?= get_js() ?>small_form_new.js';
+        document.body.appendChild(script);
+        }
     </script>
     
 </body>
