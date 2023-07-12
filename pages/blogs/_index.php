@@ -469,6 +469,10 @@ else ob_start();
                     var isDivEmpty = $divElement.is(':empty');
                     if (isDivEmpty) {
                         $('#topForm').html('<?php include small_form_new; ?>');
+                        analyzeAndManipulateScriptTag('<?= get_js() ?>small_form_new.js')
+                        setTimeout(function() {
+                            loadScript2()
+                        }, 1000)
                     }
                 } else {
                     $('#topForm').html('');
@@ -477,6 +481,10 @@ else ob_start();
                     var isDivEmpty = $divElement.is(':empty');
                     if (isDivEmpty) {
                         $('#sideFrom').html('<?php include small_form_new; ?>');
+                        analyzeAndManipulateScriptTag('<?= get_js() ?>small_form_new.js')
+                        setTimeout(function() {
+                            loadScript2()
+                        }, 1000)
                     }
                 }
             });
@@ -596,7 +604,7 @@ else ob_start();
         var script = document.createElement('script');
         script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
         document.body.appendChild(script);
-        setInterval(function(){loadScript2()},1000)
+        setTimeout(function(){loadScript2()},1000)
         }
         function loadScript2() {
         var script = document.createElement('script');
