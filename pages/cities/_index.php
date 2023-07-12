@@ -90,13 +90,26 @@ if (isset($_GET['page_id'])) {
         #sideFrombody {
             display: none;
         }
-        h2 a{word-wrap: break-word;}
-        #vehicle_list_div div {color:#ff5722}
-        #myList1, #myList3,#models_list_small {color: black;}
-        @media screen and (max-width: 425px){
+
+        h2 a {
+            word-wrap: break-word;
+        }
+
+        #vehicle_list_div div {
+            color: #ff5722
+        }
+
+        #myList1,
+        #myList3,
+        #models_list_small {
+            color: black;
+        }
+
+        @media screen and (max-width: 425px) {
             .logo_div img {
                 width: 130%;
             }
+
             .logo_div a {
                 display: flex;
             }
@@ -156,7 +169,44 @@ if (isset($_GET['page_id'])) {
                 </div>
             </div>
         </div>
+        <!-- Extra Section -->
 
+        <section class="three-column-auto-transport p-5"  style="background-color:#ff5722">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-md-4 col-sm-4 col-xs-12 second-column">
+                        <h3 class="text-center">Estimated Transit Time </h3>
+                        <div class="border-bottom"></div>
+                        <div class="show-avg-distance">
+
+                            <h3 class="avg_days_wrap"><span class="average_days"><b>5-7 days</b></span></h3>
+                        </div>
+                        <!-- <p class="blurb"> Estimates based on average miles from <a style="color: #0098e1;font-weight: 600;text-decoration: none;" href="https://directconnectautotransport.com/auto-transport-car-shipping-texas.php">Texas</a> to <a style="color: #0098e1;font-weight: 600;text-decoration: none;" href="https://directconnectautotransport.com/auto-transport-car-shipping-illinois.php">Illinois</a> from when your vehicle is picked up.</p> -->
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12 first-column">
+                        <h3 class="text-center">Approximate Distance</h3>
+                        <div class="border-bottom"></div>
+                        <p class="blurb font-weight-bold"> Shipping distance is based on average of recent auto shipping quotes.</p>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4 col-xs-12 third-column">
+                        <h3 class="text-center">Satisfied Customers</h3>
+                        <div class="border-bottom"></div>
+                        <div class="star_block">
+                            ⭐
+                            ⭐
+                            ⭐
+                            ⭐
+                            ⭐
+                        </div>
+                        <h3 class="rev-txt"><b>Excellent !</b></h3>
+                        <!-- <p class="review">Excellent job! From Texas to Illinois, the driver picked it up on time, delivered on time, and intact.</p> -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Extra Section Ends -->
 
         <div class="content-body ">
             <div class="row content-body-row px-3">
@@ -503,16 +553,16 @@ if (isset($_GET['page_id'])) {
         var metaDescription = document.querySelector('meta[name="description"]');
         var descriptionContent = "";
         if (metaDescription) {
-        descriptionContent = metaDescription.getAttribute('content');
+            descriptionContent = metaDescription.getAttribute('content');
         }
         var metatitle = document.querySelector('meta[name="title"]');
         var titleContent = "";
         var titleContent2 = "";
         if (metatitle) {
-        titleContent = metatitle.getAttribute('content'); 
+            titleContent = metatitle.getAttribute('content');
             var titleContent = titleContent.split("|");
             var titleContent = titleContent[0].trim();
-            var titleContent2 = titleContent+' | Rapid Auto Shipping'
+            var titleContent2 = titleContent + ' | Rapid Auto Shipping'
         }
     </script>
     <script async src="<?= get_js() ?>small_form_new.js"></script>
