@@ -50,6 +50,16 @@ if (isset($_GET['page_id'])) {
     <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css">
     <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
     <meta name="yandex-verification" content="088dfdd0832860ec" />
+    <style>
+       .heading-1 {
+    font-weight: 600;
+}
+.points-div-ul{list-style:auto;}
+.points-div-ul li{margin: 10px 0;}
+.first-state-to-state ul li{list-style:auto;}
+.first-state-to-state ul li::marker{font-weight: 600;}
+.stepsCount{background-color:#16161d!important;}
+    </style>
     <title> <?= $data['title']; ?></title>
     <!-- <script type="application/ld+json">
         {
@@ -568,7 +578,8 @@ if (isset($_GET['page_id'])) {
                                 <?php
                                 if (isset($json_decoded)) {
                                     foreach ($json_decoded as $result) {
-                                        echo '<li id="' . $result->index . '">
+                                        if($result->index == 4){
+                                            echo '<img src="https://dashboard.rapidautoshipping.com/assets/images/blog/'.$data["state_to_img"] .'" alt="'.$data['state_form_img_alt'].'"" /><li id="' . $result->index . '">
                         <div class="shipping-form-state-content">
                             <h4 class="heading-1">' . $result->heading . '</h4>
                             <p class="para-2">
@@ -576,6 +587,26 @@ if (isset($_GET['page_id'])) {
                             </p>
                         </div>
                     </li>';
+                                        }elseif($result->index == 10){
+                                            echo '<img src="https://dashboard.rapidautoshipping.com/assets/images/blog/'.$data["state_form_img"] .'" alt="'.$data['state_form_img_alt'].'"" /><li id="' . $result->index . '">
+                        <div class="shipping-form-state-content">
+                            <h4 class="heading-1">' . $result->heading . '</h4>
+                            <p class="para-2">
+                                ' . $result->about . '
+                            </p>
+                        </div>
+                    </li>';
+                                        }
+                                        else{
+                                            echo '<li id="' . $result->index . '">
+                        <div class="shipping-form-state-content">
+                            <h4 class="heading-1">' . $result->heading . '</h4>
+                            <p class="para-2">
+                                ' . $result->about . '
+                            </p>
+                        </div>
+                    </li>';
+                                        }
                                     }
                                 }
                                 ?>
