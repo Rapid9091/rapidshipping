@@ -728,8 +728,8 @@ else ob_start(); ?>
             document.getElementById('main-link').style.display = 'none';
         })
     </script>
-    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places"></script>
-    <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script> -->
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
     <script>
         $(document).ready(function() {
             $.fn.isInViewport = function() {
@@ -813,7 +813,7 @@ else ob_start(); ?>
             var titleContent2 = titleContent+' | Rapid Auto Shipping'
         }
     </script>
-    <script async src="<?= get_js() ?>small_form_new.js"></script>
+    <!-- <script async src="<?= get_js() ?>small_form_new.js"></script> -->
     <script>
         const mySchema1 = {
             "@context": "https://schema.org",
