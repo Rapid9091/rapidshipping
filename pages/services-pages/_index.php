@@ -604,7 +604,7 @@ else ob_start(); ?>
         <a href="tel:+1 (833) 233-4447"><button style="color:black;">+1 (833) 233-4447</button></a>
     </div>
 
-    <!-- <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
     <script>
         const swiper = new Swiper('.swiper', {
             zoom: true,
@@ -848,7 +848,6 @@ else ob_start(); ?>
 
         function loadScript() {
             setTimeout(function(){
-                loadScript3()
                 var script = document.createElement('script');
         script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
         document.body.appendChild(script);
@@ -858,11 +857,6 @@ else ob_start(); ?>
         function loadScript2() {
         var script = document.createElement('script');
         script.src = '<?= get_js() ?>small_form_new.js';
-        document.body.appendChild(script);
-        }
-        function loadScript3() {
-        var script = document.createElement('script');
-        script.src = 'https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js';
         document.body.appendChild(script);
         }
 
