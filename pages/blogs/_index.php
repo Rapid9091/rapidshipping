@@ -601,10 +601,12 @@ else ob_start();
         document.head.appendChild(script3);
 
         function loadScript() {
-        var script = document.createElement('script');
+        setTimeout(function(){
+            var script = document.createElement('script');
         script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
         document.body.appendChild(script);
         setTimeout(function(){loadScript2()},1000)
+        },2000)
         }
         function loadScript2() {
         var script = document.createElement('script');
