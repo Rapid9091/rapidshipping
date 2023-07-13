@@ -1113,13 +1113,14 @@ if (isset($_GET['page_id'])) {
 
 
         function loadScript() {
-            searchPlacesInUSA('restaurants');
-            var script = document.createElement('script');
+            setTimeout(function(){
+                var script = document.createElement('script');
             script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
             document.body.appendChild(script);
             setTimeout(function() {
                 loadScript2()
             }, 1000)
+            },2000)
         }
 
         function loadScript2() {
@@ -1144,35 +1145,7 @@ if (isset($_GET['page_id'])) {
             }
         }
 
-        function searchPlacesInUSA(keyword) {
-  // Replace YOUR_API_KEY with your actual Google Places API key
-  var apiKey = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
-  var apiUrl = 'https://maps.googleapis.com/maps/api/place/textsearch/json?';
-
-  var query = keyword + ' in USA';
-
-  var url = apiUrl + 'query=' + encodeURIComponent(query) + '&key=' + apiKey;
-
-  // Make a request to the Places API
-  fetch(url)
-    .then(response => response.json())
-    .then(data => {
-      // Process the response data
-      if (data.status === 'OK') {
-        // Places found, do something with the results
-        var places = data.results;
-        console.log('Places found:', places);
-      } else {
-        // Handle API error
-        console.log('Error:', data.status);
-      }
-    })
-    .catch(error => {
-      // Handle network or other errors
-      console.error('Error:', error);
-    });
-}
-
+        
     </script>
 
 </body>
