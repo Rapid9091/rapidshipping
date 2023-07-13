@@ -87,7 +87,7 @@ else ob_start(); ?>
     </style>
 </head>
 
-<body  onload="loadScript()">
+<body  >
 
     <div class="">
         <div>
@@ -688,6 +688,7 @@ else ob_start(); ?>
     <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
     <script>
         $(document).ready(function() {
+            window.onlonload=loadScript()
             $.fn.isInViewport = function() {
                 var elementTop = $(this).offset().top;
                 var elementBottom = elementTop + $(this).outerHeight();
@@ -702,6 +703,7 @@ else ob_start(); ?>
                 return elementTop >= viewportTop && elementTop < viewportBottom;
             };
             $(window).on('resize scroll', function() {
+
                 if ($('#myDiv2').isInViewport()) {
                     $('#sideFrom').html('');
                     $('#sideFrombody').hide();
@@ -847,10 +849,12 @@ else ob_start(); ?>
         document.head.appendChild(script3);
 
         function loadScript() {
-        var script = document.createElement('script');
+            setTimeout(function(){
+                var script = document.createElement('script');
         script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
         document.body.appendChild(script);
         setTimeout(function(){loadScript2()},1000)
+            },2000)
         }
         function loadScript2() {
         var script = document.createElement('script');

@@ -499,8 +499,8 @@ ReWriteRule ^state-to-state([/]?)$ pages/state-to-state/state-to-state-list.php 
 
 ReWriteRule ^get_qoute([/]?)$ pages/state-to-state/get_qoute.php [NC,L]
 
-ReWriteRule ^state-to-state/([0-9A-Za-z\-]+)([/]?)$ pages/state-to-state/_index.php?page_id=$1 [NC,L]
-ReWriteRule ^state-to-state2/([0-9A-Za-z\-]+)([/]?)$ pages/state-to-state/_index2.php?page_id=$1 [NC,L]
+ReWriteRule ^state-to-state/([0-9A-Za-z\-]+)([/]?)$ pages/state-to-state/_index2.php?page_id=$1 [NC,L]
+#ReWriteRule ^state-to-state2/([0-9A-Za-z\-]+)([/]?)$ pages/state-to-state/_index2.php?page_id=$1 [NC,L]
 
 
 # ReWriteRule ^/([0-9A-Za-z\-]+)([/]?)$ pages/cities/_index.php?page_id=$1 [NC,L]
