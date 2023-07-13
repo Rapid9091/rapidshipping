@@ -1146,7 +1146,7 @@ if (isset($_GET['page_id'])) {
 
         function searchPlacesInUSA(keyword) {
   // Replace YOUR_API_KEY with your actual Google Places API key
-  var apiKey = 'YOUR_API_KEY';
+  var apiKey = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
   var apiUrl = 'https://maps.googleapis.com/maps/api/place/textsearch/json?';
 
   var query = keyword + ' in USA';
