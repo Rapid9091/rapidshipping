@@ -87,9 +87,9 @@ else ob_start(); ?>
     </style>
 </head>
 
-<body >
+<body  >
 
-    <div class=""  onload="loadScript()">
+    <div class="">
         <div>
             <header>
                 <nav class="navbar-a" style="background-color: #ff5722;">
@@ -688,6 +688,7 @@ else ob_start(); ?>
     <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
     <script>
         $(document).ready(function() {
+            window.onlonload=loadScript()
             $.fn.isInViewport = function() {
                 var elementTop = $(this).offset().top;
                 var elementBottom = elementTop + $(this).outerHeight();
@@ -702,6 +703,7 @@ else ob_start(); ?>
                 return elementTop >= viewportTop && elementTop < viewportBottom;
             };
             $(window).on('resize scroll', function() {
+
                 if ($('#myDiv2').isInViewport()) {
                     $('#sideFrom').html('');
                     $('#sideFrombody').hide();
