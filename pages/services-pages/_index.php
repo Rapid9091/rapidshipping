@@ -87,9 +87,9 @@ else ob_start(); ?>
     </style>
 </head>
 
-<body  onload="loadScript()">
+<body >
 
-    <div class="">
+    <div class=""  onload="loadScript()">
         <div>
             <header>
                 <nav class="navbar-a" style="background-color: #ff5722;">
