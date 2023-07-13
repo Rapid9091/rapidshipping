@@ -100,7 +100,7 @@ if (isset($_GET['page_id'])) {
     </style>
 </head>
 
-<body>
+<body  onload="loadScript()">
 
     <div class="">
         <div>
@@ -716,7 +716,7 @@ if (isset($_GET['page_id'])) {
             document.getElementById('main-link').style.display = 'none';
         })
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places"></script>
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places"></script> -->
     <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
     <script>
         $(document).ready(function() {
@@ -741,6 +741,10 @@ if (isset($_GET['page_id'])) {
                     var isDivEmpty = $divElement.is(':empty');
                     if (isDivEmpty) {
                         $('#topForm').html('<?php include small_form_new; ?>');
+                        analyzeAndManipulateScriptTag('<?= get_js() ?>small_form_new.js')
+                        setTimeout(function() {
+                            loadScript2()
+                        }, 1000)
                     }
                 } else {
                     $('#topForm').html('');
@@ -749,6 +753,10 @@ if (isset($_GET['page_id'])) {
                     var isDivEmpty = $divElement.is(':empty');
                     if (isDivEmpty) {
                         $('#sideFrom').html('<?php include small_form_new; ?>');
+                        analyzeAndManipulateScriptTag('<?= get_js() ?>small_form_new.js')
+                        setTimeout(function() {
+                            loadScript2()
+                        }, 1000)
                     }
 
                 }
@@ -793,7 +801,7 @@ if (isset($_GET['page_id'])) {
             var titleContent2 = titleContent+' | Rapid Auto Shipping'
         }
     </script>
-    <script async src="<?= get_js() ?>small_form_new.js"></script>
+    <!-- <script async src="<?= get_js() ?>small_form_new.js"></script> -->
     <script>
         const mySchema1 = {
             "@context": "https://schema.org",
@@ -868,6 +876,34 @@ if (isset($_GET['page_id'])) {
         script3.type = "application/ld+json";
         script3.text = JSON.stringify(mySchema3);
         document.head.appendChild(script3);
+
+        function loadScript() {
+        var script = document.createElement('script');
+        script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
+        document.body.appendChild(script);
+        setTimeout(function(){loadScript2()},1000)
+        }
+        function loadScript2() {
+        var script = document.createElement('script');
+        script.src = '<?= get_js() ?>small_form_new.js';
+        document.body.appendChild(script);
+        }
+
+        function analyzeAndManipulateScriptTag(scriptSrc) {
+            var scriptElements = document.getElementsByTagName('script');
+            var scriptFound = false;
+            for (var i = 0; i < scriptElements.length; i++) {
+                var script = scriptElements[i];
+                if (script.src === scriptSrc) {
+                    scriptFound = true;
+                    break;
+                }
+            }
+            if (scriptFound) {
+                var existingScript = document.querySelector('script[src="' + scriptSrc + '"]');
+                existingScript.parentNode.removeChild(existingScript);
+            }
+        }
     </script>
     
 </body>

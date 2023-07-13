@@ -90,21 +90,35 @@ if (isset($_GET['page_id'])) {
         #sideFrombody {
             display: none;
         }
-        h2 a{word-wrap: break-word;}
-        #vehicle_list_div div {color:#ff5722}
-        #myList1, #myList3,#models_list_small {color: black;}
-        @media screen and (max-width: 425px){
+
+        h2 a {
+            word-wrap: break-word;
+        }
+
+        #vehicle_list_div div {
+            color: #ff5722
+        }
+
+        #myList1,
+        #myList3,
+        #models_list_small {
+            color: black;
+        }
+
+        @media screen and (max-width: 425px) {
             .logo_div img {
                 width: 130%;
             }
+
             .logo_div a {
                 display: flex;
             }
         }
+        
     </style>
 </head>
 
-<body>
+<body  onload="loadScript()">
 
     <div class="">
         <div>
@@ -156,7 +170,44 @@ if (isset($_GET['page_id'])) {
                 </div>
             </div>
         </div>
+        <!-- Extra Section -->
 
+        <section class="three-column-auto-transport py-3 border-bottom">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-md-4 col-sm-4 col-xs-12 second-column">
+                        <h3 class="text-center" style="color:#ff5722;font-weight:500">Estimated Transit Time</h3>
+                        <!-- <div class="border-bottom"></div> -->
+                        <div class="show-avg-distance">
+
+                            <h3 class="avg_days_wrap"><span class="average_days" >5-7 days</span></h3>
+                        </div>
+                        <!-- <p class="blurb"> Estimates based on average miles from <a style="color: #0098e1;font-weight: 600;text-decoration: none;" href="https://directconnectautotransport.com/auto-transport-car-shipping-texas.php">Texas</a> to <a style="color: #0098e1;font-weight: 600;text-decoration: none;" href="https://directconnectautotransport.com/auto-transport-car-shipping-illinois.php">Illinois</a> from when your vehicle is picked up.</p> -->
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12 first-column">
+                        <h3 class="text-center" style="color:#ff5722;font-weight:500">Approximate Distance</h3>
+                        <!-- <div class="border-bottom"></div> -->
+                        <p class="blurb font-weight-bold"> Shipping distance is based on average of recent auto shipping quotes.</p>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4 col-xs-12 third-column">
+                        <h3 class="text-center" style="color:#ff5722;font-weight:500">Satisfied Customers</h3>
+                        <!-- <div class="border-bottom"></div> -->
+                        <div class="star_block" style="font-size:xx-large">
+                            ⭐
+                            ⭐
+                            ⭐
+                            ⭐
+                            ⭐
+                        </div>
+                        <!-- <h3 class="rev-txt">Excellent !</h3> -->
+                        <!-- <p class="review">Excellent job! From Texas to Illinois, the driver picked it up on time, delivered on time, and intact.</p> -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Extra Section Ends -->
 
         <div class="content-body ">
             <div class="row content-body-row px-3">
@@ -451,7 +502,7 @@ if (isset($_GET['page_id'])) {
             document.getElementById('main-link').style.display = 'none';
         })
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places"></script>
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places"></script> -->
     <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
     <script>
         $(document).ready(function() {
@@ -470,6 +521,10 @@ if (isset($_GET['page_id'])) {
                     var isDivEmpty = $divElement.is(':empty');
                     if (isDivEmpty) {
                         $('#topForm').html('<?php include small_form_new; ?>');
+                        analyzeAndManipulateScriptTag('<?= get_js() ?>small_form_new.js')
+                        setTimeout(function() {
+                            loadScript2()
+                        }, 1000)
                     }
                 } else {
                     $('#topForm').html('');
@@ -478,6 +533,10 @@ if (isset($_GET['page_id'])) {
                     var isDivEmpty = $divElement.is(':empty');
                     if (isDivEmpty) {
                         $('#sideFrom').html('<?php include small_form_new; ?>');
+                        analyzeAndManipulateScriptTag('<?= get_js() ?>small_form_new.js')
+                        setTimeout(function() {
+                            loadScript2()
+                        }, 1000)
                     }
                 }
             });
@@ -503,19 +562,19 @@ if (isset($_GET['page_id'])) {
         var metaDescription = document.querySelector('meta[name="description"]');
         var descriptionContent = "";
         if (metaDescription) {
-        descriptionContent = metaDescription.getAttribute('content');
+            descriptionContent = metaDescription.getAttribute('content');
         }
         var metatitle = document.querySelector('meta[name="title"]');
         var titleContent = "";
         var titleContent2 = "";
         if (metatitle) {
-        titleContent = metatitle.getAttribute('content'); 
+            titleContent = metatitle.getAttribute('content');
             var titleContent = titleContent.split("|");
             var titleContent = titleContent[0].trim();
-            var titleContent2 = titleContent+' | Rapid Auto Shipping'
+            var titleContent2 = titleContent + ' | Rapid Auto Shipping'
         }
     </script>
-    <script async src="<?= get_js() ?>small_form_new.js"></script>
+    <!-- <script async src="<?= get_js() ?>small_form_new.js"></script> -->
     <script>
         const mySchema1 = {
             "@context": "https://schema.org",
@@ -590,6 +649,35 @@ if (isset($_GET['page_id'])) {
         script3.type = "application/ld+json";
         script3.text = JSON.stringify(mySchema3);
         document.head.appendChild(script3);
+
+
+        function loadScript() {
+        var script = document.createElement('script');
+        script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
+        document.body.appendChild(script);
+        setTimeout(function(){loadScript2()},1000)
+        }
+        function loadScript2() {
+        var script = document.createElement('script');
+        script.src = '<?= get_js() ?>small_form_new.js';
+        document.body.appendChild(script);
+        }
+
+        function analyzeAndManipulateScriptTag(scriptSrc) {
+            var scriptElements = document.getElementsByTagName('script');
+            var scriptFound = false;
+            for (var i = 0; i < scriptElements.length; i++) {
+                var script = scriptElements[i];
+                if (script.src === scriptSrc) {
+                    scriptFound = true;
+                    break;
+                }
+            }
+            if (scriptFound) {
+                var existingScript = document.querySelector('script[src="' + scriptSrc + '"]');
+                existingScript.parentNode.removeChild(existingScript);
+            }
+        }
     </script>
 </body>
 

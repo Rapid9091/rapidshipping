@@ -50,6 +50,31 @@ if (isset($_GET['page_id'])) {
     <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css">
     <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
     <meta name="yandex-verification" content="088dfdd0832860ec" />
+    <style>
+        .heading-1 {
+            font-weight: 600;
+        }
+
+        .points-div-ul {
+            list-style: auto;
+        }
+
+        .points-div-ul li {
+            margin: 10px 0;
+        }
+
+        .first-state-to-state ul li {
+            list-style: auto;
+        }
+
+        .first-state-to-state ul li::marker {
+            font-weight: 600;
+        }
+
+        .stepsCount {
+            background-color: #16161d !important;
+        }
+    </style>
     <title> <?= $data['title']; ?></title>
     <!-- <script type="application/ld+json">
         {
@@ -98,7 +123,7 @@ if (isset($_GET['page_id'])) {
     </style>
 </head>
 
-<body>
+<body onload="loadScript()">
 
     <div class="">
         <div>
@@ -561,14 +586,15 @@ if (isset($_GET['page_id'])) {
                         <!-- section from which shipping started here -->
                         <section class="first-state-to-state">
                             <div class="shipping-form-state-image">
-                                <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_form_img'] ?>" alt="<?= $data['state_form_img_alt'] ?>" />
+                                <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_form_img'] ?>" alt="<?= $data['state_form_img_alt'] ?>" style="margin:20px 0;" />
 
                             </div>
                             <ul>
                                 <?php
                                 if (isset($json_decoded)) {
                                     foreach ($json_decoded as $result) {
-                                        echo '<li id="' . $result->index . '">
+                                        if ($result->index == 4) {
+                                            echo '<img src="https://dashboard.rapidautoshipping.com/assets/images/blog/' . $data["state_to_img"] . '" alt="' . $data['state_form_img_alt'] . '""  style="margin:20px 0;" /><li id="' . $result->index . '">
                         <div class="shipping-form-state-content">
                             <h4 class="heading-1">' . $result->heading . '</h4>
                             <p class="para-2">
@@ -576,12 +602,33 @@ if (isset($_GET['page_id'])) {
                             </p>
                         </div>
                     </li>';
+                                        } elseif ($result->index == 10) {
+                                            echo '<img src="https://dashboard.rapidautoshipping.com/assets/images/blog/' . $data["state_form_img"] . '" alt="' . $data['state_form_img_alt'] . '""  style="margin:20px 0;" /><li id="' . $result->index . '">
+                        <div class="shipping-form-state-content">
+                            <h4 class="heading-1">' . $result->heading . '</h4>
+                            <p class="para-2">
+                                ' . $result->about . '
+                            </p>
+                        </div>
+                    </li>';
+                                        } else {
+                                            echo '<li id="' . $result->index . '">
+                        <div class="shipping-form-state-content">
+                            <h4 class="heading-1">' . $result->heading . '</h4>
+                            <p class="para-2">
+                                ' . $result->about . '
+                            </p>
+                        </div>
+                    </li>';
+                                        }
                                     }
                                 }
                                 ?>
 
 
-
+                                <div class="shipping-form-state-image">
+                                    <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_to_img'] ?>" alt="<?= $data['state_to_img_alt'] ?>" style="margin:20px 0;" />
+                                </div>
                                 <li id="step">
                                     <div class="shipping-form-state-content">
                                         <h3 class="heading-1">How to ship Vehicle <span>
@@ -616,9 +663,7 @@ if (isset($_GET['page_id'])) {
 
                             </ul>
 
-                            <div class="shipping-form-state-image">
-                                <img src="https://dashboard.rapidautoshipping.com/assets/images/blog/<?= $data['state_to_img'] ?>" alt="<?= $data['state_to_img_alt'] ?>" />
-                            </div>
+
                         </section>
 
 
@@ -857,7 +902,7 @@ if (isset($_GET['page_id'])) {
             document.getElementById('main-link').style.display = 'none';
         })
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places"></script>
+
     <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
     <script>
         $(document).ready(function() {
@@ -882,6 +927,10 @@ if (isset($_GET['page_id'])) {
                     var isDivEmpty = $divElement.is(':empty');
                     if (isDivEmpty) {
                         $('#topForm').html('<?php include small_form_new; ?>');
+                        analyzeAndManipulateScriptTag('<?= get_js() ?>small_form_new.js')
+                        setTimeout(function() {
+                            loadScript2()
+                        }, 1000)
                     }
                 } else {
                     $('#topForm').html('');
@@ -890,6 +939,10 @@ if (isset($_GET['page_id'])) {
                     var isDivEmpty = $divElement.is(':empty');
                     if (isDivEmpty) {
                         $('#sideFrom').html('<?php include small_form_new; ?>');
+                        analyzeAndManipulateScriptTag('<?= get_js() ?>small_form_new.js')
+                        setTimeout(function() {
+                            loadScript2()
+                        }, 1000)
                     }
 
                 }
@@ -934,7 +987,8 @@ if (isset($_GET['page_id'])) {
             var titleContent2 = titleContent + ' | Rapid Auto Shipping'
         }
     </script>
-    <script async src="<?= get_js() ?>small_form_new.js"></script>
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places"></script> -->
+    <!-- <script async src="<?= get_js() ?>small_form_new.js"></script> -->
     <script>
         const mySchema1 = {
             "@context": "https://schema.org",
@@ -1009,6 +1063,38 @@ if (isset($_GET['page_id'])) {
         script3.type = "application/ld+json";
         script3.text = JSON.stringify(mySchema3);
         document.head.appendChild(script3);
+
+
+        function loadScript() {
+            var script = document.createElement('script');
+            script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
+            document.body.appendChild(script);
+            setTimeout(function() {
+                loadScript2()
+            }, 1000)
+        }
+
+        function loadScript2() {
+            var script = document.createElement('script');
+            script.src = '<?= get_js() ?>small_form_new.js';
+            document.body.appendChild(script);
+        }
+
+        function analyzeAndManipulateScriptTag(scriptSrc) {
+            var scriptElements = document.getElementsByTagName('script');
+            var scriptFound = false;
+            for (var i = 0; i < scriptElements.length; i++) {
+                var script = scriptElements[i];
+                if (script.src === scriptSrc) {
+                    scriptFound = true;
+                    break;
+                }
+            }
+            if (scriptFound) {
+                var existingScript = document.querySelector('script[src="' + scriptSrc + '"]');
+                existingScript.parentNode.removeChild(existingScript);
+            }
+        }
     </script>
 
 </body>
