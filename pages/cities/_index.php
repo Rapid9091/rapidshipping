@@ -31,8 +31,8 @@ if (isset($_GET['page_id'])) {
     $data = fetch_data("SELECT * FROM city WHERE `slug` = '$slug'");
 
     if (!$data) {
-        // header("Location: " . home_path() . "404");
-        echo 'Error Found';
+        header("Location: " . home_path() . "404");
+        // echo 'Error Found';
     }
 } else {
     header("Location: " . home_path() . "blogs");
