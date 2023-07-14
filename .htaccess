@@ -252,7 +252,7 @@ ReWriteRule ^auto-transport-carriers([/]?)$ pages/company-reviews/_index.php [NC
 
 ReWriteRule ^blogs([/]?)$ pages/blogs/blogs_list.php [NC,L]
 # ReWriteRule ^blogs/10-questions-to-ask-an-auto-transport-company([/]?)$ pages/blogs/10-questions-to-ask-an-auto-transport-company.php [NC,L]
-ReWriteRule ^blogs/advantages-of-line-haul-transportation([/]?)$ pages/blogs/advantages-of-line-haul-transportation.php [NC,L]
+#ReWriteRule ^blogs/advantages-of-line-haul-transportation([/]?)$ pages/blogs/advantages-of-line-haul-transportation.php [NC,L]
 #ReWriteRule ^blogs/affordable-auto-transport([/]?)$ pages/blogs/affordable-auto-transport.php [NC,L]
 ReWriteRule ^blogs/alaska-auto-shipping([/]?)$ pages/blogs/alaska-auto-shipping.php [NC,L]
 ReWriteRule ^blogs/alaska-car-transport([/]?)$ pages/blogs/alaska-car-transport.php [NC,L]
