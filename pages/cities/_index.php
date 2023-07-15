@@ -21,6 +21,9 @@
 //     header("Content-Type: $contentType");
 //     header("Expires: " . gmdate("D, d M Y H:i:s", time() + $expirationTime) . " GMT");
 // }
+
+use function PHPSTORM_META\type;
+
 ?>
 <?php
 include_once "../../init.php";
@@ -114,11 +117,10 @@ if (isset($_GET['page_id'])) {
                 display: flex;
             }
         }
-        
     </style>
 </head>
 
-<body  onload="loadScript()">
+<body onload="loadScript()">
 
     <div class="">
         <div>
@@ -180,7 +182,7 @@ if (isset($_GET['page_id'])) {
                         <!-- <div class="border-bottom"></div> -->
                         <div class="show-avg-distance">
 
-                            <h3 class="avg_days_wrap"><span class="average_days" >5-7 days</span></h3>
+                            <h3 class="avg_days_wrap"><span class="average_days">5-7 days</span></h3>
                         </div>
                         <!-- <p class="blurb"> Estimates based on average miles from <a style="color: #0098e1;font-weight: 600;text-decoration: none;" href="https://directconnectautotransport.com/auto-transport-car-shipping-texas.php">Texas</a> to <a style="color: #0098e1;font-weight: 600;text-decoration: none;" href="https://directconnectautotransport.com/auto-transport-car-shipping-illinois.php">Illinois</a> from when your vehicle is picked up.</p> -->
                     </div>
@@ -247,6 +249,26 @@ if (isset($_GET['page_id'])) {
                     <a href="tel:+"><button style="color:black;">+1 (833) 233-4447</button></a>
                     <button style="color:black;">Get a Quote</button>
                 </div>
+            </div>
+        </div>
+
+        <div class="cityname p-5">
+            <div class="row rounded-3 p-2 " style="background-color:rgb(255, 255, 246); border:1px solid #ff5722;color:grey;font-weight:500;">
+            <?php
+            $city = file_get_contents('../city.json');
+            $json_data = json_decode($city, true);
+            $city_ = [];
+            array_push($city_,$data['city_from']);
+            array_push($city_,$data['city_to']);
+            $list_of_city =$json_data[0];
+            for($i=0; $i<count($city_);$i++){
+                for($j=0; $j<count($list_of_city);$j++){
+                   if(strtoupper($city_[$i]) !=  strtoupper($list_of_city[$j])){
+                    echo '<div class="col-lg-3 col-md-3 col-sm-3 col-6 text-center py-1 ">'.$city_[$i] . ' to '. $list_of_city[$j] . ' auto transport </div>';
+                   }
+                }
+            }
+            ?>
             </div>
         </div>
 
@@ -652,15 +674,18 @@ if (isset($_GET['page_id'])) {
 
 
         function loadScript() {
-        var script = document.createElement('script');
-        script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
-        document.body.appendChild(script);
-        setTimeout(function(){loadScript2()},1000)
+            var script = document.createElement('script');
+            script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
+            document.body.appendChild(script);
+            setTimeout(function() {
+                loadScript2()
+            }, 1000)
         }
+
         function loadScript2() {
-        var script = document.createElement('script');
-        script.src = '<?= get_js() ?>small_form_new.js';
-        document.body.appendChild(script);
+            var script = document.createElement('script');
+            script.src = '<?= get_js() ?>small_form_new.js';
+            document.body.appendChild(script);
         }
 
         function analyzeAndManipulateScriptTag(scriptSrc) {
