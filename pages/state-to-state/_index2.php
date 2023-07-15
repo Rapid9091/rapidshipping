@@ -595,7 +595,7 @@ if (isset($_GET['page_id'])) {
                                 if (isset($json_decoded)) {
                                     foreach ($json_decoded as $result) {
                                         if ($result->index == 4) {
-                                            echo '<li id="' . $result->index . '">
+                                            echo '<img src="https://dashboard.rapidautoshipping.com/assets/images/blog/'. $data["third_img"] .'" alt="'.$data["third_img_alt"].'" style="margin:20px 0;" /><li id="' . $result->index . '">
                         <div class="shipping-form-state-content">
                             <h4 class="heading-1">' . $result->heading . '</h4>
                             <p class="para-2">
@@ -604,7 +604,7 @@ if (isset($_GET['page_id'])) {
                         </div>
                     </li>';
                                         } elseif ($result->index == 10) {
-                                            echo '<li id="' . $result->index . '">
+                                            echo '<img src="https://dashboard.rapidautoshipping.com/assets/images/blog/'. $data["fourth_img"] .'" alt="'.$data["fourth_img_alt"].'" style="margin:20px 0;" /><li id="' . $result->index . '">
                         <div class="shipping-form-state-content">
                             <h4 class="heading-1">' . $result->heading . '</h4>
                             <p class="para-2">

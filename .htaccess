@@ -485,7 +485,6 @@ ReWriteRule ^createxml([/]?)$ createXML.php [NC,L]
 ReWriteRule ^update_date([/]?)$ update_date.php [NC,L]
 #RewriteRule ^sitemap\.xml/?$ sitemap.php
 
-
 # RewriteRule ^sitemap\.html/?$ sitemap.html.php
 
 
