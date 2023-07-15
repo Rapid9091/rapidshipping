@@ -302,7 +302,7 @@ ReWriteRule ^blogs/bus-transportation-services([/]?)$ pages/blogs/bus-transporta
 #ReWriteRule ^blogs/camper-transport([/]?)$ pages/blogs/camper-transport.php [NC,L]
 ReWriteRule ^blogs/car-delivery-cost([/]?)$ pages/blogs/car-delivery-cost.php [NC,L]
 ReWriteRule ^blogs/car-delivery-services([/]?)$ pages/blogs/car-delivery-services.php [NC,L]
-ReWriteRule ^blogs/car-hauler-or-flatbed-shipping([/]?)$ pages/blogs/car-hauler-or-flatbed-shipping.php [NC,L]
+#ReWriteRule ^blogs/car-hauler-or-flatbed-shipping([/]?)$ pages/blogs/car-hauler-or-flatbed-shipping.php [NC,L]
 ReWriteRule ^blogs/car-hauling-companies([/]?)$ pages/blogs/car-hauling-companies.php [NC,L]
 ReWriteRule ^blogs/car-hauling-shipping([/]?)$ pages/blogs/car-hauling-shipping.php [NC,L]
 ReWriteRule ^blogs/car-shipping-calculators([/]?)$ pages/blogs/car-shipping-calculators.php [NC,L]
