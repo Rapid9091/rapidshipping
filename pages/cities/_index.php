@@ -1,6 +1,6 @@
 <?php
 // Specify the expiration time for static resources
-// $expirationTime = 60 * 60 * 24 * 365; // Set to 1 week (adjust as needed)
+// $expirationTime = 60 * 60 * 24 * 7; // Set to 1 week (adjust as needed)
 
 // // Get the file extension from the requested URL
 // $fileExtension = strtolower(pathinfo($_SERVER['REQUEST_URI'], PATHINFO_EXTENSION));
@@ -21,8 +21,6 @@
 //     header("Content-Type: $contentType");
 //     header("Expires: " . gmdate("D, d M Y H:i:s", time() + $expirationTime) . " GMT");
 // }
-
-use function PHPSTORM_META\type;
 
 ?>
 <?php
@@ -253,7 +251,10 @@ if (isset($_GET['page_id'])) {
         </div>
 
         <div class="cityname p-5">
+            
             <div class="row rounded-3 p-2 " style="background-color:rgb(255, 255, 246); border:1px solid #ff5722;color:grey;font-weight:500;">
+            <div class="col-12 text-center pb-3"><h2 class=" w-50 mx-auto"><b>Some Popular Auto Transport Routes of <?=$data['city_from']?> and <?=$data['city_to']?></b></h2>
+            </div>
             <?php
             $city = file_get_contents('../city.json');
             $json_data = json_decode($city, true);
