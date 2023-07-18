@@ -29,7 +29,17 @@ include_once "../../init.php";
 if (isset($_GET['page_id'])) {
     $slug = $_GET['page_id'];
 
-    $data = fetch_data("SELECT * FROM city WHERE `slug` = '$slug'");
+    // $data = fetch_data("SELECT * FROM city WHERE `slug` = '$slug'");
+
+    $datass = "SELECT * FROM city WHERE `slug` = '$slug'";
+    $res = mysqli_query($con, $datass);
+    if (mysqli_num_rows($res) > 0) {
+        $data = mysqli_fetch_assoc($res);
+    } else {
+        $datass = "SELECT * FROM services WHERE `slug` = '$slug'";
+        $res = mysqli_query($con, $datass);
+        $data = mysqli_fetch_assoc($res);
+    }
 
     if (!$data) {
         header("Location: " . home_path() . "404");
@@ -250,28 +260,32 @@ if (isset($_GET['page_id'])) {
             </div>
         </div>
 
+        <?php
+        if(isset($data['city_from'] )){?>
         <div class="cityname p-5">
-            
+
             <div class="row rounded-3 p-2 " style="background-color:rgb(255, 255, 246); border:1px solid #ff5722;color:grey;font-weight:500;">
-            <div class="col-12 text-center pb-3"><h2 class=" w-50 mx-auto"><b>Some Popular Auto Transport Routes of <?=$data['city_from']?> and <?=$data['city_to']?></b></h2>
-            </div>
-            <?php
-            $city = file_get_contents('../city.json');
-            $json_data = json_decode($city, true);
-            $city_ = [];
-            array_push($city_,$data['city_from']);
-            array_push($city_,$data['city_to']);
-            $list_of_city =$json_data[0];
-            for($i=0; $i<count($city_);$i++){
-                for($j=0; $j<count($list_of_city);$j++){
-                   if(strtoupper($city_[$i]) !=  strtoupper($list_of_city[$j])){
-                    echo '<div class="col-lg-3 col-md-3 col-sm-3 col-6 text-center py-1 ">'.$city_[$i] . ' to '. $list_of_city[$j] . ' auto transport </div>';
-                   }
+                <div class="col-12 text-center pb-3">
+                    <h2 class=" w-50 mx-auto"><b>Some Popular Auto Transport Routes of <?= $data['city_from'] ?> and <?= $data['city_to'] ?></b></h2>
+                </div>
+                <?php
+                $city = file_get_contents('../city.json');
+                $json_data = json_decode($city, true);
+                $city_ = [];
+                array_push($city_, $data['city_from']);
+                array_push($city_, $data['city_to']);
+                $list_of_city = $json_data[0];
+                for ($i = 0; $i < count($city_); $i++) {
+                    for ($j = 0; $j < count($list_of_city); $j++) {
+                        if (strtoupper($city_[$i]) !=  strtoupper($list_of_city[$j])) {
+                            echo '<div class="col-lg-3 col-md-3 col-sm-3 col-6 text-center py-1 ">' . $city_[$i] . ' to ' . $list_of_city[$j] . ' auto transport </div>';
+                        }
+                    }
                 }
-            }
-            ?>
+                ?>
             </div>
         </div>
+        <?php }?>
 
 
         <div class="contact_info">

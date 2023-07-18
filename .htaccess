@@ -476,7 +476,7 @@ ReWriteRule ^cancelation-policy([/]?)$ pages/docs/cp.html [NC,L]
 #This route work for terms and conditions
 ReWriteRule ^terms-and-conditions([/]?)$ pages/docs/tnc.html [NC,L]
 
-#404 error pages
+#404 error pages 
 ReWriteRule ^404([/]?)$ pages/error/404.php [NC,L] 
 
 #sitemap
