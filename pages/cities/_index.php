@@ -30,6 +30,7 @@ if (isset($_GET['page_id'])) {
     $slug = $_GET['page_id'];
 
     $data = fetch_data("SELECT * FROM city WHERE `slug` = '$slug'");
+    
 
     if (!$data) {
         header("Location: " . home_path() . "404");
