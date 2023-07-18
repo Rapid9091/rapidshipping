@@ -6,7 +6,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Auto Transport Michigan | Rapid Auto Shipping</title>
-    <meta property="og:description" content="terms and conditions about rapid auto shipping" />
+    <meta name="description" content="Car shipping companies are passionate about providing quality auto transport Michigan service. Whether moving to a new location or buying a car from out of state." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Auto Transport Michigan | +1-833-233-4447" />
+<meta property="og:description" content="Car shipping companies are passionate about providing quality auto transport Michigan service. Whether moving to a new location or buying a car from out of state." />
+<meta property="og:url" content="https://rapidautoshipping.com/blogs/auto-transport-michigan" />
+<meta property="og:site_name" content="Auto Transport Michigan | +1-833-233-4447" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Auto Transport Michigan" />
+<meta property="article:tag" content="Auto Transport Michigan" />
+
 </head>
 <body>   
    <h1>Auto Transport Michigan</h1>

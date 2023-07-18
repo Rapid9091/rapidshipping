@@ -6,7 +6,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Best Boat Shipping Cost Company | Rapid Auto Shipping</title>
-    <meta property="og:description" content="terms and conditions about rapid auto shipping" />
+    <meta name="description" content="As previously said, the boat shipping cost will vary depending on several variables. It would help if you also considered your boat's weight, shipping distance, and vehicle trailer type." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Best Boat Shipping Cost Company | +1-833-233-4447" />
+<meta property="og:description" content="As previously said, the boat shipping cost will vary depending on several variables. It would help if you also considered your boat's weight, shipping distance, and vehicle trailer type." />
+<meta property="og:url" content="https://rapidautoshipping.com/blogs/best-boat-shipping-cost-company" />
+<meta property="og:site_name" content="Best Boat Shipping Cost Company | +1-833-233-4447" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Boat Shipping Cost " />
+<meta property="article:tag" content="Boat Shipping Cost" />
+<meta property="article:tag" content="Boat Shipping Cost" />
 </head>
 <body>   
    <h1>Best Boat Shipping Cost Company</h1>
