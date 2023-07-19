@@ -38,7 +38,7 @@ if (isset($_GET['page_id'])) {
             $name = "city";
         }
     }
-    $data2 = "SELECT * FROM services WHERE `slug` = '$slug'";
+    $data2 = "SELECT * FROM new_services WHERE `slug` = '$slug'";
     $result2 = mysqli_query($con, $data2);
     if ($result2) {
         if (mysqli_num_rows($result2) > 0) {
