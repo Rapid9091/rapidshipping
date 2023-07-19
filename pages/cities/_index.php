@@ -29,8 +29,23 @@ include_once "../../init.php";
 if (isset($_GET['page_id'])) {
     $slug = $_GET['page_id'];
 
-    $data = fetch_data("SELECT * FROM city WHERE `slug` = '$slug'");
-    
+    // $data = fetch_data("SELECT * FROM city WHERE `slug` = '$slug'");
+    $datas = "SELECT * FROM city WHERE `slug` = '$slug'";
+    $result = mysqli_query($con, $datas);
+    if ($result) {
+        if (mysqli_num_rows($result) > 0) {
+            $data = mysqli_fetch_assoc($result);
+            $name = "city";
+        }
+    }
+    $data2 = "SELECT * FROM services WHERE `slug` = '$slug'";
+    $result2 = mysqli_query($con, $data2);
+    if ($result2) {
+        if (mysqli_num_rows($result2) > 0) {
+            $data = mysqli_fetch_assoc($result2);
+            $name = "services";
+        }
+    }
 
     if (!$data) {
         header("Location: " . home_path() . "404");
@@ -250,29 +265,105 @@ if (isset($_GET['page_id'])) {
                 </div>
             </div>
         </div>
-
-        <div class="cityname p-5">
-            
-            <div class="row rounded-3 p-2 " style="background-color:rgb(255, 255, 246); border:1px solid #ff5722;color:grey;font-weight:500;">
-            <div class="col-12 text-center pb-3"><h2 class=" w-50 mx-auto"><b>Some Popular Auto Transport Routes of <?=$data['city_from']?> and <?=$data['city_to']?></b></h2>
-            </div>
-            <?php
-            $city = file_get_contents('../city.json');
-            $json_data = json_decode($city, true);
-            $city_ = [];
-            array_push($city_,$data['city_from']);
-            array_push($city_,$data['city_to']);
-            $list_of_city =$json_data[0];
-            for($i=0; $i<count($city_);$i++){
-                for($j=0; $j<count($list_of_city);$j++){
-                   if(strtoupper($city_[$i]) !=  strtoupper($list_of_city[$j])){
-                    echo '<div class="col-lg-3 col-md-3 col-sm-3 col-6 text-center py-1 ">'.$city_[$i] . ' to '. $list_of_city[$j] . ' auto transport </div>';
-                   }
-                }
-            }
-            ?>
+        <?php if($name == 'services'){?>
+            <div class="advantage_section">
+            <div class="border border-2 rounded text-center shadow ">
+                <div class="row p-3">
+                    <div class="col-12">
+                        <h2 class="heading-1">Advantages using <span style="color:#ff5722">Rapid Auto Shipping</span></h2>
+                    </div>
+                </div>
+                <div class="row p-3">
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="row ">
+                            <div class="col-12  mb-3">
+                                <div class="mx-auto" style="width:80px; height:80px;">
+                                    <img src="<?= get_img() ?>icons/rating.webp" alt="best car shipping in USA" loading="lazy" width="80px" height="80px">
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <h3>Top Rated Auto Shipping Company</h3>
+                            </div>
+                            <div class="col-12">
+                                <p>We have thousands of 5-star reviews for exceptional vehicle shipping services.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="row">
+                            <div class="col-12 mb-3">
+                                <div class="mx-auto" style="width:80px; height:80px;">
+                                    <img src="<?= get_img() ?>icons/auto-insurance-icon.webp" alt="best car shipping in USA" loading="lazy" width="80px" height="80px">
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <h3>Complete Vehicle Coverage</h3>
+                            </div>
+                            <div class="col-12">
+                                <p>We offer the most comprehensive coverage options for complete peace of mind.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="row">
+                            <div class="col-12 mb-3">
+                                <div class="mx-auto" style="width:80px; height:80px;">
+                                    <img src="<?= get_img() ?>icons/savings-icon.webp" alt="best car shipping in USA" loading="lazy" width="80px" height="80px">
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <h3>No Up-Front Deposit Required</h3>
+                            </div>
+                            <div class="col-12">
+                                <p>You don't pay a penny until the day your shipment is scheduled for pickup.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="row">
+                            <div class="col-12 mb-3">
+                                <div class="mx-auto" style="width:80px; height:80px;">
+                                    <img src="<?= get_img() ?>icons/online-tracking.webp" alt="best car shipping in USA" loading="lazy" width="80px" height="80px">
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <h3>24/7 Online Shipment Tracking</h3>
+                            </div>
+                            <div class="col-12">
+                                <p>You can track the status of your shipment online anytime at your convenience.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
+            <?php } ?>
+        <?php if (isset($data['city_from'])) { ?>
+            <div class="cityname p-5">
+
+                <div class="row rounded-3 p-2 " style="background-color:rgb(255, 255, 246); border:1px solid #ff5722;color:grey;font-weight:500;">
+                    <div class="col-12 text-center pb-3">
+                        <h2 class=" w-50 mx-auto"><b>Some Popular Auto Transport Routes of <?= $data['city_from'] ?> and <?= $data['city_to'] ?></b></h2>
+                    </div>
+                    <?php
+                    $city = file_get_contents('../city.json');
+                    $json_data = json_decode($city, true);
+                    $city_ = [];
+                    array_push($city_, $data['city_from']);
+                    array_push($city_, $data['city_to']);
+                    $list_of_city = $json_data[0];
+                    for ($i = 0; $i < count($city_); $i++) {
+                        for ($j = 0; $j < count($list_of_city); $j++) {
+                            if (strtoupper($city_[$i]) !=  strtoupper($list_of_city[$j])) {
+                                echo '<div class="col-lg-3 col-md-3 col-sm-3 col-6 text-center py-1 ">' . $city_[$i] . ' to ' . $list_of_city[$j] . ' auto transport </div>';
+                            }
+                        }
+                    }
+                    ?>
+                </div>
+            </div>
+        <?php } ?>
+
 
 
         <div class="contact_info">
