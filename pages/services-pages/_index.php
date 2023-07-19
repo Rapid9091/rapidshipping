@@ -79,15 +79,26 @@ else ob_start(); ?>
     </script>
     <style>
         #sideFrombody {
-            display: none; 
+            display: none;
         }
-        h2 a{word-wrap: break-word;}
-        #vehicle_list_div div {color:#ff5722}
-        #myList1, #myList3,#models_list_small {color: black;}
+
+        h2 a {
+            word-wrap: break-word;
+        }
+
+        #vehicle_list_div div {
+            color: #ff5722
+        }
+
+        #myList1,
+        #myList3,
+        #models_list_small {
+            color: black;
+        }
     </style>
 </head>
 
-<body  >
+<body>
 
     <div class="">
         <div>
@@ -570,7 +581,7 @@ else ob_start(); ?>
                 </div>
             </div>
         </div>
-        <?=$data['fq_content'] ?>
+        <?= $data['fq_content'] ?>
         <div class="follow-up mb-2">
             <div class="row w-75 mt-2 mx-auto justify-content-center">
                 <div class="col-2 col-md-2 col-lg-1 text-center">
@@ -675,7 +686,7 @@ else ob_start(); ?>
                 textContent.textContent += remainingText;
                 readMoreLink.style.display = 'none';
             });
-        } 
+        }
 
         document.getElementById('hamburgur-btn').addEventListener('click', function() {
             document.getElementById('main-link').style.display = 'grid';
@@ -688,7 +699,7 @@ else ob_start(); ?>
     <script src="https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js"></script>
     <script>
         $(document).ready(function() {
-            window.onlonload=loadScript()
+            window.onlonload = loadScript()
             $.fn.isInViewport = function() {
                 var elementTop = $(this).offset().top;
                 var elementBottom = elementTop + $(this).outerHeight();
@@ -735,7 +746,7 @@ else ob_start(); ?>
                     $('#all-state-section').html('<?php include copy_state_list; ?>')
                 } else {
                     $('#footer').html('<?php include copy_footer; ?>')
-                    
+
                 }
             });
 
@@ -760,16 +771,16 @@ else ob_start(); ?>
         var metaDescription = document.querySelector('meta[name="description"]');
         var descriptionContent = "";
         if (metaDescription) {
-        descriptionContent = metaDescription.getAttribute('content');
+            descriptionContent = metaDescription.getAttribute('content');
         }
         var metatitle = document.querySelector('meta[name="title"]');
         var titleContent = "";
         var titleContent2 = "";
         if (metatitle) {
-        titleContent = metatitle.getAttribute('content');
+            titleContent = metatitle.getAttribute('content');
             var titleContent = titleContent.split("|");
             var titleContent = titleContent[0].trim();
-            var titleContent2 = titleContent+' | Rapid Auto Shipping'
+            var titleContent2 = titleContent + ' | Rapid Auto Shipping'
         }
     </script>
     <!-- <script async src="<?= get_js() ?>small_form_new.js"></script> -->
@@ -795,7 +806,7 @@ else ob_start(); ?>
                 "https://www.transportreviews.com/Company/Rapid-Auto-Shipping",
                 "https://www.provenexpert.com/en-us/rapid-auto-shipping"
             ],
-            "description": `${descriptionContent}`,//page description
+            "description": `${descriptionContent}`, //page description
             "logo": {
                 "@type": "ImageObject",
                 "url": "https://rapidautoshipping.com/assets/images/Untitled-1-Recovered.png"
@@ -807,7 +818,7 @@ else ob_start(); ?>
         document.head.appendChild(script1);
     </script>
     <script>
-     const mySchema2 =  {
+        const mySchema2 = {
             "@context": "https://schema.org",
             "@type": "Product",
             "@id": "https://www.rapidautoshipping.com/#product",
@@ -837,7 +848,7 @@ else ob_start(); ?>
         document.head.appendChild(script2);
     </script>
     <script>
-     const mySchema3 = {
+        const mySchema3 = {
             "@context": "https://schema.org",
             "@type": "Service",
             "serviceType": `${titleContent2}`,
@@ -849,17 +860,20 @@ else ob_start(); ?>
         document.head.appendChild(script3);
 
         function loadScript() {
-            setTimeout(function(){
+            setTimeout(function() {
                 var script = document.createElement('script');
-        script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
-        document.body.appendChild(script);
-        setTimeout(function(){loadScript2()},1000)
-            },2000)
+                script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places';
+                document.body.appendChild(script);
+                setTimeout(function() {
+                    loadScript2()
+                }, 1000)
+            }, 2000)
         }
+
         function loadScript2() {
-        var script = document.createElement('script');
-        script.src = '<?= get_js() ?>small_form_new.js';
-        document.body.appendChild(script);
+            var script = document.createElement('script');
+            script.src = '<?= get_js() ?>small_form_new.js';
+            document.body.appendChild(script);
         }
 
         function analyzeAndManipulateScriptTag(scriptSrc) {
@@ -879,7 +893,7 @@ else ob_start(); ?>
         }
     </script>
     <script async="true" src="<?= get_js("faq.js"); ?>"></script>
-    
+
 </body>
 
 </html>

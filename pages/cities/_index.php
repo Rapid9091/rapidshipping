@@ -188,7 +188,8 @@ if (isset($_GET['page_id'])) {
         </div>
         <!-- Extra Section -->
 
-        <section class="three-column-auto-transport py-3 border-bottom">
+        <?php if($name == 'city'){?>
+            <section class="three-column-auto-transport py-3 border-bottom">
             <div class="container">
                 <div class="row text-center">
                     <div class="col-md-4 col-sm-4 col-xs-12 second-column">
@@ -222,6 +223,9 @@ if (isset($_GET['page_id'])) {
                 </div>
             </div>
         </section>
+            <?php }elseif($name == 'services'){       
+                include './service_page_block.php';
+           } ?>
 
         <!-- Extra Section Ends -->
 
