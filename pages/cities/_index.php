@@ -29,7 +29,24 @@ include_once "../../init.php";
 if (isset($_GET['page_id'])) {
     $slug = $_GET['page_id'];
 
-    $data = fetch_data("SELECT * FROM city WHERE `slug` = '$slug'");
+    // $data = fetch_data("SELECT * FROM city WHERE `slug` = '$slug'");
+    $datas = "SELECT * FROM city WHERE `slug` = '$slug'";
+    $result = mysqli_query($con, $data);
+    if($result){
+        if(mysqli_num_rows($result)>0){
+            $data = mysqli_fetch_assoc($result);
+        }
+    }
+    $data2 = "SELECT * FROM new_services WHERE `slug` = '$slug'";
+    $result2 = mysqli_query($con, $data2);
+    if($result2){
+        if(mysqli_num_rows($result2)>0){
+            $data = mysqli_fetch_assoc($result2);
+        }
+    }
+    
+    
+    
     
 
     if (!$data) {
