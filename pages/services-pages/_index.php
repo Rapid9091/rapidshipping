@@ -104,6 +104,7 @@ else ob_start(); ?>
                 display: flex;
             }
         }
+        .box span,.box strong{color:#36454F!important}
     </style>
 </head>
 
