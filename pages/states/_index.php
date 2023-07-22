@@ -1,19 +1,19 @@
 <?php
-// $expirationTime = 60 * 60 * 24 * 365;
-// $fileExtension = strtolower(pathinfo($_SERVER['REQUEST_URI'], PATHINFO_EXTENSION));
-// $validFileTypes = array(
-//     'css' => 'text/css',
-//     'js' => 'application/javascript',
-//     'jpg' => 'image/jpeg',
-//     'jpeg' => 'image/jpeg',
-//     'png' => 'image/png',
-//     'gif' => 'image/gif'
-// );
-// if (array_key_exists($fileExtension, $validFileTypes)) {
-//     $contentType = $validFileTypes[$fileExtension];
-//     header("Content-Type: $contentType");
-//     header("Expires: " . gmdate("D, d M Y H:i:s", time() - 3600) . " GMT");
-// }
+$expirationTime = 60 * 60 * 24 * 7;
+$fileExtension = strtolower(pathinfo($_SERVER['REQUEST_URI'], PATHINFO_EXTENSION));
+$validFileTypes = array(
+    'css' => 'text/css',
+    'js' => 'application/javascript',
+    'jpg' => 'image/jpeg',
+    'jpeg' => 'image/jpeg',
+    'png' => 'image/png',
+    'gif' => 'image/gif'
+);
+if (array_key_exists($fileExtension, $validFileTypes)) {
+    $contentType = $validFileTypes[$fileExtension];
+    header("Content-Type: $contentType");
+    header("Expires: " . gmdate("D, d M Y H:i:s", time() - 3600) . " GMT");
+}
 ?>
 <?php
 include_once "../../init.php";
@@ -30,8 +30,8 @@ if (isset($_GET['page_id'])) {
     header("Location: " . home_path() . "services");
 }
 ?>
-<?php ////if (substr_count($_SERVER['HTTP_ACCEPT_ENCODING'], 'gzip')) ob_start("ob_gzhandler");
-//else ob_start(); ?>
+<?php if (substr_count($_SERVER['HTTP_ACCEPT_ENCODING'], 'gzip')) ob_start("ob_gzhandler");
+else ob_start(); ?>
 <?php include '../copy_logo.php' ?>
 <!DOCTYPE html>
 <html lang="en">
