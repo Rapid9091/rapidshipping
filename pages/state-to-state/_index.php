@@ -63,7 +63,15 @@ if (isset($_GET['page_id'])) {
             justify-content: space-between;
             flex-direction: column;
         }
+        @media screen and (max-width: 425px) {
+            .logo_div img {
+                width: 130%;
+            }
 
+            .logo_div a {
+                display: flex;
+            }
+        }
         /* .key-holding {
     margin: 2% 0;
     background-image: url("<?= get_img();?>/car-key-new1.jpeg");

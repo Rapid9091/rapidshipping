@@ -95,6 +95,15 @@ else ob_start(); ?>
         #models_list_small {
             color: black;
         }
+        @media screen and (max-width: 425px) {
+            .logo_div img {
+                width: 130%;
+            }
+
+            .logo_div a {
+                display: flex;
+            }
+        }
     </style>
 </head>
 

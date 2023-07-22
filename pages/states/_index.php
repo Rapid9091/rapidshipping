@@ -95,6 +95,15 @@ if (isset($_GET['page_id'])) {
             font-size:1.5rem;
             font-weight: bold;
         } 
+        @media screen and (max-width: 425px) {
+            .logo_div img {
+                width: 130%;
+            }
+
+            .logo_div a {
+                display: flex;
+            }
+        }
 
  
     </style>
