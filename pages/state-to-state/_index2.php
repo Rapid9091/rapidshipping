@@ -75,6 +75,15 @@ if (isset($_GET['page_id'])) {
         .stepsCount {
             background-color: #16161d !important;
         }
+        @media screen and (max-width: 425px) {
+            .logo_div img {
+                width: 130%;
+            }
+
+            .logo_div a {
+                display: flex;
+            }
+        }
     </style>
     <title> <?= $data['title']; ?></title>
     <!-- <script type="application/ld+json">
