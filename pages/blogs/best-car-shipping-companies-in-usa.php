@@ -7,15 +7,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>The 10 Best Car Shipping Companies of 2023 | +1-833-233-4447</title>
-    <meta name="title" content="The 10 Best Car Shipping Companies of 2023 | +1-833-233-4447" />
-    <meta name="description" content="The 10 Best Car Shipping Companies of 2023" />
+    <title>The 10 Best Car Shipping Companies Of 2023 | +1-833-233-4447</title>
+    <meta name="title" content="The 10 Best Car Shipping Companies Of 2023 | +1-833-233-4447" />
+    <meta name="description" content="To offer you the best possible options, Rapid Auto Shipping thoroughly evaluated the reputation, cost, services, and customer experience of the leading vehicle transporters in the country." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="The 10 Best Car Shipping Companies of 2023 | +1-833-233-4447" />
-    <meta property="og:description" content="The 10 Best Car Shipping Companies of 2023" />
-    <meta property="og:url" content="https://rapidautoshipping.com/blogs/flatbed-auto-shipping-carriers" />
-    <meta property="og:site_name" content="The 10 Best Car Shipping Companies of 2023 | +1-833-233-4447" />
+    <meta property="og:title" content="The 10 Best Car Shipping Companies Of 2023 | +1-833-233-4447" />
+    <meta property="og:description" content="To offer you the best possible options, Rapid Auto Shipping thoroughly evaluated the reputation, cost, services, and customer experience of the leading vehicle transporters in the country." />
+    <meta property="og:url" content="https://rapidautoshipping.com/blogs/best-car-shipping-companies-in-usa" />
+    <meta property="og:site_name" content="The 10 Best Car Shipping Companies Of 2023 | +1-833-233-4447" />
     <meta name='robots' content='index' />
+    <meta name="keywords" content="The 10 Best Car Shipping Companies Of 2023, Car Shipping Companies, Best Car Shipping Companies  IN USA" />
+    <meta property="article:tag" content="The 10 Best Car Shipping Companies Of 2023" />
+    <meta property="article:tag" content="Car Shipping Companies" />
+    <meta property="article:tag" content="Best Car Shipping Companies IN USA" />
+
 
     <!--     Google Analytics Code Start -->
     <!--     Google Analytics Code Ends -->
@@ -25,7 +30,7 @@
     <link rel="stylesheet" href="<?= get_css(); ?>side-form.css" />
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_home.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_shipping-car-to-mexico-blog.css">
-    <link rel="stylesheet" href="<?= get_css(); ?>small-form.css">
+    <link rel="stylesheet" href="<?= get_css(); ?>small_form_new.css">
     <link rel="stylesheet" href="<?= get_css(); ?>strip-under-header.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_inside-blog-page.css">
     <link rel="stylesheet" href="<?= get_css(); ?>PAGE_state-to-state-transport.css">
@@ -118,11 +123,26 @@
     <!-- this is the first common section with background image -->
     <!-- -------------------------------------- -->
     <div class="contact-us-header-page">
-        <?php
-        $NAME = "The 10 Best Car Shipping Companies Of 2023";
-        $PARAGRAPH = "All of our top Car Shipping Companies for shipping cars have an extensive network of car haulers to meet your unique shipping needs. These car shipping companies are the best because they offer many services and skills, customer-friendly features, and low prices.";
-        include small_form;
-        ?>
+
+        <section class="third-section-state">
+
+
+            <div class="third-section-content">
+
+
+                <?php
+                $NAME = "The 10 Best Car Shipping Companies of 2023";
+                $PARAGRAPH = "Long road trips can be enjoyable, but they can take a toll on your car. Therefore, you should not travel a lengthy distance if you need to take your automobile somewhere distant, whether you're relocating or attending a particular event.
+                Car shipping firms may assist you in getting your automobile where it needs to go while minimising wear and tear. So whether you're a snowbird moving for the season or a vehicle collector travelling for an auto show, the top automobile shipping firms can transport your car from point A to point B safely and securely.";
+                ?>
+                <h1 class="third-section-content-heading"><?= $NAME ?></h1>
+                <p class="third-section-content-text"><?= $PARAGRAPH ?></p>
+            </div>
+            <?php
+            include small_form_new;
+
+            ?>
+        </section>
     </div>
     <!-- -------------------------------------- -->
     <!-- -------section one mexico blog ------- -->
@@ -206,7 +226,7 @@
                             <tr>
                                 <td class="content_data">
                                     <div class="company_logo">
-                                        <img src="<?=get_img();?>companies/sherpa.png" alt="sherpa">
+                                        <img src="<?= get_img(); ?>companies/sherpa.png" alt="sherpa">
                                     </div>
                                 </td>
                                 <td class="content_data">
@@ -232,14 +252,14 @@
                                 </td>
                                 <td class="content_data">
                                     <div>
-                                        <button><a href="https://www.sherpaautotransport.com/"target="_blank">Learn More</a></button>
+                                        <button><a href="https://www.sherpaautotransport.com/" target="_blank">Learn More</a></button>
                                     </div>
                                 </td>
                             </tr>
                             <tr>
                                 <td class="content_data">
                                     <div class="company_logo">
-                                        <img src="<?=get_img();?>companies/coloured-logo.png" alt="rapid auto shipping">
+                                        <img src="<?= get_img(); ?>companies/coloured-logo.png" alt="rapid auto shipping">
                                     </div>
                                 </td>
                                 <td class="content_data">
@@ -266,14 +286,14 @@
                                 </td>
                                 <td class="content_data">
                                     <div>
-                                        <button><a href="https://rapidautoshipping.com/"target="_blank">Learn More</a></button>
+                                        <button><a href="https://rapidautoshipping.com/" target="_blank">Learn More</a></button>
                                     </div>
                                 </td>
                             </tr>
                             <tr>
                                 <td class="content_data">
                                     <div class="company_logo">
-                                        <img src="<?=get_img();?>companies/montway-center.png" alt="montway">
+                                        <img src="<?= get_img(); ?>companies/montway-center.png" alt="montway">
                                     </div>
                                 </td>
                                 <td class="content_data">
@@ -300,14 +320,14 @@
                                 </td>
                                 <td class="content_data">
                                     <div>
-                                        <button><a href="https://www.montway.com/"target="_blank">Learn More</a></button>
+                                        <button><a href="https://www.montway.com/" target="_blank">Learn More</a></button>
                                     </div>
                                 </td>
                             </tr>
                             <tr>
                                 <td class="content_data">
                                     <div class="company_logo">
-                                        <img src="<?=get_img();?>companies/sgt.png" alt="sgt">
+                                        <img src="<?= get_img(); ?>companies/sgt.png" alt="sgt">
                                     </div>
                                 </td>
                                 <td class="content_data">
@@ -334,14 +354,14 @@
                                 </td>
                                 <td class="content_data">
                                     <div>
-                                        <button><a href="https://sgtautotransport.com/"target="_blank">Learn More</a></button>
+                                        <button><a href="https://sgtautotransport.com/" target="_blank">Learn More</a></button>
                                     </div>
                                 </td>
                             </tr>
                             <tr>
                                 <td class="content_data">
                                     <div class="company_logo">
-                                        <img src="<?=get_img();?>companies/amerifreight.png" alt="">
+                                        <img src="<?= get_img(); ?>companies/amerifreight.png" alt="">
                                     </div>
                                 </td>
                                 <td class="content_data">
@@ -368,15 +388,14 @@
                                 </td>
                                 <td class="content_data">
                                     <div>
-                                        <button><a href="https://www.amerifreight.net/"target="_blank">Learn More</a></button>
+                                        <button><a href="https://www.amerifreight.net/" target="_blank">Learn More</a></button>
                                     </div>
                                 </td>
                             </tr>
                             <tr>
                                 <td class="content_data">
                                     <div class="company_logo">
-                                        <img src="<?=get_img();?>companies/american-auto-shipping.png"
-                                            alt="american-auto-shipping">
+                                        <img src="<?= get_img(); ?>companies/american-auto-shipping.png" alt="american-auto-shipping">
                                     </div>
                                 </td>
                                 <td class="content_data">
@@ -403,15 +422,14 @@
                                 </td>
                                 <td class="content_data">
                                     <div>
-                                        <button><a href="https://www.americanautoshipping.com/"target="_blank">Learn More</a></button>
+                                        <button><a href="https://www.americanautoshipping.com/" target="_blank">Learn More</a></button>
                                     </div>
                                 </td>
                             </tr>
                             <tr>
                                 <td class="content_data">
                                     <div class="company_logo">
-                                        <img src="<?=get_img();?>companies/easy-autoshipping.png"
-                                            alt="easy-autoshipping">
+                                        <img src="<?= get_img(); ?>companies/easy-autoshipping.png" alt="easy-autoshipping">
                                     </div>
                                 </td>
                                 <td class="content_data">
@@ -438,14 +456,14 @@
                                 </td>
                                 <td class="content_data">
                                     <div>
-                                        <button><a href="https://diytransport.com/"target="_blank">Learn More</a></button>
+                                        <button><a href="https://diytransport.com/" target="_blank">Learn More</a></button>
                                     </div>
                                 </td>
                             </tr>
                             <tr>
                                 <td class="content_data">
                                     <div class="company_logo">
-                                        <img src="<?=get_img();?>companies/uship.png" alt="uship">
+                                        <img src="<?= get_img(); ?>companies/uship.png" alt="uship">
                                     </div>
                                 </td>
                                 <td class="content_data">
@@ -472,14 +490,14 @@
                                 </td>
                                 <td class="content_data">
                                     <div>
-                                        <button><a href="https://www.uship.com/in/"target="_blank">Learn More</a></button>
+                                        <button><a href="https://www.uship.com/in/" target="_blank">Learn More</a></button>
                                     </div>
                                 </td>
                             </tr>
                             <tr>
                                 <td class="content_data">
                                     <div class="company_logo">
-                                        <img src="<?=get_img();?>companies/nexus.png" alt="nexus">
+                                        <img src="<?= get_img(); ?>companies/nexus.png" alt="nexus">
                                     </div>
                                 </td>
                                 <td class="content_data">
@@ -506,14 +524,14 @@
                                 </td>
                                 <td class="content_data">
                                     <div>
-                                        <button><a href="https://nexusautotransport.com/"target="_blank">Learn More</a></button>
+                                        <button><a href="https://nexusautotransport.com/" target="_blank">Learn More</a></button>
                                     </div>
                                 </td>
                             </tr>
                             <tr>
                                 <td class="content_data">
                                     <div class="company_logo">
-                                        <img src="<?=get_img();?>companies/shipacardirect.png" alt="shipacardirect">
+                                        <img src="<?= get_img(); ?>companies/shipacardirect.png" alt="shipacardirect">
                                     </div>
                                 </td>
                                 <td class="content_data">
@@ -540,7 +558,7 @@
                                 </td>
                                 <td class="content_data">
                                     <div>
-                                        <button><a href="https://www.shipacardirect.com/"target="_blank">Learn More</a></button>
+                                        <button><a href="https://www.shipacardirect.com/" target="_blank">Learn More</a></button>
                                     </div>
                                 </td>
                             </tr>
@@ -563,7 +581,7 @@
                 <div class="company_cta">
                     <div class=" cta_flex">
                         <div class="company_cta_logo">
-                            <img src="<?=get_img()?>companies/sherpa.png" alt="Sherpa Auto Transport">
+                            <img src="<?= get_img() ?>companies/sherpa.png" alt="Sherpa Auto Transport">
                         </div>
 
                         <div class="qoute_number">
@@ -632,7 +650,7 @@
                 <div class="company_cta">
                     <div class=" cta_flex">
                         <div class="company_cta_logo">
-                            <img src="<?=get_img()?>coloured-logo.jpg" alt="Rapid Auto Shipping">
+                            <img src="<?= get_img() ?>coloured-logo.jpg" alt="Rapid Auto Shipping">
                         </div>
 
                         <div class="qoute_number">
@@ -707,7 +725,7 @@
                 <div class="company_cta">
                     <div class=" cta_flex">
                         <div class="company_cta_logo">
-                            <img src="<?=get_img()?>companies/montway-center.png" alt="Montway Auto Transport">
+                            <img src="<?= get_img() ?>companies/montway-center.png" alt="Montway Auto Transport">
                         </div>
 
                         <div class="qoute_number">
@@ -783,7 +801,7 @@
                 <div class="company_cta">
                     <div class=" cta_flex">
                         <div class="company_cta_logo">
-                            <img src="<?=get_img()?>companies/sgt.png" alt="SGT Auto Transport">
+                            <img src="<?= get_img() ?>companies/sgt.png" alt="SGT Auto Transport">
                         </div>
 
                         <div class="qoute_number">
@@ -850,7 +868,7 @@
                 <div class="company_cta">
                     <div class=" cta_flex">
                         <div class="company_cta_logo">
-                            <img src="<?=get_img()?>companies/amerifreight.png" alt="AmeriFreight">
+                            <img src="<?= get_img() ?>companies/amerifreight.png" alt="AmeriFreight">
                         </div>
 
                         <div class="qoute_number">
@@ -920,7 +938,7 @@
                 <div class="company_cta">
                     <div class=" cta_flex">
                         <div class="company_cta_logo">
-                            <img src="<?=get_img()?>companies/american-auto-shipping.png" alt="American Auto Shipping">
+                            <img src="<?= get_img() ?>companies/american-auto-shipping.png" alt="American Auto Shipping">
                         </div>
 
                         <div class="qoute_number">
@@ -989,7 +1007,7 @@
                 <div class="company_cta">
                     <div class=" cta_flex">
                         <div class="company_cta_logo">
-                            <img src="<?=get_img()?>companies/easy-autoshipping.png" alt="Easy Auto Ship">
+                            <img src="<?= get_img() ?>companies/easy-autoshipping.png" alt="Easy Auto Ship">
                         </div>
 
                         <div class="qoute_number">
@@ -1058,7 +1076,7 @@
                 <div class="company_cta">
                     <div class=" cta_flex">
                         <div class="company_cta_logo">
-                            <img src="<?=get_img()?>companies/uship.png" alt="uship">
+                            <img src="<?= get_img() ?>companies/uship.png" alt="uship">
                         </div>
 
                         <div class="qoute_number">
@@ -1128,7 +1146,7 @@
                 <div class="company_cta">
                     <div class=" cta_flex">
                         <div class="company_cta_logo">
-                            <img src="<?=get_img()?>companies/nexus.png" alt="Nexus Auto Transport">
+                            <img src="<?= get_img() ?>companies/nexus.png" alt="Nexus Auto Transport">
                         </div>
 
                         <div class="qoute_number">
@@ -1199,7 +1217,7 @@
                 <div class="company_cta">
                     <div class=" cta_flex">
                         <div class="company_cta_logo">
-                            <img src="<?=get_img()?>companies/shipacardirect.png" alt="shipacardirect">
+                            <img src="<?= get_img() ?>companies/shipacardirect.png" alt="shipacardirect">
                         </div>
 
                         <div class="qoute_number">
@@ -1502,7 +1520,7 @@
     <?php include strip_under_header; ?>
 
     <!-- -------------------------------------- -->
-    
+
     <!-- call to action section (all services,, reviews section,, and call to action button section) -->
     <!-- -------------------------------------- -->
     <?php include_once call_to_action ?>
@@ -1511,20 +1529,22 @@
     <!-- -------------- footer ---------------- -->
     <!-- -------------------------------------- -->
     <?php include_once page_bottom ?>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places"></script>
+    <script async src="<?= get_js() ?>small_form_new.js"></script>
     <script>
-       var acc = document.getElementsByClassName("accordion");
-       var i;
-       for (i = 0; i < acc.length; i++) {
-       acc[i].addEventListener("click", function() {
-       this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight) {
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    } 
-  });
-}
+        var acc = document.getElementsByClassName("accordion");
+        var i;
+        for (i = 0; i < acc.length; i++) {
+            acc[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var panel = this.nextElementSibling;
+                if (panel.style.maxHeight) {
+                    panel.style.maxHeight = null;
+                } else {
+                    panel.style.maxHeight = panel.scrollHeight + "px";
+                }
+            });
+        }
     </script>
 
 </body>
