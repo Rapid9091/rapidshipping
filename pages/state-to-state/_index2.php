@@ -84,6 +84,7 @@ if (isset($_GET['page_id'])) {
                 display: flex;
             }
         }
+        .box span,.box strong{color:#36454F!important}
     </style>
     <title> <?= $data['title']; ?></title>
     <!-- <script type="application/ld+json">
