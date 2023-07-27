@@ -431,6 +431,19 @@
     </script>
     <script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places" defer></script>
     <script src="<?=get_js()?>small_form_new.js" defer></script>
+    <script>
+    var ip
+fetch('https://api.ipify.org?format=json')
+  .then(response => response.json())
+  .then(data => {
+    ip = data.ip;
+    document.getElementById('ip').innerHTML += "<input type='text' name='ip' value='"+ip+"' hidden>"
+  })
+  .catch(error => {
+    console.log(error);
+  });
+
+    </script>
 </body>
 
 </html>
