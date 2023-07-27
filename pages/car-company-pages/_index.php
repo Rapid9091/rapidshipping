@@ -580,7 +580,7 @@ else ob_start(); ?>
                                 $model_add = "Transport";
                             }
                             echo '<div class="all-state-name-grids">
-                            <a href="" rel="dofollow">'.$car_model. " ".$result->car." ".$model_add.'</a>
+                            <a href="javascript:;" rel="dofollow">'.$car_model. " ".$result->car." ".$model_add.'</a>
                         </div>';
                         $count++;
                         }
