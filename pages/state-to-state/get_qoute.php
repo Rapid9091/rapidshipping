@@ -1,6 +1,8 @@
 <?php include_once "../../init.php"; ?>
 <?php
     if(isset($_POST['submit'])){
+        $url = $_POST['url'];
+        $ip = $_POST['ip'];
         $ship_from = $_POST['ship_from'];
         $ship_to = $_POST['ship_to'];
         $transporttype = $_POST['transporttype'];
@@ -16,7 +18,7 @@
         $qoute_id = rand(1,1000000);
         $route_distance = $_POST['path_distance'];
         
-        $insert_query = "INSERT INTO form_qoute (username, email, phone, ship_from, ship_to, t_method, year, make, model, vehicle_size, vehicle_type, pickup_date, distance, qoute_id) values ('$username','$user_email', '$phone_number', '$ship_from', '$ship_to', '$transporttype', '$year', '$make', '$models', '$vehicle_size', '$vehicle_type', '$pick_up_date', '$route_distance', '$qoute_id')";
+        $insert_query = "INSERT INTO form_qoute (username, email, phone, ship_from, ship_to, t_method, year, make, model, vehicle_size, vehicle_type, pickup_date, distance, qoute_id,url,ip) values ('$username','$user_email', '$phone_number', '$ship_from', '$ship_to', '$transporttype', '$year', '$make', '$models', '$vehicle_size', '$vehicle_type', '$pick_up_date', '$route_distance', '$qoute_id','$url','$ip')";
         $insert_qoute = mysqli_query($con, $insert_query) or die("insert_query_failed");
         if($insert_qoute){
             $to = "info@rapidautoshipping.com , amankeshari5937@gmail.com, ".$user_email;

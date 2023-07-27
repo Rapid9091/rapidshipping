@@ -629,6 +629,17 @@ else ob_start();
                 existingScript.parentNode.removeChild(existingScript);
             }
         }
+
+        var ip
+fetch('https://api.ipify.org?format=json')
+  .then(response => response.json())
+  .then(data => {
+    ip = data.ip;
+    document.getElementById('ip').innerHTML += "<input type='text' name='ip' value='"+ip+"' hidden>"
+  })
+  .catch(error => {
+    console.log(error);
+  });
     </script>
 </body>
 
