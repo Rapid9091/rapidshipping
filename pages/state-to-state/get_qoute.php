@@ -1540,6 +1540,10 @@
             s1.setAttribute('crossorigin', '*');
             s0.parentNode.insertBefore(s1, s0);
         })();
+
+        if ( window.history.replaceState ) {
+  window.history.replaceState( null, null, window.location.href );
+}
     </script>
     <!--End of Tawk.to Script-->
 
