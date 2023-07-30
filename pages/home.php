@@ -4,7 +4,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
- 
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,17 +20,17 @@
     <meta name='robots' content='index' />
     <meta name="keywords" content="best car shipping company, best car transport companies, reliable car transport, top car shipping companies, top car transport companies, car shipping companies, car shipping quotes, auto transport, car carriers, car shipping company" />
     <meta property="article:tag" content="best car shipping company" />
-<meta property="article:tag" content="best car transport companies" />
-<meta property="article:tag" content="reliable car transport" />
-<meta property="article:tag" content="top car shipping companies" />
-<meta property="article:tag" content="top car transport companies" />
+    <meta property="article:tag" content="best car transport companies" />
+    <meta property="article:tag" content="reliable car transport" />
+    <meta property="article:tag" content="top car shipping companies" />
+    <meta property="article:tag" content="top car transport companies" />
     <meta property="article:tag" content="car shipping companies" />
     <meta property="article:tag" content="car shipping quotes" />
     <meta property="article:tag" content="auto transport" />
     <meta property="article:tag" content="car carriers" />
     <meta property="article:tag" content="car shipping company" />
-    
-    
+
+
 
     <meta name="twitter:image" property="og:image" content="<?= get_img(); ?>home_page_featured_img.jpeg" /> <!-- invalid, but expected -->
     <link property="image" href="<?= get_img(); ?>home_page_featured_img.jpeg" />
@@ -47,18 +47,20 @@
         .third-section>p>b>a {
             color: var(--nav-color) !important;
         }
+
         .key-holding {
-    margin: 2% 0;
-    background-image: url("<?= get_img();?>/car-key-new1.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-@media screen and (max-width: 600px) {
-    .key-holding {
-        background-image: url("<?=get_img();?>car-key-new1.jpeg");
-    }
-}
+            margin: 2% 0;
+            background-image: url("<?= get_img(); ?>/car-key-new1.jpeg");
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        @media screen and (max-width: 600px) {
+            .key-holding {
+                background-image: url("<?= get_img(); ?>car-key-new1.jpeg");
+            }
+        }
     </style>
 
     <!-- schema sent by aniket -->
@@ -112,31 +114,31 @@
         ?>
     </div> -->
     <?php
-        $NAME = "Best Auto Shipping Company In USA";
-        $PARAGRAPH = "We will help you to ship your vehicle on time at an affordable price. You can ship your vehicle without any hustle and bustle, only just by contacting us.<span> We will provide you best representatives to help you out if you have any questions regarding <b>auto shipping. </b> All you have to do is to fill the free quote form, to get an instant quote for your shipment. You will see your <b>auto shipping</b> quote in less than 30 seconds with our price calculator, and find out when your vehicle can be picked up.</span>";
-        ?>
+    $NAME = "Best Auto Shipping Company In USA";
+    $PARAGRAPH = "We will help you to ship your vehicle on time at an affordable price. You can ship your vehicle without any hustle and bustle, only just by contacting us.<span> We will provide you best representatives to help you out if you have any questions regarding <b>auto shipping. </b> All you have to do is to fill the free quote form, to get an instant quote for your shipment. You will see your <b>auto shipping</b> quote in less than 30 seconds with our price calculator, and find out when your vehicle can be picked up.</span>";
+    ?>
     <section class="contact-us-header-page" id="banner_form">
 
         <div class="third-section-state">
 
 
             <div class="third-section-content">
-            <div class="state-banner-content">
-                <h1 class="third-section-content-heading">
+                <div class="state-banner-content">
+                    <h1 class="third-section-content-heading">
 
-                    <?php echo $NAME; ?>
-                </h1>
+                        <?php echo $NAME; ?>
+                    </h1>
 
 
-                <p class="third-section-content-text">
-                    <?php echo $PARAGRAPH;?>
-                </p>
+                    <p class="third-section-content-text">
+                        <?php echo $PARAGRAPH; ?>
+                    </p>
                 </div>
 
             </div>
             <div style="display:grid;
                 place-items:center;">
-                <?php include small_form_new ;?>
+                <?php include small_form_new; ?>
             </div>
 
 
@@ -182,13 +184,13 @@
             On TransportReviews, TrustPilot, Facebook, the Better Business Bureau, and Google, Rapid Auto Shipping consistently obtains five-star ratings. Some reviewers are given a little deposit reimbursement that is unrelated to their rating score or pricing as an incentive to share their experience. We've delivered over 20,000 new and used cars, and while we're not perfect, we've built a solid reputation in the process.</p>
         <div class="trustbadge-container">
             <div class="trustbadeg-1">
-                <img loading="lazy" src="<?= get_img() ?>TransportReviewsLogo.webp" width ="100%" height ="100%" alt="review rapid auto shipping" />
+                <img loading="lazy" src="<?= get_img() ?>TransportReviewsLogo.webp" width="100%" height="100%" alt="review rapid auto shipping" />
             </div>
             <div class="trustbadeg-1">
-                <img loading="lazy" src="<?= get_img() ?>google-review-rating-img.png"  width ="100%" height ="100%" alt="review rapid auto shipping" />
+                <img loading="lazy" src="<?= get_img() ?>google-review-rating-img.png" width="100%" height="100%" alt="review rapid auto shipping" />
             </div>
             <div class="trustbadeg-1">
-                <img loading="lazy" src="<?= get_img() ?>Trustpilot-review-rating-img.png"  width ="100%" height ="100%" alt="review rapid auto shipping" />
+                <img loading="lazy" src="<?= get_img() ?>Trustpilot-review-rating-img.png" width="100%" height="100%" alt="review rapid auto shipping" />
             </div>
         </div>
 
@@ -260,7 +262,7 @@
             <a href="<?= home_path(); ?>services/rail-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img loading="lazy" src=" <?= get_img() ?>metro-icon.png" width="48px" height ="48px" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>metro-icon.png" width="48px" height="48px" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>By Rail</h3>
@@ -271,7 +273,7 @@
             <a href="<?= home_path(); ?>services/enclosed-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img loading="lazy" src=" <?= get_img() ?>closed-truck-icon.png" width="48px" height ="48px" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>closed-truck-icon.png" width="48px" height="48px" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Enclosed Auto Transport</h3>
@@ -283,7 +285,7 @@
             <a href="<?= home_path(); ?>services/door-to-door">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img loading="lazy" src=" <?= get_img() ?>door-to-door-icon.png" width="48px" height ="48px" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>door-to-door-icon.png" width="48px" height="48px" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Door To Door Shipping</h3>
@@ -294,7 +296,7 @@
             <a href="<?= home_path(); ?>services/motor-cycle-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img loading="lazy" src=" <?= get_img() ?>motorcycle-icon.png" width="48px" height ="48px" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>motorcycle-icon.png" width="48px" height="48px" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Motorcycle Transport</h3>
@@ -306,7 +308,7 @@
             <a href="<?= home_path(); ?>services/snow-bird-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img loading="lazy" src=" <?= get_img() ?>snowbird-icon.png" width="48px" height ="48px" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>snowbird-icon.png" width="48px" height="48px" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Snow Bird Shipping</h3>
@@ -317,7 +319,7 @@
             <a href="<?= home_path(); ?>services/boat-shipping">
                 <div class="home-page-services-card">
                     <div class="home-service-image">
-                        <img loading="lazy" src=" <?= get_img() ?>boat-shipping-icon.png" width="48px" height ="48px" alt="rapid auto shipping" />
+                        <img loading="lazy" src=" <?= get_img() ?>boat-shipping-icon.png" width="48px" height="48px" alt="rapid auto shipping" />
                     </div>
                     <div class="home-service-content">
                         <h3>Boat Shipping</h3>
@@ -429,22 +431,27 @@
             duration: 1000,
         });
     </script>
-    <script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places" ></script>
-    
-    <script>
-//     var ip
-// fetch('https://api.ipify.org?format=json')
-//   .then(response => response.json())
-//   .then(data => {
-//     ip = data.ip;
-//     document.getElementById('ip').innerHTML += "<input type='text' name='ip' value='"+ip+"' hidden>"
-//   })
-//   .catch(error => {
-//     console.log(error);
-//   });
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ2DHnFl4aGaFN90TWapQEXJ7e2v6L8lo&v=3.exp&callback=Function.prototype&libraries=places"></script>
 
+    <script>
+        var ip;
+        fetch('https://api.ipify.org?format=json')
+            .then(response => response.json())
+            .then(data => {
+                ip = data.ip;
+                var newInput = document.createElement('input');
+                newInput.type = 'hidden';
+                newInput.name = 'ip';
+                newInput.value = ip ;
+                // newInput.hidden = true;
+                myDiv = document.getElementById('ip')
+                myDiv.insertBefore(newInput, myDiv.firstChild)
+            })
+            .catch(error => {
+                console.log(error);
+            });
     </script>
-<script src="<?=get_js()?>small_form_new.js" async></script>
+    <script src="<?= get_js() ?>small_form_new.js" async></script>
 </body>
 
 
