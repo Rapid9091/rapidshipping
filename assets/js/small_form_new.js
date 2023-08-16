@@ -49,6 +49,7 @@ var option = options[i];
 var value = option.getAttribute("data-value").toUpperCase();
 if (value.indexOf(filter) > -1) {
 option.style.display = "";
+console.log('rishabh')
 } else {
 option.style.display = "none";
 }
@@ -287,9 +288,9 @@ if(phoneNumberLength < 4){
 return phone_number;
 } 
 if(phoneNumberLength <7){
-return `(${phone_number.slice(0, 3)}) ${phone_number.slice(3)}`;
+return `${phone_number.slice(0, 3)}-${phone_number.slice(3)}`;
 } 
-return `(${phone_number.slice(0, 3)}) ${phone_number.slice(3, 6)}-${phone_number.slice(6,9)}`;
+return `${phone_number.slice(0, 3)}-${phone_number.slice(3, 6)}-${phone_number.slice(6,9)}`;
 }
 
 function phoneNumberformatter(){
@@ -306,4 +307,15 @@ function final_validation(){
     toast.error("Please fill All Details");
     return false;
   }
+}
+
+function addpattern() {
+  const phone_small = document.getElementById("phone_small");
+  phone_small.setAttribute("pattern", "^\\d{3}-\\d{3}-\\d{4}$");
+  phone_small.setAttribute("title", "Please enter a valid phone number in the format 123-456-7890");
+}
+function Removepattern() {
+  const phone_small = document.getElementById("phone_small");
+  // Remove the pattern attribute
+  phone_small.removeAttribute("pattern");
 }

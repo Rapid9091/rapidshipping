@@ -49,6 +49,8 @@ else ob_start(); ?>
     <link rel="stylesheet" href="<?= get_css() ?>small_form_new.css">
     <link rel="stylesheet" href="<?= get_css() ?>faq.css">
     <link anync rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
+    <link rel="preload" src="https://rapidautoshipping.com/assets/images/copy_desktop.webp" />
+<link rel="preload" src="https://rapidautoshipping.com/assets/images/copy_mobile2.webp" />
     <meta name="yandex-verification" content="088dfdd0832860ec" />
     <title> <?= $data['title']; ?></title>
     <!-- <script type="application/ld+json">
@@ -95,6 +97,7 @@ else ob_start(); ?>
         #models_list_small {
             color: black;
         }
+        
         @media screen and (max-width: 425px) {
             .logo_div img {
                 width: 130%;
@@ -105,6 +108,34 @@ else ob_start(); ?>
             }
         }
         .box span,.box strong{color:#36454F!important}
+        .popup {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            z-index: 9999;
+            display: none;
+          }
+          .popup-content {
+            background-color: #f2f2f2;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+          }
+          .yes-btn, .no-btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-right: 10px;
+          }
+       .multiline-ellipsis {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2; /* start showing ellipsis when 3rd line is reached */
+  white-space: pre-wrap; /* let the text wrap preserving spaces */}
+          
     </style>
 </head>
 
@@ -625,6 +656,21 @@ else ob_start(); ?>
         <a href="tel:+1 (833) 233-4447"><button style="color:black;">+1 (833) 233-4447</button></a>
     </div>
 
+ <!--<div id="feedbackPopup" class="popup">-->
+ <!--        <div class="popup-content">-->
+ <!--           <span class="close" id="closePopup">&times;</span>-->
+ <!--           <div id="feedbackText"></div>-->
+ <!--       </div>-->
+ <!--   </div>-->
+ 
+ <div class="popup">
+        <div class="popup-content">
+          <p id="review-text"></p>
+          <button class="yes-btn" style="display: none;">Good</button>
+          <button class="no-btn" style="display: none;">Bad</button>
+        </div>
+      </div>
+
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
     <script>
         const swiper = new Swiper('.swiper', {
@@ -732,10 +778,12 @@ else ob_start(); ?>
                     var isDivEmpty = $divElement.is(':empty');
                     if (isDivEmpty) {
                         $('#topForm').html('<?php include small_form_new; ?>');
+                        Removepattern()
                         analyzeAndManipulateScriptTag('<?= get_js() ?>small_form_new.js')
                         setTimeout(function() {
                             loadScript2()
                         }, 1000)
+                        addpattern()
                     }
                 } else {
                     $('#topForm').html('');
@@ -744,12 +792,13 @@ else ob_start(); ?>
                     var isDivEmpty = $divElement.is(':empty');
                     if (isDivEmpty) {
                         $('#sideFrom').html('<?php include small_form_new; ?>');
+                        Removepattern()
                         analyzeAndManipulateScriptTag('<?= get_js() ?>small_form_new.js')
                         setTimeout(function() {
                             loadScript2()
                         }, 1000)
+                        addpattern()
                     }
-
                 }
                 // different function 
                 if ($('#key-section').isOutOfViewport()) {
@@ -882,7 +931,7 @@ else ob_start(); ?>
 
         function loadScript2() {
             var script = document.createElement('script');
-            script.src = '<?= get_js() ?>small_form_new.js';
+            script.src = '<?= get_js() ?>small_form_new.js?v=1';
             document.body.appendChild(script);
         }
 
@@ -914,6 +963,110 @@ fetch('https://api.ipify.org?format=json')
   });
     </script>
     <script async="true" src="<?= get_js("faq.js"); ?>"></script>
+    
+    <script>
+        
+            // Function to generate random feedback
+            // function getRandomFeedback() {
+                const reviews = [
+  '<div style="width: 300px;height:auto;background-color:rgb(236, 236, 236);display:flex;align-items:center;padding:2%;box-sizing:border-box;"><div style="width: 50px;height: 50px;border-radius:50%;overflow:hidden;"><img src="https://images.pexels.com/photos/3220360/pexels-photo-3220360.jpeg" width="100%" height="100%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div style=" width:270px;display: grid;margin-left:5%;align-items:center;height: 50%;"><div class="customer-popup"><h4 style="margin:0 0 2.5px 0;padding:0; font-size:15px;"><b>Victor G.</b></h4><p style="margin:0;padding:0;font-style: italic;line-height: 100%;"><span class = "multiline-ellipsis">"I appreciate how quickly I was able to contact with Scott and get my questions answered. Booking through the website."</span></p></div><div style="display:flex;align-items:center;gap:15px;" class="review_pop_up"><div style="height:auto;display:flex;align-items:center;gap:5px"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" preserveAspectRatio="xMidYMid"viewBox="0 0 256 262" id="google"><path fill="#4285F4"d="M255.878 133.451c0-10.734-.871-18.567-2.756-26.69H130.55v48.448h71.947c-1.45 12.04-9.283 30.172-26.69 42.356l-.244 1.622 38.755 30.023 2.685.268c24.659-22.774 38.875-56.282 38.875-96.027"></path><path fill="#34A853"d="M130.55 261.1c35.248 0 64.839-11.605 86.453-31.622l-41.196-31.913c-11.024 7.688-25.82 13.055-45.257 13.055-34.523 0-63.824-22.773-74.269-54.25l-1.531.13-40.298 31.187-.527 1.465C35.393 231.798 79.49 261.1 130.55 261.1"></path><path fill="#FBBC05"d="M56.281 156.37c-2.756-8.123-4.351-16.827-4.351-25.82 0-8.994 1.595-17.697 4.206-25.82l-.073-1.73L15.26 71.312l-1.335.635C5.077 89.644 0 109.517 0 130.55s5.077 40.905 13.925 58.602l42.356-32.782"></path><path fill="#EB4335"d="M130.55 50.479c24.514 0 41.05 10.589 50.479 19.438l36.844-35.974C195.245 12.91 165.798 0 130.55 0 79.49 0 35.393 29.301 13.925 71.947l42.211 32.783c10.59-31.477 39.891-54.251 74.414-54.251"></path></svg><span style="font-family: google;">Google</span></div><div><span>⭐⭐⭐⭐⭐</span></div></div></div></div>',
+
+            '<div style="width: 300px;height:auto;background-color:rgb(236, 236, 236);display:flex;align-items:center;padding:2%;box-sizing:border-box;"><div style="width: 50px;height: 50px;border-radius:50%;overflow:hidden;"><img src="https://rapidautoshipping.com/assets/images/Untitled design (34).png" width="100%" height="100%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div style=" width:270px;display: grid;margin-left:5%;align-items:center;height: 50%;"><div class="customer-popup"><h4 style="margin:0 0 2.5px 0;padding:0;"></h4><p style="margin:0;padding:0;font-style: italic;line-height: 100%;"><span class = "multiline-ellipsis">"Yay! We just Got a new order few minutes ago"</span></p></div><div style="display:flex;align-items:center;gap:15px;" class="review_pop_up"><div style="height:auto;display:flex;align-items:center;gap:5px"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" preserveAspectRatio="xMidYMid"viewBox="0 0 256 262" id="google"><path fill="#4285F4"d="M255.878 133.451c0-10.734-.871-18.567-2.756-26.69H130.55v48.448h71.947c-1.45 12.04-9.283 30.172-26.69 42.356l-.244 1.622 38.755 30.023 2.685.268c24.659-22.774 38.875-56.282 38.875-96.027"></path><path fill="#34A853"d="M130.55 261.1c35.248 0 64.839-11.605 86.453-31.622l-41.196-31.913c-11.024 7.688-25.82 13.055-45.257 13.055-34.523 0-63.824-22.773-74.269-54.25l-1.531.13-40.298 31.187-.527 1.465C35.393 231.798 79.49 261.1 130.55 261.1"></path><path fill="#FBBC05"d="M56.281 156.37c-2.756-8.123-4.351-16.827-4.351-25.82 0-8.994 1.595-17.697 4.206-25.82l-.073-1.73L15.26 71.312l-1.335.635C5.077 89.644 0 109.517 0 130.55s5.077 40.905 13.925 58.602l42.356-32.782"></path><path fill="#EB4335"d="M130.55 50.479c24.514 0 41.05 10.589 50.479 19.438l36.844-35.974C195.245 12.91 165.798 0 130.55 0 79.49 0 35.393 29.301 13.925 71.947l42.211 32.783c10.59-31.477 39.891-54.251 74.414-54.251"></path></svg><span style="font-family: google;">Google</span></div><div><span>⭐⭐⭐⭐⭐</span></div></div></div></div>',
+
+
+
+
+            '<div style="width: 300px;height:auto;background-color:rgb(236, 236, 236);display:flex;align-items:center;padding:2%;box-sizing:border-box;"><div style="width: 50px;height: 50px;border-radius:50%;overflow:hidden;"><img src="https://images.pexels.com/photos/4672491/pexels-photo-4672491.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" height="100%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div style=" width:270px;display: grid;margin-left:5%;align-items:center;height: 50%;"><div class="customer-popup"><h4 style="margin:0 0 5px 0;padding:0;font-size:15px;"><b>Glen K.</b></h4><p style="margin:0;padding:0;font-style: italic;line-height: 100%;"><span class = "multiline-ellipsis">"Thank you for the good service.My car was picked up and delivered on time."</span></p></div><div style="display:flex;align-items:center;gap:15px;" class="review_pop_up"><div style="height:auto;display:flex;align-items:center;gap:5px"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" preserveAspectRatio="xMidYMid"viewBox="0 0 256 262" id="google"><path fill="#4285F4"d="M255.878 133.451c0-10.734-.871-18.567-2.756-26.69H130.55v48.448h71.947c-1.45 12.04-9.283 30.172-26.69 42.356l-.244 1.622 38.755 30.023 2.685.268c24.659-22.774 38.875-56.282 38.875-96.027"></path><path fill="#34A853"d="M130.55 261.1c35.248 0 64.839-11.605 86.453-31.622l-41.196-31.913c-11.024 7.688-25.82 13.055-45.257 13.055-34.523 0-63.824-22.773-74.269-54.25l-1.531.13-40.298 31.187-.527 1.465C35.393 231.798 79.49 261.1 130.55 261.1"></path><path fill="#FBBC05"d="M56.281 156.37c-2.756-8.123-4.351-16.827-4.351-25.82 0-8.994 1.595-17.697 4.206-25.82l-.073-1.73L15.26 71.312l-1.335.635C5.077 89.644 0 109.517 0 130.55s5.077 40.905 13.925 58.602l42.356-32.782"></path><path fill="#EB4335"d="M130.55 50.479c24.514 0 41.05 10.589 50.479 19.438l36.844-35.974C195.245 12.91 165.798 0 130.55 0 79.49 0 35.393 29.301 13.925 71.947l42.211 32.783c10.59-31.477 39.891-54.251 74.414-54.251"></path></svg><span style="font-family: google;">Google</span></div><div><span>⭐⭐⭐⭐⭐</span></div></div></div></div>',
+
+            '<div style="width: 300px;height:auto;background-color:rgb(236, 236, 236);display:flex;align-items:center;padding:2%;box-sizing:border-box;"><div style="width: 50px;height: 50px;border-radius:50%;overflow:hidden;"><img src="https://rapidautoshipping.com/assets/images/Untitled design (34).png" width="100%" height="100%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div style=" width:270px;display: grid;margin-left:5%;align-items:center;height: 50%;"><div class="customer-popup"><h4 style="margin:0 0 2.5px 0;padding:0;"></h4><p style="margin:0;padding:0;font-style: italic;line-height: 100%;"><span class = "multiline-ellipsis">"We Shipped 84 Vehicles in last 24 Hours"</span></p></div><div style="display:flex;align-items:center;gap:15px;" class="review_pop_up"><div style="height:auto;display:flex;align-items:center;gap:5px"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" preserveAspectRatio="xMidYMid"viewBox="0 0 256 262" id="google"><path fill="#4285F4"d="M255.878 133.451c0-10.734-.871-18.567-2.756-26.69H130.55v48.448h71.947c-1.45 12.04-9.283 30.172-26.69 42.356l-.244 1.622 38.755 30.023 2.685.268c24.659-22.774 38.875-56.282 38.875-96.027"></path><path fill="#34A853"d="M130.55 261.1c35.248 0 64.839-11.605 86.453-31.622l-41.196-31.913c-11.024 7.688-25.82 13.055-45.257 13.055-34.523 0-63.824-22.773-74.269-54.25l-1.531.13-40.298 31.187-.527 1.465C35.393 231.798 79.49 261.1 130.55 261.1"></path><path fill="#FBBC05"d="M56.281 156.37c-2.756-8.123-4.351-16.827-4.351-25.82 0-8.994 1.595-17.697 4.206-25.82l-.073-1.73L15.26 71.312l-1.335.635C5.077 89.644 0 109.517 0 130.55s5.077 40.905 13.925 58.602l42.356-32.782"></path><path fill="#EB4335"d="M130.55 50.479c24.514 0 41.05 10.589 50.479 19.438l36.844-35.974C195.245 12.91 165.798 0 130.55 0 79.49 0 35.393 29.301 13.925 71.947l42.211 32.783c10.59-31.477 39.891-54.251 74.414-54.251"></path></svg><span style="font-family: google;">Google</span></div><div><span>⭐⭐⭐⭐⭐</span></div></div></div></div>',
+
+
+            '<div style="width: 300px;height:auto;background-color:rgb(236, 236, 236);display:flex;align-items:center;padding:2%;box-sizing:border-box;"><div style="width: 50px;height: 50px;border-radius:50%;overflow:hidden;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2Y77JlcRLyK3LEhiRDR247UEJp8c41RXjQ&usqp=CAU" width="100%" height="100%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div style=" width:270px;display: grid;margin-left:5%;align-items:center;height:50%;"><div class="customer-popup"><h4 style="margin:0 0 5px 0;padding:0;font-size:15px;"><b>James S.</b></h4><p style="margin:0;padding:0;font-style: italic;line-height: 100%;"><span class = "multiline-ellipsis">"Great company to ship your vehicle with. Eric, was awesome and easy to work"</span></p></div><div style="display:flex;align-items:center;gap:15px;" class="review_pop_up"><div style="height:auto;display:flex;align-items:center;gap:5px"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" preserveAspectRatio="xMidYMid"viewBox="0 0 256 262" id="google"><path fill="#4285F4"d="M255.878 133.451c0-10.734-.871-18.567-2.756-26.69H130.55v48.448h71.947c-1.45 12.04-9.283 30.172-26.69 42.356l-.244 1.622 38.755 30.023 2.685.268c24.659-22.774 38.875-56.282 38.875-96.027"></path><path fill="#34A853"d="M130.55 261.1c35.248 0 64.839-11.605 86.453-31.622l-41.196-31.913c-11.024 7.688-25.82 13.055-45.257 13.055-34.523 0-63.824-22.773-74.269-54.25l-1.531.13-40.298 31.187-.527 1.465C35.393 231.798 79.49 261.1 130.55 261.1"></path><path fill="#FBBC05"d="M56.281 156.37c-2.756-8.123-4.351-16.827-4.351-25.82 0-8.994 1.595-17.697 4.206-25.82l-.073-1.73L15.26 71.312l-1.335.635C5.077 89.644 0 109.517 0 130.55s5.077 40.905 13.925 58.602l42.356-32.782"></path><path fill="#EB4335"d="M130.55 50.479c24.514 0 41.05 10.589 50.479 19.438l36.844-35.974C195.245 12.91 165.798 0 130.55 0 79.49 0 35.393 29.301 13.925 71.947l42.211 32.783c10.59-31.477 39.891-54.251 74.414-54.251"></path></svg><span style="font-family: google;">Google</span></div><div><span>⭐⭐⭐⭐⭐</span></div></div></div></div>',
+
+            '<div style="width: 300px;height:auto;background-color:rgb(236, 236, 236);display:flex;align-items:center;padding:2%;box-sizing:border-box;"><div style="width: 50px;height: 50px;border-radius:50%;overflow:hidden;"><img src="https://images.pexels.com/photos/1043473/pexels-photo-1043473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" height="100%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div style=" width:270px;display: grid;margin-left:5%;align-items:center;height: 50%;"><div class="customer-popup"><h4 style="margin:0 0 5px 0;padding:0;font-size:15px;"><b>Jessie P.</b></h4><p style="margin:0;padding:0;font-style: italic;line-height: 100%;">"<span>Great service and worth the money. </span>"</p></div><div style="display:flex;align-items:center;gap:15px;" class="review_pop_up"><div style="height:auto;display:flex;align-items:center;gap:5px"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" preserveAspectRatio="xMidYMid"viewBox="0 0 256 262" id="google"><path fill="#4285F4"d="M255.878 133.451c0-10.734-.871-18.567-2.756-26.69H130.55v48.448h71.947c-1.45 12.04-9.283 30.172-26.69 42.356l-.244 1.622 38.755 30.023 2.685.268c24.659-22.774 38.875-56.282 38.875-96.027"></path><path fill="#34A853"d="M130.55 261.1c35.248 0 64.839-11.605 86.453-31.622l-41.196-31.913c-11.024 7.688-25.82 13.055-45.257 13.055-34.523 0-63.824-22.773-74.269-54.25l-1.531.13-40.298 31.187-.527 1.465C35.393 231.798 79.49 261.1 130.55 261.1"></path><path fill="#FBBC05"d="M56.281 156.37c-2.756-8.123-4.351-16.827-4.351-25.82 0-8.994 1.595-17.697 4.206-25.82l-.073-1.73L15.26 71.312l-1.335.635C5.077 89.644 0 109.517 0 130.55s5.077 40.905 13.925 58.602l42.356-32.782"></path><path fill="#EB4335"d="M130.55 50.479c24.514 0 41.05 10.589 50.479 19.438l36.844-35.974C195.245 12.91 165.798 0 130.55 0 79.49 0 35.393 29.301 13.925 71.947l42.211 32.783c10.59-31.477 39.891-54.251 74.414-54.251"></path></svg><span style="font-family: google;">Google</span></div><div><span>⭐⭐⭐⭐⭐</span></div></div></div></div>',
+            '<div style="width: 300px;height:auto;background-color:rgb(236, 236, 236);display:flex;align-items:center;padding:2%;box-sizing:border-box;"><div style="width: 50px;height: 50px;border-radius:50%;overflow:hidden;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGzmgbFiul15nDftRinpc3aHdVjnWLzeKFImtzPhG6UeJQVkJ8aviKJlPmLRrZeNci3LA&usqp=CAU" width="100%" height="100%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div style=" width:270px;display: grid;margin-left:5%;align-items:center;height: 50%;"><div class="customer-popup"><h4 style="margin:0 0 5px 0;padding:0;font-size:15px;"><b>Chisholm R.</b></h4><p style="margin:0;padding:0;font-style: italic;line-height: 100%;"><span class = "multiline-ellipsis">"Trusted Auto Transport Company For California To Texas Car Shipping"</span></p></div><div style="display:flex;align-items:center;gap:15px;" class="review_pop_up"><div style="height:auto;display:flex;align-items:center;gap:5px"><img src="https://rapidautoshipping.com/assets/images/TransportReviewsLogo.webp" width="50%" height="50%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div><span>⭐⭐⭐⭐⭐</span></div></div></div></div>',
+
+            '<div style="width: 300px;height:auto;background-color:rgb(236, 236, 236);display:flex;align-items:center;padding:2%;box-sizing:border-box;"><div style="width: 50px;height: 50px;border-radius:50%;overflow:hidden;"><img src="https://img.freepik.com/free-photo/smiling-man-white-shirt-typing-text-message-scrolling-feed-social-network-using-smartphone-gray_171337-634.jpg?w=740&t=st=1691753586~exp=1691754186~hmac=d4b3b15be416152c62b2128cb9534dd1ef8f42f0fbbd102e6262a447dab92c6e" width="100%" height="100%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div style=" width:270px;display: grid;margin-left:5%;align-items:center;height: 50%;"><div class="customer-popup"><h4 style="margin:0 0 5px 0;padding:0;font-size:15px;"><b>Patty E.</b></h4><p style="margin:0;padding:0;font-style: italic;line-height: 100%;"><span class = "multiline-ellipsis">"Best Car Shipping Company In States"</span></p></div><div style="display:flex;align-items:center;gap:15px;" class="review_pop_up"><div style="height:auto;display:flex;align-items:center;gap:5px"><img src="https://rapidautoshipping.com/assets/images/TransportReviewsLogo.webp" width="50%" height="50%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div><span>⭐⭐⭐⭐⭐</span></div></div></div></div>',
+
+
+            '<div style="width: 300px;height:auto;background-color:rgb(236, 236, 236);display:flex;align-items:center;padding:2%;box-sizing:border-box;"><div style="width: 50px;height: 50px;border-radius:50%;overflow:hidden;"><img src="https://img.freepik.com/free-photo/smiling-man-white-shirt-typing-text-message-scrolling-feed-social-network-using-smartphone-gray_171337-634.jpg?w=740&t=st=1691753586~exp=1691754186~hmac=d4b3b15be416152c62b2128cb9534dd1ef8f42f0fbbd102e6262a447dab92c6e" width="100%" height="100%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div style=" width:270px;display: grid;margin-left:5%;align-items:center;height: 50%;"><div class="customer-popup"><h4 style="margin:0 0 5px 0;padding:0;font-size:15px;"><b>Lillie S.</b></h4><p style="margin:0;padding:0;font-style: italic;line-height: 100%;"><span class = "multiline-ellipsis">"Affordable Car Shipping Company"</span></p></div><div style="display:flex;align-items:center;gap:15px;" class="review_pop_up"><div style="height:auto;display:flex;align-items:center;gap:5px"><img src="https://rapidautoshipping.com/assets/images/TransportReviewsLogo.webp" width="50%" height="50%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div><span>⭐⭐⭐⭐⭐</span></div></div></div></div>',
+
+
+            '<div style="width: 300px;height:auto;background-color:rgb(236, 236, 236);display:flex;align-items:center;padding:2%;box-sizing:border-box;"><div style="width: 50px;height: 50px;border-radius:50%;overflow:hidden;"><img src="https://img.freepik.com/free-photo/smiling-man-white-shirt-typing-text-message-scrolling-feed-social-network-using-smartphone-gray_171337-634.jpg?w=740&t=st=1691753586~exp=1691754186~hmac=d4b3b15be416152c62b2128cb9534dd1ef8f42f0fbbd102e6262a447dab92c6e" width="100%" height="100%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div style=" width:270px;display: grid;margin-left:5%;align-items:center;height: 50%;"><div class="customer-popup"><h4 style="margin:0 0 5px 0;padding:0;font-size:15px;"><b>Barry H.</b></h4><p style="margin:0;padding:0;font-style: italic;line-height: 100%;"><span class = "multiline-ellipsis">"Excellent Car Shipping Service By Rapid Auto Shipping"</span></p></div><div style="display:flex;align-items:center;gap:15px;" class="review_pop_up"><div style="height:auto;display:flex;align-items:center;gap:5px"><img src="https://rapidautoshipping.com/assets/images/TransportReviewsLogo.webp" width="50%" height="50%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div><span>⭐⭐⭐⭐⭐</span></div></div></div></div>',
+
+
+            '<div style="width: 300px;height:auto;background-color:rgb(236, 236, 236);display:flex;align-items:center;padding:2%;box-sizing:border-box;"><div style="width: 50px;height: 50px;border-radius:50%;overflow:hidden;"><img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png" width="100%" height="100%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div style=" width:270px;display: grid;margin-left:5%;align-items:center;height: 50%;"><div class="customer-popup"><h4 style="margin:0 0 2.5px 0;padding:0; font-size:15px;"><b>Lillie l.</b></h4><p style="margin:0;padding:0;font-style: italic;line-height: 100%;"><span class = "multiline-ellipsis">"I shipped my daughter\'s VW Jetta from New jersey to Texas.The service was timely and completed without any issues.I was contracted to Rapid Auto Shipping."</span></p></div><div style="display:flex;align-items:center;gap:15px;" class="review_pop_up"><div style="height:auto;display:flex;align-items:center;gap:5px"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" preserveAspectRatio="xMidYMid"viewBox="0 0 256 262" id="google"><path fill="#4285F4"d="M255.878 133.451c0-10.734-.871-18.567-2.756-26.69H130.55v48.448h71.947c-1.45 12.04-9.283 30.172-26.69 42.356l-.244 1.622 38.755 30.023 2.685.268c24.659-22.774 38.875-56.282 38.875-96.027"></path><path fill="#34A853"d="M130.55 261.1c35.248 0 64.839-11.605 86.453-31.622l-41.196-31.913c-11.024 7.688-25.82 13.055-45.257 13.055-34.523 0-63.824-22.773-74.269-54.25l-1.531.13-40.298 31.187-.527 1.465C35.393 231.798 79.49 261.1 130.55 261.1"></path><path fill="#FBBC05"d="M56.281 156.37c-2.756-8.123-4.351-16.827-4.351-25.82 0-8.994 1.595-17.697 4.206-25.82l-.073-1.73L15.26 71.312l-1.335.635C5.077 89.644 0 109.517 0 130.55s5.077 40.905 13.925 58.602l42.356-32.782"></path><path fill="#EB4335"d="M130.55 50.479c24.514 0 41.05 10.589 50.479 19.438l36.844-35.974C195.245 12.91 165.798 0 130.55 0 79.49 0 35.393 29.301 13.925 71.947l42.211 32.783c10.59-31.477 39.891-54.251 74.414-54.251"></path></svg><span style="font-family: google;">Google</span></div><div><span>⭐⭐⭐⭐⭐</span></div></div></div></div>',
+
+
+            '<div style="width: 300px;height:auto;background-color:rgb(236, 236, 236);display:flex;align-items:center;padding:2%;box-sizing:border-box;"><div style="width: 50px;height: 50px;border-radius:50%;overflow:hidden;"><img src="https://lh3.googleusercontent.com/a-/AD_cMMSBTUOPdt9MTjZpvnncHu8-cBcgZLNV-f3IEluzktWYMA=w40-h40-p-rp-mo-br100" width="100%" height="100%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div style=" width:270px;display: grid;margin-left:5%;align-items:center;height: 50%;"><div class="customer-popup"><h4 style="margin:0 0 2.5px 0;padding:0; font-size:15px;"><b>Amy M.</b></h4><p style="margin:0;padding:0;font-style: italic;line-height: 100%;"><span class = "multiline-ellipsis">"I will definitely use Rapid Auto Shipping services again.  The transportation of my car from Texas to Arizona was a smooth and successful process.  From my initial call to their service to the delivery of the car, everyone was extremely helpful, polite, and professional."</span></p></div><div style="display:flex;align-items:center;gap:15px;" class="review_pop_up"><div style="height:auto;display:flex;align-items:center;gap:5px"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" preserveAspectRatio="xMidYMid"viewBox="0 0 256 262" id="google"><path fill="#4285F4"d="M255.878 133.451c0-10.734-.871-18.567-2.756-26.69H130.55v48.448h71.947c-1.45 12.04-9.283 30.172-26.69 42.356l-.244 1.622 38.755 30.023 2.685.268c24.659-22.774 38.875-56.282 38.875-96.027"></path><path fill="#34A853"d="M130.55 261.1c35.248 0 64.839-11.605 86.453-31.622l-41.196-31.913c-11.024 7.688-25.82 13.055-45.257 13.055-34.523 0-63.824-22.773-74.269-54.25l-1.531.13-40.298 31.187-.527 1.465C35.393 231.798 79.49 261.1 130.55 261.1"></path><path fill="#FBBC05"d="M56.281 156.37c-2.756-8.123-4.351-16.827-4.351-25.82 0-8.994 1.595-17.697 4.206-25.82l-.073-1.73L15.26 71.312l-1.335.635C5.077 89.644 0 109.517 0 130.55s5.077 40.905 13.925 58.602l42.356-32.782"></path><path fill="#EB4335"d="M130.55 50.479c24.514 0 41.05 10.589 50.479 19.438l36.844-35.974C195.245 12.91 165.798 0 130.55 0 79.49 0 35.393 29.301 13.925 71.947l42.211 32.783c10.59-31.477 39.891-54.251 74.414-54.251"></path></svg><span style="font-family: google;">Google</span></div><div><span>⭐⭐⭐⭐⭐</span></div></div></div></div>',
+
+
+            '<div style="width: 300px;height:auto;background-color:rgb(236, 236, 236);display:flex;align-items:center;padding:2%;box-sizing:border-box;"><div style="width: 50px;height: 50px;border-radius:50%;overflow:hidden;"><img src="https://lh3.googleusercontent.com/a-/AD_cMMQIiSMzT4_FvgMq23JpUy-1FirZvLg8jQRLh2ayI0C-OTA=w40-h40-p-rp-mo-br100" width="100%" height="100%" style="object-position:center;transform: translate(50% 50%);" alt=""></div><div style=" width:270px;display: grid;margin-left:5%;align-items:center;height: 50%;"><div class="customer-popup"><h4 style="margin:0 0 2.5px 0;padding:0; font-size:15px;"><b>Mark M.</b></h4><p style="margin:0;padding:0;font-style: italic;line-height: 100%;"><span class = "multiline-ellipsis">"Rapid Auto Shipping provided me with an excellent service! I had to go through a couple of other companies before they came along, and I was impressed with their courtesy and smooth process. My automobile arrived in perfect condition."</span></p></div><div style="display:flex;align-items:center;gap:15px;" class="review_pop_up"><div style="height:auto;display:flex;align-items:center;gap:5px"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" preserveAspectRatio="xMidYMid"viewBox="0 0 256 262" id="google"><path fill="#4285F4"d="M255.878 133.451c0-10.734-.871-18.567-2.756-26.69H130.55v48.448h71.947c-1.45 12.04-9.283 30.172-26.69 42.356l-.244 1.622 38.755 30.023 2.685.268c24.659-22.774 38.875-56.282 38.875-96.027"></path><path fill="#34A853"d="M130.55 261.1c35.248 0 64.839-11.605 86.453-31.622l-41.196-31.913c-11.024 7.688-25.82 13.055-45.257 13.055-34.523 0-63.824-22.773-74.269-54.25l-1.531.13-40.298 31.187-.527 1.465C35.393 231.798 79.49 261.1 130.55 261.1"></path><path fill="#FBBC05"d="M56.281 156.37c-2.756-8.123-4.351-16.827-4.351-25.82 0-8.994 1.595-17.697 4.206-25.82l-.073-1.73L15.26 71.312l-1.335.635C5.077 89.644 0 109.517 0 130.55s5.077 40.905 13.925 58.602l42.356-32.782"></path><path fill="#EB4335"d="M130.55 50.479c24.514 0 41.05 10.589 50.479 19.438l36.844-35.974C195.245 12.91 165.798 0 130.55 0 79.49 0 35.393 29.301 13.925 71.947l42.211 32.783c10.59-31.477 39.891-54.251 74.414-54.251"></path></svg><span style="font-family: google;">Google</span></div><div><span>⭐⭐⭐⭐⭐</span></div></div></div></div>',
+
+
+                    // Add more feedback messages here
+                ];
+
+               const popup = document.querySelector('.popup');
+  const reviewText = document.querySelector('#review-text');
+  const yesBtn = document.querySelector('.yes-btn');
+  const noBtn = document.querySelector('.no-btn');
+  let timer;
+  let d;
+  
+  function showPopup() {
+    reviewText.innerHTML = reviews[Math.floor(Math.random() * reviews.length)];
+    popup.style.display = "block";
+    timer = setTimeout(hidePopup, 3000);
+  }
+  
+  function hidePopup() {
+    popup.style.display = "none";
+  }
+  
+  function resetTimer() {
+    clearTimeout(timer);
+    timer = setTimeout(hidePopup, 3000);    
+    clearInterval(d);
+    d = setInterval(showPopup, 5000 + Math.floor(Math.random() * 15000));
+  }
+  
+  yesBtn.addEventListener('click', function() {
+    console.log('Customer clicked "Good"');
+    hidePopup();
+  });
+  
+  noBtn.addEventListener('click', function() {
+    console.log('Customer clicked "Bad"');
+    hidePopup();
+  });
+  
+  popup.addEventListener('mouseover', function() {
+    clearTimeout(timer);
+    clearInterval(d);
+  });
+  
+  popup.addEventListener('mouseout', function() {
+    resetTimer();
+  });
+  
+  // Show the popup every 10-15 seconds
+  d = setInterval(showPopup, 5000 + Math.floor(Math.random() * 15000));
+  
+  
+  
+  
+  function addpattern() {
+  const phone_small = document.getElementById("phone_small");
+  phone_small.setAttribute("pattern", "^\\d{3}-\\d{3}-\\d{4}$");
+  phone_small.setAttribute("title", "Please enter a valid phone number in the format 123-456-7890");
+}
+function Removepattern() {
+  const phone_small = document.getElementById("phone_small");
+  // Remove the pattern attribute
+  phone_small.removeAttribute("pattern");
+}
+    </script>
 
 </body>
 

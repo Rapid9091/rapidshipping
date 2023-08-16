@@ -1,6 +1,18 @@
 <?php include_once "../../init.php"; ?>
 <?php
     if(isset($_POST['submit'])){
+        
+        $query = "SELECT * FROM form_qoute ORDER BY id DESC LIMIT 1";
+
+        $res = mysqli_query($con, $query);
+        if($res){
+            if(mysqli_num_rows($res)>0 ){
+                // output data of each row
+                $row = mysqli_fetch_assoc($res);
+            }
+        }
+                
+        
         $url = $_POST['url'];
         $ip = $_POST['ip'];
         $ship_from = $_POST['ship_from'];
@@ -15,7 +27,7 @@
         $user_email = $_POST['user_email'];
         $pick_up_date = $_POST['pick_up_date'];
         $phone_number = $_POST['phone_number'];
-        $qoute_id = rand(1,1000000);
+        $qoute_id = $row['qoute_id'] + 1;
         $route_distance = $_POST['path_distance'];
         
         $insert_query = "INSERT INTO form_qoute (username, email, phone, ship_from, ship_to, t_method, year, make, model, vehicle_size, vehicle_type, pickup_date, distance, qoute_id,url,ip) values ('$username','$user_email', '$phone_number', '$ship_from', '$ship_to', '$transporttype', '$year', '$make', '$models', '$vehicle_size', '$vehicle_type', '$pick_up_date', '$route_distance', '$qoute_id','$url','$ip')";

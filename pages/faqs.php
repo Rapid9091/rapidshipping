@@ -100,7 +100,7 @@
 
 
 
-        <h2>What Kind of Tracking Services Do You Offer?</h2>
+        <h2>What Kind of Tracking Services Do You Offer?*</h2>
         <p>You may access online monitoring at any time of day or night, which is always up to date. When you plan a shipment, you will be issued a unique booking number that will allow you to track the progress of your cargo online, and you may monitor your vehicle by phone, email, or Live Chat.</p>
 
 
@@ -120,7 +120,7 @@
 
 
 
-        <h2>How Do I Pay for Shipping My Car?</h2>
+        <h2>How Do I Pay for Shipping My Car?**</h2>
         <p>We accept bank/certified checks, all major credit cards, electronic transfers, postal money orders, and other reviews for the deposit or full pre-payment of your cargo. A balance owed at the delivery time can be paid in cash, bank/certified check, or postal money order made payable to the driver.</p>
 
 
@@ -244,9 +244,12 @@
         <h2>Is Rapid Auto Shipping Reliable Transportation Company?</h2>
         <p>Rapid Auto Shipping can help you to transport your vehicle! We can transport your vehicle to any United States and overseas location. Our representatives are standing by to answer your inquiries and assist you in scheduling car transport services immediately. For complimentary estimates, please contact us at +1 (833) 233-4447. You can use our online quotation tool to generate a cost if you prefer another way. It is simple to request a free, immediate estimate. There are only four necessary fields: car makes, model, pickup place, and delivery address. There is no need for any confidential details. We eagerly await your response.</p>
 
-
+<h2>Important Notes</h2>
+ <p><span style="color:tomato;">*</span> Most of the dispatcher have the GPS tracking facility but some time due to bad internet connectivity there might be delay in GPS response.</p>
+ <p><span style="color:tomato;">**</span> Payment terms may differ as per Dispatcher if the vehicle is not a regular one (modified) or Dispatcher have to face some challenges with thet transportation.</p>
 
     </div>
+   
     <?php include_once page_bottom ?>
    
 </body>

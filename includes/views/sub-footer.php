@@ -76,19 +76,18 @@
 <section class="main-footer">
     <div class="footer-urls-grid">
         <div class="footer-urls-grid-1">
-        <p class="footer-grid-headings">Quick Links</p>
+        <p class="footer-grid-headings">City To City</p>
             <ul>
-                <li><a href="<?= home_path(); ?>">Home</a></li>
-                <li><a href="<?= home_path(); ?>about-us">About Us</a></li>
-                <li><a href="<?= home_path(); ?>contact-us">Contact Us</a></li>
-                <li><a href="<?= home_path(); ?>services">Services</a></li>
-                <li><a href="<?= home_path(); ?>blogs">Blogs</a></li>
-                <li><a href="<?= home_path(); ?>states">States</a></li>
-                <li><a href="<?= home_path(); ?>cars">Cars</a></li>
-                <li><a href="<?= home_path(); ?>auto-transport-carriers">Reviews</a></li>
-                <li><a href="<?= home_path(); ?>state-to-state">State to state</a></li>
-                <li><a href="<?= home_path(); ?>blogs/auto-shipping-calculator">Calculator</a></li>
-
+            <li><a href="<?= home_path(); ?>chicago-to-san-diego-auto-transport">chicago-to-san-diego</a></li>
+                <li><a href="<?= home_path(); ?>atlanta-to-chicago-auto-transport">atlanta-to-chicago</a></li>
+                <li><a href="<?= home_path(); ?>atlanta-to-savannah-auto-transport">atlanta-to-savannah</a></li>
+                <li><a href="<?= home_path(); ?>dallas-to-chicago-auto-transport">dallas-to-chicago</a></li>
+                <li><a href="<?= home_path(); ?>houston-to-denver-auto-transport">houston-to-denver</a></li>
+                <li><a href="<?= home_path(); ?>chicago-to-minneapolis-auto-transport">chicago-to-minneapolis</a></li>
+                <li><a href="<?= home_path(); ?>atlanta-to-tampa-auto-transport">atlanta-to-tampa</a></li>
+                <li><a href="<?= home_path(); ?>new-orleans-to-houston-auto-transport">new-orleans-to-houston</a></li>
+                <li><a href="<?= home_path(); ?>atlanta-to-dallas-auto-transport">atlanta-to-dallas</a></li>
+                <li><a href="<?= home_path(); ?>detroit-to-las-vegas-auto-transport">detroit-to-las-vegas</a></li>
             </ul>
         </div>
         

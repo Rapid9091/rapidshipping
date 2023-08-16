@@ -10,7 +10,7 @@
 
 <script async="true" src="<?= get_js("VIEW_small-form.js"); ?>"></script>
 <script async="true" src="<?= get_js("VIEW_side-form.js"); ?>"></script>
-<script async="true" src="<?= get_js("review-home.js"); ?>"></script>
+<!--<script async="true" src="<?= get_js("review-home.js"); ?>"></script>-->
 
 
 

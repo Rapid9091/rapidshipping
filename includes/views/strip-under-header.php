@@ -3,7 +3,7 @@
         <div class="review-bar-under-header-grid-1">
             <img loading="lazy" src="<?= get_img() ?>lorry-icon.png"  width="60px" height="60px" alt="review rapid auto shipping" />
             <h2>2 million +</h2>
-            <p>Successful Delivery</p>
+            <p>Successful Deliveries</p>
         </div>
         <div class="review-bar-under-header-grid-1">
             <!-- <img loading="lazy" src="<?= get_img() ?>globe-icon1.png" alt="review rapid auto shipping" /> -->
