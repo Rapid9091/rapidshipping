@@ -162,7 +162,7 @@ if (isset($_GET['page_id'])) {
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2; /* start showing ellipsis when 3rd line is reached */
-  white-space: pre-wrap; /* let the text wrap preserving spaces */
+  white-space: pre-wrap; /* let the text wrap preserving spaces */}
         
     </style>
 </head>
